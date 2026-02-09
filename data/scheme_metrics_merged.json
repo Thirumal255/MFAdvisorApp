@@ -1,0 +1,1767 @@
+{
+  "Motilal Oswal 5 Year G-Sec Fund Of Fund": {
+    "parent_scheme_name": "Motilal Oswal 5 Year G-Sec Fund Of Fund",
+    "canonical_code": "149240",
+    "scheme_start_date": "12-10-2021",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal 5 Year G-Sec Fund Of Fund Direct -Growth",
+        "amfi_code": "149240"
+      },
+      {
+        "scheme_name": "Motilal Oswal 5 Year G-Sec Fund Of Fund Regular -Growth",
+        "amfi_code": "149241"
+      }
+    ],
+    "fund_type": "Fund of Fund (Domestic)",
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to seek returns by investing in units of Motilal Oswal 5 year G-sec ETF",
+    "asset_allocation": "Units of Motilal Oswal 5 Year G-Sec ETF 95-100%, Units of liquid/ debt schemes, Debt, Money Market Instruments, G-Secs, Triparty repo, Reverse Repo, units of Liquid and Debt schemes of Motilal Oswal Mutual Fund 0-5%",
+    "benchmark": "Nifty 5 yr Benchmark G-sec index",
+    "fund_managers": [
+      "Mr. Rakesh Shetty"
+    ],
+    "annual_expense": {
+      "Regular": "1",
+      "Direct": "1"
+    },
+    "exit_load": null,
+    "isins": [
+      "INF247L01AQ1"
+    ],
+    "metrics": {
+      "cagr": 0.05942298375245603,
+      "volatility": 0.11763085703039419,
+      "max_drawdown": -0.1587859013437513,
+      "sharpe": -0.004905313640577132,
+      "sortino": -0.0053588105397421384,
+      "rolling_1y": 0.07912012441147209,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 4.284931506849315,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal S&P BSE Enhanced Value ETF": {
+    "parent_scheme_name": "Motilal Oswal S&P BSE Enhanced Value ETF",
+    "canonical_code": "150517",
+    "scheme_start_date": "26-08-2022",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal BSE Enhanced Value ETF",
+        "amfi_code": "150517"
+      }
+    ],
+    "fund_type": null,
+    "riskometer": null,
+    "investment_objective": null,
+    "asset_allocation": null,
+    "benchmark": null,
+    "fund_managers": null,
+    "annual_expense": null,
+    "exit_load": null,
+    "isins": null,
+    "metrics": {
+      "cagr": 0.34342427413061394,
+      "volatility": 0.20245722824332188,
+      "max_drawdown": -0.21805391469561636,
+      "sharpe": 1.399921734530428,
+      "sortino": 1.6496592647462558,
+      "rolling_1y": 0.07516291282227927,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 3.4136986301369863,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal S&P BSE Enhanced Value Index Fund": {
+    "parent_scheme_name": "Motilal Oswal S&P BSE Enhanced Value Index Fund",
+    "canonical_code": "150519",
+    "scheme_start_date": "26-08-2022",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal BSE Enhanced Value Index Fund-Regular plan",
+        "amfi_code": "150519"
+      }
+    ],
+    "fund_type": null,
+    "riskometer": null,
+    "investment_objective": null,
+    "asset_allocation": null,
+    "benchmark": null,
+    "fund_managers": null,
+    "annual_expense": null,
+    "exit_load": null,
+    "isins": null,
+    "metrics": {
+      "cagr": 0.32788825383100173,
+      "volatility": 0.20162421625649016,
+      "max_drawdown": -0.22110143193629186,
+      "sharpe": 1.3286511848865208,
+      "sortino": 1.564362089425742,
+      "rolling_1y": 0.03527431529409286,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 3.4136986301369863,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal S & P BSE Financials ex Bank 30 Index Fund": {
+    "parent_scheme_name": "Motilal Oswal S & P BSE Financials ex Bank 30 Index Fund",
+    "canonical_code": "150443",
+    "scheme_start_date": "04-08-2022",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal BSE Financials ex Bank 30 Index Fund Direct Growth",
+        "amfi_code": "150443"
+      }
+    ],
+    "fund_type": null,
+    "riskometer": null,
+    "investment_objective": null,
+    "asset_allocation": null,
+    "benchmark": null,
+    "fund_managers": null,
+    "annual_expense": null,
+    "exit_load": null,
+    "isins": null,
+    "metrics": {
+      "cagr": 0.17273117922737646,
+      "volatility": 0.1764315524735942,
+      "max_drawdown": -0.1644593699744584,
+      "sharpe": 0.6389513533541483,
+      "sortino": 0.8440509412559775,
+      "rolling_1y": 0.07839055190133881,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 3.473972602739726,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal S&P BSE Healthcare ETF": {
+    "parent_scheme_name": "Motilal Oswal S&P BSE Healthcare ETF",
+    "canonical_code": "150445",
+    "scheme_start_date": "04-08-2022",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal BSE Healthcare ETF",
+        "amfi_code": "150445"
+      }
+    ],
+    "fund_type": null,
+    "riskometer": null,
+    "investment_objective": null,
+    "asset_allocation": null,
+    "benchmark": null,
+    "fund_managers": null,
+    "annual_expense": null,
+    "exit_load": null,
+    "isins": null,
+    "metrics": {
+      "cagr": 0.183773861840556,
+      "volatility": 0.13162526768438673,
+      "max_drawdown": -0.16149604109267576,
+      "sharpe": 0.940350314328272,
+      "sortino": 1.3338198853211571,
+      "rolling_1y": 0.02288381269187867,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 3.473972602739726,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal S&P BSE Low Volatility ETF": {
+    "parent_scheme_name": "Motilal Oswal S&P BSE Low Volatility ETF",
+    "canonical_code": "149921",
+    "scheme_start_date": "30-03-2022",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal BSE Low Volatility ETF",
+        "amfi_code": "149921"
+      }
+    ],
+    "fund_type": null,
+    "riskometer": null,
+    "investment_objective": null,
+    "asset_allocation": null,
+    "benchmark": null,
+    "fund_managers": null,
+    "annual_expense": null,
+    "exit_load": null,
+    "isins": null,
+    "metrics": {
+      "cagr": -0.248851770592172,
+      "volatility": 0.42612373969531026,
+      "max_drawdown": -0.80739048507293,
+      "sharpe": -0.7247936264076936,
+      "sortino": -0.5019950744559476,
+      "rolling_1y": -0.005000399600623262,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 3.8219178082191783,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal S&P BSE Quality ETF": {
+    "parent_scheme_name": "Motilal Oswal S&P BSE Quality ETF",
+    "canonical_code": "150520",
+    "scheme_start_date": "26-08-2022",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal BSE Quality ETF",
+        "amfi_code": "150520"
+      }
+    ],
+    "fund_type": null,
+    "riskometer": null,
+    "investment_objective": null,
+    "asset_allocation": null,
+    "benchmark": null,
+    "fund_managers": null,
+    "annual_expense": null,
+    "exit_load": null,
+    "isins": null,
+    "metrics": {
+      "cagr": 0.16716215844769544,
+      "volatility": 0.13502921398241383,
+      "max_drawdown": -0.2463240629055478,
+      "sharpe": 0.793622026576058,
+      "sortino": 1.0201781544027606,
+      "rolling_1y": -0.041383880597840816,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 3.4136986301369863,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal S&P BSE Quality Index Fund": {
+    "parent_scheme_name": "Motilal Oswal S&P BSE Quality Index Fund",
+    "canonical_code": "150522",
+    "scheme_start_date": "26-08-2022",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal BSE Quality Index Fund-Regular plan",
+        "amfi_code": "150522"
+      }
+    ],
+    "fund_type": null,
+    "riskometer": null,
+    "investment_objective": null,
+    "asset_allocation": null,
+    "benchmark": null,
+    "fund_managers": null,
+    "annual_expense": null,
+    "exit_load": null,
+    "isins": null,
+    "metrics": {
+      "cagr": 0.15826567106212308,
+      "volatility": 0.13399032176419462,
+      "max_drawdown": -0.246593730766782,
+      "sharpe": 0.7333788722073358,
+      "sortino": 0.9448864479977868,
+      "rolling_1y": -0.06420460024256369,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 3.4136986301369863,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal Developed Market Ex US ETFs Fund of Funds": {
+    "parent_scheme_name": "Motilal Oswal Developed Market Ex US ETFs Fund of Funds",
+    "canonical_code": "152090",
+    "scheme_start_date": "26-09-2023",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Developed Market Ex US ETFs Fund of Funds Regular Plan Growth",
+        "amfi_code": "152091"
+      },
+      {
+        "scheme_name": "Motilal Oswal Developed Market Ex US ETFs Fund of Funds Direct Plan Growth",
+        "amfi_code": "152090"
+      }
+    ],
+    "fund_type": null,
+    "riskometer": null,
+    "investment_objective": null,
+    "asset_allocation": null,
+    "benchmark": null,
+    "fund_managers": null,
+    "annual_expense": null,
+    "exit_load": null,
+    "isins": null,
+    "metrics": {
+      "cagr": 0.2550941887850737,
+      "volatility": 0.14453882774742563,
+      "max_drawdown": -0.14269212580722687,
+      "sharpe": 1.3497701055524753,
+      "sortino": 1.9397750847207464,
+      "rolling_1y": 0.31053469044992754,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 2.328767123287671,
+      "is_statistically_reliable": false
+    }
+  },
+  "Motilal Oswal ELSS Tax Saver Fund (formerly known as Motilal Oswal Long Term Equity Fund)": {
+    "parent_scheme_name": "Motilal Oswal ELSS Tax Saver Fund (formerly known as Motilal Oswal Long Term Equity Fund)",
+    "canonical_code": "133386",
+    "scheme_start_date": "22-01-2015",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal ELSS Tax Saver Fund - Direct Plan - Growth Option",
+        "amfi_code": "133386"
+      },
+      {
+        "scheme_name": "Motilal Oswal ELSS Tax Saver Fund - IDCW Payout",
+        "amfi_code": "133383"
+      },
+      {
+        "scheme_name": "Motilal Oswal ELSS Tax Saver Fund - Regular Plan - Growth Option",
+        "amfi_code": "133385"
+      },
+      {
+        "scheme_name": "Motilal Oswal ELSS Tax Saver Fund Direct - IDCW Payout",
+        "amfi_code": "133384"
+      }
+    ],
+    "fund_type": null,
+    "riskometer": null,
+    "investment_objective": null,
+    "asset_allocation": null,
+    "benchmark": null,
+    "fund_managers": null,
+    "annual_expense": null,
+    "exit_load": null,
+    "isins": null,
+    "metrics": {
+      "cagr": 0.16480806360559663,
+      "volatility": 0.17555688449814705,
+      "max_drawdown": -0.3772491365986758,
+      "sharpe": 0.5970034379751302,
+      "sortino": 0.7032568433385917,
+      "rolling_1y": -0.023685114980829036,
+      "rolling_3y": 0.1538782729451087,
+      "rolling_5y": 0.1524640472513188,
+      "fund_age_years": 11.01095890410959,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal Flexi Cap Fund": {
+    "parent_scheme_name": "Motilal Oswal Flexi Cap Fund",
+    "canonical_code": "129046",
+    "scheme_start_date": "29-04-2014",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Flexi Cap Fund Regular Plan-Growth Option",
+        "amfi_code": "129048"
+      },
+      {
+        "scheme_name": "Motilal Oswal Flexi cap Fund Direct Plan-Growth Option",
+        "amfi_code": "129046"
+      }
+    ],
+    "fund_type": "Flexicap Fund",
+    "riskometer": "Very High",
+    "investment_objective": "To achieve the Long-term capital growth & Investment in equity and equity related instruments across sectors and market-capitalization levels",
+    "asset_allocation": "Equity & Equity related instruments*65-100% ; Debt Instruments, Money Market Instruments, G-Secs, Cash and Cash at call, etc 0-35%",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": [
+      {
+        "name": "Mr. Siddharth Bothra & Mr. Niket Shah",
+        "type": "For Equity Component",
+        "from_date": "19-May-21"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt Component",
+        "from_date": "22/11/2022"
+      },
+      {
+        "name": "Mr. Ankush Sood",
+        "type": "For Foreign Securities",
+        "from_date": "25-Aug-21"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1",
+      "Direct": "1"
+    },
+    "exit_load": "Yes",
+    "isins": [
+      "INF247L01494"
+    ],
+    "metrics": {
+      "cagr": 0.1707342192719865,
+      "volatility": 0.1682456701848985,
+      "max_drawdown": -0.3709590773708332,
+      "sharpe": 0.6581698010432715,
+      "sortino": 0.7948143064455244,
+      "rolling_1y": 0.008672082654233026,
+      "rolling_3y": 0.12310246186358276,
+      "rolling_5y": 0.11545666391440834,
+      "fund_age_years": 11.745205479452055,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal Gold and Silver ETFs Fund of Funds": {
+    "parent_scheme_name": "Motilal Oswal Gold and Silver ETFs Fund of Funds",
+    "canonical_code": "150642",
+    "scheme_start_date": "19-10-2022",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Gold and Silver Passive Fund of Funds(Direct Plan)",
+        "amfi_code": "150642"
+      },
+      {
+        "scheme_name": "Motilal Oswal Gold and Silver Passive Fund of Funds(Regular Plan)",
+        "amfi_code": "150641"
+      }
+    ],
+    "fund_type": null,
+    "riskometer": null,
+    "investment_objective": null,
+    "asset_allocation": null,
+    "benchmark": null,
+    "fund_managers": null,
+    "annual_expense": null,
+    "exit_load": null,
+    "isins": null,
+    "metrics": {
+      "cagr": 0.4779068975647067,
+      "volatility": 0.17297038838879586,
+      "max_drawdown": -0.1300780335544284,
+      "sharpe": 2.4160603526272513,
+      "sortino": 3.466951345380474,
+      "rolling_1y": 0.8856246729054271,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 3.265753424657534,
+      "is_statistically_reliable": true
+    }
+  },
+  "MOTILAL OSWAL LARGE CAP FUND": {
+    "parent_scheme_name": "MOTILAL OSWAL LARGE CAP FUND",
+    "canonical_code": "152354",
+    "scheme_start_date": "12-02-2024",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Large Cap Direct Plan Growth",
+        "amfi_code": "152354"
+      },
+      {
+        "scheme_name": "Motilal Oswal Large Cap Direct Plan IDCW",
+        "amfi_code": "152351"
+      },
+      {
+        "scheme_name": "Motilal Oswal Large Cap Regular Plan Growth",
+        "amfi_code": "152352"
+      },
+      {
+        "scheme_name": "Motilal Oswal Large Cap Regular Plan IDCW",
+        "amfi_code": "152353"
+      }
+    ],
+    "fund_type": "An open-ended equity scheme predominantly investing in large cap stocks",
+    "riskometer": "Very High",
+    "investment_objective": "To achieve long term capital appreciation by predominantly investing in equity and equity related instruments of large cap companies. However, there can be no assurance that the investment objective of the scheme will be realized.",
+    "asset_allocation": "Equity and Equity related instruments of Large cap companies, Equity and Equity-related Instruments of companies other than Large cap companies including foreign companies, Debt and Money Market instruments (including cash and cash equivalents), Liquid and Debt Schemes of Mutual Fund, Units issued by REITs and InvITs.",
+    "benchmark": "NIFTY 100 TR Index",
+    "fund_managers": [
+      {
+        "name": "Atul Mehra",
+        "type": "For Equity Component",
+        "from_date": "06/02/2023"
+      },
+      {
+        "name": "Mr. Niket Shah",
+        "type": "For Equity Component",
+        "from_date": "06/02/2023"
+      },
+      {
+        "name": "Santosh Singh",
+        "type": "For Equity Component",
+        "from_date": "06/02/2023"
+      },
+      {
+        "name": "Mr. Ajay Khandelwal",
+        "type": "For Equity Component",
+        "from_date": "06/02/2023"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt Component",
+        "from_date": "06/02/2023"
+      },
+      {
+        "name": "Mr. Ankush Sood",
+        "type": "For International Equity",
+        "from_date": "06/02/2023"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.25",
+      "Direct": "2.25"
+    },
+    "exit_load": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment.",
+    "isins": [
+      "INF247L01CE3",
+      "INF247L01CF0",
+      "INF247L01CG8",
+      "INF247L01CB9",
+      "INF247L01CC7",
+      "INF247L01CD5"
+    ],
+    "metrics": {
+      "cagr": 0.18857290130629,
+      "volatility": 0.13098507464687828,
+      "max_drawdown": -0.10129749700096413,
+      "sharpe": 0.9815843648820964,
+      "sortino": 1.3033329268713862,
+      "rolling_1y": 0.08494226864792553,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 1.9479452054794522,
+      "is_statistically_reliable": false
+    }
+  },
+  "Motilal Oswal Midcap Fund": {
+    "parent_scheme_name": "Motilal Oswal Midcap Fund",
+    "canonical_code": "127042",
+    "scheme_start_date": "25-02-2014",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Midcap Fund-Regular Plan-Growth Option",
+        "amfi_code": "127039"
+      },
+      {
+        "scheme_name": "Motilal Oswal Midcap Fund-Direct Plan-Growth Option",
+        "amfi_code": "127042"
+      }
+    ],
+    "fund_type": "Midcap Fund",
+    "riskometer": "Very high",
+    "investment_objective": "To achieve Long-term capital growth & Investment in equity and equity related instruments in quality mid-cap companies having long-term competitive advantages and potential for growth.",
+    "asset_allocation": "Equity and equity related instruments selected between Top 101st and 250th listed companies by full market capitalization 65-100%; Equity and equity related 0 -35%; Debt, Money Market Instruments, G-Sec,Bonds, Cash and Cash Equivalents, etc.instruments* other than above 0-35%; Units issued by REITs and InvITs 0-10%.",
+    "benchmark": "Nifty Midcap 150 Index TRI",
+    "fund_managers": [
+      {
+        "name": "Mr. Niket Shah",
+        "type": "For Equity Component",
+        "from_date": "01/07/2020"
+      },
+      {
+        "name": "Mr. Abhiroop Mukherjee",
+        "type": "For Debt Component",
+        "from_date": "24-02-2014 (Since Inception)"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.25"
+    },
+    "exit_load": "Yes",
+    "isins": [
+      "INF247L01437"
+    ],
+    "metrics": {
+      "cagr": 0.21822874410824178,
+      "volatility": 0.1756761267474397,
+      "max_drawdown": -0.37231973798679696,
+      "sharpe": 0.9006843845989324,
+      "sortino": 1.081984078765114,
+      "rolling_1y": -0.04502992622322621,
+      "rolling_3y": 0.22979120642319883,
+      "rolling_5y": 0.1885365007604174,
+      "fund_age_years": 11.917808219178083,
+      "is_statistically_reliable": true
+    }
+  },
+  "MOTILAL OSWAL MULTI CAP FUND": {
+    "parent_scheme_name": "MOTILAL OSWAL MULTI CAP FUND",
+    "canonical_code": "152651",
+    "scheme_start_date": "21-06-2024",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Multi Cap Fund Regular Plan Growth",
+        "amfi_code": "152650"
+      },
+      {
+        "scheme_name": "Motilal Oswal Multi Cap Fund Regular Plan IDCW",
+        "amfi_code": "152649"
+      },
+      {
+        "scheme_name": "Motilal Oswal Multi Cap Fund-Direct Plan Growth",
+        "amfi_code": "152651"
+      },
+      {
+        "scheme_name": "Motilal Oswal Multi Cap Fund-Direct Plan IDCW",
+        "amfi_code": "152652"
+      }
+    ],
+    "fund_type": "An open-ended equity scheme investing across large cap, mid cap, small cap stocks",
+    "riskometer": "Very High",
+    "investment_objective": "To achieve long term capital appreciation by predominantly investing in equity and equity related instruments of large, mid and small cap companies. However, there can be no assurance that the investment objective of the scheme will be realized.",
+    "asset_allocation": "Equity & Equity related instruments of Large Cap, Mid Cap, Small Cap companies, Debt and Money Market instruments, Units of REITs & InvITs",
+    "benchmark": "Nifty 500 Multicap 50:25:25 Index TR",
+    "fund_managers": [
+      "Mr. Ajay Khandelwal",
+      "Mr. Rakesh Shetty",
+      "Mr. Niket Shah",
+      "Mr. Santosh Singh",
+      "Mr. Atul Mehra",
+      "Mr. Sunil Sawant"
+    ],
+    "annual_expense": {
+      "Regular": "2.25",
+      "Direct": "2.25"
+    },
+    "exit_load": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment.",
+    "isins": [
+      "INF247L01CO2",
+      "INF247L01CJ2",
+      "INF247L01CK0",
+      "INF247L01CL8",
+      "INF247L01CM6",
+      "INF247L01CN4"
+    ],
+    "metrics": {
+      "cagr": 0.12665489551224796,
+      "volatility": 0.18155545435212367,
+      "max_drawdown": -0.18867911261118733,
+      "sharpe": 0.3671324320720871,
+      "sortino": 0.5254126609507009,
+      "rolling_1y": 0.07948307290702727,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 1.5917808219178082,
+      "is_statistically_reliable": false
+    }
+  },
+  "Motilal Oswal Nasdaq 100 ETF": {
+    "parent_scheme_name": "Motilal Oswal Nasdaq 100 ETF",
+    "canonical_code": "114984",
+    "scheme_start_date": "30-03-2011",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nasdaq 100 ETF (MOFN100)",
+        "amfi_code": "114984"
+      }
+    ],
+    "fund_type": "ETF",
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme seeks investment return that corresponds (before fees and expenses) generally to the performance of the Nasdaq 100 TRI Index, subject to tracking",
+    "asset_allocation": "Securities constituting NASDAQ-100 Index - Overseas Debt and Money market instruments, and cash at call, mutual fund schemes or exchange traded funds based on",
+    "benchmark": "^NASDAQ 100 TRI (INR)",
+    "fund_managers": [
+      {
+        "name": "Mr. Ankush Sood",
+        "type": "For Equity Component",
+        "from_date": "29-Mar-11"
+      }
+    ],
+    "annual_expense": {
+      "Direct": "1"
+    },
+    "exit_load": "Yes",
+    "isins": [
+      "INF247L01AP3"
+    ],
+    "metrics": {
+      "cagr": 0.05470027250985088,
+      "volatility": 0.31719416297344966,
+      "max_drawdown": -0.9175158844304168,
+      "sharpe": -0.01670814948316917,
+      "sortino": -0.013785249650159951,
+      "rolling_1y": 0.35462098411449583,
+      "rolling_3y": 0.18091755964985956,
+      "rolling_5y": -0.10398654892293513,
+      "fund_age_years": 14.830136986301369,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal Nasdaq 100 Fund of Fund": {
+    "parent_scheme_name": "Motilal Oswal Nasdaq 100 Fund of Fund",
+    "canonical_code": "145552",
+    "scheme_start_date": "03-12-2018",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nasdaq 100 Fund of Fund- Regular Plan Growth",
+        "amfi_code": "145551"
+      },
+      {
+        "scheme_name": "Motilal Oswal Nasdaq 100 Fund of Fund- Direct Plan Growth",
+        "amfi_code": "145552"
+      }
+    ],
+    "fund_type": "Fund of Funds(Domestic)",
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to seek returns by investing in units of motilal oswal Nasdaq 100 ETF.",
+    "asset_allocation": "Units of Motilal Oswal Nasdaq 100 ETF 95-100%, Units of liquid/ debt schemes, Debt, Money Market Instruments, G-Secs, Cash and Cash at call, etc 0-5%",
+    "benchmark": "^NASDAQ 100 TRI (INR)",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "29-Nov-18"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt Component",
+        "from_date": "22/11/2022"
+      }
+    ],
+    "annual_expense": {},
+    "exit_load": null,
+    "isins": [
+      "INF247L01718"
+    ],
+    "metrics": {
+      "cagr": 0.24510012702744044,
+      "volatility": 0.22517914108608048,
+      "max_drawdown": -0.3035043301401502,
+      "sharpe": 0.8220127589734486,
+      "sortino": 1.103209893026506,
+      "rolling_1y": 0.33458052754252887,
+      "rolling_3y": 0.18362236904527873,
+      "rolling_5y": null,
+      "fund_age_years": 7.145205479452055,
+      "is_statistically_reliable": true
+    }
+  },
+  "MOTILAL OSWAL NIFTY 200 MOMENTUM 30 ETF": {
+    "parent_scheme_name": "MOTILAL OSWAL NIFTY 200 MOMENTUM 30 ETF",
+    "canonical_code": "149801",
+    "scheme_start_date": "16-02-2022",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty 200 Momentum 30 ETF",
+        "amfi_code": "149801"
+      }
+    ],
+    "fund_type": "Equity Fund",
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, closely correspond to the total returns of the securities as represented by the Nifty 200 Momentum 30 Total Return Index, subject to tracking error.",
+    "asset_allocation": "Constituents of Nifty 200 Momentum 30 Index 95%-100%, Units of Liquid schemes / debt schemes, debt and Money Market Instrument 0-5%",
+    "benchmark": "Nifty 200 Momentum 30 Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "Domestic Equity",
+        "from_date": "10-Feb-22"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "Debt Component",
+        "from_date": "22/11/2022"
+      }
+    ],
+    "annual_expense": {
+      "Direct": "1"
+    },
+    "exit_load": "Yes",
+    "isins": [
+      "INF247L01AX7"
+    ],
+    "metrics": {
+      "cagr": -0.25755064454581533,
+      "volatility": 0.4470481630996719,
+      "max_drawdown": -0.8299249803006512,
+      "sharpe": -0.7103275905308118,
+      "sortino": -0.5053634255223927,
+      "rolling_1y": -0.0899391804938039,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 3.936986301369863,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal Nifty 50 ETF": {
+    "parent_scheme_name": "Motilal Oswal Nifty 50 ETF",
+    "canonical_code": "113069",
+    "scheme_start_date": "30-07-2010",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty 50 ETF",
+        "amfi_code": "113069"
+      }
+    ],
+    "fund_type": "ETF",
+    "riskometer": "Very high",
+    "investment_objective": "The Scheme seeks investment return that corresponds (before fees and expenses) generally to the performance of the Nifty 50 Index, subject to tracking error.",
+    "asset_allocation": "Securities constituting Nifty 50 Index 95-100%, Debt and Money market instruments and cash at call 0-5%",
+    "benchmark": "Nifty 50 TRI",
+    "fund_managers": [
+      "Mr. Swapnil Mayekar"
+    ],
+    "annual_expense": {
+      "Direct": "1"
+    },
+    "exit_load": "Yes",
+    "isins": [
+      "INF247L01536"
+    ],
+    "metrics": {
+      "cagr": 0.08129837189681233,
+      "volatility": 0.18467862425301115,
+      "max_drawdown": -0.41678593904992356,
+      "sharpe": 0.11532667618117727,
+      "sortino": 0.1269501333345104,
+      "rolling_1y": 0.03891035851054703,
+      "rolling_3y": 0.109792890784425,
+      "rolling_5y": 0.11950895317100652,
+      "fund_age_years": 15.495890410958904,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal Nifty 50 Index Fund": {
+    "parent_scheme_name": "Motilal Oswal Nifty 50 Index Fund",
+    "canonical_code": "147794",
+    "scheme_start_date": "26-12-2019",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty 50 Index Fund - Regular plan - Growth",
+        "amfi_code": "147795"
+      },
+      {
+        "scheme_name": "Motilal Oswal Nifty 50 Index Fund - Direct plan - Growth",
+        "amfi_code": "147794"
+      }
+    ],
+    "fund_type": "Index fund",
+    "riskometer": "Very High",
+    "investment_objective": "The schemes seeks investment return that corresponds generally to the performance of Nifty 50 Index Subject to tracking error.",
+    "asset_allocation": {
+      "Equity and equity related securities covered by Nifty Next 50 Index": "95-100%",
+      "Debt, Money Market Instruments, G-Secs, Cash and Cash at call, etc": "0-5%"
+    },
+    "benchmark": "Nifty Next 50 Index TRI",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "23-Dec-19"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1",
+      "Direct": "1"
+    },
+    "exit_load": "Yes",
+    "isins": [
+      "INF247L01AE7"
+    ],
+    "metrics": {
+      "cagr": 0.13810086331846305,
+      "volatility": 0.1768114988166363,
+      "max_drawdown": -0.3727838860582223,
+      "sharpe": 0.44171823575489366,
+      "sortino": 0.5137253759225855,
+      "rolling_1y": 0.018665608135862488,
+      "rolling_3y": 0.10833870873838558,
+      "rolling_5y": null,
+      "fund_age_years": 6.082191780821918,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal Nifty 500 ETF": {
+    "parent_scheme_name": "Motilal Oswal Nifty 500 ETF",
+    "canonical_code": "152106",
+    "scheme_start_date": "06-10-2023",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty 500 ETF",
+        "amfi_code": "152106"
+      }
+    ],
+    "fund_type": "An open ended scheme replicating / tracking the Nifty 500 Total Return Index",
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, correspond to the total returns of the securities as represented by the Nifty 500 Total Return Index, subject to tracking error. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Constituents of Nifty 500 Index Min 95% Max 100% Units of Liquid Schemes and Money Market Instruments Min 0% Max 5%",
+    "benchmark": "Nifty 500 Total Return Index",
+    "fund_managers": [
+      "Mr. Swapnil Mayekar",
+      "Mr. Rakesh Shetty"
+    ],
+    "annual_expense": {
+      "Direct": "1.00"
+    },
+    "exit_load": "Nil",
+    "isins": [
+      "INF247L01BU1"
+    ],
+    "metrics": {
+      "cagr": 0.13361727426971148,
+      "volatility": 0.13870804206942688,
+      "max_drawdown": -0.1861951893431432,
+      "sharpe": 0.5307354438242606,
+      "sortino": 0.6466219185565097,
+      "rolling_1y": 0.012434631598976509,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 2.3013698630136985,
+      "is_statistically_reliable": false
+    }
+  },
+  "Motilal Oswal Nifty 500 Fund": {
+    "parent_scheme_name": "Motilal Oswal Nifty 500 Fund",
+    "canonical_code": "147625",
+    "scheme_start_date": "11-09-2019",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty 500 Index Fund - Direct Plan",
+        "amfi_code": "147625"
+      },
+      {
+        "scheme_name": "Motilal Oswal Nifty 500 Index Fund - Regular Plan",
+        "amfi_code": "147626"
+      }
+    ],
+    "fund_type": null,
+    "riskometer": null,
+    "investment_objective": null,
+    "asset_allocation": null,
+    "benchmark": null,
+    "fund_managers": null,
+    "annual_expense": null,
+    "exit_load": null,
+    "isins": null,
+    "metrics": {
+      "cagr": 0.16268945556939163,
+      "volatility": 0.17442381624202424,
+      "max_drawdown": -0.373119836169762,
+      "sharpe": 0.5887352873125045,
+      "sortino": 0.6603457591477471,
+      "rolling_1y": -0.008401920662169715,
+      "rolling_3y": 0.12074189932316748,
+      "rolling_5y": null,
+      "fund_age_years": 6.372602739726028,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal Nifty 500 Momentum 50 ETF": {
+    "parent_scheme_name": "Motilal Oswal Nifty 500 Momentum 50 ETF",
+    "canonical_code": "152874",
+    "scheme_start_date": "30-09-2024",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty 500 Momentum 50 ETF",
+        "amfi_code": "152874"
+      }
+    ],
+    "fund_type": "An open-ended fund replicating/tracking the Nifty 500 Momentum 50 Total Return Index",
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, correspond to the total returns of the securities as represented by Nifty 500 Momentum 50 Total Return Index, subject to tracking error. However, there can be no assurance or guarantee that the investment objectives of the scheme will be achieved.",
+    "asset_allocation": "Constituents of Nifty 500 Momentum 50 Index, Units of Liquid schemes and Money Market instruments",
+    "benchmark": "Nifty 500 Momentum 50 Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Rakesh Shetty",
+        "type": "For Debt Component",
+        "from_date": "Since Inception"
+      }
+    ],
+    "annual_expense": {
+      "Direct": "1.00"
+    },
+    "exit_load": "Nil",
+    "isins": [
+      "INF247L01DK8"
+    ],
+    "metrics": {
+      "cagr": -0.1720831336550095,
+      "volatility": 0.20275135618870377,
+      "max_drawdown": -0.31811028515057604,
+      "sharpe": -1.1446687115572542,
+      "sortino": -1.5411403489956035,
+      "rolling_1y": null,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 1.3150684931506849,
+      "is_statistically_reliable": false
+    }
+  },
+  "Motilal Oswal Nifty 500 Momentum 50 Index Fund": {
+    "parent_scheme_name": "Motilal Oswal Nifty 500 Momentum 50 Index Fund",
+    "canonical_code": "152875",
+    "scheme_start_date": "30-09-2024",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty 500 Momentum 50 Index Fund-Direct Plan-Growth",
+        "amfi_code": "152875"
+      },
+      {
+        "scheme_name": "Motilal Oswal Nifty 500 Momentum 50 Index Fund-Regular Plan-Growth",
+        "amfi_code": "152876"
+      }
+    ],
+    "fund_type": "An open-ended fund replicating/tracking the Nifty 500 Momentum 50 Total Return Index",
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, correspond to the total returns of the securities as represented by Nifty 500 Momentum 50 Total Return Index, subject to tracking error.However, there can be no assurance or guarantee that the investment objectives of the scheme will be achieved.",
+    "asset_allocation": "Constituents of Nifty 500 Momentum 50 Index, Units of Liquid schemes and Money Market instruments",
+    "benchmark": "Nifty 500 Momentum 50 Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Rakesh Shetty",
+        "type": "For Debt Component",
+        "from_date": "Since Inception"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1.00",
+      "Direct": "1.00"
+    },
+    "exit_load": "1%- If redeemed on or before 15 days from the date of allotment. Nil- If redeemed after 15 days from the date of allotment.",
+    "isins": [
+      "INF247L01DL6",
+      "INF247L01DM4"
+    ],
+    "metrics": {
+      "cagr": -0.16889220712953124,
+      "volatility": 0.20225145609488784,
+      "max_drawdown": -0.31619537275064263,
+      "sharpe": -1.1317209356561797,
+      "sortino": -1.522476057540537,
+      "rolling_1y": null,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 1.3150684931506849,
+      "is_statistically_reliable": false
+    }
+  },
+  "Motilal Oswal Nifty Bank Index Fund": {
+    "parent_scheme_name": "Motilal Oswal Nifty Bank Index Fund",
+    "canonical_code": "147619",
+    "scheme_start_date": "11-09-2019",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty Bank Index - Regular Plan",
+        "amfi_code": "147619"
+      }
+    ],
+    "fund_type": "Index fund",
+    "riskometer": "Very high",
+    "investment_objective": "The schemes seeks investment return that corresponds to the performance of Nifty Bank Index Subject to tracking error",
+    "asset_allocation": {
+      "Equity and equity related securities covered by Nifty Bank Index": "95-100%",
+      "Debt, Money Market Instruments, G-Secs, Cash and Cash at call, etc": "0-5%"
+    },
+    "benchmark": "Nifty Bank TRI",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "6-Sep-19"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1",
+      "Direct": "1"
+    },
+    "exit_load": "Yes",
+    "isins": [
+      "INF247L01890"
+    ],
+    "metrics": {
+      "cagr": 0.11853877069646424,
+      "volatility": 0.23574009051004743,
+      "max_drawdown": -0.4693051058109353,
+      "sharpe": 0.24831911521629482,
+      "sortino": 0.29775387539465287,
+      "rolling_1y": 0.08912667693336429,
+      "rolling_3y": 0.11150159487183764,
+      "rolling_5y": null,
+      "fund_age_years": 6.372602739726028,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal Nifty India Defence Index Fund": {
+    "parent_scheme_name": "Motilal Oswal Nifty India Defence Index Fund",
+    "canonical_code": "152712",
+    "scheme_start_date": "09-07-2024",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty India Defence Index Fund Direct Plan Growth",
+        "amfi_code": "152712"
+      },
+      {
+        "scheme_name": "Motilal Oswal Nifty India Defence Index Fund Regular Plan Growth",
+        "amfi_code": "152711"
+      }
+    ],
+    "fund_type": "An open-ended fund replicating/tracking the Nifty India Defence Total Return Index",
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, correspond to the total returns of the securities as represented by Nifty India Defence Total Return Index, subject to tracking error. However, there can be no assurance or guarantee that the investment objectives of the scheme will be achieved.",
+    "asset_allocation": "Constituents of Nifty India Defence Index, Units of Liquid schemes and Money Market instruments",
+    "benchmark": "Nifty India Defence Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt Component",
+        "from_date": "Since Inception"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1.00",
+      "Direct": "1.00"
+    },
+    "exit_load": "1% if redeemed on or before 15 days of allotment, Nil thereafter.",
+    "isins": [
+      "INF247L01CW5",
+      "INF247L01CV7"
+    ],
+    "metrics": {
+      "cagr": -0.054549239051302156,
+      "volatility": 0.28742718242214454,
+      "max_drawdown": -0.3818017819011855,
+      "sharpe": -0.39853307570285257,
+      "sortino": -0.6127213961737773,
+      "rolling_1y": 0.010756394903872257,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 1.5424657534246575,
+      "is_statistically_reliable": false
+    }
+  },
+  "Motilal Oswal Nifty Microcap 250 Index Fund": {
+    "parent_scheme_name": "Motilal Oswal Nifty Microcap 250 Index Fund",
+    "canonical_code": "151814",
+    "scheme_start_date": "11-07-2023",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty Microcap 250 Index Fund- Regular- Growth Option",
+        "amfi_code": "151815"
+      },
+      {
+        "scheme_name": "Motilal Oswal Nifty Microcap 250 Index Fund- Direct- Growth Option",
+        "amfi_code": "151814"
+      }
+    ],
+    "fund_type": "An open-ended fund replicating / tracking the Nifty Microcap 250 Total Return Index",
+    "riskometer": "Very high",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, correspond to the total returns of the securities as represented by Nifty Microcap 250 Total Return Index, subject to tracking error. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "Constituents of Nifty Microcap 250 Index  95% - 100%, Units of liquid schemes and/or money market instruments  0%-5%",
+    "benchmark": "Nifty Microcap 250 Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "05/06/2023"
+      }
+    ],
+    "annual_expense": {},
+    "exit_load": "2.25",
+    "isins": [
+      "INF247L01BR7",
+      "INF247L01BQ9"
+    ],
+    "metrics": {
+      "cagr": 0.1676112589508869,
+      "volatility": 0.21071306220246105,
+      "max_drawdown": -0.2683322252339795,
+      "sharpe": 0.51070046548652,
+      "sortino": 0.5927840555166877,
+      "rolling_1y": -0.12319681464130117,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 2.5397260273972604,
+      "is_statistically_reliable": false
+    }
+  },
+  "Motilal Oswal Nifty Midcap 100 ETF": {
+    "parent_scheme_name": "Motilal Oswal Nifty Midcap 100 ETF",
+    "canonical_code": "148620",
+    "scheme_start_date": "15-12-2020",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty 5 year Benchmark G-sec ETF",
+        "amfi_code": "148620"
+      }
+    ],
+    "fund_type": "ETF",
+    "riskometer": "Moderate",
+    "investment_objective": "The Scheme seeks investment return that closely corresponds (before fees and expenses) total returns of the securities as represented by the Nifty 5 yr Benchmark G-Sec Index (Underlying Index), subject to tracking error.",
+    "asset_allocation": "Securities constituting Nifty 5 yr Benchmark G- Sec Index 95-100%, Money Market instruments, units of liquid scheme or Motilal Oswal Liquid Fund including TREPS 0-5%",
+    "benchmark": "Nifty 5 yr Benchmark G-Sec Index",
+    "fund_managers": [
+      "Mr. Abhiroop Mukherjee"
+    ],
+    "annual_expense": {
+      "Direct": "1"
+    },
+    "exit_load": "Yes",
+    "isins": [
+      "INF247L01AK4"
+    ],
+    "metrics": {
+      "cagr": 0.055606803372032276,
+      "volatility": 0.021888535165955757,
+      "max_drawdown": -0.03535204273447572,
+      "sharpe": -0.20070765789757652,
+      "sortino": -0.246120332000011,
+      "rolling_1y": 0.07339661244167428,
+      "rolling_3y": 0.060223634660687475,
+      "rolling_5y": null,
+      "fund_age_years": 5.109589041095891,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal Nifty Midcap 150 Index Fund": {
+    "parent_scheme_name": "Motilal Oswal Nifty Midcap 150 Index Fund",
+    "canonical_code": "147622",
+    "scheme_start_date": "11-09-2019",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty Midcap 150 Index Fund - Regular Plan",
+        "amfi_code": "147621"
+      },
+      {
+        "scheme_name": "Motilal Oswal Nifty Midcap 150 Index Fund - Direct Plan",
+        "amfi_code": "147622"
+      }
+    ],
+    "fund_type": "Index fund",
+    "riskometer": "Very high",
+    "investment_objective": "The schemes seeks investment return that corresponds generally to the performance of Nifty Mid cap 150 Index Subject to tracking error.",
+    "asset_allocation": {
+      "Equity and equity related securities covered by Nifty Midcap 150 Index": "95-100%",
+      "Debt, Money Market Instruments, G-Secs, Cash and Cash at call, etc": "0-5%"
+    },
+    "benchmark": "Nifty Midcap 150 TRI",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "6-Sep-19"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1",
+      "Direct": "1"
+    },
+    "exit_load": "Yes",
+    "isins": [
+      "INF247L01916"
+    ],
+    "metrics": {
+      "cagr": 0.22981003900042074,
+      "volatility": 0.18554326750554928,
+      "max_drawdown": -0.3718523512556885,
+      "sharpe": 0.915204530368325,
+      "sortino": 1.0119868903349118,
+      "rolling_1y": -0.012002139000026002,
+      "rolling_3y": 0.1755513810450009,
+      "rolling_5y": null,
+      "fund_age_years": 6.372602739726028,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal Nifty MidSmall Healthcare Index Fund": {
+    "parent_scheme_name": "Motilal Oswal Nifty MidSmall Healthcare Index Fund",
+    "canonical_code": "153023",
+    "scheme_start_date": "25-11-2024",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty MidSmall Healthcare Index Fund- Direct Plan-Growth",
+        "amfi_code": "153023"
+      },
+      {
+        "scheme_name": "Motilal Oswal Nifty MidSmall Healthcare Index Fund-Regular Plan-Growth",
+        "amfi_code": "153022"
+      }
+    ],
+    "fund_type": "Index Fund",
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, correspond to the total returns of the securities as represented by Nifty MidSmall Healthcare Total Return Index, subject to tracking error. However, there can be no assurance or guarantee that the investment objectives of the scheme will be achieved.",
+    "asset_allocation": "Constituents of Nifty MidSmall Healthcare Index Fund - 95 -100 %; Units of Liquid schemes and Money Market instruments - 0 - 5%",
+    "benchmark": "Nifty MidSmall Healthcare Total Return Index",
+    "fund_managers": [
+      "Rakesh Shetty (For Debt Component)",
+      "Swapnil Mayekar (For Equity Component)"
+    ],
+    "annual_expense": {},
+    "exit_load": "1%- If redeemed on or before 15 days from the date of allotment. Nil- If redeemed after 15 days from the date of allotment",
+    "isins": [
+      "INF247L01EA7",
+      "INF247L01DT9"
+    ],
+    "metrics": {
+      "cagr": -0.009747285489332458,
+      "volatility": 0.16472701590538863,
+      "max_drawdown": -0.17480039554644014,
+      "sharpe": -0.42341133362964567,
+      "sortino": -0.5399123035161502,
+      "rolling_1y": null,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 1.1616438356164382,
+      "is_statistically_reliable": false
+    }
+  },
+  "Motilal Oswal Nifty MidSmall India Consumption Index Fund": {
+    "parent_scheme_name": "Motilal Oswal Nifty MidSmall India Consumption Index Fund",
+    "canonical_code": "153025",
+    "scheme_start_date": "25-11-2024",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty MidSmall India Consumption Index Fund - Direct Plan- Growth",
+        "amfi_code": "153025"
+      },
+      {
+        "scheme_name": "Motilal Oswal Nifty MidSmall India Consumption Index Fund-Regular Plan-Growth",
+        "amfi_code": "153024"
+      }
+    ],
+    "fund_type": "Index Fund",
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, correspond to the total returns of the securities as represented by Nifty MidSmall India Consumption Total Return Index, subject to tracking error. However, there can be no assurance or guarantee that the investment objectives of the scheme will be achieved.",
+    "asset_allocation": "Constituents of Nifty MidSmall India Consumption Index - 95 -100 %, Units of Liquid schemes and Money Market instruments - 0 - 5%",
+    "benchmark": "Nifty MidSmall India Consumption Total Return Index",
+    "fund_managers": [
+      "Swapnil Mayekar (For Equity Component)",
+      "Rakesh Shetty (For Debt Component)"
+    ],
+    "annual_expense": {
+      "Regular": "1.00"
+    },
+    "exit_load": "1% if redeemed on or before 15 days of allotment, Nil - If redeemed after 15 days from the date of allotment",
+    "isins": [
+      "INF247L01DU7",
+      "INF247L01DV5"
+    ],
+    "metrics": {
+      "cagr": -0.10068191486918521,
+      "volatility": 0.1630258987481719,
+      "max_drawdown": -0.18043992001454287,
+      "sharpe": -0.9856220152933648,
+      "sortino": -1.305325323061934,
+      "rolling_1y": null,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 1.1616438356164382,
+      "is_statistically_reliable": false
+    }
+  },
+  "Motilal Oswal Nifty MidSmall IT and Telecom Index Fund": {
+    "parent_scheme_name": "Motilal Oswal Nifty MidSmall IT and Telecom Index Fund",
+    "canonical_code": "153029",
+    "scheme_start_date": "25-11-2024",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty MidSmall IT and Telecom Index Fund - Direct Plan- Growth",
+        "amfi_code": "153029"
+      },
+      {
+        "scheme_name": "Motilal Oswal Nifty MidSmall IT and Telecom Index Fund-Regular Plan-Growth",
+        "amfi_code": "153028"
+      }
+    ],
+    "fund_type": "Index Fund",
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, correspond to the total returns of the securities as represented by Nifty MidSmall IT and Telecom Total Return Index, subject to tracking error. However, there can be no assurance or guarantee that the investment objectives of the scheme will be achieved.",
+    "asset_allocation": "Constituents of Nifty MidSmall IT and Telecom Index - 95 -100 %; Liquid schemes/ debt schemes, debt and/or money market instruments - 0 - 5%",
+    "benchmark": "Nifty MidSmall IT and Telecom Total Return Index",
+    "fund_managers": [
+      "Rakesh Shetty (For Debt Component)",
+      "Swapnil Mayekar (For Equity Component)"
+    ],
+    "annual_expense": {
+      "Regular": "1.00"
+    },
+    "exit_load": "1%- If redeemed on or before 15 days from the date of allotment. Nil- If redeemed after 15 days from the date of allotment",
+    "isins": [
+      "INF247L01DY9",
+      "INF247L01DZ6"
+    ],
+    "metrics": {
+      "cagr": -0.07898957369395376,
+      "volatility": 0.225127494154884,
+      "max_drawdown": -0.2825907294286741,
+      "sharpe": -0.6173816051020904,
+      "sortino": -0.9105328781689895,
+      "rolling_1y": null,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 1.1616438356164382,
+      "is_statistically_reliable": false
+    }
+  },
+  "Motilal Oswal Nifty Next 50 Index Fund": {
+    "parent_scheme_name": "Motilal Oswal Nifty Next 50 Index Fund",
+    "canonical_code": "147796",
+    "scheme_start_date": "26-12-2019",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty Next 50 Index Fund - Regular plan - Growth",
+        "amfi_code": "147797"
+      },
+      {
+        "scheme_name": "Motilal Oswal Nifty Next 50 Index Fund - Direct plan - Growth",
+        "amfi_code": "147796"
+      }
+    ],
+    "fund_type": "Index fund",
+    "riskometer": "Very high",
+    "investment_objective": "The schemes seeks investment return that corresponds generally to the performance of Nifty Next 50 Index Subject to tracking error.",
+    "asset_allocation": {
+      "Equity and equity related securities covered by Nifty Next 50 Index": "95-100%",
+      "Debt, Money Market Instruments, G-Secs, Cash and Cash at call, etc": "0-5%"
+    },
+    "benchmark": "Nifty Next 50 Index TRI",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "23-Dec-19"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1",
+      "Direct": "1"
+    },
+    "exit_load": "Yes",
+    "isins": [
+      "INF247L01AC1"
+    ],
+    "metrics": {
+      "cagr": 0.1534156500368724,
+      "volatility": 0.19149336876124665,
+      "max_drawdown": -0.3556090571481485,
+      "sharpe": 0.4878270753769169,
+      "sortino": 0.5425085214871861,
+      "rolling_1y": -0.06145545271311681,
+      "rolling_3y": 0.12858456931384477,
+      "rolling_5y": null,
+      "fund_age_years": 6.082191780821918,
+      "is_statistically_reliable": true
+    }
+  },
+  "Motilal Oswal Nifty Realty ETF": {
+    "parent_scheme_name": "Motilal Oswal Nifty Realty ETF",
+    "canonical_code": "152541",
+    "scheme_start_date": "21-03-2024",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty Realty ETF",
+        "amfi_code": "152541"
+      }
+    ],
+    "fund_type": "An open-ended scheme replicating/tracking the Nifty Realty TR Index",
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, closely correspond to the total returns of the securities as represented by Nifty Realty Total Return Index, subject to tracking error. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Constituents of Nifty Realty Index and Units of Liquid Schemes and Money Market Instruments",
+    "benchmark": "Nifty Realty TR Index",
+    "fund_managers": [
+      {
+        "name": "Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt Component",
+        "from_date": "Since Inception"
+      }
+    ],
+    "annual_expense": {
+      "Direct": "1.00"
+    },
+    "exit_load": "Nil",
+    "isins": [
+      "INF247L01CI4"
+    ],
+    "metrics": {
+      "cagr": -0.06749963778807633,
+      "volatility": 0.2756270735601669,
+      "max_drawdown": -0.34250058922419835,
+      "sharpe": -0.46258023981901875,
+      "sortino": -0.625665827926074,
+      "rolling_1y": -0.1694014855539252,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 1.8438356164383563,
+      "is_statistically_reliable": false
+    }
+  },
+  "Motilal Oswal Nifty Smallcap 250 ETF": {
+    "parent_scheme_name": "Motilal Oswal Nifty Smallcap 250 ETF",
+    "canonical_code": "152546",
+    "scheme_start_date": "21-03-2024",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty Smallcap 250 ETF",
+        "amfi_code": "152546"
+      }
+    ],
+    "fund_type": "An open-ended scheme replicating/tracking the Nifty Smallcap 250 Total Return Index",
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide total returns that, before expenses, closely correspond to the total returns of the securities as represented by Nifty Smallcap 250 Index, subject to tracking error. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Constituents of Nifty Smallcap 250 Index and Units of Liquid Schemes and Money Market Instruments",
+    "benchmark": "Nifty Smallcap 250 TR Index",
+    "fund_managers": [
+      {
+        "name": "Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt Component",
+        "from_date": "Since Inception"
+      }
+    ],
+    "annual_expense": {
+      "Direct": "1.00"
+    },
+    "exit_load": "Nil",
+    "isins": [
+      "INF247L01CH6"
+    ],
+    "metrics": {
+      "cagr": 0.04971916075316796,
+      "volatility": 0.1937783733409054,
+      "max_drawdown": -0.2614172637178772,
+      "sharpe": -0.053054626631349786,
+      "sortino": -0.06384632394053523,
+      "rolling_1y": -0.06571865406952071,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 1.8438356164383563,
+      "is_statistically_reliable": false
+    }
+  },
+  "Motilal Oswal Nifty Smallcap 250 Index": {
+    "parent_scheme_name": "Motilal Oswal Nifty Smallcap 250 Index",
+    "canonical_code": "147623",
+    "scheme_start_date": "11-09-2019",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Nifty Smallcap 250 Index - Regular Plan",
+        "amfi_code": "147624"
+      },
+      {
+        "scheme_name": "Motilal Oswal Nifty Smallcap 250 Index Fund- Direct Plan",
+        "amfi_code": "147623"
+      }
+    ],
+    "fund_type": null,
+    "riskometer": null,
+    "investment_objective": null,
+    "asset_allocation": null,
+    "benchmark": null,
+    "fund_managers": null,
+    "annual_expense": null,
+    "exit_load": null,
+    "isins": null,
+    "metrics": {
+      "cagr": 0.2093175835850558,
+      "volatility": 0.19888801866976452,
+      "max_drawdown": -0.4243984043237678,
+      "sharpe": 0.7507620850353187,
+      "sortino": 0.8021638810628657,
+      "rolling_1y": -0.09058624184493147,
+      "rolling_3y": 0.13256091561953576,
+      "rolling_5y": null,
+      "fund_age_years": 6.372602739726028,
+      "is_statistically_reliable": true
+    }
+  },
+  "MOTILAL OSWAL QUANT FUND": {
+    "parent_scheme_name": "MOTILAL OSWAL QUANT FUND",
+    "canonical_code": "152694",
+    "scheme_start_date": "10-06-2024",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Quant Fund - Direct - Growth",
+        "amfi_code": "152694"
+      },
+      {
+        "scheme_name": "Motilal Oswal Quant Fund - Direct - IDCW",
+        "amfi_code": "152695"
+      },
+      {
+        "scheme_name": "Motilal Oswal Quant Fund - Regular - Growth",
+        "amfi_code": "152692"
+      },
+      {
+        "scheme_name": "Motilal Oswal Quant Fund - Regular - IDCW",
+        "amfi_code": "152693"
+      }
+    ],
+    "fund_type": "An open-ended equity scheme investing based on a quant investment framework",
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate medium to long-term capital appreciation by investing in equity and equity related instruments selected based on a proprietary quantitative investment framework. However, there can be no assurance that the investment objective of the scheme will be realized.",
+    "asset_allocation": "Equity and Equity related instruments, Units of Liquid fund and Money Market instruments (including cash and cash equivalents)",
+    "benchmark": "NIFTY 200 Index TR",
+    "fund_managers": [
+      {
+        "name": "Mr. Ajay Khandelwal",
+        "type": "For Equity Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt Component",
+        "from_date": "Since Inception"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.25"
+    },
+    "exit_load": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment.",
+    "isins": [
+      "INF247L01CS3",
+      "INF247L01CT1",
+      "INF247L01CU9",
+      "INF247L01CP9",
+      "INF247L01CQ7",
+      "INF247L01CR5"
+    ],
+    "metrics": {
+      "cagr": -0.004566479184074934,
+      "volatility": 0.18431450826161982,
+      "max_drawdown": -0.2671719927696872,
+      "sharpe": -0.350306005712952,
+      "sortino": -0.43592162641007615,
+      "rolling_1y": -0.06787299891295695,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 1.621917808219178,
+      "is_statistically_reliable": false
+    }
+  },
+  "MOTILAL OSWAL SMALL CAP FUND": {
+    "parent_scheme_name": "MOTILAL OSWAL SMALL CAP FUND",
+    "canonical_code": "152237",
+    "scheme_start_date": "29-12-2023",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Small Cap Fund - Direct - Growth",
+        "amfi_code": "152237"
+      },
+      {
+        "scheme_name": "Motilal Oswal Small Cap Fund - Direct IDCW",
+        "amfi_code": "152235"
+      },
+      {
+        "scheme_name": "Motilal Oswal Small Cap Fund - Regular - Growth",
+        "amfi_code": "152232"
+      },
+      {
+        "scheme_name": "Motilal Oswal Small Cap Fund - Regular - IDCW",
+        "amfi_code": "152234"
+      }
+    ],
+    "fund_type": "An open ended equity scheme predominantly investing in small cap stocks",
+    "riskometer": "Very High",
+    "investment_objective": "To generate capital appreciation by investing predominantly in Small Cap stocks. However, there can be no assurance that the investment objective of the scheme will be realized.",
+    "asset_allocation": "Equity and Equity related instruments of small cap companies, Equity and Equity-related Instruments of companies other than Small cap companies including foreign companies, Debt and Money Market instruments (including cash and cash equivalents), Liquid and Debt Schemes of Mutual Fund, Units issued by REITs and InvITs",
+    "benchmark": "Nifty Smallcap 250 TRI",
+    "fund_managers": [
+      {
+        "name": "Mr. Ajay Khandelwal",
+        "type": "For Equity Component",
+        "from_date": "26/12/2023"
+      },
+      {
+        "name": "Mr. Niket Shah",
+        "type": "For Equity Component",
+        "from_date": "26/12/2023"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt and Gold Component",
+        "from_date": "26/12/2023"
+      },
+      {
+        "name": "Mr. Ankush Sood",
+        "type": "For International Equity",
+        "from_date": "26/12/2023"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.25"
+    },
+    "exit_load": "Nil",
+    "isins": [
+      "INF247L01BY3",
+      "INF247L01BZ0",
+      "INF247L01CA1",
+      "INF247L01BV9",
+      "INF247L01BW7",
+      "INF247L01BX5"
+    ],
+    "metrics": {
+      "cagr": 0.1321276766197339,
+      "volatility": 0.17100840051898028,
+      "max_drawdown": -0.2369386719410793,
+      "sharpe": 0.42177855825116867,
+      "sortino": 0.5175529077976524,
+      "rolling_1y": 0.008701396778434844,
+      "rolling_3y": null,
+      "rolling_5y": null,
+      "fund_age_years": 2.0712328767123287,
+      "is_statistically_reliable": false
+    }
+  },
+  "Motilal Oswal Ultra Short Term Fund": {
+    "parent_scheme_name": "Motilal Oswal Ultra Short Term Fund",
+    "canonical_code": "124234",
+    "scheme_start_date": "10-09-2013",
+    "variants": [
+      {
+        "scheme_name": "Motilal Oswal Ultra Short Term Fund (MOFUSTF)-Regular Plan- Growth",
+        "amfi_code": "124233"
+      },
+      {
+        "scheme_name": "Motilal Oswal Ultra Short Term Fund (MOFUSTF) -Direct Plan- Growth",
+        "amfi_code": "124234"
+      }
+    ],
+    "fund_type": "Ultra Short Duration Fund",
+    "riskometer": "low",
+    "investment_objective": "Objective of the scheme to generate optimal returns consistent with moderate levels of risk and liquidity by investing in debt securities and money market securities.",
+    "asset_allocation": "Debt Instruments including Government Securities, Corporate Debt, Other debt instruments, Term Deposits and Money Market Instruments with portfolio Macaulay# duration between 3 months and 6 months*0-100% - Units issued by Real Estate Investment Trust (REITs) and Infrastructure Investment Trust (InvITs)0-10%",
+    "benchmark": "Tier 1 CRISIL Ultra Short Term Debt Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "Debt Component",
+        "from_date": "22/11/2022"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2",
+      "Direct": "2"
+    },
+    "exit_load": null,
+    "isins": [
+      "INF247L01288"
+    ],
+    "metrics": {
+      "cagr": 0.04848620958926109,
+      "volatility": 0.027187017498475533,
+      "max_drawdown": -0.11963302752293577,
+      "sharpe": -0.42350325523513305,
+      "sortino": -0.07425226770890822,
+      "rolling_1y": 0.062114024990839845,
+      "rolling_3y": 0.055647310982666065,
+      "rolling_5y": 0.033571037516685776,
+      "fund_age_years": 12.378082191780821,
+      "is_statistically_reliable": true
+    }
+  }
+}

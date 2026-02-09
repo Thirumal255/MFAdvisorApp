@@ -1,0 +1,107 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+app-example
+
+# generated native folders
+/ios
+/android
+
+
+# Secrets
+OPENAI_API_KEY.txt
+notes.txt
+data/.openai_api_key
+
+# Raw PDFs or dumps
+data/summary_scheme_pdf/
+data/sid_pdfs/
+data/scheme_summary_extract/
+data/summary_pdfs/
+
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# venvs
+env/
+venv/
+.MFA/
+MFA/
+data/.refresh_token
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+venv/
+env/
+.mfa_env/
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+
+# Cache folders
+.cache/
+.tmp/
+
+# FastAPI/UI build (later)
+node_modules/
+.next/
+build/
