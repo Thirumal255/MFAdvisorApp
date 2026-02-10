@@ -1,10 +1,12 @@
-import { ArrowLeft, Bell, BookOpen, Brain, Calculator, ChevronRight, Flame, Home, MessageSquare, Search, Trophy, Upload } from 'lucide-react-native';
-import { useState } from 'react';
-import { ActivityIndicator, ScrollView, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
+import { ArrowLeft, Bell, ChevronRight, Flame, MessageSquare, Search, Trophy, Upload } from 'lucide-react-native';
+import { useEffect, useState } from 'react';
+import { ActivityIndicator, Alert, RefreshControl, ScrollView, Text, TextInput, TouchableOpacity, View } from 'react-native';
+import DateTimePickerModal from "react-native-modal-datetime-picker";
+import { Navigation } from './components/Navigation';
+import { API_ENDPOINTS } from './config/api';
 import { learnContent } from './learnContent';
-// ===== IMPORTANT: REPLACE WITH YOUR LAPTOP IP =====
-const API_URL = 'http://192.168.1.27:8000';  // ← CHANGE THIS TO YOUR IP!
-// ==================================================
+import { styles } from './styles/appStyles';
+
 
 export default function App() {
   const [screen, setScreen] = useState('home');
@@ -53,7 +55,313 @@ const [elssFunds, setElssFunds] = useState([]);
 const [selectedTopic, setSelectedTopic] = useState(null);
 const [activeTab, setActiveTab] = useState('beginner'); // 'beginner', 'advanced', 'tips', 'glossary'
 
-  // Search for funds
+// PHASE 5: My Fund Analyzer states
+const [myFundCode, setMyFundCode] = useState(null);
+const [myFundData, setMyFundData] = useState(null);
+const [recommendations, setRecommendations] = useState([]);
+const [compareMode, setCompareMode] = useState(false);
+const [compareFund1, setCompareFund1] = useState(null);
+const [compareFund2, setCompareFund2] = useState(null);
+const [comparisonData, setComparisonData] = useState(null);
+const [previousScreen, setPreviousScreen] = useState('home');  
+
+
+// NEW: Top Funds states
+const [topFunds, setTopFunds] = useState([]);
+const [topFundsCategory, setTopFundsCategory] = useState(null);
+const [refreshing, setRefreshing] = useState(false);
+  
+// NEW: Enhanced metrics view state
+const [metricsTab, setMetricsTab] = useState('returns');
+
+// PHASE 3: Score breakdown visibility
+const [showScoreBreakdown, setShowScoreBreakdown] = useState(false);
+
+// Investment Comparison States
+const [expandedCalculators, setExpandedCalculators] = useState({});
+const [investmentInputs, setInvestmentInputs] = useState({});
+const [comparisonResults, setComparisonResults] = useState({});
+const [calculatingReturns, setCalculatingReturns] = useState({});
+const [showDatePicker, setShowDatePicker] = useState(false);
+const [activeDatePickerIndex, setActiveDatePickerIndex] = useState(null);
+
+
+// Format Date to DD-MM-YYYY
+const formatDate = (date) => {
+  const day = String(date.getDate()).padStart(2, '0');
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const year = date.getFullYear();
+  return `${day}-${month}-${year}`;
+};
+
+// Toggle calculator
+const toggleCalculator = (index) => {
+  setExpandedCalculators(prev => ({
+    ...prev,
+    [index]: !prev[index]
+  }));
+  
+  if (!investmentInputs[index]) {
+    setInvestmentInputs(prev => ({
+      ...prev,
+      [index]: { amount: '', date: '' }
+    }));
+  }
+};
+
+// Update investment input
+const updateInvestmentInput = (index, field, value) => {
+  setInvestmentInputs(prev => ({
+    ...prev,
+    [index]: {
+      ...prev[index],
+      [field]: value
+    }
+  }));
+};
+
+// Open date picker
+const openDatePicker = (index) => {
+  setActiveDatePickerIndex(index);
+  setShowDatePicker(true);
+};
+
+// Handle date selection
+const handleDateConfirm = (selectedDate) => {
+  if (activeDatePickerIndex !== null) {
+    updateInvestmentInput(activeDatePickerIndex, 'date', formatDate(selectedDate));
+  }
+  setShowDatePicker(false);
+  setActiveDatePickerIndex(null);
+};
+
+// Format currency
+const formatCurrency = (amount) => {
+  const num = parseFloat(amount);
+  if (num >= 10000000) {
+    return `₹${(num / 10000000).toFixed(2)} Cr`;
+  } else if (num >= 100000) {
+    return `₹${(num / 100000).toFixed(2)} L`;
+  } else {
+    return `₹${num.toLocaleString('en-IN')}`;
+  }
+};
+
+// Call backend API for comparison
+const calculateInvestmentComparison = async (index, fund1Code, fund2Code) => {
+  const inputs = investmentInputs[index];
+  
+  if (!inputs || !inputs.amount || !inputs.date) {
+    Alert.alert('Missing Information', 'Please enter both amount and date');
+    return;
+  }
+
+  const amount = parseFloat(inputs.amount);
+  if (isNaN(amount) || amount <= 0) {
+    Alert.alert('Invalid Amount', 'Please enter a valid positive amount');
+    return;
+  }
+
+  setCalculatingReturns(prev => ({ ...prev, [index]: true }));
+
+  try {
+    const response = await fetch(API_ENDPOINTS.COMPARE_INVESTMENT, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        fund1_code: parseInt(fund1Code),
+        fund2_code: parseInt(fund2Code),
+        investment_date: inputs.date,
+        investment_amount: amount
+      })
+    });
+
+    // ✅ UPDATED: Handle errors without throwing
+    if (!response.ok) {
+      const errorData = await response.json();
+      const errorMessage = errorData.detail || 'Failed to calculate comparison';
+      
+      // Show user-friendly alert based on error type
+      if (errorMessage.includes('started on')) {
+        Alert.alert(
+          'Investment Date Too Early',
+          errorMessage
+        );
+      } else if (errorMessage.includes('Cannot compare')) {
+        Alert.alert(
+          'Cannot Compare Funds',
+          errorMessage
+        );
+      } else {
+        Alert.alert('Error', errorMessage);
+      }
+      
+      setCalculatingReturns(prev => ({ ...prev, [index]: false }));
+      return;  // Exit early
+    }
+
+    const data = await response.json();
+    
+    // Transform API response
+    const transformedData = {
+      currentFund: {
+        investedAmount: data.fund1.investment.amount,
+        currentValue: data.fund1.current.value,
+        absoluteReturns: data.fund1.returns.absolute,
+        returnPercentage: data.fund1.returns.percentage,
+        xirr: data.fund1.returns.xirr,
+        investmentDate: data.fund1.investment.date
+      },
+      recommendedFund: {
+        investedAmount: data.fund2.investment.amount,
+        currentValue: data.fund2.current.value,
+        absoluteReturns: data.fund2.returns.absolute,
+        returnPercentage: data.fund2.returns.percentage,
+        xirr: data.fund2.returns.xirr,
+        investmentDate: data.fund2.investment.date
+      },
+      difference: {
+        value: data.comparison.value_difference,
+        percentage: data.comparison.percentage_difference,
+        xirr: data.comparison.xirr_difference,
+        isPositive: data.comparison.is_fund2_better,
+        text: data.comparison.improvement_text
+      },
+      adjustment: data.adjustment || { adjusted: false }
+    };
+    
+    setComparisonResults(prev => ({
+      ...prev,
+      [index]: transformedData
+    }));
+
+    console.log('✅ Comparison successful:', transformedData);
+
+  } catch (error) {
+    // ✅ UPDATED: Handle unexpected errors
+    console.error('❌ Comparison error:', error);
+    Alert.alert(
+      'Error', 
+      'An unexpected error occurred. Please check your connection and try again.'
+    );
+  } finally {
+    setCalculatingReturns(prev => ({ ...prev, [index]: false }));
+  }
+};
+
+
+
+// NEW: Fetch top funds
+  useEffect(() => {
+    if (screen === 'topFunds') {
+      fetchTopFunds();
+    }
+  }, [screen, topFundsCategory]);
+
+  const fetchTopFunds = async () => {
+    try {
+      setLoading(true);
+      const baseUrl = API_ENDPOINTS.TOP_FUNDS.replace(/\/$/, '');
+      let url = `${baseUrl}?limit=20`;
+      if (topFundsCategory) {
+        url += `&category=${topFundsCategory}`;
+      }
+      console.log('🔍 [DEBUG] Fetching top funds from:', url);
+      const response = await fetch(url);
+      const data = await response.json();
+      
+      // Debug: Check if score field exists
+      if (data.results && data.results.length > 0) {
+        const firstFund = data.results[0];
+        console.log('🔍 [DEBUG] First fund data sample:');
+        console.log('  - name:', firstFund.name);
+        console.log('  - composite_score:', firstFund.composite_score);
+        console.log('  - score:', firstFund.score);
+        console.log('  - score.total:', firstFund.score?.total);
+        console.log('  - Fields:', Object.keys(firstFund));
+      }
+      
+      setTopFunds(data.results || []);
+    } catch (error) {
+      console.log('❌ [DEBUG] Top funds error:', error);
+    } finally {
+      setLoading(false);
+      setRefreshing(false);
+    }
+  };
+
+  const onRefreshTopFunds = () => {
+    setRefreshing(true);
+    fetchTopFunds();
+  };
+
+  // Helper: Get score color
+  const getScoreColor = (score) => {
+    if (score >= 75) return '#10B981';
+    if (score >= 60) return '#F59E0B';
+    if (score >= 40) return '#6366F1';
+    return '#6B7280';
+  };
+
+  const getScoreEmoji = (score) => {
+    if (score >= 75) return '🔥🔥🔥';
+    if (score >= 60) return '🔥';
+    if (score >= 40) return '✨';
+    return '📊';
+  };
+
+
+  // PHASE 3: Format metric names for display
+  const formatMetricName = (metric) => {
+    const names = {
+      'cagr': 'CAGR',
+      'rolling_1y': '1Y Rolling Return',
+      'rolling_3y': '3Y Rolling Return',
+      'rolling_5y': '5Y Rolling Return',
+      'volatility': 'Volatility',
+      'max_drawdown': 'Max Drawdown',
+      'downside_deviation': 'Downside Deviation',
+      'sharpe': 'Sharpe Ratio',
+      'sortino': 'Sortino Ratio',
+      'consistency_score': 'Consistency Score',
+      'positive_months_pct': 'Positive Months %',
+      'current_drawdown_pct': 'Current Drawdown',
+      'alpha': 'Alpha',
+      'information_ratio': 'Information Ratio',
+      'calmar_ratio': 'Calmar Ratio'
+    };
+    return names[metric] || metric.replace(/_/g, ' ').toUpperCase();
+  };
+
+  // PHASE 3: Format metric values for display
+  const formatMetricValue = (metric, value) => {
+    if (value == null) return 'N/A';
+    
+    // Percentage metrics (multiply by 100)
+    if (['cagr', 'rolling_1y', 'rolling_3y', 'rolling_5y', 'volatility', 
+         'downside_deviation', 'max_drawdown', 'current_drawdown_pct', 
+         'positive_months_pct'].includes(metric)) {
+      return `${(value * 100).toFixed(2)}%`;
+    }
+    
+    // Ratio metrics (show as-is with 2 decimals)
+    if (['sharpe', 'sortino', 'alpha', 'information_ratio', 'calmar_ratio'].includes(metric)) {
+      return value.toFixed(2);
+    }
+    
+    // Score metrics (1 decimal)
+    if (['consistency_score'].includes(metric)) {
+      return value.toFixed(1);
+    }
+    
+    return value.toFixed(2);
+  };
+
+
+
+// Search for funds
   const searchFunds = async (query) => {
     if (query.length < 2) {
       setSearchResults([]);
@@ -62,12 +370,19 @@ const [activeTab, setActiveTab] = useState('beginner'); // 'beginner', 'advanced
 
     setLoading(true);
     try {
-      const response = await fetch(`${API_URL}/api/funds/search?q=${query}`);
+      const cleanQuery = encodeURIComponent(query.trim());
+      const response = await fetch(`${API_ENDPOINTS.SEARCH}?q=${cleanQuery}`);
+      
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+      
       const data = await response.json();
       setSearchResults(data.results || []);
     } catch (error) {
       console.log('Search error:', error);
-      alert('Could not connect to server. Make sure backend is running!');
+      alert('Could not connect to server!');
+      setSearchResults([]);
     } finally {
       setLoading(false);
     }
@@ -76,17 +391,113 @@ const [activeTab, setActiveTab] = useState('beginner'); // 'beginner', 'advanced
   // Get fund details
   const getFundDetails = async (code) => {
     setLoading(true);
+    setMetricsTab('returns');
+    
+    const cleanCode = String(code).trim();
+    
+    console.log('🔍 [DEBUG] getFundDetails called with code:', cleanCode);
+    
     try {
-      const response = await fetch(`${API_URL}/api/funds/${code}`);
+      const response = await fetch(`${API_ENDPOINTS.FUND_DETAILS}/${cleanCode}`);
+      
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+      
       const data = await response.json();
+      
+      console.log('📦 [DEBUG] Received fund data for:', data.name);
+      console.log('📦 [DEBUG] Fund data keys:', Object.keys(data));
+      
+      // Deep inspection of problematic fields
+      console.log('🔍 [DEBUG] Field type checks:');
+      console.log('  - managers type:', typeof data.managers, '| value:', data.managers);
+      console.log('  - expense type:', typeof data.expense, '| value:', data.expense);
+      console.log('  - annual_expense type:', typeof data.annual_expense, '| value:', data.annual_expense);
+      console.log('  - asset_allocation type:', typeof data.asset_allocation);
+      console.log('  - benchmark type:', typeof data.benchmark);
+      console.log('  - exit_load type:', typeof data.exit_load);
+      console.log('  - fund_managers type:', typeof data.fund_managers);
+      
+      // Check for non-primitive types
+      const problematicFields = [];
+      Object.keys(data).forEach(key => {
+        const value = data[key];
+        const type = typeof value;
+        if (value !== null && type === 'object' && !Array.isArray(value) && 
+            key !== 'metrics' && key !== 'expense' && key !== 'annual_expense') {
+          problematicFields.push(`${key}: ${type}`);
+        }
+        if (Array.isArray(value) && key !== 'variants' && key !== 'isins') {
+          problematicFields.push(`${key}: array`);
+        }
+      });
+      
+      if (problematicFields.length > 0) {
+        console.warn('⚠️ [DEBUG] Potentially problematic fields:', problematicFields);
+      }
+      
+      if (!data || !data.name) {
+        throw new Error('Invalid fund data');
+      }
+      
+      console.log('✅ [DEBUG] Setting fund data in state');
       setSelectedFund(data);
+      console.log('✅ [DEBUG] Fund data set successfully');
+      
     } catch (error) {
-      console.log('Details error:', error);
-      alert('Could not load fund details!');
+      console.error('❌ [DEBUG] Error in getFundDetails:', error);
+      alert(`Could not load fund: ${error.message}`);
+      setSelectedFund(null);
     } finally {
       setLoading(false);
     }
   };
+
+// PHASE 5: Get Recommendations
+const getRecommendations = async (fundCode) => {
+  setLoading(true);
+  try {
+    const response = await fetch(`${API_ENDPOINTS.RECOMMENDATIONS}/${fundCode}?limit=5&min_score_diff=5`);
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    
+    const data = await response.json();
+    setMyFundData(data.user_fund);
+    setRecommendations(data.recommendations || []);
+  } catch (error) {
+    console.log('❌ Recommendations error:', error);
+    alert('Could not fetch recommendations');
+  } finally {
+    setLoading(false);
+  }
+};
+
+// PHASE 5: Compare Two Funds
+const compareTwoFunds = async (code1, code2) => {
+  setLoading(true);
+  try {
+    const response = await fetch(`${API_ENDPOINTS.COMPARE}/${code1}/${code2}`);
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    
+    const data = await response.json();
+    setComparisonData(data);
+    setCompareFund1(data.fund1);
+    setCompareFund2(data.fund2);
+    setCompareMode(true);
+    setScreen('compare');
+  } catch (error) {
+    console.log('❌ Comparison error:', error);
+    alert('Could not compare funds');
+  } finally {
+    setLoading(false);
+  }
+};
+
+
+
+
+
+
   // SIP Calculation Function
 const calculateSIP = () => {
   const P = parseFloat(sipAmount);
@@ -179,7 +590,7 @@ const searchFundsForCompare = async (query) => {
   }
 
   try {
-    const response = await fetch(`${API_URL}/api/funds/search?q=${query}`);
+    const response = await fetch(`${API_ENDPOINTS.SEARCH}?q=${query}`);
     const data = await response.json();
     setFundSearchResults(data.results || []);
   } catch (error) {
@@ -195,7 +606,7 @@ const addFundToCompare = async (code) => {
   }
 
   try {
-    const response = await fetch(`${API_URL}/api/funds/${code}`);
+    const response = await fetch(`${API_ENDPOINTS.FUND_DETAILS}/${code}`);
     const data = await response.json();
     setSelectedFunds([...selectedFunds, data]);
     setFundSearchQuery('');
@@ -263,7 +674,7 @@ const calculateTaxSavings = () => {
 // Load ELSS Funds
 const loadElssFunds = async () => {
   try {
-    const response = await fetch(`${API_URL}/api/funds/search?q=elss`);
+    const response = await fetch(`${API_ENDPOINTS.SEARCH}?q=elss`);
     const data = await response.json();
     setElssFunds(data.results || []);
   } catch (error) {
@@ -273,36 +684,8 @@ const loadElssFunds = async () => {
 
 
 
-  // Bottom Navigation
-  const NavBar = () => (
-    <View style={styles.navbar}>
-      {[
-        { id: 'home', icon: Home, label: 'Home' },
-        { id: 'advisor', icon: Brain, label: 'AI' },
-        { id: 'tools', icon: Calculator, label: 'Tools' },
-        { id: 'learn', icon: BookOpen, label: 'Learn' }
-      ].map((item) => (
-        <TouchableOpacity 
-          key={item.id} 
-          onPress={() => {
-            setScreen(item.id);
-            setSelectedFund(null);
-            setSearchResults([]);
-            setSearchQuery('');
-          }}
-          style={styles.navButton}
-        >
-          <item.icon 
-            size={24} 
-            color={screen === item.id ? '#A78BFA' : '#6B7280'} 
-          />
-          <Text style={[styles.navLabel, { color: screen === item.id ? '#A78BFA' : '#6B7280' }]}>
-            {item.label}
-          </Text>
-        </TouchableOpacity>
-      ))}
-    </View>
-  );
+  // Navigation imported from components/Navigation.js
+
 
   // ========== HOME SCREEN ==========
   if (screen === 'home') {
@@ -335,7 +718,11 @@ const loadElssFunds = async () => {
             
             <TouchableOpacity 
               style={[styles.actionCard, styles.purpleGradient]}
-              onPress={() => setScreen('check')}
+              onPress={() => {
+                setPreviousScreen('home');  // ✅ ADD THIS
+                setScreen('check');
+                setSelectedFund(null);  // ✅ ADD THIS - Clear any previous fund
+            }}
             >
               <View style={styles.actionContent}>
                 <View style={styles.actionLeft}>
@@ -343,7 +730,7 @@ const loadElssFunds = async () => {
                     <Search size={24} color="#fff" />
                   </View>
                   <View>
-                    <Text style={styles.actionTitle}>Check My Fund</Text>
+                    <Text style={styles.actionTitle}>Search For a Fund</Text>
                     <Text style={styles.actionSubtitle}>is it fire? 🔍</Text>
                   </View>
                 </View>
@@ -351,24 +738,7 @@ const loadElssFunds = async () => {
               </View>
             </TouchableOpacity>
 
-            <TouchableOpacity 
-              style={[styles.actionCard, styles.blueGradient]}
-              onPress={() => setScreen('import')}
-            >
-              <View style={styles.actionContent}>
-                <View style={styles.actionLeft}>
-                  <View style={styles.actionIcon}>
-                    <Upload size={24} color="#fff" />
-                  </View>
-                  <View>
-                    <Text style={styles.actionTitle}>Import Portfolio</Text>
-                    <Text style={styles.actionSubtitle}>upload excel ☕</Text>
-                  </View>
-                </View>
-                <ChevronRight size={24} color="#fff" />
-              </View>
-            </TouchableOpacity>
-
+            
             <TouchableOpacity 
               style={[styles.actionCard, styles.orangeGradient]}
               onPress={() => setScreen('advisor')}
@@ -387,7 +757,53 @@ const loadElssFunds = async () => {
               </View>
             </TouchableOpacity>
           </View>
+          
 
+          {/* ========== PHASE 5: MY FUND ANALYZER ========== */}
+          <View style={styles.section}>
+            <Text style={styles.sectionTitle}>🎯 my investments</Text>
+            
+            <TouchableOpacity 
+              style={[styles.actionCard, styles.greenGradient]}
+              onPress={() => setScreen('myFundAnalyzer')}
+            >
+              <View style={styles.actionContent}>
+                <View style={styles.actionLeft}>
+                  <View style={styles.actionIcon}>
+                    <Search size={24} color="#fff" />
+                  </View>
+                  <View>
+                    <Text style={styles.actionTitle}>My Fund Analyzer</Text>
+                    <Text style={styles.actionSubtitle}>find better funds 🎯</Text>
+                  </View>
+                </View>
+                <ChevronRight size={24} color="#fff" />
+              </View>
+            </TouchableOpacity>
+
+            
+            <TouchableOpacity 
+              style={[styles.actionCard, styles.blueGradient]}
+              onPress={() => setScreen('import')}
+            >
+              <View style={styles.actionContent}>
+                <View style={styles.actionLeft}>
+                  <View style={styles.actionIcon}>
+                    <Upload size={24} color="#fff" />
+                  </View>
+                  <View>
+                    <Text style={styles.actionTitle}>Import Portfolio</Text>
+                    <Text style={styles.actionSubtitle}>upload excel ☕</Text>
+                  </View>
+                </View>
+                <ChevronRight size={24} color="#fff" />
+              </View>
+            </TouchableOpacity>
+
+
+          </View>
+
+          
           <View style={styles.section}>
             <Text style={styles.sectionTitle}>market vibes</Text>
             <View style={styles.marketGrid}>
@@ -404,10 +820,171 @@ const loadElssFunds = async () => {
             </View>
           </View>
         </ScrollView>
-        <NavBar />
+        <Navigation 
+          screen={screen}
+          setScreen={setScreen}
+          setSelectedFund={setSelectedFund}
+          setActiveTool={setActiveTool}
+          setSelectedTopic={setSelectedTopic}
+        />
       </View>
     );
   }
+
+ // ========== TOP FUNDS SCREEN (NEW) ==========
+  if (screen === 'topFunds') {
+    if (loading && !refreshing) {
+      return (
+        <View style={styles.container}>
+          <View style={styles.centerContainer}>
+            <ActivityIndicator size="large" color="#A855F7" />
+            <Text style={styles.loadingText}>Loading top funds...</Text>
+          </View>
+          <Navigation 
+          screen={screen}
+          setScreen={setScreen}
+          setSelectedFund={setSelectedFund}
+          setActiveTool={setActiveTool}
+          setSelectedTopic={setSelectedTopic}
+        />
+        </View>
+      );
+    }
+
+    return (
+      <View style={styles.container}>
+        <View style={styles.headerPurple}>
+          <Text style={styles.pageTitle}>🏆 Top Performing Funds</Text>
+        </View>
+
+        <ScrollView 
+          horizontal 
+          showsHorizontalScrollIndicator={false}
+          style={styles.filterScrollContainer}
+        >
+          <TouchableOpacity
+            style={[styles.filterChip, !topFundsCategory && styles.filterChipActive]}
+            onPress={() => setTopFundsCategory(null)}
+          >
+            <Text style={[styles.filterText, !topFundsCategory && styles.filterTextActive]}>All</Text>
+          </TouchableOpacity>
+
+          <TouchableOpacity
+            style={[styles.filterChip, topFundsCategory === 'equity' && styles.filterChipActive]}
+            onPress={() => setTopFundsCategory('equity')}
+          >
+            <Text style={[styles.filterText, topFundsCategory === 'equity' && styles.filterTextActive]}>Equity</Text>
+          </TouchableOpacity>
+
+          <TouchableOpacity
+            style={[styles.filterChip, topFundsCategory === 'debt' && styles.filterChipActive]}
+            onPress={() => setTopFundsCategory('debt')}
+          >
+            <Text style={[styles.filterText, topFundsCategory === 'debt' && styles.filterTextActive]}>Debt</Text>
+          </TouchableOpacity>
+
+          <TouchableOpacity
+            style={[styles.filterChip, topFundsCategory === 'hybrid' && styles.filterChipActive]}
+            onPress={() => setTopFundsCategory('hybrid')}
+          >
+            <Text style={[styles.filterText, topFundsCategory === 'hybrid' && styles.filterTextActive]}>Hybrid</Text>
+          </TouchableOpacity>
+
+          {/* NEW BUTTON 1: Solution Oriented */}
+        <TouchableOpacity
+          style={[styles.filterChip, topFundsCategory === 'solution oriented' && styles.filterChipActive]}
+          onPress={() => setTopFundsCategory('solution oriented')}
+        >
+          <Text style={[styles.filterText, topFundsCategory === 'solution oriented' && styles.filterTextActive]}>Solution Oriented</Text>
+        </TouchableOpacity>
+
+         {/* NEW BUTTON 2: Other */}
+        <TouchableOpacity
+          style={[styles.filterChip, topFundsCategory === 'other' && styles.filterChipActive]}
+          onPress={() => setTopFundsCategory('other')}
+        >
+          <Text style={[styles.filterText, topFundsCategory === 'other' && styles.filterTextActive]}>Other</Text>
+        </TouchableOpacity>
+
+      </ScrollView>
+
+        <ScrollView
+          style={styles.topFundsList}
+          refreshControl={
+            <RefreshControl refreshing={refreshing} onRefresh={onRefreshTopFunds} tintColor="#A855F7" />
+          }
+        >
+          {topFunds.map((fund, index) => {
+            // Get score - try new format first, fallback to old
+            const score = fund.score?.total || fund.composite_score || 0;
+            const scoreEmoji = fund.score?.tier?.emoji || getScoreEmoji(score);
+            
+            return (
+            <TouchableOpacity
+              key={`top-${fund.code}-${index}`}
+              style={styles.topFundCard}
+              onPress={() => {
+                setPreviousScreen('topFunds');  // ✅ ADD THIS
+                setScreen('check');
+                getFundDetails(fund.code);
+          }}
+            >
+              <View style={styles.topFundContent}>
+  <Text style={styles.topFundName} numberOfLines={2}>
+    {fund.name}
+  </Text>
+  
+  {/* CATEGORY DISPLAY - NEW */}
+  {fund.category && (
+    <View style={styles.topFundCategoryRow}>
+      <Text style={styles.topFundCategoryEmoji}>{fund.category_emoji}</Text>
+      <Text style={styles.topFundCategoryText}>{fund.category}</Text>
+    </View>
+  )}
+  
+  {fund.risk && (
+    <Text style={styles.topFundRisk} numberOfLines={1}>
+      {fund.risk}
+    </Text>
+  )}
+  
+  {fund.fund_age != null && (
+    <Text style={styles.topFundAge}>
+      {fund.fund_age.toFixed(1)} years old
+    </Text>
+  )}
+</View>
+
+<View style={styles.topFundScore}>
+  <Text style={styles.scoreEmoji}>
+    {fund.score?.tier?.emoji || getScoreEmoji(fund.composite_score || 0)}
+  </Text>
+  <Text style={[
+    styles.scoreNumber,
+    fund.score?.has_sufficient_data === false && styles.scoreNumberInsufficient
+  ]}>
+    {fund.score?.has_sufficient_data === false 
+      ? 'N/A' 
+      : Math.round(fund.score?.total || fund.composite_score || 0)
+    }
+  </Text>
+</View>
+            </TouchableOpacity>
+            );
+          })}
+        </ScrollView>
+        <Navigation 
+          screen={screen}
+          setScreen={setScreen}
+          setSelectedFund={setSelectedFund}
+          setActiveTool={setActiveTool}
+          setSelectedTopic={setSelectedTopic}
+        />
+      </View>
+    );
+  }
+
+
 
   // ========== CHECK FUND SCREEN ==========
   if (screen === 'check') {
@@ -415,13 +992,21 @@ const loadElssFunds = async () => {
       <View style={styles.container}>
         <View style={styles.headerPurple}>
           <TouchableOpacity onPress={() => {
-            setScreen('home');
+            // ✅ SMART NAVIGATION
+            if (selectedFund) {
+            // If viewing fund details, go back to previous screen
+            setScreen(previousScreen);
             setSelectedFund(null);
-            setSearchResults([]);
-            setSearchQuery('');
-          }}>
-            <ArrowLeft size={24} color="#fff" />
-          </TouchableOpacity>
+          } else {
+          // If just on search screen, go to previous screen
+            setScreen(previousScreen);
+          }
+          setSearchResults([]);
+          setSearchQuery('');
+          setPreviousScreen('home');  // ✅ Reset for next time
+    }}>
+          <ArrowLeft size={24} color="#fff" />
+        </TouchableOpacity>
           <Text style={styles.pageTitle}>Check Ur Fund 🔍</Text>
           <View style={{ width: 24 }} />
         </View>
@@ -456,38 +1041,57 @@ const loadElssFunds = async () => {
           {!selectedFund && searchResults.length > 0 && (
             <View style={styles.resultsContainer}>
               <Text style={styles.resultsTitle}>found {searchResults.length} funds</Text>
-              {searchResults.map((fund) => (
+              {searchResults.map((fund, fundIndex) => (
                 <TouchableOpacity
-                  key={fund.code}
+                  key={fundIndex}
                   style={styles.fundCard}
-                  onPress={() => getFundDetails(fund.code)}
+                  onPress={() => {
+                    setPreviousScreen('check');  // ✅ ADD THIS - Stay on check screen
+                    getFundDetails(fund.code);
+                    setSearchQuery('');  // ✅ ADD THIS - Clear search
+                    setSearchResults([]);  // ✅ ADD THIS - Clear results
+                  }}
                 >
                   <View style={styles.fundCardContent}>
-                    <View style={styles.fundInfo}>
-                      <Text style={styles.fundName} numberOfLines={2}>
-                        {fund.name}
-                      </Text>
-                      <View style={styles.fundTags}>
-                        {fund.type && (
-                          <View style={styles.tagBlue}>
-                            <Text style={styles.tagText}>{fund.type}</Text>
-                          </View>
-                        )}
-                        {fund.risk && (
-                          <View style={styles.tagRisk}>
-                            <Text style={styles.tagText}>{fund.risk}</Text>
-                          </View>
-                        )}
+                    <Text style={styles.fundName} numberOfLines={2}>
+                      {fund.name}
+                    </Text>
+                    
+                    {/* CATEGORY BADGE - NEW */}
+                    {fund.category && (
+                      <View style={styles.categoryRow}>
+                        <Text style={styles.categoryEmoji}>{fund.category_emoji}</Text>
+                        <Text style={styles.categoryText}>{fund.category}</Text>
                       </View>
-                    </View>
-                    <View style={styles.fundReturn}>
-                      <Text style={styles.returnValue}>
-                        {fund.cagr > 0 ? '+' : ''}{fund.cagr}%
-                      </Text>
-                      <Text style={styles.returnLabel}>CAGR</Text>
+                    )}
+                    
+                    <View style={styles.fundTags}>
+                      {fund.risk && (
+                        <View style={styles.tagRisk}>
+                          <Text style={styles.tagText}>{fund.risk}</Text>
+                        </View>
+                      )}
                     </View>
                   </View>
-                  <ChevronRight size={20} color="#6B7280" />
+                  
+                  {/* Score Badge - UPDATED */}
+                  {fund.score && (
+                    <View style={[
+                      styles.scoreBadge,
+                      fund.score.has_sufficient_data === false && styles.scoreBadgeInsufficient
+                    ]}>
+                      <Text style={styles.scoreEmoji}>{fund.score.tier.emoji}</Text>
+                      <Text style={[
+                        styles.scoreValue,
+                        fund.score.has_sufficient_data === false && styles.scoreValueInsufficient
+                      ]}>
+                        {fund.score.has_sufficient_data === false 
+                          ? 'N/A' 
+                          : Math.round(fund.score.total)
+                        }
+                      </Text>
+                    </View>
+                  )}
                 </TouchableOpacity>
               ))}
             </View>
@@ -499,6 +1103,274 @@ const loadElssFunds = async () => {
     <View style={styles.detailsCard}>
       {/* Fund Name & Code */}
       <Text style={styles.detailsName}>{selectedFund.name}</Text>
+
+      {/* CATEGORY BANNER - NEW */}
+      {selectedFund.category && (
+        <View style={styles.categoryBanner}>
+          <Text style={styles.categoryBannerEmoji}>{selectedFund.category_emoji}</Text>
+          <View style={styles.categoryBannerTextContainer}>
+            <Text style={styles.categoryBannerText}>{selectedFund.category}</Text>
+            <Text style={styles.categoryBannerSubtext}>
+              {selectedFund.sub_category || selectedFund.main_category}
+            </Text>
+          </View>
+        </View>
+      )}
+
+      {/* SCORE SECTION - COMPLETE DEBUG VERSION */}
+{selectedFund.score ? (
+  <View style={styles.scoreSection}>
+    
+    {/* Debug Box - Remove after fixing */}
+    <View style={{backgroundColor: '#FEF3C7', padding: 10, marginBottom: 10}}>
+      <Text style={{color: '#000', fontWeight: 'bold'}}>
+        DEBUG INFO:
+      </Text>
+      <Text style={{color: '#000'}}>
+        Score Total: {selectedFund.score.total ?? 'NULL'}
+      </Text>
+      <Text style={{color: '#000'}}>
+        Has Sufficient Data: {String(selectedFund.score.has_sufficient_data ?? 'NULL')}
+      </Text>
+      <Text style={{color: '#000'}}>
+        Tier: {selectedFund.score.tier?.label ?? 'NULL'}
+      </Text>
+    </View>
+    
+    {selectedFund.score.has_sufficient_data === false ? (
+      
+      // ========== INSUFFICIENT DATA WARNING ==========
+      <View style={styles.insufficientDataBanner}>
+        <Text style={styles.insufficientDataEmoji}>📊</Text>
+        <View style={styles.insufficientDataTextContainer}>
+          <Text style={styles.insufficientDataTitle}>Not Enough Data</Text>
+          <Text style={styles.insufficientDataReason}>
+            {selectedFund.score.reliability_reason || 'Insufficient historical data for reliable scoring'}
+          </Text>
+        </View>
+      </View>
+      
+    ) : selectedFund.score.total != null ? (
+      
+      // ========== SCORE CARD ==========
+      <View style={styles.scoreCard}>
+        
+        {/* Header with Score */}
+        <View style={styles.scoreHeader}>
+          <View>
+            <Text style={styles.scoreLabel}>Fund Score</Text>
+            <Text style={styles.scoreCategory}>
+              {selectedFund.score.category || 'Unknown'} Fund
+            </Text>
+          </View>
+          <View style={styles.scoreDisplay}>
+            <Text style={styles.scoreLarge}>
+              {Math.round(selectedFund.score.total)}
+            </Text>
+            <Text style={styles.scoreOutOf}>/100</Text>
+          </View>
+        </View>
+        
+        {/* Tier Badge */}
+        {selectedFund.score.tier && (
+          <View style={styles.scoreTier}>
+            <Text style={styles.scoreTierEmoji}>
+              {selectedFund.score.tier.emoji || '📊'}
+            </Text>
+            <Text style={styles.scoreTierLabel}>
+              {selectedFund.score.tier.label || 'Unknown'}
+            </Text>
+          </View>
+        )}
+        
+        {/* Visual Progress Meter */}
+        <View style={styles.scoreMeter}>
+          <View style={[
+            styles.scoreMeterFill,
+            { 
+              width: `${Math.min(Math.max(selectedFund.score.total || 0, 0), 100)}%`,
+              backgroundColor: selectedFund.score.tier?.color || '#3B82F6'
+            }
+          ]} />
+        </View>
+        
+        {/* Reliability Indicator */}
+        {selectedFund.score.reliability && (
+          <View style={styles.reliabilityRow}>
+            <Text style={styles.reliabilityLabel}>Reliability:</Text>
+            <Text style={[
+              styles.reliabilityValue,
+              selectedFund.score.reliability === 'High' && styles.reliabilityHigh,
+              selectedFund.score.reliability === 'Moderate' && styles.reliabilityModerate,
+              selectedFund.score.reliability === 'Preliminary' && styles.reliabilityPreliminary
+            ]}>
+              {selectedFund.score.reliability}
+            </Text>
+          </View>
+        )}
+        
+        {/* Metrics Count */}
+        {selectedFund.score.total_metrics_used != null && (
+          <Text style={styles.metricsUsed}>
+            Based on {selectedFund.score.total_metrics_used} of{' '}
+            {selectedFund.score.total_metrics_available || '12'} metrics
+          </Text>
+        )}
+        
+      </View>
+      
+    ) : (
+      
+      // ========== FALLBACK: NO SCORE DATA ==========
+      <View style={{backgroundColor: '#FEE2E2', padding: 16, borderRadius: 8}}>
+        <Text style={{color: '#991B1B', fontWeight: 'bold'}}>
+          Score data exists but total is null
+        </Text>
+        <Text style={{color: '#991B1B', fontSize: 12}}>
+          This should not happen - check backend scoring logic
+        </Text>
+      </View>
+      
+    )}
+  </View>
+) : (
+  
+  // ========== NO SCORE FIELD AT ALL ==========
+  <View style={{backgroundColor: '#FEE2E2', padding: 16, borderRadius: 8, margin: 16}}>
+    <Text style={{color: '#991B1B', fontWeight: 'bold'}}>
+      ⚠️ No Score Data Available
+    </Text>
+    <Text style={{color: '#991B1B', fontSize: 12, marginTop: 4}}>
+      Backend did not return score field. Run: python app/run_scoring.py
+    </Text>
+  </View>
+  
+)}
+
+
+{/* ========== SCORE BREAKDOWN SECTION - ADD THIS ========== */}
+{selectedFund.score && selectedFund.score.has_sufficient_data !== false && (
+  <>
+    {/* Breakdown Toggle Button */}
+    <TouchableOpacity 
+      style={styles.breakdownButton}
+      onPress={() => setShowScoreBreakdown(!showScoreBreakdown)}
+    >
+      <Text style={styles.breakdownButtonText}>
+        {showScoreBreakdown ? 'Hide' : 'Show'} Score Breakdown
+      </Text>
+      <Text style={styles.breakdownButtonIcon}>
+        {showScoreBreakdown ? '▲' : '▼'}
+      </Text>
+    </TouchableOpacity>
+    
+    {/* Collapsible Breakdown Content */}
+    {showScoreBreakdown && selectedFund.score.contributions && (
+      <View style={styles.scoreBreakdown}>
+        <Text style={styles.breakdownTitle}>Score Components</Text>
+        
+        {/* Show Top 8 Contributing Metrics */}
+        {Object.entries(selectedFund.score.contributions)
+          .sort(([,a], [,b]) => b - a)
+          .slice(0, 8)
+          .map(([metric, contribution]) => {
+            const metricData = selectedFund.score.normalized_metrics?.[metric];
+            return (
+              <View key={metric} style={styles.breakdownRow}>
+                
+                {/* Left Side: Metric Name & Value */}
+                <View style={styles.breakdownMetric}>
+                  <Text style={styles.breakdownMetricName}>
+                    {formatMetricName(metric)}
+                  </Text>
+                  <Text style={styles.breakdownMetricValue}>
+                    {formatMetricValue(metric, metricData?.raw)}
+                  </Text>
+                </View>
+                
+                {/* Right Side: Contribution & Bar */}
+                <View style={styles.breakdownContribution}>
+                  <Text style={styles.breakdownContributionValue}>
+                    +{contribution.toFixed(1)}
+                  </Text>
+                  <View style={styles.breakdownBar}>
+                    <View style={[
+                      styles.breakdownBarFill,
+                      { 
+                        width: `${Math.min((contribution / 20) * 100, 100)}%` 
+                      }
+                    ]} />
+                  </View>
+                </View>
+                
+              </View>
+            );
+          })}
+        
+        {/* Show Missing Metrics */}
+        {selectedFund.score.missing_metrics && 
+        selectedFund.score.missing_metrics.length > 0 && (
+          <View style={styles.missingMetrics}>
+            <Text style={styles.missingMetricsTitle}>
+              Missing Metrics ({selectedFund.score.missing_metrics.length})
+            </Text>
+            <Text style={styles.missingMetricsList}>
+              {selectedFund.score.missing_metrics
+                .slice(0, 5)
+                .map(formatMetricName)
+                .join(', ')}
+              {selectedFund.score.missing_metrics.length > 5 && '...'}
+            </Text>
+          </View>
+        )}
+        
+      </View>
+    )}
+  </>
+)}
+{/* ========== END SCORE BREAKDOWN SECTION ========== */}
+
+
+{/* Rest of existing content continues... */}
+
+
+{/* Rest of existing content continues... */}
+      {/* ✅ ADD SCORE SECTION HERE - RIGHT AFTER FUND NAME */}
+      {selectedFund.score && selectedFund.score.total != null && (
+        <View style={styles.scoreSection}>
+          <View style={styles.scoreHeader}>
+            <Text style={styles.scoreTitle}>Fund Score</Text>
+            {selectedFund.score.adjusted && (
+              <Text style={styles.scoreAdjusted}>*Adjusted</Text>
+            )}
+          </View>
+          
+          <View style={styles.scoreDisplay}>
+            <View style={styles.scoreCircle}>
+              <Text style={styles.scoreNumber}>
+                {selectedFund.score.total.toFixed(0)}
+              </Text>
+              <Text style={styles.scoreOutOf}>/100</Text>
+            </View>
+            
+            <View style={styles.scoreTierInfo}>
+              <Text style={styles.scoreTierEmoji}>
+                {selectedFund.score.tier.emoji}
+              </Text>
+              <Text style={styles.scoreTierLabel}>
+                {selectedFund.score.tier.label}
+              </Text>
+              {selectedFund.score.missing_metrics && 
+               selectedFund.score.missing_metrics.length > 0 && (
+                <Text style={styles.scoreMissing}>
+                  {selectedFund.score.missing_metrics.length} metrics missing
+                </Text>
+              )}
+            </View>
+          </View>
+        </View>
+      )}
+          
       <View style={styles.codeRow}>
         <Text style={styles.codeLabel}>AMFI Code:</Text>
         <Text style={styles.codeValue}>{selectedFund.code}</Text>
@@ -526,6 +1398,12 @@ const loadElssFunds = async () => {
         </View>
       )}
 
+      {(() => {
+        console.log('🔍 [DEBUG] About to render Investment Objective');
+        console.log('  - objective type:', typeof selectedFund?.objective);
+        console.log('  - objective value:', selectedFund?.objective?.substring?.(0, 100));
+        return null;
+      })()}
       {/* Investment Objective */}
       {selectedFund.objective && (
         <View style={styles.objectiveCard}>
@@ -534,6 +1412,12 @@ const loadElssFunds = async () => {
         </View>
       )}
 
+      {(() => {
+        console.log('🔍 [DEBUG] About to render Asset Allocation');
+        console.log('  - asset_allocation type:', typeof selectedFund?.asset_allocation);
+        console.log('  - asset_allocation value:', selectedFund?.asset_allocation?.substring?.(0, 100));
+        return null;
+      })()}
       {/* Asset Allocation */}
       {selectedFund.asset_allocation && (
         <View style={styles.objectiveCard}>
@@ -541,39 +1425,70 @@ const loadElssFunds = async () => {
           <Text style={styles.objectiveText}>
             {typeof selectedFund.asset_allocation === 'string' 
               ? selectedFund.asset_allocation 
-              : JSON.stringify(selectedFund.asset_allocation)}
+              : typeof selectedFund.asset_allocation === 'object'
+              ? JSON.stringify(selectedFund.asset_allocation, null, 2)
+              : String(selectedFund.asset_allocation)}
           </Text>
         </View>
       )}
 
       {/* Expense Ratio */}
-      {selectedFund.expense && (
-        <View style={styles.expenseCard}>
-          <Text style={styles.expenseTitle}>💰 Expense Ratio</Text>
-          <View style={styles.expenseRow}>
-            {selectedFund.expense.Direct && (
-              <View style={styles.expenseItem}>
-                <Text style={styles.expenseLabel}>Direct</Text>
-                <Text style={styles.expenseValue}>{selectedFund.expense.Direct}%</Text>
+      {(selectedFund.expense || selectedFund.annual_expense) && (() => {
+        const expenseData = selectedFund.expense || selectedFund.annual_expense;
+        console.log('💰 [DEBUG] Rendering expense section');
+        console.log('  - expenseData type:', typeof expenseData);
+        console.log('  - expenseData value:', expenseData);
+        console.log('  - expenseData keys:', typeof expenseData === 'object' ? Object.keys(expenseData) : 'N/A');
+        
+        // Handle case where expense might be empty object
+        if (typeof expenseData === 'object' && Object.keys(expenseData).length === 0) {
+          return null;
+        }
+        
+        return (
+          <View style={styles.expenseCard}>
+            <Text style={styles.expenseTitle}>💰 Expense Ratio</Text>
+            {typeof expenseData === 'object' ? (
+              <View style={styles.expenseRow}>
+                {expenseData.Direct != null && (
+                  <View style={styles.expenseItem}>
+                    <Text style={styles.expenseLabel}>Direct</Text>
+                    <Text style={styles.expenseValue}>{expenseData.Direct}%</Text>
+                  </View>
+                )}
+                {expenseData.Regular != null && (
+                  <View style={styles.expenseItem}>
+                    <Text style={styles.expenseLabel}>Regular</Text>
+                    <Text style={styles.expenseValue}>{expenseData.Regular}%</Text>
+                  </View>
+                )}
+                {expenseData.Retail != null && (
+                  <View style={styles.expenseItem}>
+                    <Text style={styles.expenseLabel}>Retail</Text>
+                    <Text style={styles.expenseValue}>{expenseData.Retail}%</Text>
+                  </View>
+                )}
               </View>
-            )}
-            {selectedFund.expense.Regular && (
-              <View style={styles.expenseItem}>
-                <Text style={styles.expenseLabel}>Regular</Text>
-                <Text style={styles.expenseValue}>{selectedFund.expense.Regular}%</Text>
-              </View>
+            ) : (
+              <Text style={styles.objectiveText}>{String(expenseData)}</Text>
             )}
           </View>
-        </View>
-      )}
+        );
+      })()}
 
+      {(() => {
+        console.log('🔍 [DEBUG] About to render Performance Metrics');
+        console.log('  - metrics:', typeof selectedFund?.metrics);
+        console.log('  - metrics keys:', selectedFund?.metrics ? Object.keys(selectedFund.metrics) : 'none');
+        return null;
+      })()}
       {/* Performance Metrics */}
       <Text style={styles.sectionHeader}>📊 Performance Metrics</Text>
       <View style={styles.metricsGrid}>
         <View style={styles.metricBox}>
           <Text style={styles.metricLabel}>CAGR</Text>
           <Text style={styles.metricValue}>
-            {selectedFund.metrics.cagr ? 
+            {selectedFund?.metrics?.cagr ? 
               `${(selectedFund.metrics.cagr * 100).toFixed(2)}%` : 
               'N/A'}
           </Text>
@@ -582,8 +1497,8 @@ const loadElssFunds = async () => {
         <View style={styles.metricBox}>
           <Text style={styles.metricLabel}>1Y Return</Text>
           <Text style={styles.metricValue}>
-            {selectedFund.metrics.return_1y ? 
-              `${(selectedFund.metrics.return_1y * 100).toFixed(1)}%` : 
+            {selectedFund?.metrics?.rolling_1y != null ? 
+              `${(selectedFund.metrics.rolling_1y * 100).toFixed(1)}%` : 
               'N/A'}
           </Text>
         </View>
@@ -591,8 +1506,8 @@ const loadElssFunds = async () => {
         <View style={styles.metricBox}>
           <Text style={styles.metricLabel}>3Y Return</Text>
           <Text style={styles.metricValue}>
-            {selectedFund.metrics.return_3y ? 
-              `${(selectedFund.metrics.return_3y * 100).toFixed(1)}%` : 
+            {selectedFund?.metrics?.rolling_3y != null ? 
+              `${(selectedFund.metrics.rolling_3y * 100).toFixed(1)}%` : 
               'N/A'}
           </Text>
         </View>
@@ -600,20 +1515,26 @@ const loadElssFunds = async () => {
         <View style={styles.metricBox}>
           <Text style={styles.metricLabel}>5Y Return</Text>
           <Text style={styles.metricValue}>
-            {selectedFund.metrics.return_5y ? 
-              `${(selectedFund.metrics.return_5y * 100).toFixed(1)}%` : 
+            {selectedFund?.metrics?.rolling_5y != null ? 
+              `${(selectedFund.metrics.rolling_5y * 100).toFixed(1)}%` : 
               'N/A'}
           </Text>
         </View>
       </View>
 
+      {(() => {
+        console.log('🔍 [DEBUG] About to render Risk Metrics');
+        console.log('  - volatility:', selectedFund?.metrics?.volatility);
+        console.log('  - sharpe:', selectedFund?.metrics?.sharpe);
+        return null;
+      })()}
       {/* Risk Metrics */}
       <Text style={styles.sectionHeader}>⚠️ Risk Metrics</Text>
       <View style={styles.metricsGrid}>
         <View style={styles.metricBox}>
           <Text style={styles.metricLabel}>Volatility</Text>
           <Text style={[styles.metricValue, styles.metricWarning]}>
-            {selectedFund.metrics.volatility ? 
+            {selectedFund?.metrics?.volatility != null ? 
               `${(selectedFund.metrics.volatility * 100).toFixed(2)}%` : 
               'N/A'}
           </Text>
@@ -622,7 +1543,7 @@ const loadElssFunds = async () => {
         <View style={styles.metricBox}>
           <Text style={styles.metricLabel}>Sharpe Ratio</Text>
           <Text style={styles.metricValue}>
-            {selectedFund.metrics.sharpe ? 
+            {selectedFund?.metrics?.sharpe != null ? 
               selectedFund.metrics.sharpe.toFixed(2) : 
               'N/A'}
           </Text>
@@ -631,7 +1552,7 @@ const loadElssFunds = async () => {
         <View style={styles.metricBox}>
           <Text style={styles.metricLabel}>Sortino Ratio</Text>
           <Text style={styles.metricValue}>
-            {selectedFund.metrics.sortino ? 
+            {selectedFund?.metrics?.sortino != null ? 
               selectedFund.metrics.sortino.toFixed(2) : 
               'N/A'}
           </Text>
@@ -640,7 +1561,7 @@ const loadElssFunds = async () => {
         <View style={styles.metricBox}>
           <Text style={styles.metricLabel}>Max Drawdown</Text>
           <Text style={[styles.metricValue, styles.metricDanger]}>
-            {selectedFund.metrics.max_drawdown ? 
+            {selectedFund?.metrics?.max_drawdown != null ? 
               `${(selectedFund.metrics.max_drawdown * 100).toFixed(1)}%` : 
               'N/A'}
           </Text>
@@ -662,7 +1583,14 @@ const loadElssFunds = async () => {
       </View>
 
       {/* Fund Managers */}
-      {selectedFund.managers && selectedFund.managers.length > 0 && (
+      {(() => {
+        console.log('👨‍💼 [DEBUG] Checking managers field');
+        console.log('  - managers:', typeof selectedFund?.managers, selectedFund?.managers);
+        console.log('  - fund_managers:', typeof selectedFund?.fund_managers, selectedFund?.fund_managers);
+        console.log('  - is array?', Array.isArray(selectedFund?.managers));
+        return null; // Just for logging
+      })()}
+      {selectedFund?.managers && Array.isArray(selectedFund.managers) && selectedFund.managers.length > 0 && (
         <View style={styles.managersCard}>
           <TouchableOpacity 
             style={styles.managersHeader}
@@ -678,46 +1606,454 @@ const loadElssFunds = async () => {
           
           {showManagers && (
             <View style={styles.managersList}>
-              {selectedFund.managers.map((manager, index) => (
-                <View key={index} style={styles.managerItem}>
+              {selectedFund.managers.map((manager, index) => {
+                const managerName = typeof manager === 'string' ? manager : (manager?.name || 'Unknown');
+                return (
+                <View key={`mgr-${index}-${managerName.substring(0, 20)}`} style={styles.managerItem}>
                   {/* Handle both string and object formats */}
                   {typeof manager === 'string' ? (
-                    <Text style={styles.managerName}>{manager}</Text>
+                    <Text style={styles.managerName}>{String(manager)}</Text>
                   ) : (
                     <>
                       <Text style={styles.managerName}>
-                        {manager.name || 'Name not available'}
+                        {manager.name ? String(manager.name) : 'Name not available'}
                       </Text>
                       {manager.type && (
                         <Text style={styles.managerType}>
-                          Role: {manager.type}
+                          Role: {String(manager.type)}
                         </Text>
                       )}
                       {manager.from_date && (
                         <Text style={styles.managerDate}>
-                          Since: {manager.from_date}
+                          Since: {String(manager.from_date)}
                         </Text>
                       )}
                     </>
                   )}
                 </View>
-              ))}
+                );
+              })}
             </View>
           )}
         </View>
       )}
 
+      {(() => {
+        console.log('🔍 [DEBUG] About to render Exit Load section');
+        console.log('  - exit_load:', typeof selectedFund?.exit_load, selectedFund?.exit_load);
+        return null;
+      })()}
       {/* Exit Load */}
+      {(() => {
+        console.log('🔍 [DEBUG] Inside Exit Load render');
+        console.log('  - Step 1: About to check exit_load conditions');
+        console.log('  - exit_load != null:', selectedFund?.exit_load != null);
+        console.log('  - exit_load !== "null":', selectedFund?.exit_load !== 'null');
+        console.log('  - exit_load !== "":', selectedFund?.exit_load !== '');
+        
+        const shouldShowExitLoad = selectedFund?.exit_load != null && 
+                                   selectedFund.exit_load !== 'null' && 
+                                   selectedFund.exit_load !== '';
+        
+        console.log('  - shouldShowExitLoad:', shouldShowExitLoad);
+        
+        if (shouldShowExitLoad) {
+          console.log('  - Step 2: Will show exit load:', String(selectedFund.exit_load).substring(0, 50));
+        } else {
+          console.log('  - Step 2: Will show "No Exit Load"');
+        }
+        
+        return null;
+      })()}
       <View style={styles.exitLoadCard}>
+        {(() => {
+          console.log('🔍 [DEBUG] Rendering Exit Load title');
+          return null;
+        })()}
         <Text style={styles.exitLoadTitle}>🚪 Exit Load</Text>
+        
+        {(() => {
+          console.log('🔍 [DEBUG] About to render Exit Load text');
+          return null;
+        })()}
         <Text style={styles.exitLoadText}>
-          {selectedFund.exit_load && selectedFund.exit_load !== 'null' && selectedFund.exit_load !== '' 
-            ? selectedFund.exit_load 
+          {selectedFund?.exit_load != null && selectedFund.exit_load !== 'null' && selectedFund.exit_load !== '' 
+            ? String(selectedFund.exit_load)
             : 'No Exit Load ✅'}
         </Text>
+        
+        {(() => {
+          console.log('🔍 [DEBUG] Exit Load text rendered successfully');
+          return null;
+        })()}
       </View>
-
       
+      {(() => {
+        console.log('🔍 [DEBUG] Exit Load section completed');
+        return null;
+      })()}
+
+      {(() => {
+        console.log('🔍 [DEBUG] About to render WARNING BANNER section');
+        console.log('  - is_reliable:', selectedFund?.is_reliable);
+        return null;
+      })()}
+      
+      {/* WARNING BANNER FOR INSUFFICIENT DATA */}
+      {selectedFund.is_reliable === false && (
+            <View style={styles.warningBanner}>
+              <Text style={styles.warningBannerIcon}>⚠️</Text>
+              <View style={styles.warningBannerTextContainer}>
+                <Text style={styles.warningBannerTitle}>Insufficient Historical Data</Text>
+                <Text style={styles.warningBannerText}>
+                  This fund has limited NAV history. Metrics may not be reliable.
+                </Text>
+              </View>
+            </View>
+          )}
+
+          {(() => {
+            console.log('🔍 [DEBUG] About to render ENHANCED METRICS WITH TABS');
+            console.log('  - metricsTab:', metricsTab);
+            console.log('  - metrics exists:', !!selectedFund?.metrics);
+            return null;
+          })()}
+          {/* ENHANCED METRICS WITH TABS */}
+          <View style={styles.metricsSection}>
+            {(() => {
+              console.log('🔍 [DEBUG] Rendering metrics section title');
+              return null;
+            })()}
+            <Text style={styles.sectionTitle}>📊 Performance Metrics</Text>
+            
+            <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.metricsTabsContainer}>
+              <TouchableOpacity
+                style={[styles.metricsTab, metricsTab === 'returns' && styles.metricsTabActive]}
+                onPress={() => setMetricsTab('returns')}
+              >
+                <Text style={styles.metricsTabIcon}>📈</Text>
+                <Text style={[styles.metricsTabLabel, metricsTab === 'returns' && styles.metricsTabLabelActive]}>
+                  Returns
+                </Text>
+              </TouchableOpacity>
+
+              <TouchableOpacity
+                style={[styles.metricsTab, metricsTab === 'risk' && styles.metricsTabActive]}
+                onPress={() => setMetricsTab('risk')}
+              >
+                <Text style={styles.metricsTabIcon}>⚠️</Text>
+                <Text style={[styles.metricsTabLabel, metricsTab === 'risk' && styles.metricsTabLabelActive]}>
+                  Risk
+                </Text>
+              </TouchableOpacity>
+
+              <TouchableOpacity
+                style={[styles.metricsTab, metricsTab === 'consistency' && styles.metricsTabActive]}
+                onPress={() => setMetricsTab('consistency')}
+              >
+                <Text style={styles.metricsTabIcon}>✅</Text>
+                <Text style={[styles.metricsTabLabel, metricsTab === 'consistency' && styles.metricsTabLabelActive]}>
+                  Consistency
+                </Text>
+              </TouchableOpacity>
+
+              <TouchableOpacity
+                style={[styles.metricsTab, metricsTab === 'advanced' && styles.metricsTabActive]}
+                onPress={() => setMetricsTab('advanced')}
+              >
+                <Text style={styles.metricsTabIcon}>🔬</Text>
+                <Text style={[styles.metricsTabLabel, metricsTab === 'advanced' && styles.metricsTabLabelActive]}>
+                  Advanced
+                </Text>
+              </TouchableOpacity>
+            </ScrollView>
+
+            {(() => {
+              console.log('🔍 [DEBUG] Checking returns tab');
+              console.log('  - metricsTab === "returns":', metricsTab === 'returns');
+              console.log('  - selectedFund.metrics exists:', !!selectedFund?.metrics);
+              return null;
+            })()}
+            {/* RETURNS TAB */}
+            {metricsTab === 'returns' && selectedFund.metrics && (
+              <View style={styles.metricsContent}>
+                {(() => {
+                  console.log('🔍 [DEBUG] Inside RETURNS TAB rendering');
+                  return null;
+                })()}
+                
+                {(() => {
+                  console.log('🔍 [DEBUG] About to render "Annualized Returns" title');
+                  return null;
+                })()}
+                <Text style={styles.metricsSectionTitle}>Annualized Returns</Text>
+                
+                {(() => {
+                  console.log('🔍 [DEBUG] About to render CAGR card');
+                  console.log('  - cagr value:', selectedFund?.metrics?.cagr);
+                  return null;
+                })()}
+                <View style={styles.metricCard}>
+                  {(() => {
+                    console.log('🔍 [DEBUG] Rendering CAGR label');
+                    return null;
+                  })()}
+                  <Text style={styles.metricLabel}>CAGR</Text>
+                  
+                  {(() => {
+                    console.log('🔍 [DEBUG] About to render CAGR value');
+                    const cagrValue = selectedFund?.metrics?.cagr != null ? `${(selectedFund.metrics.cagr * 100).toFixed(2)}%` : 'N/A';
+                    console.log('  - computed value:', cagrValue);
+                    return null;
+                  })()}
+                  <Text style={[styles.metricValue, { color: '#10B981' }]}>
+                    {selectedFund?.metrics?.cagr != null ? `${(selectedFund.metrics.cagr * 100).toFixed(2)}%` : 'N/A'}
+                  </Text>
+                  
+                  {(() => {
+                    console.log('🔍 [DEBUG] Rendering CAGR good value text');
+                    return null;
+                  })()}
+                  <Text style={styles.metricGoodValue}>{'>'}12% for equity</Text>
+                </View>
+                
+                {(() => {
+                  console.log('🔍 [DEBUG] CAGR card rendered successfully');
+                  return null;
+                })()}
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>1 YEAR ROLLING</Text>
+                  <Text style={[styles.metricValue, { color: '#A855F7' }]}>
+                    {selectedFund?.metrics?.rolling_1y != null ? `${(selectedFund.metrics.rolling_1y * 100).toFixed(2)}%` : 'N/A'}
+                  </Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>3 YEAR ROLLING</Text>
+                  <Text style={[styles.metricValue, { color: '#A855F7' }]}>
+                    {selectedFund?.metrics?.rolling_3y != null ? `${(selectedFund.metrics.rolling_3y * 100).toFixed(2)}%` : 'N/A'}
+                  </Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>5 YEAR ROLLING</Text>
+                  <Text style={[styles.metricValue, { color: '#A855F7' }]}>
+                    {selectedFund?.metrics?.rolling_5y != null ? `${(selectedFund.metrics.rolling_5y * 100).toFixed(2)}%` : 'N/A'}
+                  </Text>
+                </View>
+
+                <Text style={styles.metricsSectionTitle}>Absolute Returns</Text>
+                <View style={styles.metricsGrid}>
+                  <View style={styles.gridItem}>
+                    <Text style={styles.gridLabel}>1M</Text>
+                    <Text style={styles.gridValue}>
+                      {selectedFund?.metrics?.abs_return_1m != null ? `${selectedFund.metrics.abs_return_1m.toFixed(1)}%` : 'N/A'}
+                    </Text>
+                  </View>
+                  <View style={styles.gridItem}>
+                    <Text style={styles.gridLabel}>3M</Text>
+                    <Text style={styles.gridValue}>
+                      {selectedFund?.metrics?.abs_return_3m != null ? `${selectedFund.metrics.abs_return_3m.toFixed(1)}%` : 'N/A'}
+                    </Text>
+                  </View>
+                  <View style={styles.gridItem}>
+                    <Text style={styles.gridLabel}>6M</Text>
+                    <Text style={styles.gridValue}>
+                      {selectedFund?.metrics?.abs_return_6m != null ? `${selectedFund.metrics.abs_return_6m.toFixed(1)}%` : 'N/A'}
+                    </Text>
+                  </View>
+                  <View style={styles.gridItem}>
+                    <Text style={styles.gridLabel}>1Y</Text>
+                    <Text style={styles.gridValue}>
+                      {selectedFund?.metrics?.abs_return_1y != null ? `${selectedFund.metrics.abs_return_1y.toFixed(1)}%` : 'N/A'}
+                    </Text>
+                  </View>
+                  <View style={styles.gridItem}>
+                    <Text style={styles.gridLabel}>3Y</Text>
+                    <Text style={styles.gridValue}>
+                      {selectedFund?.metrics?.abs_return_3y != null ? `${selectedFund.metrics.abs_return_3y.toFixed(1)}%` : 'N/A'}
+                    </Text>
+                  </View>
+                  <View style={styles.gridItem}>
+                    <Text style={styles.gridLabel}>5Y</Text>
+                    <Text style={styles.gridValue}>
+                      {selectedFund?.metrics?.abs_return_5y != null ? `${selectedFund.metrics.abs_return_5y.toFixed(1)}%` : 'N/A'}
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            )}
+
+            {/* RISK TAB */}
+            {metricsTab === 'risk' && selectedFund.metrics && (
+              <View style={styles.metricsContent}>
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>VOLATILITY</Text>
+                  <Text style={[styles.metricValue, { color: '#EF4444' }]}>
+                    {selectedFund?.metrics?.volatility != null ? `${(selectedFund.metrics.volatility * 100).toFixed(2)}%` : 'N/A'}
+                  </Text>
+                  <Text style={styles.metricGoodValue}>Lower is better</Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>MAX DRAWDOWN</Text>
+                  <Text style={[styles.metricValue, { color: '#EF4444' }]}>
+                    {selectedFund?.metrics?.max_drawdown != null ? `${(selectedFund.metrics.max_drawdown * 100).toFixed(2)}%` : 'N/A'}
+                  </Text>
+                  <Text style={styles.metricGoodValue}>{'>'}−20% is acceptable</Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>DOWNSIDE DEVIATION</Text>
+                  <Text style={[styles.metricValue, { color: '#F59E0B' }]}>
+                    {selectedFund?.metrics?.downside_deviation != null ? `${(selectedFund.metrics.downside_deviation * 100).toFixed(2)}%` : 'N/A'}
+                  </Text>
+                  <Text style={styles.metricGoodValue}>Only downside volatility</Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>ULCER INDEX</Text>
+                  <Text style={[styles.metricValue, { color: '#F59E0B' }]}>
+                    {selectedFund?.metrics?.ulcer_index != null ? selectedFund.metrics.ulcer_index.toFixed(2) : 'N/A'}
+                  </Text>
+                  <Text style={styles.metricGoodValue}>{'<'} 5 low stress, {'>'} 10 high</Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>VALUE AT RISK (95%)</Text>
+                  <Text style={[styles.metricValue, { color: '#EF4444' }]}>
+                    {selectedFund?.metrics?.value_at_risk_95 != null ? `${(selectedFund.metrics.value_at_risk_95 * 100).toFixed(2)}%` : 'N/A'}
+                  </Text>
+                  <Text style={styles.metricGoodValue}>Max loss in worst 5% days</Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>PAIN INDEX</Text>
+                  <Text style={[styles.metricValue, { color: '#F59E0B' }]}>
+                    {selectedFund?.metrics?.pain_index != null ? selectedFund.metrics.pain_index.toFixed(2) : 'N/A'}
+                  </Text>
+                  <Text style={styles.metricGoodValue}>Average drawdown</Text>
+                </View>
+              </View>
+            )}
+
+            {/* CONSISTENCY TAB */}
+            {metricsTab === 'consistency' && selectedFund.metrics && (
+              <View style={styles.metricsContent}>
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>CONSISTENCY SCORE</Text>
+                  <Text style={[styles.metricValue, { color: '#10B981' }]}>
+                    {selectedFund?.metrics?.consistency_score != null ? `${selectedFund.metrics.consistency_score.toFixed(0)}%` : 'N/A'}
+                  </Text>
+                  <Text style={styles.metricGoodValue}>{'>'}60% is consistent</Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>POSITIVE MONTHS</Text>
+                  <Text style={[styles.metricValue, { color: '#10B981' }]}>
+                    {selectedFund?.metrics?.positive_months_pct != null ? `${selectedFund.metrics.positive_months_pct.toFixed(0)}%` : 'N/A'}
+                  </Text>
+                  <Text style={styles.metricGoodValue}>{'>'} 55% is good</Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>GAIN TO PAIN RATIO</Text>
+                  <Text style={[styles.metricValue, { color: '#A855F7' }]}>
+                    {selectedFund?.metrics?.gain_to_pain_ratio != null ? selectedFund.metrics.gain_to_pain_ratio.toFixed(2) : 'N/A'}
+                  </Text>
+                  <Text style={styles.metricGoodValue}>{'>'}2.0 excellent</Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>CURRENT DRAWDOWN</Text>
+                  <Text style={[styles.metricValue, { color: '#F59E0B' }]}>
+                    {selectedFund.metrics.current_drawdown_pct ? `${selectedFund.metrics.current_drawdown_pct.toFixed(2)}%` : 'N/A'}
+                  </Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>DAYS SINCE PEAK</Text>
+                  <Text style={[styles.metricValue, { color: '#6B7280' }]}>
+                    {selectedFund.metrics.days_since_peak ? `${selectedFund.metrics.days_since_peak} days` : 'N/A'}
+                  </Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>MAX RECOVERY TIME</Text>
+                  <Text style={[styles.metricValue, { color: '#6B7280' }]}>
+                    {selectedFund.metrics.max_recovery_time_days ? `${selectedFund.metrics.max_recovery_time_days} days` : 'N/A'}
+                  </Text>
+                </View>
+              </View>
+            )}
+
+            {/* ADVANCED TAB */}
+            {metricsTab === 'advanced' && selectedFund.metrics && (
+              <View style={styles.metricsContent}>
+                <Text style={styles.metricsSectionTitle}>Risk-Adjusted Returns</Text>
+                
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>SHARPE RATIO</Text>
+                  <Text style={[styles.metricValue, { color: '#6366F1' }]}>
+                    {selectedFund?.metrics?.sharpe != null ? selectedFund.metrics.sharpe.toFixed(2) : 'N/A'}
+                  </Text>
+                  <Text style={styles.metricGoodValue}>{'>'}1 good, {'>'}2 excellent</Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>SORTINO RATIO</Text>
+                  <Text style={[styles.metricValue, { color: '#6366F1' }]}>
+                    {selectedFund?.metrics?.sortino != null ? selectedFund.metrics.sortino.toFixed(2) : 'N/A'}
+                  </Text>
+                  <Text style={styles.metricGoodValue}>{'>'}1 good</Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>CALMAR RATIO</Text>
+                  <Text style={[styles.metricValue, { color: '#6366F1' }]}>
+                    {selectedFund?.metrics?.calmar_ratio != null ? selectedFund.metrics.calmar_ratio.toFixed(2) : 'N/A'}
+                  </Text>
+                  <Text style={styles.metricGoodValue}>{'>'}1 good, {'>'}3 excellent</Text>
+                </View>
+
+                <Text style={styles.metricsSectionTitle}>Distribution</Text>
+                
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>SKEWNESS</Text>
+                  <Text style={[styles.metricValue, { color: '#A855F7' }]}>
+                    {selectedFund?.metrics?.skewness != null ? selectedFund.metrics.skewness.toFixed(2) : 'N/A'}
+                  </Text>
+                  <Text style={styles.metricGoodValue}>+ = more extreme gains</Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>KURTOSIS</Text>
+                  <Text style={[styles.metricValue, { color: '#A855F7' }]}>
+                    {selectedFund?.metrics?.kurtosis != null ? selectedFund.metrics.kurtosis.toFixed(2) : 'N/A'}
+                  </Text>
+                  <Text style={styles.metricGoodValue}>{'>'}3 high tail risk</Text>
+                </View>
+
+                <Text style={styles.metricsSectionTitle}>Fund Info</Text>
+                
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>FUND AGE</Text>
+                  <Text style={[styles.metricValue, { color: '#6B7280' }]}>
+                    {selectedFund.metrics.fund_age_years ? `${selectedFund.metrics.fund_age_years.toFixed(1)} years` : 'N/A'}
+                  </Text>
+                </View>
+
+                <View style={styles.metricCard}>
+                  <Text style={styles.metricLabel}>DATA QUALITY</Text>
+                  <Text style={[styles.metricValue, { color: selectedFund.metrics.is_statistically_reliable ? '#10B981' : '#F59E0B' }]}>
+                    {selectedFund.metrics.is_statistically_reliable ? 'Reliable ✅' : 'Insufficient ⚠️'}
+                  </Text>
+                </View>
+              </View>
+            )}
+          </View>
+
       {/* Variants Dropdown */}
 
 
@@ -738,7 +2074,7 @@ const loadElssFunds = async () => {
           {showVariants && (
             <View style={styles.variantsList}>
               {selectedFund.variants.map((variant, index) => (
-                <View key={index} style={styles.variantItem}>
+                <View key={`variant-${variant.amfi_code}-${index}`} style={styles.variantItem}>
                   <Text style={styles.variantName}>{variant.scheme_name}</Text>
                   <Text style={styles.variantCode}>Code: {variant.amfi_code}</Text>
                 </View>
@@ -755,9 +2091,11 @@ const loadElssFunds = async () => {
       {selectedFund.ai_verdict && (
         <View style={styles.verdictCard}>
           <Text style={styles.verdictTitle}>🤖 AI Analysis</Text>
-          <Text style={styles.verdictText}>
-            {selectedFund.ai_verdict.verdict}
-          </Text>
+          {selectedFund.ai_verdict.verdict && (
+            <Text style={styles.verdictText}>
+              {String(selectedFund.ai_verdict.verdict)}
+            </Text>
+          )}
           
           {selectedFund.ai_verdict.score && (
             <View style={styles.scoreBar}>
@@ -773,15 +2111,23 @@ const loadElssFunds = async () => {
             </View>
           )}
           
-          <Text style={styles.verdictSubtitle}>✅ Pros:</Text>
-          {selectedFund.ai_verdict.pros.map((pro, i) => (
-            <Text key={i} style={styles.verdictPro}>• {pro}</Text>
-          ))}
+          {selectedFund.ai_verdict.pros && Array.isArray(selectedFund.ai_verdict.pros) && selectedFund.ai_verdict.pros.length > 0 && (
+            <>
+              <Text style={styles.verdictSubtitle}>✅ Pros:</Text>
+              {selectedFund.ai_verdict.pros.map((pro, i) => (
+                <Text key={`pro-${i}`} style={styles.verdictPro}>• {String(pro)}</Text>
+              ))}
+            </>
+          )}
           
-          <Text style={styles.verdictSubtitle}>⚠️ Watch Out:</Text>
-          {selectedFund.ai_verdict.cons.map((con, i) => (
-            <Text key={i} style={styles.verdictCon}>• {con}</Text>
-          ))}
+          {selectedFund.ai_verdict.cons && Array.isArray(selectedFund.ai_verdict.cons) && selectedFund.ai_verdict.cons.length > 0 && (
+            <>
+              <Text style={styles.verdictSubtitle}>⚠️ Watch Out:</Text>
+              {selectedFund.ai_verdict.cons.map((con, i) => (
+                <Text key={`con-${i}`} style={styles.verdictCon}>• {String(con)}</Text>
+              ))}
+            </>
+          )}
         </View>
       )}
 
@@ -816,7 +2162,13 @@ const loadElssFunds = async () => {
             </View>
           )}
         </ScrollView>
-        <NavBar />
+        <Navigation 
+          screen={screen}
+          setScreen={setScreen}
+          setSelectedFund={setSelectedFund}
+          setActiveTool={setActiveTool}
+          setSelectedTopic={setSelectedTopic}
+        />
       </View>
     );
   }
@@ -934,7 +2286,13 @@ if (screen === 'tools' && !activeTool) {
           </Text>
         </View>
       </ScrollView>
-      <NavBar />
+      <Navigation 
+          screen={screen}
+          setScreen={setScreen}
+          setSelectedFund={setSelectedFund}
+          setActiveTool={setActiveTool}
+          setSelectedTopic={setSelectedTopic}
+        />
     </View>
   );
 }
@@ -1947,6 +3305,759 @@ if (screen === 'tools' && activeTool === 'tax') {
 }
 
 
+// ========== MY FUND ANALYZER SCREEN ==========
+if (screen === 'myFundAnalyzer') {
+  return (
+    <View style={styles.container}>
+      {/* Header */}
+      <View style={styles.headerPurple}>
+        <TouchableOpacity onPress={() => {
+          setScreen('home');
+          setActiveTool(null);
+          setMyFundCode(null);
+          setMyFundData(null);
+          setRecommendations([]);
+        }}>
+          <ArrowLeft size={24} color="#fff" />
+        </TouchableOpacity>
+        <Text style={styles.pageTitle}>🔍 My Fund Analyzer</Text>
+        <View style={{ width: 24 }} />
+      </View>
+
+      <ScrollView style={styles.scrollView}>
+        
+        {/* Instructions Card */}
+        {!myFundData && (
+          <View style={styles.instructionsCard}>
+            <Text style={styles.instructionsTitle}>Find Better Alternatives</Text>
+            <Text style={styles.instructionsText}>
+              Enter your current mutual fund to get personalized recommendations for better performing funds in the same category.
+            </Text>
+          </View>
+        )}
+
+        {/* Search Box */}
+        <View style={styles.searchContainer}>
+          <View style={styles.searchBox}>
+            <Search size={20} color="#A78BFA" />
+            <TextInput
+              style={styles.searchInput}
+              placeholder="Search your fund..."
+              placeholderTextColor="#6B7280"
+              value={searchQuery}
+              onChangeText={(text) => {
+                setSearchQuery(text);
+                searchFunds(text);
+              }}
+            />
+          </View>
+        </View>
+
+        {/* Loading */}
+        {loading && (
+          <View style={styles.loadingContainer}>
+            <ActivityIndicator size="large" color="#A78BFA" />
+            <Text style={styles.loadingText}>Analyzing...</Text>
+          </View>
+        )}
+
+        {/* Search Results - Select Your Fund */}
+        {!myFundData && searchResults.length > 0 && (
+          <View style={styles.resultsContainer}>
+            <Text style={styles.resultsTitle}>Select Your Fund</Text>
+            {searchResults.map((fund, index) => (
+              <TouchableOpacity
+                key={index}
+                style={styles.fundCard}
+                onPress={() => {
+                  setSearchQuery('');
+                  setSearchResults([]);
+                  getRecommendations(fund.code);
+                }}
+              >
+                <View style={styles.fundCardContent}>
+                  <Text style={styles.fundName} numberOfLines={2}>
+                    {fund.name}
+                  </Text>
+                  
+                  {fund.category && (
+                    <View style={styles.categoryRow}>
+                      <Text style={styles.categoryEmoji}>{fund.category_emoji}</Text>
+                      <Text style={styles.categoryText}>{fund.category}</Text>
+                    </View>
+                  )}
+                </View>
+                
+                {fund.score && (
+                  <View style={styles.scoreBadge}>
+                    <Text style={styles.scoreEmoji}>{fund.score.tier.emoji}</Text>
+                    <Text style={styles.scoreValue}>
+                      {Math.round(fund.score.total)}
+                    </Text>
+                  </View>
+                )}
+              </TouchableOpacity>
+            ))}
+          </View>
+        )}
+
+        {/* Your Fund Analysis */}
+        {myFundData && (
+          <View style={styles.analyzerContainer}>
+            
+            {/* Your Fund Card */}
+            <View style={styles.yourFundCard}>
+              <Text style={styles.sectionTitle}>📊 Your Current Fund</Text>
+              
+              <View style={styles.yourFundDetails}>
+                <Text style={styles.yourFundName}>{myFundData.name}</Text>
+                
+                {myFundData.category && (
+                  <View style={styles.categoryRow}>
+                    <Text style={styles.categoryEmoji}>{myFundData.category_emoji}</Text>
+                    <Text style={styles.categoryText}>{myFundData.category}</Text>
+                  </View>
+                )}
+
+                <View style={styles.yourFundMetrics}>
+                  <View style={styles.metricItem}>
+                    <Text style={styles.metricLabel}>Score</Text>
+                    <View style={styles.scoreDisplay}>
+                      <Text style={styles.metricValue}>
+                        {myFundData.score?.total ? Math.round(myFundData.score.total) : 'N/A'}
+                      </Text>
+                      {myFundData.score?.tier && (
+                        <Text style={styles.scoreTierText}>
+                          {myFundData.score.tier.label}
+                        </Text>
+                      )}
+                    </View>
+                  </View>
+
+                  <View style={styles.metricItem}>
+                    <Text style={styles.metricLabel}>Expense Ratio</Text>
+                    <Text style={styles.metricValue}>
+                      {myFundData.expense_ratio?.toFixed(2)}%
+                    </Text>
+                  </View>
+
+                  <View style={styles.metricItem}>
+                    <Text style={styles.metricLabel}>CAGR</Text>
+                    <Text style={styles.metricValue}>
+                      {myFundData.cagr?.toFixed(2)}%
+                    </Text>
+                  </View>
+
+                  <View style={styles.metricItem}>
+                    <Text style={styles.metricLabel}>Sharpe Ratio</Text>
+                    <Text style={styles.metricValue}>
+                      {myFundData.sharpe?.toFixed(2)}
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+
+            {/* Recommendations Section */}
+            {recommendations.length > 0 ? (
+              <View style={styles.recommendationsSection}>
+                <Text style={styles.sectionTitle}>
+                  🎯 Better Alternatives Found ({recommendations.length})
+                </Text>
+                
+                {recommendations.map((rec, index) => (
+                  <View key={index} style={styles.recommendationCard}>
+                    
+                    {/* Switch Potential Badge */}
+                    <View style={[
+                      styles.switchPotentialBadge,
+                      rec.switch_potential === 'High' && styles.switchPotentialHigh,
+                      rec.switch_potential === 'Moderate' && styles.switchPotentialModerate,
+                      rec.switch_potential === 'Low' && styles.switchPotentialLow
+                    ]}>
+                      <Text style={styles.switchPotentialText}>
+                        {rec.switch_potential} Switch Potential
+                      </Text>
+                    </View>
+
+                    {/* Fund Name */}
+                    <Text style={styles.recommendationName}>{rec.name}</Text>
+                    
+                    {/* Category */}
+                    {rec.category && (
+                      <View style={styles.categoryRow}>
+                        <Text style={styles.categoryEmoji}>{rec.category_emoji}</Text>
+                        <Text style={styles.categoryText}>{rec.category}</Text>
+                      </View>
+                    )}
+
+                    {/* Score Comparison */}
+                    <View style={styles.scoreComparison}>
+                      <View style={styles.scoreCompareItem}>
+                        <Text style={styles.scoreCompareLabel}>Your Fund</Text>
+                        <Text style={styles.scoreCompareValue}>
+                          {myFundData.score?.total ? Math.round(myFundData.score.total) : 'N/A'}
+                        </Text>
+                      </View>
+                      
+                      <Text style={styles.scoreArrow}>→</Text>
+                      
+                      <View style={styles.scoreCompareItem}>
+                        <Text style={styles.scoreCompareLabel}>This Fund</Text>
+                        <Text style={[styles.scoreCompareValue, styles.scoreCompareHighlight]}>
+                          {rec.score?.total ? Math.round(rec.score.total) : 'N/A'}
+                        </Text>
+                      </View>
+                    </View>
+
+                    {/* Improvement Indicator */}
+                    <View style={styles.improvementRow}>
+                      <Text style={styles.improvementText}>
+                        📈 Better by +{rec.score_difference.toFixed(0)} points
+                      </Text>
+                    </View>
+
+                    {/* Key Metrics */}
+                    <View style={styles.recMetrics}>
+                      <View style={styles.recMetricItem}>
+                        <Text style={styles.recMetricLabel}>Expense</Text>
+                        <Text style={styles.recMetricValue}>
+                          {rec.expense_ratio?.toFixed(2)}%
+                        </Text>
+                        {rec.expense_difference > 0 && (
+                          <Text style={styles.expenseSavings}>
+                            (Save {rec.expense_difference.toFixed(2)}%)
+                          </Text>
+                        )}
+                      </View>
+
+                      <View style={styles.recMetricItem}>
+                        <Text style={styles.recMetricLabel}>CAGR</Text>
+                        <Text style={styles.recMetricValue}>
+                          {rec.cagr?.toFixed(2)}%
+                        </Text>
+                      </View>
+
+                      <View style={styles.recMetricItem}>
+                        <Text style={styles.recMetricLabel}>Sharpe</Text>
+                        <Text style={styles.recMetricValue}>
+                          {rec.sharpe?.toFixed(2)}
+                        </Text>
+                      </View>
+                    </View>
+
+                    {/* Action Buttons */}
+                    <View style={styles.recActions}>
+                      <TouchableOpacity
+                        style={styles.recButtonSecondary}
+                        onPress={() => {
+                          setPreviousScreen('myFundAnalyzer');  // ✅ ADD THIS
+                          getFundDetails(rec.code);
+                          setScreen('check');
+                        }}
+                      >
+                        <Text style={styles.recButtonSecondaryText}>View Details</Text>
+                      </TouchableOpacity>
+
+                      <TouchableOpacity
+                        style={styles.recButtonPrimary}
+                        onPress={() => {
+                          compareTwoFunds(myFundData.code, rec.code);
+                        }}
+                      >
+                        <Text style={styles.recButtonPrimaryText}>Compare</Text>
+                      </TouchableOpacity>
+                      <TouchableOpacity
+                        style={styles.recButtonCalculator}
+                        onPress={() => toggleCalculator(index)}
+                      >
+                        <Text style={styles.recButtonCalculatorText}>
+                          💰 Calculate Returns
+                        </Text>
+                      </TouchableOpacity>
+                    </View>
+
+                    {/* Investment Calculator Section */}
+{expandedCalculators[index] && (
+  <View style={styles.calculatorSection}>
+    <Text style={styles.calculatorTitle}>📊 Compare Your Investment</Text>
+    
+    {/* Amount Input */}
+    <View style={styles.inputGroup}>
+      <Text style={styles.inputLabel}>Investment Amount</Text>
+      <TextInput
+        style={styles.amountInput}
+        value={investmentInputs[index]?.amount || ''}
+        keyboardType="numeric"
+        placeholder="Enter amount (e.g., 50000)"
+        placeholderTextColor="#9CA3AF"
+        onChangeText={(text) => updateInvestmentInput(index, 'amount', text)}
+      />
+    </View>
+
+    {/* Date Input */}
+    <View style={styles.inputGroup}>
+      <Text style={styles.inputLabel}>Investment Date</Text>
+      <TouchableOpacity
+        style={styles.dateInput}
+        onPress={() => openDatePicker(index)}
+      >
+        <Text style={investmentInputs[index]?.date ? styles.dateInputText : styles.dateInputPlaceholder}>
+          {investmentInputs[index]?.date || 'Select date'}
+        </Text>
+        <Text style={styles.dateInputIcon}>📅</Text>
+      </TouchableOpacity>
+    </View>
+
+    {/* Calculate Button */}
+    <TouchableOpacity
+      style={styles.calculateButton}
+      onPress={() => calculateInvestmentComparison(index, myFundData.code, rec.code)}
+      disabled={calculatingReturns[index]}
+    >
+      <Text style={styles.calculateButtonText}>
+        {calculatingReturns[index] ? 'Calculating...' : 'Compare Returns'}
+      </Text>
+    </TouchableOpacity>
+
+    {/* Results Section */}
+    {comparisonResults[index] && (
+      <View style={styles.resultsSection}>
+        <Text style={styles.resultsTitle}>📈 Investment Comparison</Text>
+
+        {/* Adjustment Notice */}
+        {comparisonResults[index].adjustment?.adjusted && (
+          <View style={styles.adjustmentNotice}>
+            <Text style={styles.adjustmentIcon}>ℹ️</Text>
+            <View style={styles.adjustmentTextContainer}>
+              <Text style={styles.adjustmentTitle}>Date Adjusted for Fair Comparison</Text>
+              <Text style={styles.adjustmentText}>
+                {comparisonResults[index].adjustment.disclaimer}
+              </Text>
+              <Text style={styles.adjustmentDetail}>
+                Original Date: {comparisonResults[index].adjustment.original_date}
+              </Text>
+              <Text style={styles.adjustmentDetail}>
+                Comparison Date: {comparisonResults[index].adjustment.adjusted_date}
+              </Text>
+            </View>
+          </View>
+        )}
+
+
+        {/* Current Fund Results */}
+        <View style={styles.resultCard}>
+          <View style={styles.resultHeader}>
+            <Text style={styles.resultLabel}>Your Current Fund</Text>
+          </View>
+          <View style={styles.resultDetails}>
+            <View style={styles.resultRow}>
+              <Text style={styles.resultKey}>Invested</Text>
+              <Text style={styles.resultValue}>
+                {formatCurrency(comparisonResults[index].currentFund.investedAmount)}
+              </Text>
+            </View>
+            <View style={styles.resultRow}>
+              <Text style={styles.resultKey}>Current Value</Text>
+              <Text style={[styles.resultValue, styles.resultValueBold]}>
+                {formatCurrency(comparisonResults[index].currentFund.currentValue)}
+              </Text>
+            </View>
+            <View style={styles.resultRow}>
+              <Text style={styles.resultKey}>Returns</Text>
+              <Text style={[styles.resultValue, styles.returnPositive]}>
+                +{formatCurrency(comparisonResults[index].currentFund.absoluteReturns)}
+                {' '}({comparisonResults[index].currentFund.returnPercentage}%)
+              </Text>
+            </View>
+            <View style={styles.resultRow}>
+              <Text style={styles.resultKey}>XIRR</Text>
+              <Text style={styles.resultValue}>
+                {comparisonResults[index].currentFund.xirr}% p.a.
+              </Text>
+            </View>
+          </View>
+        </View>
+
+        {/* Recommended Fund Results */}
+        <View style={[styles.resultCard, styles.resultCardHighlight]}>
+          <View style={styles.resultHeader}>
+            <Text style={styles.resultLabel}>✨ Recommended Fund</Text>
+          </View>
+          <View style={styles.resultDetails}>
+            <View style={styles.resultRow}>
+              <Text style={styles.resultKey}>Invested</Text>
+              <Text style={styles.resultValue}>
+                {formatCurrency(comparisonResults[index].recommendedFund.investedAmount)}
+              </Text>
+            </View>
+            <View style={styles.resultRow}>
+              <Text style={styles.resultKey}>Current Value</Text>
+              <Text style={[styles.resultValue, styles.resultValueBold]}>
+                {formatCurrency(comparisonResults[index].recommendedFund.currentValue)}
+              </Text>
+            </View>
+            <View style={styles.resultRow}>
+              <Text style={styles.resultKey}>Returns</Text>
+              <Text style={[styles.resultValue, styles.returnPositive]}>
+                +{formatCurrency(comparisonResults[index].recommendedFund.absoluteReturns)}
+                {' '}({comparisonResults[index].recommendedFund.returnPercentage}%)
+              </Text>
+            </View>
+            <View style={styles.resultRow}>
+              <Text style={styles.resultKey}>XIRR</Text>
+              <Text style={styles.resultValue}>
+                {comparisonResults[index].recommendedFund.xirr}% p.a.
+              </Text>
+            </View>
+          </View>
+        </View>
+
+        {/* Difference Highlight */}
+        <View style={[
+          styles.differenceCard,
+          comparisonResults[index].difference.isPositive ? styles.differencePositive : styles.differenceNegative
+        ]}>
+          <Text style={styles.differenceTitle}>
+            {comparisonResults[index].difference.isPositive ? '🎉 You Would Have Gained' : '⚠️ Difference'}
+          </Text>
+          <Text style={styles.differenceAmount}>
+            {comparisonResults[index].difference.isPositive ? '+' : ''}
+            {formatCurrency(comparisonResults[index].difference.value)}
+          </Text>
+          <Text style={styles.differenceSubtext}>
+            ({comparisonResults[index].difference.isPositive ? '+' : ''}
+            {comparisonResults[index].difference.percentage}% higher returns)
+          </Text>
+          <Text style={styles.differenceDetail}>
+            XIRR Difference: {comparisonResults[index].difference.isPositive ? '+' : ''}
+            {comparisonResults[index].difference.xirr}% p.a.
+          </Text>
+        </View>
+      </View>
+    )}
+  </View>
+)}    
+
+                  </View>
+                ))}
+              </View>
+            ) : (
+              <View style={styles.noRecommendationsCard}>
+                <Text style={styles.noRecommendationsEmoji}>🎉</Text>
+                <Text style={styles.noRecommendationsTitle}>You're All Set!</Text>
+                <Text style={styles.noRecommendationsText}>
+                  Your fund is already one of the best performers in its category. No better alternatives found.
+                </Text>
+              </View>
+            )}
+
+            {/* Reset Button */}
+            <TouchableOpacity
+              style={styles.resetButton}
+              onPress={() => {
+                setMyFundCode(null);
+                setMyFundData(null);
+                setRecommendations([]);
+                setSearchQuery('');
+              }}
+            >
+              <Text style={styles.resetButtonText}>Analyze Another Fund</Text>
+            </TouchableOpacity>
+
+          </View>
+        )}
+
+      </ScrollView>
+      {/* Date Picker Modal */}
+      <DateTimePickerModal
+        isVisible={showDatePicker}
+        mode="date"
+        onConfirm={handleDateConfirm}
+        onCancel={() => setShowDatePicker(false)}
+        maximumDate={new Date()}
+        minimumDate={new Date(2000, 0, 1)}
+      />  
+      
+    </View>
+  );
+}
+
+
+// ========== COMPARISON SCREEN ==========
+if (screen === 'compare' && compareMode && comparisonData) {
+  const fund1 = comparisonData.fund1;
+  const fund2 = comparisonData.fund2;
+
+  return (
+    <View style={styles.container}>
+      {/* Header */}
+      <View style={styles.headerPurple}>
+        <TouchableOpacity onPress={() => {
+          setCompareMode(false);
+          setComparisonData(null);
+          setScreen('myFundAnalyzer');
+        }}>
+          <ArrowLeft size={24} color="#fff" />
+        </TouchableOpacity>
+        <Text style={styles.pageTitle}>⚖️ Compare Funds</Text>
+        <View style={{ width: 24 }} />
+      </View>
+
+      <ScrollView style={styles.scrollView}>
+        
+        {/* Fund Headers */}
+        <View style={styles.comparisonHeader}>
+          <View style={styles.comparisonFundCard}>
+            <Text style={styles.comparisonFundName} numberOfLines={2}>
+              {fund1.name}
+            </Text>
+            {fund1.score && (
+              <View style={styles.comparisonScore}>
+                <Text style={styles.comparisonScoreEmoji}>
+                  {fund1.score.tier?.emoji || '📊'}
+                </Text>
+                <Text style={styles.comparisonScoreValue}>
+                  {Math.round(fund1.score.total)}
+                </Text>
+              </View>
+            )}
+          </View>
+
+          <Text style={styles.comparisonVs}>VS</Text>
+
+          <View style={styles.comparisonFundCard}>
+            <Text style={styles.comparisonFundName} numberOfLines={2}>
+              {fund2.name}
+            </Text>
+            {fund2.score && (
+              <View style={styles.comparisonScore}>
+                <Text style={styles.comparisonScoreEmoji}>
+                  {fund2.score.tier?.emoji || '📊'}
+                </Text>
+                <Text style={styles.comparisonScoreValue}>
+                  {Math.round(fund2.score.total)}
+                </Text>
+              </View>
+            )}
+          </View>
+        </View>
+
+        {/* Comparison Table */}
+        <View style={styles.comparisonTable}>
+          
+          {/* Score */}
+          <View style={styles.comparisonRow}>
+            <Text style={styles.comparisonMetricName}>Overall Score</Text>
+            <View style={styles.comparisonValues}>
+              <Text style={[
+                styles.comparisonValue,
+                fund1.score?.total > fund2.score?.total && styles.comparisonValueBetter
+              ]}>
+                {fund1.score?.total ? Math.round(fund1.score.total) : 'N/A'}
+              </Text>
+              <Text style={[
+                styles.comparisonValue,
+                fund2.score?.total > fund1.score?.total && styles.comparisonValueBetter
+              ]}>
+                {fund2.score?.total ? Math.round(fund2.score.total) : 'N/A'}
+              </Text>
+            </View>
+          </View>
+
+          {/* Expense Ratio */}
+          <View style={styles.comparisonRow}>
+            <Text style={styles.comparisonMetricName}>Expense Ratio</Text>
+            <View style={styles.comparisonValues}>
+              <Text style={[
+                styles.comparisonValue,
+                parseFloat(fund1.expense?.Direct || 999) < parseFloat(fund2.expense?.Direct || 999) && styles.comparisonValueBetter
+              ]}>
+                {fund1.expense?.Direct || 'N/A'}%
+              </Text>
+              <Text style={[
+                styles.comparisonValue,
+                parseFloat(fund2.expense?.Direct || 999) < parseFloat(fund1.expense?.Direct || 999) && styles.comparisonValueBetter
+              ]}>
+                {fund2.expense?.Direct || 'N/A'}%
+              </Text>
+            </View>
+          </View>
+
+          {/* CAGR */}
+          <View style={styles.comparisonRow}>
+            <Text style={styles.comparisonMetricName}>CAGR</Text>
+            <View style={styles.comparisonValues}>
+              <Text style={[
+                styles.comparisonValue,
+                fund1.cagr > fund2.cagr && styles.comparisonValueBetter
+              ]}>
+                {fund1.cagr ? (fund1.cagr * 100).toFixed(2) : 'N/A'}%
+              </Text>
+              <Text style={[
+                styles.comparisonValue,
+                fund2.cagr > fund1.cagr && styles.comparisonValueBetter
+              ]}>
+                {fund2.cagr ? (fund2.cagr * 100).toFixed(2) : 'N/A'}%
+              </Text>
+            </View>
+          </View>
+
+          {/* Sharpe Ratio */}
+          <View style={styles.comparisonRow}>
+            <Text style={styles.comparisonMetricName}>Sharpe Ratio</Text>
+            <View style={styles.comparisonValues}>
+              <Text style={[
+                styles.comparisonValue,
+                fund1.sharpe > fund2.sharpe && styles.comparisonValueBetter
+              ]}>
+                {fund1.sharpe?.toFixed(2) || 'N/A'}
+              </Text>
+              <Text style={[
+                styles.comparisonValue,
+                fund2.sharpe > fund1.sharpe && styles.comparisonValueBetter
+              ]}>
+                {fund2.sharpe?.toFixed(2) || 'N/A'}
+              </Text>
+            </View>
+          </View>
+
+          {/* Sortino Ratio */}
+          <View style={styles.comparisonRow}>
+            <Text style={styles.comparisonMetricName}>Sortino Ratio</Text>
+            <View style={styles.comparisonValues}>
+              <Text style={[
+                styles.comparisonValue,
+                fund1.sortino > fund2.sortino && styles.comparisonValueBetter
+              ]}>
+                {fund1.sortino?.toFixed(2) || 'N/A'}
+              </Text>
+              <Text style={[
+                styles.comparisonValue,
+                fund2.sortino > fund1.sortino && styles.comparisonValueBetter
+              ]}>
+                {fund2.sortino?.toFixed(2) || 'N/A'}
+              </Text>
+            </View>
+          </View>
+
+          {/* Volatility */}
+          <View style={styles.comparisonRow}>
+            <Text style={styles.comparisonMetricName}>Volatility</Text>
+            <View style={styles.comparisonValues}>
+              <Text style={[
+                styles.comparisonValue,
+                fund1.volatility < fund2.volatility && styles.comparisonValueBetter
+              ]}>
+                {fund1.volatility ? (fund1.volatility * 100).toFixed(2) : 'N/A'}%
+              </Text>
+              <Text style={[
+                styles.comparisonValue,
+                fund2.volatility < fund1.volatility && styles.comparisonValueBetter
+              ]}>
+                {fund2.volatility ? (fund2.volatility * 100).toFixed(2) : 'N/A'}%
+              </Text>
+            </View>
+          </View>
+
+          {/* Max Drawdown */}
+          <View style={styles.comparisonRow}>
+            <Text style={styles.comparisonMetricName}>Max Drawdown</Text>
+            <View style={styles.comparisonValues}>
+              <Text style={[
+                styles.comparisonValue,
+                fund1.max_drawdown > fund2.max_drawdown && styles.comparisonValueBetter
+              ]}>
+                {fund1.max_drawdown ? (fund1.max_drawdown * 100).toFixed(2) : 'N/A'}%
+              </Text>
+              <Text style={[
+                styles.comparisonValue,
+                fund2.max_drawdown > fund1.max_drawdown && styles.comparisonValueBetter
+              ]}>
+                {fund2.max_drawdown ? (fund2.max_drawdown * 100).toFixed(2) : 'N/A'}%
+              </Text>
+            </View>
+          </View>
+
+          {/* Consistency Score */}
+          <View style={styles.comparisonRow}>
+            <Text style={styles.comparisonMetricName}>Consistency Score</Text>
+            <View style={styles.comparisonValues}>
+              <Text style={[
+                styles.comparisonValue,
+                fund1.consistency_score > fund2.consistency_score && styles.comparisonValueBetter
+              ]}>
+                {fund1.consistency_score?.toFixed(1) || 'N/A'}
+              </Text>
+              <Text style={[
+                styles.comparisonValue,
+                fund2.consistency_score > fund1.consistency_score && styles.comparisonValueBetter
+              ]}>
+                {fund2.consistency_score?.toFixed(1) || 'N/A'}
+              </Text>
+            </View>
+          </View>
+
+          {/* Positive Months % */}
+          <View style={styles.comparisonRow}>
+            <Text style={styles.comparisonMetricName}>Positive Months %</Text>
+            <View style={styles.comparisonValues}>
+              <Text style={[
+                styles.comparisonValue,
+                fund1.positive_months_pct > fund2.positive_months_pct && styles.comparisonValueBetter
+              ]}>
+                {fund1.positive_months_pct ? (fund1.positive_months_pct * 100).toFixed(0) : 'N/A'}%
+              </Text>
+              <Text style={[
+                styles.comparisonValue,
+                fund2.positive_months_pct > fund1.positive_months_pct && styles.comparisonValueBetter
+              ]}>
+                {fund2.positive_months_pct ? (fund2.positive_months_pct * 100).toFixed(0) : 'N/A'}%
+              </Text>
+            </View>
+          </View>
+
+          {/* Fund Age */}
+          <View style={styles.comparisonRow}>
+            <Text style={styles.comparisonMetricName}>Fund Age</Text>
+            <View style={styles.comparisonValues}>
+              <Text style={styles.comparisonValue}>
+                {fund1.fund_age} yrs
+              </Text>
+              <Text style={styles.comparisonValue}>
+                {fund2.fund_age} yrs
+              </Text>
+            </View>
+          </View>
+
+          {/* Risk Level */}
+          <View style={styles.comparisonRow}>
+            <Text style={styles.comparisonMetricName}>Risk Level</Text>
+            <View style={styles.comparisonValues}>
+              <Text style={styles.comparisonValue}>
+                {fund1.risk || 'N/A'}
+              </Text>
+              <Text style={styles.comparisonValue}>
+                {fund2.risk || 'N/A'}
+              </Text>
+            </View>
+          </View>
+
+        </View>
+
+        {/* Legend */}
+        <View style={styles.comparisonLegend}>
+          <Text style={styles.comparisonLegendText}>
+            💚 Green indicates better performance
+          </Text>
+        </View>
+
+      </ScrollView>
+    </View>
+  );
+}
+
+
 // ========== LEARN SECTION - MAIN SCREEN ==========
 if (screen === 'learn' && !selectedTopic) {
   const currentContent = activeTab === 'tips' ? learnContent.tips : 
@@ -2054,7 +4165,13 @@ if (screen === 'learn' && !selectedTopic) {
           )}
         </View>
       </ScrollView>
-      <NavBar />
+      <Navigation 
+          screen={screen}
+          setScreen={setScreen}
+          setSelectedFund={setSelectedFund}
+          setActiveTool={setActiveTool}
+          setSelectedTopic={setSelectedTopic}
+        />
     </View>
   );
 }
@@ -2092,7 +4209,13 @@ if (screen === 'advisor') {
         <Text style={styles.comingSoon}>AI Advisor 🤖</Text>
         <Text style={styles.comingSoonSub}>coming soon!</Text>
       </View>
-      <NavBar />
+      <Navigation 
+          screen={screen}
+          setScreen={setScreen}
+          setSelectedFund={setSelectedFund}
+          setActiveTool={setActiveTool}
+          setSelectedTopic={setSelectedTopic}
+        />
     </View>
   );
 }
@@ -2104,961 +4227,13 @@ return (
       <Text style={styles.comingSoon}>coming soon! 🚀</Text>
       <Text style={styles.comingSoonSub}>{screen} screen</Text>
     </View>
-    <NavBar />
+    <Navigation 
+          screen={screen}
+          setScreen={setScreen}
+          setSelectedFund={setSelectedFund}
+          setActiveTool={setActiveTool}
+          setSelectedTopic={setSelectedTopic}
+        />
   </View>
 );
 }
-
-const styles = StyleSheet.create({
-  container: { flex: 1, backgroundColor: '#0F0F0F' },
-  scrollView: { flex: 1, marginBottom: 80 },
-  scrollViewFull: { flex: 1 },  // No bottom margin
-  
-  // Header
-  header: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', padding: 20, paddingTop: 60 },
-  greeting: { color: '#A78BFA', fontSize: 14, fontWeight: '700' },
-  userName: { color: '#fff', fontSize: 30, fontWeight: '900' },
-  notificationButton: { width: 44, height: 44, backgroundColor: '#7C3AED', borderRadius: 16, alignItems: 'center', justifyContent: 'center', position: 'relative' },
-  notificationDot: { position: 'absolute', top: -4, right: -4, width: 12, height: 12, backgroundColor: '#FBBF24', borderRadius: 6 },
-  
-  // Streak Card
-  streakCard: { margin: 20, backgroundColor: 'rgba(124, 58, 237, 0.2)', borderRadius: 24, padding: 20, borderWidth: 1, borderColor: 'rgba(124, 58, 237, 0.3)' },
-  streakHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
-  streakTitle: { flexDirection: 'row', alignItems: 'center', gap: 8 },
-  streakText: { color: '#fff', fontSize: 16, fontWeight: '900' },
-  
-  // Sections
-  section: { padding: 20, paddingTop: 0 },
-  sectionTitle: { color: '#fff', fontSize: 18, fontWeight: '900', marginBottom: 16 },
-  
-  // Action Cards
-  actionCard: { borderRadius: 24, padding: 24, marginBottom: 12 },
-  purpleGradient: { backgroundColor: '#7C3AED' },
-  blueGradient: { backgroundColor: '#2563EB' },
-  orangeGradient: { backgroundColor: '#EA580C' },
-  actionContent: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
-  actionLeft: { flexDirection: 'row', alignItems: 'center', gap: 12 },
-  actionIcon: { width: 48, height: 48, backgroundColor: 'rgba(255, 255, 255, 0.2)', borderRadius: 16, alignItems: 'center', justifyContent: 'center' },
-  actionTitle: { color: '#fff', fontSize: 18, fontWeight: '900' },
-  actionSubtitle: { color: 'rgba(255, 255, 255, 0.8)', fontSize: 12 },
-  
-  // Market Cards
-  marketGrid: { flexDirection: 'row', gap: 12 },
-  marketCard: { flex: 1, borderRadius: 16, padding: 16, borderWidth: 1 },
-  greenCard: { backgroundColor: 'rgba(34, 197, 94, 0.2)', borderColor: 'rgba(34, 197, 94, 0.3)' },
-  blueCard: { backgroundColor: 'rgba(59, 130, 246, 0.2)', borderColor: 'rgba(59, 130, 246, 0.3)' },
-  marketLabel: { color: '#A78BFA', fontSize: 12, fontWeight: '700', marginBottom: 4 },
-  marketValue: { color: '#fff', fontSize: 24, fontWeight: '900' },
-  marketChange: { color: '#22C55E', fontSize: 12, fontWeight: '700' },
-  
-  // Check Screen Header
-  headerPurple: { backgroundColor: '#7C3AED', paddingTop: 60, paddingBottom: 20, paddingHorizontal: 20, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', borderBottomLeftRadius: 24, borderBottomRightRadius: 24 },
-  pageTitle: { color: '#fff', fontSize: 24, fontWeight: '900' },
-  
-  // Search
-  searchContainer: { padding: 20 },
-  searchBox: { backgroundColor: 'rgba(124, 58, 237, 0.2)', borderRadius: 16, padding: 16, flexDirection: 'row', alignItems: 'center', gap: 12, borderWidth: 1, borderColor: 'rgba(124, 58, 237, 0.3)' },
-  searchInput: { flex: 1, color: '#fff', fontSize: 16 },
-  
-  // Loading
-  loadingContainer: { alignItems: 'center', padding: 40 },
-  loadingText: { color: '#A78BFA', marginTop: 12, fontSize: 14, fontWeight: '700' },
-  
-  // Results
-  resultsContainer: { padding: 20, paddingTop: 0 },
-  resultsTitle: { color: '#A78BFA', fontSize: 14, fontWeight: '700', marginBottom: 12 },
-  
-  // Fund Card
-  fundCard: { backgroundColor: 'rgba(26, 26, 26, 0.8)', borderRadius: 16, padding: 16, marginBottom: 12, borderWidth: 1, borderColor: 'rgba(124, 58, 237, 0.3)', flexDirection: 'row', alignItems: 'center', gap: 12 },
-  fundCardContent: { flex: 1, flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
-  fundInfo: { flex: 1 },
-  fundName: { color: '#fff', fontSize: 16, fontWeight: '700', marginBottom: 8 },
-  fundTags: { flexDirection: 'row', gap: 8, flexWrap: 'wrap' },
-  tagBlue: { backgroundColor: 'rgba(59, 130, 246, 0.3)', paddingHorizontal: 8, paddingVertical: 4, borderRadius: 8 },
-  tagRisk: { backgroundColor: 'rgba(251, 146, 60, 0.3)', paddingHorizontal: 8, paddingVertical: 4, borderRadius: 8 },
-  tagText: { color: '#fff', fontSize: 10, fontWeight: '700' },
-  fundReturn: { alignItems: 'flex-end', marginLeft: 12 },
-  returnValue: { color: '#22C55E', fontSize: 20, fontWeight: '900' },
-  returnLabel: { color: '#6B7280', fontSize: 10, fontWeight: '700' },
-  
-  // Details
-  detailsContainer: { padding: 20 },
-  detailsCard: { backgroundColor: 'rgba(26, 26, 26, 0.8)', borderRadius: 24, padding: 20, borderWidth: 1, borderColor: 'rgba(124, 58, 237, 0.3)' },
-  detailsName: { color: '#fff', fontSize: 20, fontWeight: '900', marginBottom: 12 },
-  detailsTags: { flexDirection: 'row', gap: 8, marginBottom: 20, flexWrap: 'wrap' },
-  
-  // Metrics
-  metricsGrid: { flexDirection: 'row', flexWrap: 'wrap', gap: 12, marginBottom: 20 },
-  metricBox: { backgroundColor: 'rgba(124, 58, 237, 0.2)', borderRadius: 12, padding: 12, flex: 1, minWidth: '45%' },
-  metricLabel: { color: '#A78BFA', fontSize: 12, fontWeight: '700' },
-  metricValue: { color: '#22C55E', fontSize: 20, fontWeight: '900', marginTop: 4 },
-  
-  // Verdict
-  verdictCard: { backgroundColor: 'rgba(124, 58, 237, 0.15)', borderRadius: 16, padding: 16, marginBottom: 20 },
-  verdictTitle: { color: '#A78BFA', fontSize: 14, fontWeight: '700', marginBottom: 8 },
-  verdictText: { color: '#fff', fontSize: 24, fontWeight: '900', marginBottom: 16 },
-  verdictSubtitle: { color: '#A78BFA', fontSize: 12, fontWeight: '700', marginTop: 12, marginBottom: 8 },
-  verdictPro: { color: '#22C55E', fontSize: 14, marginBottom: 4 },
-  verdictCon: { color: '#FB923C', fontSize: 14, marginBottom: 4 },
-  
-  // Back Button
-  backButton: { backgroundColor: 'rgba(124, 58, 237, 0.3)', borderRadius: 12, padding: 16, alignItems: 'center' },
-  backButtonText: { color: '#A78BFA', fontSize: 16, fontWeight: '700' },
-  
-  // Empty State
-  emptyState: { alignItems: 'center', padding: 60 },
-  emptyText: { color: '#fff', fontSize: 20, fontWeight: '900', marginBottom: 8 },
-  emptySubtext: { color: '#6B7280', fontSize: 14 },
-  
-  // Nav Bar
-  navbar: { position: 'absolute', bottom: 0, left: 0, right: 0, height: 80, backgroundColor: 'rgba(0, 0, 0, 0.9)', flexDirection: 'row', justifyContent: 'space-around', alignItems: 'center', borderTopWidth: 1, borderTopColor: 'rgba(124, 58, 237, 0.3)', paddingBottom: 20 },
-  navButton: { alignItems: 'center', gap: 4 },
-  navLabel: { fontSize: 10, fontWeight: '700' },
-  
-  // Coming Soon
-  comingSoonContainer: { flex: 1, alignItems: 'center', justifyContent: 'center', marginBottom: 80 },
-  comingSoon: { color: '#fff', fontSize: 24, fontWeight: '900' },
-  comingSoonSub: { color: '#6B7280', fontSize: 16, marginTop: 8 },
-
-
-// Info Row
-codeRow: { flexDirection: 'row', alignItems: 'center', gap: 8, marginBottom: 16 },
-codeLabel: { color: '#6B7280', fontSize: 12, fontWeight: '700' },
-codeValue: { color: '#A78BFA', fontSize: 12, fontWeight: '700', fontFamily: 'monospace' },
-
-infoRow: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 12, paddingVertical: 8, borderBottomWidth: 1, borderBottomColor: 'rgba(124, 58, 237, 0.2)' },
-infoLabel: { color: '#A78BFA', fontSize: 14, fontWeight: '700' },
-infoValue: { color: '#fff', fontSize: 14, fontWeight: '600' },
-
-// Objective Card
-objectiveCard: { backgroundColor: 'rgba(59, 130, 246, 0.1)', borderRadius: 12, padding: 16, marginBottom: 16, borderLeftWidth: 4, borderLeftColor: '#3B82F6' },
-objectiveTitle: { color: '#3B82F6', fontSize: 14, fontWeight: '900', marginBottom: 8 },
-objectiveText: { color: '#E5E7EB', fontSize: 13, lineHeight: 20 },
-
-// Expense Card
-expenseCard: { backgroundColor: 'rgba(34, 197, 94, 0.1)', borderRadius: 12, padding: 16, marginBottom: 16, borderLeftWidth: 4, borderLeftColor: '#22C55E' },
-expenseTitle: { color: '#22C55E', fontSize: 14, fontWeight: '900', marginBottom: 12 },
-expenseRow: { flexDirection: 'row', gap: 12 },
-expenseItem: { flex: 1, backgroundColor: 'rgba(34, 197, 94, 0.1)', borderRadius: 8, padding: 12, alignItems: 'center' },
-expenseLabel: { color: '#6B7280', fontSize: 11, fontWeight: '700', marginBottom: 4 },
-expenseValue: { color: '#22C55E', fontSize: 18, fontWeight: '900' },
-
-// Section Headers
-sectionHeader: { color: '#fff', fontSize: 16, fontWeight: '900', marginTop: 20, marginBottom: 12 },
-
-// Metric Variants
-metricWarning: { color: '#FB923C' },
-metricDanger: { color: '#EF4444' },
-metricDisabled: { opacity: 0.4 },
-metricPlaceholder: { color: '#6B7280', fontSize: 14, marginTop: 4, fontStyle: 'italic' },
-
-// Variants Card
-variantsCard: { backgroundColor: 'rgba(124, 58, 237, 0.1)', borderRadius: 12, marginBottom: 16, overflow: 'hidden' },
-variantsHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', padding: 16 },
-variantsTitle: { color: '#A78BFA', fontSize: 14, fontWeight: '900' },
-variantsToggle: { color: '#A78BFA', fontSize: 16, fontWeight: '900' },
-variantsList: { paddingHorizontal: 16, paddingBottom: 16 },
-variantItem: { backgroundColor: 'rgba(0, 0, 0, 0.3)', borderRadius: 8, padding: 12, marginBottom: 8 },
-variantName: { color: '#fff', fontSize: 13, fontWeight: '600', marginBottom: 4 },
-variantCode: { color: '#6B7280', fontSize: 11, fontFamily: 'monospace' },
-
-// Score Bar
-scoreBar: { marginVertical: 12 },
-scoreBarBg: { height: 8, backgroundColor: 'rgba(255, 255, 255, 0.1)', borderRadius: 4, overflow: 'hidden' },
-scoreBarFill: { height: '100%', backgroundColor: '#22C55E', borderRadius: 4 },
-scoreText: { color: '#A78BFA', fontSize: 12, fontWeight: '700', marginTop: 8, textAlign: 'center' },
-
-
-// Fund Managers
-managersCard: { 
-  backgroundColor: 'rgba(168, 85, 247, 0.1)', 
-  borderRadius: 12, 
-  marginBottom: 16, 
-  overflow: 'hidden',
-  borderLeftWidth: 4,
-  borderLeftColor: '#A855F7'
-},
-managersHeader: { 
-  flexDirection: 'row', 
-  justifyContent: 'space-between', 
-  alignItems: 'center', 
-  padding: 16 
-},
-managersTitle: { 
-  color: '#A855F7', 
-  fontSize: 14, 
-  fontWeight: '900' 
-},
-managersToggle: { 
-  color: '#A855F7', 
-  fontSize: 16, 
-  fontWeight: '900' 
-},
-managersList: { 
-  paddingHorizontal: 16, 
-  paddingBottom: 16 
-},
-managerItem: { 
-  backgroundColor: 'rgba(0, 0, 0, 0.3)', 
-  borderRadius: 8, 
-  padding: 12, 
-  marginBottom: 8 
-},
-managerName: { 
-  color: '#fff', 
-  fontSize: 15, 
-  fontWeight: '700', 
-  marginBottom: 4 
-},
-managerType: { 
-  color: '#A855F7', 
-  fontSize: 12, 
-  fontWeight: '600', 
-  marginBottom: 2 
-},
-managerDate: { 
-  color: '#6B7280', 
-  fontSize: 11 
-},
-
-// Exit Load
-exitLoadCard: { 
-  backgroundColor: 'rgba(236, 72, 153, 0.1)', 
-  borderRadius: 12, 
-  padding: 16, 
-  marginBottom: 16,
-  borderLeftWidth: 4,
-  borderLeftColor: '#EC4899'
-},
-exitLoadTitle: { 
-  color: '#EC4899', 
-  fontSize: 14, 
-  fontWeight: '900', 
-  marginBottom: 8 
-},
-exitLoadText: { 
-  color: '#E5E7EB', 
-  fontSize: 13, 
-  lineHeight: 20 
-},
-
-// Tools Screen
-headerOrange: { 
-  backgroundColor: '#F97316', 
-  paddingTop: 60, 
-  paddingBottom: 20, 
-  paddingHorizontal: 20, 
-  flexDirection: 'row', 
-  alignItems: 'center', 
-  justifyContent: 'space-between', 
-  borderBottomLeftRadius: 24, 
-  borderBottomRightRadius: 24 
-},
-headerBlue: { 
-  backgroundColor: '#3B82F6', 
-  paddingTop: 60, 
-  paddingBottom: 20, 
-  paddingHorizontal: 20, 
-  flexDirection: 'row', 
-  alignItems: 'center', 
-  justifyContent: 'space-between', 
-  borderBottomLeftRadius: 24, 
-  borderBottomRightRadius: 24 
-},
-toolsContainer: { 
-  padding: 20 
-},
-toolCard: { 
-  backgroundColor: 'rgba(26, 26, 26, 0.8)', 
-  borderRadius: 16, 
-  padding: 16, 
-  marginBottom: 12, 
-  borderWidth: 1, 
-  borderColor: 'rgba(255, 255, 255, 0.1)', 
-  borderLeftWidth: 4, 
-  flexDirection: 'row', 
-  alignItems: 'center', 
-  justifyContent: 'space-between' 
-},
-toolContent: { 
-  flexDirection: 'row', 
-  alignItems: 'center', 
-  gap: 16, 
-  flex: 1 
-},
-toolIcon: { 
-  width: 56, 
-  height: 56, 
-  borderRadius: 16, 
-  alignItems: 'center', 
-  justifyContent: 'center' 
-},
-toolEmoji: { 
-  fontSize: 28 
-},
-toolInfo: { 
-  flex: 1 
-},
-toolTitle: { 
-  color: '#fff', 
-  fontSize: 16, 
-  fontWeight: '900', 
-  marginBottom: 4 
-},
-toolSubtitle: { 
-  color: '#9CA3AF', 
-  fontSize: 12 
-},
-disclaimer: { 
-  margin: 20, 
-  marginTop: 0, 
-  padding: 16, 
-  backgroundColor: 'rgba(251, 191, 36, 0.1)', 
-  borderRadius: 12, 
-  borderLeftWidth: 4, 
-  borderLeftColor: '#FBBF24' 
-},
-disclaimerText: { 
-  color: '#FCD34D', 
-  fontSize: 12, 
-  lineHeight: 18 
-},
-
-// Calculator
-calculatorContainer: { 
-  padding: 20 
-},
-inputGroup: { 
-  marginBottom: 24 
-},
-inputLabel: { 
-  color: '#E5E7EB', 
-  fontSize: 14, 
-  fontWeight: '700', 
-  marginBottom: 8 
-},
-calculatorInput: { 
-  backgroundColor: 'rgba(59, 130, 246, 0.1)', 
-  borderWidth: 1, 
-  borderColor: 'rgba(59, 130, 246, 0.3)', 
-  borderRadius: 12, 
-  padding: 16, 
-  color: '#fff', 
-  fontSize: 16, 
-  fontWeight: '600' 
-},
-inputHint: { 
-  color: '#6B7280', 
-  fontSize: 11, 
-  marginTop: 6, 
-  fontStyle: 'italic' 
-},
-calculateButton: { 
-  backgroundColor: '#3B82F6', 
-  borderRadius: 16, 
-  padding: 18, 
-  alignItems: 'center', 
-  marginTop: 8, 
-  marginBottom: 24 
-},
-calculateButtonText: { 
-  color: '#fff', 
-  fontSize: 18, 
-  fontWeight: '900' 
-},
-
-// Results
-resultsCard: { 
-  backgroundColor: 'rgba(16, 185, 129, 0.1)', 
-  borderRadius: 16, 
-  padding: 20, 
-  borderWidth: 1, 
-  borderColor: 'rgba(16, 185, 129, 0.3)' 
-},
-resultsTitle: { 
-  color: '#10B981', 
-  fontSize: 18, 
-  fontWeight: '900', 
-  marginBottom: 20, 
-  textAlign: 'center' 
-},
-resultRow: { 
-  flexDirection: 'row', 
-  justifyContent: 'space-between', 
-  alignItems: 'center', 
-  paddingVertical: 12, 
-  borderBottomWidth: 1, 
-  borderBottomColor: 'rgba(255, 255, 255, 0.1)' 
-},
-resultRowTotal: { 
-  borderBottomWidth: 0, 
-  marginTop: 8, 
-  paddingTop: 16, 
-  borderTopWidth: 2, 
-  borderTopColor: '#10B981' 
-},
-resultLabel: { 
-  color: '#9CA3AF', 
-  fontSize: 14, 
-  fontWeight: '600' 
-},
-resultValue: { 
-  color: '#fff', 
-  fontSize: 18, 
-  fontWeight: '900' 
-},
-resultGain: { 
-  color: '#10B981' 
-},
-resultLabelTotal: { 
-  color: '#10B981', 
-  fontSize: 16, 
-  fontWeight: '900' 
-},
-resultValueTotal: { 
-  color: '#10B981', 
-  fontSize: 24, 
-  fontWeight: '900' 
-},
-
-// Visual Bar
-visualBar: { 
-  marginTop: 20, 
-  marginBottom: 16 
-},
-visualBarSection: { 
-  marginBottom: 12 
-},
-visualBarFill: { 
-  height: 32, 
-  borderRadius: 8, 
-  justifyContent: 'center', 
-  paddingHorizontal: 12, 
-  marginBottom: 4 
-},
-visualBarLabel: { 
-  color: '#E5E7EB', 
-  fontSize: 12, 
-  fontWeight: '700' 
-},
-
-// Insight
-insightCard: { 
-  backgroundColor: 'rgba(59, 130, 246, 0.1)', 
-  borderRadius: 12, 
-  padding: 16, 
-  marginTop: 16 
-},
-insightText: { 
-  color: '#E5E7EB', 
-  fontSize: 13, 
-  lineHeight: 20 
-},
-
-// Add these to your existing styles object:
-
-// Comparison Sections
-compareSection: { 
-  backgroundColor: 'rgba(59, 130, 246, 0.1)', 
-  borderRadius: 12, 
-  padding: 16, 
-  marginBottom: 16,
-  borderLeftWidth: 4,
-  borderLeftColor: '#3B82F6'
-},
-compareSectionTitle: { 
-  color: '#3B82F6', 
-  fontSize: 16, 
-  fontWeight: '900', 
-  marginBottom: 12 
-},
-
-// Winner Card
-winnerCard: { 
-  backgroundColor: 'rgba(251, 191, 36, 0.2)', 
-  borderRadius: 12, 
-  padding: 16, 
-  marginTop: 16,
-  alignItems: 'center',
-  borderWidth: 2,
-  borderColor: '#FBBF24'
-},
-winnerText: { 
-  color: '#FBBF24', 
-  fontSize: 20, 
-  fontWeight: '900', 
-  marginBottom: 8 
-},
-winnerSubtext: { 
-  color: '#FCD34D', 
-  fontSize: 13, 
-  textAlign: 'center' 
-},
-
-// Fund Compare Styles
-searchResultsBox: { 
-  backgroundColor: 'rgba(26, 26, 26, 0.8)', 
-  borderRadius: 12, 
-  marginBottom: 16,
-  maxHeight: 250,
-  borderWidth: 1,
-  borderColor: 'rgba(236, 72, 153, 0.3)'
-},
-searchResultItem: { 
-  padding: 16, 
-  borderBottomWidth: 1, 
-  borderBottomColor: 'rgba(255, 255, 255, 0.1)',
-  flexDirection: 'row',
-  justifyContent: 'space-between',
-  alignItems: 'center'
-},
-searchResultName: { 
-  color: '#fff', 
-  fontSize: 14, 
-  fontWeight: '600',
-  flex: 1,
-  marginRight: 12
-},
-searchResultCagr: { 
-  color: '#10B981', 
-  fontSize: 14, 
-  fontWeight: '900' 
-},
-
-// Selected Funds
-selectedFundsContainer: { 
-  marginBottom: 24 
-},
-selectedFundCard: { 
-  backgroundColor: 'rgba(236, 72, 153, 0.2)', 
-  borderRadius: 12, 
-  padding: 16, 
-  marginBottom: 8,
-  flexDirection: 'row',
-  alignItems: 'center',
-  justifyContent: 'space-between',
-  borderWidth: 1,
-  borderColor: 'rgba(236, 72, 153, 0.4)'
-},
-selectedFundInfo: { 
-  flex: 1, 
-  marginRight: 12 
-},
-selectedFundName: { 
-  color: '#fff', 
-  fontSize: 14, 
-  fontWeight: '700', 
-  marginBottom: 4 
-},
-selectedFundCagr: { 
-  color: '#EC4899', 
-  fontSize: 12, 
-  fontWeight: '600' 
-},
-removeFundButton: { 
-  color: '#EF4444', 
-  fontSize: 24, 
-  fontWeight: '900',
-  width: 32,
-  height: 32,
-  textAlign: 'center'
-},
-
-// Comparison Table
-comparisonTable: { 
-  backgroundColor: 'rgba(236, 72, 153, 0.1)', 
-  borderRadius: 16, 
-  padding: 16,
-  marginTop: 16,
-  borderWidth: 1,
-  borderColor: 'rgba(236, 72, 153, 0.3)'
-},
-comparisonRow: { 
-  flexDirection: 'row', 
-  paddingVertical: 12, 
-  borderBottomWidth: 1, 
-  borderBottomColor: 'rgba(255, 255, 255, 0.1)',
-  alignItems: 'center'
-},
-comparisonLabel: { 
-  color: '#EC4899', 
-  fontSize: 13, 
-  fontWeight: '700',
-  width: 80
-},
-comparisonValue: { 
-  color: '#fff', 
-  fontSize: 13, 
-  fontWeight: '600',
-  flex: 1,
-  textAlign: 'center'
-},
-comparisonVerdict: { 
-  color: '#10B981', 
-  fontSize: 11, 
-  fontWeight: '600',
-  flex: 1,
-  textAlign: 'center'
-},
-
-// Risk Analyzer Styles
-quizTitle: { 
-  color: '#F59E0B', 
-  fontSize: 18, 
-  fontWeight: '900', 
-  marginBottom: 20,
-  textAlign: 'center'
-},
-questionCard: { 
-  backgroundColor: 'rgba(245, 158, 11, 0.1)', 
-  borderRadius: 12, 
-  padding: 16, 
-  marginBottom: 16,
-  borderLeftWidth: 4,
-  borderLeftColor: '#F59E0B'
-},
-questionText: { 
-  color: '#fff', 
-  fontSize: 14, 
-  fontWeight: '700', 
-  marginBottom: 12 
-},
-optionButton: { 
-  backgroundColor: 'rgba(26, 26, 26, 0.8)', 
-  borderRadius: 8, 
-  padding: 12, 
-  marginBottom: 8,
-  borderWidth: 1,
-  borderColor: 'rgba(245, 158, 11, 0.3)'
-},
-optionSelected: { 
-  backgroundColor: 'rgba(245, 158, 11, 0.3)',
-  borderColor: '#F59E0B',
-  borderWidth: 2
-},
-optionText: { 
-  color: '#9CA3AF', 
-  fontSize: 13, 
-  fontWeight: '600' 
-},
-optionTextSelected: { 
-  color: '#FBBF24', 
-  fontWeight: '900' 
-},
-
-// Risk Profile Result
-riskProfileCard: { 
-  backgroundColor: 'rgba(245, 158, 11, 0.2)', 
-  borderRadius: 16, 
-  padding: 20, 
-  alignItems: 'center',
-  marginBottom: 16,
-  borderWidth: 2,
-  borderColor: '#F59E0B'
-},
-riskProfileName: { 
-  color: '#FBBF24', 
-  fontSize: 28, 
-  fontWeight: '900', 
-  marginBottom: 8 
-},
-riskProfileScore: { 
-  color: '#FCD34D', 
-  fontSize: 14, 
-  fontWeight: '700' 
-},
-riskDescription: { 
-  color: '#E5E7EB', 
-  fontSize: 14, 
-  lineHeight: 22, 
-  marginBottom: 20,
-  textAlign: 'center'
-},
-
-// Tax Optimizer - ELSS Funds
-elssFundCard: { 
-  backgroundColor: 'rgba(239, 68, 68, 0.1)', 
-  borderRadius: 12, 
-  padding: 16, 
-  marginBottom: 12,
-  borderLeftWidth: 4,
-  borderLeftColor: '#EF4444'
-},
-elssFundName: { 
-  color: '#fff', 
-  fontSize: 14, 
-  fontWeight: '700', 
-  marginBottom: 8 
-},
-elssFundMeta: { 
-  flexDirection: 'row', 
-  gap: 16 
-},
-elssFundMetaItem: { 
-  flex: 1 
-},
-elssFundLabel: { 
-  color: '#9CA3AF', 
-  fontSize: 11, 
-  fontWeight: '600', 
-  marginBottom: 4 
-},
-elssFundValue: { 
-  color: '#10B981', 
-  fontSize: 14, 
-  fontWeight: '900' 
-},
-
-// Enhanced Comparison Table
-comparisonTableWide: { 
-  backgroundColor: 'rgba(236, 72, 153, 0.1)', 
-  borderRadius: 16, 
-  padding: 16,
-  marginTop: 16,
-  borderWidth: 1,
-  borderColor: 'rgba(236, 72, 153, 0.3)',
-  minWidth: '100%'
-},
-
-// Header Row
-comparisonHeaderRow: { 
-  flexDirection: 'row', 
-  paddingBottom: 16, 
-  borderBottomWidth: 2, 
-  borderBottomColor: '#EC4899',
-  marginBottom: 8
-},
-comparisonMetricColumn: { 
-  width: 120, 
-  justifyContent: 'center',
-  paddingRight: 12
-},
-comparisonFundColumn: { 
-  width: 140, 
-  alignItems: 'center',
-  justifyContent: 'center',
-  paddingHorizontal: 8
-},
-comparisonHeaderLabel: { 
-  color: '#EC4899', 
-  fontSize: 14, 
-  fontWeight: '900'
-},
-comparisonFundHeader: { 
-  color: '#fff', 
-  fontSize: 12, 
-  fontWeight: '900',
-  textAlign: 'center',
-  lineHeight: 16
-},
-
-// Data Rows
-comparisonDataRow: { 
-  flexDirection: 'row', 
-  paddingVertical: 12, 
-  borderBottomWidth: 1, 
-  borderBottomColor: 'rgba(255, 255, 255, 0.05)',
-  minHeight: 50,
-  alignItems: 'center'
-},
-highlightRow: {
-  backgroundColor: 'rgba(236, 72, 153, 0.05)'
-},
-comparisonMetricName: { 
-  color: '#EC4899', 
-  fontSize: 13, 
-  fontWeight: '700'
-},
-comparisonValueText: { 
-  color: '#fff', 
-  fontSize: 13, 
-  fontWeight: '600',
-  textAlign: 'center'
-},
-comparisonSubValue: {
-  color: '#9CA3AF',
-  fontSize: 11,
-  fontWeight: '600',
-  textAlign: 'center',
-  marginTop: 2
-},
-
-// Value Colors
-comparisonGreen: { 
-  color: '#10B981' 
-},
-comparisonOrange: { 
-  color: '#F59E0B' 
-},
-comparisonGray: { 
-  color: '#6B7280',
-  fontStyle: 'italic'
-},
-comparisonWinner: { 
-  fontWeight: '900',
-  fontSize: 15
-},
-
-// Risk Badge
-riskBadge: {
-  borderRadius: 8,
-  paddingVertical: 4,
-  paddingHorizontal: 8,
-  alignSelf: 'center'
-},
-
-// Verdict Text
-comparisonVerdictText: { 
-  color: '#FBBF24', 
-  fontSize: 12, 
-  fontWeight: '700',
-  textAlign: 'center',
-  lineHeight: 16
-},
-
-// Learn Section Styles
-tabContainer: { 
-  flexDirection: 'row', 
-  padding: 16, 
-  gap: 8,
-  backgroundColor: '#0F0F0F'
-},
-tabButton: { 
-  flex: 1, 
-  paddingVertical: 12, 
-  paddingHorizontal: 16, 
-  borderRadius: 12, 
-  backgroundColor: 'rgba(139, 92, 246, 0.1)',
-  alignItems: 'center',
-  borderWidth: 1,
-  borderColor: 'rgba(139, 92, 246, 0.3)'
-},
-tabButtonActive: { 
-  backgroundColor: '#8B5CF6',
-  borderColor: '#8B5CF6'
-},
-tabText: { 
-  color: '#9CA3AF', 
-  fontSize: 13, 
-  fontWeight: '700' 
-},
-tabTextActive: { 
-  color: '#fff', 
-  fontWeight: '900' 
-},
-
-// Learn Container
-learnContainer: { 
-  padding: 20 
-},
-learnSectionTitle: { 
-  color: '#8B5CF6', 
-  fontSize: 18, 
-  fontWeight: '900', 
-  marginBottom: 16 
-},
-
-// Topic Cards
-topicCard: { 
-  backgroundColor: 'rgba(139, 92, 246, 0.1)', 
-  borderRadius: 16, 
-  padding: 16, 
-  marginBottom: 12,
-  flexDirection: 'row',
-  alignItems: 'center',
-  justifyContent: 'space-between',
-  borderWidth: 1,
-  borderColor: 'rgba(139, 92, 246, 0.3)',
-  borderLeftWidth: 4,
-  borderLeftColor: '#8B5CF6'
-},
-topicContent: { 
-  flexDirection: 'row', 
-  alignItems: 'center', 
-  gap: 16, 
-  flex: 1 
-},
-topicIcon: { 
-  fontSize: 32 
-},
-topicInfo: { 
-  flex: 1 
-},
-topicTitle: { 
-  color: '#fff', 
-  fontSize: 16, 
-  fontWeight: '900', 
-  marginBottom: 4 
-},
-topicSubtitle: { 
-  color: '#A78BFA', 
-  fontSize: 12, 
-  fontWeight: '600' 
-},
-
-// Tip Cards
-tipCard: { 
-  backgroundColor: 'rgba(251, 191, 36, 0.1)', 
-  borderRadius: 12, 
-  padding: 16, 
-  marginBottom: 12,
-  borderLeftWidth: 4,
-  borderLeftColor: '#FBBF24'
-},
-tipNumber: { 
-  color: '#FBBF24', 
-  fontSize: 12, 
-  fontWeight: '900', 
-  marginBottom: 8 
-},
-tipText: { 
-  color: '#E5E7EB', 
-  fontSize: 14, 
-  lineHeight: 22 
-},
-
-// Glossary Cards
-glossaryCard: { 
-  backgroundColor: 'rgba(59, 130, 246, 0.1)', 
-  borderRadius: 12, 
-  padding: 16, 
-  marginBottom: 12,
-  borderLeftWidth: 4,
-  borderLeftColor: '#3B82F6'
-},
-glossaryTerm: { 
-  color: '#3B82F6', 
-  fontSize: 16, 
-  fontWeight: '900', 
-  marginBottom: 6 
-},
-glossaryDefinition: { 
-  color: '#E5E7EB', 
-  fontSize: 13, 
-  lineHeight: 20 
-},
-
-// Article View
-articleContainer: { 
-  padding: 20 
-},
-articleTitle: { 
-  color: '#fff', 
-  fontSize: 28, 
-  fontWeight: '900', 
-  marginBottom: 8 
-},
-articleSubtitle: { 
-  color: '#8B5CF6', 
-  fontSize: 16, 
-  fontWeight: '700', 
-  marginBottom: 24 
-},
-articleContent: { 
-  color: '#E5E7EB', 
-  fontSize: 15, 
-  lineHeight: 26,
-  letterSpacing: 0.2
-},
-
-});

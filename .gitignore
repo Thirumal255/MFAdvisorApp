@@ -49,10 +49,14 @@ notes.txt
 data/.openai_api_key
 
 # Raw PDFs or dumps
-data/summary_scheme_pdf/
+data/scheme_docs/
 data/sid_pdfs/
 data/scheme_summary_extract/
 data/summary_pdfs/
+data/summary_pdfs/
+data/summary_scheme_pdf/
+data/all_scheme_full_details*.json
+data/parent_scheme_nav.json
 
 
 # Bytecode
