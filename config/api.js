@@ -1,5 +1,6 @@
 // Centralized API configuration
-export const API_URL = 'http://192.168.1.27:8000';
+//export const API_URL = 'http://192.168.1.27:8000';
+export const API_URL = 'https://mf-advisor-backend-264866286943.asia-south1.run.app';
 
 export const API_ENDPOINTS = {
   SEARCH: `${API_URL}/api/funds/search`,

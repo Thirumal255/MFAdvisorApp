@@ -1,3 +1,6 @@
+import os
+import psycopg2
+from psycopg2.extras import RealDictCursor
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pathlib import Path
@@ -7,7 +10,7 @@ from datetime import datetime, timedelta
 from pydantic import BaseModel
 from typing import Optional
 
-app = FastAPI()
+app = FastAPI(title="MF Advisor API", version="1.0")
 
 # CORS Configuration
 app.add_middleware(
@@ -22,39 +25,110 @@ app.add_middleware(
 # Load Data
 # ---------------------------------------------------
 
-BASE_DIR = Path(__file__).resolve().parents[1]
-DATA_FILE = BASE_DIR / "data" / "scheme_metrics_merged.json"
+
+# Smart path that works everywhere
+def get_data_file_path():
+    # Option 1: Same level as main.py
+    option1 = Path(__file__).resolve().parent / "data" / "scheme_metrics_merged.json"
+    if option1.exists():
+        return option1
+    
+    # Option 2: One level up
+    option2 = Path(__file__).resolve().parent.parent / "data" / "scheme_metrics_merged.json"
+    if option2.exists():
+        return option2
+    
+    # Option 3: Two levels up
+    option3 = Path(__file__).resolve().parent.parent.parent / "data" / "scheme_metrics_merged.json"
+    if option3.exists():
+        return option3
+    
+    # Default to option 1
+    return option1
+
+DATA_FILE = get_data_file_path()
+
+# Load NAV Data
+
+def get_nav_data_file_path():
+    # Option 1: Same level as main.py
+    option1 = Path(__file__).resolve().parent / "data" / "parent_scheme_nav.json"
+    if option1.exists():
+        return option1
+    
+    # Option 2: One level up
+    option2 = Path(__file__).resolve().parent.parent / "data" / "parent_scheme_nav.json"
+    if option2.exists():
+        return option2
+    
+    # Option 3: Two levels up
+    option3 = Path(__file__).resolve().parent.parent.parent / "data" / "parent_scheme_nav.json"
+    if option3.exists():
+        return option3
+    
+    # Default to option 1
+    return option1
+
+NAV_DATA_FILE = get_nav_data_file_path()
+
 
 FUNDS_DATA = {}
 
 
-# Load NAV Data
-NAV_DATA_FILE = BASE_DIR / "data" / "parent_scheme_nav.json"
-NAV_DATA_MAP = {}
 
-def load_nav_data():
-    """Load NAV data into memory for fast lookup"""
-    global NAV_DATA_MAP
+
+
+# Database connection
+def get_db_connection():
+    database_url = os.getenv("DATABASE_URL")
+    if not database_url:
+        raise Exception("DATABASE_URL not set")
+    conn = psycopg2.connect(database_url, cursor_factory=RealDictCursor)
+    return conn
+
+
+# ---------------------------------------------------
+# NAV Data from PostgreSQL
+# ---------------------------------------------------
+
+def get_nav_from_db(scheme_code: int):
+    """Get NAV data for a scheme from PostgreSQL"""
     try:
-        with open(NAV_DATA_FILE, 'r', encoding='utf-8') as f:
-            nav_data_raw = json.load(f)
+        conn = get_db_connection()
+        cursor = conn.cursor()
         
-        # Create fast lookup map: {scheme_code: {name, data}}
-        for scheme in nav_data_raw:
-            scheme_code = scheme['meta']['scheme_code']
-            NAV_DATA_MAP[scheme_code] = {
-                'name': scheme['meta']['scheme_name'],
-                'fund_house': scheme['meta'].get('fund_house', ''),
-                'data': scheme['data']  # List of {date, nav}
-            }
+        cursor.execute("""
+            SELECT nav_date, nav_value, scheme_name, fund_house
+            FROM scheme_nav 
+            WHERE scheme_code = %s
+            ORDER BY nav_date DESC
+        """, (str(scheme_code),))
         
-        print(f"✅ Loaded NAV data for {len(NAV_DATA_MAP)} schemes from {NAV_DATA_FILE}")
-    except FileNotFoundError:
-        print(f"❌ NAV data file not found: {NAV_DATA_FILE}")
-        NAV_DATA_MAP = {}
+        results = cursor.fetchall()
+        cursor.close()
+        conn.close()
+        
+        if not results:
+            return None
+        
+        # Convert to format matching old NAV_DATA_MAP
+        return {
+            'name': results[0]['scheme_name'],
+            'fund_house': results[0]['fund_house'],
+            'data': [
+                {
+                    'date': row['nav_date'].strftime('%d-%m-%Y'),
+                    'nav': str(row['nav_value'])
+                }
+                for row in results
+            ]
+        }
     except Exception as e:
-        print(f"❌ Error loading NAV data: {e}")
-        NAV_DATA_MAP = {}
+        print(f"❌ Error fetching NAV for scheme {scheme_code}: {e}")
+        return None
+
+
+
 
 
 # ---------------------------------------------------
@@ -84,7 +158,6 @@ def load_data():
         FUNDS_DATA = {}
 
 load_data()
-load_nav_data()
 
 # ---------------------------------------------------
 # Helper: Calculate Composite Score (for ranking)
@@ -261,13 +334,14 @@ def format_date(dt: datetime) -> str:
 
 def get_nav_on_date(scheme_code: int, investment_date: str):
     """
-    Get NAV for a scheme on a specific date
+    Get NAV for a scheme on a specific date (from PostgreSQL)
     Returns None if date is before fund started
     """
-    if scheme_code not in NAV_DATA_MAP:
+    nav_scheme = get_nav_from_db(scheme_code)
+    
+    if not nav_scheme:
         return None
     
-    nav_scheme = NAV_DATA_MAP[scheme_code]
     target_date = parse_date(investment_date)
     
     # Get fund start date (oldest NAV date)
@@ -323,13 +397,10 @@ def get_nav_on_date(scheme_code: int, investment_date: str):
     return None
 
 def get_current_nav(scheme_code: int):
-    """Get the most recent NAV for a scheme"""
-    if scheme_code not in NAV_DATA_MAP:
-        return None
+    """Get the most recent NAV for a scheme (from PostgreSQL)"""
+    nav_scheme = get_nav_from_db(scheme_code)
     
-    nav_scheme = NAV_DATA_MAP[scheme_code]
-    
-    if not nav_scheme['data']:
+    if not nav_scheme or not nav_scheme['data']:
         return None
     
     # Sort by date to get latest
@@ -343,6 +414,7 @@ def get_current_nav(scheme_code: int):
         'nav': float(sorted_data[0]['nav']),
         'date': sorted_data[0]['date']
     }
+
 
 def calculate_returns(scheme_code: int, investment_amount: float, investment_date: str):
     """
@@ -409,8 +481,8 @@ def calculate_returns(scheme_code: int, investment_amount: float, investment_dat
     return {
         'error': False,
         'scheme_code': scheme_code,
-        'scheme_name': NAV_DATA_MAP[scheme_code]['name'],
-        'fund_house': NAV_DATA_MAP[scheme_code]['fund_house'],
+        'scheme_name': get_nav_from_db(scheme_code)['name'] if get_nav_from_db(scheme_code) else f"Scheme {scheme_code}",
+        'fund_house': get_nav_from_db(scheme_code)['fund_house'] if get_nav_from_db(scheme_code) else "",
         'investment': {
             'amount': round(investment_amount, 2),
             'date': investment_date,
@@ -1059,10 +1131,10 @@ def compare_investment(request: InvestmentComparisonRequest):
             raise HTTPException(400, "Investment date must be at least 1 month old for accurate comparison")
         
         # Validation: Funds exist in NAV data
-        if fund1_code not in NAV_DATA_MAP:
+        if not get_nav_from_db(fund1_code):
             raise HTTPException(404, f"Fund 1 (code: {fund1_code}) not found in NAV database")
-        
-        if fund2_code not in NAV_DATA_MAP:
+
+        if not get_nav_from_db(fund2_code):
             raise HTTPException(404, f"Fund 2 (code: {fund2_code}) not found in NAV database")
         
         # Calculate returns for Fund 1 (User's fund)
@@ -1076,7 +1148,7 @@ def compare_investment(request: InvestmentComparisonRequest):
             # If it's a "before fund start" error, provide clear guidance
             if fund1_returns.get('error_type') == 'BEFORE_FUND_START':
                 fund_start = fund1_returns.get('fund_start_date', 'unknown')
-                fund_name = NAV_DATA_MAP.get(fund1_code, {}).get('name', 'Your fund')
+                fund_name = get_nav_from_db(fund1_code)['name'] if get_nav_from_db(fund2_code) else 'Your fund'
                 error_msg = f"{fund_name} started on {fund_start}. Please select a date after this."
     
             raise HTTPException(400, error_msg)
@@ -1159,6 +1231,43 @@ def compare_investment(request: InvestmentComparisonRequest):
 
 
 
+@app.get("/debug/scheme-codes")
+async def debug_scheme_codes(limit: int = 20):
+    """Debug endpoint to see what scheme codes are in PostgreSQL"""
+    try:
+        conn = get_db_connection()
+        cursor = conn.cursor()
+        
+        # Get sample scheme codes from database
+        cursor.execute("""
+            SELECT DISTINCT scheme_code, scheme_name, fund_house
+            FROM scheme_nav 
+            ORDER BY scheme_code
+            LIMIT %s
+        """, (limit,))
+        
+        results = cursor.fetchall()
+        cursor.close()
+        conn.close()
+        
+        return {
+            "total_checked": len(results),
+            "sample_codes": [
+                {
+                    "code": row['scheme_code'],
+                    "name": row['scheme_name'],
+                    "fund_house": row['fund_house']
+                }
+                for row in results
+            ]
+        }
+    except Exception as e:
+        return {"error": str(e)}
+
+
+
+
+
 # ---------------------------------------------------
 # DEBUG: Print all registered routes
 # ---------------------------------------------------
@@ -1172,6 +1281,10 @@ def debug_routes():
         if hasattr(route, 'methods'):
             print(f"{list(route.methods)[0]:6s} {route.path}")
     print("="*60 + "\n")
+
+@app.get("/health")
+async def health():
+    return {"status": "ok"}
 
 
 if __name__ == "__main__":

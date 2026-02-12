@@ -20,3 +20,5 @@ python-dotenv
 pypdf
 yfinance
 pydantic
+psycopg2-binary
+requests

@@ -57,6 +57,8 @@ data/summary_pdfs/
 data/summary_scheme_pdf/
 data/all_scheme_full_details*.json
 data/parent_scheme_nav.json
+backend/data/
+backend/.gitignore
 
 
 # Bytecode
