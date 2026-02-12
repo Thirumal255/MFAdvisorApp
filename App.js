@@ -2,9 +2,10 @@ import { ArrowLeft, Bell, ChevronRight, Flame, MessageSquare, Search, Trophy, Up
 import { useEffect, useState } from 'react';
 import { ActivityIndicator, Alert, RefreshControl, ScrollView, Text, TextInput, TouchableOpacity, View } from 'react-native';
 import DateTimePickerModal from "react-native-modal-datetime-picker";
+import ExpenseImpact from './calculators/ExpenseImpact';
 import { Navigation } from './components/Navigation';
 import { API_ENDPOINTS } from './config/api';
-import { learnContent } from './learnContent';
+import { learnContent } from './config/learnContent';
 import { styles } from './styles/appStyles';
 
 
@@ -2263,6 +2264,23 @@ if (screen === 'tools' && !activeTool) {
             <ChevronRight size={24} color="#6B7280" />
           </TouchableOpacity>
 
+              {/* Expense Impact Calculator - NEW */}
+          <TouchableOpacity
+            style={[styles.toolCard, { borderLeftColor: '#10B981' }]}
+            onPress={() => setActiveTool('expense')}
+          >
+            <View style={styles.toolContent}>
+              <View style={[styles.toolIcon, { backgroundColor: '#EF444420' }]}>
+                <Text style={styles.toolEmoji}>💰</Text>
+              </View>
+              <View style={styles.toolInfo}>
+                <Text style={styles.toolTitle}>Expense Impact</Text>
+                <Text style={styles.toolSubtitle}>Direct vs Regular plans</Text>
+              </View>
+            </View>
+            <ChevronRight size={24} color="#6B7280" />
+          </TouchableOpacity>
+
           <TouchableOpacity
             style={[styles.toolCard, { borderLeftColor: '#EC4899' }]}
             onPress={() => setActiveTool('compare')}
@@ -3304,6 +3322,10 @@ if (screen === 'tools' && activeTool === 'tax') {
   );
 }
 
+// ========== EXPENSE IMPACT CALCULATOR ==========
+if (screen === 'tools' && activeTool === 'expense') {
+  return <ExpenseImpact setActiveTool={setActiveTool} setScreen={setScreen} selectedFund={selectedFund} />;
+}
 
 // ========== MY FUND ANALYZER SCREEN ==========
 if (screen === 'myFundAnalyzer') {

@@ -5,7 +5,7 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pathlib import Path
 import json
-
+from fastapi import HTTPException
 from datetime import datetime, timedelta
 from pydantic import BaseModel
 from typing import Optional
@@ -506,6 +506,11 @@ def calculate_returns(scheme_code: int, investment_amount: float, investment_dat
             'duration_years': round(years, 2)
         }
     }
+
+
+
+
+
 
 
 # Request model for investment comparison
@@ -1285,6 +1290,169 @@ def debug_routes():
 @app.get("/health")
 async def health():
     return {"status": "ok"}
+
+
+"""
+EXPENSE IMPACT ENDPOINT - WITH VALIDATION
+Requires actual expense ratio data from fund
+Does NOT calculate if expense data is missing
+"""
+
+from pydantic import BaseModel
+from typing import Optional
+from fastapi import HTTPException
+
+class ExpenseImpactRequest(BaseModel):
+    scheme_code: int
+    amount: float
+    duration_years: int
+    investment_type: str = "lumpsum"
+    sip_amount: Optional[float] = None
+
+@app.post("/api/expense-impact")
+async def calculate_expense_impact(request: ExpenseImpactRequest):
+    """Calculate impact of expense ratio: Direct vs Regular plan"""
+    
+    # Get fund data from FUNDS_DATA
+    fund_data = None
+    fund_name = None
+    
+    for name, data in FUNDS_DATA.items():
+        if str(data.get("canonical_code")) == str(request.scheme_code):
+            fund_data = data
+            fund_name = name
+            break
+    
+    if not fund_data:
+        raise HTTPException(status_code=404, detail="Fund not found")
+    
+    # Get metrics
+    metrics = fund_data.get("metrics", {})
+    
+    # ✅ VALIDATION: Check if expense ratio data exists
+    annual_expense = fund_data.get("annual_expense")
+    
+    # Check if we have valid expense data
+    has_expense_data = False
+    direct_expense = None
+    regular_expense = None
+    
+    if annual_expense and isinstance(annual_expense, dict):
+        direct_str = annual_expense.get("Direct")
+        regular_str = annual_expense.get("Regular")
+        
+        if direct_str and regular_str:
+            try:
+                direct_expense = float(direct_str)
+                regular_expense = float(regular_str)
+                has_expense_data = True
+            except (ValueError, TypeError):
+                has_expense_data = False
+    
+    # ❌ If no expense data, return error with helpful message
+    if not has_expense_data:
+        raise HTTPException(
+            status_code=400,
+            detail={
+                "error": "Expense ratio data not available",
+                "message": f"Sorry, we don't have expense ratio data for {fund_name}. Please try another fund.",
+                "fund_name": fund_name,
+                "suggestion": "Choose a fund with complete expense ratio information for accurate comparison."
+            }
+        )
+    
+    # Expected return (use fund's CAGR or default)
+    expected_return = 12.0  # Default 12%
+    if metrics and metrics.get('cagr'):
+        expected_return = metrics['cagr'] * 100
+    
+    # ========== LUMPSUM CALCULATION ==========
+    if request.investment_type == "lumpsum":
+        amount = request.amount
+        years = request.duration_years
+        
+        # Direct plan
+        direct_rate = (expected_return - direct_expense) / 100
+        direct_value = amount * ((1 + direct_rate) ** years)
+        
+        # Regular plan
+        regular_rate = (expected_return - regular_expense) / 100
+        regular_value = amount * ((1 + regular_rate) ** years)
+        
+        direct_returns = direct_value - amount
+        regular_returns = regular_value - amount
+        invested_amount = amount
+        
+    # ========== SIP CALCULATION ==========
+    else:  # SIP
+        monthly_sip = request.amount
+        months = request.duration_years * 12
+        invested_amount = monthly_sip * months
+        
+        # Direct plan SIP
+        direct_monthly_rate = (expected_return - direct_expense) / 100 / 12
+        if direct_monthly_rate > 0:
+            direct_value = monthly_sip * (
+                ((1 + direct_monthly_rate) ** months - 1) / direct_monthly_rate
+            ) * (1 + direct_monthly_rate)
+        else:
+            direct_value = invested_amount
+        
+        # Regular plan SIP
+        regular_monthly_rate = (expected_return - regular_expense) / 100 / 12
+        if regular_monthly_rate > 0:
+            regular_value = monthly_sip * (
+                ((1 + regular_monthly_rate) ** months - 1) / regular_monthly_rate
+            ) * (1 + regular_monthly_rate)
+        else:
+            regular_value = invested_amount
+        
+        direct_returns = direct_value - invested_amount
+        regular_returns = regular_value - invested_amount
+        amount = invested_amount
+    
+    # ========== CALCULATE SAVINGS ==========
+    savings_amount = direct_value - regular_value
+    savings_per_year = savings_amount / request.duration_years
+    
+    if regular_value > 0:
+        savings_percentage = ((direct_value - regular_value) / regular_value) * 100
+    else:
+        savings_percentage = 0
+    
+    # Effective CAGR
+    if amount > 0 and direct_value > 0 and regular_value > 0:
+        direct_cagr = ((direct_value / amount) ** (1 / request.duration_years) - 1) * 100
+        regular_cagr = ((regular_value / amount) ** (1 / request.duration_years) - 1) * 100
+    else:
+        direct_cagr = 0
+        regular_cagr = 0
+    
+    # ========== RETURN RESPONSE ==========
+    return {
+        "fund_name": fund_name,
+        "investment_type": request.investment_type,
+        "duration_years": request.duration_years,
+        "invested_amount": round(invested_amount, 2),
+        "direct_plan": {
+            "expense_ratio": round(direct_expense, 2),
+            "final_value": round(direct_value, 2),
+            "returns": round(direct_returns, 2),
+            "effective_cagr": round(direct_cagr, 2)
+        },
+        "regular_plan": {
+            "expense_ratio": round(regular_expense, 2),
+            "final_value": round(regular_value, 2),
+            "returns": round(regular_returns, 2),
+            "effective_cagr": round(regular_cagr, 2)
+        },
+        "savings": {
+            "amount": round(savings_amount, 2),
+            "per_year": round(savings_per_year, 2),
+            "percentage": round(savings_percentage, 2)
+        },
+        "verdict": f"Direct plan saves you ₹{round(savings_amount/100000, 2)} lakhs! Always choose Direct plans to avoid distributor commissions."
+    }
 
 
 if __name__ == "__main__":
