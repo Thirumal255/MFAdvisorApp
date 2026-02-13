@@ -1,12 +1,23 @@
-import { ArrowLeft, Bell, ChevronRight, Flame, MessageSquare, Search, Trophy, Upload } from 'lucide-react-native';
-import { useEffect, useState } from 'react';
-import { ActivityIndicator, Alert, RefreshControl, ScrollView, Text, TextInput, TouchableOpacity, View } from 'react-native';
+import { ArrowLeft, Search } from 'lucide-react-native';
+import { useState } from 'react';
+import { ActivityIndicator, Alert, ScrollView, Text, TextInput, TouchableOpacity, View } from 'react-native';
 import DateTimePickerModal from "react-native-modal-datetime-picker";
-import ExpenseImpact from './calculators/ExpenseImpact';
 import { Navigation } from './components/Navigation';
 import { API_ENDPOINTS } from './config/api';
-import { learnContent } from './config/learnContent';
+import CompareScreen from './screens/CompareScreen';
+import HomeScreen from './screens/HomeScreen';
+import LearnScreen from './screens/LearnScreen';
+import TopFundsScreen from './screens/TopFundsScreen';
 import { styles } from './styles/appStyles';
+import ExpenseImpact from './tools/ExpenseImpact';
+import FundCompare from './tools/FundCompare';
+import GoalPlanner from './tools/GoalPlanner';
+import ReturnsCalculator from './tools/ReturnsCalculator';
+import RiskAnalyzer from './tools/RiskAnalyzer';
+import SIPCalculator from './tools/SIPCalculator';
+import TaxOptimizer from './tools/TaxOptimizer';
+import ToolsScreen from './tools/ToolsScreen';
+
 
 
 export default function App() {
@@ -18,74 +29,38 @@ export default function App() {
   const [showManagers, setShowManagers] = useState(false);
   const [loading, setLoading] = useState(false);
   // Existing SIP states
-const [activeTool, setActiveTool] = useState(null);
-const [sipAmount, setSipAmount] = useState('');
-const [sipYears, setSipYears] = useState('');
-const [sipReturn, setSipReturn] = useState('');
-const [sipResult, setSipResult] = useState(null);
-
-// NEW: Goal Planner states
-const [goalAmount, setGoalAmount] = useState('');
-const [goalYears, setGoalYears] = useState('');
-const [goalReturn, setGoalReturn] = useState('');
-const [goalResult, setGoalResult] = useState(null);
-
-// NEW: Lumpsum vs SIP states
-const [compareAmount, setCompareAmount] = useState('');
-const [compareYears, setCompareYears] = useState('');
-const [compareReturn, setCompareReturn] = useState('');
-const [compareResult, setCompareResult] = useState(null);
-
-// NEW: Fund Compare states
-const [selectedFunds, setSelectedFunds] = useState([]);
-const [fundSearchQuery, setFundSearchQuery] = useState('');
-const [fundSearchResults, setFundSearchResults] = useState([]);
-const [compareData, setCompareData] = useState(null);
-
-// NEW: Risk Analyzer states
-const [riskAnswers, setRiskAnswers] = useState({});
-const [riskResult, setRiskResult] = useState(null);
-
-// NEW: Tax Optimizer states
-const [taxIncome, setTaxIncome] = useState('');
-const [taxInvestment, setTaxInvestment] = useState('');
-const [taxResult, setTaxResult] = useState(null);
-const [elssFunds, setElssFunds] = useState([]);
-
-// Learn Section states
-const [selectedTopic, setSelectedTopic] = useState(null);
-const [activeTab, setActiveTab] = useState('beginner'); // 'beginner', 'advanced', 'tips', 'glossary'
-
-// PHASE 5: My Fund Analyzer states
-const [myFundCode, setMyFundCode] = useState(null);
-const [myFundData, setMyFundData] = useState(null);
-const [recommendations, setRecommendations] = useState([]);
-const [compareMode, setCompareMode] = useState(false);
-const [compareFund1, setCompareFund1] = useState(null);
-const [compareFund2, setCompareFund2] = useState(null);
-const [comparisonData, setComparisonData] = useState(null);
-const [previousScreen, setPreviousScreen] = useState('home');  
-
-
-// NEW: Top Funds states
-const [topFunds, setTopFunds] = useState([]);
-const [topFundsCategory, setTopFundsCategory] = useState(null);
-const [refreshing, setRefreshing] = useState(false);
+  const [activeTool, setActiveTool] = useState(null);
   
-// NEW: Enhanced metrics view state
-const [metricsTab, setMetricsTab] = useState('returns');
+  const [selectedTopic, setSelectedTopic] = useState(null);
+// PHASE 5: My Fund Analyzer states
+  const [myFundCode, setMyFundCode] = useState(null);
+  const [myFundData, setMyFundData] = useState(null);
+  const [recommendations, setRecommendations] = useState([]);
+  const [compareMode, setCompareMode] = useState(false);
+  const [compareFund1, setCompareFund1] = useState(null);
+  const [compareFund2, setCompareFund2] = useState(null);
+  const [comparisonData, setComparisonData] = useState(null);
+  const [previousScreen, setPreviousScreen] = useState('home');  
 
-// PHASE 3: Score breakdown visibility
-const [showScoreBreakdown, setShowScoreBreakdown] = useState(false);
+ 
+  // NEW: Enhanced metrics view state
+  const [metricsTab, setMetricsTab] = useState('returns');
 
-// Investment Comparison States
-const [expandedCalculators, setExpandedCalculators] = useState({});
-const [investmentInputs, setInvestmentInputs] = useState({});
-const [comparisonResults, setComparisonResults] = useState({});
-const [calculatingReturns, setCalculatingReturns] = useState({});
-const [showDatePicker, setShowDatePicker] = useState(false);
-const [activeDatePickerIndex, setActiveDatePickerIndex] = useState(null);
+  // PHASE 3: Score breakdown visibility
+  const [showScoreBreakdown, setShowScoreBreakdown] = useState(false);
 
+  // Investment Comparison States
+  const [expandedCalculators, setExpandedCalculators] = useState({});
+  const [investmentInputs, setInvestmentInputs] = useState({});
+  const [comparisonResults, setComparisonResults] = useState({});
+  const [calculatingReturns, setCalculatingReturns] = useState({});
+  const [showDatePicker, setShowDatePicker] = useState(false);
+  const [activeDatePickerIndex, setActiveDatePickerIndex] = useState(null);
+
+
+
+// ── Helper functions (still needed by CheckFund & MyFundAnalyzer screens) ──
+// These will move to utils/formatters.js when those screens are modularized
 
 // Format Date to DD-MM-YYYY
 const formatDate = (date) => {
@@ -94,6 +69,49 @@ const formatDate = (date) => {
   const year = date.getFullYear();
   return `${day}-${month}-${year}`;
 };
+
+// Format currency with Cr/L shortcuts
+const formatCurrency = (amount) => {
+  const num = parseFloat(amount);
+  if (num >= 10000000) {
+    return `₹${(num / 10000000).toFixed(2)} Cr`;
+  } else if (num >= 100000) {
+    return `₹${(num / 100000).toFixed(2)} L`;
+  } else {
+    return `₹${num.toLocaleString('en-IN')}`;
+  }
+};
+
+// Format metric names for display
+const formatMetricName = (metric) => {
+  const names = {
+    'cagr': 'CAGR', 'rolling_1y': '1Y Rolling Return', 'rolling_3y': '3Y Rolling Return',
+    'rolling_5y': '5Y Rolling Return', 'volatility': 'Volatility', 'max_drawdown': 'Max Drawdown',
+    'downside_deviation': 'Downside Deviation', 'sharpe': 'Sharpe Ratio', 'sortino': 'Sortino Ratio',
+    'consistency_score': 'Consistency Score', 'positive_months_pct': 'Positive Months %',
+    'current_drawdown_pct': 'Current Drawdown', 'alpha': 'Alpha',
+    'information_ratio': 'Information Ratio', 'calmar_ratio': 'Calmar Ratio'
+  };
+  return names[metric] || metric.replace(/_/g, ' ').toUpperCase();
+};
+
+// Format metric values for display
+const formatMetricValue = (metric, value) => {
+  if (value == null) return 'N/A';
+  if (['cagr', 'rolling_1y', 'rolling_3y', 'rolling_5y', 'volatility',
+       'downside_deviation', 'max_drawdown', 'current_drawdown_pct',
+       'positive_months_pct'].includes(metric)) {
+    return `${(value * 100).toFixed(2)}%`;
+  }
+  if (['sharpe', 'sortino', 'alpha', 'information_ratio', 'calmar_ratio'].includes(metric)) {
+    return value.toFixed(2);
+  }
+  if (['consistency_score'].includes(metric)) {
+    return value.toFixed(1);
+  }
+  return value.toFixed(2);
+};
+
 
 // Toggle calculator
 const toggleCalculator = (index) => {
@@ -136,17 +154,7 @@ const handleDateConfirm = (selectedDate) => {
   setActiveDatePickerIndex(null);
 };
 
-// Format currency
-const formatCurrency = (amount) => {
-  const num = parseFloat(amount);
-  if (num >= 10000000) {
-    return `₹${(num / 10000000).toFixed(2)} Cr`;
-  } else if (num >= 100000) {
-    return `₹${(num / 100000).toFixed(2)} L`;
-  } else {
-    return `₹${num.toLocaleString('en-IN')}`;
-  }
-};
+
 
 // Call backend API for comparison
 const calculateInvestmentComparison = async (index, fund1Code, fund2Code) => {
@@ -254,111 +262,9 @@ const calculateInvestmentComparison = async (index, fund1Code, fund2Code) => {
 
 
 
-// NEW: Fetch top funds
-  useEffect(() => {
-    if (screen === 'topFunds') {
-      fetchTopFunds();
-    }
-  }, [screen, topFundsCategory]);
+// Top funds fetching is now handled inside TopFundsScreen.js
 
-  const fetchTopFunds = async () => {
-    try {
-      setLoading(true);
-      const baseUrl = API_ENDPOINTS.TOP_FUNDS.replace(/\/$/, '');
-      let url = `${baseUrl}?limit=20`;
-      if (topFundsCategory) {
-        url += `&category=${topFundsCategory}`;
-      }
-      console.log('🔍 [DEBUG] Fetching top funds from:', url);
-      const response = await fetch(url);
-      const data = await response.json();
-      
-      // Debug: Check if score field exists
-      if (data.results && data.results.length > 0) {
-        const firstFund = data.results[0];
-        console.log('🔍 [DEBUG] First fund data sample:');
-        console.log('  - name:', firstFund.name);
-        console.log('  - composite_score:', firstFund.composite_score);
-        console.log('  - score:', firstFund.score);
-        console.log('  - score.total:', firstFund.score?.total);
-        console.log('  - Fields:', Object.keys(firstFund));
-      }
-      
-      setTopFunds(data.results || []);
-    } catch (error) {
-      console.log('❌ [DEBUG] Top funds error:', error);
-    } finally {
-      setLoading(false);
-      setRefreshing(false);
-    }
-  };
-
-  const onRefreshTopFunds = () => {
-    setRefreshing(true);
-    fetchTopFunds();
-  };
-
-  // Helper: Get score color
-  const getScoreColor = (score) => {
-    if (score >= 75) return '#10B981';
-    if (score >= 60) return '#F59E0B';
-    if (score >= 40) return '#6366F1';
-    return '#6B7280';
-  };
-
-  const getScoreEmoji = (score) => {
-    if (score >= 75) return '🔥🔥🔥';
-    if (score >= 60) return '🔥';
-    if (score >= 40) return '✨';
-    return '📊';
-  };
-
-
-  // PHASE 3: Format metric names for display
-  const formatMetricName = (metric) => {
-    const names = {
-      'cagr': 'CAGR',
-      'rolling_1y': '1Y Rolling Return',
-      'rolling_3y': '3Y Rolling Return',
-      'rolling_5y': '5Y Rolling Return',
-      'volatility': 'Volatility',
-      'max_drawdown': 'Max Drawdown',
-      'downside_deviation': 'Downside Deviation',
-      'sharpe': 'Sharpe Ratio',
-      'sortino': 'Sortino Ratio',
-      'consistency_score': 'Consistency Score',
-      'positive_months_pct': 'Positive Months %',
-      'current_drawdown_pct': 'Current Drawdown',
-      'alpha': 'Alpha',
-      'information_ratio': 'Information Ratio',
-      'calmar_ratio': 'Calmar Ratio'
-    };
-    return names[metric] || metric.replace(/_/g, ' ').toUpperCase();
-  };
-
-  // PHASE 3: Format metric values for display
-  const formatMetricValue = (metric, value) => {
-    if (value == null) return 'N/A';
-    
-    // Percentage metrics (multiply by 100)
-    if (['cagr', 'rolling_1y', 'rolling_3y', 'rolling_5y', 'volatility', 
-         'downside_deviation', 'max_drawdown', 'current_drawdown_pct', 
-         'positive_months_pct'].includes(metric)) {
-      return `${(value * 100).toFixed(2)}%`;
-    }
-    
-    // Ratio metrics (show as-is with 2 decimals)
-    if (['sharpe', 'sortino', 'alpha', 'information_ratio', 'calmar_ratio'].includes(metric)) {
-      return value.toFixed(2);
-    }
-    
-    // Score metrics (1 decimal)
-    if (['consistency_score'].includes(metric)) {
-      return value.toFixed(1);
-    }
-    
-    return value.toFixed(2);
-  };
+  
 
 
 
@@ -496,192 +402,8 @@ const compareTwoFunds = async (code1, code2) => {
 
 
 
+  
 
-
-
-  // SIP Calculation Function
-const calculateSIP = () => {
-  const P = parseFloat(sipAmount);
-  const n = parseFloat(sipYears) * 12; // months
-  const r = parseFloat(sipReturn) / 100 / 12; // monthly rate
-
-  if (!P || !n || !r || P <= 0 || n <= 0 || r < 0) {
-    alert('Please enter valid values!');
-    return;
-  }
-
-  // SIP Formula: FV = P × [(1 + r)^n - 1] / r × (1 + r)
-  const futureValue = P * (((Math.pow(1 + r, n) - 1) / r) * (1 + r));
-  const totalInvested = P * n;
-  const returns = futureValue - totalInvested;
-
-  setSipResult({
-    total: Math.round(futureValue),
-    invested: Math.round(totalInvested),
-    returns: Math.round(returns)
-  });
-};
-
-
-// Goal Planner Calculation
-const calculateGoal = () => {
-  const FV = parseFloat(goalAmount);
-  const n = parseFloat(goalYears) * 12;
-  const r = parseFloat(goalReturn) / 100 / 12;
-
-  if (!FV || !n || !r || FV <= 0 || n <= 0 || r < 0) {
-    alert('Please enter valid values!');
-    return;
-  }
-
-  // Reverse SIP: P = FV × r / [((1 + r)^n - 1) × (1 + r)]
-  const monthlyInvestment = (FV * r) / (((Math.pow(1 + r, n) - 1)) * (1 + r));
-  const totalInvested = monthlyInvestment * n;
-
-  setGoalResult({
-    monthly: Math.round(monthlyInvestment),
-    total: Math.round(totalInvested),
-    target: Math.round(FV)
-  });
-};
-
-// Lumpsum vs SIP Calculation
-const calculateComparison = () => {
-  const amount = parseFloat(compareAmount);
-  const years = parseFloat(compareYears);
-  const rate = parseFloat(compareReturn) / 100;
-
-  if (!amount || !years || !rate || amount <= 0 || years <= 0 || rate < 0) {
-    alert('Please enter valid values!');
-    return;
-  }
-
-  // Lumpsum: FV = P × (1 + r)^n
-  const lumpsumFV = amount * Math.pow(1 + rate, years);
-  const lumpsumReturns = lumpsumFV - amount;
-
-  // SIP: Monthly amount = Lumpsum / 12 / years
-  const monthlyAmount = amount / (years * 12);
-  const n = years * 12;
-  const r = rate / 12;
-  const sipFV = monthlyAmount * (((Math.pow(1 + r, n) - 1) / r) * (1 + r));
-  const sipReturns = sipFV - amount;
-
-  setCompareResult({
-    lumpsum: {
-      invested: Math.round(amount),
-      returns: Math.round(lumpsumReturns),
-      total: Math.round(lumpsumFV)
-    },
-    sip: {
-      monthly: Math.round(monthlyAmount),
-      invested: Math.round(amount),
-      returns: Math.round(sipReturns),
-      total: Math.round(sipFV)
-    },
-    winner: sipFV > lumpsumFV ? 'SIP' : 'Lumpsum'
-  });
-};
-
-// Fund Compare - Search Funds
-const searchFundsForCompare = async (query) => {
-  if (query.length < 2) {
-    setFundSearchResults([]);
-    return;
-  }
-
-  try {
-    const response = await fetch(`${API_ENDPOINTS.SEARCH}?q=${query}`);
-    const data = await response.json();
-    setFundSearchResults(data.results || []);
-  } catch (error) {
-    console.log('Search error:', error);
-  }
-};
-
-// Fund Compare - Add Fund
-const addFundToCompare = async (code) => {
-  if (selectedFunds.length >= 3) {
-    alert('You can compare maximum 3 funds!');
-    return;
-  }
-
-  try {
-    const response = await fetch(`${API_ENDPOINTS.FUND_DETAILS}/${code}`);
-    const data = await response.json();
-    setSelectedFunds([...selectedFunds, data]);
-    setFundSearchQuery('');
-    setFundSearchResults([]);
-  } catch (error) {
-    console.log('Error loading fund:', error);
-  }
-};
-
-// Risk Analyzer Calculation
-const calculateRiskScore = () => {
-  const answers = Object.values(riskAnswers);
-  if (answers.length < 5) {
-    alert('Please answer all questions!');
-    return;
-  }
-
-  const score = answers.reduce((sum, val) => sum + val, 0);
-  const percentage = (score / 25) * 100;
-
-  let profile, description, funds;
-  if (percentage <= 40) {
-    profile = 'Conservative';
-    description = 'You prefer safety over high returns. Focus on debt funds and balanced funds.';
-    funds = ['Liquid Funds', 'Short Duration Funds', 'Corporate Bond Funds', 'Balanced Advantage Funds'];
-  } else if (percentage <= 70) {
-    profile = 'Moderate';
-    description = 'You can handle moderate risk for better returns. Mix of equity and debt funds.';
-    funds = ['Hybrid Funds', 'Large Cap Funds', 'Balanced Funds', 'Index Funds'];
-  } else {
-    profile = 'Aggressive';
-    description = 'You can handle high risk for maximum returns. Focus on equity funds.';
-    funds = ['Small Cap Funds', 'Mid Cap Funds', 'Sectoral Funds', 'Flexi Cap Funds'];
-  }
-
-  setRiskResult({ score, percentage, profile, description, funds });
-};
-
-// Tax Optimizer Calculation
-const calculateTaxSavings = () => {
-  const income = parseFloat(taxIncome);
-  const investment = parseFloat(taxInvestment);
-
-  if (!income || !investment || income <= 0 || investment <= 0) {
-    alert('Please enter valid values!');
-    return;
-  }
-
-  const maxDeduction = Math.min(investment, 150000); // 80C limit
-  let taxSaved = 0;
-
-  if (income <= 250000) taxSaved = 0;
-  else if (income <= 500000) taxSaved = maxDeduction * 0.05;
-  else if (income <= 1000000) taxSaved = maxDeduction * 0.20;
-  else taxSaved = maxDeduction * 0.30;
-
-  setTaxResult({
-    investment: Math.round(investment),
-    deduction: Math.round(maxDeduction),
-    taxSaved: Math.round(taxSaved),
-    effectiveCost: Math.round(investment - taxSaved)
-  });
-};
-
-// Load ELSS Funds
-const loadElssFunds = async () => {
-  try {
-    const response = await fetch(`${API_ENDPOINTS.SEARCH}?q=elss`);
-    const data = await response.json();
-    setElssFunds(data.results || []);
-  } catch (error) {
-    console.log('Error loading ELSS funds:', error);
-  }
-};
 
 
 
@@ -690,300 +412,36 @@ const loadElssFunds = async () => {
 
   // ========== HOME SCREEN ==========
   if (screen === 'home') {
-    return (
-      <View style={styles.container}>
-        <ScrollView style={styles.scrollView}>
-          <View style={styles.header}>
-            <View>
-              <Text style={styles.greeting}>hey bestie 👋</Text>
-              <Text style={styles.userName}>Investor</Text>
-            </View>
-            <TouchableOpacity style={styles.notificationButton}>
-              <Bell size={18} color="#fff" />
-              <View style={styles.notificationDot} />
-            </TouchableOpacity>
-          </View>
-
-          <View style={styles.streakCard}>
-            <View style={styles.streakHeader}>
-              <View style={styles.streakTitle}>
-                <Flame size={24} color="#FB923C" />
-                <Text style={styles.streakText}>7 Day Streak! 🔥</Text>
-              </View>
-              <Trophy size={32} color="#FBBF24" />
-            </View>
-          </View>
-
-          <View style={styles.section}>
-            <Text style={styles.sectionTitle}>what u wanna do?</Text>
-            
-            <TouchableOpacity 
-              style={[styles.actionCard, styles.purpleGradient]}
-              onPress={() => {
-                setPreviousScreen('home');  // ✅ ADD THIS
-                setScreen('check');
-                setSelectedFund(null);  // ✅ ADD THIS - Clear any previous fund
-            }}
-            >
-              <View style={styles.actionContent}>
-                <View style={styles.actionLeft}>
-                  <View style={styles.actionIcon}>
-                    <Search size={24} color="#fff" />
-                  </View>
-                  <View>
-                    <Text style={styles.actionTitle}>Search For a Fund</Text>
-                    <Text style={styles.actionSubtitle}>is it fire? 🔍</Text>
-                  </View>
-                </View>
-                <ChevronRight size={24} color="#fff" />
-              </View>
-            </TouchableOpacity>
-
-            
-            <TouchableOpacity 
-              style={[styles.actionCard, styles.orangeGradient]}
-              onPress={() => setScreen('advisor')}
-            >
-              <View style={styles.actionContent}>
-                <View style={styles.actionLeft}>
-                  <View style={styles.actionIcon}>
-                    <MessageSquare size={24} color="#fff" />
-                  </View>
-                  <View>
-                    <Text style={styles.actionTitle}>Fresh Investment</Text>
-                    <Text style={styles.actionSubtitle}>AI picks 4 u 🤖</Text>
-                  </View>
-                </View>
-                <ChevronRight size={24} color="#fff" />
-              </View>
-            </TouchableOpacity>
-          </View>
-          
-
-          {/* ========== PHASE 5: MY FUND ANALYZER ========== */}
-          <View style={styles.section}>
-            <Text style={styles.sectionTitle}>🎯 my investments</Text>
-            
-            <TouchableOpacity 
-              style={[styles.actionCard, styles.greenGradient]}
-              onPress={() => setScreen('myFundAnalyzer')}
-            >
-              <View style={styles.actionContent}>
-                <View style={styles.actionLeft}>
-                  <View style={styles.actionIcon}>
-                    <Search size={24} color="#fff" />
-                  </View>
-                  <View>
-                    <Text style={styles.actionTitle}>My Fund Analyzer</Text>
-                    <Text style={styles.actionSubtitle}>find better funds 🎯</Text>
-                  </View>
-                </View>
-                <ChevronRight size={24} color="#fff" />
-              </View>
-            </TouchableOpacity>
-
-            
-            <TouchableOpacity 
-              style={[styles.actionCard, styles.blueGradient]}
-              onPress={() => setScreen('import')}
-            >
-              <View style={styles.actionContent}>
-                <View style={styles.actionLeft}>
-                  <View style={styles.actionIcon}>
-                    <Upload size={24} color="#fff" />
-                  </View>
-                  <View>
-                    <Text style={styles.actionTitle}>Import Portfolio</Text>
-                    <Text style={styles.actionSubtitle}>upload excel ☕</Text>
-                  </View>
-                </View>
-                <ChevronRight size={24} color="#fff" />
-              </View>
-            </TouchableOpacity>
-
-
-          </View>
-
-          
-          <View style={styles.section}>
-            <Text style={styles.sectionTitle}>market vibes</Text>
-            <View style={styles.marketGrid}>
-              <View style={[styles.marketCard, styles.greenCard]}>
-                <Text style={styles.marketLabel}>📈 Nifty 50</Text>
-                <Text style={styles.marketValue}>23,456</Text>
-                <Text style={styles.marketChange}>+1.2%</Text>
-              </View>
-              <View style={[styles.marketCard, styles.blueCard]}>
-                <Text style={styles.marketLabel}>💹 Sensex</Text>
-                <Text style={styles.marketValue}>77,234</Text>
-                <Text style={styles.marketChange}>+0.8%</Text>
-              </View>
-            </View>
-          </View>
-        </ScrollView>
-        <Navigation 
-          screen={screen}
-          setScreen={setScreen}
-          setSelectedFund={setSelectedFund}
-          setActiveTool={setActiveTool}
-          setSelectedTopic={setSelectedTopic}
-        />
-      </View>
-    );
-  }
+  return (
+    <HomeScreen
+      setScreen={setScreen}
+      setPreviousScreen={setPreviousScreen}
+      setSelectedFund={setSelectedFund}
+      setActiveTool={setActiveTool}
+      setSelectedTopic={setSelectedTopic}
+      screen={screen}
+    />
+  );
+}
 
  // ========== TOP FUNDS SCREEN (NEW) ==========
   if (screen === 'topFunds') {
-    if (loading && !refreshing) {
-      return (
-        <View style={styles.container}>
-          <View style={styles.centerContainer}>
-            <ActivityIndicator size="large" color="#A855F7" />
-            <Text style={styles.loadingText}>Loading top funds...</Text>
-          </View>
-          <Navigation 
-          screen={screen}
-          setScreen={setScreen}
-          setSelectedFund={setSelectedFund}
-          setActiveTool={setActiveTool}
-          setSelectedTopic={setSelectedTopic}
-        />
-        </View>
-      );
-    }
-
-    return (
-      <View style={styles.container}>
-        <View style={styles.headerPurple}>
-          <Text style={styles.pageTitle}>🏆 Top Performing Funds</Text>
-        </View>
-
-        <ScrollView 
-          horizontal 
-          showsHorizontalScrollIndicator={false}
-          style={styles.filterScrollContainer}
-        >
-          <TouchableOpacity
-            style={[styles.filterChip, !topFundsCategory && styles.filterChipActive]}
-            onPress={() => setTopFundsCategory(null)}
-          >
-            <Text style={[styles.filterText, !topFundsCategory && styles.filterTextActive]}>All</Text>
-          </TouchableOpacity>
-
-          <TouchableOpacity
-            style={[styles.filterChip, topFundsCategory === 'equity' && styles.filterChipActive]}
-            onPress={() => setTopFundsCategory('equity')}
-          >
-            <Text style={[styles.filterText, topFundsCategory === 'equity' && styles.filterTextActive]}>Equity</Text>
-          </TouchableOpacity>
-
-          <TouchableOpacity
-            style={[styles.filterChip, topFundsCategory === 'debt' && styles.filterChipActive]}
-            onPress={() => setTopFundsCategory('debt')}
-          >
-            <Text style={[styles.filterText, topFundsCategory === 'debt' && styles.filterTextActive]}>Debt</Text>
-          </TouchableOpacity>
-
-          <TouchableOpacity
-            style={[styles.filterChip, topFundsCategory === 'hybrid' && styles.filterChipActive]}
-            onPress={() => setTopFundsCategory('hybrid')}
-          >
-            <Text style={[styles.filterText, topFundsCategory === 'hybrid' && styles.filterTextActive]}>Hybrid</Text>
-          </TouchableOpacity>
-
-          {/* NEW BUTTON 1: Solution Oriented */}
-        <TouchableOpacity
-          style={[styles.filterChip, topFundsCategory === 'solution oriented' && styles.filterChipActive]}
-          onPress={() => setTopFundsCategory('solution oriented')}
-        >
-          <Text style={[styles.filterText, topFundsCategory === 'solution oriented' && styles.filterTextActive]}>Solution Oriented</Text>
-        </TouchableOpacity>
-
-         {/* NEW BUTTON 2: Other */}
-        <TouchableOpacity
-          style={[styles.filterChip, topFundsCategory === 'other' && styles.filterChipActive]}
-          onPress={() => setTopFundsCategory('other')}
-        >
-          <Text style={[styles.filterText, topFundsCategory === 'other' && styles.filterTextActive]}>Other</Text>
-        </TouchableOpacity>
-
-      </ScrollView>
-
-        <ScrollView
-          style={styles.topFundsList}
-          refreshControl={
-            <RefreshControl refreshing={refreshing} onRefresh={onRefreshTopFunds} tintColor="#A855F7" />
-          }
-        >
-          {topFunds.map((fund, index) => {
-            // Get score - try new format first, fallback to old
-            const score = fund.score?.total || fund.composite_score || 0;
-            const scoreEmoji = fund.score?.tier?.emoji || getScoreEmoji(score);
-            
-            return (
-            <TouchableOpacity
-              key={`top-${fund.code}-${index}`}
-              style={styles.topFundCard}
-              onPress={() => {
-                setPreviousScreen('topFunds');  // ✅ ADD THIS
-                setScreen('check');
-                getFundDetails(fund.code);
-          }}
-            >
-              <View style={styles.topFundContent}>
-  <Text style={styles.topFundName} numberOfLines={2}>
-    {fund.name}
-  </Text>
-  
-  {/* CATEGORY DISPLAY - NEW */}
-  {fund.category && (
-    <View style={styles.topFundCategoryRow}>
-      <Text style={styles.topFundCategoryEmoji}>{fund.category_emoji}</Text>
-      <Text style={styles.topFundCategoryText}>{fund.category}</Text>
-    </View>
-  )}
-  
-  {fund.risk && (
-    <Text style={styles.topFundRisk} numberOfLines={1}>
-      {fund.risk}
-    </Text>
-  )}
-  
-  {fund.fund_age != null && (
-    <Text style={styles.topFundAge}>
-      {fund.fund_age.toFixed(1)} years old
-    </Text>
-  )}
-</View>
-
-<View style={styles.topFundScore}>
-  <Text style={styles.scoreEmoji}>
-    {fund.score?.tier?.emoji || getScoreEmoji(fund.composite_score || 0)}
-  </Text>
-  <Text style={[
-    styles.scoreNumber,
-    fund.score?.has_sufficient_data === false && styles.scoreNumberInsufficient
-  ]}>
-    {fund.score?.has_sufficient_data === false 
-      ? 'N/A' 
-      : Math.round(fund.score?.total || fund.composite_score || 0)
-    }
-  </Text>
-</View>
-            </TouchableOpacity>
-            );
-          })}
-        </ScrollView>
-        <Navigation 
-          screen={screen}
-          setScreen={setScreen}
-          setSelectedFund={setSelectedFund}
-          setActiveTool={setActiveTool}
-          setSelectedTopic={setSelectedTopic}
-        />
-      </View>
-    );
-  }
+  return (
+    <TopFundsScreen
+      setScreen={setScreen}
+      setPreviousScreen={setPreviousScreen}
+      setSelectedFund={setSelectedFund}
+      setActiveTool={setActiveTool}
+      setSelectedTopic={setSelectedTopic}
+      screen={screen}
+      onFundPress={(code) => {
+        setPreviousScreen('topFunds');
+        setScreen('check');
+        getFundDetails(code);     // ← Uses your existing App.js function
+      }}
+    />
+  );
+}
 
 
 
@@ -2177,1149 +1635,44 @@ const loadElssFunds = async () => {
 // ========== TOOLS LIST SCREEN ==========
 if (screen === 'tools' && !activeTool) {
   return (
-    <View style={styles.container}>
-      <View style={styles.headerOrange}>
-        <Text style={styles.pageTitle}>Tools ⚡</Text>
-      </View>
-
-      <ScrollView style={styles.scrollView}>
-        <View style={styles.toolsContainer}>
-          <TouchableOpacity
-            style={[styles.toolCard, { borderLeftColor: '#3B82F6' }]}
-            onPress={() => setActiveTool('sip')}
-          >
-            <View style={styles.toolContent}>
-              <View style={[styles.toolIcon, { backgroundColor: '#3B82F620' }]}>
-                <Text style={styles.toolEmoji}>🧮</Text>
-              </View>
-              <View style={styles.toolInfo}>
-                <Text style={styles.toolTitle}>SIP Calculator</Text>
-                <Text style={styles.toolSubtitle}>monthly investment returns</Text>
-              </View>
-            </View>
-            <ChevronRight size={24} color="#6B7280" />
-          </TouchableOpacity>
-
-          <TouchableOpacity
-            style={[styles.toolCard, { borderLeftColor: '#8B5CF6' }]}
-            onPress={() => setActiveTool('goal')}
-          >
-            <View style={styles.toolContent}>
-              <View style={[styles.toolIcon, { backgroundColor: '#8B5CF620' }]}>
-                <Text style={styles.toolEmoji}>🎯</Text>
-              </View>
-              <View style={styles.toolInfo}>
-                <Text style={styles.toolTitle}>Goal Planner</Text>
-                <Text style={styles.toolSubtitle}>plan for your dreams</Text>
-              </View>
-            </View>
-            <ChevronRight size={24} color="#6B7280" />
-          </TouchableOpacity>
-
-          <TouchableOpacity
-            style={[styles.toolCard, { borderLeftColor: '#10B981' }]}
-            onPress={() => setActiveTool('returns')}
-          >
-            <View style={styles.toolContent}>
-              <View style={[styles.toolIcon, { backgroundColor: '#10B98120' }]}>
-                <Text style={styles.toolEmoji}>📈</Text>
-              </View>
-              <View style={styles.toolInfo}>
-                <Text style={styles.toolTitle}>Returns Calculator</Text>
-                <Text style={styles.toolSubtitle}>lumpsum vs SIP</Text>
-              </View>
-            </View>
-            <ChevronRight size={24} color="#6B7280" />
-          </TouchableOpacity>
-
-          <TouchableOpacity
-            style={[styles.toolCard, { borderLeftColor: '#F59E0B' }]}
-            onPress={() => setActiveTool('risk')}
-          >
-            <View style={styles.toolContent}>
-              <View style={[styles.toolIcon, { backgroundColor: '#F59E0B20' }]}>
-                <Text style={styles.toolEmoji}>⚠️</Text>
-              </View>
-              <View style={styles.toolInfo}>
-                <Text style={styles.toolTitle}>Risk Analyzer</Text>
-                <Text style={styles.toolSubtitle}>check portfolio risk</Text>
-              </View>
-            </View>
-            <ChevronRight size={24} color="#6B7280" />
-          </TouchableOpacity>
-
-          <TouchableOpacity
-            style={[styles.toolCard, { borderLeftColor: '#EF4444' }]}
-            onPress={() => setActiveTool('tax')}
-          >
-            <View style={styles.toolContent}>
-              <View style={[styles.toolIcon, { backgroundColor: '#EF444420' }]}>
-                <Text style={styles.toolEmoji}>💸</Text>
-              </View>
-              <View style={styles.toolInfo}>
-                <Text style={styles.toolTitle}>Tax Optimizer</Text>
-                <Text style={styles.toolSubtitle}>save on taxes</Text>
-              </View>
-            </View>
-            <ChevronRight size={24} color="#6B7280" />
-          </TouchableOpacity>
-
-              {/* Expense Impact Calculator - NEW */}
-          <TouchableOpacity
-            style={[styles.toolCard, { borderLeftColor: '#10B981' }]}
-            onPress={() => setActiveTool('expense')}
-          >
-            <View style={styles.toolContent}>
-              <View style={[styles.toolIcon, { backgroundColor: '#EF444420' }]}>
-                <Text style={styles.toolEmoji}>💰</Text>
-              </View>
-              <View style={styles.toolInfo}>
-                <Text style={styles.toolTitle}>Expense Impact</Text>
-                <Text style={styles.toolSubtitle}>Direct vs Regular plans</Text>
-              </View>
-            </View>
-            <ChevronRight size={24} color="#6B7280" />
-          </TouchableOpacity>
-
-          <TouchableOpacity
-            style={[styles.toolCard, { borderLeftColor: '#EC4899' }]}
-            onPress={() => setActiveTool('compare')}
-          >
-            <View style={styles.toolContent}>
-              <View style={[styles.toolIcon, { backgroundColor: '#EC489920' }]}>
-                <Text style={styles.toolEmoji}>⚖️</Text>
-              </View>
-              <View style={styles.toolInfo}>
-                <Text style={styles.toolTitle}>Fund Compare</Text>
-                <Text style={styles.toolSubtitle}>side-by-side analysis</Text>
-              </View>
-            </View>
-            <ChevronRight size={24} color="#6B7280" />
-          </TouchableOpacity>
-        </View>
-
-        <View style={styles.disclaimer}>
-          <Text style={styles.disclaimerText}>
-            💡 These are educational tools only. Results are indicative and not guaranteed.
-          </Text>
-        </View>
-      </ScrollView>
-      <Navigation 
-          screen={screen}
-          setScreen={setScreen}
-          setSelectedFund={setSelectedFund}
-          setActiveTool={setActiveTool}
-          setSelectedTopic={setSelectedTopic}
-        />
-    </View>
+    <ToolsScreen
+      setActiveTool={setActiveTool}
+      screen={screen}
+      setScreen={setScreen}
+      setSelectedFund={setSelectedFund}
+      setSelectedTopic={setSelectedTopic}
+    />
   );
 }
 
 // ========== SIP CALCULATOR SCREEN ==========
 if (screen === 'tools' && activeTool === 'sip') {
-  return (
-    <View style={styles.container}>
-      <View style={styles.headerBlue}>
-        <TouchableOpacity onPress={() => {
-          setActiveTool(null);
-          setSipAmount('');
-          setSipYears('');
-          setSipReturn('');
-          setSipResult(null);
-        }}>
-          <ArrowLeft size={24} color="#fff" />
-        </TouchableOpacity>
-        <Text style={styles.pageTitle}>SIP Calculator 🧮</Text>
-        <View style={{ width: 24 }} />
-      </View>
-
-      <ScrollView style={styles.scrollViewFull}>
-        <View style={styles.calculatorContainer}>
-          {/* Monthly Investment */}
-          <View style={styles.inputGroup}>
-            <Text style={styles.inputLabel}>💰 Monthly Investment (₹)</Text>
-            <TextInput
-              style={styles.calculatorInput}
-              placeholder="e.g., 5000"
-              placeholderTextColor="#6B7280"
-              keyboardType="numeric"
-              value={sipAmount}
-              onChangeText={setSipAmount}
-            />
-          </View>
-
-          {/* Time Period */}
-          <View style={styles.inputGroup}>
-            <Text style={styles.inputLabel}>📅 Investment Period (Years)</Text>
-            <TextInput
-              style={styles.calculatorInput}
-              placeholder="e.g., 10"
-              placeholderTextColor="#6B7280"
-              keyboardType="numeric"
-              value={sipYears}
-              onChangeText={setSipYears}
-            />
-          </View>
-
-          {/* Expected Return */}
-          <View style={styles.inputGroup}>
-            <Text style={styles.inputLabel}>📈 Expected Annual Return (%)</Text>
-            <TextInput
-              style={styles.calculatorInput}
-              placeholder="e.g., 12"
-              placeholderTextColor="#6B7280"
-              keyboardType="numeric"
-              value={sipReturn}
-              onChangeText={setSipReturn}
-            />
-            <Text style={styles.inputHint}>
-              Typical equity fund returns: 10-15% annually
-            </Text>
-          </View>
-
-          {/* Calculate Button */}
-          <TouchableOpacity style={styles.calculateButton} onPress={calculateSIP}>
-            <Text style={styles.calculateButtonText}>Calculate 🚀</Text>
-          </TouchableOpacity>
-
-          {/* Results */}
-          {sipResult && (
-            <View style={styles.resultsCard}>
-              <Text style={styles.resultsTitle}>Your Results 📊</Text>
-              
-              <View style={styles.resultRow}>
-                <Text style={styles.resultLabel}>Total Invested</Text>
-                <Text style={styles.resultValue}>
-                  ₹{sipResult.invested.toLocaleString('en-IN')}
-                </Text>
-              </View>
-
-              <View style={styles.resultRow}>
-                <Text style={styles.resultLabel}>Wealth Gained</Text>
-                <Text style={[styles.resultValue, styles.resultGain]}>
-                  ₹{sipResult.returns.toLocaleString('en-IN')}
-                </Text>
-              </View>
-
-              <View style={[styles.resultRow, styles.resultRowTotal]}>
-                <Text style={styles.resultLabelTotal}>Future Value</Text>
-                <Text style={styles.resultValueTotal}>
-                  ₹{sipResult.total.toLocaleString('en-IN')}
-                </Text>
-              </View>
-
-              {/* Visual Bar */}
-              <View style={styles.visualBar}>
-                <View style={styles.visualBarSection}>
-                  <View style={[styles.visualBarFill, { 
-                    width: `${(sipResult.invested / sipResult.total) * 100}%`,
-                    backgroundColor: '#3B82F6'
-                  }]} />
-                  <Text style={styles.visualBarLabel}>
-                    Invested: {((sipResult.invested / sipResult.total) * 100).toFixed(0)}%
-                  </Text>
-                </View>
-                <View style={styles.visualBarSection}>
-                  <View style={[styles.visualBarFill, { 
-                    width: `${(sipResult.returns / sipResult.total) * 100}%`,
-                    backgroundColor: '#10B981'
-                  }]} />
-                  <Text style={styles.visualBarLabel}>
-                    Returns: {((sipResult.returns / sipResult.total) * 100).toFixed(0)}%
-                  </Text>
-                </View>
-              </View>
-
-              {/* Insight */}
-              <View style={styles.insightCard}>
-                <Text style={styles.insightText}>
-                  💡 By investing just ₹{Number(sipAmount).toLocaleString('en-IN')}/month, 
-                  you'll earn ₹{sipResult.returns.toLocaleString('en-IN')} in returns! 
-                  That's {((sipResult.returns / sipResult.invested) * 100).toFixed(0)}% growth! 🔥
-                </Text>
-              </View>
-            </View>
-          )}
-        </View>
-      </ScrollView>
-      {/* ❌ NO NavBar here! */}
-    </View>
-  );
+  return <SIPCalculator setActiveTool={setActiveTool} />;
 }
 
 // ========== GOAL PLANNER SCREEN ==========
 if (screen === 'tools' && activeTool === 'goal') {
-  return (
-    <View style={styles.container}>
-      <View style={[styles.headerBlue, { backgroundColor: '#8B5CF6' }]}>
-        <TouchableOpacity onPress={() => {
-          setActiveTool(null);
-          setGoalAmount('');
-          setGoalYears('');
-          setGoalReturn('');
-          setGoalResult(null);
-        }}>
-          <ArrowLeft size={24} color="#fff" />
-        </TouchableOpacity>
-        <Text style={styles.pageTitle}>Goal Planner 🎯</Text>
-        <View style={{ width: 24 }} />
-      </View>
-
-      <ScrollView style={styles.scrollViewFull}>
-        <View style={styles.calculatorContainer}>
-          <View style={styles.inputGroup}>
-            <Text style={styles.inputLabel}>🎯 Target Amount (₹)</Text>
-            <TextInput
-              style={styles.calculatorInput}
-              placeholder="e.g., 5000000"
-              placeholderTextColor="#6B7280"
-              keyboardType="numeric"
-              value={goalAmount}
-              onChangeText={setGoalAmount}
-            />
-            <Text style={styles.inputHint}>How much do you need?</Text>
-          </View>
-
-          <View style={styles.inputGroup}>
-            <Text style={styles.inputLabel}>📅 Time Period (Years)</Text>
-            <TextInput
-              style={styles.calculatorInput}
-              placeholder="e.g., 15"
-              placeholderTextColor="#6B7280"
-              keyboardType="numeric"
-              value={goalYears}
-              onChangeText={setGoalYears}
-            />
-          </View>
-
-          <View style={styles.inputGroup}>
-            <Text style={styles.inputLabel}>📈 Expected Return (%)</Text>
-            <TextInput
-              style={styles.calculatorInput}
-              placeholder="e.g., 12"
-              placeholderTextColor="#6B7280"
-              keyboardType="numeric"
-              value={goalReturn}
-              onChangeText={setGoalReturn}
-            />
-          </View>
-
-          <TouchableOpacity style={styles.calculateButton} onPress={calculateGoal}>
-            <Text style={styles.calculateButtonText}>Calculate 🚀</Text>
-          </TouchableOpacity>
-
-          {goalResult && (
-            <View style={styles.resultsCard}>
-              <Text style={styles.resultsTitle}>Your Plan 📊</Text>
-              
-              <View style={styles.resultRow}>
-                <Text style={styles.resultLabel}>Monthly Investment Needed</Text>
-                <Text style={[styles.resultValue, styles.resultGain]}>
-                  ₹{goalResult.monthly.toLocaleString('en-IN')}
-                </Text>
-              </View>
-
-              <View style={styles.resultRow}>
-                <Text style={styles.resultLabel}>Total You'll Invest</Text>
-                <Text style={styles.resultValue}>
-                  ₹{goalResult.total.toLocaleString('en-IN')}
-                </Text>
-              </View>
-
-              <View style={[styles.resultRow, styles.resultRowTotal]}>
-                <Text style={styles.resultLabelTotal}>Goal Amount</Text>
-                <Text style={styles.resultValueTotal}>
-                  ₹{goalResult.target.toLocaleString('en-IN')}
-                </Text>
-              </View>
-
-              <View style={styles.insightCard}>
-                <Text style={styles.insightText}>
-                  💡 Start a SIP of ₹{goalResult.monthly.toLocaleString('en-IN')}/month 
-                  and reach your ₹{(goalResult.target/100000).toFixed(0)} lakh goal! 
-                  Your returns: ₹{(goalResult.target - goalResult.total).toLocaleString('en-IN')} 🎯
-                </Text>
-              </View>
-            </View>
-          )}
-        </View>
-      </ScrollView>
-    </View>
-  );
+  return <GoalPlanner setActiveTool={setActiveTool} />;
 }
 
 // ========== LUMPSUM VS SIP SCREEN ==========
 if (screen === 'tools' && activeTool === 'returns') {
-  return (
-    <View style={styles.container}>
-      <View style={[styles.headerBlue, { backgroundColor: '#10B981' }]}>
-        <TouchableOpacity onPress={() => {
-          setActiveTool(null);
-          setCompareAmount('');
-          setCompareYears('');
-          setCompareReturn('');
-          setCompareResult(null);
-        }}>
-          <ArrowLeft size={24} color="#fff" />
-        </TouchableOpacity>
-        <Text style={styles.pageTitle}>Lumpsum vs SIP 📈</Text>
-        <View style={{ width: 24 }} />
-      </View>
-
-      <ScrollView style={styles.scrollViewFull}>
-        <View style={styles.calculatorContainer}>
-          <View style={styles.inputGroup}>
-            <Text style={styles.inputLabel}>💰 Total Amount (₹)</Text>
-            <TextInput
-              style={styles.calculatorInput}
-              placeholder="e.g., 100000"
-              placeholderTextColor="#6B7280"
-              keyboardType="numeric"
-              value={compareAmount}
-              onChangeText={setCompareAmount}
-            />
-            <Text style={styles.inputHint}>
-              Lumpsum: Invest all at once | SIP: Divide over time
-            </Text>
-          </View>
-
-          <View style={styles.inputGroup}>
-            <Text style={styles.inputLabel}>📅 Investment Period (Years)</Text>
-            <TextInput
-              style={styles.calculatorInput}
-              placeholder="e.g., 10"
-              placeholderTextColor="#6B7280"
-              keyboardType="numeric"
-              value={compareYears}
-              onChangeText={setCompareYears}
-            />
-          </View>
-
-          <View style={styles.inputGroup}>
-            <Text style={styles.inputLabel}>📈 Expected Return (%)</Text>
-            <TextInput
-              style={styles.calculatorInput}
-              placeholder="e.g., 12"
-              placeholderTextColor="#6B7280"
-              keyboardType="numeric"
-              value={compareReturn}
-              onChangeText={setCompareReturn}
-            />
-          </View>
-
-          <TouchableOpacity style={styles.calculateButton} onPress={calculateComparison}>
-            <Text style={styles.calculateButtonText}>Compare 🚀</Text>
-          </TouchableOpacity>
-
-          {compareResult && (
-            <View style={styles.resultsCard}>
-              <Text style={styles.resultsTitle}>Comparison Results 📊</Text>
-              
-              {/* Lumpsum */}
-              <View style={styles.compareSection}>
-                <Text style={styles.compareSectionTitle}>
-                  💎 Lumpsum (Invest all now)
-                </Text>
-                <View style={styles.resultRow}>
-                  <Text style={styles.resultLabel}>Invested</Text>
-                  <Text style={styles.resultValue}>
-                    ₹{compareResult.lumpsum.invested.toLocaleString('en-IN')}
-                  </Text>
-                </View>
-                <View style={styles.resultRow}>
-                  <Text style={styles.resultLabel}>Returns</Text>
-                  <Text style={[styles.resultValue, styles.resultGain]}>
-                    ₹{compareResult.lumpsum.returns.toLocaleString('en-IN')}
-                  </Text>
-                </View>
-                <View style={[styles.resultRow, styles.resultRowTotal]}>
-                  <Text style={styles.resultLabelTotal}>Final Value</Text>
-                  <Text style={styles.resultValueTotal}>
-                    ₹{compareResult.lumpsum.total.toLocaleString('en-IN')}
-                  </Text>
-                </View>
-              </View>
-
-              {/* SIP */}
-              <View style={styles.compareSection}>
-                <Text style={styles.compareSectionTitle}>
-                  📅 SIP (₹{compareResult.sip.monthly.toLocaleString('en-IN')}/month)
-                </Text>
-                <View style={styles.resultRow}>
-                  <Text style={styles.resultLabel}>Invested</Text>
-                  <Text style={styles.resultValue}>
-                    ₹{compareResult.sip.invested.toLocaleString('en-IN')}
-                  </Text>
-                </View>
-                <View style={styles.resultRow}>
-                  <Text style={styles.resultLabel}>Returns</Text>
-                  <Text style={[styles.resultValue, styles.resultGain]}>
-                    ₹{compareResult.sip.returns.toLocaleString('en-IN')}
-                  </Text>
-                </View>
-                <View style={[styles.resultRow, styles.resultRowTotal]}>
-                  <Text style={styles.resultLabelTotal}>Final Value</Text>
-                  <Text style={styles.resultValueTotal}>
-                    ₹{compareResult.sip.total.toLocaleString('en-IN')}
-                  </Text>
-                </View>
-              </View>
-
-              <View style={styles.winnerCard}>
-                <Text style={styles.winnerText}>
-                  🏆 Winner: {compareResult.winner}
-                </Text>
-                <Text style={styles.winnerSubtext}>
-                  {compareResult.winner === 'Lumpsum' 
-                    ? 'Lumpsum wins if you invest all at the start!' 
-                    : 'SIP benefits from rupee cost averaging!'}
-                </Text>
-              </View>
-            </View>
-          )}
-        </View>
-      </ScrollView>
-    </View>
-  );
+  return <ReturnsCalculator setActiveTool={setActiveTool} />;
 }
 
 // ========== FUND COMPARE SCREEN ==========
 if (screen === 'tools' && activeTool === 'compare') {
-  return (
-    <View style={styles.container}>
-      <View style={[styles.headerBlue, { backgroundColor: '#EC4899' }]}>
-        <TouchableOpacity onPress={() => {
-          setActiveTool(null);
-          setSelectedFunds([]);
-          setFundSearchQuery('');
-          setFundSearchResults([]);
-        }}>
-          <ArrowLeft size={24} color="#fff" />
-        </TouchableOpacity>
-        <Text style={styles.pageTitle}>Fund Compare ⚖️</Text>
-        <View style={{ width: 24 }} />
-      </View>
-
-      <ScrollView style={styles.scrollViewFull}>
-        <View style={styles.calculatorContainer}>
-          {/* Search Bar */}
-          <View style={styles.inputGroup}>
-            <Text style={styles.inputLabel}>
-              🔍 Search Funds (Select up to 3)
-            </Text>
-            <View style={styles.searchBox}>
-              <Search size={20} color="#EC4899" />
-              <TextInput
-                style={styles.searchInput}
-                placeholder="type fund name..."
-                placeholderTextColor="#6B7280"
-                value={fundSearchQuery}
-                onChangeText={(text) => {
-                  setFundSearchQuery(text);
-                  searchFundsForCompare(text);
-                }}
-              />
-            </View>
-          </View>
-
-          {/* Search Results */}
-          {fundSearchResults.length > 0 && (
-            <View style={styles.searchResultsBox}>
-              {fundSearchResults.slice(0, 5).map((fund) => (
-                <TouchableOpacity
-                  key={fund.code}
-                  style={styles.searchResultItem}
-                  onPress={() => addFundToCompare(fund.code)}
-                >
-                  <Text style={styles.searchResultName} numberOfLines={1}>
-                    {fund.name}
-                  </Text>
-                  <Text style={styles.searchResultCagr}>
-                    {fund.cagr > 0 ? '+' : ''}{fund.cagr}%
-                  </Text>
-                </TouchableOpacity>
-              ))}
-            </View>
-          )}
-
-          {/* Selected Funds */}
-          {selectedFunds.length > 0 && (
-            <View style={styles.selectedFundsContainer}>
-              <Text style={styles.inputLabel}>
-                ✅ Selected Funds ({selectedFunds.length}/3)
-              </Text>
-              {selectedFunds.map((fund, index) => (
-                <View key={index} style={styles.selectedFundCard}>
-                  <View style={styles.selectedFundInfo}>
-                    <Text style={styles.selectedFundName} numberOfLines={1}>
-                      {fund.name}
-                    </Text>
-                    <Text style={styles.selectedFundCagr}>
-                      CAGR: {(fund.metrics.cagr * 100).toFixed(1)}%
-                    </Text>
-                  </View>
-                  <TouchableOpacity
-                    onPress={() => {
-                      setSelectedFunds(selectedFunds.filter((_, i) => i !== index));
-                    }}
-                  >
-                    <Text style={styles.removeFundButton}>✕</Text>
-                  </TouchableOpacity>
-                </View>
-              ))}
-            </View>
-          )}
-
-           {/* Comparison Table */}
-{selectedFunds.length >= 2 && (
-  <ScrollView horizontal showsHorizontalScrollIndicator={true}>
-    <View style={styles.comparisonTableWide}>
-      <Text style={styles.resultsTitle}>Side-by-Side Comparison 📊</Text>
-      
-      {/* Header Row - Fund Names */}
-      <View style={styles.comparisonHeaderRow}>
-        <View style={styles.comparisonMetricColumn}>
-          <Text style={styles.comparisonHeaderLabel}>Metric</Text>
-        </View>
-        {selectedFunds.map((fund, i) => (
-          <View key={i} style={styles.comparisonFundColumn}>
-            <Text style={styles.comparisonFundHeader} numberOfLines={3}>
-              {fund.name}
-            </Text>
-          </View>
-        ))}
-      </View>
-
-      {/* Fund Type Row */}
-      <View style={styles.comparisonDataRow}>
-        <View style={styles.comparisonMetricColumn}>
-          <Text style={styles.comparisonMetricName}>Fund Type</Text>
-        </View>
-        {selectedFunds.map((fund, i) => (
-          <View key={i} style={styles.comparisonFundColumn}>
-            <Text style={styles.comparisonValueText} numberOfLines={2}>
-              {fund.type || 'N/A'}
-            </Text>
-          </View>
-        ))}
-      </View>
-
-      {/* Riskometer Row */}
-      <View style={styles.comparisonDataRow}>
-        <View style={styles.comparisonMetricColumn}>
-          <Text style={styles.comparisonMetricName}>Risk Level</Text>
-        </View>
-        {selectedFunds.map((fund, i) => (
-          <View key={i} style={styles.comparisonFundColumn}>
-            <View style={[styles.riskBadge, { 
-              backgroundColor: 
-                fund.risk?.toLowerCase().includes('high') ? 'rgba(239, 68, 68, 0.2)' : 
-                fund.risk?.toLowerCase().includes('moderate') ? 'rgba(245, 158, 11, 0.2)' : 
-                'rgba(16, 185, 129, 0.2)'
-            }]}>
-              <Text style={[styles.comparisonValueText, {
-                color: 
-                  fund.risk?.toLowerCase().includes('high') ? '#EF4444' : 
-                  fund.risk?.toLowerCase().includes('moderate') ? '#F59E0B' : 
-                  '#10B981'
-              }]}>
-                {fund.risk || 'N/A'}
-              </Text>
-            </View>
-          </View>
-        ))}
-      </View>
-
-      {/* Expense Ratio Row */}
-      <View style={styles.comparisonDataRow}>
-        <View style={styles.comparisonMetricColumn}>
-          <Text style={styles.comparisonMetricName}>Expense Ratio</Text>
-        </View>
-        {selectedFunds.map((fund, i) => (
-          <View key={i} style={styles.comparisonFundColumn}>
-            <Text style={styles.comparisonValueText}>
-              {fund.expense?.Direct 
-                ? `D: ${fund.expense.Direct}%` 
-                : fund.expense?.Regular 
-                  ? `R: ${fund.expense.Regular}%` 
-                  : 'N/A'}
-            </Text>
-            {fund.expense?.Regular && fund.expense?.Direct && (
-              <Text style={styles.comparisonSubValue}>
-                R: {fund.expense.Regular}%
-              </Text>
-            )}
-          </View>
-        ))}
-      </View>
-
-      {/* CAGR Row */}
-      <View style={[styles.comparisonDataRow, styles.highlightRow]}>
-        <View style={styles.comparisonMetricColumn}>
-          <Text style={styles.comparisonMetricName}>CAGR</Text>
-        </View>
-        {selectedFunds.map((fund, i) => {
-          const cagr = fund.metrics.cagr * 100;
-          const isMax = Math.max(...selectedFunds.map(f => f.metrics.cagr * 100)) === cagr;
-          return (
-            <View key={i} style={styles.comparisonFundColumn}>
-              <Text style={[
-                styles.comparisonValueText,
-                styles.comparisonGreen,
-                isMax && styles.comparisonWinner
-              ]}>
-                {cagr.toFixed(2)}%
-                {isMax && ' 🏆'}
-              </Text>
-            </View>
-          );
-        })}
-      </View>
-
-      {/* Volatility Row */}
-      <View style={styles.comparisonDataRow}>
-        <View style={styles.comparisonMetricColumn}>
-          <Text style={styles.comparisonMetricName}>Volatility</Text>
-        </View>
-        {selectedFunds.map((fund, i) => {
-          const vol = fund.metrics.volatility ? fund.metrics.volatility * 100 : null;
-          const isMin = vol && Math.min(...selectedFunds.map(f => 
-            f.metrics.volatility ? f.metrics.volatility * 100 : Infinity
-          )) === vol;
-          return (
-            <View key={i} style={styles.comparisonFundColumn}>
-              <Text style={[
-                styles.comparisonValueText,
-                styles.comparisonOrange,
-                isMin && styles.comparisonWinner
-              ]}>
-                {vol ? `${vol.toFixed(2)}%` : 'N/A'}
-                {isMin && vol && ' 🏆'}
-              </Text>
-            </View>
-          );
-        })}
-      </View>
-
-      {/* Sharpe Ratio Row */}
-      <View style={[styles.comparisonDataRow, styles.highlightRow]}>
-        <View style={styles.comparisonMetricColumn}>
-          <Text style={styles.comparisonMetricName}>Sharpe Ratio</Text>
-        </View>
-        {selectedFunds.map((fund, i) => {
-          const sharpe = fund.metrics.sharpe;
-          const isMax = sharpe && Math.max(...selectedFunds.map(f => 
-            f.metrics.sharpe || -Infinity
-          )) === sharpe;
-          return (
-            <View key={i} style={styles.comparisonFundColumn}>
-              <Text style={[
-                styles.comparisonValueText,
-                styles.comparisonGreen,
-                isMax && styles.comparisonWinner
-              ]}>
-                {sharpe ? sharpe.toFixed(2) : 'N/A'}
-                {isMax && sharpe && ' 🏆'}
-              </Text>
-            </View>
-          );
-        })}
-      </View>
-
-      {/* Sortino Ratio Row */}
-      <View style={styles.comparisonDataRow}>
-        <View style={styles.comparisonMetricColumn}>
-          <Text style={styles.comparisonMetricName}>Sortino Ratio</Text>
-        </View>
-        {selectedFunds.map((fund, i) => {
-          const sortino = fund.metrics.sortino;
-          const isMax = sortino && Math.max(...selectedFunds.map(f => 
-            f.metrics.sortino || -Infinity
-          )) === sortino;
-          return (
-            <View key={i} style={styles.comparisonFundColumn}>
-              <Text style={[
-                styles.comparisonValueText,
-                styles.comparisonGreen,
-                isMax && styles.comparisonWinner
-              ]}>
-                {sortino ? sortino.toFixed(2) : 'N/A'}
-                {isMax && sortino && ' 🏆'}
-              </Text>
-            </View>
-          );
-        })}
-      </View>
-
-      {/* 1Y Return Row */}
-      <View style={[styles.comparisonDataRow, styles.highlightRow]}>
-        <View style={styles.comparisonMetricColumn}>
-          <Text style={styles.comparisonMetricName}>1Y Return</Text>
-        </View>
-        {selectedFunds.map((fund, i) => {
-          const ret = fund.metrics.return_1y ? fund.metrics.return_1y * 100 : null;
-          const isMax = ret && Math.max(...selectedFunds.map(f => 
-            f.metrics.return_1y ? f.metrics.return_1y * 100 : -Infinity
-          )) === ret;
-          return (
-            <View key={i} style={styles.comparisonFundColumn}>
-              <Text style={[
-                styles.comparisonValueText,
-                styles.comparisonGreen,
-                isMax && styles.comparisonWinner
-              ]}>
-                {ret ? `${ret.toFixed(1)}%` : 'N/A'}
-                {isMax && ret && ' 🏆'}
-              </Text>
-            </View>
-          );
-        })}
-      </View>
-
-      {/* 3Y Return Row */}
-      <View style={styles.comparisonDataRow}>
-        <View style={styles.comparisonMetricColumn}>
-          <Text style={styles.comparisonMetricName}>3Y Return</Text>
-        </View>
-        {selectedFunds.map((fund, i) => {
-          const ret = fund.metrics.return_3y ? fund.metrics.return_3y * 100 : null;
-          const isMax = ret && Math.max(...selectedFunds.map(f => 
-            f.metrics.return_3y ? f.metrics.return_3y * 100 : -Infinity
-          )) === ret;
-          return (
-            <View key={i} style={styles.comparisonFundColumn}>
-              <Text style={[
-                styles.comparisonValueText,
-                styles.comparisonGreen,
-                isMax && styles.comparisonWinner
-              ]}>
-                {ret ? `${ret.toFixed(1)}%` : 'N/A'}
-                {isMax && ret && ' 🏆'}
-              </Text>
-            </View>
-          );
-        })}
-      </View>
-
-      {/* 5Y Return Row */}
-      <View style={[styles.comparisonDataRow, styles.highlightRow]}>
-        <View style={styles.comparisonMetricColumn}>
-          <Text style={styles.comparisonMetricName}>5Y Return</Text>
-        </View>
-        {selectedFunds.map((fund, i) => {
-          const ret = fund.metrics.return_5y ? fund.metrics.return_5y * 100 : null;
-          const isMax = ret && Math.max(...selectedFunds.map(f => 
-            f.metrics.return_5y ? f.metrics.return_5y * 100 : -Infinity
-          )) === ret;
-          return (
-            <View key={i} style={styles.comparisonFundColumn}>
-              <Text style={[
-                styles.comparisonValueText,
-                styles.comparisonGreen,
-                isMax && styles.comparisonWinner
-              ]}>
-                {ret ? `${ret.toFixed(1)}%` : 'N/A'}
-                {isMax && ret && ' 🏆'}
-              </Text>
-            </View>
-          );
-        })}
-      </View>
-
-      {/* Alpha Row - Coming Soon */}
-      <View style={styles.comparisonDataRow}>
-        <View style={styles.comparisonMetricColumn}>
-          <Text style={styles.comparisonMetricName}>Alpha</Text>
-        </View>
-        {selectedFunds.map((fund, i) => (
-          <View key={i} style={styles.comparisonFundColumn}>
-            <Text style={[styles.comparisonValueText, styles.comparisonGray]}>
-              Coming Soon
-            </Text>
-          </View>
-        ))}
-      </View>
-
-      {/* Beta Row - Coming Soon */}
-      <View style={[styles.comparisonDataRow, styles.highlightRow]}>
-        <View style={styles.comparisonMetricColumn}>
-          <Text style={styles.comparisonMetricName}>Beta</Text>
-        </View>
-        {selectedFunds.map((fund, i) => (
-          <View key={i} style={styles.comparisonFundColumn}>
-            <Text style={[styles.comparisonValueText, styles.comparisonGray]}>
-              Coming Soon
-            </Text>
-          </View>
-        ))}
-      </View>
-
-      {/* AI Verdict Row */}
-      <View style={styles.comparisonDataRow}>
-        <View style={styles.comparisonMetricColumn}>
-          <Text style={styles.comparisonMetricName}>AI Verdict</Text>
-        </View>
-        {selectedFunds.map((fund, i) => (
-          <View key={i} style={styles.comparisonFundColumn}>
-            <Text style={styles.comparisonVerdictText} numberOfLines={3}>
-              {fund.ai_verdict?.verdict || 'N/A'}
-            </Text>
-          </View>
-        ))}
-      </View>
-    </View>
-  </ScrollView>
-)}
-
-          {selectedFunds.length < 2 && (
-            <View style={styles.emptyState}>
-              <Text style={styles.emptyText}>
-                Select at least 2 funds to compare! 📊
-              </Text>
-            </View>
-          )}
-        </View>
-      </ScrollView>
-    </View>
-  );
+  return <FundCompare setActiveTool={setActiveTool} />;
 }
 
 // ========== RISK ANALYZER SCREEN ==========
 if (screen === 'tools' && activeTool === 'risk') {
-  const questions = [
-    { id: 1, q: 'What is your investment horizon?', opts: ['<1 year (1)', '1-3 years (2)', '3-5 years (4)', '5+ years (5)'], vals: [1, 2, 4, 5] },
-    { id: 2, q: 'How would you react to a 20% drop?', opts: ['Panic & sell (1)', 'Worry (2)', 'Hold steady (4)', 'Buy more! (5)'], vals: [1, 2, 4, 5] },
-    { id: 3, q: 'Your investment goal?', opts: ['Capital safety (1)', 'Regular income (2)', 'Growth (4)', 'Max returns (5)'], vals: [1, 2, 4, 5] },
-    { id: 4, q: 'Your age group?', opts: ['50+ (1)', '40-50 (2)', '30-40 (4)', '<30 (5)'], vals: [1, 2, 4, 5] },
-    { id: 5, q: 'Emergency fund status?', opts: ['None (1)', 'Building (2)', '3-6 months (4)', '6+ months (5)'], vals: [1, 2, 4, 5] }
-  ];
-
-  return (
-    <View style={styles.container}>
-      <View style={[styles.headerBlue, { backgroundColor: '#F59E0B' }]}>
-        <TouchableOpacity onPress={() => {
-          setActiveTool(null);
-          setRiskAnswers({});
-          setRiskResult(null);
-        }}>
-          <ArrowLeft size={24} color="#fff" />
-        </TouchableOpacity>
-        <Text style={styles.pageTitle}>Risk Analyzer ⚠️</Text>
-        <View style={{ width: 24 }} />
-      </View>
-
-      <ScrollView style={styles.scrollViewFull}>
-        <View style={styles.calculatorContainer}>
-          {!riskResult ? (
-            <>
-              <Text style={styles.quizTitle}>Answer these 5 questions 📝</Text>
-              {questions.map((item) => (
-                <View key={item.id} style={styles.questionCard}>
-                  <Text style={styles.questionText}>{item.id}. {item.q}</Text>
-                  {item.opts.map((opt, idx) => (
-                    <TouchableOpacity
-                      key={idx}
-                      style={[
-                        styles.optionButton,
-                        riskAnswers[item.id] === item.vals[idx] && styles.optionSelected
-                      ]}
-                      onPress={() => setRiskAnswers({...riskAnswers, [item.id]: item.vals[idx]})}
-                    >
-                      <Text style={[
-                        styles.optionText,
-                        riskAnswers[item.id] === item.vals[idx] && styles.optionTextSelected
-                      ]}>
-                        {opt}
-                      </Text>
-                    </TouchableOpacity>
-                  ))}
-                </View>
-              ))}
-
-              <TouchableOpacity style={styles.calculateButton} onPress={calculateRiskScore}>
-                <Text style={styles.calculateButtonText}>Get My Risk Profile 🚀</Text>
-              </TouchableOpacity>
-            </>
-          ) : (
-            <View style={styles.resultsCard}>
-              <Text style={styles.resultsTitle}>Your Risk Profile ⚠️</Text>
-              
-              <View style={styles.riskProfileCard}>
-                <Text style={styles.riskProfileName}>{riskResult.profile}</Text>
-                <Text style={styles.riskProfileScore}>
-                  Score: {riskResult.score}/25 ({riskResult.percentage.toFixed(0)}%)
-                </Text>
-              </View>
-
-              <View style={styles.scoreBar}>
-                <View style={styles.scoreBarBg}>
-                  <View style={[
-                    styles.scoreBarFill, 
-                    { width: `${riskResult.percentage}%`, backgroundColor: 
-                      riskResult.percentage <= 40 ? '#10B981' : 
-                      riskResult.percentage <= 70 ? '#F59E0B' : '#EF4444' 
-                    }
-                  ]} />
-                </View>
-              </View>
-
-              <Text style={styles.riskDescription}>{riskResult.description}</Text>
-
-              <Text style={styles.verdictSubtitle}>✅ Recommended Funds:</Text>
-              {riskResult.funds.map((fund, i) => (
-                <Text key={i} style={styles.verdictPro}>• {fund}</Text>
-              ))}
-
-              <TouchableOpacity
-                style={styles.backButton}
-                onPress={() => {
-                  setRiskAnswers({});
-                  setRiskResult(null);
-                }}
-              >
-                <Text style={styles.backButtonText}>← retake quiz</Text>
-              </TouchableOpacity>
-            </View>
-          )}
-        </View>
-      </ScrollView>
-    </View>
-  );
+  return <RiskAnalyzer setActiveTool={setActiveTool} />;
 }
 
 // ========== TAX OPTIMIZER SCREEN ==========
 if (screen === 'tools' && activeTool === 'tax') {
-  // Load ELSS funds when screen opens
-  if (elssFunds.length === 0 && activeTool === 'tax') {
-    loadElssFunds();
-  }
-
-  return (
-    <View style={styles.container}>
-      <View style={[styles.headerBlue, { backgroundColor: '#EF4444' }]}>
-        <TouchableOpacity onPress={() => {
-          setActiveTool(null);
-          setTaxIncome('');
-          setTaxInvestment('');
-          setTaxResult(null);
-        }}>
-          <ArrowLeft size={24} color="#fff" />
-        </TouchableOpacity>
-        <Text style={styles.pageTitle}>Tax Optimizer 💸</Text>
-        <View style={{ width: 24 }} />
-      </View>
-
-      <ScrollView style={styles.scrollViewFull}>
-        <View style={styles.calculatorContainer}>
-          {/* Tax Calculator */}
-          <Text style={styles.sectionHeader}>Calculate Tax Savings 💰</Text>
-          
-          <View style={styles.inputGroup}>
-            <Text style={styles.inputLabel}>💼 Annual Income (₹)</Text>
-            <TextInput
-              style={styles.calculatorInput}
-              placeholder="e.g., 1000000"
-              placeholderTextColor="#6B7280"
-              keyboardType="numeric"
-              value={taxIncome}
-              onChangeText={setTaxIncome}
-            />
-          </View>
-
-          <View style={styles.inputGroup}>
-            <Text style={styles.inputLabel}>💸 ELSS Investment (₹)</Text>
-            <TextInput
-              style={styles.calculatorInput}
-              placeholder="e.g., 150000"
-              placeholderTextColor="#6B7280"
-              keyboardType="numeric"
-              value={taxInvestment}
-              onChangeText={setTaxInvestment}
-            />
-            <Text style={styles.inputHint}>
-              Max deduction: ₹1.5 lakhs under Section 80C
-            </Text>
-          </View>
-
-          <TouchableOpacity style={styles.calculateButton} onPress={calculateTaxSavings}>
-            <Text style={styles.calculateButtonText}>Calculate Savings 🚀</Text>
-          </TouchableOpacity>
-
-          {taxResult && (
-            <View style={styles.resultsCard}>
-              <Text style={styles.resultsTitle}>Tax Savings 💰</Text>
-              
-              <View style={styles.resultRow}>
-                <Text style={styles.resultLabel}>Investment</Text>
-                <Text style={styles.resultValue}>
-                  ₹{taxResult.investment.toLocaleString('en-IN')}
-                </Text>
-              </View>
-
-              <View style={styles.resultRow}>
-                <Text style={styles.resultLabel}>Eligible Deduction</Text>
-                <Text style={styles.resultValue}>
-                  ₹{taxResult.deduction.toLocaleString('en-IN')}
-                </Text>
-              </View>
-
-              <View style={styles.resultRow}>
-                <Text style={styles.resultLabel}>Tax Saved</Text>
-                <Text style={[styles.resultValue, styles.resultGain]}>
-                  ₹{taxResult.taxSaved.toLocaleString('en-IN')}
-                </Text>
-              </View>
-
-              <View style={[styles.resultRow, styles.resultRowTotal]}>
-                <Text style={styles.resultLabelTotal}>Effective Cost</Text>
-                <Text style={styles.resultValueTotal}>
-                  ₹{taxResult.effectiveCost.toLocaleString('en-IN')}
-                </Text>
-              </View>
-
-              <View style={styles.insightCard}>
-                <Text style={styles.insightText}>
-                  💡 You save ₹{taxResult.taxSaved.toLocaleString('en-IN')} in taxes! 
-                  Your actual investment cost is only ₹{taxResult.effectiveCost.toLocaleString('en-IN')}! 🔥
-                </Text>
-              </View>
-            </View>
-          )}
-
-          {/* ELSS Funds List */}
-          <Text style={styles.sectionHeader}>Top ELSS Funds 📋</Text>
-          {elssFunds.length > 0 ? (
-            elssFunds.slice(0, 10).map((fund, index) => (
-              <View key={index} style={styles.elssFundCard}>
-                <Text style={styles.elssFundName} numberOfLines={2}>
-                  {fund.name}
-                </Text>
-                <View style={styles.elssFundMeta}>
-                  <View style={styles.elssFundMetaItem}>
-                    <Text style={styles.elssFundLabel}>CAGR</Text>
-                    <Text style={styles.elssFundValue}>
-                      {fund.cagr > 0 ? '+' : ''}{fund.cagr}%
-                    </Text>
-                  </View>
-                  {fund.risk && (
-                    <View style={styles.elssFundMetaItem}>
-                      <Text style={styles.elssFundLabel}>Risk</Text>
-                      <Text style={styles.elssFundValue}>{fund.risk}</Text>
-                    </View>
-                  )}
-                </View>
-              </View>
-            ))
-          ) : (
-            <View style={styles.loadingContainer}>
-              <ActivityIndicator size="small" color="#EF4444" />
-              <Text style={styles.loadingText}>Loading ELSS funds...</Text>
-            </View>
-          )}
-        </View>
-      </ScrollView>
-    </View>
-  );
+  return <TaxOptimizer setActiveTool={setActiveTool} />;
 }
 
 // ========== EXPENSE IMPACT CALCULATOR ==========
@@ -3808,418 +2161,27 @@ if (screen === 'myFundAnalyzer') {
 
 // ========== COMPARISON SCREEN ==========
 if (screen === 'compare' && compareMode && comparisonData) {
-  const fund1 = comparisonData.fund1;
-  const fund2 = comparisonData.fund2;
-
   return (
-    <View style={styles.container}>
-      {/* Header */}
-      <View style={styles.headerPurple}>
-        <TouchableOpacity onPress={() => {
-          setCompareMode(false);
-          setComparisonData(null);
-          setScreen('myFundAnalyzer');
-        }}>
-          <ArrowLeft size={24} color="#fff" />
-        </TouchableOpacity>
-        <Text style={styles.pageTitle}>⚖️ Compare Funds</Text>
-        <View style={{ width: 24 }} />
-      </View>
-
-      <ScrollView style={styles.scrollView}>
-        
-        {/* Fund Headers */}
-        <View style={styles.comparisonHeader}>
-          <View style={styles.comparisonFundCard}>
-            <Text style={styles.comparisonFundName} numberOfLines={2}>
-              {fund1.name}
-            </Text>
-            {fund1.score && (
-              <View style={styles.comparisonScore}>
-                <Text style={styles.comparisonScoreEmoji}>
-                  {fund1.score.tier?.emoji || '📊'}
-                </Text>
-                <Text style={styles.comparisonScoreValue}>
-                  {Math.round(fund1.score.total)}
-                </Text>
-              </View>
-            )}
-          </View>
-
-          <Text style={styles.comparisonVs}>VS</Text>
-
-          <View style={styles.comparisonFundCard}>
-            <Text style={styles.comparisonFundName} numberOfLines={2}>
-              {fund2.name}
-            </Text>
-            {fund2.score && (
-              <View style={styles.comparisonScore}>
-                <Text style={styles.comparisonScoreEmoji}>
-                  {fund2.score.tier?.emoji || '📊'}
-                </Text>
-                <Text style={styles.comparisonScoreValue}>
-                  {Math.round(fund2.score.total)}
-                </Text>
-              </View>
-            )}
-          </View>
-        </View>
-
-        {/* Comparison Table */}
-        <View style={styles.comparisonTable}>
-          
-          {/* Score */}
-          <View style={styles.comparisonRow}>
-            <Text style={styles.comparisonMetricName}>Overall Score</Text>
-            <View style={styles.comparisonValues}>
-              <Text style={[
-                styles.comparisonValue,
-                fund1.score?.total > fund2.score?.total && styles.comparisonValueBetter
-              ]}>
-                {fund1.score?.total ? Math.round(fund1.score.total) : 'N/A'}
-              </Text>
-              <Text style={[
-                styles.comparisonValue,
-                fund2.score?.total > fund1.score?.total && styles.comparisonValueBetter
-              ]}>
-                {fund2.score?.total ? Math.round(fund2.score.total) : 'N/A'}
-              </Text>
-            </View>
-          </View>
-
-          {/* Expense Ratio */}
-          <View style={styles.comparisonRow}>
-            <Text style={styles.comparisonMetricName}>Expense Ratio</Text>
-            <View style={styles.comparisonValues}>
-              <Text style={[
-                styles.comparisonValue,
-                parseFloat(fund1.expense?.Direct || 999) < parseFloat(fund2.expense?.Direct || 999) && styles.comparisonValueBetter
-              ]}>
-                {fund1.expense?.Direct || 'N/A'}%
-              </Text>
-              <Text style={[
-                styles.comparisonValue,
-                parseFloat(fund2.expense?.Direct || 999) < parseFloat(fund1.expense?.Direct || 999) && styles.comparisonValueBetter
-              ]}>
-                {fund2.expense?.Direct || 'N/A'}%
-              </Text>
-            </View>
-          </View>
-
-          {/* CAGR */}
-          <View style={styles.comparisonRow}>
-            <Text style={styles.comparisonMetricName}>CAGR</Text>
-            <View style={styles.comparisonValues}>
-              <Text style={[
-                styles.comparisonValue,
-                fund1.cagr > fund2.cagr && styles.comparisonValueBetter
-              ]}>
-                {fund1.cagr ? (fund1.cagr * 100).toFixed(2) : 'N/A'}%
-              </Text>
-              <Text style={[
-                styles.comparisonValue,
-                fund2.cagr > fund1.cagr && styles.comparisonValueBetter
-              ]}>
-                {fund2.cagr ? (fund2.cagr * 100).toFixed(2) : 'N/A'}%
-              </Text>
-            </View>
-          </View>
-
-          {/* Sharpe Ratio */}
-          <View style={styles.comparisonRow}>
-            <Text style={styles.comparisonMetricName}>Sharpe Ratio</Text>
-            <View style={styles.comparisonValues}>
-              <Text style={[
-                styles.comparisonValue,
-                fund1.sharpe > fund2.sharpe && styles.comparisonValueBetter
-              ]}>
-                {fund1.sharpe?.toFixed(2) || 'N/A'}
-              </Text>
-              <Text style={[
-                styles.comparisonValue,
-                fund2.sharpe > fund1.sharpe && styles.comparisonValueBetter
-              ]}>
-                {fund2.sharpe?.toFixed(2) || 'N/A'}
-              </Text>
-            </View>
-          </View>
-
-          {/* Sortino Ratio */}
-          <View style={styles.comparisonRow}>
-            <Text style={styles.comparisonMetricName}>Sortino Ratio</Text>
-            <View style={styles.comparisonValues}>
-              <Text style={[
-                styles.comparisonValue,
-                fund1.sortino > fund2.sortino && styles.comparisonValueBetter
-              ]}>
-                {fund1.sortino?.toFixed(2) || 'N/A'}
-              </Text>
-              <Text style={[
-                styles.comparisonValue,
-                fund2.sortino > fund1.sortino && styles.comparisonValueBetter
-              ]}>
-                {fund2.sortino?.toFixed(2) || 'N/A'}
-              </Text>
-            </View>
-          </View>
-
-          {/* Volatility */}
-          <View style={styles.comparisonRow}>
-            <Text style={styles.comparisonMetricName}>Volatility</Text>
-            <View style={styles.comparisonValues}>
-              <Text style={[
-                styles.comparisonValue,
-                fund1.volatility < fund2.volatility && styles.comparisonValueBetter
-              ]}>
-                {fund1.volatility ? (fund1.volatility * 100).toFixed(2) : 'N/A'}%
-              </Text>
-              <Text style={[
-                styles.comparisonValue,
-                fund2.volatility < fund1.volatility && styles.comparisonValueBetter
-              ]}>
-                {fund2.volatility ? (fund2.volatility * 100).toFixed(2) : 'N/A'}%
-              </Text>
-            </View>
-          </View>
-
-          {/* Max Drawdown */}
-          <View style={styles.comparisonRow}>
-            <Text style={styles.comparisonMetricName}>Max Drawdown</Text>
-            <View style={styles.comparisonValues}>
-              <Text style={[
-                styles.comparisonValue,
-                fund1.max_drawdown > fund2.max_drawdown && styles.comparisonValueBetter
-              ]}>
-                {fund1.max_drawdown ? (fund1.max_drawdown * 100).toFixed(2) : 'N/A'}%
-              </Text>
-              <Text style={[
-                styles.comparisonValue,
-                fund2.max_drawdown > fund1.max_drawdown && styles.comparisonValueBetter
-              ]}>
-                {fund2.max_drawdown ? (fund2.max_drawdown * 100).toFixed(2) : 'N/A'}%
-              </Text>
-            </View>
-          </View>
-
-          {/* Consistency Score */}
-          <View style={styles.comparisonRow}>
-            <Text style={styles.comparisonMetricName}>Consistency Score</Text>
-            <View style={styles.comparisonValues}>
-              <Text style={[
-                styles.comparisonValue,
-                fund1.consistency_score > fund2.consistency_score && styles.comparisonValueBetter
-              ]}>
-                {fund1.consistency_score?.toFixed(1) || 'N/A'}
-              </Text>
-              <Text style={[
-                styles.comparisonValue,
-                fund2.consistency_score > fund1.consistency_score && styles.comparisonValueBetter
-              ]}>
-                {fund2.consistency_score?.toFixed(1) || 'N/A'}
-              </Text>
-            </View>
-          </View>
-
-          {/* Positive Months % */}
-          <View style={styles.comparisonRow}>
-            <Text style={styles.comparisonMetricName}>Positive Months %</Text>
-            <View style={styles.comparisonValues}>
-              <Text style={[
-                styles.comparisonValue,
-                fund1.positive_months_pct > fund2.positive_months_pct && styles.comparisonValueBetter
-              ]}>
-                {fund1.positive_months_pct ? (fund1.positive_months_pct * 100).toFixed(0) : 'N/A'}%
-              </Text>
-              <Text style={[
-                styles.comparisonValue,
-                fund2.positive_months_pct > fund1.positive_months_pct && styles.comparisonValueBetter
-              ]}>
-                {fund2.positive_months_pct ? (fund2.positive_months_pct * 100).toFixed(0) : 'N/A'}%
-              </Text>
-            </View>
-          </View>
-
-          {/* Fund Age */}
-          <View style={styles.comparisonRow}>
-            <Text style={styles.comparisonMetricName}>Fund Age</Text>
-            <View style={styles.comparisonValues}>
-              <Text style={styles.comparisonValue}>
-                {fund1.fund_age} yrs
-              </Text>
-              <Text style={styles.comparisonValue}>
-                {fund2.fund_age} yrs
-              </Text>
-            </View>
-          </View>
-
-          {/* Risk Level */}
-          <View style={styles.comparisonRow}>
-            <Text style={styles.comparisonMetricName}>Risk Level</Text>
-            <View style={styles.comparisonValues}>
-              <Text style={styles.comparisonValue}>
-                {fund1.risk || 'N/A'}
-              </Text>
-              <Text style={styles.comparisonValue}>
-                {fund2.risk || 'N/A'}
-              </Text>
-            </View>
-          </View>
-
-        </View>
-
-        {/* Legend */}
-        <View style={styles.comparisonLegend}>
-          <Text style={styles.comparisonLegendText}>
-            💚 Green indicates better performance
-          </Text>
-        </View>
-
-      </ScrollView>
-    </View>
+    <CompareScreen
+      comparisonData={comparisonData}
+      setCompareMode={setCompareMode}
+      setComparisonData={setComparisonData}
+      setScreen={setScreen}
+    />
   );
 }
 
 
 // ========== LEARN SECTION - MAIN SCREEN ==========
-if (screen === 'learn' && !selectedTopic) {
-  const currentContent = activeTab === 'tips' ? learnContent.tips : 
-                         activeTab === 'glossary' ? learnContent.glossary : 
-                         activeTab === 'advanced' ? learnContent.advanced : 
-                         learnContent.beginner;
-
+if (screen === 'learn') {
   return (
-    <View style={styles.container}>
-      <View style={[styles.headerBlue, { backgroundColor: '#8B5CF6' }]}>
-        <Text style={styles.pageTitle}>Learn 📚</Text>
-      </View>
-
-      <ScrollView style={styles.scrollView}>
-        {/* Tab Selector */}
-        <View style={styles.tabContainer}>
-          <TouchableOpacity
-            style={[styles.tabButton, activeTab === 'beginner' && styles.tabButtonActive]}
-            onPress={() => setActiveTab('beginner')}
-          >
-            <Text style={[styles.tabText, activeTab === 'beginner' && styles.tabTextActive]}>
-              Beginner
-            </Text>
-          </TouchableOpacity>
-
-          <TouchableOpacity
-            style={[styles.tabButton, activeTab === 'advanced' && styles.tabButtonActive]}
-            onPress={() => setActiveTab('advanced')}
-          >
-            <Text style={[styles.tabText, activeTab === 'advanced' && styles.tabTextActive]}>
-              Advanced
-            </Text>
-          </TouchableOpacity>
-
-          <TouchableOpacity
-            style={[styles.tabButton, activeTab === 'tips' && styles.tabButtonActive]}
-            onPress={() => setActiveTab('tips')}
-          >
-            <Text style={[styles.tabText, activeTab === 'tips' && styles.tabTextActive]}>
-              Tips
-            </Text>
-          </TouchableOpacity>
-
-          <TouchableOpacity
-            style={[styles.tabButton, activeTab === 'glossary' && styles.tabButtonActive]}
-            onPress={() => setActiveTab('glossary')}
-          >
-            <Text style={[styles.tabText, activeTab === 'glossary' && styles.tabTextActive]}>
-              Glossary
-            </Text>
-          </TouchableOpacity>
-        </View>
-
-        {/* Content */}
-        <View style={styles.learnContainer}>
-          {/* Topics List (Beginner & Advanced) */}
-          {(activeTab === 'beginner' || activeTab === 'advanced') && (
-            <>
-              <Text style={styles.learnSectionTitle}>
-                {activeTab === 'beginner' ? '🌱 Start Here' : '🚀 Level Up'}
-              </Text>
-              {currentContent.map((topic) => (
-                <TouchableOpacity
-                  key={topic.id}
-                  style={styles.topicCard}
-                  onPress={() => setSelectedTopic(topic)}
-                >
-                  <View style={styles.topicContent}>
-                    <Text style={styles.topicIcon}>{topic.icon}</Text>
-                    <View style={styles.topicInfo}>
-                      <Text style={styles.topicTitle}>{topic.title}</Text>
-                      <Text style={styles.topicSubtitle}>{topic.subtitle}</Text>
-                    </View>
-                  </View>
-                  <ChevronRight size={20} color="#8B5CF6" />
-                </TouchableOpacity>
-              ))}
-            </>
-          )}
-
-          {/* Tips */}
-          {activeTab === 'tips' && (
-            <>
-              <Text style={styles.learnSectionTitle}>💡 Daily Wisdom</Text>
-              {currentContent.map((tip, index) => (
-                <View key={index} style={styles.tipCard}>
-                  <Text style={styles.tipNumber}>Tip {index + 1}</Text>
-                  <Text style={styles.tipText}>{tip}</Text>
-                </View>
-              ))}
-            </>
-          )}
-
-          {/* Glossary */}
-          {activeTab === 'glossary' && (
-            <>
-              <Text style={styles.learnSectionTitle}>📖 Quick Reference</Text>
-              {currentContent.map((item, index) => (
-                <View key={index} style={styles.glossaryCard}>
-                  <Text style={styles.glossaryTerm}>{item.term}</Text>
-                  <Text style={styles.glossaryDefinition}>{item.definition}</Text>
-                </View>
-              ))}
-            </>
-          )}
-        </View>
-      </ScrollView>
-      <Navigation 
-          screen={screen}
-          setScreen={setScreen}
-          setSelectedFund={setSelectedFund}
-          setActiveTool={setActiveTool}
-          setSelectedTopic={setSelectedTopic}
-        />
-    </View>
-  );
-}
-
-// ========== LEARN SECTION - ARTICLE VIEW ==========
-if (screen === 'learn' && selectedTopic) {
-  return (
-    <View style={styles.container}>
-      <View style={[styles.headerBlue, { backgroundColor: '#8B5CF6' }]}>
-        <TouchableOpacity onPress={() => setSelectedTopic(null)}>
-          <ArrowLeft size={24} color="#fff" />
-        </TouchableOpacity>
-        <Text style={styles.pageTitle} numberOfLines={1}>
-          {selectedTopic.icon} {selectedTopic.title}
-        </Text>
-        <View style={{ width: 24 }} />
-      </View>
-
-      <ScrollView style={styles.scrollViewFull}>
-        <View style={styles.articleContainer}>
-          <Text style={styles.articleTitle}>{selectedTopic.title}</Text>
-          <Text style={styles.articleSubtitle}>{selectedTopic.subtitle}</Text>
-          <Text style={styles.articleContent}>{selectedTopic.content}</Text>
-        </View>
-      </ScrollView>
-    </View>
+    <LearnScreen
+      screen={screen}
+      setScreen={setScreen}
+      setSelectedFund={setSelectedFund}
+      setActiveTool={setActiveTool}
+      setSelectedTopic={setSelectedTopic}
+    />
   );
 }
 

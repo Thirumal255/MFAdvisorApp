@@ -1,12 +1,43 @@
+// ============================================================
+// 📁 screens/HomeScreen.js
+// ============================================================
+// WHAT THIS FILE DOES:
+//   The main landing page. Shows greeting, streak card,
+//   action cards (Search, Fresh Investment, My Fund Analyzer,
+//   Import Portfolio) and market vibes section.
+//
+// WHAT IT REPLACES IN App.js:
+//   Lines ~692-833 → the `if (screen === 'home')` block.
+//
+// HOW TO USE:
+//   In App.js:
+//     import HomeScreen from './screens/HomeScreen';
+//     if (screen === 'home') {
+//       return <HomeScreen setScreen={setScreen} setPreviousScreen={setPreviousScreen}
+//                setSelectedFund={setSelectedFund} setActiveTool={setActiveTool}
+//                setSelectedTopic={setSelectedTopic} screen={screen} />;
+//     }
+// ============================================================
+
 import { Bell, ChevronRight, Flame, MessageSquare, Search, Trophy, Upload } from 'lucide-react-native';
+import React from 'react';
 import { ScrollView, Text, TouchableOpacity, View } from 'react-native';
 import { Navigation } from '../components/Navigation';
 import { styles } from '../styles/appStyles';
 
-export default function HomeScreen({ setScreen, setPreviousScreen, setSelectedFund, setActiveTool, setSelectedTopic }) {
+export default function HomeScreen({
+  setScreen,
+  setPreviousScreen,
+  setSelectedFund,
+  setActiveTool,
+  setSelectedTopic,
+  screen,
+}) {
+
   return (
     <View style={styles.container}>
       <ScrollView style={styles.scrollView}>
+        {/* Header with greeting + notification bell */}
         <View style={styles.header}>
           <View>
             <Text style={styles.greeting}>hey bestie 👋</Text>
@@ -18,6 +49,7 @@ export default function HomeScreen({ setScreen, setPreviousScreen, setSelectedFu
           </TouchableOpacity>
         </View>
 
+        {/* Streak Card */}
         <View style={styles.streakCard}>
           <View style={styles.streakHeader}>
             <View style={styles.streakTitle}>
@@ -28,13 +60,15 @@ export default function HomeScreen({ setScreen, setPreviousScreen, setSelectedFu
           </View>
         </View>
 
+        {/* Action Cards Section */}
         <View style={styles.section}>
           <Text style={styles.sectionTitle}>what u wanna do?</Text>
-          
-          <TouchableOpacity 
+
+          {/* Search For a Fund */}
+          <TouchableOpacity
             style={[styles.actionCard, styles.purpleGradient]}
             onPress={() => {
-              setPreviousScreen && setPreviousScreen('home');
+              setPreviousScreen('home');
               setScreen('check');
               setSelectedFund(null);
             }}
@@ -53,7 +87,8 @@ export default function HomeScreen({ setScreen, setPreviousScreen, setSelectedFu
             </View>
           </TouchableOpacity>
 
-          <TouchableOpacity 
+          {/* Fresh Investment (AI Advisor) */}
+          <TouchableOpacity
             style={[styles.actionCard, styles.orangeGradient]}
             onPress={() => setScreen('advisor')}
           >
@@ -72,12 +107,14 @@ export default function HomeScreen({ setScreen, setPreviousScreen, setSelectedFu
           </TouchableOpacity>
         </View>
 
+        {/* My Investments Section */}
         <View style={styles.section}>
           <Text style={styles.sectionTitle}>🎯 my investments</Text>
-          
-          <TouchableOpacity 
+
+          {/* My Fund Analyzer */}
+          <TouchableOpacity
             style={[styles.actionCard, styles.greenGradient]}
-            onPress={() => setScreen('analyzer')}
+            onPress={() => setScreen('myFundAnalyzer')}
           >
             <View style={styles.actionContent}>
               <View style={styles.actionLeft}>
@@ -93,7 +130,8 @@ export default function HomeScreen({ setScreen, setPreviousScreen, setSelectedFu
             </View>
           </TouchableOpacity>
 
-          <TouchableOpacity 
+          {/* Import Portfolio */}
+          <TouchableOpacity
             style={[styles.actionCard, styles.blueGradient]}
             onPress={() => setScreen('import')}
           >
@@ -112,6 +150,7 @@ export default function HomeScreen({ setScreen, setPreviousScreen, setSelectedFu
           </TouchableOpacity>
         </View>
 
+        {/* Market Vibes */}
         <View style={styles.section}>
           <Text style={styles.sectionTitle}>market vibes</Text>
           <View style={styles.marketGrid}>
@@ -128,9 +167,9 @@ export default function HomeScreen({ setScreen, setPreviousScreen, setSelectedFu
           </View>
         </View>
       </ScrollView>
-      
-      <Navigation 
-        screen="home"
+
+      <Navigation
+        screen={screen}
         setScreen={setScreen}
         setSelectedFund={setSelectedFund}
         setActiveTool={setActiveTool}

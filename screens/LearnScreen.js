@@ -1,18 +1,86 @@
-import { ChevronRight } from 'lucide-react-native';
-import { useState } from 'react';
+// ============================================================
+// 📁 screens/LearnScreen.js
+// ============================================================
+// WHAT THIS FILE DOES:
+//   The Learn section with 4 tabs: Beginner, Advanced, Tips, Glossary.
+//   Beginner & Advanced show topic cards that open article views.
+//   Tips shows numbered tip cards.
+//   Glossary shows term + definition cards.
+//   Also handles the article detail view when a topic is selected.
+//
+// WHAT IT REPLACES IN App.js:
+//   Lines ~4083-4224 → both `if (screen === 'learn' && !selectedTopic)`
+//                       AND `if (screen === 'learn' && selectedTopic)` blocks.
+//
+// HOW TO USE:
+//   In App.js:
+//     import LearnScreen from './screens/LearnScreen';
+//     if (screen === 'learn') {
+//       return <LearnScreen screen={screen} setScreen={setScreen}
+//                setSelectedFund={setSelectedFund} setActiveTool={setActiveTool}
+//                setSelectedTopic={setSelectedTopic} />;
+//     }
+// ============================================================
+
+import { ArrowLeft, ChevronRight } from 'lucide-react-native';
+import React, { useState } from 'react';
 import { ScrollView, Text, TouchableOpacity, View } from 'react-native';
 import { Navigation } from '../components/Navigation';
 import { learnContent } from '../config/learnContent';
 import { styles } from '../styles/appStyles';
 
-export default function LearnScreen({ setScreen, setSelectedTopic, setSelectedFund, setActiveTool }) {
-  const [activeTab, setActiveTab] = useState('beginner');
+export default function LearnScreen({
+  screen,
+  setScreen,
+  setSelectedFund,
+  setActiveTool,
+  setSelectedTopic: setParentSelectedTopic,  // Parent still needs this for nav
+}) {
 
-  const currentContent = activeTab === 'tips' ? learnContent.tips : 
-                         activeTab === 'glossary' ? learnContent.glossary : 
-                         activeTab === 'advanced' ? learnContent.advanced : 
+  // ── Local state ────────────────────────────────────────────
+  const [activeTab, setActiveTab] = useState('beginner');
+  const [selectedTopic, setSelectedTopic] = useState(null);
+
+  // ── Tab definitions ────────────────────────────────────────
+  const tabs = [
+    { key: 'beginner', label: 'Beginner' },
+    { key: 'advanced', label: 'Advanced' },
+    { key: 'tips', label: 'Tips' },
+    { key: 'glossary', label: 'Glossary' },
+  ];
+
+  // ── Get content for active tab ─────────────────────────────
+  const currentContent = activeTab === 'tips' ? learnContent.tips :
+                         activeTab === 'glossary' ? learnContent.glossary :
+                         activeTab === 'advanced' ? learnContent.advanced :
                          learnContent.beginner;
 
+  // ── ARTICLE VIEW (when a topic is selected) ────────────────
+  if (selectedTopic) {
+    return (
+      <View style={styles.container}>
+        <View style={[styles.headerBlue, { backgroundColor: '#8B5CF6' }]}>
+          <TouchableOpacity onPress={() => setSelectedTopic(null)}>
+            <ArrowLeft size={24} color="#fff" />
+          </TouchableOpacity>
+          <Text style={styles.pageTitle} numberOfLines={1}>
+            {selectedTopic.icon} {selectedTopic.title}
+          </Text>
+          <View style={{ width: 24 }} />
+        </View>
+
+        <ScrollView style={styles.scrollViewFull}>
+          <View style={styles.articleContainer}>
+            <Text style={styles.articleTitle}>{selectedTopic.title}</Text>
+            <Text style={styles.articleSubtitle}>{selectedTopic.subtitle}</Text>
+            <Text style={styles.articleContent}>{selectedTopic.content}</Text>
+          </View>
+        </ScrollView>
+      </View>
+    );
+  }
+
+  // ── MAIN LEARN SCREEN (tab list view) ──────────────────────
   return (
     <View style={styles.container}>
       <View style={[styles.headerBlue, { backgroundColor: '#8B5CF6' }]}>
@@ -22,45 +90,22 @@ export default function LearnScreen({ setScreen, setSelectedTopic, setSelectedFu
       <ScrollView style={styles.scrollView}>
         {/* Tab Selector */}
         <View style={styles.tabContainer}>
-          <TouchableOpacity
-            style={[styles.tabButton, activeTab === 'beginner' && styles.tabButtonActive]}
-            onPress={() => setActiveTab('beginner')}
-          >
-            <Text style={[styles.tabText, activeTab === 'beginner' && styles.tabTextActive]}>
-              Beginner
-            </Text>
-          </TouchableOpacity>
-
-          <TouchableOpacity
-            style={[styles.tabButton, activeTab === 'advanced' && styles.tabButtonActive]}
-            onPress={() => setActiveTab('advanced')}
-          >
-            <Text style={[styles.tabText, activeTab === 'advanced' && styles.tabTextActive]}>
-              Advanced
-            </Text>
-          </TouchableOpacity>
-
-          <TouchableOpacity
-            style={[styles.tabButton, activeTab === 'tips' && styles.tabButtonActive]}
-            onPress={() => setActiveTab('tips')}
-          >
-            <Text style={[styles.tabText, activeTab === 'tips' && styles.tabTextActive]}>
-              Tips
-            </Text>
-          </TouchableOpacity>
-
-          <TouchableOpacity
-            style={[styles.tabButton, activeTab === 'glossary' && styles.tabButtonActive]}
-            onPress={() => setActiveTab('glossary')}
-          >
-            <Text style={[styles.tabText, activeTab === 'glossary' && styles.tabTextActive]}>
-              Glossary
-            </Text>
-          </TouchableOpacity>
+          {tabs.map((tab) => (
+            <TouchableOpacity
+              key={tab.key}
+              style={[styles.tabButton, activeTab === tab.key && styles.tabButtonActive]}
+              onPress={() => setActiveTab(tab.key)}
+            >
+              <Text style={[styles.tabText, activeTab === tab.key && styles.tabTextActive]}>
+                {tab.label}
+              </Text>
+            </TouchableOpacity>
+          ))}
         </View>
 
         {/* Content */}
         <View style={styles.learnContainer}>
+
           {/* Topics List (Beginner & Advanced) */}
           {(activeTab === 'beginner' || activeTab === 'advanced') && (
             <>
@@ -113,14 +158,10 @@ export default function LearnScreen({ setScreen, setSelectedTopic, setSelectedFu
           )}
         </View>
       </ScrollView>
-      
-      <Navigation 
-        screen="learn"
-        setScreen={setScreen}
-        setSelectedFund={setSelectedFund}
-        setActiveTool={setActiveTool}
-        setSelectedTopic={setSelectedTopic}
-      />
+
+      <Navigation screen={screen} setScreen={setScreen}
+        setSelectedFund={setSelectedFund} setActiveTool={setActiveTool}
+        setSelectedTopic={setParentSelectedTopic} />
     </View>
   );
 }

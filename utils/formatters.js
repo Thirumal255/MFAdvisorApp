@@ -1,191 +1,114 @@
-/**
- * FORMATTING UTILITIES
- * 
- * Purpose: Centralized formatting functions for currency, dates, percentages
- * 
- * Why separate file?
- * - Used across multiple screens
- * - Easy to test
- * - Consistent formatting throughout app
- */
+// ============================================================
+// 📁 utils/formatters.js
+// ============================================================
+// WHAT THIS FILE DOES:
+//   Shared helper functions used by multiple screens.
+//   Formatting currency, dates, metric names, score colors, etc.
+//   NO UI code — just pure utility logic.
+//
+// WHAT IT REPLACES IN App.js:
+//   - formatDate() ~lines 91-96
+//   - formatCurrency() ~lines 140-149
+//   - getScoreColor() ~lines 302-307
+//   - getScoreEmoji() ~lines 309-314
+//   - formatMetricName() ~lines 318-337
+//   - formatMetricValue() ~lines 340-361
+// ============================================================
 
-/**
- * Format number as Indian currency
- * 
- * Examples:
- * formatCurrency(1000) → "₹1,000"
- * formatCurrency(150000) → "₹1.5 L"
- * formatCurrency(50000000) → "₹5 Cr"
- */
-export const formatCurrency = (amount) => {
-  const num = parseFloat(amount);
-  
-  if (isNaN(num)) return '₹0';
-  
-  if (num >= 10000000) {
-    // Crores (1 Cr = 10 million)
-    return `₹${(num / 10000000).toFixed(2)} Cr`;
-  } else if (num >= 100000) {
-    // Lakhs (1 L = 100 thousand)
-    return `₹${(num / 100000).toFixed(2)} L`;
-  } else {
-    // Thousands with comma separator
-    return `₹${num.toLocaleString('en-IN', { maximumFractionDigits: 0 })}`;
-  }
-};
 
-/**
- * Format currency with full precision (no abbreviation)
- * 
- * Examples:
- * formatCurrencyFull(1234567) → "₹12,34,567"
- */
-export const formatCurrencyFull = (amount) => {
-  const num = parseFloat(amount);
-  if (isNaN(num)) return '₹0';
-  return `₹${num.toLocaleString('en-IN', { maximumFractionDigits: 2 })}`;
-};
-
-/**
- * Format Date object to DD-MM-YYYY
- * 
- * Example:
- * formatDate(new Date('2024-01-15')) → "15-01-2024"
- */
+// ── Format date to DD-MM-YYYY ────────────────────────────────
+// Used by: MyFundAnalyzer (date picker for investment comparison)
 export const formatDate = (date) => {
-  if (!date) return '';
-  
-  const dateObj = date instanceof Date ? date : new Date(date);
-  const day = String(dateObj.getDate()).padStart(2, '0');
-  const month = String(dateObj.getMonth() + 1).padStart(2, '0');
-  const year = dateObj.getFullYear();
-  
+  const day = String(date.getDate()).padStart(2, '0');
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const year = date.getFullYear();
   return `${day}-${month}-${year}`;
 };
 
-/**
- * Format date to readable format
- * 
- * Example:
- * formatDateReadable(new Date()) → "15 Jan 2024"
- */
-export const formatDateReadable = (date) => {
-  if (!date) return '';
-  
-  const dateObj = date instanceof Date ? date : new Date(date);
-  const options = { day: 'numeric', month: 'short', year: 'numeric' };
-  
-  return dateObj.toLocaleDateString('en-IN', options);
-};
 
-/**
- * Format decimal as percentage
- * 
- * Examples:
- * formatPercentage(0.1532) → "15.32%"
- * formatPercentage(0.08, 1) → "8.0%"
- */
-export const formatPercentage = (value, decimals = 2) => {
-  if (value === null || value === undefined || isNaN(value)) return 'N/A';
-  
-  const percentage = (value * 100).toFixed(decimals);
-  return `${percentage}%`;
-};
-
-/**
- * Format percentage with sign (+ or -)
- * 
- * Examples:
- * formatPercentageSigned(0.15) → "+15.00%"
- * formatPercentageSigned(-0.08) → "-8.00%"
- */
-export const formatPercentageSigned = (value, decimals = 2) => {
-  if (value === null || value === undefined || isNaN(value)) return 'N/A';
-  
-  const percentage = (value * 100).toFixed(decimals);
-  const sign = value >= 0 ? '+' : '';
-  return `${sign}${percentage}%`;
-};
-
-/**
- * Format large numbers with abbreviations
- * 
- * Examples:
- * formatNumber(1500) → "1.5K"
- * formatNumber(2500000) → "2.5M"
- */
-export const formatNumber = (num) => {
-  if (num >= 1000000) {
-    return `${(num / 1000000).toFixed(1)}M`;
-  } else if (num >= 1000) {
-    return `${(num / 1000).toFixed(1)}K`;
-  }
-  return num.toString();
-};
-
-/**
- * Format duration in years
- * 
- * Examples:
- * formatYears(5) → "5 years"
- * formatYears(1) → "1 year"
- * formatYears(0.5) → "6 months"
- */
-export const formatYears = (years) => {
-  if (years >= 1) {
-    const y = Math.floor(years);
-    return y === 1 ? '1 year' : `${y} years`;
+// ── Format Indian currency with Cr/L shortcuts ───────────────
+// ₹1,00,00,000 → ₹1.00 Cr  |  ₹5,00,000 → ₹5.00 L
+// Used by: MyFundAnalyzer (investment comparison results)
+export const formatCurrency = (amount) => {
+  const num = parseFloat(amount);
+  if (num >= 10000000) {
+    return `₹${(num / 10000000).toFixed(2)} Cr`;
+  } else if (num >= 100000) {
+    return `₹${(num / 100000).toFixed(2)} L`;
   } else {
-    const months = Math.round(years * 12);
-    return months === 1 ? '1 month' : `${months} months`;
+    return `₹${num.toLocaleString('en-IN')}`;
   }
 };
 
-/**
- * Format days to readable duration
- * 
- * Examples:
- * formatDays(456) → "1.2 years"
- * formatDays(90) → "3 months"
- * formatDays(15) → "15 days"
- */
-export const formatDays = (days) => {
-  if (days >= 365) {
-    return `${(days / 365).toFixed(1)} years`;
-  } else if (days >= 30) {
-    return `${Math.floor(days / 30)} months`;
+
+// ── Score color based on value ───────────────────────────────
+// 75+ = green, 60+ = amber, 40+ = indigo, below = gray
+// Used by: TopFundsScreen, CheckFundScreen
+export const getScoreColor = (score) => {
+  if (score >= 75) return '#10B981';
+  if (score >= 60) return '#F59E0B';
+  if (score >= 40) return '#6366F1';
+  return '#6B7280';
+};
+
+
+// ── Score emoji tier ─────────────────────────────────────────
+// Used by: TopFundsScreen (fund list cards)
+export const getScoreEmoji = (score) => {
+  if (score >= 75) return '🔥🔥🔥';
+  if (score >= 60) return '🔥';
+  if (score >= 40) return '✨';
+  return '📊';
+};
+
+
+// ── Human-readable metric names ──────────────────────────────
+// 'cagr' → 'CAGR', 'rolling_1y' → '1Y Rolling Return'
+// Used by: CheckFundScreen (score breakdown)
+export const formatMetricName = (metric) => {
+  const names = {
+    'cagr': 'CAGR',
+    'rolling_1y': '1Y Rolling Return',
+    'rolling_3y': '3Y Rolling Return',
+    'rolling_5y': '5Y Rolling Return',
+    'volatility': 'Volatility',
+    'max_drawdown': 'Max Drawdown',
+    'downside_deviation': 'Downside Deviation',
+    'sharpe': 'Sharpe Ratio',
+    'sortino': 'Sortino Ratio',
+    'consistency_score': 'Consistency Score',
+    'positive_months_pct': 'Positive Months %',
+    'current_drawdown_pct': 'Current Drawdown',
+    'alpha': 'Alpha',
+    'information_ratio': 'Information Ratio',
+    'calmar_ratio': 'Calmar Ratio',
+  };
+  return names[metric] || metric.replace(/_/g, ' ').toUpperCase();
+};
+
+
+// ── Format metric values with correct units ──────────────────
+// Percentages get ×100 + %, ratios get 2 decimals, etc.
+// Used by: CheckFundScreen (score breakdown values)
+export const formatMetricValue = (metric, value) => {
+  if (value == null) return 'N/A';
+
+  // Percentage metrics (stored as decimals, multiply by 100)
+  if (['cagr', 'rolling_1y', 'rolling_3y', 'rolling_5y', 'volatility',
+       'downside_deviation', 'max_drawdown', 'current_drawdown_pct',
+       'positive_months_pct'].includes(metric)) {
+    return `${(value * 100).toFixed(2)}%`;
   }
-  return `${days} days`;
-};
 
-/**
- * Truncate text with ellipsis
- * 
- * Example:
- * truncateText("Very Long Fund Name", 15) → "Very Long Fu..."
- */
-export const truncateText = (text, maxLength) => {
-  if (!text) return '';
-  if (text.length <= maxLength) return text;
-  return text.substring(0, maxLength - 3) + '...';
-};
+  // Ratio metrics (show as-is with 2 decimals)
+  if (['sharpe', 'sortino', 'alpha', 'information_ratio', 'calmar_ratio'].includes(metric)) {
+    return value.toFixed(2);
+  }
 
-/**
- * Get color based on value (green for positive, red for negative)
- */
-export const getColorForValue = (value) => {
-  if (value > 0) return '#22C55E';  // Green
-  if (value < 0) return '#EF4444';  // Red
-  return '#6B7280';  // Gray
-};
+  // Score metrics (1 decimal)
+  if (['consistency_score'].includes(metric)) {
+    return value.toFixed(1);
+  }
 
-/**
- * Format XIRR/CAGR for display
- * 
- * Example:
- * formatReturn(18.5) → "18.5% p.a."
- */
-export const formatReturn = (value) => {
-  if (value === null || value === undefined || isNaN(value)) return 'N/A';
-  return `${value.toFixed(2)}% p.a.`;
+  return value.toFixed(2);
 };
