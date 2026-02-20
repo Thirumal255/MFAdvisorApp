@@ -9,7 +9,7 @@
  */
 
 // Base URL - Switch between local and production
-//export const API_URL = 'http://192.168.1.27:8000';  // Local development
+//export const API_URL = 'http://192.168.1.8:8000';  // Local development
 export const API_URL = 'https://mf-advisor-backend-264866286943.asia-south1.run.app';  // Production
 
 /**
@@ -39,6 +39,24 @@ export const API_ENDPOINTS = {
   // ========== HEALTH & DEBUG ==========
   HEALTH: `${API_URL}/health`,                             // Health check
   ROOT: `${API_URL}/`,                                     // API info
+
+   // Chat / AI
+  CHAT_MESSAGE: `${API_URL}/api/chat/message`,
+  CHAT_HEALTH: `${API_URL}/api/chat/health`,
+  RISK_PROFILE: `${API_URL}/api/chat/risk-profile`,
+  QUICK_RISK: `${API_URL}/api/chat/quick-risk`,
+  RISK_QUESTIONS: `${API_URL}/api/chat/risk-questions`,
+  FUND_SUITABILITY: `${API_URL}/api/chat/check-fund-suitability`,
+  SUGGESTIONS: `${API_URL}/api/chat/suggestions`,
+  
+  // Analytics
+  ANALYTICS_HEALTH: `${API_URL}/api/analytics/health`,
+  PEER_COMPARISON: `${API_URL}/api/analytics/peer-comparison`, // + /{fund_code}
+  SECTOR_ALLOCATION: `${API_URL}/api/analytics/sector-allocation`, // + /{fund_code}
+  OVERLAP_ANALYSIS: `${API_URL}/api/analytics/overlap-analysis`, // POST
+  FUND_MANAGER: `${API_URL}/api/analytics/fund-manager`, // + /{fund_code}
+  SEARCH_FUNDS: `${API_URL}/api/analytics/search`, // + ?q=query
+  LIST_FUNDS: `${API_URL}/api/analytics/list-funds`, // + ?limit=20
 };
 
 /**

@@ -9,8 +9,13 @@ from fastapi import HTTPException
 from datetime import datetime, timedelta
 from pydantic import BaseModel
 from typing import Optional
+from routers.chat import router as chat_router
+from routers.analytics import router as analytics_router
 
 app = FastAPI(title="MF Advisor API", version="1.0")
+
+app.include_router(chat_router)
+app.include_router(analytics_router)
 
 # CORS Configuration
 app.add_middleware(

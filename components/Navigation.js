@@ -1,9 +1,10 @@
-import { BookOpen, Calculator, Home, Search, Trophy } from 'lucide-react-native';
+import { BookOpen, Calculator, Home, MessageCircle, Search, Trophy } from 'lucide-react-native';
 import { Text, TouchableOpacity, View } from 'react-native';
 import { styles } from '../styles/appStyles';
 
 export const Navigation = ({ screen, setScreen, setSelectedFund, setActiveTool, setSelectedTopic }) => (
   <View style={styles.bottomNav}>
+    {/* HOME */}
     <TouchableOpacity
       style={styles.navItem}
       onPress={() => {
@@ -11,15 +12,17 @@ export const Navigation = ({ screen, setScreen, setSelectedFund, setActiveTool, 
         setActiveTool(null);
       }}
     >
-      <Home color={screen === 'home' ? '#A855F7' : '#6B7280'} size={24} />
+      <Home color={screen === 'home' ? '#A855F7' : '#6B7280'} size={22} />
       <Text style={[styles.navLabel, screen === 'home' && styles.navLabelActive]}>Home</Text>
     </TouchableOpacity>
 
+    {/* TOP FUNDS */}
     <TouchableOpacity style={styles.navItem} onPress={() => setScreen('topFunds')}>
-      <Trophy color={screen === 'topFunds' ? '#A855F7' : '#6B7280'} size={24} />
+      <Trophy color={screen === 'topFunds' ? '#A855F7' : '#6B7280'} size={22} />
       <Text style={[styles.navLabel, screen === 'topFunds' && styles.navLabelActive]}>Top</Text>
     </TouchableOpacity>
 
+    {/* CHECK FUND */}
     <TouchableOpacity
       style={styles.navItem}
       onPress={() => {
@@ -27,10 +30,22 @@ export const Navigation = ({ screen, setScreen, setSelectedFund, setActiveTool, 
         setSelectedFund(null);
       }}
     >
-      <Search color={screen === 'check' ? '#A855F7' : '#6B7280'} size={24} />
+      <Search color={screen === 'check' ? '#A855F7' : '#6B7280'} size={22} />
       <Text style={[styles.navLabel, screen === 'check' && styles.navLabelActive]}>Check</Text>
     </TouchableOpacity>
 
+    {/* AI ADVISOR - NEW! */}
+    <TouchableOpacity
+      style={styles.navItem}
+      onPress={() => {
+        setScreen('advisor');
+      }}
+    >
+      <MessageCircle color={screen === 'advisor' ? '#A855F7' : '#6B7280'} size={22} />
+      <Text style={[styles.navLabel, screen === 'advisor' && styles.navLabelActive]}>Advisor</Text>
+    </TouchableOpacity>
+
+    {/* TOOLS */}
     <TouchableOpacity
       style={styles.navItem}
       onPress={() => {
@@ -38,10 +53,11 @@ export const Navigation = ({ screen, setScreen, setSelectedFund, setActiveTool, 
         setActiveTool(null);
       }}
     >
-      <Calculator color={screen === 'tools' ? '#A855F7' : '#6B7280'} size={24} />
+      <Calculator color={screen === 'tools' ? '#A855F7' : '#6B7280'} size={22} />
       <Text style={[styles.navLabel, screen === 'tools' && styles.navLabelActive]}>Tools</Text>
     </TouchableOpacity>
 
+    {/* LEARN */}
     <TouchableOpacity
       style={styles.navItem}
       onPress={() => {
@@ -49,7 +65,7 @@ export const Navigation = ({ screen, setScreen, setSelectedFund, setActiveTool, 
         setSelectedTopic(null);
       }}
     >
-      <BookOpen color={screen === 'learn' ? '#A855F7' : '#6B7280'} size={24} />
+      <BookOpen color={screen === 'learn' ? '#A855F7' : '#6B7280'} size={22} />
       <Text style={[styles.navLabel, screen === 'learn' && styles.navLabelActive]}>Learn</Text>
     </TouchableOpacity>
   </View>

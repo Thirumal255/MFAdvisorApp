@@ -4,9 +4,14 @@ import { ActivityIndicator, Alert, ScrollView, Text, TextInput, TouchableOpacity
 import DateTimePickerModal from "react-native-modal-datetime-picker";
 import { Navigation } from './components/Navigation';
 import { API_ENDPOINTS } from './config/api';
+import ChatScreen from './screens/ChatScreen';
 import CompareScreen from './screens/CompareScreen';
 import HomeScreen from './screens/HomeScreen';
 import LearnScreen from './screens/LearnScreen';
+import OverlapScreen from './screens/OverlapScreen';
+import PeerCompareScreen from './screens/PeerCompareScreen';
+import RiskProfileScreen from './screens/RiskProfileScreen';
+import SectorScreen from './screens/SectorScreen';
 import TopFundsScreen from './screens/TopFundsScreen';
 import { styles } from './styles/appStyles';
 import ExpenseImpact from './tools/ExpenseImpact';
@@ -40,7 +45,12 @@ export default function App() {
   const [compareFund1, setCompareFund1] = useState(null);
   const [compareFund2, setCompareFund2] = useState(null);
   const [comparisonData, setComparisonData] = useState(null);
-  const [previousScreen, setPreviousScreen] = useState('home');  
+  const [previousScreen, setPreviousScreen] = useState('home');
+  const [chatHistory, setChatHistory] = useState([]);
+  
+  // PHASE 4: New states for analytics screens
+const [peerCompareFundCode, setPeerCompareFundCode] = useState(null);
+const [sectorFundCode, setSectorFundCode] = useState(null);
 
  
   // NEW: Enhanced metrics view state
@@ -788,6 +798,66 @@ const compareTwoFunds = async (code1, code2) => {
   </>
 )}
 {/* ========== END SCORE BREAKDOWN SECTION ========== */}
+
+
+{/* PHASE 4: Analytics Quick Actions - With Inline Styles */}
+<View style={{
+  marginTop: 20,
+  marginHorizontal: 0,
+  marginBottom: 16,
+}}>
+  <Text style={{
+    fontSize: 16,
+    fontWeight: '600',
+    color: '#FFFFFF',
+    marginBottom: 12,
+  }}>📊 Analytics</Text>
+  
+  <View style={{
+    flexDirection: 'row',
+    gap: 12,
+  }}>
+    
+    {/* Peer Compare Button */}
+    <TouchableOpacity
+      style={{
+        flex: 1,
+        backgroundColor: '#7C3AED',
+        borderRadius: 12,
+        padding: 16,
+        alignItems: 'center',
+      }}
+      onPress={() => {
+        setPreviousScreen('check');
+        setPeerCompareFundCode(selectedFund.code || selectedFund.canonical_code);
+        setScreen('peerCompare');
+      }}
+    >
+      <Text style={{ fontSize: 24, marginBottom: 8 }}>📊</Text>
+      <Text style={{ fontSize: 13, fontWeight: '600', color: '#FFFFFF' }}>Peer Compare</Text>
+    </TouchableOpacity>
+    
+    {/* Sector Allocation Button */}
+    <TouchableOpacity
+      style={{
+        flex: 1,
+        backgroundColor: '#10B981',
+        borderRadius: 12,
+        padding: 16,
+        alignItems: 'center',
+      }}
+      onPress={() => {
+        setPreviousScreen('check');
+        setSectorFundCode(selectedFund.code || selectedFund.canonical_code);
+        setScreen('sector');
+      }}
+    >
+      <Text style={{ fontSize: 24, marginBottom: 8 }}>📈</Text>
+      <Text style={{ fontSize: 13, fontWeight: '600', color: '#FFFFFF' }}>Sectors</Text>
+    </TouchableOpacity>
+    
+  </View>
+</View>
 
 
 {/* Rest of existing content continues... */}
@@ -1641,6 +1711,7 @@ if (screen === 'tools' && !activeTool) {
       setScreen={setScreen}
       setSelectedFund={setSelectedFund}
       setSelectedTopic={setSelectedTopic}
+      setPreviousScreen={setPreviousScreen}
     />
   );
 }
@@ -2185,22 +2256,85 @@ if (screen === 'learn') {
   );
 }
 
+
+// ========== PHASE 4: RISK PROFILE SCREEN ==========
+if (screen === 'riskProfile') {
+  return (
+    <RiskProfileScreen
+      navigation={{
+        goBack: () => setScreen(previousScreen || 'home'),
+        navigate: (screenName) => {
+          if (screenName === 'Chat') {
+            setScreen('advisor');
+          }
+        }
+      }}
+    />
+  );
+}
+
+// ========== PHASE 4: PEER COMPARISON SCREEN ==========
+if (screen === 'peerCompare' && peerCompareFundCode) {
+  return (
+    <PeerCompareScreen
+      route={{ params: { fundCode: peerCompareFundCode } }}
+      navigation={{
+        goBack: () => {
+          setScreen(previousScreen || 'check');
+          setPeerCompareFundCode(null);
+        }
+      }}
+    />
+  );
+}
+
+// ========== PHASE 4: SECTOR ALLOCATION SCREEN ==========
+if (screen === 'sector' && sectorFundCode) {
+  return (
+    <SectorScreen
+      route={{ params: { fundCode: sectorFundCode } }}
+      navigation={{
+        goBack: () => {
+          setScreen(previousScreen || 'check');
+          setSectorFundCode(null);
+        }
+      }}
+    />
+  );
+}
+
+// ========== PHASE 4: OVERLAP ANALYSIS SCREEN ==========
+if (screen === 'overlap') {
+  return (
+    <OverlapScreen
+      navigation={{
+        goBack: () => setScreen(previousScreen || 'tools'),
+      }}
+    />
+  );
+}
+
+
+
 // ========== ADVISOR SCREEN (Coming Soon) ==========
 if (screen === 'advisor') {
   return (
-    <View style={styles.container}>
-      <View style={styles.comingSoonContainer}>
-        <Text style={styles.comingSoon}>AI Advisor 🤖</Text>
-        <Text style={styles.comingSoonSub}>coming soon!</Text>
-      </View>
-      <Navigation 
-          screen={screen}
-          setScreen={setScreen}
-          setSelectedFund={setSelectedFund}
-          setActiveTool={setActiveTool}
-          setSelectedTopic={setSelectedTopic}
-        />
-    </View>
+    <ChatScreen
+      chatHistory={chatHistory}
+      setChatHistory={setChatHistory}
+      navigation={{
+        goBack: () => setScreen('home'),
+        navigate: (screenName, params) => {
+          if (screenName === 'FundDetails' || screenName === 'check') {
+            setPreviousScreen('advisor');
+            setScreen('check');
+            if (params?.fundCode) {
+              getFundDetails(params.fundCode);
+            }
+          }
+        }
+      }}
+    />
   );
 }
 

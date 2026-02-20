@@ -1,4 +1,42 @@
-import { StyleSheet } from 'react-native';
+import { Dimensions, Platform, StyleSheet } from 'react-native';
+const { width: SCREEN_WIDTH, height: SCREEN_HEIGHT } = Dimensions.get('window');
+
+// ============================================================
+// THEME COLORS
+// ============================================================
+
+export const COLORS = {
+  // Backgrounds
+  background: '#0D0D0D',
+  cardBackground: '#1A1A1A',
+  cardBackgroundLight: '#1F1F1F',
+  inputBackground: '#2D2D2D',
+  
+  // Primary
+  primary: '#7C3AED',        // Purple
+  primaryLight: '#8B5CF6',
+  primaryDark: '#6D28D9',
+  
+  // Accent
+  success: '#4ADE80',        // Green
+  warning: '#FBBF24',        // Yellow
+  danger: '#F87171',         // Red
+  info: '#60A5FA',           // Blue
+  
+  // Text
+  textPrimary: '#FFFFFF',
+  textSecondary: '#E5E5E5',
+  textMuted: '#888888',
+  textDark: '#666666',
+  
+  // Borders
+  border: '#2D2D2D',
+  borderLight: '#3D3D3D',
+  
+  // Status
+  online: '#4ADE80',
+  offline: '#6B7280',
+};
 
 export const styles = StyleSheet.create({
   container: { flex: 1, backgroundColor: '#0F0F0F' },
@@ -2354,5 +2392,1182 @@ adjustmentDetail: {
   marginBottom: 2,
 },
 
+// Containers
+  container: {
+    flex: 1,
+    backgroundColor: COLORS.background,
+  },
+  
+  safeArea: {
+    flex: 1,
+    backgroundColor: COLORS.background,
+    paddingTop: Platform.OS === 'ios' ? 50 : 16,
+  },
+  
+  scrollContainer: {
+    flex: 1,
+    backgroundColor: COLORS.background,
+  },
+  
+  // Headers
+  header: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 16,
+    paddingVertical: 12,
+    backgroundColor: COLORS.cardBackground,
+    borderBottomWidth: 1,
+    borderBottomColor: COLORS.border,
+  },
+  
+  headerTitle: {
+    fontSize: 20,
+    fontWeight: '700',
+    color: COLORS.textPrimary,
+  },
+  
+  headerSubtitle: {
+    fontSize: 12,
+    color: COLORS.textMuted,
+    marginTop: 2,
+  },
+  
+  backButton: {
+    fontSize: 24,
+    color: COLORS.textPrimary,
+    marginRight: 16,
+    padding: 4,
+  },
+  
+  // Cards
+  card: {
+    backgroundColor: COLORS.cardBackground,
+    borderRadius: 16,
+    padding: 16,
+    marginHorizontal: 16,
+    marginVertical: 8,
+  },
+  
+  cardTitle: {
+    fontSize: 16,
+    fontWeight: '600',
+    color: COLORS.textPrimary,
+    marginBottom: 12,
+  },
+  
+  // Buttons
+  primaryButton: {
+    backgroundColor: COLORS.primary,
+    paddingVertical: 14,
+    paddingHorizontal: 24,
+    borderRadius: 12,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  
+  primaryButtonText: {
+    color: COLORS.textPrimary,
+    fontSize: 16,
+    fontWeight: '700',
+  },
+  
+  secondaryButton: {
+    backgroundColor: COLORS.inputBackground,
+    paddingVertical: 12,
+    paddingHorizontal: 20,
+    borderRadius: 10,
+    alignItems: 'center',
+    borderWidth: 1,
+    borderColor: COLORS.borderLight,
+  },
+  
+  secondaryButtonText: {
+    color: COLORS.textSecondary,
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  
+  // Badges
+  badge: {
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderRadius: 12,
+    alignSelf: 'flex-start',
+  },
+  
+  badgeText: {
+    fontSize: 12,
+    fontWeight: '600',
+  },
+  
+  // Loading & Error
+  loadingContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: COLORS.background,
+  },
+  
+  loadingText: {
+    color: COLORS.textMuted,
+    marginTop: 12,
+    fontSize: 14,
+  },
+  
+  errorContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: COLORS.background,
+    padding: 20,
+  },
+  
+  errorText: {
+    color: COLORS.danger,
+    fontSize: 16,
+    textAlign: 'center',
+    marginVertical: 16,
+  },
+  
+  // Section
+  section: {
+    padding: 16,
+  },
+  
+  sectionTitle: {
+    fontSize: 16,
+    fontWeight: '600',
+    color: COLORS.textPrimary,
+    marginBottom: 12,
+  },
+});
+
+// ============================================================
+// CHAT SCREEN STYLES
+// ============================================================
+
+export const chatStyles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: COLORS.background,
+  },
+  
+  // Header
+  header: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 16,
+    paddingTop: Platform.OS === 'ios' ? 50 : 16,
+    paddingBottom: 12,
+    backgroundColor: COLORS.cardBackground,
+    borderBottomWidth: 1,
+    borderBottomColor: COLORS.border,
+  },
+  
+  headerCenter: {
+    flex: 1,
+  },
+  
+  headerTitleRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  
+  headerTitle: {
+    fontSize: 18,
+    fontWeight: '700',
+    color: COLORS.textPrimary,
+  },
+  
+  headerSubtitle: {
+    fontSize: 12,
+    color: COLORS.textMuted,
+    marginTop: 2,
+  },
+  
+  aiBadge: {
+    backgroundColor: COLORS.primary,
+    paddingHorizontal: 6,
+    paddingVertical: 2,
+    borderRadius: 4,
+    marginLeft: 8,
+  },
+  
+  aiBadgeText: {
+    fontSize: 10,
+    fontWeight: '700',
+    color: COLORS.textPrimary,
+  },
+  
+  onlineIndicator: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  
+  onlineDot: {
+    width: 8,
+    height: 8,
+    borderRadius: 4,
+    backgroundColor: COLORS.online,
+    marginRight: 6,
+  },
+  
+  onlineText: {
+    fontSize: 12,
+    color: COLORS.online,
+  },
+  
+  // Messages
+  messagesList: {
+    flex: 1,
+  },
+  
+  messagesContent: {
+    padding: 16,
+    paddingBottom: 8,
+  },
+  
+  // Bubble Container
+  bubbleContainer: {
+    flexDirection: 'row',
+    marginVertical: 6,
+    maxWidth: '85%',
+  },
+  
+  userBubbleContainer: {
+    alignSelf: 'flex-end',
+  },
+  
+  aiBubbleContainer: {
+    alignSelf: 'flex-start',
+  },
+  
+  // Avatar
+  avatar: {
+    width: 36,
+    height: 36,
+    borderRadius: 18,
+    backgroundColor: COLORS.primary,
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginRight: 10,
+  },
+  
+  avatarText: {
+    fontSize: 18,
+  },
+  
+  // Bubble
+  bubble: {
+    padding: 14,
+    borderRadius: 20,
+    maxWidth: SCREEN_WIDTH * 0.7,
+  },
+  
+  userBubble: {
+    backgroundColor: COLORS.primary,
+    borderBottomRightRadius: 6,
+  },
+  
+  aiBubble: {
+    backgroundColor: COLORS.cardBackgroundLight,
+    borderBottomLeftRadius: 6,
+  },
+  
+  bubbleText: {
+    fontSize: 15,
+    lineHeight: 22,
+  },
+  
+  userBubbleText: {
+    color: COLORS.textPrimary,
+  },
+  
+  aiBubbleText: {
+    color: COLORS.textSecondary,
+  },
+  
+  // Inline Fund Card
+  inlineFundCard: {
+    backgroundColor: COLORS.inputBackground,
+    padding: 12,
+    borderRadius: 12,
+    marginTop: 12,
+    borderLeftWidth: 3,
+    borderLeftColor: COLORS.success,
+  },
+  
+  fundCardName: {
+    fontSize: 14,
+    fontWeight: '600',
+    color: COLORS.textPrimary,
+    marginBottom: 4,
+  },
+  
+  fundCardCategory: {
+    fontSize: 11,
+    color: COLORS.textMuted,
+    marginBottom: 8,
+  },
+  
+  fundCardMetrics: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
+  
+  metricItem: {
+    alignItems: 'center',
+  },
+  
+  metricLabel: {
+    fontSize: 10,
+    color: COLORS.textDark,
+  },
+  
+  metricValue: {
+    fontSize: 14,
+    fontWeight: '700',
+    color: COLORS.textPrimary,
+  },
+  
+  // Typing Indicator
+  typingContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginVertical: 6,
+    marginLeft: 4,
+  },
+  
+  typingBubble: {
+    flexDirection: 'row',
+    backgroundColor: COLORS.cardBackgroundLight,
+    padding: 14,
+    paddingHorizontal: 18,
+    borderRadius: 20,
+    borderBottomLeftRadius: 6,
+  },
+  
+  dot: {
+    width: 8,
+    height: 8,
+    borderRadius: 4,
+    backgroundColor: COLORS.textMuted,
+    marginHorizontal: 3,
+  },
+  
+  // Quick Replies
+  quickRepliesContainer: {
+    paddingVertical: 10,
+    borderTopWidth: 1,
+    borderTopColor: COLORS.border,
+    backgroundColor: COLORS.background,
+  },
+  
+  quickRepliesList: {
+    paddingHorizontal: 12,
+  },
+  
+  quickReplyChip: {
+    backgroundColor: COLORS.cardBackgroundLight,
+    paddingHorizontal: 16,
+    paddingVertical: 10,
+    borderRadius: 20,
+    marginHorizontal: 4,
+    borderWidth: 1,
+    borderColor: COLORS.borderLight,
+  },
+  
+  quickReplyText: {
+    color: COLORS.textSecondary,
+    fontSize: 13,
+    fontWeight: '500',
+  },
+  
+  // Input Area
+  inputContainer: {
+    flexDirection: 'row',
+    alignItems: 'flex-end',
+    padding: 12,
+    paddingBottom: Platform.OS === 'ios' ? 34 : 16,
+    backgroundColor: COLORS.cardBackground,
+    borderTopWidth: 1,
+    borderTopColor: COLORS.border,
+  },
+  
+  textInput: {
+    flex: 1,
+    backgroundColor: COLORS.inputBackground,
+    borderRadius: 24,
+    paddingHorizontal: 18,
+    paddingVertical: 12,
+    paddingRight: 50,
+    color: COLORS.textPrimary,
+    fontSize: 15,
+    maxHeight: 100,
+    minHeight: 48,
+  },
+  
+  sendButton: {
+    position: 'absolute',
+    right: 20,
+    bottom: Platform.OS === 'ios' ? 42 : 24,
+    width: 40,
+    height: 40,
+    borderRadius: 20,
+    backgroundColor: COLORS.borderLight,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  
+  sendButtonActive: {
+    backgroundColor: COLORS.primary,
+  },
+  
+  sendButtonText: {
+    fontSize: 18,
+    color: COLORS.textPrimary,
+  },
+});
+
+// ============================================================
+// PEER COMPARISON STYLES
+// ============================================================
+
+export const peerStyles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: COLORS.background,
+  },
+  
+  header: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 16,
+    paddingTop: Platform.OS === 'ios' ? 50 : 16,
+  },
+  
+  // Fund Info Section
+  fundInfo: {
+    padding: 16,
+    paddingTop: 0,
+  },
+  
+  fundName: {
+    fontSize: 18,
+    fontWeight: '600',
+    color: COLORS.textPrimary,
+    marginBottom: 8,
+  },
+  
+  categoryBadge: {
+    backgroundColor: COLORS.inputBackground,
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 16,
+    alignSelf: 'flex-start',
+  },
+  
+  categoryText: {
+    color: COLORS.textMuted,
+    fontSize: 12,
+  },
+  
+  // Overall Score Card
+  overallScoreCard: {
+    margin: 16,
+    padding: 24,
+    backgroundColor: COLORS.cardBackground,
+    borderRadius: 16,
+    alignItems: 'center',
+    borderWidth: 1,
+    borderColor: COLORS.primary,
+  },
+  
+  overallLabel: {
+    color: COLORS.textMuted,
+    fontSize: 14,
+  },
+  
+  overallValue: {
+    fontSize: 36,
+    fontWeight: '800',
+    color: COLORS.primary,
+    marginVertical: 8,
+  },
+  
+  overallSubtext: {
+    color: COLORS.textDark,
+    fontSize: 12,
+  },
+  
+  // Metric Container
+  metricContainer: {
+    backgroundColor: COLORS.cardBackground,
+    padding: 16,
+    borderRadius: 12,
+    marginBottom: 12,
+  },
+  
+  metricHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 12,
+  },
+  
+  metricLabel: {
+    color: COLORS.textPrimary,
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  
+  percentileBadge: {
+    backgroundColor: COLORS.inputBackground,
+    paddingHorizontal: 8,
+    paddingVertical: 4,
+    borderRadius: 8,
+  },
+  
+  percentileText: {
+    color: COLORS.textMuted,
+    fontSize: 11,
+  },
+  
+  // Bars
+  barRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginVertical: 4,
+  },
+  
+  barContainer: {
+    flex: 1,
+    height: 8,
+    backgroundColor: COLORS.inputBackground,
+    borderRadius: 4,
+    marginRight: 12,
+    overflow: 'hidden',
+  },
+  
+  bar: {
+    height: '100%',
+    borderRadius: 4,
+  },
+  
+  barValue: {
+    fontSize: 14,
+    fontWeight: '600',
+    width: 80,
+    textAlign: 'right',
+  },
+  
+  avgValue: {
+    fontSize: 12,
+    color: COLORS.textMuted,
+    width: 80,
+    textAlign: 'right',
+  },
+});
+
+// ============================================================
+// OVERLAP ANALYSIS STYLES
+// ============================================================
+
+export const overlapStyles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: COLORS.background,
+  },
+  
+  header: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 16,
+    paddingTop: Platform.OS === 'ios' ? 50 : 16,
+  },
+  
+  description: {
+    color: COLORS.textMuted,
+    fontSize: 14,
+    lineHeight: 20,
+    paddingHorizontal: 16,
+  },
+  
+  // Search
+  searchContainer: {
+    margin: 16,
+    backgroundColor: COLORS.cardBackground,
+    borderRadius: 12,
+    paddingHorizontal: 16,
+  },
+  
+  searchInput: {
+    height: 50,
+    color: COLORS.textPrimary,
+    fontSize: 15,
+  },
+  
+  // Search Results
+  resultsContainer: {
+    marginHorizontal: 16,
+    backgroundColor: COLORS.cardBackground,
+    borderRadius: 12,
+    marginTop: -8,
+  },
+  
+  resultItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 12,
+    borderBottomWidth: 1,
+    borderBottomColor: COLORS.border,
+  },
+  
+  resultName: {
+    flex: 1,
+    color: COLORS.textSecondary,
+    fontSize: 13,
+  },
+  
+  addButton: {
+    color: COLORS.primary,
+    fontWeight: '600',
+  },
+  
+  // Selected Funds
+  selectedSection: {
+    padding: 16,
+  },
+  
+  selectedTitle: {
+    color: COLORS.textPrimary,
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 12,
+  },
+  
+  emptyText: {
+    color: COLORS.textDark,
+    fontStyle: 'italic',
+  },
+  
+  selectedItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: COLORS.cardBackground,
+    padding: 12,
+    borderRadius: 10,
+    marginBottom: 8,
+  },
+  
+  fundNumber: {
+    width: 24,
+    height: 24,
+    borderRadius: 12,
+    backgroundColor: COLORS.primary,
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginRight: 12,
+  },
+  
+  fundNumberText: {
+    color: COLORS.textPrimary,
+    fontSize: 12,
+    fontWeight: '700',
+  },
+  
+  selectedFundName: {
+    flex: 1,
+    color: COLORS.textPrimary,
+    fontSize: 13,
+  },
+  
+  removeButton: {
+    color: COLORS.danger,
+    fontSize: 16,
+  },
+  
+  // Analyze Button
+  analyzeButton: {
+    margin: 16,
+    backgroundColor: COLORS.primary,
+    padding: 16,
+    borderRadius: 12,
+    alignItems: 'center',
+  },
+  
+  analyzeButtonText: {
+    color: COLORS.textPrimary,
+    fontSize: 16,
+    fontWeight: '700',
+  },
+  
+  // Results
+  summaryCard: {
+    padding: 20,
+    borderRadius: 16,
+    backgroundColor: COLORS.cardBackground,
+    borderWidth: 1,
+    marginHorizontal: 16,
+    marginTop: 16,
+  },
+  
+  summaryTitle: {
+    fontSize: 18,
+    fontWeight: '700',
+    color: COLORS.textPrimary,
+    marginBottom: 8,
+  },
+  
+  summaryValue: {
+    fontSize: 24,
+    fontWeight: '800',
+    color: COLORS.textPrimary,
+  },
+  
+  summarySubtext: {
+    color: COLORS.textMuted,
+    fontSize: 13,
+    marginVertical: 8,
+  },
+  
+  recommendation: {
+    color: COLORS.textSecondary,
+    fontSize: 13,
+    fontStyle: 'italic',
+  },
+  
+  // Overlap Pairs
+  overlapPair: {
+    backgroundColor: COLORS.cardBackground,
+    padding: 16,
+    borderRadius: 12,
+    marginBottom: 12,
+  },
+  
+  pairHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    marginBottom: 8,
+  },
+  
+  pairNames: {
+    flex: 1,
+    color: COLORS.textSecondary,
+    fontSize: 12,
+  },
+  
+  pairPercentage: {
+    color: COLORS.textPrimary,
+    fontWeight: '700',
+  },
+  
+  commonStocks: {
+    color: COLORS.textMuted,
+    fontSize: 11,
+    marginBottom: 8,
+  },
+  
+  overlapBar: {
+    height: 6,
+    backgroundColor: COLORS.inputBackground,
+    borderRadius: 3,
+  },
+  
+  overlapBarFill: {
+    height: '100%',
+    borderRadius: 3,
+  },
+  
+  // Common Stocks List
+  stocksSection: {
+    marginTop: 16,
+  },
+  
+  stocksTitle: {
+    color: COLORS.textPrimary,
+    fontSize: 14,
+    fontWeight: '600',
+    marginBottom: 12,
+  },
+  
+  stocksContainer: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+  },
+  
+  stockChip: {
+    backgroundColor: COLORS.inputBackground,
+    paddingHorizontal: 10,
+    paddingVertical: 6,
+    borderRadius: 16,
+    marginRight: 8,
+    marginBottom: 8,
+  },
+  
+  stockChipText: {
+    color: COLORS.textSecondary,
+    fontSize: 11,
+  },
+});
+
+// ============================================================
+// SECTOR ALLOCATION STYLES
+// ============================================================
+
+export const sectorStyles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: COLORS.background,
+  },
+  
+  header: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 16,
+    paddingTop: Platform.OS === 'ios' ? 50 : 16,
+  },
+  
+  fundInfo: {
+    padding: 16,
+    paddingTop: 0,
+  },
+  
+  fundName: {
+    fontSize: 16,
+    fontWeight: '600',
+    color: COLORS.textPrimary,
+    marginBottom: 4,
+  },
+  
+  asOfDate: {
+    color: COLORS.textMuted,
+    fontSize: 12,
+  },
+  
+  // Concentration Card
+  concentrationCard: {
+    margin: 16,
+    padding: 16,
+    backgroundColor: COLORS.cardBackground,
+    borderRadius: 12,
+    borderLeftWidth: 3,
+  },
+  
+  concentrationTitle: {
+    color: COLORS.textPrimary,
+    fontSize: 14,
+    fontWeight: '600',
+  },
+  
+  concentrationSubtext: {
+    color: COLORS.textMuted,
+    fontSize: 12,
+    marginTop: 4,
+  },
+  
+  // Sector List
+  sectorList: {
+    padding: 16,
+    paddingTop: 0,
+  },
+  
+  sectorItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: COLORS.cardBackground,
+    padding: 16,
+    borderRadius: 12,
+    marginBottom: 8,
+  },
+  
+  sectorItemSelected: {
+    backgroundColor: COLORS.inputBackground,
+  },
+  
+  sectorColor: {
+    width: 16,
+    height: 16,
+    borderRadius: 4,
+    marginRight: 12,
+  },
+  
+  sectorName: {
+    flex: 1,
+    color: COLORS.textSecondary,
+    fontSize: 14,
+  },
+  
+  sectorValue: {
+    color: COLORS.textPrimary,
+    fontSize: 16,
+    fontWeight: '700',
+  },
+  
+  // No Data
+  noDataContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    padding: 20,
+  },
+  
+  noDataIcon: {
+    fontSize: 48,
+    marginBottom: 16,
+  },
+  
+  noDataTitle: {
+    color: COLORS.textPrimary,
+    fontSize: 18,
+    textAlign: 'center',
+    marginBottom: 8,
+  },
+  
+  noDataText: {
+    color: COLORS.textMuted,
+    textAlign: 'center',
+  },
+});
+
+// ============================================================
+// RISK PROFILE STYLES
+// ============================================================
+
+export const riskStyles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: COLORS.background,
+  },
+  
+  header: {
+    padding: 16,
+    paddingTop: Platform.OS === 'ios' ? 50 : 16,
+    alignItems: 'center',
+  },
+  
+  headerIcon: {
+    fontSize: 48,
+    marginBottom: 12,
+  },
+  
+  headerTitle: {
+    fontSize: 24,
+    fontWeight: '700',
+    color: COLORS.textPrimary,
+    marginBottom: 8,
+  },
+  
+  headerSubtitle: {
+    fontSize: 14,
+    color: COLORS.textMuted,
+    textAlign: 'center',
+  },
+  
+  // Question Card
+  questionCard: {
+    margin: 16,
+    padding: 20,
+    backgroundColor: COLORS.cardBackground,
+    borderRadius: 16,
+  },
+  
+  questionNumber: {
+    color: COLORS.primary,
+    fontSize: 12,
+    fontWeight: '600',
+    marginBottom: 8,
+  },
+  
+  questionText: {
+    fontSize: 18,
+    fontWeight: '600',
+    color: COLORS.textPrimary,
+    marginBottom: 20,
+  },
+  
+  // Options
+  optionButton: {
+    backgroundColor: COLORS.inputBackground,
+    padding: 16,
+    borderRadius: 12,
+    marginBottom: 10,
+    borderWidth: 2,
+    borderColor: 'transparent',
+  },
+  
+  optionButtonSelected: {
+    borderColor: COLORS.primary,
+    backgroundColor: COLORS.primaryDark + '20',
+  },
+  
+  optionText: {
+    color: COLORS.textSecondary,
+    fontSize: 15,
+  },
+  
+  optionTextSelected: {
+    color: COLORS.textPrimary,
+    fontWeight: '600',
+  },
+  
+  // Progress
+  progressContainer: {
+    paddingHorizontal: 16,
+    paddingBottom: 16,
+  },
+  
+  progressBar: {
+    height: 4,
+    backgroundColor: COLORS.inputBackground,
+    borderRadius: 2,
+    overflow: 'hidden',
+  },
+  
+  progressFill: {
+    height: '100%',
+    backgroundColor: COLORS.primary,
+    borderRadius: 2,
+  },
+  
+  progressText: {
+    color: COLORS.textMuted,
+    fontSize: 12,
+    textAlign: 'center',
+    marginTop: 8,
+  },
+  
+  // Result Card
+  resultCard: {
+    margin: 16,
+    padding: 24,
+    backgroundColor: COLORS.cardBackground,
+    borderRadius: 16,
+    alignItems: 'center',
+  },
+  
+  resultIcon: {
+    fontSize: 64,
+    marginBottom: 16,
+  },
+  
+  resultLevel: {
+    fontSize: 28,
+    fontWeight: '800',
+    color: COLORS.primary,
+    marginBottom: 8,
+  },
+  
+  resultScore: {
+    fontSize: 16,
+    color: COLORS.textMuted,
+    marginBottom: 16,
+  },
+  
+  resultDescription: {
+    fontSize: 14,
+    color: COLORS.textSecondary,
+    textAlign: 'center',
+    lineHeight: 22,
+  },
+  
+  // Allocation
+  allocationSection: {
+    margin: 16,
+    padding: 16,
+    backgroundColor: COLORS.cardBackground,
+    borderRadius: 16,
+  },
+  
+  allocationTitle: {
+    fontSize: 16,
+    fontWeight: '600',
+    color: COLORS.textPrimary,
+    marginBottom: 16,
+  },
+  
+  allocationItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginBottom: 12,
+  },
+  
+  allocationBar: {
+    flex: 1,
+    height: 24,
+    backgroundColor: COLORS.inputBackground,
+    borderRadius: 6,
+    marginRight: 12,
+    overflow: 'hidden',
+  },
+  
+  allocationFill: {
+    height: '100%',
+    justifyContent: 'center',
+    paddingLeft: 8,
+  },
+  
+  allocationLabel: {
+    color: COLORS.textPrimary,
+    fontSize: 11,
+    fontWeight: '600',
+  },
+  
+  allocationPercent: {
+    width: 40,
+    color: COLORS.textSecondary,
+    fontSize: 14,
+    fontWeight: '600',
+    textAlign: 'right',
+  },
+
+// ========== PHASE 4: Analytics Buttons ==========
+phase4ButtonsContainer: {
+  marginTop: 16,
+  paddingHorizontal: 16,
+},
+
+phase4SectionTitle: {
+  fontSize: 16,
+  fontWeight: '600',
+  color: '#E5E5E5',
+  marginBottom: 12,
+},
+
+phase4ButtonsRow: {
+  flexDirection: 'row',
+  justifyContent: 'space-between',
+  gap: 12,
+},
+
+phase4Button: {
+  flex: 1,
+  flexDirection: 'row',
+  alignItems: 'center',
+  justifyContent: 'center',
+  backgroundColor: '#1A1A1A',
+  paddingVertical: 14,
+  paddingHorizontal: 16,
+  borderRadius: 12,
+  borderWidth: 1,
+  borderColor: '#2D2D2D',
+},
+
+phase4ButtonEmoji: {
+  fontSize: 20,
+  marginRight: 8,
+},
+
+phase4ButtonText: {
+  color: '#E5E5E5',
+  fontSize: 14,
+  fontWeight: '600',
+},
+
 
 });
+
+
+
+
+

@@ -14,5 +14,8 @@ COPY . .
 # Expose port
 EXPOSE 8080
 
+# Create tmp directories for Cloud Run
+RUN mkdir -p /tmp/data /tmp/faiss_index
+
 # Run the application
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8080"]
