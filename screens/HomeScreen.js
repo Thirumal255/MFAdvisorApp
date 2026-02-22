@@ -20,7 +20,6 @@
 // ============================================================
 
 import { Bell, ChevronRight, Flame, MessageSquare, Search, Trophy, Upload } from 'lucide-react-native';
-import React from 'react';
 import { ScrollView, Text, TouchableOpacity, View } from 'react-native';
 import { Navigation } from '../components/Navigation';
 import { styles } from '../styles/appStyles';
@@ -62,7 +61,7 @@ export default function HomeScreen({
 
         {/* Action Cards Section */}
         <View style={styles.section}>
-          <Text style={styles.sectionTitle}>what u wanna do?</Text>
+          <Text style={styles.sectionTitle}>WHAT U WANNA DO ?</Text>
 
           {/* Search For a Fund */}
           <TouchableOpacity
@@ -98,8 +97,8 @@ export default function HomeScreen({
                   <MessageSquare size={24} color="#fff" />
                 </View>
                 <View>
-                  <Text style={styles.actionTitle}>Fresh Investment</Text>
-                  <Text style={styles.actionSubtitle}>AI picks 4 u 🤖</Text>
+                  <Text style={styles.actionTitle}>MF Bestie</Text>
+                  <Text style={styles.actionSubtitle}>AI Assistant 🤖</Text>
                 </View>
               </View>
               <ChevronRight size={24} color="#fff" />
@@ -109,7 +108,7 @@ export default function HomeScreen({
 
         {/* My Investments Section */}
         <View style={styles.section}>
-          <Text style={styles.sectionTitle}>🎯 my investments</Text>
+          <Text style={styles.sectionTitle}>🎯 MY INVESTMENTS</Text>
 
           {/* My Fund Analyzer */}
           <TouchableOpacity
@@ -133,7 +132,10 @@ export default function HomeScreen({
           {/* Import Portfolio */}
           <TouchableOpacity
             style={[styles.actionCard, styles.blueGradient]}
-            onPress={() => setScreen('import')}
+            onPress={() => {
+              setPreviousScreen('home');
+              setScreen('portfolio');
+        }}
           >
             <View style={styles.actionContent}>
               <View style={styles.actionLeft}>
@@ -141,8 +143,8 @@ export default function HomeScreen({
                   <Upload size={24} color="#fff" />
                 </View>
                 <View>
-                  <Text style={styles.actionTitle}>Import Portfolio</Text>
-                  <Text style={styles.actionSubtitle}>upload excel ☕</Text>
+                  <Text style={styles.actionTitle}>My Portfolio Vibes</Text>
+                  <Text style={styles.actionSubtitle}>My portfolio Details ☕</Text>
                 </View>
               </View>
               <ChevronRight size={24} color="#fff" />

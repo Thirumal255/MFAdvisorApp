@@ -11,4 +11,3 @@ venv/
 *.md
 data/parent_scheme_nav.json
 *.log
-.env

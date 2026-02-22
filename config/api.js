@@ -24,6 +24,9 @@ export const API_ENDPOINTS = {
   
   // ========== RECOMMENDATIONS ==========
   RECOMMENDATIONS: `${API_URL}/api/recommendations`,       // Get better alternatives
+
+  // ========== PORTFOLIO (NEW) ==========
+  ANALYZE_PORTFOLIO: `${API_URL}/api/portfolio/analyze`,  // Analyze portfolio with AI Vibe Check
   
   // ========== COMPARISON ==========
   COMPARE: `${API_URL}/api/compare`,                       // Compare two funds

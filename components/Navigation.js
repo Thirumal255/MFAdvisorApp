@@ -1,6 +1,7 @@
-import { BookOpen, Calculator, Home, MessageCircle, Search, Trophy } from 'lucide-react-native';
+import { BookOpen, Calculator, Home, Trophy } from 'lucide-react-native';
 import { Text, TouchableOpacity, View } from 'react-native';
 import { styles } from '../styles/appStyles';
+
 
 export const Navigation = ({ screen, setScreen, setSelectedFund, setActiveTool, setSelectedTopic }) => (
   <View style={styles.bottomNav}>
@@ -22,29 +23,7 @@ export const Navigation = ({ screen, setScreen, setSelectedFund, setActiveTool, 
       <Text style={[styles.navLabel, screen === 'topFunds' && styles.navLabelActive]}>Top</Text>
     </TouchableOpacity>
 
-    {/* CHECK FUND */}
-    <TouchableOpacity
-      style={styles.navItem}
-      onPress={() => {
-        setScreen('check');
-        setSelectedFund(null);
-      }}
-    >
-      <Search color={screen === 'check' ? '#A855F7' : '#6B7280'} size={22} />
-      <Text style={[styles.navLabel, screen === 'check' && styles.navLabelActive]}>Check</Text>
-    </TouchableOpacity>
-
-    {/* AI ADVISOR - NEW! */}
-    <TouchableOpacity
-      style={styles.navItem}
-      onPress={() => {
-        setScreen('advisor');
-      }}
-    >
-      <MessageCircle color={screen === 'advisor' ? '#A855F7' : '#6B7280'} size={22} />
-      <Text style={[styles.navLabel, screen === 'advisor' && styles.navLabelActive]}>Advisor</Text>
-    </TouchableOpacity>
-
+    
     {/* TOOLS */}
     <TouchableOpacity
       style={styles.navItem}

@@ -10,6 +10,7 @@ import HomeScreen from './screens/HomeScreen';
 import LearnScreen from './screens/LearnScreen';
 import OverlapScreen from './screens/OverlapScreen';
 import PeerCompareScreen from './screens/PeerCompareScreen';
+import PortfolioScreen from './screens/PortfolioScreen';
 import RiskProfileScreen from './screens/RiskProfileScreen';
 import SectorScreen from './screens/SectorScreen';
 import TopFundsScreen from './screens/TopFundsScreen';
@@ -22,7 +23,6 @@ import RiskAnalyzer from './tools/RiskAnalyzer';
 import SIPCalculator from './tools/SIPCalculator';
 import TaxOptimizer from './tools/TaxOptimizer';
 import ToolsScreen from './tools/ToolsScreen';
-
 
 
 export default function App() {
@@ -66,7 +66,10 @@ const [sectorFundCode, setSectorFundCode] = useState(null);
   const [calculatingReturns, setCalculatingReturns] = useState({});
   const [showDatePicker, setShowDatePicker] = useState(false);
   const [activeDatePickerIndex, setActiveDatePickerIndex] = useState(null);
-
+  const [calcTypes, setCalcTypes] = useState({});
+  // Portfolio Analysis  States
+  const [portfolioStage, setPortfolioStage] = useState('import');
+  const [portfolioAnalysis, setPortfolioAnalysis] = useState(null);
 
 
 // ── Helper functions (still needed by CheckFund & MyFundAnalyzer screens) ──
@@ -136,6 +139,22 @@ const toggleCalculator = (index) => {
       [index]: { amount: '', date: '' }
     }));
   }
+
+  // 🟢 ADD THIS BLOCK: Initialize SIP/LUMPSUM toggle default
+  if (!calcTypes[index]) {
+    setCalcTypes(prev => ({
+      ...prev,
+      [index]: 'LUMPSUM'
+    }));
+  }
+};
+
+// 🟢 ADD THIS NEW FUNCTION: Update Investment Type
+const updateCalcType = (index, type) => {
+  setCalcTypes(prev => ({
+    ...prev,
+    [index]: type
+  }));
 };
 
 // Update investment input
@@ -169,6 +188,7 @@ const handleDateConfirm = (selectedDate) => {
 // Call backend API for comparison
 const calculateInvestmentComparison = async (index, fund1Code, fund2Code) => {
   const inputs = investmentInputs[index];
+  const currentCalcType = calcTypes[index] || 'LUMPSUM';
   
   if (!inputs || !inputs.amount || !inputs.date) {
     Alert.alert('Missing Information', 'Please enter both amount and date');
@@ -193,7 +213,8 @@ const calculateInvestmentComparison = async (index, fund1Code, fund2Code) => {
         fund1_code: parseInt(fund1Code),
         fund2_code: parseInt(fund2Code),
         investment_date: inputs.date,
-        investment_amount: amount
+        investment_amount: amount,
+        investment_type: currentCalcType
       })
     });
 
@@ -1758,11 +1779,16 @@ if (screen === 'myFundAnalyzer') {
       {/* Header */}
       <View style={styles.headerPurple}>
         <TouchableOpacity onPress={() => {
-          setScreen('home');
+          // ✅ SMART BACK NAVIGATION
+          setScreen(previousScreen || 'home'); 
+          setPreviousScreen('home'); // Reset to prevent loops
+          
+          // Cleanup
           setActiveTool(null);
           setMyFundCode(null);
           setMyFundData(null);
           setRecommendations([]);
+          setSearchQuery('');
         }}>
           <ArrowLeft size={24} color="#fff" />
         </TouchableOpacity>
@@ -2039,6 +2065,24 @@ if (screen === 'myFundAnalyzer') {
         placeholderTextColor="#9CA3AF"
         onChangeText={(text) => updateInvestmentInput(index, 'amount', text)}
       />
+    </View>
+
+
+    {/* 🟢 ADD THIS ENTIRE VIEW BLOCK FOR THE TOGGLE BUTTONS */}
+    <View style={{ flexDirection: 'row', marginBottom: 15, backgroundColor: '#222', borderRadius: 8, padding: 4 }}>
+      <TouchableOpacity 
+        style={{ flex: 1, paddingVertical: 10, alignItems: 'center', borderRadius: 6, backgroundColor: (calcTypes[index] || 'LUMPSUM') === 'LUMPSUM' ? '#059669' : 'transparent' }}
+        onPress={() => updateCalcType(index, 'LUMPSUM')}
+      >
+        <Text style={{ fontWeight: 'bold', fontSize: 13, color: (calcTypes[index] || 'LUMPSUM') === 'LUMPSUM' ? '#FFF' : '#9CA3AF' }}>LUMPSUM</Text>
+      </TouchableOpacity>
+      
+      <TouchableOpacity 
+        style={{ flex: 1, paddingVertical: 10, alignItems: 'center', borderRadius: 6, backgroundColor: calcTypes[index] === 'SIP' ? '#059669' : 'transparent' }}
+        onPress={() => updateCalcType(index, 'SIP')}
+      >
+        <Text style={{ fontWeight: 'bold', fontSize: 13, color: calcTypes[index] === 'SIP' ? '#FFF' : '#9CA3AF' }}>SIP</Text>
+      </TouchableOpacity>
     </View>
 
     {/* Date Input */}
@@ -2337,6 +2381,46 @@ if (screen === 'advisor') {
     />
   );
 }
+
+// ========== NEW: PORTFOLIO VIBE CHECK SCREEN ==========
+if (screen === 'portfolio') {
+  return (
+    <View style={{ flex: 1 }}>
+      <PortfolioScreen 
+        portfolioStage={portfolioStage}
+        setPortfolioStage={setPortfolioStage}
+        portfolioAnalysis={portfolioAnalysis}
+        setPortfolioAnalysis={setPortfolioAnalysis}
+        setSelectedFund={(code) => {
+          setPreviousScreen('portfolio');
+          setScreen('myFundAnalyzer');
+          getRecommendations(code); 
+        }}
+        navigation={{
+          navigate: (screenName, params) => {
+            if (screenName === 'Compare') {
+              setPreviousScreen('portfolio');
+              setScreen('tools');
+              setActiveTool('compare');
+              if (params && params.fund1 && params.fund2) {
+                setCompareFund1({ code: params.fund1 });
+                setCompareFund2({ code: params.fund2 });
+              }
+            }
+          }
+        }}
+      />
+      <Navigation 
+        screen={screen}
+        setScreen={setScreen}
+        setSelectedFund={setSelectedFund}
+        setActiveTool={setActiveTool}
+        setSelectedTopic={setSelectedTopic}
+      />
+    </View>
+  );
+}
+
 
 // ========== IMPORT PORTFOLIO (Coming Soon) ==========
 return (

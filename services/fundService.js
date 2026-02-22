@@ -94,3 +94,23 @@ export const getAllFunds = async (reliableOnly = false) => {
     throw error;
   }
 };
+
+/**
+ * Analyze an entire portfolio for a "Vibe Check" ⚡
+ * @param {Array} items - Array of {fund_name, amfi_code, investment_type, invested_date, invested_amount}
+ */
+export const analyzePortfolio = async (items) => {
+  try {
+    const response = await fetch(`${API_ENDPOINTS.ANALYZE_PORTFOLIO}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ items }),
+    });
+    
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    return await response.json();
+  } catch (error) {
+    console.error('Portfolio analysis error:', error);
+    throw error;
+  }
+};
