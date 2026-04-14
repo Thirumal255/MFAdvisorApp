@@ -37,6 +37,12 @@ jobs:
           # Replace YOUR_PROJECT_ID with your actual project ID
           service_account: 'github-actions-mf-advisor@mf-advisor-487108.iam.gserviceaccount.com'
 
+      - name: Set up Cloud SQL Auth Proxy
+        uses: GoogleCloudPlatform/cloud-sql-proxy-action@v1
+        with:
+          # Replace this with your exact Connection Name from the GCP Console!
+          instances: 'mf-advisor-487108:asia-south1:mf-advisor-db'          
+
       - name: Install Requirements
         run: |
           python -m pip install --upgrade pip
@@ -61,6 +67,7 @@ jobs:
       - name: Update Google Cloud & Postgres DB
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }} 
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GCP_CREDENTIALS: ${{ secrets.GCP_CREDENTIALS }}
         run: |
           python -m backend.build_and_upload_index
