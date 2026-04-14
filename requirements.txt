@@ -25,3 +25,4 @@ PyPDF2
 sentence-transformers
 google-cloud-storage
 psycopg2-binary
+ijson
