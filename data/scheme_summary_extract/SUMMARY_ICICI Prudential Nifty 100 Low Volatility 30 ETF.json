@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty 100 Low Volatility 30 ETF",
+  "source_file": "SUMMARY_ICICI Prudential Nifty 100 Low Volatility 30 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty 100 Low Volatility 30 ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High\nAs on October 31, 2025",
+    "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely correspond to the total return of the underlying index subject to tracking errors.\nHowever, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Securities of companies constituting the Underlying Index (Nifty 100 Low Volatility 30 Index) = 95% - 100% \n• Debt and Money Market Instruments with maturity of upto 91 days only. = 0% - 5%",
+    "benchmark": "Nifty 100 Low Volatility 30 TRI",
+    "fund_managers": [
+      "Ajaykumar Solanki",
+      "Ashwini Bharucha",
+      "Nishit Patel",
+      "Venus Ahuja"
+    ],
+    "annual_expense": {
+      "Direct": "0.41"
+    },
+    "exit_load": null,
+    "amfi_codes": [
+      "141596"
+    ],
+    "isins": [
+      "INF109KB10T8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T14:15:33.123840+00:00"
+}

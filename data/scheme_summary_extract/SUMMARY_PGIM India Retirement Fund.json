@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "PGIM India Retirement Fund",
+  "source_file": "SUMMARY_PGIM India Retirement Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "PGIM India Retirement Fund",
+    "fund_type": "An open ended retirement solution oriented scheme having a lock-in of 5 years or till retirement age (whichever is earlier).",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide capital appreciation and income to investors in line with their retirementgoals by investing in a mix of securities comprising of equity, equity related instruments, REITs and InvITs, and ﬁxed incomesecurities. However, there is no assurance that the investment objective of the scheme will be achieved. The Scheme does notguarantee/ indicate any returns.",
+    "asset_allocation": "Equities & Equity related instruments - Min 75 % and Max 100% Debt Securities and Money Market Instruments, includingcash, Triparty Repo and equivalent and units of mutual funds- Min 0% and Max 25% Units issued by InvITs- Min 0% and Max10%",
+    "benchmark": "BSE 500 TRI",
+    "fund_managers": "Mr. Vinay Paharia, Mr. Vivek Sharma, Mr. Anandha Padmanabhan, and Mr. Puneet Pal",
+    "annual_expense": {
+      "Regular": "2.33",
+      "Direct": "0.71"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "152537",
+      "152538",
+      "152539",
+      "152540"
+    ],
+    "isins": [
+      "INF663L01Y46",
+      "INF663L01Y53",
+      "INF663L01Y61",
+      "INF663L01Y79"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T15:40:26.265526+00:00"
+}

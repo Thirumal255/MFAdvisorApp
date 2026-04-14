@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Axis Nifty 500 Index Fund",
+  "source_file": "SUMMARY_Axis Nifty 500 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Nifty 500 Index Fund",
+    "fund_type": "An Open-Ended Index Fund tracking Nifty 500 TRI",
+    "fund_options": [
+      "Direct Growth",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide long term capital appreciation from an actively managed portfolio of equity and equity related securities of companies engaged in consumption and consumption related sector or allied sectors. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Securities covered by Nifty 500 Index - 95%-100%, Debt and Money market instruments: 0%-5%",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Mr. Karthik Kumar",
+    "annual_expense": {
+      "Regular": "1.00",
+      "Direct": "0.10"
+    },
+    "exit_load": "if redeemed/ switched out within 15 days from the date of allotment: 0.25% if redeemed/ switched out after 15 days from the date of allotment: Nil",
+    "amfi_codes": [
+      "152730",
+      "152731"
+    ],
+    "isins": [
+      "INF846K018W1",
+      "INF846K019W9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T12:33:36.635023+00:00"
+}

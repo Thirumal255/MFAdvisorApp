@@ -1,0 +1,80 @@
+{
+  "parent_scheme_name": "Navi 3 In 1 Fund",
+  "source_file": "SUMMARY_Navi 3 in 1 Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Navi 3 In 1 Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Navi 3 IN 1 FUND Regular Plan Normal IDCW Reinvestment",
+      "Navi 3 IN 1 FUND - Direct Plan Quarterly IDCW Payout",
+      "Navi 3 IN 1 FUND - Direct Plan Quarterly IDCW ReInvestment",
+      "Navi 3 IN 1 FUND - Direct Plan Growth",
+      "Navi 3 IN 1 FUND - Growth",
+      "Navi 3 IN 1 FUND Regular Plan Half Yearly IDCW Payout",
+      "Navi 3 IN 1 FUND Regular Plan Half Yearly IDCW Reinvestment",
+      "Navi 3 IN 1 FUND - MONTHLY IDCW Payout",
+      "Navi 3 IN 1 FUND - MONTHLY IDCW ReInvestment",
+      "Navi 3 IN 1 FUND Direct Plan Normal IDCW Payout",
+      "Navi 3 IN 1 FUND Direct Plan Normal IDCW Reinvestment",
+      "Navi 3 IN 1 FUND - QUARTERLY IDCW Payout",
+      "Navi 3 IN 1 FUND - QUARTERLY IDCW ReInvestment"
+    ],
+    "isins": [
+      "INF959L01FK3",
+      "INF959L01577",
+      "INF959L01585",
+      "INF959L01544",
+      "INF959L01015",
+      "INF959L01FL1",
+      "INF959L01FM9",
+      "INF959L01023",
+      "INF959L01049",
+      "INF959L01FD8",
+      "INF959L01FE6",
+      "INF959L01031",
+      "INF959L01056"
+    ],
+    "amfi_codes": [
+      "146439",
+      "119175",
+      "119175",
+      "119176",
+      "114855",
+      "146438",
+      "146438",
+      "114854",
+      "114854",
+      "146437",
+      "146437",
+      "115101",
+      "115101"
+    ],
+    "riskometer": "VERY HIGH RISK",
+    "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation through a portfolio of fixed income securities, Gold Exchange traded funds (ETFs) of other mutual funds and gold related instruments and equity & equity related Instruments.",
+    "asset_allocation": "Equity & Equity related instruments – 65 to 80%; Debt instruments of all types of companies and money market instruments – 10 to 15%; Gold ETFs of other mutual funds and gold related instruments -10 to 15%; Investment in REIT and INVIT – 0 to 10%",
+    "benchmark": "CRISIL Composite Bond @ 15% + Price of Gold@15% + Nifty TRI@30% + NSE Arbitrage Index @40%^",
+    "fund_managers": "Mr. Aditya Mulki",
+    "annual_expense": {
+      "Regular": "2.50",
+      "Direct": "2.50"
+    },
+    "exit_load": "15% of the units allotted shall be redeemed without any Exit Load on or before completion of 365 days from the date of allotment of units. Any redemption in excess of such limit within 365 days from the date of allotment shall be subject to the following Exit Load:- • If redeemed or switched out on or before completion of 365 days from the date of allotment of units – 1.00%; • If redeemed or switched out after completion of 365 days from the date of allotment of units – NIL."
+  },
+  "fund_options_inferred": [
+    "Navi 3 IN 1 FUND Regular Plan Normal IDCW Reinvestment",
+    "Navi 3 IN 1 FUND - Direct Plan Quarterly IDCW Payout",
+    "Navi 3 IN 1 FUND - Direct Plan Quarterly IDCW ReInvestment",
+    "Navi 3 IN 1 FUND - Direct Plan Growth",
+    "Navi 3 IN 1 FUND - Growth",
+    "Navi 3 IN 1 FUND Regular Plan Half Yearly IDCW Payout",
+    "Navi 3 IN 1 FUND Regular Plan Half Yearly IDCW Reinvestment",
+    "Navi 3 IN 1 FUND - MONTHLY IDCW Payout",
+    "Navi 3 IN 1 FUND - MONTHLY IDCW ReInvestment",
+    "Navi 3 IN 1 FUND Direct Plan Normal IDCW Payout",
+    "Navi 3 IN 1 FUND Direct Plan Normal IDCW Reinvestment",
+    "Navi 3 IN 1 FUND - QUARTERLY IDCW Payout",
+    "Navi 3 IN 1 FUND - QUARTERLY IDCW ReInvestment"
+  ],
+  "extracted_at": "2026-04-13T15:20:03.350482+00:00"
+}

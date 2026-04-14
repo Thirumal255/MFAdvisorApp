@@ -1,0 +1,42 @@
+{
+  "parent_scheme_name": "Motilal Oswal Nifty Smallcap 250 ETF",
+  "source_file": "SUMMARY_Motilal Oswal Nifty Smallcap 250 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal Nifty Smallcap 250 ETF",
+    "fund_type": "An open-ended scheme replicating/tracking the Nifty Smallcap 250 Total Return Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide total returns that, before expenses, closely correspond to the total returns of the securities as represented by Nifty Smallcap 250 Index, subject to tracking error. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Constituents of Nifty Smallcap 250 Index and Units of Liquid Schemes and Money Market Instruments",
+    "benchmark": "Nifty Smallcap 250 TR Index",
+    "fund_managers": [
+      {
+        "name": "Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt Component",
+        "from_date": "Since Inception"
+      }
+    ],
+    "annual_expense": {
+      "Direct": "1.00"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "152546"
+    ],
+    "isins": [
+      "INF247L01CH6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:19:22.387373+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "parent_scheme_name": "Samco Special Opportunities Fund",
+  "source_file": "SUMMARY_Samco Special Opportunities Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Samco Special Opportunities Fund",
+    "fund_type": "An open-ended equity scheme following special situations theme",
+    "fund_options": [
+      "Direct Plan - Growth Option",
+      "Regular Plan - Growth Option"
+    ],
+    "riskometer": "Very High(The Scheme risk-o-meter isbased on evalution of the portfolio data as on November 30,2025)",
+    "investment_objective": "The investment objective of the scheme is to achieve long-term capital appreciation by investing in a portfolio of securities that are involved in special situations such as restructurings, turnarounds, spin-offs, mergers & acquisitions, new trends, new & emerging sectors, digitization, premiumization, and other special corporate actions. These situations often create mispricings and undervalued opportunities that the fund aims to exploit for potential capital appreciation.  However, there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Equity & Equity related instruments of special situations theme - 80% to 100% Equity & Equity related securities of other Companies - 0% to 20% Debt and Money Market Instruments, including Units of Debt Oriented mutual fund schemes- 0% to 20%",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": [
+      "Mr. Umeshkumar Mehta",
+      "Mrs. Nirali Bhansali",
+      "Mr. Dhawal Dhanani",
+      "Ms. Komal Grover"
+    ],
+    "annual_expense": {
+      "Regular": "2.41",
+      "Direct": "0.86"
+    },
+    "exit_load": "• 1.00% if the investment is redeemed or switched out on or before 365 days from the date of allotment of units • No Exit load will be charged if investment is redeemed or switched out after 365 days from the date of allotment of units.",
+    "amfi_codes": [
+      "152586",
+      "152587"
+    ],
+    "isins": [
+      "INF0K1H01180",
+      "INF0K1H01172"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth Option",
+    "Regular Plan - Growth Option"
+  ],
+  "extracted_at": "2026-04-13T15:50:16.028828+00:00"
+}

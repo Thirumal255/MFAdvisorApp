@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Tata Mid Cap Fund",
+  "source_file": "SUMMARY_Tata Mid Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Mid Cap Fund",
+    "fund_type": "An open-ended equity scheme predominantly investing in mid cap stocks.",
+    "fund_options": [
+      "Tata Mid Cap Growth Fund Regular Plan - IDCW",
+      "Tata Mid Cap Growth Fund Direct Plan - IDCW",
+      "Tata Mid Cap Growth Fund Regular Plan - Growth(Appreciation)",
+      "Tata Mid Cap Growth Fund Direct Plan - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide income distribution and / or medium to long term capital gains. Investments would be focused towards mid-capstocks. However, there is no assurance or guarantee that the investment objective of the Scheme will be achieved. Thescheme does not assure or guarantee any returns.",
+    "asset_allocation": "Equity and equity related instruments of Mid Cap Companies 65-100, Other Equity / Equity Related Instruments 0-35, Debt &Money Market Instruments including Cash / Cash Equivalents 0-35.",
+    "benchmark": "Nifty Midcap 150 TRI",
+    "fund_managers": "Satish Chandra Mishra",
+    "annual_expense": {
+      "Regular": "1.83",
+      "Direct": "0.61"
+    },
+    "exit_load": "1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL.",
+    "amfi_codes": [
+      "102326",
+      "119177",
+      "102328",
+      "119178"
+    ],
+    "isins": [
+      "INF277K01642",
+      "INF277K01PX4",
+      "INF277K01626",
+      "INF277K01PY2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Mid Cap Growth Fund Regular Plan - IDCW",
+    "Tata Mid Cap Growth Fund Direct Plan - IDCW",
+    "Tata Mid Cap Growth Fund Regular Plan - Growth(Appreciation)",
+    "Tata Mid Cap Growth Fund Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T16:13:50.766381+00:00"
+}

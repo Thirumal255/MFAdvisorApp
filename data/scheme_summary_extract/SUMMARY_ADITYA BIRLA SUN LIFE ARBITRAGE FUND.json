@@ -1,0 +1,48 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE ARBITRAGE FUND",
+  "source_file": "SUMMARY_ADITYA BIRLA SUN LIFE ARBITRAGE FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE ARBITRAGE FUND",
+    "fund_type": "An open ended scheme investing in arbitrage opportunities.",
+    "fund_options": [
+      "Regular - IDCW",
+      "Regular - Growth",
+      "Direct - IDCW",
+      "Direct - Growth"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The Scheme seeks to generate income by investing predominantly in equity and equity related instruments. Scheme intends to take advantage from the price differentials / mis-pricing prevailing for stock / index in various market segments (Cash & Future).",
+    "asset_allocation": "Under normal circumstances, the asset allocation pattern for Aditya Birla Sun Life Arbitrage Fund shall be as under:\nEquities and Equity Linked instruments -  Medium to High - 65-100%\nDerivatives including Index Futures, Stock Futures, Index Options and Stock Options -  Medium to High -  65-100%\nDebt securities and Money Market Instruments (including securitised debt)- Low to Medium - 0-35%\nUnits issued by  InvITs - Medium to High - 0-10%",
+    "benchmark": "Nifty 50 Arbitrage Index",
+    "fund_managers": [
+      "Mr. Lovelish Solanki",
+      "Mr. Mohit Sharma",
+      "Ms. Krina Mehta"
+    ],
+    "annual_expense": {
+      "Regular": "1.03",
+      "Direct": "0.35"
+    },
+    "exit_load": "For redemption / switch-out of units on or before 15 days from the date of allotment: 0.25% of applicable NAV. For redemption / switch-out of units after 15 days from the date of allotment – Nil",
+    "amfi_codes": [
+      "112087",
+      "112088",
+      "119525",
+      "119526"
+    ],
+    "isins": [
+      "INF209K01256",
+      "INF209K01264",
+      "INF209K01P80",
+      "INF209K01VP1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - IDCW",
+    "Regular - Growth",
+    "Direct - IDCW",
+    "Direct - Growth"
+  ],
+  "extracted_at": "2026-04-13T12:09:59.075932+00:00"
+}

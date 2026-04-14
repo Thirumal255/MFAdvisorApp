@@ -1,0 +1,51 @@
+{
+  "parent_scheme_name": "Bandhan Large Cap Fund",
+  "source_file": "SUMMARY_BANDHAN LARGE CAP FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Large Cap Fund",
+    "fund_type": "An open ended equity scheme predominantly investing in large cap stocks",
+    "fund_options": [
+      "DIRECT PLAN - Growth",
+      "REGULAR PLAN - IDCW Reinvestment",
+      "REGULAR PLAN - Growth",
+      "DIRECT PLAN - IDCW Payout",
+      "REGULAR PLAN - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to seek to generate capital growth from predominantly investing in large cap stocks.",
+    "asset_allocation": "Equities & Equity related instruments of Large cap companies - 80% -100%, Equities & Equity related instruments of Mid cap and Small cap companies - 0% -20%, Debt & Money Market instruments (including Government securities, Securitised debt, Margin money/FD) and Units issued by InvITs, within which - 0% -20%, Units issued by InvITs - 0%-10%",
+    "benchmark": "BSE 100 TRI",
+    "fund_managers": [
+      "Mr. Manish Gunwani",
+      "Mr. Prateek Poddar"
+    ],
+    "annual_expense": {
+      "Regular": "2.02",
+      "Direct": "0.86"
+    },
+    "exit_load": "Entry Load: Nil. Exit Load (w.e.f 25-Jun-2021) If redeemed / Switched Out within 365 days from the date of allotment - Up to 10% of Investment Nil & For remaining Investment: 1.00%. If redeemed / switched out after 365 days from the date of allotment: Nil.",
+    "amfi_codes": [
+      "118479",
+      "108800",
+      "108799",
+      "118478",
+      "108800"
+    ],
+    "isins": [
+      "INF194K01Z44",
+      "INF194K01508",
+      "INF194K01516",
+      "INF194K01Z51",
+      "INF194K01490"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN - Growth",
+    "REGULAR PLAN - IDCW Reinvestment",
+    "REGULAR PLAN - Growth",
+    "DIRECT PLAN - IDCW Payout",
+    "REGULAR PLAN - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T12:43:01.778472+00:00"
+}

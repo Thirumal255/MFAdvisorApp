@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE GOLD ETF",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Gold ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE GOLD ETF",
+    "fund_type": "An open ended scheme tracking physical price of Gold",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "High",
+    "investment_objective": "The investment objective of the Scheme is to generate returns that are in \nline with the performance of gold, subject to tracking errors.\nThe Scheme does not guarantee/indicate any returns. There can be no \nassurance that the schemes’ objectives will be achieved.",
+    "asset_allocation": "Physical gold- 95-100%- Medium\nDebt & Money market instruments (including Cash and Cash Equivalent)- 0-\n5%- Low to Medium",
+    "benchmark": "Domestic Price of Physical Gold",
+    "fund_managers": "Mr. Sachin Wankhede",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "115127"
+    ],
+    "isins": [
+      "INF209KB18D3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T12:17:22.784238+00:00"
+}

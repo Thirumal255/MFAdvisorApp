@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Sundaram Aggressive Hybrid Fund",
+  "source_file": "SUMMARY_Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund).pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Sundaram Aggressive Hybrid Fund",
+    "fund_type": "An open ended hybrid scheme investing predominantly in equity and equity related securities and ﬁxed income securities.",
+    "fund_options": [
+      "Regular IDCW Payout",
+      "Regular IDCW Re-Investment",
+      "Regular Growth",
+      "Direct Plan IDCW Payout",
+      "Direct Plan Growth",
+      "Direct Plan IDCW Reinvestment"
+    ],
+    "riskometer": "High Risk",
+    "investment_objective": "To provide long-term appreciation and current income by investing in a portfolio of equity, equity related securities and ﬁxed income securities",
+    "asset_allocation": "Equity and equity-related instruments 65-80%; Debt and Money Market Instruments 20-35%; including Cash and Cash Equivalents and units of Liquid/ Money Market/ Debt Mutual Fund Schemes and Securitised Debt* units issued by REITs & InvITs 0-10%;",
+    "benchmark": "CRISIL Hybrid 35% +65% Aggressive Index",
+    "fund_managers": "FM1 - Mr. Bharath S; FM2 - Mr. Clyton Richard Fernandes; FM3 - Mr. Dwijendra Srivastava; FM4 - Mr. Sandeep Agarwal; FM5-Mr. Shalav Saket(Overseas Securities)",
+    "annual_expense": {
+      "Regular": "1.77",
+      "Direct": "0.74"
+    },
+    "exit_load": "W.E.F Dec 31, 2021-Nil - If up to 25% of the units are redeemed, withdrawn by way of SWP or transferred by way of STP within 365 days from the date of allotment. Any redemption or withdrawals by way of SWP in excess of the above mentioned limit would be subject to exit load of 1% of the applicable NAV will be charged, if the units are redeemed within 365 days from the date of allotment. For redemption or withdrawal by way of SWP after 365 days from the date of allotment - Nil. Generally, the exit load will be calculated on First in First out (FIFO) basis.",
+    "amfi_codes": [
+      "149599",
+      "149600",
+      "149601",
+      "149602"
+    ],
+    "isins": [
+      "INF173K01CI4",
+      "INF173K01CJ2",
+      "INF173K01CL8",
+      "INF173K01FB2",
+      "INF173K01FE6",
+      "INF173K01FC0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular IDCW Payout",
+    "Regular IDCW Re-Investment",
+    "Regular Growth",
+    "Direct Plan IDCW Payout",
+    "Direct Plan Growth",
+    "Direct Plan IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T16:02:54.965185+00:00"
+}

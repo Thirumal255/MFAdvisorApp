@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Mirae Asset Multi Factor Passive FOF",
+  "source_file": "SUMMARY_Mirae Asset Multi Factor Passive FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Multi Factor Passive FOF",
+    "fund_type": "An open-ended fund of fund scheme predominantly investing in units of factor based domestic equity ETFs",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct Plan IDCW - Reinvestment",
+      "Regular Plan IDCW - Payout",
+      "Regular Plan IDCW - Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation from a portfolio investing predominantlyin units of factor based domestic equity ETFs which are based on single or multiple strategies like alpha, momentum, lowvolatility, value, growth, equal weighing, quality etc. There is no assurance that the investment objective of the Scheme willbe realized.",
+    "asset_allocation": "Units of factor based domestic Equity Exchange Traded Funds- 95% to 100% Money market instruments / debt securities,Instruments and/or units of debt/liquid schemes of domestic Mutual Funds 0 to 5%",
+    "benchmark": "NIFTY 500 Index (TRI)",
+    "fund_managers": "Mr. Ritesh Patel",
+    "annual_expense": {
+      "Regular": "0.64",
+      "Direct": "0.15"
+    },
+    "exit_load": "If redeemed or switched out within 5 Calendar days from the date of allotment: 0.05% If redeemed or switched out after 5days from date of allotment: Nil",
+    "amfi_codes": [
+      "153816",
+      "153817",
+      "153818",
+      "153819"
+    ],
+    "isins": [
+      "INF769K01PE0",
+      "INF769K01PF7",
+      "INF769K01PG5",
+      "INF769K01PH3",
+      "INF769K01PJ9",
+      "INF769K01PI12"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct Plan IDCW - Reinvestment",
+    "Regular Plan IDCW - Payout",
+    "Regular Plan IDCW - Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-13T15:09:55.264846+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF",
+  "source_file": "SUMMARY_Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF",
+    "fund_type": "An open-ended scheme replicating/tracking Nifty MidSmallcap400 Momentum Quality 100 Total Return Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate returns, before expenses, that are commensurate with the performanceof the Nifty MidSmallcap400 Momentum Quality 100 Total Return Index, subject to tracking error. There is no assurance orguarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Securities included in the MidSmallcap400 Momentum Quality 100 Index 95% 100% Very High Money market instruments /debt securities, Instruments and/or units of debt/liquid schemes of domestic Mutual Funds. 0 5% Low to Medium The AssetAllocation portion shall also include subscription and redemption cash ﬂow which may be undeployed due to various reasons(dividend from underlying securities, rebalancing or balances for running cost of the scheme, residual amount due toexecution on rounding oﬀ etc).",
+    "benchmark": "MidSmallcap400 Momentum Quality 100 TRI",
+    "fund_managers": "Ms. Ekta Gala & Mr. Akshay Udeshi",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "152634"
+    ],
+    "isins": [
+      "INF769K01LJ8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:12:40.636188+00:00"
+}

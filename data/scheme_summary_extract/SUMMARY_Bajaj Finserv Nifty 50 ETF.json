@@ -1,0 +1,32 @@
+{
+  "parent_scheme_name": "Bajaj Finserv Nifty 50 ETF",
+  "source_file": "SUMMARY_Bajaj Finserv Nifty 50 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bajaj Finserv Nifty 50 ETF",
+    "fund_type": "An open ended exchange traded fund tracking NIFTY 50 Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to provide returns that are corresponding with the performance of the NIFTY 50Index, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of theScheme would be achieved",
+    "asset_allocation": "Securities of companies constituting Nifty 50 Index (the Underlying Index) - 100%-95%, Debt and money market instruments-5%-0%",
+    "benchmark": "Nifty 50 TRI",
+    "fund_managers": "Mr. Ilesh Savla",
+    "annual_expense": {
+      "Regular": "0.07",
+      "Direct": "0.00"
+    },
+    "exit_load": "Entry load – not applicable Exit load – Nil There will be no exit load for units sold through the secondary market on the stockexchange. Investors shall note that the brokerage on sales of the units of the scheme on the stock exchanges shall be borne bythe investors. Large Investors can redeem units directly with the fund at Applicable NAV based prices if the redemptionamount is greater than Rs. 25 cr. Currently there is no exit load applicable for the said transactions. However, the Trusteesreserve right to introduce exit load at later date.",
+    "amfi_codes": [
+      "152356"
+    ],
+    "isins": [
+      "INF0QA701722"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T12:38:01.722190+00:00"
+}

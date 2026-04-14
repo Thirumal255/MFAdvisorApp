@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Invesco India Nifty G-sec Jul 2027 Index Fund",
+  "source_file": "SUMMARY_Invesco India Nifty G-sec Jul 2027 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India Nifty G-sec Jul 2027 Index Fund",
+    "fund_type": "An open-ended Target Maturity Index Fund tracking Nifty G-sec Jul 2027 Index. A relatively high interest rate risk and relativelylow credit risk.",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct plan - Payout of Income Distribution cum capital withdrawal option",
+      "Regular Plan - Payout of Income Distribution cum capital withdrawal option",
+      "Regular Plan - Growth"
+    ],
+    "isins": [
+      "INF205KA1775",
+      "INF205KA1783",
+      "INF205KA1767",
+      "INF205KA1759"
+    ],
+    "amfi_codes": [
+      "151593",
+      "151592",
+      "151591",
+      "151590"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "To generate returns which correspond (before fees and expenses) to the performance of Nifty G-sec Jul 2027 Index, subject totracking diﬀerence. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Government securities, TREPS on Government securities/Treasury Bills: Min 95% Max 100%. Money Market Instruments : Min0% Max 5%",
+    "benchmark": "Nifty G-sec Jul 2027 Index",
+    "fund_managers": "Krishna Cheemalapati, Vikas Garg",
+    "annual_expense": {
+      "Regular": "0.2900",
+      "Direct": "0.1400"
+    },
+    "exit_load": "If Units allotted are redeemed within 30 days from the date of allotment - 0.25%. For any redemption after 30days from thedate of allotment - Nil. If units are switched between the plans - Nil."
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct plan - Payout of Income Distribution cum capital withdrawal option",
+    "Regular Plan - Payout of Income Distribution cum capital withdrawal option",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T14:28:51.585183+00:00"
+}

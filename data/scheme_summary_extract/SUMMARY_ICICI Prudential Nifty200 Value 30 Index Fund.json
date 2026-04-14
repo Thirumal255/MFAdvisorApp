@@ -1,0 +1,35 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty200 Value 30 Index Fund",
+  "source_file": "SUMMARY_ICICI Prudential Nifty200 Value 30 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty200 Value 30 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Nifty200 Value 30 Index Fund - Direct Plan - Growth"
+    ],
+    "riskometer": "Very High\nAs on November 30, 2024",
+    "investment_objective": "The objective of the Scheme is to invest in companies whose securities are included in \n• Equity and Equity related securities of companies constituting the underlying index \n(Nifty200 Value 30 Index) 95%-100% \n• Money Market instruments including TREPs* and units of debt schemes# 0%-5%",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index \n(Nifty200 Value 30 Index) 95%-100% \n• Money Market instruments including TREPs* and units of debt schemes# 0%-5%",
+    "benchmark": "Nifty200 Value 30 TRI",
+    "fund_managers": [
+      "Nishit Patel",
+      "Ashwini Bharucha"
+    ],
+    "annual_expense": {
+      "Regular": "0.94",
+      "Direct": "0.38"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "152934"
+    ],
+    "isins": [
+      "INF109KC10X8"
+    ]
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Nifty200 Value 30 Index Fund - Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T14:19:39.272421+00:00"
+}

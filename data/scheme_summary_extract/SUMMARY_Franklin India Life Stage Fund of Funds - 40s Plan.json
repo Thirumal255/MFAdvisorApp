@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Franklin India Life Stage Fund of Funds - 40s Plan",
+  "source_file": "SUMMARY_Franklin India Life Stage Fund of Funds - 40s Plan.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Franklin India Life Stage Fund of Funds - 40s Plan",
+    "fund_type": "Open ended fund of fund scheme investing in funds which in turn invest in equity and debt",
+    "fund_options": [
+      "Regular - Growth",
+      "Direct - IDCW Reinv.",
+      "Regular - IDCW Payout",
+      "Direct - Growth",
+      "Regular - IDCW Reinv.",
+      "Direct - IDCW Payout"
+    ],
+    "isins": [
+      "INF090I01650",
+      "INF090I01ID2",
+      "INF090I01635",
+      "INF090I01IE0",
+      "INF090I01643",
+      "INF090I01IC4"
+    ],
+    "amfi_codes": [
+      "102112",
+      "118515",
+      "102111",
+      "118516",
+      null,
+      null
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The primary objective is to generate superior risk adjusted returns to investors in line with their chosen asset allocation.",
+    "asset_allocation": "Equity - 35%; Debt - 65% However, depending on the assessment of the market based on parameters such as the prevailing market valuations etc., the portfolio manager may make a tactical change in asset allocation within the following range: Equity -25% to 45%; Debt - 55% to 75% Details of Asset Allocation between equity and debt schemes are as follows: Equity: 35% -FIBCF: Up to 35%; FIPF: Up to 15%; TIVF: Up to 15%; Debt: 65% - FIDA: Up to 65%; FICDF: Up to 65% The steady state asset allocation will be as shown below: FIBCF: 15%, FIPF: 10%, TIVF: 10%, FIDA: 35%, FICDF: 30%",
+    "benchmark": "25% S&P BSE Sensex + 10% Nifty 500 + 65% Crisil Composite Bond Fund Index",
+    "fund_managers": "Rajasa Kakulavarapu",
+    "annual_expense": {
+      "Regular": "0.0000",
+      "Direct": "0.0000"
+    },
+    "exit_load": "0.75"
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Direct - IDCW Reinv.",
+    "Regular - IDCW Payout",
+    "Direct - Growth",
+    "Regular - IDCW Reinv.",
+    "Direct - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T13:29:51.661933+00:00"
+}

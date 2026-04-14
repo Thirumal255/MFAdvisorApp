@@ -1,0 +1,72 @@
+{
+  "parent_scheme_name": "Sundaram Ultra Short Duration fund",
+  "source_file": "SUMMARY_Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund).pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Sundaram Ultra Short Duration fund",
+    "fund_type": "An open ended ultra-short term debt scheme investing in debt instruments such that the Macaulay duration of the portfolio isbetween 3 months and 6 months. A relatively low interest rate risk and Relatively high credit risk. * The Macaulay duration isthe weighted average term to maturity of the cash ﬂows from a bond. The weight of each cash ﬂow is determined by dividingthe present value of the cash ﬂow by the price.",
+    "fund_options": [
+      "Direct Plan Quarterly IDCW Payout",
+      "Direct Plan Quarterly IDCW Re-investment",
+      "Direct Plan - Income Distribution CUM Capital Withdrawal Option - Monthly Payout",
+      "Direct Plan - Income Distribution CUM Capital Withdrawal Option - Monthly IDCW Re-investment",
+      "Direct Plan -Growth Option Payout",
+      "Growth Option Payout",
+      "Monthly Income Distribution CUM Capital Withdrawal Option Payout",
+      "Monthly Income Distribution CUM Capital Withdrawal Option Re-investment",
+      "Regular Plan Quarterly IDCW Payout",
+      "Regular Plan Quarterly IDCW",
+      "Regular Plan Quarterly IDCW Re-investment"
+    ],
+    "isins": [
+      "INF903JA1JQ0",
+      "INF903JA1JP2",
+      "INF173K01HK9",
+      "INF173K01HJ1",
+      "INF173K01HI3",
+      "INF173K01CU9",
+      "INF173K01CX3",
+      "INF173K01CY1",
+      "INF903JA1JN7",
+      "INF903JA1JM9",
+      "INF903JA1JM9"
+    ],
+    "amfi_codes": [
+      "149724",
+      "149540",
+      "149539",
+      "149535",
+      "149537",
+      "149723",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "To generate regular income by investing predominantly in debt and money market instruments",
+    "asset_allocation": "Debt instruments & Money Market Upto 100% instruments, cash and cash equivalents* Risk proﬁle Low to Moderate",
+    "benchmark": "Nifty Ultra Short Duration Debt Index A-I",
+    "fund_managers": "FM1: Mr. Sandeep Agarwal; FM2: Mr. Dwijendra Srivastava",
+    "annual_expense": {
+      "Regular": "1.43",
+      "Direct": "0.24"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan Quarterly IDCW Payout",
+    "Direct Plan Quarterly IDCW Re-investment",
+    "Direct Plan - Income Distribution CUM Capital Withdrawal Option - Monthly Payout",
+    "Direct Plan - Income Distribution CUM Capital Withdrawal Option - Monthly IDCW Re-investment",
+    "Direct Plan -Growth Option Payout",
+    "Growth Option Payout",
+    "Monthly Income Distribution CUM Capital Withdrawal Option Payout",
+    "Monthly Income Distribution CUM Capital Withdrawal Option Re-investment",
+    "Regular Plan Quarterly IDCW Payout",
+    "Regular Plan Quarterly IDCW",
+    "Regular Plan Quarterly IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-13T16:08:34.652824+00:00"
+}

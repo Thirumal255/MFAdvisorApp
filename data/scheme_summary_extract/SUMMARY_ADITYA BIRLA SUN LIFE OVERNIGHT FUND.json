@@ -1,0 +1,56 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE OVERNIGHT FUND",
+  "source_file": "SUMMARY_ADITYA BIRLA SUN LIFE OVERNIGHT FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE OVERNIGHT FUND",
+    "fund_type": "An open ended debt scheme investing in overnight securities. A relatively low interest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "Regular - Weekly Reinvestment of IDCW option",
+      "Regular - Daily Reinvestment of IDCW",
+      "Regular- Monthly Payout of IDCW option",
+      "DIRECT PLAN-GROWTH",
+      "Direct - Daily Reinvestment of IDCW",
+      "Direct - Monthly Payout of IDCW",
+      "Direct - Weekly Reinvestment of IDCW"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "To generate reasonable income through investments in debt securities, Money Market Instruments & Triparty Repos having maturity of 1 day. The Scheme does not guarantee/indicate any returns. There can be no assurance that the schemes’ objectives will be achieved.",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme will be as follows:\nInstruments - Risk Profile - Range\nDebt Securities and Money Market Instruments with maturity up to 1 day only and /Tri-party Repo - Low - Up to 100%",
+    "benchmark": "CRISIL Liquid Overnight Index",
+    "fund_managers": "Mr. Kaustubh Gupta",
+    "annual_expense": {
+      "Regular": "0.19",
+      "Direct": "0.08"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "145482",
+      "145483",
+      "145485",
+      "145486",
+      "145487",
+      "145488",
+      "145489"
+    ],
+    "isins": [
+      "INF209KB1ZE9",
+      "INF209KB1ZD1",
+      "INF209KB1ZG4",
+      "INF209KB1ZH2",
+      "INF209KB1ZI0",
+      "INF209KB1ZL4",
+      "INF209KB1ZJ8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Weekly Reinvestment of IDCW option",
+    "Regular - Daily Reinvestment of IDCW",
+    "Regular- Monthly Payout of IDCW option",
+    "DIRECT PLAN-GROWTH",
+    "Direct - Daily Reinvestment of IDCW",
+    "Direct - Monthly Payout of IDCW",
+    "Direct - Weekly Reinvestment of IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:22:52.023304+00:00"
+}

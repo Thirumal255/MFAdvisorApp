@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "Parag Parikh Liquid Fund",
+  "source_file": "SUMMARY_Parag Parikh Liquid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Parag Parikh Liquid Fund",
+    "fund_type": "An Open-ended Liquid Scheme. A Relatively Low Interest Rate Risk and Relatively low Credit Risk",
+    "fund_options": [
+      "Regular Plan - Growth Option",
+      "Direct Plan - Growth Option",
+      "Regular Plan - Monthly Payout of IDCW Option",
+      "Direct Plan-Monthly of Payout IDCW Option",
+      "Regular Plan - Monthly Reinvestment of IDCW Option",
+      "Direct Plan - Monthly Reinvestment of IDCW Option",
+      "Regular Plan - Daily IDCW Option",
+      "Direct Plan - Daily IDCW Option",
+      "Regular Plan - Weekly IDCW Option",
+      "Direct Plan - Weekly IDCW Option"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The primary investment objective of the Scheme is to deliver reasonable market related returns with lower risk and high liquidity through judicious investments in money market and debt instruments. However, there is no assurance that the investment objective of the scheme will be realized and the scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Money Market instruments* (including cash, repo, CPs, CDs, Treasury Bills, TREPs/CBLO and Government Securities with maturity/residual maturity up to 91 days) - 80-100% Debt instruments (including Floating rate debt instruments and securitised debt with maturity/residual maturity up to 91 days) - 0-20% (*At least 20% of the net assets of the scheme shall be invested in liquid assets. ‘Liquid assets’ shall include Cash, Government Securities, T-bills and Repo on Government Securities.)",
+    "benchmark": "CRISIL Liquid Debt A-I Index",
+    "fund_managers": "Mr. Tejas Soman - Primary , Ms. Mansi Kariya - Primary , Ms. Aishwarya Dhar - Primary",
+    "annual_expense": {
+      "Regular": "0.21",
+      "Direct": "0.11"
+    },
+    "exit_load": "Day 1 -- 0.0070%, Day 2 -- 0.0065%, Day 3 -- 0.0060%, Day 4 -- 0.0055%, Day 5 -- 0.0050%, Day 6 -- 0.0045%, Day 7 onwards --0.0000%",
+    "amfi_codes": [
+      "143260",
+      "143269",
+      "143261",
+      "143262",
+      "143261",
+      "143262",
+      "143264",
+      "143263",
+      "143266",
+      "143265"
+    ],
+    "isins": [
+      "INF879O01035",
+      "INF879O01068",
+      "INF879O01043",
+      "INF879O01076",
+      "INF879O01050",
+      "INF879O01084",
+      "INF879O01126",
+      "INF879O01118",
+      "INF879O01142",
+      "INF879O01134"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth Option",
+    "Direct Plan - Growth Option",
+    "Regular Plan - Monthly Payout of IDCW Option",
+    "Direct Plan-Monthly of Payout IDCW Option",
+    "Regular Plan - Monthly Reinvestment of IDCW Option",
+    "Direct Plan - Monthly Reinvestment of IDCW Option",
+    "Regular Plan - Daily IDCW Option",
+    "Direct Plan - Daily IDCW Option",
+    "Regular Plan - Weekly IDCW Option",
+    "Direct Plan - Weekly IDCW Option"
+  ],
+  "extracted_at": "2026-04-13T15:37:32.659719+00:00"
+}

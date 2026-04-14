@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "MIRAE ASSET NIFTY SDL JUN 2027 INDEX FUND",
+  "source_file": "SUMMARY_Mirae Asset Nifty SDL Jun 2027 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "MIRAE ASSET NIFTY SDL JUN 2027 INDEX FUND",
+    "fund_type": "An open-ended target maturity Index Fund investing in the constituents of Nifty SDL Jun 2027 Index. A scheme withrelatively high interest rate risk and relatively low credit risk",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular PlanIDCW - Payout",
+      "Regular PlanIDCW- Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "isins": [
+      "INF769K01ID7",
+      "INF769K01IE5",
+      "INF769K01IF2",
+      "INF769K01IG0",
+      "INF769K01IH8",
+      "INF769K01II62"
+    ],
+    "amfi_codes": [
+      "150361",
+      "150360",
+      "150359",
+      "150358",
+      null,
+      null
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to track the Nifty SDL Jun 2027 Index by investing in State Development Loans(SDL), maturing on or before June 15, 2027, subject to tracking errors. However, there is no assurance that the investmentobjective of the Scheme will be realized and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "State Development Loans (SDLs) representing Nifty SDL Jun 2027 Index - 95% to 100% (Low to Medium) Money Marketinstruments (Treasury Bills, Government Securities and Tri-party Repo on government securities or T-bills Only) - 0% to 5%(Low to Medium)",
+    "benchmark": "Nifty SDL Jun 2027 Index",
+    "fund_managers": "Mr. Basant Bafna",
+    "annual_expense": {
+      "Regular": "0.35",
+      "Direct": "0.18"
+    },
+    "exit_load": "N/A"
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular PlanIDCW - Payout",
+    "Regular PlanIDCW- Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-13T15:13:08.860604+00:00"
+}

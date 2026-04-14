@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "ICICI Prudential Income Optimizer Fund (FOF)",
+  "source_file": "SUMMARY_ICICI Prudential Income plus Arbitrage Omni FOF - Dividend Option.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Income Optimizer Fund (FOF)",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Growth",
+      "IDCW"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The  primary  objective  of  the  Scheme  is  to  generate  regular  income  by predominantly investing  in  debt  oriented  schemes.  The  Scheme  will  also invest in  equity oriented  & hybrid  oriented  schemes  with  an  aim to  generate capital appreciation. However,  there  can  be  no  assurance  or  guarantee  that  the  investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Equity oriented schemes = 10%-35% \n• Debt oriented schemes & Hybrid oriented schemes = 65%-90%\n• Money Market instruments (with maturity not exceeding 91 days), including Tri-party Repo*, cash & cash equivalents = 0%-5%",
+    "benchmark": "NIFTY 50 TRI (35%) + CRISIL Composite Bond Index (65%)",
+    "fund_managers": [
+      "Dharmesh Kakkad",
+      "Manish Banthia",
+      "Masoomi Jhurmarvala",
+      "Ritesh Lunawat",
+      "Sharmila D'mello"
+    ],
+    "annual_expense": {
+      "Regular": "0.93",
+      "Direct": "0.53"
+    },
+    "exit_load": "If units redeemed or switched out within 12 months from the date of allotment - 1 % of applicable NAV. If units redeemed or switched out after 12 month from the date of allotment - Nil.",
+    "amfi_codes": [
+      "120313",
+      "120314",
+      "102139",
+      "102140"
+    ],
+    "isins": [
+      "INF109K01W82",
+      "INF109K01W66",
+      "INF109K01W74",
+      "INF109K01811",
+      "INF109K01EB9",
+      "INF109K01829"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Growth",
+    "IDCW"
+  ],
+  "extracted_at": "2026-04-13T14:12:44.271138+00:00"
+}

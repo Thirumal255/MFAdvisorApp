@@ -1,0 +1,48 @@
+{
+  "parent_scheme_name": "ICICI Prudential Silver ETF Fund of Fund",
+  "source_file": "SUMMARY_ICICI Prudential Silver ETF FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Silver ETF Fund of Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "ICICI Prudential Silver ETF Fund of Fund (the Scheme) is a fund of fund scheme with the primary objective to generate returns by investing in units of ICICI Prudential Silver ETF. However, there is no assurance or guarantee that the scheme will achieve its investment objective.",
+    "asset_allocation": "• Units of ICICI Prudential Silver ETF = 95% - 100%\n• Debt & Money Market Instruments (including cash & cash equivalent and Liquid/Debt Funds) = 0% - 5%",
+    "benchmark": "LBMA Silver Price",
+    "fund_managers": [
+      "Manish Banthia",
+      "Nishit Patel",
+      null
+    ],
+    "annual_expense": {
+      "Regular": "0.60",
+      "Direct": "0.12"
+    },
+    "exit_load": "If the amount sought to be redeemed or switched out is invested for a period upto 15 days from the date of allotment - 1% of the applicable Net Asset Value; If the amount sought to be redeemed or switched out is invested for a period more than 15 days from the date of allotment – Nil",
+    "amfi_codes": [
+      "149775",
+      "149776",
+      "149777",
+      "149778"
+    ],
+    "isins": [
+      "INF109KC1Y98",
+      "INF109KC1Z06",
+      "INF109KC1Y64",
+      "INF109KC1Y72"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-13T14:22:03.581986+00:00"
+}

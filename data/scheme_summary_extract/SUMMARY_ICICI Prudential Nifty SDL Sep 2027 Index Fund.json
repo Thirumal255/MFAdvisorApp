@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty SDL Sep 2027 Index Fund",
+  "source_file": "SUMMARY_ICICI Prudential Nifty SDL Sep 2027 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty SDL Sep 2027 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Nifty SDL Sep 2027 Index Fund - Direct Pan - Growth",
+      "ICICI Prudential Nifty SDL Sep 2027 Index Fund - Direct Pan - IDCW - Payout",
+      "ICICI Prudential Nifty SDL Sep 2027 Index Fund - Direct Pan - IDCW - Reinvestment",
+      "ICICI Prudential Nifty SDL Sep 2027 Index Fund - Regular Pan - Growth",
+      "ICICI Prudential Nifty SDL Sep 2027 Index Fund - Regular Pan - IDCW - Payout",
+      "ICICI Prudential Nifty SDL Sep 2027 Index Fund - Regular Pan - IDCW - Reinvestment"
+    ],
+    "isins": [
+      "INF109KC11A4",
+      "INF109KC12A2",
+      "INF109KC13A0",
+      "INF109KC1Z89",
+      "INF109KC1Z97",
+      "INF109KC10A6"
+    ],
+    "amfi_codes": [
+      "149858",
+      "149861",
+      "149861",
+      "149859",
+      "149860",
+      "149860"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns corresponding to the total returns of the securities as represented by the Nifty SDL Sep 2027 Index before expenses, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "• State Development Loans (SDLs) of State Government/UTs forming part of Nifty SDL Sep 2027 Index 95% - 100%  \n• Money Market instruments (Treasury Bills, Government Securities and Tri-Party Repos Only)  0% - 5% \nUnits of Debt schemes 0% - 5%",
+    "benchmark": "Nifty SDL Sep 2027 Index",
+    "fund_managers": [
+      "Ms. Darshil Dedhia",
+      "Mr. Rohit Lakhotia"
+    ],
+    "annual_expense": {
+      "Regular": "0.35",
+      "Direct": "0.20"
+    },
+    "exit_load": null
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Nifty SDL Sep 2027 Index Fund - Direct Pan - Growth",
+    "ICICI Prudential Nifty SDL Sep 2027 Index Fund - Direct Pan - IDCW - Payout",
+    "ICICI Prudential Nifty SDL Sep 2027 Index Fund - Direct Pan - IDCW - Reinvestment",
+    "ICICI Prudential Nifty SDL Sep 2027 Index Fund - Regular Pan - Growth",
+    "ICICI Prudential Nifty SDL Sep 2027 Index Fund - Regular Pan - IDCW - Payout",
+    "ICICI Prudential Nifty SDL Sep 2027 Index Fund - Regular Pan - IDCW - Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T14:19:13.200905+00:00"
+}

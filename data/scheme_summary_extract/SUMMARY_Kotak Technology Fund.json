@@ -1,0 +1,61 @@
+{
+  "parent_scheme_name": "Kotak Technology Fund",
+  "source_file": "SUMMARY_Kotak Technology Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Technology Fund",
+    "fund_type": "An open ended equity scheme investing in Technology & technology related Sectors",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCW Re-investment",
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-IDCW Re-investment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate long-term capital appreciation from a portfolio that is invested predominantly in equity and equity related securities of Technology & technology related sectors. However, there is no assurance that the objective of the scheme will be achieved.",
+    "asset_allocation": {
+      "Equity and Equity Related Securities of technology & technology related sectors": "80%-100%",
+      "Equity and Equity Related Securities Other than technology & technology related sectors": "0%-20%",
+      "Overseas Mutual Fund Schemes/ETFs/Foreign Securities": "0%-20%",
+      "Debt and Money Market Securities": "0%-20%",
+      "Units of InvITs": "0%-10%"
+    },
+    "benchmark": "BSE Teck Index (Total Return Index)",
+    "fund_managers": [
+      "Ms. Shibani Kurian",
+      "Mr. Abhishek Bisen"
+    ],
+    "annual_expense": {
+      "Regular": "2.31",
+      "Direct": "0.88"
+    },
+    "exit_load": "For redemption / switch out within 30 days from the date of allotment: 0.5% If units are redeemed or switched out on or after 30 days from the date of allotment: NIL Units issued on reinvestment of IDCW shall not be subject to entry and exit load. Any exit load charged (net off Goods and Services tax, if any) shall be credited back to the Scheme.",
+    "amfi_codes": [
+      "152462",
+      "152463",
+      "152463",
+      "152460",
+      "152461",
+      "152461"
+    ],
+    "isins": [
+      "INF174KA1QZ5",
+      "INF174KA1RA6",
+      "INF174KA1RB4",
+      "INF174KA1QW2",
+      "INF174KA1QX0",
+      "INF174KA1QY8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCW Re-investment",
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-13T14:52:55.539313+00:00"
+}

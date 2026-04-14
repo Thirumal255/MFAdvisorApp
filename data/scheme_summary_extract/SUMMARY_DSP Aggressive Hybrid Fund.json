@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "DSP Aggressive Hybrid Fund",
+  "source_file": "SUMMARY_DSP Aggressive Hybrid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP Aggressive Hybrid Fund",
+    "fund_type": "An open ended hybrid scheme investing predominantly in equity and equity related instruments",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - IDCW - Reinvest",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW - Reinvest"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the Scheme is to seek to generate long term capital appreciation and current income from a portfolio constituted of equity and equity related securities as well as ﬁxed income securities (debt and money market securities).There is no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "1. Equity and equity related Instruments : 65% - 80%, 2. Debt instruments: 20% - 35%",
+    "benchmark": "CRISIL Hybrid 35+65 - Aggressive Index",
+    "fund_managers": "Mr. Abhishek Singh - Equity Portion, Mr. Shantanu Godambe - Debt Portion",
+    "annual_expense": {
+      "Regular": "1.71",
+      "Direct": "0.66"
+    },
+    "exit_load": "1%~ - Holding period from the date of allotment < 12 months, Nil - Holding period from the date of allotment >= 12 months (as a% of Applicable NAV) ~If the units redeemed or switched out are upto 10% of the units (the limit) purchased or switched",
+    "amfi_codes": [
+      "119019",
+      "119020",
+      "119020",
+      "100081",
+      "100082",
+      "100082"
+    ],
+    "isins": [
+      "INF740K01NY4",
+      "INF740K01NZ1",
+      "INF740K01OA2",
+      "INF740K01318",
+      "INF740K01326",
+      "INF740K01334"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - IDCW - Reinvest",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW - Reinvest"
+  ],
+  "extracted_at": "2026-04-13T13:05:25.158257+00:00"
+}

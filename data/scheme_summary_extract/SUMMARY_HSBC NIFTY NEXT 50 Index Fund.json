@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "HSBC Nifty Next 50 Fund",
+  "source_file": "SUMMARY_HSBC NIFTY NEXT 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Nifty Next 50 Fund",
+    "fund_type": "An open-ended Equity Scheme tracking NIFTY Next 50 Index",
+    "fund_options": [
+      "HSBC Nifty Next 50 Index Fund FUND - Regular Growth",
+      "HSBC Nifty Next 50 Index Fund FUND - Direct Growth",
+      "HSBC Nifty Next 50 Index Fund FUND - Regular IDCW",
+      "HSBC Nifty Next 50 Index Fund FUND - Direct IDCW",
+      "HSBC Nifty Next 50 Index Fund FUND - Regular IDCW Payout",
+      "HSBC Nifty Next 50 Index Fund FUND - Direct IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The scheme has adopted a passive investment strategy. The scheme invests in stocks comprising the Nifty 50 index in the sameproportion as in the index with the objective of achieving returns equivalent to the Total Returns Index of Nifty Next 50 indexby minimizing the performance diﬀerence between the benchmark index and the Scheme. The Total Returns Index is an indexthat reﬂects the returns on the index from index gain/ loss plus dividend payments by the constituent stocks.",
+    "asset_allocation": "Equity and equity related securities covered by Nifty Next 50 Index: 95% -100% Debt & Money Market Instruments* : 0%-5%",
+    "benchmark": "Nifty Next 50 Index TRI",
+    "fund_managers": "Praveen Ayathan, Rajeesh Nair",
+    "annual_expense": {
+      "Regular": "0.71",
+      "Direct": "0.33"
+    },
+    "exit_load": "If the Units redeemed or switched out are upto 10% of the units purchased or switched in (“the limit”) within 1 month fromthe date of allotment. – Nil. If units redeemed or switched out are over and above the limit within 1 month from the date ofallotment – 1%. If units are redeemed or switched out on or after 1 month from the date of allotment – Nil",
+    "amfi_codes": [
+      "151158",
+      "151157",
+      "151159",
+      "151156",
+      null,
+      null
+    ],
+    "isins": [
+      "INF917K01D95",
+      "INF917K01D79",
+      "INF917K01E03",
+      "INF917K01D61",
+      "INF917K01D87",
+      "INF917K01D53"
+    ]
+  },
+  "fund_options_inferred": [
+    "HSBC Nifty Next 50 Index Fund FUND - Regular Growth",
+    "HSBC Nifty Next 50 Index Fund FUND - Direct Growth",
+    "HSBC Nifty Next 50 Index Fund FUND - Regular IDCW",
+    "HSBC Nifty Next 50 Index Fund FUND - Direct IDCW",
+    "HSBC Nifty Next 50 Index Fund FUND - Regular IDCW Payout",
+    "HSBC Nifty Next 50 Index Fund FUND - Direct IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T14:05:44.095859+00:00"
+}

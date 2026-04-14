@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE SPECIAL OPPORTUNITIES FUND",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Special Opportunities Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE SPECIAL OPPORTUNITIES FUND",
+    "fund_type": "An open-ended equity scheme following special situations theme",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Regular - IDCW",
+      "Direct-Growth",
+      "Direct - IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to provide long term capital appreciation by investing in opportunities presented by special situations such as corporate restructuring, Government policy change and/or regulatory changes, companies going through temporary but unique challenges and other similar instances. The Scheme does not guarantee/indicate any returns. There can be no assurance that the schemes’ objectives will be achieved.",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme will be as follows:\nInstruments - Risk Profile -  Range\nEquity & Equity related instruments of special situations theme - High - 80%-100%\nOther Equity & Equity related instruments - High - 0%-20%\nDebt, Units of Mutual Fund schemes, Money Market Instruments and Cash & Cash Equivalents - Low to Medium - 0%-20% Units issued by InvITs  - Medium to high - 0%-10%",
+    "benchmark": "BSE 500 TRI",
+    "fund_managers": "Mr. Dhaval Gala",
+    "annual_expense": {
+      "Regular": "2.44",
+      "Direct": "1.46"
+    },
+    "exit_load": "For redemption / switch-out of units on or before 30 days from the date of allotment: 1% of applicable NAV. For redemption / switch-out of units after 30 days from the date of allotment: Nil.",
+    "amfi_codes": [
+      "148537",
+      "148538",
+      "148539",
+      "148540"
+    ],
+    "isins": [
+      "INF209KB1T46",
+      "INF209KB1T53",
+      "INF209KB1T79",
+      "INF209KB1T87"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Regular - IDCW",
+    "Direct-Growth",
+    "Direct - IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:24:35.308241+00:00"
+}

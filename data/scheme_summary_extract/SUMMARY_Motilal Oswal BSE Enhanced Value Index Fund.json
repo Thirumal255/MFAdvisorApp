@@ -1,0 +1,42 @@
+{
+  "parent_scheme_name": "Motilal Oswal S&P BSE Enhanced Value Index Fund",
+  "source_file": "SUMMARY_Motilal Oswal BSE Enhanced Value Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal S&P BSE Enhanced Value Index Fund",
+    "fund_type": "Index Fund",
+    "fund_options": [
+      "Regular Growth",
+      "Direct Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, correspond to the total returns of the securities as represented by S&P BSE Enhanced Value Index, subject to tracking error. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved",
+    "asset_allocation": "Constituents of S&P BSE Enhanced Value Index 95-100%, Units of Liquid schemes/ debt schemes, debt and/or money market instrumentss 0-5%",
+    "benchmark": "S&P BSE Enhanced Value Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "Equity Component",
+        "from_date": "26-Aug-22"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "Debt Component",
+        "from_date": "22/11/2022"
+      }
+    ],
+    "annual_expense": {},
+    "exit_load": "Yes",
+    "amfi_codes": [
+      "150519"
+    ],
+    "isins": [
+      "INF247L01BG0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth"
+  ],
+  "extracted_at": "2026-04-13T15:15:24.763520+00:00"
+}

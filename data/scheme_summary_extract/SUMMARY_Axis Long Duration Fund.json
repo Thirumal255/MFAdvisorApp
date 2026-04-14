@@ -1,0 +1,66 @@
+{
+  "parent_scheme_name": "Axis Long Duration Fund",
+  "source_file": "SUMMARY_Axis Long Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Long Duration Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Annual IDCW",
+      "Direct Daily IDCW",
+      "Direct Growth",
+      "Direct Monthly IDCW",
+      "Direct Quarterly IDCW",
+      "Regular Annual IDCW",
+      "Regular Daily IDCW",
+      "Regular Monthly IDCW",
+      "Regular Quarterly IDCW"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate optimal returns consistent with moderate levels of risk. This income may be complemented by capital appreciation of the portfolio. However, there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Debt Instruments & Money Market Instruments - (0%-100%)",
+    "benchmark": "NIFTY Long Duration Debt Index A - III",
+    "fund_managers": "Mr. Devang Shah, Mr. Hardik Shah",
+    "annual_expense": {
+      "Regular": "0.76",
+      "Direct": "0.32"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "151178",
+      "151179",
+      "151177",
+      "151176",
+      "151201",
+      "151202",
+      "151203",
+      "151204",
+      "151206",
+      "151205"
+    ],
+    "isins": [
+      "INF846K015L0",
+      "INF846K014L3",
+      "INF846K018L4",
+      "INF846K019L2",
+      "INF846K012M5",
+      "INF846K013M3",
+      "INF846K016M6",
+      "INF846K017M4",
+      "INF846K016L8",
+      "INF846K018M2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Annual IDCW",
+    "Direct Daily IDCW",
+    "Direct Growth",
+    "Direct Monthly IDCW",
+    "Direct Quarterly IDCW",
+    "Regular Annual IDCW",
+    "Regular Daily IDCW",
+    "Regular Monthly IDCW",
+    "Regular Quarterly IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:32:37.831329+00:00"
+}

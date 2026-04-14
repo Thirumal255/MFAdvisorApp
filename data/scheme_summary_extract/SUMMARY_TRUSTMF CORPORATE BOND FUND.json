@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "TRUSTMF Corporate Bond Fund",
+  "source_file": "SUMMARY_TRUSTMF CORPORATE BOND FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "TRUSTMF Corporate Bond Fund",
+    "fund_type": "An open-ended debt scheme predominantly investing in AA+ and above rated corporate bonds. A relatively high interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Regular-Monthly IDCW Reinvestment",
+      "Regular-MONTHLY IDCW Payout",
+      "Direct Plan-Growth",
+      "Direct-Monthly IDCW Reinvestment",
+      "Direct Plan-Monthly IDCW Payout"
+    ],
+    "isins": [
+      "INF0GCD01537",
+      "INF0GCD01545",
+      "INF0GCD01552",
+      "INF0GCD01560",
+      "INF0GCD01578",
+      "INF0GCD01586"
+    ],
+    "amfi_codes": [
+      "151322",
+      "151319",
+      "151319",
+      "151320",
+      "151321",
+      "151321"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "To generate optimal returns by investing predominantly in AA+ and above rated corporate bonds.  There can be no assurance that the investment objective of the scheme will be realised",
+    "asset_allocation": "Corporate Debt instruments (including securitised debt) across maturities and ratings - 80% to 100%, Other Debt & Money Market Instruments - 0% to 20%, Units of REITs and InvITs - 0% to 10%.",
+    "benchmark": "CRISIL Corporate Debt A-II Index, CRISIL Select AAA Corporate Bond Fund Index",
+    "fund_managers": "Mr. Jalpan Shah & Ms. Shradhanjali Panda",
+    "annual_expense": {
+      "Regular": "0.65",
+      "Direct": "0.25"
+    },
+    "exit_load": "N.A"
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Regular-Monthly IDCW Reinvestment",
+    "Regular-MONTHLY IDCW Payout",
+    "Direct Plan-Growth",
+    "Direct-Monthly IDCW Reinvestment",
+    "Direct Plan-Monthly IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T16:20:20.641349+00:00"
+}

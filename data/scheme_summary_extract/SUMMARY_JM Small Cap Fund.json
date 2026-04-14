@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "JM Small Cap Fund",
+  "source_file": "SUMMARY_JM Small Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "JM Small Cap Fund",
+    "fund_type": "An open ended equity scheme predominantly investing in small cap stocks.",
+    "fund_options": [
+      "Direct - IDCW Payout",
+      "Direct - Growth Option",
+      "Direct - IDCW Reinvestment",
+      "Regular - Growth Option",
+      "Regular - IDCW Payout",
+      "Regular - IDCW Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary objective of the Scheme is to generate long-term capital appreciation by investing predominantly in equity and equity related securities of small cap companies, as defined by SEBI. However, there is no assurance that the investment objective of the Scheme will be achieved. The Scheme does not guarantee/indicate any returns.",
+    "asset_allocation": "Equity and Equity related Instruments^ of small cap companies$ - 65%-100% - Very High, Equity and equity related Instruments^of other than small cap companies - 0%-35% - Very High, Debt* & Money Market instruments^^ - 0%-35% - Low to Medium, Units issued by InvITs - 0%-10% - Medium to High, Units of Mutual Fund Scheme - 0%-10% - Medium to High. $Small Cap companies are those companies which are classified as small cap companies by Securities and Exchange Board of India (SEBI) or Association of Mutual Funds in India (AMFI) in terms of market capitalisation. Small Cap Companies as defined by SEBI: 251st company onwards in terms of full market capitalization. ^^Money Market instruments include commercial papers, commercial bills, treasury bills, Government securities having an unexpired maturity up to one year, call or notice money, certificate of deposit, usance bills, and any other like instruments as specified by the Reserve Bank of India from time to time and subject to regulatory approval. *Debt instruments may include securitised debt upto 20% of the debt portfolio of the scheme. ^The Scheme may invest upto 50% of equity assets in equity derivatives instruments as permitted under the SEBI (Mutual Funds) Regulations, 1996 from time to time. The Scheme may use equity derivatives for such purposes as maybe permitted under the SEBI (Mutual Funds) Regulations, 1996, including but not limited for the purpose of hedging and portfolio balancing, based on the opportunities available and subject to guidelines issued by SEBI from time to time. The scheme shall not invest in debt derivative instruments.",
+    "benchmark": "Nifty Smallcap 250 TRI (Total Return Index)",
+    "fund_managers": "Mr. Asit Bhandarkar, Mr. Satish Ramanathan, Mr. Deepak Gupta , Ms. Ruchi Fozdar",
+    "annual_expense": {
+      "Regular": "2.33",
+      "Direct": "0.70"
+    },
+    "exit_load": "In respect of each purchase / switch-in of Units, an Exit Load of 1.00% is payable if Units are redeemed/ switched-out within 180 days from the date of allotment, No Exit Load is payable if Units are redeemed / switched-out after 180 days from the date of allotment, No Entry / Exit Load shall be levied on units allotted on Reinvestment of Income Distribution cum Capital Withdrawal Option, In respect of Systematic Transactions such as SIP, STP, SWP, Exit Load, if any, prevailing on the date of registration / enrolment for SIP/STP/SWP shall be levied for all the opted Installments.",
+    "amfi_codes": [
+      "152615",
+      "152614",
+      "152615",
+      "152614",
+      "152613",
+      "152613"
+    ],
+    "isins": [
+      "INF192K01NI1",
+      "INF192K01NH3",
+      "INF192K01NJ9",
+      "INF192K01NE0",
+      "INF192K01NF7",
+      "INF192K01NG5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct - IDCW Payout",
+    "Direct - Growth Option",
+    "Direct - IDCW Reinvestment",
+    "Regular - Growth Option",
+    "Regular - IDCW Payout",
+    "Regular - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T14:41:04.703528+00:00"
+}

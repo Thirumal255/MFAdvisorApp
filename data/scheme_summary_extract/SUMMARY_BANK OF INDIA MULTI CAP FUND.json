@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Bank of Multi Cap Fund",
+  "source_file": "SUMMARY_BANK OF INDIA MULTI CAP FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bank of Multi Cap Fund",
+    "fund_type": "An open ended equity scheme investing across large cap, mid cap and small cap stocks",
+    "fund_options": [
+      "DIRECT PLAN-IDCW PAYOUT",
+      "DIRECT PLAN-GROWTH",
+      "DIRECT PLAN-IDCW REINVESTMENT",
+      "REGULAR PLAN-IDCW PAYOUT",
+      "REGULAR PLAN-GROWTH",
+      "REGULAR PLAN-IDCW REINVESTMENT"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation by investing in equity and equity-relatedsecurities across various market capitalisation. However, there can be no assurance that the investment objectives of theScheme will be realized.",
+    "asset_allocation": "Equity & Equity related securities: 75% to 100% VERY HIGH •Minimum investment in Equity & Equity related instruments ofLarge Cap companies-25% of total assets. •Minimum investment in Equity & Equity related instruments of Mid Capcompanies-25% of total assets. •Minimum investment in Equity & Equity related instruments of Small Cap Debt and MoneyMarket instruments# 0% 25% low to medium Units issued by REITs and INVITs 0% to 10% very high",
+    "benchmark": "Nifty 500 Multicap 50:25:25",
+    "fund_managers": "Mr. Nitin Gosar",
+    "annual_expense": {
+      "Regular": "2.22",
+      "Direct": "0.90"
+    },
+    "exit_load": "• For redemption/switch out Upto 10% of the initial units allotted - within 1 year from the date of allotment: “NIL” • Anyredemption/switch out in excess of the above mentioned limit would be subject to an exit load of 1%, if the units areredeemed/ switched out within 1 year from the date of allotment of units. • If the units are redeemed/switched out after 1year from the date of allotment of units : “Nil”",
+    "amfi_codes": [
+      "MLDD-151444",
+      "MLDG-151443",
+      "MLRD-151446",
+      "MLRG-151445"
+    ],
+    "isins": [
+      "INF761K01FQ2",
+      "INF761K01FR0",
+      "INF761K01FS8",
+      "INF761K01FT6",
+      "INF761K01FU4",
+      "INF761K01FV2"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN-IDCW PAYOUT",
+    "DIRECT PLAN-GROWTH",
+    "DIRECT PLAN-IDCW REINVESTMENT",
+    "REGULAR PLAN-IDCW PAYOUT",
+    "REGULAR PLAN-GROWTH",
+    "REGULAR PLAN-IDCW REINVESTMENT"
+  ],
+  "extracted_at": "2026-04-13T12:49:21.736923+00:00"
+}

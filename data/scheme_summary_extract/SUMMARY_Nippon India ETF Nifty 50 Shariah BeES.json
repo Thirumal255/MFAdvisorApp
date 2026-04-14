@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Nippon India ETF Nifty 50 Shariah BeES",
+  "source_file": "SUMMARY_Nippon India ETF Nifty 50 Shariah BeES.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India ETF Nifty 50 Shariah BeES",
+    "fund_type": "An Open Ended Index Exchange Traded Scheme",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of Nippon India ETF Nifty 50 Shariah BeES is to provide returns that, before expenses, closely correspond to the total returns of the Securities as represented by the Nifty50 Shariah Index by investing in Securities which are constituents of the Nifty50 Shariah Index in the same proportion as in the Index. Investors to note that Nippon India ETF Nifty 50 Shariah BeES is not a Shariah compliant scheme. There can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities covered by the Nifty50 Shariah Index - 95% to 100%, Cash - 0% to 5%.",
+    "benchmark": "Nifty50 Shariah TRI",
+    "fund_managers": "Jitendra Tolani",
+    "annual_expense": {
+      "Direct": "0.96"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "140094"
+    ],
+    "isins": [
+      "INF732E01128"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:25:07.728562+00:00"
+}

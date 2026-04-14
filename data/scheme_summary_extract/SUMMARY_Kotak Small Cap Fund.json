@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Kotak Small Cap Fund",
+  "source_file": "SUMMARY_Kotak Small Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Small Cap Fund",
+    "fund_type": "An open ended equity scheme predominantly investing in small cap stocks",
+    "fund_options": [
+      "Direct Plan-G",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCW Re-investment",
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-IDCW Re-investment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate capital appreciation from a diversiﬁed portfolio of equity and equityrelated securities by investing predominantly in small cap companies. However there is no assurance that the investmentobjective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related instruments- 65% to 100% (High) Investments in equity and equity related securities of small capcompanies- 65% to 100% (High) investments in equity and equity related securities of Companies other than small capcompanies- 0% to 35% (High) Debt and Money Market Securities- 0% to 35% (Low) Units issued by InvITs- 0% to 10% (Mediumto High) #companies include units of REITs",
+    "benchmark": "NIFTY Smallcap 250 TRI",
+    "fund_managers": "Harish Bihani",
+    "annual_expense": {
+      "Regular": "1.67",
+      "Direct": "0.55"
+    },
+    "exit_load": "For redemption / switch out of upto 10%of the initial investment amount (limit) purchased or switched in within 1 year fromthe date of allotment: Nil. If units redeemed or switched out are in excess of the limit within 1 year from the date ofallotment: 1% If units are redeemed or switched out on or after 1 year from the date of allotment: NIL Units issued onreinvestment of IDCW shall not be subject to entry and exit load.",
+    "amfi_codes": [
+      "120164",
+      "120163",
+      "null",
+      "102875",
+      "null",
+      "102874"
+    ],
+    "isins": [
+      "INF174K01KT2",
+      "INF174K01KU0",
+      "INF174K01KV8",
+      "INF174K01211",
+      "INF174K01237",
+      "INF174K01229"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan-G",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCW Re-investment",
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-13T14:52:42.645412+00:00"
+}

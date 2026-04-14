@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Sundaram Overnight Fund",
+  "source_file": "SUMMARY_Sundaram Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Sundaram Overnight Fund",
+    "fund_type": "An open ended debt scheme investing in overnight securities. A relatively low interest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW)",
+      "Direct Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW)",
+      "Regular Plan - Growth",
+      "Regular Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW)",
+      "Regular Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW)"
+    ],
+    "riskometer": "Low Risk",
+    "investment_objective": "To generate income by investing in debt, money market instruments, cash and cash equivalents with overnight maturity /maturing in one business day . No Guarantee: Investors are neither being oﬀered any guaranteed/indicated returns nor anyguarantee on repayment of capital by the Scheme. There is also no guarantee of capital or return either by the mutual fund orby the sponsor or by the Asset management Company.",
+    "asset_allocation": "Debt, Money Market instruments, Cash and Cash equivalents with overnight maturity / maturing in one business day Upto -100%",
+    "benchmark": "Nifty 1D Rate Index",
+    "fund_managers": "FM1: Mr. Sandeep Agarwal; FM2 - Mr. Dwijendra Srivastava; FM3 - Mr. Yash Pankaj Sanghvi",
+    "annual_expense": {
+      "Regular": "0.17",
+      "Direct": "0.07"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "146957",
+      "146959",
+      "146960",
+      "146961",
+      "146962",
+      "146963"
+    ],
+    "isins": [
+      "INF903JA1HG5",
+      "INF903JA1HH3",
+      "INF903JA1HM3",
+      "INF903JA1GZ7",
+      "INF903JA1HA8",
+      "INF903JA1HF7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW)",
+    "Direct Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW)",
+    "Regular Plan - Growth",
+    "Regular Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW)",
+    "Regular Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW)"
+  ],
+  "extracted_at": "2026-04-13T16:07:41.399479+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "parent_scheme_name": "Motilal Oswal Nasdaq 100 ETF",
+  "source_file": "SUMMARY_Motilal Oswal Nasdaq 100 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal Nasdaq 100 ETF",
+    "fund_type": "ETF",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme seeks investment return that corresponds (before fees and expenses) generally to the performance of the Nasdaq 100 TRI Index, subject to tracking",
+    "asset_allocation": "Securities constituting NASDAQ-100 Index - Overseas Debt and Money market instruments, and cash at call, mutual fund schemes or exchange traded funds based on",
+    "benchmark": "^NASDAQ 100 TRI (INR)",
+    "fund_managers": [
+      {
+        "name": "Mr. Ankush Sood",
+        "type": "For Equity Component",
+        "from_date": "29-Mar-11"
+      }
+    ],
+    "annual_expense": {
+      "Direct": "1"
+    },
+    "exit_load": "Yes",
+    "amfi_codes": [
+      "114984"
+    ],
+    "isins": [
+      "INF247L01AP3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:17:35.741121+00:00"
+}

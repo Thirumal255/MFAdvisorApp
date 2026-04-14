@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "Mahindra Manulife Flexi Cap Fund",
+  "source_file": "SUMMARY_Mahindra Manulife Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mahindra Manulife Flexi Cap Fund",
+    "fund_type": "An open ended dynamic equity scheme investing across large cap, mid cap, small cap stocks",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate long term capital appreciation by investing in a diversified portfolio of equity and equity-related securities across market capitalization. However, there can be no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments ^: 65% - 100%, Debt and Money Market Securities (including TREPS (Tri-Party Repo), Reverse Repo): 0% - 35%, Units issued by REITs & InvITs: 0% - 10% ^ including derivative instruments to the extent of 50% of the Net Assets of the Scheme. Investment in derivatives shall be for hedging, portfolio balancing and such other purposes as may be permitted from time to time under the Regulations and subject to guidelines issued by SEBI/RBI from time to time. Note: For detailed Asset Allocation please refer Scheme Information Document of the Scheme available on our website www.mahindramanulife.com",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": [
+      "FM-1 Ms. Fatema Pacha",
+      "FM-2 Mr. Manish Lodha"
+    ],
+    "annual_expense": {
+      "Regular": "2.07",
+      "Direct": "0.41"
+    },
+    "exit_load": "1%",
+    "amfi_codes": [
+      "149104",
+      "149103",
+      "149101",
+      "149102"
+    ],
+    "isins": [
+      "INF174V01AS2",
+      "INF174V01AT0",
+      "INF174V01AP8",
+      "INF174V01AQ6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-13T15:01:33.767488+00:00"
+}

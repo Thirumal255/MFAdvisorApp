@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Abakkus Flexi Cap Fund",
+  "source_file": "SUMMARY_Abakkus Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Abakkus Flexi Cap Fund",
+    "fund_type": "An open ended dynamic equity scheme investing across large cap, mid cap, small cap stocks.",
+    "fund_options": [
+      "Abakkus Flexi Cap Fund - Regular Plan - Growth",
+      "Abakkus Flexi Cap Fund - Regular Plan - IDCW",
+      "Abakkus Flexi Cap Fund - Regular Plan - IDCW Reinvestment",
+      "Abakkus Flexi Cap Fund - Direct Plan - Growth",
+      "Abakkus Flexi Cap Fund - Direct Plan - IDCW",
+      "Abakkus Flexi Cap Fund - Direct Plan - IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF2JJD01169",
+      "INF2JJD01151",
+      "INF2JJD01144",
+      "INF2JJD01136",
+      "INF2JJD01128",
+      "INF2JJD01110"
+    ],
+    "amfi_codes": [
+      "154041",
+      "154042",
+      null,
+      "154043",
+      "154045",
+      null
+    ],
+    "riskometer": "Very High risk",
+    "investment_objective": "The primary investment objective of the scheme is to generate capital appreciation & provide long-term growth opportunitiesthrough equity and equity related instruments by investing in a diversiﬁed portfolio of large cap, mid cap and small capsecurities and the secondary objective is to generate consistent returns by investing in debt and money market securities.“There is no assurance that the investment objective of the Scheme will be achieved.”",
+    "asset_allocation": "Equity and Equity-related instruments of large cap, mid cap and small cap companies - 65% to 100% Debt & Money MarketInstruments - 0% to 35% Units issued by REITs & InvITs - 0-10% Units of mutual fund schemes- 0-5%",
+    "benchmark": "BSE 500 Index (TRI)",
+    "fund_managers": "Mr. Sanjay Doshi",
+    "annual_expense": {
+      "Regular": "1.95",
+      "Direct": "0.47"
+    },
+    "exit_load": "If units redeemed or switched out are upto 10% (limit) of the units purchased or switched in within 3 months from the date ofallotment – Nil. If units redeemed or switched out are over and above the 10% (limit) within 3 months from the date ofallotment – 1% of the applicable NAV,If redeemed/switched out after 3 months from the date of allotment – Nil No load willbe charged on units issued upon re-investment of amount of distribution under same IDCW option"
+  },
+  "fund_options_inferred": [
+    "Abakkus Flexi Cap Fund - Regular Plan - Growth",
+    "Abakkus Flexi Cap Fund - Regular Plan - IDCW",
+    "Abakkus Flexi Cap Fund - Regular Plan - IDCW Reinvestment",
+    "Abakkus Flexi Cap Fund - Direct Plan - Growth",
+    "Abakkus Flexi Cap Fund - Direct Plan - IDCW",
+    "Abakkus Flexi Cap Fund - Direct Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T12:09:37.443380+00:00"
+}

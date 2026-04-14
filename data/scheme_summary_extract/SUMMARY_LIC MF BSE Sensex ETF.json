@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "LIC MF BSE Sensex ETF",
+  "source_file": "SUMMARY_LIC MF BSE Sensex ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "LIC MF BSE Sensex ETF",
+    "fund_type": "An open ended scheme replicating/tracking Sensex Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, closely correspond to the total returns of the securities as represented by the BSE SENSEX by holding BSE SENSEX stocks in same proportion, subject to tracking errors. There is no assurance that the objective of the scheme will be achieved.",
+    "asset_allocation": "Securities covered by the S&P BSE SENSEX: 95-100%, Cash and cash equivalent /Money Market instruments including Triparty Repo (with maturity not exceeding 91 days): 0-5%. Please refer the Scheme Information Document for complete details.",
+    "benchmark": "BSE Sensex TRI",
+    "fund_managers": "Mr. Sumit Bhatnagar",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "135672"
+    ],
+    "isins": [
+      "INF767K01OT5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T14:54:14.358036+00:00"
+}

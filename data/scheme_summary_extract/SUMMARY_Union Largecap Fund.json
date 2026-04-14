@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Union Largecap Fund",
+  "source_file": "SUMMARY_Union Largecap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Union Largecap Fund",
+    "fund_type": "Large Cap Fund – An open ended equity scheme predominantly investing in large cap stocks",
+    "fund_options": [
+      "Growth - Regular Plan",
+      "Growth - Direct Plan",
+      "IDCW Payout - Regular Plan",
+      "IDCW Payout - Direct Plan",
+      "IDCW Reinvestment - Regular Plan",
+      "IDCW Reinvestment - Direct Plan",
+      "IDCW Transfer - Regular Plan",
+      "IDCW Transfer - Direct Plan"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to seek to generate capital appreciation by investing in a portfolio of select equity and equity linked securities of large cap companies. However, there can be no assurance that the Investment Objective of the scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments predominantly** of large cap companies#:80% - 100% of net assets; Debt, Money Market instruments and Cash Equivalent: 0%-20% of net asssets; 0% - 10% - Units issued by InvITs (**Provided a minimum of 80% will be invested in large cap companies. # Large cap companies are companies which have a market capitalization of upto the top 100th listed company in terms of full market capitalisation as prescribed under SEBI circular no.SEBI/HO/IMD/DF3/CIR/P/2017/114 dated October 06, 2017 as amended from time to time.) Please refer the Scheme Information Document for more details.",
+    "benchmark": "BSE 100 Index (TRI)",
+    "fund_managers": "FM 1 - Mr. Pratik Dharmshi, FM 2 - Mr. Sanjay Bembalkar",
+    "annual_expense": {
+      "Regular": "2.54",
+      "Direct": "1.73"
+    },
+    "exit_load": "1% if units are redeemed or switched out on or before completion of 15 days from the date of allotment. Nil thereafter.",
+    "amfi_codes": [
+      "141247",
+      "141248",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "isins": [
+      "INF582M01CQ5",
+      "INF582M01CU7",
+      "INF582M01CR3",
+      "INF582M01CV5",
+      "INF582M01CS1",
+      "INF582M01CW3",
+      "INF582M01CX1",
+      "INF582M01CT9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth - Regular Plan",
+    "Growth - Direct Plan",
+    "IDCW Payout - Regular Plan",
+    "IDCW Payout - Direct Plan",
+    "IDCW Reinvestment - Regular Plan",
+    "IDCW Reinvestment - Direct Plan",
+    "IDCW Transfer - Regular Plan",
+    "IDCW Transfer - Direct Plan"
+  ],
+  "extracted_at": "2026-04-13T16:24:55.077133+00:00"
+}

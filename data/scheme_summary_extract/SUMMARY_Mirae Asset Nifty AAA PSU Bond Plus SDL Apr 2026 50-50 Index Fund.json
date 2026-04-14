@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Mirae Asset Nifty AAA PSU Bond Plus SDL Apr 2026 50:50 Index Fund",
+  "source_file": "SUMMARY_Mirae Asset Nifty AAA PSU Bond Plus SDL Apr 2026 50-50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Nifty AAA PSU Bond Plus SDL Apr 2026 50:50 Index Fund",
+    "fund_type": "An open-ended target maturity Index Fund investing in the constituents of Nifty AAA PSU Bond Plus SDL Apr 2026 50:50Index. A scheme with relatively high interest rate risk and relatively low credit risk)",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular PlanIDCW - Payout",
+      "Regular PlanIDCW -Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "isins": [
+      "INF769K01JD5",
+      "INF769K01JC7",
+      "INF769K01JE3",
+      "INF769K01IZ0",
+      "INF769K01JB9",
+      "INF769K01JA1"
+    ],
+    "amfi_codes": [
+      "150788",
+      "150787",
+      "150785",
+      "150786",
+      null,
+      null
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the scheme is to track the Nifty AAA PSU Bond Plus SDL Apr 2026 50:50 Index by investing in AAArated Public Sector Undertaking (PSU) Bonds and State Development Loans (SDL), maturing on or before April 30, 2026,subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be realized andthe Scheme does not assure or guarantee any returns",
+    "asset_allocation": "Bonds issued by AAA rated Public Sector Undertaking (PSU) and State Development Loans (SDLs) representing Nifty AAA PSUBond Plus SDL Apr 2026 50:50 Index - 95 to 100% Money Market instruments (Treasury Bills, Government Securities and Tri-party Repo on government securities or T-bills Only) - 0 to 5%",
+    "benchmark": "Nifty AAA PSU Bond Plus SDL Apr 2026 50:50 Index",
+    "fund_managers": "Mr. Basant Bafna",
+    "annual_expense": {
+      "Regular": "0.36",
+      "Direct": "0.13"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular PlanIDCW - Payout",
+    "Regular PlanIDCW -Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-13T15:11:13.755479+00:00"
+}

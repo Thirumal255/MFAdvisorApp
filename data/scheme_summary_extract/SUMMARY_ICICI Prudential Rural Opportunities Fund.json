@@ -1,0 +1,54 @@
+{
+  "parent_scheme_name": "ICICI Prudential Rural Opportunities Fund",
+  "source_file": "SUMMARY_ICICI Prudential Rural Opportunities Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Rural Opportunities Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Rural Opportunities Fund - Growth",
+      "ICICI Prudential Rural Opportunities Fund - IDCW",
+      "ICICI Prudential Rural Opportunities Fund - IDCW Payout",
+      "ICICI Prudential Rural Opportunities Fund - Direct Plan - Growth",
+      "ICICI Prudential Rural Opportunities Fund - Direct Plan - IDCW",
+      "ICICI Prudential Rural Opportunities Fund - Direct Plan - IDCW Payout"
+    ],
+    "isins": [
+      "INF109KC19Y7",
+      "INF109KC10Z3",
+      "INF109KC11Z1",
+      "INF109KC12Z9",
+      "INF109KC13Z7",
+      "INF109KC14Z5"
+    ],
+    "amfi_codes": [
+      "153181",
+      "153182",
+      "null",
+      "153184",
+      "153183",
+      "null"
+    ],
+    "riskometer": "Very High\nAs on December 31 ,2025",
+    "investment_objective": "To generate long-term capital appreciation by investing in Equity & Equity related instruments of companies following Rural and/or allied theme.\nHowever, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "•Equity & Equity related instruments of companies following Rural and/or Allied theme = 80% - 100%\n•Other Equity and Equity related instruments = 0%- 20%\n•Debt & Money market instruments =0% - 20%\n•Units issued by INVITs =0%- 10%",
+    "benchmark": "Nifty Rural TRI",
+    "fund_managers": [
+      "Ms. Priyanka Khandelwal"
+    ],
+    "annual_expense": {
+      "Regular": "2.05",
+      "Direct": "0.93"
+    },
+    "exit_load": "• 1% of applicable Net Asset Value - If the amount sought to be redeemed or switch out within 12 months from allotment.\n• NIL - If the amount sought to be redeemed or switched out more than 12 months."
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Rural Opportunities Fund - Growth",
+    "ICICI Prudential Rural Opportunities Fund - IDCW",
+    "ICICI Prudential Rural Opportunities Fund - IDCW Payout",
+    "ICICI Prudential Rural Opportunities Fund - Direct Plan - Growth",
+    "ICICI Prudential Rural Opportunities Fund - Direct Plan - IDCW",
+    "ICICI Prudential Rural Opportunities Fund - Direct Plan - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T14:21:13.123413+00:00"
+}

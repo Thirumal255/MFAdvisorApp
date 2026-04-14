@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Bank of India Multi Allocation Fund",
+  "source_file": "SUMMARY_Bank of India Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bank of India Multi Allocation Fund",
+    "fund_type": "An open ended scheme investing in Equity, Debt and Gold ETF",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Direct Plan-IDCW",
+      "Direct Plan-IDCW Reinvestment",
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW",
+      "Regular Plan-IDCW Reinvestment"
+    ],
+    "riskometer": "High",
+    "investment_objective": "The investment objective of the scheme is to seek long term capital growth by predominantly investing in equity and equityrelated securities, debt & money market instruments and Gold ETF. However, there can be no assurance that the investmentobjectives of the Scheme will be realized. The Scheme does not guarantee/ indicate any returns.",
+    "asset_allocation": "Equity & Equity related Instruments-35%-40%-Very High Debt & Money Market Instruments-45%-55%-Low to Medium GoldETF-10%-15%-High Units of REITs / INVITs-0% -10%-Very High",
+    "benchmark": "37.50% of Nifty 500 TRI + 50% of Nifty Composite Debt Index + 12.50% of Domestic Prices of Gold",
+    "fund_managers": "Mr. Mithraem Bharucha & Mr. Nilesh Jethani",
+    "annual_expense": {
+      "Regular": "2.02",
+      "Direct": "0.89"
+    },
+    "exit_load": "For redemption/switch out Upto 10% of the initial units allotted - within 1 year from the date of allotment: “NIL” • Anyredemption/switch out in excess of the above mentioned limit would be subject to an exit load of 1%, if the units areredeemed/ switched out within 1 year from the date of allotment of units. • If the units are redeemed/switched out after 1year from the date of allotment of units : “Nil”",
+    "amfi_codes": [
+      "152399",
+      "152396",
+      "152395",
+      "152398"
+    ],
+    "isins": [
+      "INF761K01FZ3",
+      "INF761K01GA4",
+      "INF761K01GB2",
+      "INF761K01FW0",
+      "INF761K01FX8",
+      "INF761K01FY6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Direct Plan-IDCW",
+    "Direct Plan-IDCW Reinvestment",
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW",
+    "Regular Plan-IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T12:49:10.286297+00:00"
+}

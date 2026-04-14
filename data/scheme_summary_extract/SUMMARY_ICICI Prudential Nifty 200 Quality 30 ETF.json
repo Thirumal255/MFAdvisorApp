@@ -1,0 +1,34 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty 200 Quality 30 ETF",
+  "source_file": "SUMMARY_ICICI Prudential Nifty 200 Quality 30 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty 200 Quality 30 ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns before expenses that correspond to the total return of the underlying index subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved",
+    "asset_allocation": "Equity and Equity related securities of companies constituting the underlying index (NIFTY200 Quality 30 Index) = 95-100%\nMoney market instruments including TREPs = 0 - 5%",
+    "benchmark": "NIFTY200 Quality 30 TRI",
+    "fund_managers": [
+      "Ashwini Bharucha",
+      "Nishit Patel"
+    ],
+    "annual_expense": {
+      "Direct": "0.30"
+    },
+    "exit_load": "There will be no exit load for units sold through the secondary market on the stock exchanges where the Scheme will be listed.",
+    "amfi_codes": [
+      "5027"
+    ],
+    "isins": [
+      "INF109KC18V5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T14:15:52.246653+00:00"
+}

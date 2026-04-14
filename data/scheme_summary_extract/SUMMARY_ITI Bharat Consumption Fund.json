@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "ITI Bharat Consumption Fund",
+  "source_file": "SUMMARY_ITI Bharat Consumption Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ITI Bharat Consumption Fund",
+    "fund_type": "An open ended equity scheme following consumption theme",
+    "fund_options": [
+      "Regular Plan-Growth Option",
+      "Regular Plan-Income Distribution cum Capital Withdrawal (IDCW) Option (with Payout of IDCW option)",
+      "Regular Plan-Income Distribution cum Capital Withdrawal (IDCW) Option (with Reinvestment of IDCW option)",
+      "Direct Plan-Growth Option",
+      "Direct Plan-Income Distribution cum Capital Withdrawal (IDCW) Option (with Payout of IDCW option)",
+      "Direct Plan-Income Distribution cum Capital Withdrawal (IDCW) Option (with Reinvestment of IDCW option)"
+    ],
+    "isins": [
+      "INF00XX01DD8",
+      "INF00XX01DE6",
+      "INF00XX01DF3",
+      "INF00XX01DG1",
+      "INF00XX01DH9",
+      "INF00XX01DI7"
+    ],
+    "amfi_codes": [
+      "153260",
+      "153261",
+      "153262",
+      "153263",
+      null,
+      null
+    ],
+    "riskometer": "Very High risk",
+    "investment_objective": "To generate long-term capital appreciation by investing primarily in Equity and Equity related securities of companies engaged in consumption and consumption related activities or allied sectors. However, there can be no assurance that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Equity, Units issued by REITs and Equity Related Instruments of companies engaged in consumption and consumption related activities or allied sectors 80%-100%, Other equity and equity related securities 0%-20%, Debt and Money Market Instruments 0%-20%, Units issued by InvITs 0%-10%",
+    "benchmark": "Nifty India Consumption (TRI)",
+    "fund_managers": "Mr. Rohan Korde, Mr. Dhimant Shah and Mr. Rajesh Bhatia to act as a fund manager for overseas investments.",
+    "annual_expense": {
+      "Regular": "2.38",
+      "Direct": "0.74"
+    },
+    "exit_load": "0.50% if redeemed or switched out on or before completion of 3 months from the date of allotment of units. Nil, if redeemed or switched out after completion of 3 months from the date of allotment of units."
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth Option",
+    "Regular Plan-Income Distribution cum Capital Withdrawal (IDCW) Option (with Payout of IDCW option)",
+    "Regular Plan-Income Distribution cum Capital Withdrawal (IDCW) Option (with Reinvestment of IDCW option)",
+    "Direct Plan-Growth Option",
+    "Direct Plan-Income Distribution cum Capital Withdrawal (IDCW) Option (with Payout of IDCW option)",
+    "Direct Plan-Income Distribution cum Capital Withdrawal (IDCW) Option (with Reinvestment of IDCW option)"
+  ],
+  "extracted_at": "2026-04-13T14:31:12.301025+00:00"
+}

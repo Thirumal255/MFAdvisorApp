@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE NIFTY INDIA DEFENCE INDEX FUND",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Nifty India Defence Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE NIFTY INDIA DEFENCE INDEX FUND",
+    "fund_type": "An open ended Index Fund replicating the Nifty India Defence Total Return Index",
+    "fund_options": [
+      "Direct Growth",
+      "Direct IDCW Payout",
+      "Regular IDCW Payout",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to provide returns that, before expenses, correspond to the total returns of securities as represented by the Nifty India Defence Total Return Index, subject to tracking errors. The Scheme does not guarantee/indicate any returns. There is no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related securities constituting the Nifty India Defence Index  - 95 to 100% \nDebt and Money Market Instruments (including Cash and Cash Equivalent) - 0 to 5%",
+    "benchmark": "Nifty India Defence Total Return Index",
+    "fund_managers": "Ms. Priya Sridhar",
+    "annual_expense": {
+      "Regular": "1.05",
+      "Direct": "0.40"
+    },
+    "exit_load": "For redemption / switch-out of units on or before 30 days from the date of allotment: 0.05% of applicable NAV. For redemption / switch-out of units after 30 days from the date of allotment: Nil.",
+    "amfi_codes": [
+      "152798",
+      "152799",
+      "152801",
+      "152800"
+    ],
+    "isins": [
+      "INF209KC1183",
+      "INF209KC1191",
+      "INF209KC1167",
+      "INF209KC1159"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Direct IDCW Payout",
+    "Regular IDCW Payout",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T12:21:20.852364+00:00"
+}

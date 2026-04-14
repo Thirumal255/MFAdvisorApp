@@ -1,0 +1,33 @@
+{
+  "parent_scheme_name": "HDFC Children's Fund",
+  "source_file": "SUMMARY_HDFC Children's Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Children's Fund",
+    "fund_type": "An open ended fund for investment for children having a lock-in period for atleast 5 years or till the child attains age ofmajority(whichever is earlier)",
+    "fund_options": [
+      "Growth Plan",
+      "Direct Plan"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "To generate capital appreciation / income from a portfolio of equity & equity related instruments. There is no assurance that theinvestment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related Instruments: 65% -80% Debt Securities (including securitised debt) and money market instruments:20%-35% Units issued by InvITs: 0%-10% Non-convertible preference shares: 0%-10% For detailed asset allocation, refer SchemeInformation Document (SID) available on the website",
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 65:35 Index (Total Returns Index)",
+    "fund_managers": "FM 1 - Mr.Chirag Setalvad, FM 2 - Mr. Dhruv Muchhal, FM 3 - Mr. Anil Bamboli",
+    "annual_expense": {
+      "Regular": "1.74",
+      "Direct": "0.91"
+    },
+    "exit_load": "(i) For existing investments by investors including SIP / SWAP registrations, etc (until May 22, 2018). In respect of units subject tolockin period: Nil In case of Units not subject to Lock-in Period: -3% if the Units are redeemed / switched-out within one year fromthe date of allotment. - 2% if the Units are redeemed / switched-out between ﬁrst and second year of the date of allotment. - 1%if the Units are redeemed / switched-out between second and third year of the date of allotment. - Nil if the Units are redeemed/ switched-out after third year from the date of allotment (ii) Fresh investments by investors including SIP/ SWAP registrations, etc(eﬀective May 23, 2018): Nil",
+    "amfi_codes": [
+      "100900",
+      "119066"
+    ],
+    "isins": []
+  },
+  "fund_options_inferred": [
+    "Growth Plan",
+    "Direct Plan"
+  ],
+  "extracted_at": "2026-04-13T13:40:56.782345+00:00"
+}

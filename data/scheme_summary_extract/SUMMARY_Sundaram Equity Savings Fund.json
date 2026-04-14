@@ -1,0 +1,51 @@
+{
+  "parent_scheme_name": "Sundaram Equity Savings Fund",
+  "source_file": "SUMMARY_Sundaram Equity Savings Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Sundaram Equity Savings Fund",
+    "fund_type": "An open ended scheme investing in equity,arbitrage and debt.",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW Payout",
+      "Direct Plan IDCW Reinvestment",
+      "Regular Plan Growth",
+      "Regular Plan IDCW Payout",
+      "Regular Plan IDCW Reinvestment"
+    ],
+    "riskometer": "Moderatley Risk",
+    "investment_objective": "An open ended scheme investing in equity, arbitrage and debt.The investment objective of the Scheme is to provide capitalappreciation and income distribution to the investors by using equity and equity related instruments, arbitrage opportunities,and investments in debt and money market instruments",
+    "asset_allocation": "Equity & Equity related 25% 50% high securities in Large Cap companies Equity & Equity related 25% 50% high securities in MidCap companies Equity & Equity related 25% 50% high securities in Small Cap companies Fixed Income and Money 0% 25% Lowto Market Instruments^ Medium / Cash & Cash equivalents",
+    "benchmark": "Nifty Equity Savings Index",
+    "fund_managers": "FM 1 -Mr. Sudhir Kedia, FM 2 -Mr. Rohit Seksaria, FM 3 -Mr. Dwijendra Srivastava",
+    "annual_expense": {
+      "Regular": "2.25"
+    },
+    "exit_load": "Nil - If up to 25% of the units invested are redeemed, withdrawn by way of SWP or transferred by way of STP within 365 daysfrom the date of allotment.If more than 25%of the units are redeemed, withdrawn by way of SWP or transferred by way of STPwithin 365 days from the date of allotment - exit load of 1% of the applicable NAV will be charged",
+    "amfi_codes": [
+      "149674",
+      "149675",
+      "149676",
+      "149677",
+      "149678",
+      "149679"
+    ],
+    "isins": [
+      "INF903JA1GK9",
+      "INF903JA1GL7",
+      "INF903JA1GM5",
+      "INF903JA1Gh5",
+      "INF903JA1GI3",
+      "INF903JA1GJ1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW Payout",
+    "Direct Plan IDCW Reinvestment",
+    "Regular Plan Growth",
+    "Regular Plan IDCW Payout",
+    "Regular Plan IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T16:05:05.220826+00:00"
+}

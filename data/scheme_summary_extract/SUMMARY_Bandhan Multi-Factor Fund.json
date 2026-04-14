@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Bandhan Multi-Factor Fund",
+  "source_file": "SUMMARY_Bandhan Multi-Factor Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Multi-Factor Fund",
+    "fund_type": "An open ended equity scheme investing based on an adaptive and evolving multi-factor quantitative model theme",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The scheme seeks to generate medium to long term capital appreciation by investing predominantly in equity and equityrelated instruments selected based on a multi-factor quantitative model. Disclaimer: There is no assurance or guarantee thatthe investment objective of the scheme will be realised.",
+    "asset_allocation": "Equity & equity related instruments selected based on the Multi-Factor quantitative model theme - 80%-100%, Otherequities & equity related securities - 0% - 20% Debt Securities and Money Market Instruments (including Governmentsecurities, Securitised debt) - 0% - 20% Units issued by InvITs - 0% - 10%",
+    "benchmark": "BSE 200 TRI",
+    "fund_managers": "Mr. Rishi Sharma, Mr. Brijesh Shah",
+    "annual_expense": {
+      "Regular": "2.35",
+      "Direct": "0.76"
+    },
+    "exit_load": "• If redeemed/switched out on or within 30 days from the date of allotment: 0.50% of the applicable NAV • Ifredeemed/switched out after 30 days from date of allotment – Nil",
+    "amfi_codes": [
+      "153720",
+      "153722",
+      "153723",
+      "153721"
+    ],
+    "isins": [
+      "INF194KB1JY8",
+      "INF194KB1JX0",
+      "INF194KB1JV4",
+      "INF194KB1JU6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:44:37.638144+00:00"
+}

@@ -1,0 +1,42 @@
+{
+  "parent_scheme_name": "Motilal Oswal Nifty 500 Momentum 50 ETF",
+  "source_file": "SUMMARY_Motilal Oswal Nifty 500 Momentum 50 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal Nifty 500 Momentum 50 ETF",
+    "fund_type": "An open-ended fund replicating/tracking the Nifty 500 Momentum 50 Total Return Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, correspond to the total returns of the securities as represented by Nifty 500 Momentum 50 Total Return Index, subject to tracking error. However, there can be no assurance or guarantee that the investment objectives of the scheme will be achieved.",
+    "asset_allocation": "Constituents of Nifty 500 Momentum 50 Index, Units of Liquid schemes and Money Market instruments",
+    "benchmark": "Nifty 500 Momentum 50 Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Rakesh Shetty",
+        "type": "For Debt Component",
+        "from_date": "Since Inception"
+      }
+    ],
+    "annual_expense": {
+      "Direct": "1.00"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "152874"
+    ],
+    "isins": [
+      "INF247L01DK8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:18:19.049768+00:00"
+}

@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND",
+  "source_file": "SUMMARY_BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND",
+    "fund_type": "An Open ended Hybrid Scheme investing predominantly in debt instruments.",
+    "fund_options": [
+      "REGULAR PLAN - MONTHLY IDCW REINVESTMENT",
+      "REGULAR PLAN - MONTHLY IDCW PAYOUT",
+      "REGULAR PLAN -GROWTH",
+      "DIRECT PLAN - QTLY IDCW REINVESTMENT",
+      "DIRECT PLAN - QTLY IDCW PAYOUT",
+      "DIRECT PLAN - MONTHLY IDCW REINVESTMENT",
+      "DIRECT PLAN - MONTHLY IDCW PAYOUT",
+      "REGULAR PLAN - QTLY IDCW REINVESTMENT",
+      "REGULAR PLAN - QTLY IDCW PAYOUT",
+      "DIRECT PLAN - GROWTH"
+    ],
+    "isins": [
+      "INF251K01860",
+      "INF251K01852",
+      "INF251K01845",
+      "INF251K01HV0",
+      "INF251K01HU2",
+      "INF251K01HT4",
+      "INF251K01HS6",
+      "INF251K01886",
+      "INF251K01878",
+      "INF251K01HR8"
+    ],
+    "amfi_codes": [
+      "150204",
+      "150204",
+      "150203",
+      "150208",
+      "150208",
+      "150207",
+      "150207",
+      "150205",
+      "150205",
+      "150206"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The primary objective of the Scheme is to generate regular returns through investments primarily in Debt and Money MarketInstruments. The secondary objective of the Scheme is to generate long-term capital appreciation by investing a portion of theScheme's assets in equity and equity related securities. However, there can be no assurance that the investment objectives ofthe Scheme will be realized. The Scheme does not guarantee/indicate any returns.",
+    "asset_allocation": "Debt Instruments & Money Market Instruments (including cash / call money): 75% - 90% Equity & Equity related securities:10% - 25% Units issued by REITs & InvITs: 0% - 10%",
+    "benchmark": "CRISIL Hybrid 85+15 – Conservative Index",
+    "fund_managers": "Mr. Pratish Krishnan and Mr. Ankeet Pandya (ForEquity Portfolio) & Mr. Gurvinder Singh Wasan and Mr. Prashant Pimple (ForFixed Income Portfolio)",
+    "annual_expense": {
+      "Regular": "1.99",
+      "Direct": "0.51"
+    },
+    "exit_load": "1.00%, if redeemed or switched-out upto 6 months from the date of allotment of units, Nil, if redeemed or switched-out after 6months from the date of allotment of units."
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN - MONTHLY IDCW REINVESTMENT",
+    "REGULAR PLAN - MONTHLY IDCW PAYOUT",
+    "REGULAR PLAN -GROWTH",
+    "DIRECT PLAN - QTLY IDCW REINVESTMENT",
+    "DIRECT PLAN - QTLY IDCW PAYOUT",
+    "DIRECT PLAN - MONTHLY IDCW REINVESTMENT",
+    "DIRECT PLAN - MONTHLY IDCW PAYOUT",
+    "REGULAR PLAN - QTLY IDCW REINVESTMENT",
+    "REGULAR PLAN - QTLY IDCW PAYOUT",
+    "DIRECT PLAN - GROWTH"
+  ],
+  "extracted_at": "2026-04-13T12:51:26.828481+00:00"
+}

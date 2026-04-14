@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "DSP Gold ETF",
+  "source_file": "SUMMARY_DSP Gold ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP Gold ETF",
+    "fund_type": "An open ended exchange traded fund replicating/tracking domestic prices of Gold.",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "High",
+    "investment_objective": "The scheme seeks to generate returns that are in line with the performance of physical gold in domestic prices, subject to tracking error. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "1. Gold and Gold Related Instruments - 95% to 100% 2. Cash and Cash Equivalents - 0% to 5%",
+    "benchmark": "Domestic Price of Physical Gold (based on London Bullion Market association (LBMA) Gold daily spot fixing price.)",
+    "fund_managers": "Mr. Ravi Gehani",
+    "annual_expense": {
+      "Direct": "0.45"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "151737"
+    ],
+    "isins": [
+      "INF740KA1SW3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T13:09:14.430374+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "Kotak Overnight Fund",
+  "source_file": "SUMMARY_Kotak Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Overnight Fund",
+    "fund_type": "An open ended debt scheme investing in overnight securities. A relatively low interest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan-Daily IDCW Reinvestment",
+      "Regular Plan-Growth",
+      "Regular Plan-Daily IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF174KA1BF9",
+      "INF174KA1BE2",
+      "INF174KA1BC6",
+      "INF174KA1BB8"
+    ],
+    "amfi_codes": [
+      "146141",
+      "146140",
+      "146142",
+      "146138"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The primary objective of the Scheme is to generate income through in income through investment in debt & money marketinstruments having maturity of one business day (including Triparty repo on Government securities or treasury bills, ReverseRepo and equivalent). However, there is no assurance or guarantee that the investment objective of the scheme will beachieved.",
+    "asset_allocation": "Debt & money market instruments*having maturity of one business day (including Triparty repo on Government securities ortreasury bills, Reverse Repo and equivalent) - 0 - 100% - Low",
+    "benchmark": "NIFTY 1D Rate Index",
+    "fund_managers": [
+      "FM 1 Mr. Deepak Agrawal",
+      "FM2 Mr. Sunil Pandey"
+    ],
+    "annual_expense": {
+      "Regular": "0.16",
+      "Direct": "0.07"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan-Daily IDCW Reinvestment",
+    "Regular Plan-Growth",
+    "Regular Plan-Daily IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T14:51:47.403531+00:00"
+}

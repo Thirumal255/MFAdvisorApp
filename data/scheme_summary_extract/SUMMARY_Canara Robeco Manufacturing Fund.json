@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Canara Robeco Manufacturing Fund",
+  "source_file": "SUMMARY_Canara Robeco Manufacturing Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Canara Robeco Manufacturing Fund",
+    "fund_type": "An open-ended equity scheme following Manufacturing theme",
+    "fund_options": [
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct -Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular -Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long-term capital appreciation by investing predominantly in equities and equity related instruments of companies engaged in the Manufacturing theme. However, there can be no assurance that the investment objective of the scheme will be realized.",
+    "asset_allocation": "Equity and Equity-related Instruments of companies engaged in Manufacturing theme 80% to 100% Equity and Equity-related Instruments of companies other than engaged in Manufacturing theme 0% to 20% Debt and Money Market Instruments 0% to 20% Units issued by InvITs 0% to 10%",
+    "benchmark": "Nifty India Manufacturing TRI",
+    "fund_managers": "Mr. Pranav Gokhale / Mr. Shridatta Bhandwaldar",
+    "annual_expense": {
+      "Regular": "2.12",
+      "Direct": "0.82"
+    },
+    "exit_load": "1% - if redeemed/switched out within 365 days from the date of allotment. Nil - if redeemed/switched out after 365 days from the date of allotment.",
+    "amfi_codes": [
+      "152449",
+      "152449",
+      "152450",
+      "152448",
+      "152448",
+      "152447"
+    ],
+    "isins": [
+      "INF760K01KY8",
+      "INF760K01KX0",
+      "INF760K01KZ5",
+      "INF760K01KW2",
+      "INF760K01KV4",
+      "INF760K01KU6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct -Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular -Growth"
+  ],
+  "extracted_at": "2026-04-13T13:02:16.339280+00:00"
+}

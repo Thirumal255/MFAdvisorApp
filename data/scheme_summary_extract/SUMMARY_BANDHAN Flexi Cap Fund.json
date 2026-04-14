@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Bandhan Flexi Cap Fund",
+  "source_file": "SUMMARY_BANDHAN Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Flexi Cap Fund",
+    "fund_type": "An open ended equity scheme investing across large cap, mid cap and small cap stocks",
+    "fund_options": [
+      "Direct - Growth",
+      "Direct - IDCW",
+      "Regular - Growth",
+      "Regular - IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme shall seek to generate long-term capital growth by investing in a diversiﬁed portfolio of equity and equity related instruments across market capitalization – large cap, mid cap and small cap, ﬁxed income securities and money market instruments.",
+    "asset_allocation": "Equities & Equity related instruments of Large cap, Mid cap, Small cap companies - 65%-100%, Debt & Money Market instruments - 0%-35%, Securitised Debt instruments - 0%-35%",
+    "benchmark": "BSE 500 TRI",
+    "fund_managers": "Mr. Manish Gunwani & Mr. Viraj Kulkarni",
+    "annual_expense": {
+      "Regular": "1.85",
+      "Direct": "1.12"
+    },
+    "exit_load": "If redeemed / Switched Out within 365 days from the date of allotment - Up to 10% of Investment Nil & For remaining Investment: 1.00%. If redeemed / switched out after 365 days from the date of allotment: Nil.",
+    "amfi_codes": [
+      "118424",
+      "118423",
+      "108594",
+      "108595"
+    ],
+    "isins": [
+      "INF194K01W62",
+      "INF194K01W70",
+      "INF194K01391",
+      "INF194K01409"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct - Growth",
+    "Direct - IDCW",
+    "Regular - Growth",
+    "Regular - IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:41:49.605450+00:00"
+}

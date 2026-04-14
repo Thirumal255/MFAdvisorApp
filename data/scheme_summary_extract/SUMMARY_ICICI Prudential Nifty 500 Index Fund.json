@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty 500 Index Fund",
+  "source_file": "SUMMARY_ICICI Prudential Nifty 500 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty 500 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Nifty 500 Index Fund - Growth",
+      "ICICI Prudential Nifty 500 Index Fund - IDCW",
+      "ICICI Prudential Nifty 500 Index Fund - IDCW Payout",
+      "ICICI Prudential Nifty 500 Index Fund- DP - Growth",
+      "ICICI Prudential Nifty 500 Index Fund - DP - IDCW",
+      "ICICI Prudential Nifty 500 Index Fund - DP - IDCW Payout"
+    ],
+    "isins": [
+      "INF109KC13Y0",
+      "INF109KC14Y8",
+      "INF109KC15Y5",
+      "INF109KC16Y3",
+      "INF109KC17Y1",
+      "INF109KC18Y9"
+    ],
+    "amfi_codes": [
+      "153162",
+      "153160",
+      "null",
+      "null",
+      "null",
+      "null"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The objective of the Scheme is to invest in companies whose securities are included in Nifty 500 Index and subject to tracking errors, to endeavor to achieve the returns of the above index. This would be done by investing in all the stocks comprising the Nifty 500 Index in the same weightage that they represent in Nifty 500 Index. However, there is no assurance or guarantee that the investment objective of the scheme shall be achieved.",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (Nifty 500 Index) Minimum 95%- Maximum 100% • Money Market instruments including TREPs* and Units of debt schemes#  Minimum 0%- Maximum 10",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": [
+      "Ashwini Bharucha",
+      "Nishit Patel"
+    ],
+    "annual_expense": {
+      "Regular": "0.88",
+      "Direct": "0.30"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Nifty 500 Index Fund - Growth",
+    "ICICI Prudential Nifty 500 Index Fund - IDCW",
+    "ICICI Prudential Nifty 500 Index Fund - IDCW Payout",
+    "ICICI Prudential Nifty 500 Index Fund- DP - Growth",
+    "ICICI Prudential Nifty 500 Index Fund - DP - IDCW",
+    "ICICI Prudential Nifty 500 Index Fund - DP - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T14:16:15.376299+00:00"
+}

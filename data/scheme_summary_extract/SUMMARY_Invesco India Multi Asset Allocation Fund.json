@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Invesco India Multi Asset Allocation Fund",
+  "source_file": "SUMMARY_Invesco India Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India Multi Asset Allocation Fund",
+    "fund_type": "An open ended scheme investing in Equity, Debt, Gold ETFs / Silver ETFs",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Plan - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long-term capital appreciation/income from an actively managed portfolio of multiple asset classes. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity & equity related instruments: Min. 10% Max. 80% Debt and Money Market Instruments: Min. 10% Max. 80% Gold / Silver ETFs: Min. 10% Max. 50% Units issued by REITs and InvITs: Min. 0% and Max. 10%.",
+    "benchmark": "Nifty 200 TRI (60%) + CRISIL 10 year Gilt Index (30%) + Domestic Price of Gold (5%) + Domestic Price of Silver (5%)",
+    "fund_managers": "Mr. Taher Badshah - Primary , Mr. Amey Sathe - Comanage, Mr. Krishna Cheemalapati - Comanage",
+    "annual_expense": {
+      "Regular": "0.02",
+      "Direct": "0.02"
+    },
+    "exit_load": "- if upto 10% of Units allotted are redeemed / switched-out within 1 year: Nil - for any redemption / switch-out in excess of 10% of units within one year: 1% - if units are redeemed or switched-out after 1 year: Nil - Switch between the Plans under the Scheme: Nil",
+    "amfi_codes": [
+      "153047",
+      "153049",
+      "153049",
+      "153048",
+      "153048",
+      "153046"
+    ],
+    "isins": [
+      "INF205KA1AC1",
+      "INF205KA1AD9",
+      "INF205KA1AE7",
+      "INF205KA1AA5",
+      "INF205KA1AB3",
+      "INF205KA1999"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T14:28:22.478658+00:00"
+}

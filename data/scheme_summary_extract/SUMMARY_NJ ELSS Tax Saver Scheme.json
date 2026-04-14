@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "NJ ELSS Tax Saver Scheme",
+  "source_file": "SUMMARY_NJ ELSS Tax Saver Scheme.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "NJ ELSS Tax Saver Scheme",
+    "fund_type": "An open ended equity linked saving scheme with a statutory lock in of 3 years and tax benefit",
+    "fund_options": [
+      "Direct Plan - Growth Option",
+      "Direct Plan - IDCW Payout Option",
+      "Regular Plan - Growth Option",
+      "Regular Plan - IDCW Payout Option"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "NJ ELSS Tax Saver Scheme is an open ended equity linked saving scheme with a statutory lock in of 3 years and tax benefitThe investment objective of the Scheme is to generate income and long-term capital appreciation from a diversified portfolio of predominantly equity and equity-related instruments.However, there is no assurance or guarantee that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments Minimum 80% - Maximum 100%Risk Profile – Medium to HighDebt and money market instruments - Minimum 0% - Maximum 20%Risk Profile -  Low to Medium",
+    "benchmark": "NIFTY 500 TRI",
+    "fund_managers": "Mr. Viral Shah, Mr. Dhaval Patel",
+    "annual_expense": {
+      "Regular": "2.3400",
+      "Direct": "0.6500"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "151611",
+      "151612",
+      "151609",
+      "151610"
+    ],
+    "isins": [
+      "INF0J8L01115",
+      "INF0J8L01123",
+      "INF0J8L01099",
+      "INF0J8L01107"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth Option",
+    "Direct Plan - IDCW Payout Option",
+    "Regular Plan - Growth Option",
+    "Regular Plan - IDCW Payout Option"
+  ],
+  "extracted_at": "2026-04-13T15:36:08.732221+00:00"
+}

@@ -1,0 +1,67 @@
+{
+  "parent_scheme_name": "Motilal Oswal Ultra Short Term Fund",
+  "source_file": "SUMMARY_Motilal Oswal Ultra Short Term Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal Ultra Short Term Fund",
+    "fund_type": "Ultra Short Duration Fund",
+    "fund_options": [
+      "Regular IDCW Option DailyReinvestment",
+      "Direct IDCW Option DailyReinvestment",
+      "Regular IDCW Option FortnightlyReinvestment",
+      "Direct IDCW Option FortnightlyReinvestment",
+      "Regular IDCW Option MonthlyPayout",
+      "Direct IDCW Option MonthlyPayout",
+      "Regular IDCW Option MonthlyReinvestment",
+      "Direct IDCW Option MonthlyReinvestment",
+      "Regular IDCW Option Quarterly Payout",
+      "Direct IDCW Option Quarterly Payout",
+      "Regular IDCW Option Quarterly Reinvestment",
+      "Direct IDCW Option Quarterly Reinvestment",
+      "Regular IDCW Option Weekly Reinvestment",
+      "Direct IDCW Option Weekly Reinvestment",
+      "Regular Growth",
+      "Direct Growth"
+    ],
+    "isins": [
+      "INF247L01288"
+    ],
+    "amfi_codes": [
+      "127"
+    ],
+    "riskometer": "low",
+    "investment_objective": "Objective of the scheme to generate optimal returns consistent with moderate levels of risk and liquidity by investing in debt securities and money market securities.",
+    "asset_allocation": "Debt Instruments including Government Securities, Corporate Debt, Other debt instruments, Term Deposits and Money Market Instruments with portfolio Macaulay# duration between 3 months and 6 months*0-100% - Units issued by Real Estate Investment Trust (REITs) and Infrastructure Investment Trust (InvITs)0-10%",
+    "benchmark": "Tier 1 CRISIL Ultra Short Term Debt Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "Debt Component",
+        "from_date": "22/11/2022"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2"
+    },
+    "exit_load": null
+  },
+  "fund_options_inferred": [
+    "Regular IDCW Option DailyReinvestment",
+    "Direct IDCW Option DailyReinvestment",
+    "Regular IDCW Option FortnightlyReinvestment",
+    "Direct IDCW Option FortnightlyReinvestment",
+    "Regular IDCW Option MonthlyPayout",
+    "Direct IDCW Option MonthlyPayout",
+    "Regular IDCW Option MonthlyReinvestment",
+    "Direct IDCW Option MonthlyReinvestment",
+    "Regular IDCW Option Quarterly Payout",
+    "Direct IDCW Option Quarterly Payout",
+    "Regular IDCW Option Quarterly Reinvestment",
+    "Direct IDCW Option Quarterly Reinvestment",
+    "Regular IDCW Option Weekly Reinvestment",
+    "Direct IDCW Option Weekly Reinvestment",
+    "Regular Growth",
+    "Direct Growth"
+  ],
+  "extracted_at": "2026-04-13T15:19:50.051848+00:00"
+}

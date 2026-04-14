@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF",
+  "source_file": "SUMMARY_Axis Nifty AAA Bond Plus SDL Apr 2026 50-50 ETF FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "To invest in units of Axis AAA Bond Plus SDL ETF - 2026 Maturity ETF, an open-ended Target Maturity Exchange Traded Fundwith objective to replicate Nifty AAA Bond Plus SDL Apr 2026 50:50 Index by investing in bonds of issuers rated AAA and statedevelopment loans (SDL), subject to tracking errors. However, there can be no assurance that the investment objective of theScheme will be achieved.",
+    "asset_allocation": "Units of Axis AAA Bond Plus SDL ETF - 2026 Maturity ETF - (95%-100%), Debt and Money Market Instruments - (0%-5%)",
+    "benchmark": "Nifty AAA Bond Plus SDL Apr 2026 50:50 Index",
+    "fund_managers": "Mr. Aditya Pagaria",
+    "annual_expense": {
+      "Direct": "0.08"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "005731",
+      "149242",
+      "149243",
+      "149244",
+      "202112",
+      "202113",
+      "202114",
+      "202115",
+      "202121"
+    ],
+    "isins": [
+      "INF846K017C5",
+      "INF846K018C3",
+      "INF846K010D8",
+      "INF846K011D6",
+      "INF846K019C1",
+      "INF846K012D4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T12:33:41.221505+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "parent_scheme_name": "Bank of India Arbitrage Fund",
+  "source_file": "SUMMARY_BANK OF INDIA ARBITRAGE FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bank of India Arbitrage Fund",
+    "fund_type": "An open ended scheme investing in arbitrage opportunities",
+    "fund_options": [
+      "Direct Plan - Annual IDCW Payout",
+      "Direct Plan - Annual IDCW Reinvestment",
+      "Direct Plan - Growth Growth",
+      "Direct Plan - Monthly IDCW Payout",
+      "Direct Plan - Monthly IDCW Reinvestment",
+      "Direct Plan - Quarterly IDCW Payout",
+      "Direct Plan - Quarterly IDCW Reinvestment",
+      "Regular Plan - Annual IDCW Payout",
+      "Regular Plan - Annual IDCW Reinvestment",
+      "Regular Plan - Growth Growth",
+      "Regular Plan - Quarterly IDCW Payout",
+      "Regular Plan - Quarterly IDCW Reinvestment",
+      "Regular Plan - Monthly IDCW Payout",
+      "Regular Plan - Monthly IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF761K01EI2",
+      "INF761K01EJ0",
+      "INF761K01ED3",
+      "INF761K01EE1",
+      "INF761K01EF8",
+      "INF761K01EG6",
+      "INF761K01EH4",
+      "INF761K01EB7",
+      "INF761K01EC5",
+      "INF761K01DW5",
+      "INF761K01DZ8",
+      "INF761K01EA9",
+      "INF761K01DX3",
+      "INF761K01DY1"
+    ],
+    "amfi_codes": [
+      "143613",
+      "143614",
+      "143615",
+      "143616",
+      "143620",
+      "143617",
+      "143618",
+      "143619"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The Scheme seeks to generate income through arbitrage opportunities between cash and derivative segments of the equitymarket and arbitrage opportunities within the derivative segment and by deployment of surplus cash in debt securities andmoney market instruments. However, there is no assurance or guarantee that the investment objective of the scheme will berealized",
+    "asset_allocation": "Under Normal Circumstances: Equity and equity related securities-65% to 100%-Medium to High Equity Derivatives-65% to100%-Medium to High Debt & Money market securities/instruments-0% to 35%-Low Under defensive circumstances: Equity andequity related securities-0% to 35%-Medium to High Equity Derivatives0% to 35%-Medium to High Debt & Money marketsecurities/instruments-65% to 100%-Low",
+    "benchmark": "NIFTY 50 Arbitrage Index",
+    "fund_managers": "Mr. Firdaus Ragina",
+    "annual_expense": {
+      "Regular": "0.94",
+      "Direct": "0.42"
+    },
+    "exit_load": "Any Redemption/Switch out - would be subject to an exit load of 0.50%, if the units are redeemed/switched out within 15 daysfrom the date of allotment of units. If the units are redeemed/switched out after 15 days from the date of allotment of units -\"NIL\""
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Annual IDCW Payout",
+    "Direct Plan - Annual IDCW Reinvestment",
+    "Direct Plan - Growth Growth",
+    "Direct Plan - Monthly IDCW Payout",
+    "Direct Plan - Monthly IDCW Reinvestment",
+    "Direct Plan - Quarterly IDCW Payout",
+    "Direct Plan - Quarterly IDCW Reinvestment",
+    "Regular Plan - Annual IDCW Payout",
+    "Regular Plan - Annual IDCW Reinvestment",
+    "Regular Plan - Growth Growth",
+    "Regular Plan - Quarterly IDCW Payout",
+    "Regular Plan - Quarterly IDCW Reinvestment",
+    "Regular Plan - Monthly IDCW Payout",
+    "Regular Plan - Monthly IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T12:47:19.247587+00:00"
+}

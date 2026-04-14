@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Aditya Birla Sun Life ESG Integration Strategy Fund",
+  "source_file": "SUMMARY_Aditya Birla Sun Life ESG Integration Strategy Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Aditya Birla Sun Life ESG Integration Strategy Fund",
+    "fund_type": "An open ended equity scheme investing in Environment, Social & Governance \n(ESG) theme by following Integration Strategy.",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Regular - Payout of IDCW",
+      "Direct Plan-Growth",
+      "Direct - Payout of IDCW"
+    ],
+    "isins": [
+      "INF209KB1U43",
+      "INF209KB1U50",
+      "INF209KB1U76",
+      "INF209KB1U84"
+    ],
+    "amfi_codes": [
+      "148635",
+      "148636",
+      "148637",
+      "148640"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme seeks to generate long-term capital appreciation by investing in a \ndiversified basket of companies in ESG theme by following Integration \nStrategy. The Scheme does not guarantee/indicate any returns. There is no \nassurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme will be as \nfollows: \nEquity & Equity related instruments of companies following the Environment, \nSocial & Governance (ESG) theme - High - 80% - 100%\nOther Equity & Equity related instruments - High-  0% - 20%\nDebt & Money Market Instruments (including units of Debt & Liquid Mutual \nFund schemes) - Low to Medium - 0% - 20%\nUnits issued by INVITs -  Medium to High - 0% - 10%",
+    "benchmark": "NIFTY100 ESG TRI",
+    "fund_managers": "Mr. Chanchal Khandelwal",
+    "annual_expense": {
+      "Regular": "2.42",
+      "Direct": "1.38"
+    },
+    "exit_load": "For redemption / switch-out of units on or before 30 days from the date of \nallotment: 1% of applicable NAV.\nFor redemption / switch-out of units after 30 days from the date of allotment: \nNil."
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Regular - Payout of IDCW",
+    "Direct Plan-Growth",
+    "Direct - Payout of IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:16:38.339947+00:00"
+}

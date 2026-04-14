@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "ICICI Prudential Banking & PSU Debt Fund",
+  "source_file": "SUMMARY_ICICI Prudential Banking & PSU Debt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Banking & PSU Debt Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW - Quarterly",
+      "Growth",
+      "IDCW - Quarterly"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate income through predominantly investing in Debt instruments of Banks, Public Sector Undertakings, Public Financial Institutions and Municipal Bonds while maintaining the optimum balance of yield, safety and liquidity. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Debt instruments of banks, Public Sector Undertakings, Public Financial Institutions and Municipal Bonds = 80% - 100% \n• Debt and money market securities (including government securities) issued by entities other than banks, Public Sector Undertakings, Public Financial Institutions and Municipal Bonds. = 0% - 20%",
+    "benchmark": "Nifty Banking & PSU Debt Index A-II",
+    "fund_managers": [
+      "Rohit Lakhotia",
+      "Manish Banthia"
+    ],
+    "annual_expense": {
+      "Regular": "0.74",
+      "Direct": "0.39"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "120256",
+      "120258",
+      "112342",
+      "116174"
+    ],
+    "isins": [
+      "INF109K010A6",
+      "INF109K011A4",
+      "INF109K012A2",
+      "INF109K01RT3",
+      "INF109K01YE1",
+      "INF109K01YD3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW - Quarterly",
+    "Growth",
+    "IDCW - Quarterly"
+  ],
+  "extracted_at": "2026-04-13T14:07:51.057839+00:00"
+}

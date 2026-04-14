@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE CORPORATE BOND FUND",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Corporate Bond Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE CORPORATE BOND FUND",
+    "fund_type": "An open ended debt scheme predominantly investing in AA+ and above rated corporate bonds. A relatively high interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Aditya Birla Sun Life Corporate Bond Fund - Growth - Regular Plan",
+      "Aditya Birla Sun Life Corporate Bond Fund -REGULAR - MONTHLY IDCW",
+      "Aditya Birla Sun Life Corporate Bond Fund -DIRECT - MONTHLY IDCW",
+      "Aditya Birla Sun Life Corporate Bond Fund - Growth - Direct Plan",
+      "Aditya Birla Sun Life Corporate Bond Fund -DIRECT - IDCW",
+      "Aditya Birla Sun Life Corporate Bond Fund -REGULAR - IDCW"
+    ],
+    "isins": [
+      "INF209K01785",
+      "INF209K01983",
+      "INF209K01N90",
+      "INF209K01S38",
+      "INF209KA1KT0",
+      "INF209KA1KS2"
+    ],
+    "amfi_codes": [
+      "103178",
+      "103183",
+      "119532",
+      "119533",
+      "124832",
+      "124833"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to generate optimal returns with high liquidity through active management of the portfolio by investing in High Quality Debt and Money Market Instruments",
+    "asset_allocation": "Under normal circumstances, the asset allocation pattern shall be as under:\nCorporate Bonds - Medium to High - 80% -100%\nGovernment Securities & Money Market Instruments -  Low to Medium - 0 – \n20%\n80% of total assets shall be invested only in AA+ and above rated Corporate bonds",
+    "benchmark": "NIFTY Corporate Bond Index A-II",
+    "fund_managers": "Mr. Kaustubh Gupta",
+    "annual_expense": {
+      "Regular": "0.51",
+      "Direct": "0.33"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Aditya Birla Sun Life Corporate Bond Fund - Growth - Regular Plan",
+    "Aditya Birla Sun Life Corporate Bond Fund -REGULAR - MONTHLY IDCW",
+    "Aditya Birla Sun Life Corporate Bond Fund -DIRECT - MONTHLY IDCW",
+    "Aditya Birla Sun Life Corporate Bond Fund - Growth - Direct Plan",
+    "Aditya Birla Sun Life Corporate Bond Fund -DIRECT - IDCW",
+    "Aditya Birla Sun Life Corporate Bond Fund -REGULAR - IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:11:58.584166+00:00"
+}

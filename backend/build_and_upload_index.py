@@ -347,13 +347,17 @@ def main():
     
     # Upload to GCS
     print("\n" + "=" * 60)
-    response = input("Upload to Cloud Storage? (y/N): ")
-    if response.lower() == 'y':
+    # Auto-upload in CI, otherwise ask
+    if os.environ.get("CI"):
         upload_to_gcs([index_file, meta_file])
     else:
-        print("\n📁 Files saved locally. Upload manually with:")
-        print(f"   gsutil cp {OUTPUT_DIR}/* gs://{GCS_BUCKET}/faiss_index/")
-        print(f"   gsutil cp {DATA_FILE} gs://{GCS_BUCKET}/")
+        response = input("Upload to Cloud Storage? (y/N): ")
+        if response.lower() == 'y':
+            upload_to_gcs([index_file, meta_file])
+        else:
+            print("\n📁 Files saved locally. Upload manually with:")
+            print(f"   gsutil cp {OUTPUT_DIR}/* gs://{GCS_BUCKET}/faiss_index/")
+            print(f"   gsutil cp {DATA_FILE} gs://{GCS_BUCKET}/")
     
     print("\n" + "=" * 60)
     print("  ✅ DONE!")

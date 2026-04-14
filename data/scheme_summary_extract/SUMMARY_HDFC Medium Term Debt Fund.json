@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "HDFC Medium Term Debt Fund",
+  "source_file": "SUMMARY_HDFC Medium Term Debt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Medium Term Debt Fund",
+    "fund_type": "An open ended medium term debt scheme investing in instruments such that the Macaulay Duration of the portfolio is between 3years and 4 years. A scheme with Relatively High Interest Rate Risk and Relatively High Credit Risk.",
+    "fund_options": [
+      "DIRECT PLAN - GROWTH OPTION",
+      "DIRECT PLAN - NORMAL IDCW PAYOUT",
+      "DIRECT PLAN - NORMAL IDCW REINVESTMENT",
+      "DIRECT PLAN - FORTNIGHTLY IDCW PAYOUT",
+      "DIRECT PLAN - FORTNIGHTLY IDCW REINVESTMENT",
+      "REGULAR PLAN - GROWTH OPTION",
+      "REGULAR PLAN - NORMAL IDCW PAYOUT",
+      "REGULAR PLAN - NORMAL IDCW REINVESTMENT",
+      "REGULAR PLAN - FORTNIGHTLY IDCW PAYOUT",
+      "REGULAR PLAN - FORTNIGHTLY IDCW REINVESTMENT"
+    ],
+    "isins": [
+      "INF179K01WI9",
+      "INF179KA1D90",
+      "INF179KA1D82",
+      "INF179KA1NP8",
+      "INF179KA1NO1",
+      "INF179K01913",
+      "INF179KA1E16",
+      "INF179KA1E08",
+      "INF179K01897",
+      "INF179K01905"
+    ],
+    "amfi_codes": [
+      "119081",
+      "132853",
+      "132852",
+      "119080",
+      "101990",
+      "101989",
+      "132853",
+      "132852",
+      "101990",
+      "119080"
+    ],
+    "riskometer": "Moderately High Risk",
+    "investment_objective": "To generate income/capital appreciation through investments in Debt and Money Market Instruments. There is no assurance thatthe investment objective of the Scheme will be achieved",
+    "asset_allocation": "Debt (including securitised debt) and Money Market Instruments^ : Upto 100%; Units issued by InvITs : 0 % - 10 %; ^PortfolioMacaulay Duration shall be between 3 years to 4 years in normal circumstances and 1 year to 4 years in anticipated adversesituation. For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
+    "benchmark": "Nifty Medium Duration Debt Index A-III",
+    "fund_managers": "FM 1 - Mr. Bhavyesh Divecha, FM 2 - Mr. Shobhit Mehrotra , FM 3 - Mr. Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "1.33",
+      "Direct": "0.67"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN - GROWTH OPTION",
+    "DIRECT PLAN - NORMAL IDCW PAYOUT",
+    "DIRECT PLAN - NORMAL IDCW REINVESTMENT",
+    "DIRECT PLAN - FORTNIGHTLY IDCW PAYOUT",
+    "DIRECT PLAN - FORTNIGHTLY IDCW REINVESTMENT",
+    "REGULAR PLAN - GROWTH OPTION",
+    "REGULAR PLAN - NORMAL IDCW PAYOUT",
+    "REGULAR PLAN - NORMAL IDCW REINVESTMENT",
+    "REGULAR PLAN - FORTNIGHTLY IDCW PAYOUT",
+    "REGULAR PLAN - FORTNIGHTLY IDCW REINVESTMENT"
+  ],
+  "extracted_at": "2026-04-13T13:46:42.799257+00:00"
+}

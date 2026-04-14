@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Mirae Asset NYSE FANG+ ETF",
+  "source_file": "SUMMARY_Mirae Asset NYSE FANG+ ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset NYSE FANG+ ETF",
+    "fund_type": "Exchange Traded Fund (ETF)",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate returns, before expenses, that are commensurate with theperformance of the NYSE FANG+ Total Return Index, subject to tracking error and forex movement. The Scheme does notguarantee or assure any returns.",
+    "asset_allocation": "Securities included in the NYSE FANG+ Index - 95% to 100% (High) Money market instruments / debt securities,Instruments and/or units of schemes of domestic Mutual Funds. - 0% to 5% (Low to Medium)",
+    "benchmark": "NYSE FANG+ Index (TRI) (INR)",
+    "fund_managers": "Mr. Siddharth Srivastava",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "148927"
+    ],
+    "isins": [
+      "INF769K01HF4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:14:05.844717+00:00"
+}

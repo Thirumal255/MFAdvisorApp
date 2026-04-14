@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Baroda BNP Paribas Nifty 200 Momentum 30 Index Fund",
+  "source_file": "SUMMARY_Baroda BNP Paribas Nifty200 Momentum 30 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Baroda BNP Paribas Nifty 200 Momentum 30 Index Fund",
+    "fund_type": "An open-ended scheme replicating / tracking the Nifty 200 Momentum 30 Total Return Index",
+    "fund_options": [
+      "Regular Plan - Growth Option",
+      "Direct Plan - Growth Option"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns closely corresponding to the total returns of the securities as represented by the Nifty 200 Momentum 30 Total Returns Index before expenses, subject to tracking errors, fees and expenses. However, there is no assurance that the objective of the Scheme will be realized, and the Scheme does not assure or guarantee any returns",
+    "asset_allocation": "Equity & Equity related securities of companies constituting Nifty 200 Momentum 30 Index : 95% 100% Money Market instruments & Units of Liquid scheme & Cash & cash equivalents : 0% 5%",
+    "benchmark": "Nifty 200 Momentum 30 TRI",
+    "fund_managers": "Mr. Neeraj Saxena",
+    "annual_expense": {
+      "Regular": "1.10",
+      "Direct": "0.47"
+    },
+    "exit_load": "0.2%- If redeemed on or before 7 days from the date of allotment• Nil- If redeemed after 7 days from the date of allotment",
+    "amfi_codes": [
+      "152930",
+      "152931"
+    ],
+    "isins": [
+      "INF251K01TZ6",
+      "INF251K01TY9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth Option",
+    "Direct Plan - Growth Option"
+  ],
+  "extracted_at": "2026-04-13T12:56:56.526058+00:00"
+}

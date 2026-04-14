@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "Axis Strategic Bond Fund",
+  "source_file": "SUMMARY_Axis Strategic Bond Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Strategic Bond Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Growth",
+      "Direct Half Yearly IDCW",
+      "Direct Quarterly IDCW",
+      "Regular Growth",
+      "Regular Half Yearly IDCW",
+      "Regular Quarterly IDCW"
+    ],
+    "isins": [
+      "INF846K01DT0",
+      "INF846K01DU8",
+      "INF846K01DW4",
+      "INF846K01BP2",
+      "INF846K01BR8",
+      "INF846K01BQ0",
+      "INF846K01DV6",
+      "INF846K01DX2",
+      "INF846K01BT4"
+    ],
+    "amfi_codes": [
+      "120475",
+      "120474",
+      "120476",
+      "116894",
+      "116896",
+      "116895"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "To generate optimal returns in the medium term while maintaining liquidity of the portfolio by investing in debt and money market instruments.",
+    "asset_allocation": "Debt and Money Market instruments - (100%), Units issued by REITs & InvITs - (0%-10%)",
+    "benchmark": "NIFTY Medium Duration Debt Index A-III",
+    "fund_managers": "Mr. Devang Shah, Mr. Akhil Thakker, Mr. Sachin Jain",
+    "annual_expense": {
+      "Regular": "1.33",
+      "Direct": "0.71"
+    },
+    "exit_load": "If redeemed/ switched out within 15 days from the date of allotment: 1% If redeemed/ switched out after 15 days from the date of allotment: Ni"
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Direct Half Yearly IDCW",
+    "Direct Quarterly IDCW",
+    "Regular Growth",
+    "Regular Half Yearly IDCW",
+    "Regular Quarterly IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:35:39.014697+00:00"
+}

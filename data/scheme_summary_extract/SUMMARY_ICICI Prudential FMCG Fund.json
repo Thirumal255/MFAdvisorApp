@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "ICICI Prudential FMCG Fund",
+  "source_file": "SUMMARY_ICICI Prudential FMCG Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential FMCG Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential FMCG Fund - Direct Plan - Growth",
+      "ICICI Prudential FMCG Fund - Direct Plan - IDCW",
+      "ICICI Prudential FMCG Fund - Growth",
+      "ICICI Prudential FMCG Fund - IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To  generate  long  term  capital  appreciation  through  investments  made primarily  inequity  &  equity  related  securities  forming  part  of  FMCG sector. However,  there  is  no  assurance  or  guarantee  that  the  investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Equity & Equity related securities of companies forming part of FMCG sector = 80% - 100%\n• Other Equity and Equity Related instruments = 0% - 20%\n• Debt & Money market instruments = 0% - 20%",
+    "benchmark": [
+      "Nifty FMCG TRI",
+      "Nifty 50 TRI"
+    ],
+    "fund_managers": [
+      "Sharmila D'mello",
+      "Priyanka Khandelwal"
+    ],
+    "annual_expense": {
+      "Regular": "2.20",
+      "Direct": "1.30"
+    },
+    "exit_load": "1 % of applicable Net Asset Value If the amount sought to be redeemed or switch out within 15 days from allotment. Nil If the amount sought to be redeemed or switched out more than 15 days.",
+    "amfi_codes": [
+      "120587",
+      "120588",
+      "100352",
+      "100351"
+    ],
+    "isins": [
+      "INF109K01Z14",
+      "INF109K01Y98",
+      "INF109K01415",
+      "INF109K01EO2"
+    ]
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential FMCG Fund - Direct Plan - Growth",
+    "ICICI Prudential FMCG Fund - Direct Plan - IDCW",
+    "ICICI Prudential FMCG Fund - Growth",
+    "ICICI Prudential FMCG Fund - IDCW"
+  ],
+  "extracted_at": "2026-04-13T14:11:46.371540+00:00"
+}

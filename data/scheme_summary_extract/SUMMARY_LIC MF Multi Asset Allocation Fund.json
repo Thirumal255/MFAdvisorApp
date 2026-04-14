@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "LIC MF Multi Asset Allocation Fund",
+  "source_file": "SUMMARY_LIC MF Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "LIC MF Multi Asset Allocation Fund",
+    "fund_type": "An open-ended scheme investing in Equity, Debt and Gold",
+    "fund_options": [
+      "Direct Plan IDCW Payout Option",
+      "Direct Plan IDCW Reinvestment Option",
+      "Regular Plan IDCW Payout Option",
+      "Regular Plan IDCW Reinvestment Option",
+      "Direct Plan Growth Option",
+      "Regular Plan Growth Option"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate long term capital appreciation by investing in diversiﬁed portfolio ofequity & equity related instruments, debt & money market instruments and units of Gold Exchange Traded Funds (ETFs).There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme would be as follows: Equity and equity related instruments:65%-80% of the total assets, Debt and Money Market instruments: 10%-25% of the Total Assets, Units of Gold ETFs: 10%-25% of the Total Assets, Units of Silver ETFs: 0%-10% of the Total Assets, Units issued by Infrastructure Investment Trusts (InvITs):0%-10% of the Total Assets. Please refer the Scheme Information Document for complete details.",
+    "benchmark": "65% Nifty 500 TRI + 25% Nifty Composite Debt Index + 10% Price of Domestic Gold",
+    "fund_managers": "FM 1: Mr. Sumit Bhatnagar ; FM 2: Mr. Jaiprakash Toshniwal; FM 3: Mr. Pratik Shroﬀ",
+    "annual_expense": {
+      "Regular": "2.06",
+      "Direct": "0.65"
+    },
+    "exit_load": "1. If units of the Scheme are redeemed / switched-out within 3 months from the date of allotment: a. Upto 12% of the units:No exit load will be levied b. Above 12% of the units: exit load of 1% of applicable NAV will be levied 2. If units of the Schemeare redeemed / switched-out after 3 months from the date of allotment: No exit load will be levied.",
+    "amfi_codes": [
+      "153247",
+      "153247",
+      "153249",
+      "153249",
+      "153246",
+      "153248"
+    ],
+    "isins": [
+      "INF767K01RY8",
+      "INF767K01RX0",
+      "INF767K01RV4",
+      "INF767K01RU6",
+      "INF767K01RZ5",
+      "INF767K01RW2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan IDCW Payout Option",
+    "Direct Plan IDCW Reinvestment Option",
+    "Regular Plan IDCW Payout Option",
+    "Regular Plan IDCW Reinvestment Option",
+    "Direct Plan Growth Option",
+    "Regular Plan Growth Option"
+  ],
+  "extracted_at": "2026-04-13T14:57:17.741993+00:00"
+}

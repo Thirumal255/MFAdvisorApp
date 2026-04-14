@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "SBI Nifty100 Low Volatility 30 Index Fund",
+  "source_file": "SUMMARY_SBI Nifty100 Low Volatility 30 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Nifty100 Low Volatility 30 Index Fund",
+    "fund_type": "An open-ended scheme replicating/ tracking Nifty100 Low Volatility 30 Index",
+    "fund_options": [
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth",
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth"
+    ],
+    "riskometer": "VERY HIGH",
+    "investment_objective": "The investment objective of the scheme is to provide returns that correspond to the total returns of the securities as represented by the underlying index, subject to tracking error. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": {
+      "Securities covered by Nifty100 Low Volatility 30 Index": "95%-100%",
+      "Government. Securities* including Triparty Repo, and units of liquid mutual fund": "0%-5%"
+    },
+    "benchmark": "Nifty100 Low Volatility 30 Index",
+    "fund_managers": "Mr. Viral Chhadva",
+    "annual_expense": {
+      "Regular": "0.71"
+    },
+    "exit_load": "For exit on or before 15 days from the date of allotment – 0.25% For exit after 15 days from the date of allotment – Nil",
+    "amfi_codes": [
+      "153719",
+      "153718",
+      "153717",
+      "153716"
+    ],
+    "isins": [
+      "INF200KB1944",
+      "INF200KB1936",
+      "INF200KB1910",
+      "INF200KB1902"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth",
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T15:59:24.671328+00:00"
+}

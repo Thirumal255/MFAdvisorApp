@@ -1,0 +1,33 @@
+{
+  "parent_scheme_name": "Motilal Oswal Gold and Silver ETFs Fund of Funds",
+  "source_file": "SUMMARY_Motilal Oswal Gold and Silver Passive Fund of Funds.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal Gold and Silver ETFs Fund of Funds",
+    "fund_type": "Fund of Funds",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The objective of this scheme is to generate returns by investing in units of Gold ETFs and Silver ETFs.   However, the performance of the scheme may differ from that of the underlying gold and silver ETFs due to tracking error of the underlying exchange traded funds. There can be no assurance or guarantee that the investment objective of the scheme would be achieved",
+    "asset_allocation": "Units of Gold ETFs & Silver ETFs  - 95%-100%\n- Units of liquid Scheme/ debt schemes, Debt and Money Market Instruments - 0%-5%",
+    "benchmark": "Tier 1 LBMA Price of Gold and Silver",
+    "fund_managers": [
+      "Mr. Rakesh Shetty"
+    ],
+    "annual_expense": {},
+    "exit_load": "Yes",
+    "amfi_codes": [
+      "150642",
+      "150641"
+    ],
+    "isins": [
+      "INF247L01BM8",
+      "INF247L01BN6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:16:34.900302+00:00"
+}

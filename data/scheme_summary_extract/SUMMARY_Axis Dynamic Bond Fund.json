@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "Axis Dynamic Bond Fund",
+  "source_file": "SUMMARY_Axis Dynamic Bond Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Dynamic Bond Fund",
+    "fund_type": "Open Ended",
+    "fund_options": null,
+    "riskometer": "Moderate",
+    "investment_objective": "To generate optimal returns while maintaining liquidity through active management of a portfolio of debt and money market instruments.",
+    "asset_allocation": "Debt instruments including GSecs and corporate debt - (0%-100%), Money market instruments - (0%-100%), Units issued by REITs & InvITs - (0%-10%)",
+    "benchmark": "NIFTY Composite Debt Index A-III",
+    "fund_managers": "Mr. Devang Shah, Mr. Hardik Shah",
+    "annual_expense": {
+      "Regular": "0.63",
+      "Direct": "0.32"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "120451",
+      "120450",
+      "120452",
+      "115068",
+      "115131",
+      "115069"
+    ],
+    "isins": [
+      "INF846K01DI3",
+      "INF846K01DJ1",
+      "INF846K01DL7",
+      "INF846K01917",
+      "INF846K01941",
+      "INF846K01925",
+      "INF846K01DK9",
+      "INF846K01DM5",
+      "INF846K01958",
+      "INF846K01933"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth",
+    "Regular Payout of IDCW",
+    "Direct Payout of IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:29:24.574983+00:00"
+}

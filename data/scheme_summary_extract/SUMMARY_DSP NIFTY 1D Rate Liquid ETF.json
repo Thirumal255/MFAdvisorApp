@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "DSP NIFTY 1D Rate Liquid ETF",
+  "source_file": "SUMMARY_DSP NIFTY 1D Rate Liquid ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP NIFTY 1D Rate Liquid ETF",
+    "fund_type": "ETF",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the Scheme is to seek to provide current income, commensurate with relatively low risk while providing a high level of liquidity, primarily through a portfolio of Tri-Party REPO), Repo in Government Securities, Reverse Repos and similar other overnight instruments. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "1. Tri-Party REPOs, Repo in Government Securities, Reverse Repos and any other similar overnight instruments as may be provided by RBI and approved by SEBI: 95% - 100% 2. Other Money Market Instruments with residual maturity of upto 91 days: 0% - 5%",
+    "benchmark": "Nifty 1D Rate Index",
+    "fund_managers": "Mr. Anil Ghelani, Mr. Diipesh Shah",
+    "annual_expense": {
+      "Direct": "0.30"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "142589"
+    ],
+    "isins": [
+      "INF740KA1EU7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T13:11:29.111603+00:00"
+}

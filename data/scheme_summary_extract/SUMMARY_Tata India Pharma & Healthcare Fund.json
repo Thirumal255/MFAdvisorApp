@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Tata India Pharma & Healthcare Fund",
+  "source_file": "SUMMARY_Tata India Pharma & Healthcare Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata India Pharma & Healthcare Fund",
+    "fund_type": "An open ended equity scheme investing in Pharma and Healthcare Services Sector.",
+    "fund_options": [
+      "Tata India Pharma and Healthcare Fund Regular Plan IDCW",
+      "Tata India Pharma and Healthcare Fund Direct Plan IDCW",
+      "Tata IndiaPharma and Healthcare Fund Regular Plan Growth",
+      "Tata India Pharma and Healthcare Fund Direct Plan Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to seek long term capital appreciation by investing atleast 80% of its net assets inequity/equity related instruments of the companies in the pharma & healthcare sectors in India.However, there is noassurance or guarantee that the investment objective of the Scheme will be achieved.The Scheme does not assure orguarantee any returns.",
+    "asset_allocation": "Equity & equity related instruments of companies in the Pharma & Healthcare Sectors 80-100, Other Equity/Equity relatedinstruments 0-20, Debt and Money Market Instruments 0-20.",
+    "benchmark": "BSE Healthcare TRI",
+    "fund_managers": "Rajat Srivastava",
+    "annual_expense": {
+      "Regular": "2.10",
+      "Direct": "0.61"
+    },
+    "exit_load": "0.25% of NAV if redeemed /switched out before 30 days from the date of allotment.",
+    "amfi_codes": [
+      "135809",
+      "135807",
+      "135812",
+      "135810"
+    ],
+    "isins": [
+      "INF277K018A5",
+      "INF277K011B8",
+      "INF277K016A9",
+      "INF277K019A3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata India Pharma and Healthcare Fund Regular Plan IDCW",
+    "Tata India Pharma and Healthcare Fund Direct Plan IDCW",
+    "Tata IndiaPharma and Healthcare Fund Regular Plan Growth",
+    "Tata India Pharma and Healthcare Fund Direct Plan Growth"
+  ],
+  "extracted_at": "2026-04-13T16:13:10.693185+00:00"
+}

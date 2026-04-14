@@ -1,0 +1,56 @@
+{
+  "parent_scheme_name": "Tata Equity Savings Fund",
+  "source_file": "SUMMARY_Tata Equity Savings Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Equity Savings Fund",
+    "fund_type": "An open-ended scheme investing in equity, arbitrage and debt",
+    "fund_options": [
+      "Tata Equity Savings Fund Regular Plan - IDCW Monthly",
+      "Tata Equity Savings Fund Regular Plan - Growth",
+      "Tata Equity Savings Fund Direct Plan - Growth",
+      "Tata Equity Savings Fund Regular Plan - IDCW Periodic",
+      "Tata Equity Savings Fund Direct Plan - IDCW Periodic",
+      "Tata Equity Savings Fund Direct Plan - IDCW Monthly"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide long term capital appreciation and income distribution to the investors by predominantly investing in equity and equity related instruments, equity arbitrage opportunities and investments in debt and money market instruments. However, there is no assurance or guarantee that the investment objective of the Scheme will be achieved. The scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Equity & Equity Related instruments 65-90, of which- Net Long Equity Exposure- Equity & Equity related instruments and units of Equity Funds of Tata AMC 15-35, Equity & Equity Derivatives (Arbitrage/Hedged Exposure) 30-70, Debt, cash and Money Market Instruments 10-35, Exchange Traded Commodity Derivatives (ETCDs) 0-10, Units of Reits & Invits 0-10.",
+    "benchmark": "NIFTY Equity Savings Index",
+    "fund_managers": [
+      "Murthy Nagarajan",
+      "Sailesh Jain",
+      "Tapan Patel"
+    ],
+    "annual_expense": {
+      "Regular": "1.13",
+      "Direct": "0.51"
+    },
+    "exit_load": "Redemption / Switch out / SWP / STP before expiry of 7 days from the date of allotment - 0.25% of NAV; Redemption / Switch out / SWP / STP after expiry of 7 days from the date of allotment - NIL",
+    "amfi_codes": [
+      "101609",
+      "101906",
+      "119960",
+      "102118",
+      "119959",
+      "119958"
+    ],
+    "isins": [
+      "INF277K01899",
+      "INF277K01907",
+      "INF277K01QH5",
+      "INF277K01915",
+      "INF277K01QL7",
+      "INF277K01QJ1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Equity Savings Fund Regular Plan - IDCW Monthly",
+    "Tata Equity Savings Fund Regular Plan - Growth",
+    "Tata Equity Savings Fund Direct Plan - Growth",
+    "Tata Equity Savings Fund Regular Plan - IDCW Periodic",
+    "Tata Equity Savings Fund Direct Plan - IDCW Periodic",
+    "Tata Equity Savings Fund Direct Plan - IDCW Monthly"
+  ],
+  "extracted_at": "2026-04-13T16:11:30.830124+00:00"
+}

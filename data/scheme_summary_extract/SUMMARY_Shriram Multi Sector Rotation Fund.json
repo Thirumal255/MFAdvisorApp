@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Shriram Multi Sector Rotation Fund",
+  "source_file": "SUMMARY_Shriram Multi Sector Rotation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Shriram Multi Sector Rotation Fund",
+    "fund_type": "An open-ended scheme investing in equity and related instruments following multi sector rotation theme",
+    "fund_options": [
+      "Direct Growth",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to generate long-term capital appreciation by employing a quantamental approach of investing in equity and equity derivatives of specific sectors that are trending due to better earnings expectation. The allocation among sectors and stock selection will be decided by the in-house proprietary quantitative model and further augmented with fundamental analysis. There is no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity Related Instruments following the multi sector rotation theme *: 80% to 100%; Other equity and Equity-related Instruments*: 0% to 20% Money Market Instruments and Cash: 0% to 20% *Including Derivatives",
+    "benchmark": "NIFTY 500 TRI",
+    "fund_managers": "Mr. Deepak Ramaraju and Mr. Prateek Nigudkar",
+    "annual_expense": {
+      "Regular": "2.383",
+      "Direct": "0.783"
+    },
+    "exit_load": "• 1% of the applicable NAV, if redeemed within 3 months from the date of allotment.\n• Nil if redeemed after 3 months from the date of allotment",
+    "amfi_codes": [
+      "153076",
+      "153077"
+    ],
+    "isins": [
+      "INF680P01455",
+      "INF680P01463"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T16:02:27.318141+00:00"
+}

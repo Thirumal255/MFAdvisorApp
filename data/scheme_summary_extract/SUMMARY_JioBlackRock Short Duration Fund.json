@@ -1,0 +1,32 @@
+{
+  "parent_scheme_name": "JioBlackRock Short Duration Fund",
+  "source_file": "SUMMARY_JioBlackRock Short Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "JioBlackRock Short Duration Fund",
+    "fund_type": "An open ended short term debt scheme investing in instruments such that the Macaulay duration of the portfolio isbetween 1 year to 3 years. A relatively high interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Direct Plan - Growth"
+    ],
+    "riskometer": "Low To Moderate Risk",
+    "investment_objective": "The investment objective of the Scheme is to generate income through investment in money market and debt instrumentssuch that the Macaulay duration of the portfolio is between 1 year to 3 years. There is no assurance that the investmentobjective of the Scheme will be achieved.",
+    "asset_allocation": "Debt and Money Market instruments - 0% to 100%",
+    "benchmark": "NIFTY Short Duration Debt Index A-II",
+    "fund_managers": "Mr. Arun Ramachandran , Mr. Vikrant Mehta, Mr. Siddharth Deb",
+    "annual_expense": {
+      "Regular": "0.00",
+      "Direct": "0.20"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "154079"
+    ],
+    "isins": [
+      "INF22M001143"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T14:35:11.246572+00:00"
+}

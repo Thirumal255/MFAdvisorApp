@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "TRUSTMF Flexi Cap Fund",
+  "source_file": "SUMMARY_TRUSTMF Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "TRUSTMF Flexi Cap Fund",
+    "fund_type": "An open-ended dynamic equity scheme investing across Large cap, Mid cap, Small cap stocks",
+    "fund_options": [
+      "Direct Plan-IDCW Reinvestment",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-Growth",
+      "Regular Plan-IDCW Reinvestment",
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-Growth"
+    ],
+    "isins": [
+      "INF0GCD01768",
+      "INF0GCD01750",
+      "INF0GCD01743",
+      "INF0GCD01735",
+      "INF0GCD01727",
+      "INF0GCD01719"
+    ],
+    "amfi_codes": [
+      "152585",
+      "152585",
+      "152584",
+      "152583",
+      "152583",
+      "152582"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide long-term growth in capital and income to investors, through active management of investments in a diversified portfolio of equity and equity-related securities across the entire market capitalization spectrum and in debt and money market instruments. There is no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity & equity related instruments of large cap, midcap and smallcap companies - 65 to 100; Debt & Money Market Instruments - 0 to 35; Units issued by REITs & InvITs - 0 to 10",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Mr. Mihir Vora and Mr. Aakash Manghani",
+    "annual_expense": {
+      "Regular": "2.12",
+      "Direct": "0.49"
+    },
+    "exit_load": "1% - If redeemed/switched out within 180 days from the date of allotment. Nil - if redeemed/switched out after 180 days from the date of allotment."
+  },
+  "fund_options_inferred": [
+    "Direct Plan-IDCW Reinvestment",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-Growth",
+    "Regular Plan-IDCW Reinvestment",
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-Growth"
+  ],
+  "extracted_at": "2026-04-13T16:20:27.671978+00:00"
+}

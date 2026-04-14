@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "DSP Focused Fund",
+  "source_file": "SUMMARY_DSP Focused Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP Focused Fund",
+    "fund_type": "An open ended equity scheme investing in maximum 30 stocks. The Scheme shall focus on multi cap stocks.",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - IDCW - Reinvest",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW - Reinvest"
+    ],
+    "isins": [
+      "INF740K01OB0",
+      "INF740K01OC8",
+      "INF740K01OD6",
+      "INF740K01532",
+      "INF740K01540",
+      "INF740K01AC7"
+    ],
+    "amfi_codes": [
+      "119096",
+      "119095",
+      "119095",
+      "112901",
+      "113032",
+      "113032"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the Scheme is to generate longterm capital growth from a portfolio of equity and equity-related securities including equity derivatives. The portfolio will consist of multi cap companies by market capitalisation. TheScheme will hold equity and equity-related securities including equity derivatives, of upto 30 companies. The Scheme may alsoinvest in debt and money market securities, for defensive considerations and/or for managing liquidity requirements. There is noassurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "1. Equity & equity related instruments: 65% - 100% 2. Debt and Money Market Securities: 0% - 35% 3. Units issued by InvITs: 0% -10%",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Mr. Bhavin Gandhi",
+    "annual_expense": {
+      "Regular": "2.01",
+      "Direct": "0.95"
+    },
+    "exit_load": "1% - Holding period from the date of allotment < 1 month, Nil - Holding period from the date of allotment >= 1 month (as a % ofApplicable NAV)"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - IDCW - Reinvest",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW - Reinvest"
+  ],
+  "extracted_at": "2026-04-13T13:08:36.367799+00:00"
+}

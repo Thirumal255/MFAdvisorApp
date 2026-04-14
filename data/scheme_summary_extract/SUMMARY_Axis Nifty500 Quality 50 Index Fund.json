@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "AXIS NIFTY500 QUALITY 50 INDEX FUND",
+  "source_file": "SUMMARY_Axis Nifty500 Quality 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "AXIS NIFTY500 QUALITY 50 INDEX FUND",
+    "fund_type": "Regular Growth",
+    "fund_options": [
+      "Direct Growth",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide returns before expenses that correspond to the Nifty500 Quality 50 TRI subject to tracking error. There is no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Securities covered by Nifty500 Quality 50 Index : 95% to 100%; Debt & Money Market Instruments : 0% to 5%",
+    "benchmark": "Nifty500 Quality 50 TRI",
+    "fund_managers": "Mr. Karthik Kumar & Mr. Hitesh Das",
+    "annual_expense": {
+      "Regular": "1.06",
+      "Direct": "0.16"
+    },
+    "exit_load": "a) If redeemed/ switched out within 15 days from the date of allotment: 0.25% b) If redeemed/ switched out after 15days from the date of allotment: Nil",
+    "amfi_codes": [
+      "153829",
+      "153830"
+    ],
+    "isins": [
+      "INF846KA1200",
+      "INF846KA1192"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T12:34:47.500307+00:00"
+}

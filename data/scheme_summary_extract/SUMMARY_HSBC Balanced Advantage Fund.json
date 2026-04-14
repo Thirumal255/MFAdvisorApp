@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "HSBC Balanced Advantage Fund",
+  "source_file": "SUMMARY_HSBC Balanced Advantage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Balanced Advantage Fund",
+    "fund_type": "An open-ended dynamic asset allocation fund",
+    "fund_options": [
+      "HSBC Balanced Advantage Fund-Direct Plan-Growth",
+      "HSBC Balanced Advantage Fund-Direct Plan-IDCW Payout",
+      "HSBC Balanced Advantage Fund-Direct Plan-IDCW Reinvestment",
+      "HSBC Balanced Advantage Fund-Regular Plan-Growth",
+      "HSBC Balanced Advantage Fund-Regular Plan-IDCW Payout",
+      "HSBC Balanced Advantage Fund-Regular Plan-IDCW Reinvestment"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "To seek long term capital growth and income through investments in equity and equity related securities and ﬁxed incomeinstruments. There is no assurance that the objective of the Scheme will be realised and the Scheme does not assure orguarantee any returns.",
+    "asset_allocation": "Equities and Equity related instruments: 0% to 100% Debt and Money Market Securities*: 0% to 100% * including TREPS (Tri-Party Repo), Reverse Repo",
+    "benchmark": "NIFTY 50 Composite Hybrid Debt 50:50 Index",
+    "fund_managers": "FM 1 - Neelotpal Sahai, FM 2 - Ms. Prakriti Banka, FM 3 - Mr. Praveen Ayathan,FM 4 - Mr. Mahesh Chhabria, FM 5 - Mr. Mohd.Asif Rizwi , FM 6 - Mr. Mayank Chaturvedi",
+    "annual_expense": {
+      "Regular": "2.11",
+      "Direct": "0.81"
+    },
+    "exit_load": "If the units redeemed or switched out are upto 10% of the units purchased or switched in (the limit) within 1 year from thedate of allotment - Nil • If units redeemed or switched out are over and above the limit within 1 year from the date ofallotment - 1% • If units are redeemed or switched out on or after 1 year from the date of allotment. - Nil",
+    "amfi_codes": [
+      "151129",
+      "151128",
+      null,
+      "151127",
+      "151126",
+      null
+    ],
+    "isins": [
+      "INF917K01IN1",
+      "INF917K01IM3",
+      "INF917K01IL5",
+      "INF917K01KY4",
+      "INF917K01KW8",
+      "INF917K01KX6"
+    ]
+  },
+  "fund_options_inferred": [
+    "HSBC Balanced Advantage Fund-Direct Plan-Growth",
+    "HSBC Balanced Advantage Fund-Direct Plan-IDCW Payout",
+    "HSBC Balanced Advantage Fund-Direct Plan-IDCW Reinvestment",
+    "HSBC Balanced Advantage Fund-Regular Plan-Growth",
+    "HSBC Balanced Advantage Fund-Regular Plan-IDCW Payout",
+    "HSBC Balanced Advantage Fund-Regular Plan-IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T13:58:09.686449+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Union Value Fund",
+  "source_file": "SUMMARY_Union Value Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Union Value Fund",
+    "fund_type": "An Open-ended equity scheme following a value investment strategy.",
+    "fund_options": [
+      "Union Value Fund Growth Option - Regular Plan",
+      "Union Value Fund IDCW Payout - Regular Plan",
+      "Union Value Fund IDCW Reinvestment - Regular Plan",
+      "Union Value Fund Growth - Direct Plan",
+      "Union Value Fund IDCW Payout - Direct Plan",
+      "Union Value Fund IDCW Reinvestment - Direct Plan",
+      "Union Value Fund IDCW Transfer - Regular Plan",
+      "Union Value Fund IDCW Transfer - Direct Plan"
+    ],
+    "isins": [
+      "INF582M01EO6",
+      "INF582M01EQ1",
+      "INF582M01EP3",
+      "INF582M01EK4",
+      "INF582M01EM0",
+      "INF582M01EL2",
+      "INF582M01ER9",
+      "INF582M01EN8"
+    ],
+    "amfi_codes": [
+      "145471",
+      "145472",
+      null,
+      "145473",
+      "145474",
+      null,
+      null,
+      null
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to seek to generate long term capital appreciation by investing substantially in a portfolio of equity and equity related securities of companies which are undervalued (or are trading below their intrinsic value). However, there can be no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related instruments - 65%- 100% of net assets, Debt, Money Market instruments and Cash Equivalent -0%-35% of net assets, Units issued by InvITs - 0% to 10% of net assets. Please refer the Scheme Information Document for complete details.",
+    "benchmark": "BSE 500 Index (TRI)",
+    "fund_managers": "FM 1 Mr. Vinod Malviya, FM 2 Mr. Gaurav Chopra",
+    "annual_expense": {
+      "Regular": "2.47",
+      "Direct": "1.32"
+    },
+    "exit_load": "1% if units are redeemed or switched out on or before completion of 15 days from the date of allotment. Nil thereafter."
+  },
+  "fund_options_inferred": [
+    "Union Value Fund Growth Option - Regular Plan",
+    "Union Value Fund IDCW Payout - Regular Plan",
+    "Union Value Fund IDCW Reinvestment - Regular Plan",
+    "Union Value Fund Growth - Direct Plan",
+    "Union Value Fund IDCW Payout - Direct Plan",
+    "Union Value Fund IDCW Reinvestment - Direct Plan",
+    "Union Value Fund IDCW Transfer - Regular Plan",
+    "Union Value Fund IDCW Transfer - Direct Plan"
+  ],
+  "extracted_at": "2026-04-13T16:27:30.507233+00:00"
+}

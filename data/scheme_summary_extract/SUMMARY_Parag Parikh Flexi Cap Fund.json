@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Parag Parikh Flexi Cap Fund",
+  "source_file": "SUMMARY_Parag Parikh Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Parag Parikh Flexi Cap Fund",
+    "fund_type": "An open-ended dynamic equity scheme investing across large cap, mid cap, small cap stocks.",
+    "fund_options": [
+      "Regular Plan - Growth Option",
+      "Direct Plan - Growth Option",
+      "Regular Plan - Payout of IDCW Option",
+      "Direct Plan - Payout of IDCW Option",
+      "Regular Plan - Reinvestment of IDCW Option",
+      "Direct Plan - Reinvestment of IDCW Option"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to seek to generate long-term capital growth from an actively managed portfolio primarily of Equity and Equity Related Securities. Scheme shall invest in Indian equities, foreign equities and related instruments and debt securities.",
+    "asset_allocation": "Equity and equity related instruments : 65-100% Debt Securities, Money Market Securities : 0-35%, Foreign Equity and equity related instruments: 0-35% Debt securities (including units) issued by REITS & InviTs : 0-10%",
+    "benchmark": "NIFTY500(TRI)",
+    "fund_managers": "Mr. Rajeev Thakkar, Mr. Rukun Tarachandani, Mr. Raj Mehta, Mr. Raunak Onkar, Mr Tejas Soman , Ms. Mansi Kariya , Ms.Aishwarya Dhar",
+    "annual_expense": {
+      "Regular": "1.28",
+      "Direct": "0.63"
+    },
+    "exit_load": "In respect of each purchase / switch-in of Units, 10% of the units (the limit) may be redeemed without any exit load from the date of allotment.Any redemption or switch-out in excess of the limit shall be subject to the following exit load:2.00% if the investment is redeemed on or before 365 days from the date of allotment of units. 1.00% if the investment is redeemed after 365 days but on or before 730 days from the date of allotment of units. No Exit Load will be charged if investment is redeemed after 730 days from the date of allotment of units. No exit load will be charged, in case of switch transactions between Regular Plan and Direct Plan of the Scheme for existing as well as prospective investors.",
+    "amfi_codes": [
+      "122640",
+      "122639",
+      "153965",
+      "153964",
+      "001RD",
+      "001ZD"
+    ],
+    "isins": [
+      "INF879O01019",
+      "INF879O01027",
+      "INF879O01316",
+      "INF879O01290",
+      "INF879O01324",
+      "INF879O01308"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth Option",
+    "Direct Plan - Growth Option",
+    "Regular Plan - Payout of IDCW Option",
+    "Direct Plan - Payout of IDCW Option",
+    "Regular Plan - Reinvestment of IDCW Option",
+    "Direct Plan - Reinvestment of IDCW Option"
+  ],
+  "extracted_at": "2026-04-13T15:37:20.296782+00:00"
+}

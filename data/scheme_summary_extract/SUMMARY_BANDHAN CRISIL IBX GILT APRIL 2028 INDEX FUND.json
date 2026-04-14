@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Bandhan CRISIL IBX Gilt April 2028 Index Fund",
+  "source_file": "SUMMARY_BANDHAN CRISIL IBX GILT APRIL 2028 INDEX FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan CRISIL IBX Gilt April 2028 Index Fund",
+    "fund_type": "An open-ended Target Maturity Index fund investing in constituents of CRISIL Gilt 2028 Index.A Scheme with Relatively HighInterest Rate Risk and Relatively Low Credit Risk.",
+    "fund_options": [
+      "REGULAR PLAN - Growth",
+      "DIRECT PLAN - Growth",
+      "REGULAR PLAN - IDCW Payout",
+      "DIRECT PLAN - IDCW Payout"
+    ],
+    "isins": [
+      "INF194KB1BS7",
+      "INF194KB1BV1",
+      "INF194KB1BT5",
+      "INF194KB1BW9"
+    ],
+    "amfi_codes": [
+      "148790",
+      "148792",
+      "148793",
+      "148791"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns closely corresponding to the total returns of thesecurities as represented by the CRISIL Gilt 2028 Index before expenses, subject to tracking errors. However, there can be noassurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities comprising of CRISIL Gilt 2028 Index - 95% - 100%, Government Securities maturing on or before maturity date ofthe Scheme, Cash, Money Market Instruments - 0% - 5%",
+    "benchmark": "CRISIL Gilt 2028 Index",
+    "fund_managers": "FM 1 - Mr. Harshal Joshi, FM 2 - Mr. Gautam Kaul",
+    "annual_expense": {
+      "Regular": "0.45",
+      "Direct": "0.20"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN - Growth",
+    "DIRECT PLAN - Growth",
+    "REGULAR PLAN - IDCW Payout",
+    "DIRECT PLAN - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T12:40:57.173008+00:00"
+}

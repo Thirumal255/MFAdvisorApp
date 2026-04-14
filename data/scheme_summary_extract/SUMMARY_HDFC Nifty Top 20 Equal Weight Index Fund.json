@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "HDFC Nifty Top 20 Equal Weight Index Fund",
+  "source_file": "SUMMARY_HDFC Nifty Top 20 Equal Weight Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Nifty Top 20 Equal Weight Index Fund",
+    "fund_type": "An open ended scheme replicating/tracking Nifty Top 20 Equal Weight Index (TRI)",
+    "fund_options": [
+      "Regular Growth",
+      "Direct Growth"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "To generate returns that are commensurate (before fees and expenses) with the performance of the Nifty Top 20 Equal Weight Index (TRI), subject to tracking error. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities covered by Nifty Top 20 Equal Weight Index (TRI): 95%-100% Debt Securities & Money Market Instruments, Units of Debt Schemes of Mutual Funds@ : 0% - 5% @investments will be made in cash or cash equivalents i.e. Government Securities, T-Bills and Repo on Government Securities, units of Liquid and Overnight Mutual Fund Schemes for liquidity purposes. For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
+    "benchmark": "Nifty Top 20 Equal Weight Index (TRI)",
+    "fund_managers": "FM1 - Ms. Nandita Menezes, FM2 - Arun Agarwal",
+    "annual_expense": {
+      "Regular": "0.79",
+      "Direct": "0.30"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "153404",
+      "153405"
+    ],
+    "isins": [
+      "INF179KC1JH1",
+      "INF179KC1JI9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth"
+  ],
+  "extracted_at": "2026-04-13T13:51:08.344479+00:00"
+}

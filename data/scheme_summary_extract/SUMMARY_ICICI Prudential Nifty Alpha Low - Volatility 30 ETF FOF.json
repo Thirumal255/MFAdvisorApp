@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF",
+  "source_file": "SUMMARY_ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF",
+    "fund_type": "Others - Fund of Funds",
+    "fund_options": [
+      "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - Direct Plan - Growth",
+      "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - Direct Plan - IDCW",
+      "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - Growth",
+      "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "ICICI Prudential Nifty Alpha Low-Volatility 30 ETF FOF (the Scheme) is a Fund of Funds scheme with the primary objective to generate returns by investing in units of ICICI Prudential Alpha Low Vol 30 ETF. There can be no assurance or guarantee that the investment objectives of the Scheme would be achieved.",
+    "asset_allocation": "• Units of ICICI Prudential Alpha Low Vol 30 ETF 95% - 100% Medium to High\n• Units of Liquid schemes/ Money Market Instruments (with maturity not exceeding 91 days), including Tri-Party Repo 0% - 5% Low to Medium",
+    "benchmark": "Nifty Alpha Low -Volatility 30 TRI",
+    "fund_managers": [
+      "Nishit Patel",
+      "Ashwini Bharucha"
+    ],
+    "annual_expense": {
+      "Regular": "0.53",
+      "Direct": "0.10"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "149158",
+      "149160",
+      "149157",
+      "149159"
+    ],
+    "isins": [
+      "INF109KC1R89",
+      "INF109KC1S05",
+      "INF109KC1R97",
+      "INF109KC1R55",
+      "INF109KC1R71",
+      "INF109KC1R63"
+    ]
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - Direct Plan - Growth",
+    "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - Direct Plan - IDCW",
+    "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - Growth",
+    "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - IDCW"
+  ],
+  "extracted_at": "2026-04-13T14:16:21.473473+00:00"
+}

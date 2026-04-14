@@ -1,0 +1,76 @@
+{
+  "parent_scheme_name": "HDFC Ultra Short Term Fund",
+  "source_file": "SUMMARY_HDFC Ultra Short Term Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Ultra Short Term Fund",
+    "fund_type": "An open ended ultra-short term debt scheme investing in instruments such that the Macaulay Duration of the portfolio is between 3 months and 6 months. A scheme with Moderate Interest Rate Risk and Moderate Credit Risk.",
+    "fund_options": [
+      "DIRECT OPTION - GROWTH OPTION",
+      "DIRECT OPTION - DAILY DIVIDEND REINVESTMENT OPTION",
+      "DIRECT OPTION - WEEKLY DIVIDEND PAYOUT OPTION",
+      "DIRECT OPTION - WEEKLY DIVIDEND REINVESTMENT OPTION",
+      "DIRECT OPTION - MONTHLY DIVIDEND PAYOUT OPTION",
+      "DIRECT OPTION - MONTHLY DIVIDEND REINVESTMENT OPTION",
+      "REGULAR OPTION - GROWTH OPTION",
+      "REGULAR OPTION - DAILY DIVIDEND REINVESTMENT OPTION",
+      "REGULAR OPTION - WEEKLY DIVIDEND PAYOUT OPTION",
+      "REGULAR OPTION - WEEKLY DIVIDEND REINVESTMENT OPTION",
+      "REGULAR OPTION - MONTHLY DIVIDEND PAYOUT OPTION",
+      "REGULAR OPTION - MONTHLY DIVIDEND REINVESTMENT OPTION"
+    ],
+    "isins": [
+      "INF179KB15Q6",
+      "INF179KB16Q4",
+      "INF179KB18Q0",
+      "INF179KB17Q2",
+      "INF179KB10R5",
+      "INF179KB19Q8",
+      "INF179KB11R3",
+      "INF179KB12R1",
+      "INF179KB14R7",
+      "INF179KB13R9",
+      "INF179KB16R2",
+      "INF179KB15R4"
+    ],
+    "amfi_codes": [
+      "145039",
+      "145041",
+      "145035",
+      "145037",
+      "145036",
+      "145038",
+      "145034",
+      "145040",
+      "145038",
+      "145035",
+      "145037",
+      "145036"
+    ],
+    "riskometer": "Low to Moderate Risk",
+    "investment_objective": "To generate income/capital appreciation through investment in debt securities and money market instruments.There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Debt and Money Market instruments^ : Upto 100%; Units issued by InvITs : 0%- 10%; ^Portfolio Macaulay Duration shall be between 3 months and 6 months. For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
+    "benchmark": "CRISIL Ultra Short Duration Debt A-I Index",
+    "fund_managers": "FM 1 - Mr.Anil Bamboli, FM 2 - Mr. Praveen Jain, FM 3 - Mr.Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "0.72",
+      "Direct": "0.37"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "DIRECT OPTION - GROWTH OPTION",
+    "DIRECT OPTION - DAILY DIVIDEND REINVESTMENT OPTION",
+    "DIRECT OPTION - WEEKLY DIVIDEND PAYOUT OPTION",
+    "DIRECT OPTION - WEEKLY DIVIDEND REINVESTMENT OPTION",
+    "DIRECT OPTION - MONTHLY DIVIDEND PAYOUT OPTION",
+    "DIRECT OPTION - MONTHLY DIVIDEND REINVESTMENT OPTION",
+    "REGULAR OPTION - GROWTH OPTION",
+    "REGULAR OPTION - DAILY DIVIDEND REINVESTMENT OPTION",
+    "REGULAR OPTION - WEEKLY DIVIDEND PAYOUT OPTION",
+    "REGULAR OPTION - WEEKLY DIVIDEND REINVESTMENT OPTION",
+    "REGULAR OPTION - MONTHLY DIVIDEND PAYOUT OPTION",
+    "REGULAR OPTION - MONTHLY DIVIDEND REINVESTMENT OPTION"
+  ],
+  "extracted_at": "2026-04-13T13:55:19.922967+00:00"
+}

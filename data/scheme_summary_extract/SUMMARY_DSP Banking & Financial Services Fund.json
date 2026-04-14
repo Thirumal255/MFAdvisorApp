@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "DSP Banking & Financial Services Fund",
+  "source_file": "SUMMARY_DSP Banking & Financial Services Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP Banking & Financial Services Fund",
+    "fund_type": "An open ended equity scheme investing in banking and ﬁnancial services sector",
+    "fund_options": [
+      "Regular - Growth",
+      "Regular - IDCW",
+      "Regular - IDCW Reinvest",
+      "Direct - Growth",
+      "Direct - IDCW",
+      "Direct - IDCW Reinvest"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the scheme is to seek to generate returns through investment in domestic and overseas equity and equity related securities of companies engaged in banking and ﬁnancial services sector. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "1. Equity and equity related securities of companies engaged in banking and ﬁnancial services sector: 80% to 100%. 2. Equity and equity related securities of other companies: 0% to 20%. 3. Debt and Money Market Instruments: 0% to 20%. 4. Units issued by InvITs: 0% to 10%. For detailed asset allocation pattern, please refer to the Scheme Information Document",
+    "benchmark": "Nifty Financial Services TRI",
+    "fund_managers": "Ms. Preethi R S - Primary (Equity and Overseas portion)",
+    "annual_expense": {
+      "Regular": "2.07",
+      "Direct": "0.62"
+    },
+    "exit_load": "Holding period from the date of allotment: <= 1 month – 0.50% > 1 month – Nil",
+    "amfi_codes": [
+      "152208",
+      "152209",
+      "152209",
+      "152206",
+      "152207",
+      "152207"
+    ],
+    "isins": [
+      "INF740KA1TN0",
+      "INF740KA1TO8",
+      "INF740KA1TP5",
+      "INF740KA1TQ3",
+      "INF740KA1TR1",
+      "INF740KA1TS9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Regular - IDCW",
+    "Regular - IDCW Reinvest",
+    "Direct - Growth",
+    "Direct - IDCW",
+    "Direct - IDCW Reinvest"
+  ],
+  "extracted_at": "2026-04-13T13:05:47.252619+00:00"
+}

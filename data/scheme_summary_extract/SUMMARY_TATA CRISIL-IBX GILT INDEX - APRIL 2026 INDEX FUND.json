@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "TATA CRISIL-IBX GILT INDEX – APRIL 2026 INDEX FUND",
+  "source_file": "SUMMARY_TATA CRISIL-IBX GILT INDEX - APRIL 2026 INDEX FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "TATA CRISIL-IBX GILT INDEX – APRIL 2026 INDEX FUND",
+    "fund_type": "An open-ended Target Maturity Index Fund predominately investing in constituents of CRISIL IBX Gilt Index – April 2026. AScheme with Relatively High Interest Rate Risk and Relatively Low Credit Risk.",
+    "fund_options": [
+      "TATA CRISIL IBX GILT INDEX FUND -APRIL 2026 INDEX FUND -DIRECT PLAN-GROWTH",
+      "TATA CRISIL IBX GILT INDEX FUND -APRIL2026 INDEX FUND -DIRECT PLAN-IDCW REINVESTMENT",
+      "TATA CRISIL IBX GILT INDEX FUND -APRIL 2026 INDEX FUND -DIRECTPLAN-IDCW PAYOUT",
+      "TATA CRISIL IBX GILT INDEX FUND -APRIL 2026 INDEX FUND -REGULAR PLAN-GROWTH",
+      "TATA CRISIL IBXGILT INDEX FUND -APRIL 2026 INDEX FUND -REGULAR PLAN-IDCW REINVESTMENT",
+      "TATA CRISIL IBX GILT INDEX FUND -APRIL2026 INDEX FUND -REGULAR PLAN-IDCW PAYOUT"
+    ],
+    "isins": [
+      "INF277KA1554",
+      "INF277KA1562",
+      "INF277KA1570",
+      "INF277KA1588",
+      "INF277KA1596",
+      "INF277KA1604"
+    ],
+    "amfi_codes": [
+      "101049",
+      "119954",
+      "101042",
+      "119953",
+      null,
+      null
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the scheme is to provide returns that correspond to the total returns of the securities as represented by the underlying index, subject to tracking error. There is no guarantee or assurance that the investment objective of the scheme will be achieved. The scheme doesn’t assure or guarantee any returns.",
+    "asset_allocation": "Securities# covered by CRISIL-IBX Gilt Index – April 2026 ( 95-100 ), Government Securities maturing on or before maturity date of the Scheme, Money Market Instruments and units of debt oriented mutual fund schemes. ( 0- 5 )",
+    "benchmark": "CRISIL-IBX Gilt Index – April 2026 (TRI)",
+    "fund_managers": "Amit Somani",
+    "annual_expense": {
+      "Regular": "0.35",
+      "Direct": "0.12"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "TATA CRISIL IBX GILT INDEX FUND -APRIL 2026 INDEX FUND -DIRECT PLAN-GROWTH",
+    "TATA CRISIL IBX GILT INDEX FUND -APRIL2026 INDEX FUND -DIRECT PLAN-IDCW REINVESTMENT",
+    "TATA CRISIL IBX GILT INDEX FUND -APRIL 2026 INDEX FUND -DIRECTPLAN-IDCW PAYOUT",
+    "TATA CRISIL IBX GILT INDEX FUND -APRIL 2026 INDEX FUND -REGULAR PLAN-GROWTH",
+    "TATA CRISIL IBXGILT INDEX FUND -APRIL 2026 INDEX FUND -REGULAR PLAN-IDCW REINVESTMENT",
+    "TATA CRISIL IBX GILT INDEX FUND -APRIL2026 INDEX FUND -REGULAR PLAN-IDCW PAYOUT"
+  ],
+  "extracted_at": "2026-04-13T16:10:39.493318+00:00"
+}

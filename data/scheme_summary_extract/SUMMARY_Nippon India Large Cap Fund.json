@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Nippon India Large Cap Fund",
+  "source_file": "SUMMARY_Nippon India Large Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India Large Cap Fund",
+    "fund_type": "Open",
+    "fund_options": [
+      "Direct Growth Plan Bonus Option Bonus",
+      "Direct Plan IDCW Plan Payout",
+      "Direct Plan IDCW Plan Reinvestment",
+      "Direct Growth Plan Growth Option Growth",
+      "Growth Plan Bonus Option Bonus",
+      "IDCW Plan Payout",
+      "IDCW Plan Reinvestment",
+      "Growth Plan Growth Option Growth"
+    ],
+    "isins": [
+      "INF204K01D3",
+      "INF204K01XG7",
+      "INF204K01XH5",
+      "INF204K01XI3",
+      "INF204K01554",
+      "INF204K01539",
+      "INF204K01547",
+      "INF204K01562"
+    ],
+    "amfi_codes": [
+      "118633",
+      "118634",
+      "118634",
+      "118632",
+      "106240",
+      "106236",
+      "106236",
+      "106235"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the scheme is to seek to generate long term capital appreciation by investing predominantly into equity and equity related instruments of large cap companies. The secondary objective is to generate consistent returns by investing in debt, money market securities, REITs and InvITs. However, there can be no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "Equity & Equity Related Instruments – 80%-100%, Large Cap* Companies – 80%-100%, Mid & Small Cap* Companies – 0%-20%, Debt & Money Market Instruments 0%-20% & Units issued by REITs and InvITs 0%-10%. *Market Capitalization: Market value of the listed compAny, which is calculated by multiplying its current market price by total number of shares. Large Cap: Large Cap stocks are deﬁned as stocks of companies whose market capitalization is between 1st – 100th compAny in terms of full market capitalization. Mid Cap: Mid Cap stocks are deﬁned as stocks of companies whose market capitalization is between 101st – 250th compAny in terms of full market capitalization. Small Cap: Small Cap stocks are deﬁned as stocks of companies whose market capitalization is below ﬁrst 250 companies in terms of full market capitalization.",
+    "benchmark": "BSE 100 TRI",
+    "fund_managers": "FM 1 Sailesh Raj Bhan, FM 2 Bhavik Dave",
+    "annual_expense": {
+      "Regular": "1.48",
+      "Direct": "0.66"
+    },
+    "exit_load": "1% if redeemed or switched out on or before completion of 7 days from the date of allotment of units. Nil, thereafter."
+  },
+  "fund_options_inferred": [
+    "Direct Growth Plan Bonus Option Bonus",
+    "Direct Plan IDCW Plan Payout",
+    "Direct Plan IDCW Plan Reinvestment",
+    "Direct Growth Plan Growth Option Growth",
+    "Growth Plan Bonus Option Bonus",
+    "IDCW Plan Payout",
+    "IDCW Plan Reinvestment",
+    "Growth Plan Growth Option Growth"
+  ],
+  "extracted_at": "2026-04-13T15:28:28.174308+00:00"
+}

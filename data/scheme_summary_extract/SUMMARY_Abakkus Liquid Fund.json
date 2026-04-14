@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "Abakkus Liquid Fund",
+  "source_file": "SUMMARY_Abakkus Liquid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Abakkus Liquid Fund",
+    "fund_type": "An open-ended liquid scheme – a relatively low interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Abakkus Liquid Fund-Regular Plan-Growth",
+      "Abakkus Liquid Fund- Regular Plan- Daily IDCW Reinvestment",
+      "Abakkus Liquid Fund -Regular Plan - Weekly IDCW Reinvestment",
+      "Abakkus Liquid Fund -Regular Plan - Monthly IDCW Reinvestment",
+      "Abakkus Liquid Fund -Regular Plan - Quarterly IDCW Reinvestment",
+      "Abakkus Liquid Fund- Direct Plan-Growth",
+      "Abakkus Liquid Fund- Direct Plan- Daily IDCW Reinvestment",
+      "Abakkus Liquid Fund - Direct Plan - Weekly IDCW Reinvestment",
+      "Abakkus Liquid Fund - Direct Plan - Monthly IDCW Reinvestment",
+      "Abakkus Liquid Fund -Regular Plan - Quarterly IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF2JJD01078",
+      "INF2JJD01060",
+      "INF2JJD01094",
+      "INF2JJD01086",
+      "INF2JJD01102",
+      "INF2JJD01029",
+      "INF2JJD01011",
+      "INF2JJD01045",
+      "INF2JJD01037",
+      "INF2JJD01052"
+    ],
+    "amfi_codes": [
+      "154047",
+      "154053",
+      "154056",
+      "154048",
+      "154054",
+      "154051",
+      "154049",
+      "154050",
+      "154055",
+      "154052"
+    ],
+    "riskometer": "Low Risk",
+    "investment_objective": "To generate optimal returns consistent with moderate levels of risk and high liquidity by investing in debt and money marketinstruments. “There is no assurance that the investment objective of the Scheme will be achieved.”",
+    "asset_allocation": "Money Market & Debt instruments (including Triparty Repo on government securities or T- Bills/ Repo/ Reverse repo (includingCorporate Bond Repo) with maturity upto 91 days : 0% to 100%",
+    "benchmark": "CRISIL Liquid Debt A-I TRI",
+    "fund_managers": "Mr. Sanjay Doshi",
+    "annual_expense": {
+      "Regular": "0.31",
+      "Direct": "0.23"
+    },
+    "exit_load": "Upto Day 1 @ 0.0070%, Day 2 @ 0.0065%, Day 3 @ 0.0060%, Day 4 @ 0.0055%,Day 5 @ 0.0050%, Day 6 @ 0.0045% and Day 7onwards@Nil"
+  },
+  "fund_options_inferred": [
+    "Abakkus Liquid Fund-Regular Plan-Growth",
+    "Abakkus Liquid Fund- Regular Plan- Daily IDCW Reinvestment",
+    "Abakkus Liquid Fund -Regular Plan - Weekly IDCW Reinvestment",
+    "Abakkus Liquid Fund -Regular Plan - Monthly IDCW Reinvestment",
+    "Abakkus Liquid Fund -Regular Plan - Quarterly IDCW Reinvestment",
+    "Abakkus Liquid Fund- Direct Plan-Growth",
+    "Abakkus Liquid Fund- Direct Plan- Daily IDCW Reinvestment",
+    "Abakkus Liquid Fund - Direct Plan - Weekly IDCW Reinvestment",
+    "Abakkus Liquid Fund - Direct Plan - Monthly IDCW Reinvestment",
+    "Abakkus Liquid Fund -Regular Plan - Quarterly IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T12:09:45.036693+00:00"
+}

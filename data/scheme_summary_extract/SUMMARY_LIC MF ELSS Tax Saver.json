@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "LIC MF ELSS Tax Saver",
+  "source_file": "SUMMARY_LIC MF ELSS Tax Saver.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "LIC MF ELSS Tax Saver",
+    "fund_type": "An open ended equity linked saving scheme with a statutory lock in of 3 years and tax beneﬁt",
+    "fund_options": [
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan - Growth"
+    ],
+    "isins": [
+      "INF767K01931",
+      "INF767K01956",
+      "INF767K01EL3",
+      "INF767K01EM1"
+    ],
+    "amfi_codes": [
+      "100864",
+      "100865",
+      "120269",
+      "120270"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide capital growth along with tax rebate and tax relief to our investors through prudent investments in the stockmarkets. An open-ended equity linked tax saving Scheme which oﬀers investors the opportunity to seek Tax rebate u/s 80C ofthe Income Tax Act 1961. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and equity related instruments:80-100%, Debt and debt related instruments, G-Secs, Money market instruments andcash:0-20%. Please refer the Scheme Information Document for complete details.",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "FM1 Mr. Yogesh Patil FM2 Mr. Dikshit Mittal",
+    "annual_expense": {
+      "Regular": "2.14",
+      "Direct": "0.96"
+    },
+    "exit_load": "Nil (Subject to lock-in period of 3 years)"
+  },
+  "fund_options_inferred": [
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T14:55:13.385606+00:00"
+}

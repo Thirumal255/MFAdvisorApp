@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis Nifty 100 Index Fund",
+  "source_file": "SUMMARY_Axis Nifty 100 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Nifty 100 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide returns before expenses that closely corresponds to the total returns of the NIFTY 100 subject to tracking errors.However, there can be no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments comprising Nifty 100 Index - (95%-100%), Debt & Money Market Instruments - (0%-5%)",
+    "benchmark": "NIFTY 100 TRI",
+    "fund_managers": "Mr. Karthik Kumar",
+    "annual_expense": {
+      "Regular": "0.92",
+      "Direct": "0.21"
+    },
+    "exit_load": "If redeemed or switched out within 7 days from the date of allotment: 1% w.e.f., 18/10/2019",
+    "amfi_codes": [
+      "147666",
+      "147668",
+      "147665",
+      "147667"
+    ],
+    "isins": [
+      "INF846K01S29",
+      "INF846K01S37",
+      "INF846K01S52",
+      "INF846K01S60",
+      "INF846K01S45",
+      "INF846K01S78"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T12:33:26.269341+00:00"
+}

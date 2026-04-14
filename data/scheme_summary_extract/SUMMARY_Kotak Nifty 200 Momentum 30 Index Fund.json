@@ -1,0 +1,56 @@
+{
+  "parent_scheme_name": "Kotak Nifty 200 Momentum 30 Index Fund",
+  "source_file": "SUMMARY_Kotak Nifty 200 Momentum 30 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Nifty 200 Momentum 30 Index Fund",
+    "fund_type": "An open ended scheme replicating/ tracking Nifty 200 Momentum 30 Index",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCW Re-investment",
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-IDCW Re-investment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, corresponding to the total returns of the securities as represented by the underlying index, subject to tracking error. However, there is no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related securities covered by the Nifty 200 Momentum 30 Index-95%-100%-Very High Debt and Money Market Instruments -0%-5%-Low to Moderate",
+    "benchmark": "Nifty 200 Momentum 30 Index (Total Return Index).",
+    "fund_managers": [
+      "Mr. Devender Singhal",
+      "Mr. Satish Dondapati",
+      "Mr. Abhishek Bisen"
+    ],
+    "annual_expense": {
+      "Regular": "0.66",
+      "Direct": "0.20"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "151781",
+      "151782",
+      "151782",
+      "151783",
+      "151780",
+      "151780"
+    ],
+    "isins": [
+      "INF174KA1OB1",
+      "INF174KA1OC9",
+      "INF174KA1OD7",
+      "INF174KA1NY5",
+      "INF174KA1NZ2",
+      "INF174KA1OA3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCW Re-investment",
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-13T14:48:26.562825+00:00"
+}

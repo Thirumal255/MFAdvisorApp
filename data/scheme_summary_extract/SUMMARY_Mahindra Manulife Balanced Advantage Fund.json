@@ -1,0 +1,48 @@
+{
+  "parent_scheme_name": "Mahindra Manulife Balanced Advantage Fund",
+  "source_file": "SUMMARY_Mahindra Manulife Balanced Advantage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mahindra Manulife Balanced Advantage Fund",
+    "fund_type": "Mahindra Manulife Balanced Advantage Yojana (An open ended Dynamic Asset Allocation Fund)",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to provide capital appreciation and generate income through a dynamic mix ofequity, debt and money market instruments.The Scheme seeks to reduce the volatility by diversifying the assets across equity,debt and money market instruments. However, there can be no assurance that the investment objective of the Scheme will beachieved",
+    "asset_allocation": "Equity & Equity related instruments^: 0% - 100%, Debt and Money Market Securities (including TREPS (Tri-Party Repo), ReverseRepo): 0% -100%, ^The Scheme may invest in derivatives instruments to the extent of 50% of the Net Assets of the Scheme. TheScheme may use equity derivatives for such purposes as may be permitted by the Regulations, including for the purpose ofhedging and portfolio balancing, based on the opportunities available and subject to guidelines issued by SEBI from time totime. Note: For detailed Asset Allocation please refer Scheme Information Document of the Scheme available on our websitewww.mahindramanulife.com",
+    "benchmark": "Nifty 50 Hybrid Composite Debt 50: 50 Index TRI",
+    "fund_managers": [
+      "Ms. Fatema Pacha (Equity portion)",
+      "Mr. Rahul Pal (Debt portion)",
+      "Mr. Amit Garg (Debt portion)"
+    ],
+    "annual_expense": {
+      "Regular": "2.21",
+      "Direct": "0.53"
+    },
+    "exit_load": "Exit Load: 10% of the units allotted shall be redeemed without any exit load, on or before completion of 3 months from thedate of allotment of Units. Any redemption in excess of the above limit shall be subject to the following exit load: - An Exit Loadof 1% is payable if Units are redeemed / switched-out on or before completion of 3 months from the date of allotment of Units;- Nil - If Units are redeemed / switched-out after completion of 3 months from the date of allotment of Units.",
+    "amfi_codes": [
+      "149405",
+      "149404",
+      "149407",
+      "149406"
+    ],
+    "isins": [
+      "INF174V01BD2",
+      "INF174V01BB6",
+      "INF174V01BG5",
+      "INF174V01BE0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-13T15:00:28.205680+00:00"
+}

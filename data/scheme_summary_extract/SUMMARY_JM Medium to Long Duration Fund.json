@@ -1,0 +1,56 @@
+{
+  "parent_scheme_name": "JM Medium to Long Duration Fund",
+  "source_file": "SUMMARY_JM Medium to Long Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "JM Medium to Long Duration Fund",
+    "fund_type": "An open ended medium term debt scheme investing in instruments such that the Macaulay duration of the portfolio is between4 years to 7 years. A relatively high interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "JM Medium to Long Duration Fund - (Regular) - Quarterly IDCW Option",
+      "JM Medium to Long Duration Fund - (Regular) - Growth Option",
+      "JM Medium to Long Duration Fund - (Regular) - Bonus Option - Principal Units",
+      "JM Medium to Long Duration Fund - (Regular) - Bonus Option - Bonus Units",
+      "JM Medium to Long Duration Fund - (Direct) - Quarterly IDCW Option",
+      "JM Medium to Long Duration Fund - (Direct) - Growth Option",
+      "JM Medium to Long Duration Fund - (Direct) - Bonus Option - Principal Units"
+    ],
+    "isins": [
+      "INF192K01999",
+      "INF192K01AB3",
+      "INF192K01AC1",
+      "INF192K01AD9",
+      "INF192K01CU9",
+      "INF192K01CW5",
+      "INF192K01CX3"
+    ],
+    "amfi_codes": [
+      "100222",
+      "100223",
+      "101181",
+      "148886",
+      "120431",
+      "120430",
+      "120428"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate stable long term returns with low risk strategy and capital appreciation/accretion through investment in debtinstruments and related securities besides preservation of capital. Investors are required to read all the scheme relatedinformation set out in this document carefully and also note that there can be no assurance that the investment objectives ofthe scheme will be realized. The schemes do not guarantee/ indicate any returns.",
+    "asset_allocation": "Debt - 0%-100% - Low to Medium, Money Market & debt Instruments Maturing within one year - 0%-100% - Low",
+    "benchmark": "CRISIL Medium to Long Duration Debt A-III Index",
+    "fund_managers": "Mr. Killol Pandya, Ms. Ruchi Fozdar, Mr. Jayant Dhoot",
+    "annual_expense": {
+      "Regular": "1.09",
+      "Direct": "0.61"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "JM Medium to Long Duration Fund - (Regular) - Quarterly IDCW Option",
+    "JM Medium to Long Duration Fund - (Regular) - Growth Option",
+    "JM Medium to Long Duration Fund - (Regular) - Bonus Option - Principal Units",
+    "JM Medium to Long Duration Fund - (Regular) - Bonus Option - Bonus Units",
+    "JM Medium to Long Duration Fund - (Direct) - Quarterly IDCW Option",
+    "JM Medium to Long Duration Fund - (Direct) - Growth Option",
+    "JM Medium to Long Duration Fund - (Direct) - Bonus Option - Principal Units"
+  ],
+  "extracted_at": "2026-04-13T14:40:17.015678+00:00"
+}

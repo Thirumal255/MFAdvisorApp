@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Bandhan Financial Services Fund",
+  "source_file": "SUMMARY_BANDHAN FINANCIAL SERVICES FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Financial Services Fund",
+    "fund_type": "Sector Fund - An open ended equity scheme investing in Financial Services Sector",
+    "fund_options": [
+      "BANDHAN FINANCIAL SERVICES FUND Regular Plan-Growth",
+      "BANDHAN FINANCIAL SERVICES FUND Regular Plan-IDCW",
+      "BANDHAN FINANCIAL SERVICES FUND Direct Plan-Growth",
+      "BANDHAN FINANCIAL SERVICES FUND Direct Plan-IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme seeks to generate long-term capital appreciation by investing predominantly in equity and equity related instruments of companies engaged in ﬁnancial services sector.",
+    "asset_allocation": "Securities belonging to the Equity and equity related instruments of companies engaged in ﬁnancial services sector -80%-100%, Equities & Equity related securities other than above and overseas securities* - 0% - 20% Debt Securities and Money Market Instruments (including Government securities, Securitised debt) - 0%- 20% Units issued by InvITs - 0% - 10%",
+    "benchmark": "Nifty Financial Services TRI Index",
+    "fund_managers": "Ms. Ritu Modi (equity portfolio), Mr. Harshvardhan Agrawal (equity portfolio) & Mr. Harshal Joshi (debt portfolio)",
+    "annual_expense": {
+      "Regular": "2.15",
+      "Direct": "0.61"
+    },
+    "exit_load": "Nil (If redeemed/switched out within 1 year from the date of allotment - 1% of applicable NAV)",
+    "amfi_codes": [
+      "151816",
+      "151817",
+      "151818",
+      "151819"
+    ],
+    "isins": [
+      "INF194KB1GE6",
+      "INF194KB1GF3",
+      "INF194KB1GB2",
+      "INF194KB1GC0"
+    ]
+  },
+  "fund_options_inferred": [
+    "BANDHAN FINANCIAL SERVICES FUND Regular Plan-Growth",
+    "BANDHAN FINANCIAL SERVICES FUND Regular Plan-IDCW",
+    "BANDHAN FINANCIAL SERVICES FUND Direct Plan-Growth",
+    "BANDHAN FINANCIAL SERVICES FUND Direct Plan-IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:41:43.946110+00:00"
+}

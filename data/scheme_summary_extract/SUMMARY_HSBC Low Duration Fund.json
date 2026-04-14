@@ -1,0 +1,64 @@
+{
+  "parent_scheme_name": "HSBC Low Duration Fund",
+  "source_file": "SUMMARY_HSBC Low Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Low Duration Fund",
+    "fund_type": "An open-ended low duration debt scheme investing in instruments such that the Macaulay duration of the portfolio is between6 months to 12 months. Relatively low interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Direct Plan - Annual IDCW Payout",
+      "Direct Plan - Annual IDCW Reinvestment",
+      "Regular Plan - Annual IDCW Payout",
+      "Regular Plan - Annual IDCW Reinvestment",
+      "Direct Plan-Growth",
+      "Direct Plan- Monthly IDCW Payout",
+      "Regular Plan - Growth",
+      "Regular Plan - Monthly IDCW Payout",
+      "Regular Plan - Monthly IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF917K01VV7",
+      "INF917K01VU9",
+      "INF917K01VX3",
+      "INF917K01VW5",
+      "INF917K01GM7",
+      "INF917K01GK1",
+      "INF677K01452",
+      "INF677K01460",
+      "INF677K01478"
+    ],
+    "amfi_codes": [
+      "151118",
+      "151117",
+      "151119",
+      "null",
+      "151116",
+      "null",
+      "151114",
+      "151115",
+      "null"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "To provide liquidity and reasonable returns by investing primarily in a mix of short term debt and money market instrumentssuch that the Macaulay duration of the portfolio is between 6 months to 12 months. However, there can be no assurance orguarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Debt & Money market instruments such that Macaulay duration of the portfolio is between 6 months to 12 months - 0% - 100%",
+    "benchmark": "NIFTY Low Duration Debt Index A-I",
+    "fund_managers": "FM 1 - Shriram Ramanathan, FM 2 - Mohd Asif Rizwi",
+    "annual_expense": {
+      "Regular": "0.89",
+      "Direct": "0.39"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Annual IDCW Payout",
+    "Direct Plan - Annual IDCW Reinvestment",
+    "Regular Plan - Annual IDCW Payout",
+    "Regular Plan - Annual IDCW Reinvestment",
+    "Direct Plan-Growth",
+    "Direct Plan- Monthly IDCW Payout",
+    "Regular Plan - Growth",
+    "Regular Plan - Monthly IDCW Payout",
+    "Regular Plan - Monthly IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T14:03:57.911416+00:00"
+}

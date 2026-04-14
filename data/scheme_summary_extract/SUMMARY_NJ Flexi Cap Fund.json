@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "NJ Flexi Cap Fund",
+  "source_file": "SUMMARY_NJ Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "NJ Flexi Cap Fund",
+    "fund_type": "An open ended dynamic equity scheme investing across large cap, mid cap, small cap stocks.",
+    "fund_options": [
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth",
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth"
+    ],
+    "isins": [
+      "INF0J8L01164",
+      "INF0J8L01156",
+      "INF0J8L01149",
+      "INF0J8L01131"
+    ],
+    "amfi_codes": [
+      "151918",
+      "151917",
+      "151919",
+      "151920"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "NJ Flexi Cap Fund is an open ended dynamic equity scheme investing across large cap, mid cap, small cap stocks. Theinvestment objective of the Scheme is to generate long term capital appreciation by investing in equity and equity relatedinstruments across market capitalizations. However, there is no assurance or guarantee that the investment objective of thescheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments Minimum 65% - Maximum 100% RiskProﬁle – Medium to High Debt and money market instruments - Minimum 0% - Maximum 35% Risk Proﬁle - Low to Medium",
+    "benchmark": "NIFTY 500 TRI",
+    "fund_managers": "Mr. Dhaval Patel",
+    "annual_expense": {
+      "Regular": "1.96",
+      "Direct": "0.49"
+    },
+    "exit_load": "1. Nil Exit load – for 5% of the units upto completion of 30 days The “First In First Out (FIFO)” logic will be applied while selectingthe units for redemption Waiver of Exit load is calculated for each inﬂow transaction separately on FIFO basis and not on thetotal unitsthrough multiple inﬂows The load free units from purchases made subsequent to the initial purchase will be availableonly after redeemingall units from the initial purchase 2. All units redeemed /switched-out in excess of the 5% load free unitswill be subject to the below mentioned exitload. 1.00% - if Units are redeemed/switched-out on or before 30 days from thedate of allotment Nil - if redeemed after 30 days from the date of allotment."
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth",
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T15:36:17.442184+00:00"
+}

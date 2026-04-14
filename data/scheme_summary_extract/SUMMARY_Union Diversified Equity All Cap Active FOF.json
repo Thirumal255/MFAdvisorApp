@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Union Diversiﬁed Equity All Cap Active FOF",
+  "source_file": "SUMMARY_Union Diversified Equity All Cap Active FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Union Diversiﬁed Equity All Cap Active FOF",
+    "fund_type": "An open-ended Fund of Fund Scheme investing in units of Equity Oriented Schemes that are based on varied market caps",
+    "fund_options": [
+      "Regular Plan - Growth Option",
+      "Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal Option",
+      "Regular Plan - Payout of Income Distribution cum Capital Withdrawal Option",
+      "Regular Plan - Transfer of Income Distribution cum Capital Withdrawal Option",
+      "Direct Plan - Growth Option",
+      "Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal Option",
+      "Direct Plan - Payout of Income Distribution cum Capital Withdrawal Option",
+      "Direct Plan - Transfer of Income Distribution cum Capital Withdrawal Option"
+    ],
+    "isins": [
+      "INF582M01LV6",
+      "INF582M01LX2",
+      "INF582M01LW4",
+      "INF582M01LY0",
+      "INF582M01LZ7",
+      "INF582M01MB6",
+      "INF582M01MA8",
+      "INF582M01MC4"
+    ],
+    "amfi_codes": [
+      "153822",
+      "153823",
+      "null",
+      "null",
+      "153824",
+      "153825",
+      "null",
+      "null"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The objective of the Scheme is to provide capital appreciation over long term by predominantly investing in Equity Funds which are based on varied market caps and in accordance with the asset allocation of the FoF. However, there is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Units of Equity Funds#: 90%-100%,Units of Debt & Money Market Funds#: 0%-10%,Money Market Instruments and Cash & Cash Equivalent: 0%-5%,#The Scheme will invest predominantly in the existing or prospective schemes of Union Mutual Fund / third party domestic mutual funds that invests in equity and equity related instruments, debt, money market instruments, etc. depending upon the asset allocation pattern, investment objective and risk proﬁle of the respective schemes. The current indicative list of the Underlying schemes of Union Mutual Fund that may be considered for investments by the Scheme are as below: 1. Union Flexi Cap Fund 2. Union Multi Cap Fund 3. Union Midcap Fund 4. Union Large & Midcap Fund 5. Union Small Cap Fund 6. Union Largecap Fund 7. Union Corporate Bond Fund 8. Union Liquid Fund 9. Union Money Market Fund 10. Union Gilt Fund 11. Union Dynamic Bond Fund 12. Union Short Duration Fund Please refer the Scheme Information Document for more details.",
+    "benchmark": "The \"Index\" viz. “BSE 500 Index”, is a product of Asia Index Private Limited (AIPL), a wholly owned subsidiary of BSE Limited (“BSE”), and has been licensed for use by Union Asset Management Company Private Limited. BSE® and SENSEX® are registered trademarks of BSE Limited; and these trademarks have been licensed to use by AIPL and sublicensed for certain purposes by Union Asset Management Company Private Limited. BSE, AIPL or their respective aﬃliates and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability for any errors, omissions, or interruptions of the Index. Please refer the Scheme Information Document for more details.",
+    "fund_managers": "FM 1 -Mr. Gaurav Chopra FM 2- Mr.Pratik Dharmshi",
+    "annual_expense": {
+      "Regular": "1.32",
+      "Direct": "0.46"
+    },
+    "exit_load": "1% if redeemed or switched out on or before completion of 1 year from the date of allotment of units. Nil if redeemed or switched out after completion of 1 year from the date of allotment of units."
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth Option",
+    "Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal Option",
+    "Regular Plan - Payout of Income Distribution cum Capital Withdrawal Option",
+    "Regular Plan - Transfer of Income Distribution cum Capital Withdrawal Option",
+    "Direct Plan - Growth Option",
+    "Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal Option",
+    "Direct Plan - Payout of Income Distribution cum Capital Withdrawal Option",
+    "Direct Plan - Transfer of Income Distribution cum Capital Withdrawal Option"
+  ],
+  "extracted_at": "2026-04-13T16:23:16.262945+00:00"
+}

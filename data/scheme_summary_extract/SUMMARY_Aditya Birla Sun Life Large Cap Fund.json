@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Aditya Birla Sun Life Large Cap Fund",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Large Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Aditya Birla Sun Life Large Cap Fund",
+    "fund_type": "An open ended equity scheme predominantly investing in large cap stocks.",
+    "fund_options": [
+      "Aditya Birla Sun Life Large Cap Fund-Regular - IDCW",
+      "Aditya Birla Sun Life Large Cap Fund-Growth",
+      "Aditya Birla Sun Life Large Cap Fund-DIRECT - IDCW",
+      "Aditya Birla Sun Life Large Cap Fund - Growth - Direct Plan"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The objective of the scheme is long term growth of capital, through a portfolio with a target allocation of 100% equity by aiming at being as diversified across various industries and/ or sectors as its chosen benchmark index, Nifty 100 TRI. The secondary objective is income generation and distribution of IDCW.",
+    "asset_allocation": "Equity and Equity related Instruments of Large Cap Companies - 80-100% - Medium to High\nEquity and equity related instruments of Companies other than Large Cap - 0-20% - Medium to High\nDebt and Money Market Securities and Money market instruments (Including Securitised Debt) - 0-20% - Low to Medium",
+    "benchmark": "Nifty 100 TRI",
+    "fund_managers": "Mr. Harish Krishnan",
+    "annual_expense": {
+      "Regular": "1.67",
+      "Direct": "1.02"
+    },
+    "exit_load": "For redemption/switch-out of units on or before 90 days from the date of allotment: 1.00% of applicable NAV. For redemption/switch-out of units after 90 days from the date of allotment: Nil",
+    "amfi_codes": [
+      "103173",
+      "103174",
+      "119527",
+      "119528"
+    ],
+    "isins": [
+      "INF209K01BO6",
+      "INF209K01BR9",
+      "INF209K01YX9",
+      "INF209K01YY7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Aditya Birla Sun Life Large Cap Fund-Regular - IDCW",
+    "Aditya Birla Sun Life Large Cap Fund-Growth",
+    "Aditya Birla Sun Life Large Cap Fund-DIRECT - IDCW",
+    "Aditya Birla Sun Life Large Cap Fund - Growth - Direct Plan"
+  ],
+  "extracted_at": "2026-04-13T12:18:34.558325+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "ICICI Prudential Large Cap Fund",
+  "source_file": "SUMMARY_ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund).pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Large Cap Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Large Cap Fund - Direct Plan - Growth",
+      "ICICI Prudential Large Cap Fund - Direct Plan - IDCW",
+      "ICICI Prudential Large Cap Fund - Growth",
+      "ICICI Prudential Large Cap Fund - IDCW"
+    ],
+    "isins": [
+      "INF109K016L0",
+      "INF109K014L5",
+      "INF109K015L2",
+      "INF109K01BL4",
+      "INF109K01EP9",
+      "INF109K01BM2"
+    ],
+    "amfi_codes": [
+      "120586",
+      "120585",
+      "108466",
+      "108465"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long term capital appreciation and income distribution to investors from a portfolio that is predominantly invested in equity and equity related securities of large cap companies. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Equities & Equity related securities of large cap companies = 80% - 100%\n• Equities & Equity related securities of other than large cap companies = 0% - 20%\n• Debt & Money Market Instruments 0% - 20% \n•Units issued by  InvITs 0%- 10%",
+    "benchmark": "Nifty 100 TRI",
+    "fund_managers": [
+      "Anish Tawakley",
+      "Vaibhav Dusad"
+    ],
+    "annual_expense": {
+      "Regular": "1.41",
+      "Direct": "0.86"
+    },
+    "exit_load": "Upto 1 Year from allotment - 1% of applicable NAV, more than 1 Year - Nil."
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Large Cap Fund - Direct Plan - Growth",
+    "ICICI Prudential Large Cap Fund - Direct Plan - IDCW",
+    "ICICI Prudential Large Cap Fund - Growth",
+    "ICICI Prudential Large Cap Fund - IDCW"
+  ],
+  "extracted_at": "2026-04-13T14:13:33.033292+00:00"
+}

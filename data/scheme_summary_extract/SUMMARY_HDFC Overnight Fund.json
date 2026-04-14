@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "HDFC Overnight Fund",
+  "source_file": "SUMMARY_HDFC Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Overnight Fund",
+    "fund_type": "An open ended debt scheme investing in overnight securities.A scheme with Relatively Low Interest Rate Risk and Relatively LowCredit Risk.",
+    "fund_options": [
+      "DIRECT PLAN - DIRECT PLAN - GROWTH OPTION",
+      "REGULARPLAN - GROWTH OPTION"
+    ],
+    "riskometer": "Low Risk",
+    "investment_objective": "To generate returns by investing in debt and money market instruments with overnight maturity. There is no assurance that theinvestment objective of the Scheme will be achieved.",
+    "asset_allocation": "Debt and Money Market instruments# (including MIBOR linked instruments with daily put and call option#) : Upto 100%#maturing on or before next Business Day. For detailed asset allocation, refer Scheme Information Document (SID) available onthe website.",
+    "benchmark": "CRISIL Liquid Overnight Index",
+    "fund_managers": "FM 1 - Mr. Swapnil Jangam , FM 2 - Mr. Rohan Pillai",
+    "annual_expense": {
+      "Regular": "0.20",
+      "Direct": "0.10"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "119109",
+      "119110"
+    ],
+    "isins": [
+      "INF179KB1HT1",
+      "INF179KB1HS3"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN - DIRECT PLAN - GROWTH OPTION",
+    "REGULARPLAN - GROWTH OPTION"
+  ],
+  "extracted_at": "2026-04-13T13:53:01.853035+00:00"
+}

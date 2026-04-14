@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Canara Robeco ELSS Tax Saver",
+  "source_file": "SUMMARY_Canara Robeco ELSS Tax Saver.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Canara Robeco ELSS Tax Saver",
+    "fund_type": "An open ended equity linked saving scheme with a statutory lock in of 3 years and tax beneﬁt",
+    "fund_options": [
+      "Direct - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Regular Plan - IDCW Payout",
+      "Regular - Growth",
+      "Direct Plan - IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF760K01EL8",
+      "INF760K01EJ2",
+      "INF760K01EK0",
+      "INF760K01084",
+      "INF760K01100",
+      "INF760K01092"
+    ],
+    "amfi_codes": [
+      null,
+      null,
+      null,
+      null,
+      "111722",
+      null
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "ELSS seeking to provide long term capital appreciation by predominantly investing in equities to facilitate the subscribers toseek tax beneﬁts as provided under Section 80 C of the Income Tax Act, 1961. However, there can be no assurance that theinvestment objective of the scheme will be realized.",
+    "asset_allocation": "Equity and equity related instruments - 80% to 100% (Risk- High) Money Market instruments- 0% to 20% (Risk- Low)",
+    "benchmark": "BSE 500 TRI",
+    "fund_managers": "Mr. Vishal Mishra / Mr. Shridatta Bhandwaldar",
+    "annual_expense": {
+      "Regular": "1.70",
+      "Direct": "0.58"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Regular Plan - IDCW Payout",
+    "Regular - Growth",
+    "Direct Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T13:00:45.853016+00:00"
+}

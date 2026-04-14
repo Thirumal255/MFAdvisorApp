@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Kotak Nifty SDL Apr 2032 Top 12 Equal Weight Index Fund",
+  "source_file": "SUMMARY_Kotak Nifty SDL Apr 2032 Top 12 Equal Weight Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Nifty SDL Apr 2032 Top 12 Equal Weight Index Fund",
+    "fund_type": "An open-ended Target Maturity Index Fund investing in constituents of Nifty SDL Apr 2032 Top 12 Equal Weight Index. Arelatively high interest rate risk and relatively low credit risk",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCW Re-investment",
+      "Regular Plan-Growth",
+      "Regular Plan- IDCW Payout",
+      "Regular Plan-IDCW Re-investment"
+    ],
+    "isins": [
+      "INF174KA1IR9",
+      "INF174KA1IS7",
+      "INF174KA1IT5",
+      "INF174KA1IO6",
+      "INF174KA1IP3",
+      "INF174KA1IQ1"
+    ],
+    "amfi_codes": [
+      "149865",
+      "149867",
+      null,
+      "1149862",
+      "149863",
+      null
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to track the Nifty SDL Apr 2032 Top 12 Equal Weight Index by investing in SDLs,maturing on or before Apr 2032, subject to tracking errors. However, there is no assurance or guarantee that theinvestment objective of the scheme will be achieved.",
+    "asset_allocation": "Replication of securities covered by Nifty SDL Apr 2032 Top 12 Equal Weight Index - 95-100% - Low – Medium Cash anddebt/money market instruments - 0 - 5% - Low",
+    "benchmark": "Nifty SDL Apr 2032 Top 12 Equal Weight Index",
+    "fund_managers": "Mr. Abhishek Bisen",
+    "annual_expense": {
+      "Regular": "0.3600",
+      "Direct": "0.2000"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCW Re-investment",
+    "Regular Plan-Growth",
+    "Regular Plan- IDCW Payout",
+    "Regular Plan-IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-13T14:50:43.646716+00:00"
+}

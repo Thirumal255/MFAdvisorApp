@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "ICICI Prudential Housing Opportunities Fund",
+  "source_file": "SUMMARY_ICICI PRUDENTIAL HOUSING OPPORTUNITIES FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Housing Opportunities Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW"
+    ],
+    "riskometer": "Very high",
+    "investment_objective": "To generate long-term capital appreciation by investing in equity and equity related instruments of entities engaged in and/or expected to benefit from the growth in housing theme. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Equity & Equity related instruments of entities involved in Housing theme = 100-80%\n• Other Equity & Equity related instruments = 0% - 20%\n•Debt instruments, Units of Debt Mutual Fund schemes*, Money market instruments and Preference Shares = 0% - 20%\n• Units issued by INVITs = 0% - 10%",
+    "benchmark": [
+      "Nifty Housing Index",
+      "Nifty 50 TRI"
+    ],
+    "fund_managers": [
+      "Mr. Sanket Gaidhani"
+    ],
+    "annual_expense": {
+      "Regular": "2.08",
+      "Direct": "1.16"
+    },
+    "exit_load": "1 % of applicable Net Asset Value If the amount sought to be redeemed or switch out within 1 months from allotment. Nil If the amount sought to be redeemed or switched out more than 1 months.",
+    "amfi_codes": [
+      "9682",
+      "9683",
+      "3480",
+      "3481"
+    ],
+    "isins": [
+      "INF109KC10C2",
+      "INF109KC18B7",
+      "INF109KC17B9",
+      "INF109KC1P16"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-13T14:12:38.216004+00:00"
+}

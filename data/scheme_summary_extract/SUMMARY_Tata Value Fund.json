@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Tata Value Fund",
+  "source_file": "SUMMARY_Tata Value Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Value Fund",
+    "fund_type": "An open ended equity scheme following a value investment strategy.",
+    "fund_options": [
+      "Tata Equity P E Fund Regular Plan - IDCW Trigger A (5Percent)",
+      "Tata Equity P E Fund Direct Plan - IDCW Trigger A (5Percent)",
+      "TataEquity P E Fund Regular Plan - IDCW Trigger B(10Percent)",
+      "Tata Equity P E Fund Direct Plan - IDCW Trigger B(10Percent)",
+      "TataEquity P E Fund Regular Plan - Growth",
+      "Tata Equity P E Fund Direct Plan - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to provide reasonable and regular income and/or possible capital appreciation to itsUnitholder. However, there is no assurance or guarantee that the investment objective of the Scheme will be achieved. Thescheme does not assure or guarantee any returns.",
+    "asset_allocation": "Equity and Equity related – Companies whose rolling P/E at the time of investment is lower than the rolling P/E of the S&P BSESENSEX 70-100, Equity and equity related – other companies 0-30, Debt (including money market instruments)0-20.",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "FM-1 Sonam Udasi",
+    "annual_expense": {
+      "Regular": "1.79",
+      "Direct": "0.81"
+    },
+    "exit_load": "1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL.",
+    "amfi_codes": [
+      "112218",
+      "119232",
+      "102428",
+      "119233",
+      "101672",
+      "119231"
+    ],
+    "isins": [
+      "INF277K01436",
+      "INF277K01NA7",
+      "INF277K01444",
+      "INF277K01NC3",
+      "INF277K01451",
+      "INF277K01ND1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Equity P E Fund Regular Plan - IDCW Trigger A (5Percent)",
+    "Tata Equity P E Fund Direct Plan - IDCW Trigger A (5Percent)",
+    "TataEquity P E Fund Regular Plan - IDCW Trigger B(10Percent)",
+    "Tata Equity P E Fund Direct Plan - IDCW Trigger B(10Percent)",
+    "TataEquity P E Fund Regular Plan - Growth",
+    "Tata Equity P E Fund Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T16:18:28.152686+00:00"
+}

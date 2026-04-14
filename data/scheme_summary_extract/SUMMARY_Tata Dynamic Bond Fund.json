@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Tata Dynamic Bond Fund",
+  "source_file": "SUMMARY_Tata Dynamic Bond Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Dynamic Bond Fund",
+    "fund_type": "An open ended dynamic debt scheme investing across duration. A Relatively High Interest Rate Risk and Moderate Credit Risk.",
+    "fund_options": [
+      "Tata Dynamic Bond Fund Regular Plan - IDCW",
+      "Tata Dynamic Bond Fund Direct Plan - IDCW",
+      "Tata Dynamic Bond Fund Regular Plan - Growth",
+      "Tata Dynamic Bond Fund Direct Plan - Growth"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "To provide reasonable returns and high level of liquidity by investing in debt instruments including bonds, debentures and Government securities; and  money market instruments such as treasury bills, commercial papers, certificates of deposit, including repos in permitted securities of different maturities, as permitted by regulation so as to spread the risk across different kinds of issuers in the debt markets. The investment objective is to create a liquid portfolio of good quality debt as well as Money Market Instruments so as to provide reasonable returns and liquidity to the Unitholders.",
+    "asset_allocation": "Money Market and Debentures with residual maturity of less than 1 year 0-100, Debt instrument with maturity more than 1 year 0-100.",
+    "benchmark": "CRISIL Dynamic Bond Fund AIII Index",
+    "fund_managers": "Akhil Mittal",
+    "annual_expense": {
+      "Regular": "0.72",
+      "Direct": "0.27"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "101224",
+      "119098",
+      "101909",
+      "119097"
+    ],
+    "isins": [
+      "INF277K01352",
+      "INF277K01MU7",
+      "INF277K01360",
+      "INF277K01MV5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Dynamic Bond Fund Regular Plan - IDCW",
+    "Tata Dynamic Bond Fund Direct Plan - IDCW",
+    "Tata Dynamic Bond Fund Regular Plan - Growth",
+    "Tata Dynamic Bond Fund Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T16:11:07.839215+00:00"
+}

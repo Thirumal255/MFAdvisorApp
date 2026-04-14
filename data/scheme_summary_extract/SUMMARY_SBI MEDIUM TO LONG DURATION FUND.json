@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "SBI Medium to Long Duration Fund (Formerly known as SBI Magnum Income Fund)",
+  "source_file": "SUMMARY_SBI MEDIUM TO LONG DURATION FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Medium to Long Duration Fund (Formerly known as SBI Magnum Income Fund)",
+    "fund_type": "An open-ended medium to long term Debt scheme investing in instruments such that the Macaulay Duration of the portfolio is between 4 years to 7 years",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW"
+    ],
+    "isins": [
+      "INF200K01602",
+      "INF200K01628",
+      "INF200K01SO9",
+      "INF200K01SQ4"
+    ],
+    "amfi_codes": [
+      "100640",
+      "100638",
+      "119712",
+      "119713"
+    ],
+    "riskometer": "MODERATELY HIGH",
+    "investment_objective": "To provide investors an opportunity to generate regular income through investments in debt and money market instruments such that the Macaulay duration of the portfolio is between 4 years and 7 years.However, there is no guarantee or assurance that the investment objective of the scheme will be achieved. The scheme doesn’t assure or guarantee any returns.",
+    "asset_allocation": {
+      "Debt instruments (including Central and State Government securities, debt derivatives) and Money Market instruments": "0%-100%",
+      "Units issued by REITs and InVITs^": "0%-10%",
+      "Securitized Debt": "0%-20%"
+    },
+    "benchmark": "CRISIL Medium to Long Term Debt Index",
+    "fund_managers": "Mohit Jain",
+    "annual_expense": {
+      "Regular": "1.37"
+    },
+    "exit_load": "For exit within 1 year from the date of allotment - For 10% of investment - Nil - For remaining investment - 1% For exit after 1 year from the date of allotment - Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-13T15:56:29.703865+00:00"
+}

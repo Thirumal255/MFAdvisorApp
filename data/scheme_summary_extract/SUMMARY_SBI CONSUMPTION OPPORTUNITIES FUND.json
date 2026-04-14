@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "SBI Consumption Opportunities Fund",
+  "source_file": "SUMMARY_SBI CONSUMPTION OPPORTUNITIES FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Consumption Opportunities Fund",
+    "fund_type": "An open ended equity scheme following consumption theme",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth",
+      "Regular Plan - Growth"
+    ],
+    "riskometer": "VERY HIGH",
+    "investment_objective": "To provide the investor with the opportunity of long term capital appreciation by investing in a diversified portfolio of equity and equity related securities in Consumption space.",
+    "asset_allocation": {
+      "Equities and equity related securities in Consumption sector (including derivatives and foreign securities*)": "80%-100%",
+      "Other equities and equity related instruments": "0%-20%",
+      "Units issued by REIT/InVIT^": "0%-10%",
+      "Debt instruments (including securitized debt)": "0%-20%",
+      "Money Market Instruments": "0%-20%"
+    },
+    "benchmark": "Nifty India Consumption Index",
+    "fund_managers": "Mr. Ashit Desai",
+    "annual_expense": {
+      "Direct": "0.74"
+    },
+    "exit_load": "• For exit on or before 30 days from the date of allotment - 0.10%\n• For exit after 30 days from the date of allotment - Nil",
+    "amfi_codes": [
+      "100645",
+      "119730",
+      "120575",
+      "120576"
+    ],
+    "isins": [
+      "INF200K01412",
+      "INF200K01RL7",
+      "INF200K01RM5",
+      "INF200K01VR6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T15:52:26.190410+00:00"
+}

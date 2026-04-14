@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "MOTILAL OSWAL QUANT FUND",
+  "source_file": "SUMMARY_Motilal Oswal Quant Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "MOTILAL OSWAL QUANT FUND",
+    "fund_type": "An open-ended equity scheme investing based on a quant investment framework",
+    "fund_options": null,
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate medium to long-term capital appreciation by investing in equity and equity related instruments selected based on a proprietary quantitative investment framework. However, there can be no assurance that the investment objective of the scheme will be realized.",
+    "asset_allocation": "Equity and Equity related instruments, Units of Liquid fund and Money Market instruments (including cash and cash equivalents)",
+    "benchmark": "NIFTY 200 Index TR",
+    "fund_managers": [
+      {
+        "name": "Mr. Ajay Khandelwal",
+        "type": "For Equity Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt Component",
+        "from_date": "Since Inception"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.25",
+      "Direct": "2.25"
+    },
+    "exit_load": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment.",
+    "amfi_codes": [
+      "152694",
+      "152695",
+      "152692",
+      "152693"
+    ],
+    "isins": [
+      "INF247L01CS3",
+      "INF247L01CT1",
+      "INF247L01CU9",
+      "INF247L01CP9",
+      "INF247L01CQ7",
+      "INF247L01CR5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth",
+    "Regular Payout of IDCW",
+    "Direct Payout of IDCW"
+  ],
+  "extracted_at": "2026-04-13T15:19:32.967692+00:00"
+}

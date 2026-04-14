@@ -1,0 +1,39 @@
+{
+  "parent_scheme_name": "ICICI Prudential Retirement Fund - Hybrid Aggressive Plan",
+  "source_file": "SUMMARY_ICICI Prudential Retirement Fund Hybrid Aggressive Plan.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Retirement Fund - Hybrid Aggressive Plan",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "An open ended hybrid scheme predominantly investing in equity and equity related securities to generate capital appreciation. The scheme may also invest in Debt, Gold/Gold ETF/units of REITs & InvITs and such other asset classes as may be permitted from time to time for income generation / wealth creation. However, there is no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Equity & Equity related instruments = 65% - 100% \n• Debt and money market instruments = 0% - 35% \n• Gold, Gold ETFs and INVITs and any other security permitted by SEBI from time to time(subject to applicable limits)",
+    "benchmark": "CRISIL Hybrid 35+65 - Aggressive Index",
+    "fund_managers": [
+      "Rohit Lakhotia",
+      "Darshil Dedhia",
+      "Manasvi Shah"
+    ],
+    "annual_expense": {},
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "P9491"
+    ],
+    "isins": [
+      "INF109KC1TW4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-13T14:20:49.729436+00:00"
+}

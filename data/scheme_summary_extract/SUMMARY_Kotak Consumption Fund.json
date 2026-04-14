@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Kotak Consumption Fund",
+  "source_file": "SUMMARY_Kotak Consumption Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Consumption Fund",
+    "fund_type": "An open ended equity scheme following Consumption theme",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCW Re-investment",
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-IDCW Re-investment"
+    ],
+    "isins": [
+      "INF174KA1PP8",
+      "INF174KA1PQ6",
+      "INF174KA1PR4",
+      "INF174KA1PM5",
+      "INF174KA1PN3",
+      "INF174KA1PO1"
+    ],
+    "amfi_codes": [
+      "152169",
+      "152172",
+      "152172",
+      "152170",
+      "152171",
+      "152171"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate long-term capital appreciation from a portfolio that is invested predominantly in equity and equity related securities of companies engaged in consumption and consumption related activities. However, there is no assurance that the objective of the scheme will be achieved.",
+    "asset_allocation": "Equity and Equity Related Securities of companies engaged in Consumption and Consumption related activities- 80%-100%-Very High Equity and Equity Related Securities of companies other than those engaged in Consumption and Consumption related activities -0%-20%-Very High Overseas Mutual Fund Schemes/ETFs/Foreign Securities - 0-20% - Very High Debt and Money Market Securities-0%-20%-Low to Moderate Units of InvITs-0%-10%-Very High $companies include units of REITs",
+    "benchmark": "Nifty India Consumption Index (Total Return Index)",
+    "fund_managers": "FM 1 Mr. Devender Singhal, FM 2 Mr. Abhishek Bisen",
+    "annual_expense": {
+      "Regular": "2.06",
+      "Direct": "0.57"
+    },
+    "exit_load": "For redemption / switch out within 90 days from the date of allotment: 0.5% If units are redeemed or switched out on or after 90 days from the date of allotment -Nil Units issued on reinvestment of IDCW shall not be subject to entry and exit load. Any exit load charged (net off Goods and Services tax, if any) shall be credited back to the Scheme."
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCW Re-investment",
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-13T14:42:36.497948+00:00"
+}

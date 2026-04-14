@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "ICICI Prudential Equity Savings Fund",
+  "source_file": "SUMMARY_ICICI Prudential Equity Savings Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Equity Savings Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW - Quarterly",
+      "Growth",
+      "IDCW - Quarterly"
+    ],
+    "isins": [
+      "INF109KA11J9",
+      null,
+      null,
+      null
+    ],
+    "amfi_codes": [
+      "P8758",
+      "P8760",
+      "133051",
+      "133053"
+    ],
+    "riskometer": "Low to Moderate (As on November 30, 2025)",
+    "investment_objective": "The Scheme seeks to generate regular income through investments in fixed income securities and using arbitrage and other derivative strategies. The Scheme also intends to generate long-term capital appreciation by investing a portion of the Scheme’s assets in equity and equity related instruments. However there can be no assurance or guarantee that the investment objectives of the scheme will be achieved.",
+    "asset_allocation": "• Equity & Equity related instruments (other than derivatives) = 65% – 90%\n• Net Long (Unhedged position) = 15% – 50% \n• Derivatives = 0% – 90% \n• Debt and Money Market Instruments, including Units of Debt oriented mutual fund schemes = 10% – 35%\n• Units issued by INVITs, Preference Shares or any other asset as may be permitted by SEBI from time to time = 0% – 10%",
+    "benchmark": "Nifty Equity Savings TRI",
+    "fund_managers": [
+      "Manish Banthia",
+      "Archana Nair"
+    ],
+    "annual_expense": {
+      "Regular": "0.98",
+      "Direct": "0.50"
+    },
+    "exit_load": "If 10% of the units (the Limit) purchased or switched in from another scheme of the Fund are"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW - Quarterly",
+    "Growth",
+    "IDCW - Quarterly"
+  ],
+  "extracted_at": "2026-04-13T14:11:10.898596+00:00"
+}

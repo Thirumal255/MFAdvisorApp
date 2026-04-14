@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Invesco India Arbitrage Fund",
+  "source_file": "SUMMARY_Invesco India Arbitrage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India Arbitrage Fund",
+    "fund_type": "An open ended scheme investing in arbitrage opportunities",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "To generate income by predominantly investing in arbitrage opportunities in the cash and derivatives market, and by investing the balance in debt and money market instruments.",
+    "asset_allocation": "Equity and Equity Related Instruments: Min. 65% Max. 100% *Equity Derivative#: Min. 65% Max. 100% Other arbitrage opportunities : Min. 0% Max. 35% Debt^, Money Market Instruments: Min. 0% Max. 35%",
+    "benchmark": "Nifty 50 Arbitrage",
+    "fund_managers": "Deepak Gupta, Mr. Manish Kalani",
+    "annual_expense": {
+      "Regular": "1.05",
+      "Direct": "0.37"
+    },
+    "exit_load": "If redeemed / switched-out within 15 days from the date of allotment - 0.5%. If units are redeemed or switched-out after 15 days from the date of allotment - Nil.",
+    "amfi_codes": [
+      "105603",
+      "105604",
+      "105604",
+      "120401",
+      "120400",
+      "120400"
+    ],
+    "isins": [
+      "INF205K01122",
+      "INF205K01148",
+      "INF205K01130",
+      "INF205K01KR8",
+      "INF205K01KP2",
+      "INF205K01KQ0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T14:24:06.357754+00:00"
+}

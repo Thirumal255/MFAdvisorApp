@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Nippon India Flexi Cap Fund",
+  "source_file": "SUMMARY_Nippon India Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India Flexi Cap Fund",
+    "fund_type": "Open",
+    "fund_options": [
+      "Direct IDCW Plan Payout",
+      "Direct IDCW Plan Reinvestment",
+      "Direct Growth Plan Growth",
+      "IDCW Plan Payout",
+      "IDCW Plan Reinvestment",
+      "Growth Plan Growth"
+    ],
+    "isins": [
+      "INF204KC1139",
+      "INF204KC1147",
+      "INF204KC1121",
+      "INF204KC1105",
+      "INF204KC1113",
+      "INF204KC1097"
+    ],
+    "amfi_codes": [
+      "149095",
+      "149095",
+      "149094",
+      "149096",
+      "149096",
+      "149089"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the scheme is to seek to generate capital appreciation & provide long-term growth opportunities by investing in a portfolio constituted of equity securities & equity related securities and the secondary objective is to generate consistent returns by investing in debt and money market securities. The fund will have the ﬂexibility to invest in a broad range of companies with an objective to maximize the returns, at the same time trying to minimize the risk by reasonable diversiﬁcation. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related Instruments - 65-100%; Debt and Money Market Instruments - 0-35%.",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "FM 1 Meenakshi Dawar, FM 2 Dhrumil Shah",
+    "annual_expense": {
+      "Regular": "1.74",
+      "Direct": "0.47"
+    },
+    "exit_load": "10% of the units allotted shall be redeemed without any exit load, on or before completion of 12 months from the date of allotment of units. Any redemption in excess of such limit in the ﬁrst 12 months from the date of allotment shall be subject to the following exit load. Redemption of units would be done on First in First out Basis (FIFO): 1% if redeemed or switched out on or before completion of 12 months from the date of allotment of units. Nil, thereafter."
+  },
+  "fund_options_inferred": [
+    "Direct IDCW Plan Payout",
+    "Direct IDCW Plan Reinvestment",
+    "Direct Growth Plan Growth",
+    "IDCW Plan Payout",
+    "IDCW Plan Reinvestment",
+    "Growth Plan Growth"
+  ],
+  "extracted_at": "2026-04-13T15:26:29.874505+00:00"
+}

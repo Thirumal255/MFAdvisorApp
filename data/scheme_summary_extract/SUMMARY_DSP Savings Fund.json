@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "DSP Savings Fund",
+  "source_file": "SUMMARY_DSP Savings Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP Savings Fund",
+    "fund_type": "An open ended debt scheme investing in money market instruments. A relatively low interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Regular Plan - Growth"
+    ],
+    "isins": [
+      "INF740K01NU2",
+      "INF740K01714"
+    ],
+    "amfi_codes": [
+      "119106",
+      "100087"
+    ],
+    "riskometer": "Low to Moderate Risk",
+    "investment_objective": "The primary investment objective of the Scheme is to generate income through investment in a portfolio comprising of money market instruments with maturity less than or equal to 1 year. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Money market securities having maturity of less than or equal to 1 year : 0% - 100%",
+    "benchmark": "CRISIL Money Market A-I Index",
+    "fund_managers": "Mr. Karan Mundhra, Ms. Shalini Vasanta",
+    "annual_expense": {
+      "Regular": "0.41",
+      "Direct": "0.18"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T13:15:27.619626+00:00"
+}

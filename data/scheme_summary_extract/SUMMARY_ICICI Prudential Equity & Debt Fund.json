@@ -1,0 +1,62 @@
+{
+  "parent_scheme_name": "ICICI Prudential Equity & Debt Fund",
+  "source_file": "SUMMARY_ICICI Prudential Equity & Debt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Equity & Debt Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Equity & Debt Fund - Direct Plan - Growth",
+      "ICICI Prudential Equity & Debt Fund - Direct Plan - IDCW - Annual",
+      "ICICI Prudential Equity & Debt Fund - Direct Plan - IDCW - Half Yearly",
+      "ICICI Prudential Equity & Debt Fund - Direct Plan - IDCW - Monthly",
+      "ICICI Prudential Equity & Debt Fund - Growth",
+      "ICICI Prudential Equity & Debt Fund - IDCW - Annual",
+      "ICICI Prudential Equity & Debt Fund - IDCW - Half Yearly",
+      "ICICI Prudential Equity & Debt Fund - IDCW - Monthly"
+    ],
+    "isins": [
+      "INF109K01Y07",
+      "INF109KB1QM2",
+      "INF109KA1Y19",
+      "INF109K01X81",
+      "INF109K01480",
+      "INF109KB1QK6",
+      "INF109KA1X93",
+      "INF109K01DX5"
+    ],
+    "amfi_codes": [
+      "120251",
+      "136114",
+      "131453",
+      "120252",
+      "100356",
+      "136113",
+      "131452",
+      "100355"
+    ],
+    "riskometer": "Very High\nAs on November 30, 2025",
+    "investment_objective": "To generate long term capital appreciation and current income from a portfolio that is invested in \nequity and equity related securities as well as in fixed income securities.\nHowever, there is no assurance or guarantee that the investment objective of the Scheme would be \nachieved.",
+    "asset_allocation": "• Equities & Equity related instruments = 65% - 80%\n• Debt and Money Market Instruments, including Units of Debt oriented mutual fund schemes = 20% - \n35%\n• Units issued by InvITs = 0% - 10%\n• Preference Shares = 0% - 10%",
+    "benchmark": "CRISIL Hybrid 35+65 - Aggressive Index",
+    "fund_managers": [
+      "Manish Banthia"
+    ],
+    "annual_expense": {
+      "Regular": "1.52",
+      "Direct": "0.92"
+    },
+    "exit_load": "Upto 30% of units within 1 Year from the date of allotment - Nil\nMore than 30% of units within 1 Year from the date of allotment - 1% of applicable Net Asset Value \n(NAV) After 1 Year from the date of allotment - Nil"
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Equity & Debt Fund - Direct Plan - Growth",
+    "ICICI Prudential Equity & Debt Fund - Direct Plan - IDCW - Annual",
+    "ICICI Prudential Equity & Debt Fund - Direct Plan - IDCW - Half Yearly",
+    "ICICI Prudential Equity & Debt Fund - Direct Plan - IDCW - Monthly",
+    "ICICI Prudential Equity & Debt Fund - Growth",
+    "ICICI Prudential Equity & Debt Fund - IDCW - Annual",
+    "ICICI Prudential Equity & Debt Fund - IDCW - Half Yearly",
+    "ICICI Prudential Equity & Debt Fund - IDCW - Monthly"
+  ],
+  "extracted_at": "2026-04-13T14:10:52.684302+00:00"
+}

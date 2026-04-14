@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "UTI - MNC Fund",
+  "source_file": "SUMMARY_UTI - MNC Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "UTI - MNC Fund",
+    "fund_type": "An open ended equity scheme following the theme of investing predominantly in equity and equity related securities of Multi-National Companies",
+    "fund_options": [
+      "Direct Plan-Payout of IDCW",
+      "Direct Plan-Reinvestment of IDCW",
+      "Direct Plan-Growth",
+      "Regular Plan-Payout of IDCW",
+      "Regular Plan-Reinvestment of IDCW",
+      "Regular Plan-Growth"
+    ],
+    "isins": [
+      "INF789F01UB4",
+      "INF789F01UC2",
+      "INF789F01UD0",
+      "INF789F01828",
+      "INF789F01836",
+      "INF789F01844"
+    ],
+    "amfi_codes": [
+      "120681",
+      "120681",
+      "120682",
+      "100739",
+      "100739",
+      "100740"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary objective of the scheme is to generate long term capital appreciation by investing predominantly in equity and equity related securities of multinational companies. However, there can be no assurance or guarantee that the investment objective of the scheme would be achieved",
+    "asset_allocation": "Equity and equity related instruments (minimum 80% of the total assets would be in equity and equity related instruments of multi-national corporations/companies) (Including units of REITS): 80-100% (Medium to High) Debt and Money Market instruments including securitized debt#: 0-20% (Low to Medium) Units issued by InvITs: 0-10% (Medium to High) # The fund may invest up to 50% of its debt portfolio in securitized debt",
+    "benchmark": "Nifty MNC TRI",
+    "fund_managers": "Mr. Karthikraj Lakshmanan",
+    "annual_expense": {
+      "Regular": "2.04",
+      "Direct": "1.27"
+    },
+    "exit_load": "Less than one year: 1% and Greater than or equal to one year: Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Payout of IDCW",
+    "Direct Plan-Reinvestment of IDCW",
+    "Direct Plan-Growth",
+    "Regular Plan-Payout of IDCW",
+    "Regular Plan-Reinvestment of IDCW",
+    "Regular Plan-Growth"
+  ],
+  "extracted_at": "2026-04-13T16:31:42.959770+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Sundaram Consumption Fund",
+  "source_file": "SUMMARY_Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund).pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Sundaram Consumption Fund",
+    "fund_type": "An open ended equity scheme investing in consumption sector",
+    "fund_options": [
+      "Regular IDCW Payout",
+      "Regular IDCW Re-Investment",
+      "Regular Growth",
+      "Direct IDCW Payout",
+      "Direct Growth",
+      "Direct IDCW Reinvestment"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation by investing in a portfolio of companiesthat are likely to beneﬁt directly from consumption led demand in India. No Guarantee: Investors are neither being oﬀeredany guaranteed/indicated returns nor any guarantee on repayment of capital by the Scheme. There is also no guarantee ofcapital or return either by the mutual fund or by the sponsor or by the Asset management Company.",
+    "asset_allocation": "Equity and equity related securities of companies engaged in consumption sector 80% - 100%; Other Equities 0% - 20%; FixedIncome, Money Market instruments and Cash & Cash Equivalents 0% - 20%; Investment in REITs & InvITs 0% - 10%; OverseasSecurities (Including ETFs)/Foreign Securities, ADRs and GDRs 0% - 20%.",
+    "benchmark": "Nifty India Consumption TRI",
+    "fund_managers": "FM1 - Mr. Ratish B. Varier, FM2 - Mr. Shalav Saket (Overseas Securities)",
+    "annual_expense": {
+      "Regular": "2.18",
+      "Direct": "1.21"
+    },
+    "exit_load": "0.5% - For redemption, withdrawn by way of SWP or transfer by way of Switch / STP within 30 days from the date ofallotment; NIL - For redemption or withdrawn by way of SWP or transfer by way of Switch/STP after 30 days from the date ofallotment; Further, exit load will be waived on Intra-scheme Switch-outs/STP; Generally, the exit load will be calculated on Firstin First out (FIFO) basis.",
+    "amfi_codes": [
+      "103743",
+      "102142",
+      "119594",
+      "119595",
+      null,
+      null
+    ],
+    "isins": [
+      "INF903J01546",
+      "INF903J01553",
+      "INF903J01561",
+      "INF903J01NF9",
+      "INF903J01NH5",
+      "INF903J01NG7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular IDCW Payout",
+    "Regular IDCW Re-Investment",
+    "Regular Growth",
+    "Direct IDCW Payout",
+    "Direct Growth",
+    "Direct IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T16:04:14.181638+00:00"
+}

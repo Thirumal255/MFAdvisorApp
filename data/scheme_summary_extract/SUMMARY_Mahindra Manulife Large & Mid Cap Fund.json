@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Mahindra Manulife Large & Mid Cap Fund",
+  "source_file": "SUMMARY_Mahindra Manulife Large & Mid Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mahindra Manulife Large & Mid Cap Fund",
+    "fund_type": "Large & Mid Cap Fund - An open ended equity scheme investing in both large cap and mid cap stocks",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to seek long term capital growth through investments in equity and equity related securities of both large cap and mid cap stocks. However, there can be no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related Securities^ of which: 80% - 100%, a) Large Cap Companies*: 35%-65%, b) Mid Cap Companies#: 35% -65%, c) Other than Large Cap and Mid Cap Companies: 0%& - 30%, Debt and Money Market Securities^ (including TREPS (Tri-Party Repo), Reverse Repo): 0% - 20%, Units issued by REITs & InvITs: 0% - 10%, ^ including derivative instruments to the extent of 50% of the Net Assets of the Scheme. Investment in derivatives shall be for hedging, portfolio balancing and such other purposes as maybe permitted from time to time under the Regulations and subject to guidelines issued by SEBI/RBI from time to time. *Deﬁnition of Large Cap Companies: 1st – 100th company in terms of full Market Capitalization. #Deﬁnition of Mid Cap Companies: 101st – 250th company in terms of full Market Capitalization. For the purpose of this deﬁnition(s), the list of stocks prepared by AMFI in this regard will be adopted. Note: For detailed Asset Allocation please refer Scheme Information Document of the Scheme available on our website www.mahindramanulife.com",
+    "benchmark": "NIFTY Large Midcap 250 TRI",
+    "fund_managers": "FM-1 Ms. Kirti Dalvi",
+    "annual_expense": {
+      "Regular": "1.94",
+      "Direct": "0.42"
+    },
+    "exit_load": "An Exit Load of 1% is payable if Units are redeemed / switched-out upto 3 months from the date of allotment; Nil if Units are redeemed / switched-out after 3 months from the date of allotment.",
+    "amfi_codes": [
+      "147843",
+      "147842",
+      "147840",
+      "147841"
+    ],
+    "isins": [
+      "INF174V01911",
+      "INF174V01929",
+      "INF174V01945",
+      "INF174V01952"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T15:02:00.943409+00:00"
+}

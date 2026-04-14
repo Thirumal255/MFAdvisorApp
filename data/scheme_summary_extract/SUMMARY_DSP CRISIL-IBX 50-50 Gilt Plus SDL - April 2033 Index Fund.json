@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "DSP CRISIL-IBX 50:50 Gilt Plus SDL – April 2033 Index Fund",
+  "source_file": "SUMMARY_DSP CRISIL-IBX 50-50 Gilt Plus SDL - April 2033 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP CRISIL-IBX 50:50 Gilt Plus SDL – April 2033 Index Fund",
+    "fund_type": "Index Fund",
+    "fund_options": [
+      "Regular - Growth",
+      "Regular - IDCW",
+      "Regular - IDCW-Reinvest",
+      "Direct - Growth",
+      "Direct - IDCW",
+      "Direct - IDCW-Reinvest"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to track the CRISIL-IBX 50:50 Gilt Plus SDL Index – April 2033 by investing in Government Securities (G-Sec) and SDLs, maturing on or before April, 2033 and seeks to generate returns that are commensurate (before fees and expenses) with the performance of the underlying Index, subject to tracking error. However, there is no assurance that the investment objective of the Scheme will be achieved. The Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "1. Government Securities forming part of the G-Sec portion of CRISIL-IBX 50:50 Gilt Plus SDL Index – April 2033 and State Development Loans (SDLs) forming part of the CRISIL-IBX 50:50 Gilt Plus SDL Index – April 2033 - 95% to 100% 2. Cash and Cash Equivalents - 0% to 5%",
+    "benchmark": "CRISIL-IBX 50:50 Gilt Plus SDL Index – April 2033",
+    "fund_managers": "Mr. Shantanu Godambe",
+    "annual_expense": {
+      "Regular": "0.41",
+      "Direct": "0.15"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "151327",
+      "151330",
+      "151330",
+      "151329",
+      "151328",
+      "151328"
+    ],
+    "isins": [
+      "INF740KA1RY1",
+      "INF740KA1RZ8",
+      "INF740KA1SA9",
+      "INF740KA1SB7",
+      "INF740KA1SC5",
+      "INF740KA1SD3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Regular - IDCW",
+    "Regular - IDCW-Reinvest",
+    "Direct - Growth",
+    "Direct - IDCW",
+    "Direct - IDCW-Reinvest"
+  ],
+  "extracted_at": "2026-04-13T13:07:42.187160+00:00"
+}

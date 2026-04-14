@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "PGIM India Banking and PSU Debt Fund",
+  "source_file": "SUMMARY_PGIM India Banking and PSU Debt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "PGIM India Banking and PSU Debt Fund",
+    "fund_type": "An open ended debt scheme predominantly investing in Debt instruments of banks, Public Sector Undertakings, Public Financial Institutions and Municipal Bonds. A relatively high interest rate risk and moderate credit risk scheme.",
+    "fund_options": null,
+    "riskometer": "Moderate",
+    "investment_objective": "The primary objective of the Scheme is to seek to generate income and capital appreciation by investing predominantly in debt instruments issued by banks, Public Sector Undertakings, Public Financial institutions and Municipal Bonds. However, there can be no assurance that the investment objective of the Scheme will be achieved. The Scheme does not guarantee/ indicate any returns.",
+    "asset_allocation": "Money market and debt securities issued by Banks, Public Sector Undertakings (PSU), Public Financial institutions (PFI) and Municipal Bonds - Min 80% and Max 100%\nOther Debt and Money Market Securities- Min 0% and Max 20%",
+    "benchmark": "CRISIL Banking & PSU Debt Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Puneet Pal",
+        "type": "Primary",
+        "from_date": "13 December 2017"
+      },
+      {
+        "name": "Mr. Bhupesh Kalyani",
+        "type": "Comanage",
+        "from_date": "13 September 2022"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "0.43",
+      "Direct": "0.18"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "138565",
+      "138570",
+      "138571",
+      "138572",
+      "138573",
+      "138576",
+      "138579",
+      "138580"
+    ],
+    "isins": [
+      "INF223J01SZ9",
+      "INF223J01WB2",
+      "INF223J01WC0",
+      "INF223JA1LT3",
+      "INF223JA1LU1",
+      "INF223J01SW6",
+      "INF223J01VV2",
+      "INF223J01VW0",
+      "INF223JA1LR7",
+      "INF223JA1LS5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth",
+    "Regular Payout of IDCW",
+    "Direct Payout of IDCW"
+  ],
+  "extracted_at": "2026-04-13T15:38:01.666383+00:00"
+}

@@ -1,0 +1,79 @@
+{
+  "parent_scheme_name": "Edelweiss Technology Fund",
+  "source_file": "SUMMARY_Edelweiss Technology Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss Technology Fund",
+    "fund_type": "An open-ended equity scheme investing in technology & technology-related companies",
+    "fund_options": [
+      "Direct Plan Growth Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - IDCW Transfer",
+      "Regular Plan IDCW Payout",
+      "Regular Plan IDCW Reinvestment",
+      "Regular Plan IDCW Transfer",
+      "Regular Plan Growth Growth"
+    ],
+    "isins": [
+      "INF754K01SK3",
+      "INF754K01SL1",
+      "INF754K01SM9",
+      "INF754K01SH9",
+      "INF754K01SI7",
+      "INF754K01SG1"
+    ],
+    "amfi_codes": [
+      "152437",
+      "152438",
+      "152438",
+      "152438",
+      "152440",
+      "152440",
+      "152440",
+      "152439"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "To provide long-term capital appreciation by investing predominantly in equity and equity-related securities of technology & technology-related companies. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "1. Equity and Equity related instruments of Technology & technology related companies - 80% to 100% 2. Equity and Equity related instruments of companies other than above - 0% to 20% 3. Debt and money market instruments - 0% to 20% 4. Units issued by REITs and InvITs - 0% to 10% 5. Units of Mutual Funds - 0% to 20%",
+    "benchmark": "BSE Teck",
+    "fund_managers": [
+      {
+        "name": "Mr. Sumanta Khan",
+        "type": "Primary",
+        "from_date": "April 01, 2024"
+      },
+      {
+        "name": "Mr. Amit Vora",
+        "type": "Comanage - Overseas Securities",
+        "from_date": "March 05, 2024"
+      },
+      {
+        "name": "Mr. Raj Koradia",
+        "type": "Assistant Fund Manager",
+        "from_date": "March 05, 2024"
+      },
+      {
+        "name": "Mr. Trideep Bhattacharya",
+        "type": null,
+        "from_date": null
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.25",
+      "Direct": "2.25"
+    },
+    "exit_load": "If the units are redeemed /switched out on or before 90 days from the date of allotment – 1% of the appliable NAV. If the units are redeemed /switched out after 90 days from the date of allotment - NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - IDCW Transfer",
+    "Regular Plan IDCW Payout",
+    "Regular Plan IDCW Reinvestment",
+    "Regular Plan IDCW Transfer",
+    "Regular Plan Growth Growth"
+  ],
+  "extracted_at": "2026-04-13T13:26:42.269664+00:00"
+}

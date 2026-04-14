@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Invesco India Consumption Fund",
+  "source_file": "SUMMARY_Invesco India Consumption Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India Consumption Fund",
+    "fund_type": "An open ended equity scheme following consumption theme",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Plan - Growth"
+    ],
+    "isins": [
+      "INF205KA1BI6",
+      "INF205KA1BJ4",
+      "INF205KA1BK2",
+      "INF205KA1BG0",
+      "INF205KA1BH8",
+      "INF205KA1BF2"
+    ],
+    "amfi_codes": [
+      "153900",
+      "153901",
+      "153901",
+      "153903",
+      "153903",
+      "153902"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long term capital appreciation by investing predominantly in equity and equity related instruments of companies beneﬁtting from consumption theme. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity & equity related instruments of companies beneﬁtting from consumption theme : in 80% Max 100% Other Other equity and equity related instruments : Min 0% Max 20% Debt and Money Market Instruments : Min 0% Max 20% Units issued by REITs and InvITs : Min 0% Max 10%",
+    "benchmark": "Nifty India Consumption TRI",
+    "fund_managers": "Mr. Manish Poddar",
+    "annual_expense": {
+      "Regular": "2.38",
+      "Direct": "0.69"
+    },
+    "exit_load": "if units are redeemed/switched out on or before 3 months from the date of allotment: 0.50%, if units are redeemed/switched-out after 3 months: Nil, Switch between the Plans under the Scheme: Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T14:24:40.612765+00:00"
+}

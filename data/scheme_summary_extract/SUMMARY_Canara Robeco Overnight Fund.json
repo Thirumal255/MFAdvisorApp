@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Canara Robeco Overnight Fund",
+  "source_file": "SUMMARY_Canara Robeco Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Canara Robeco Overnight Fund",
+    "fund_type": "An open-ended debt scheme investing in overnight securities. A relatively low interest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal Option",
+      "Regular Plan - Growth Option",
+      "Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal Option",
+      "Direct Plan - Growth Option"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the Scheme is to generate returns commensurate with low risk and providing high level of liquidity, through investments made primarily in overnight securities. However, there can be no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "Overnight Securities *- 0% - 100% (Risk - Low) *Overnight Securities: Debt and money market instruments with overnight interest rate risk such as debt instruments with one business day residual maturity. Overnight securities include synthetic overnight positions such as reverse repo/tri-party repo & other transactions where the interest rate is reset every business day.",
+    "benchmark": "CRISIL Liquid Overnight Index",
+    "fund_managers": "Ms. Suman Prasad / Mr. Avnish Jain",
+    "annual_expense": {
+      "Regular": "0.10",
+      "Direct": "0.082"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "147533",
+      "147534",
+      "147532",
+      "147531"
+    ],
+    "isins": [
+      "INF760K01JP8",
+      "INF760K01JO1",
+      "INF760K01JN3",
+      "INF760K01JM5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal Option",
+    "Regular Plan - Growth Option",
+    "Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal Option",
+    "Direct Plan - Growth Option"
+  ],
+  "extracted_at": "2026-04-13T13:03:10.201763+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Invesco India Contra Fund",
+  "source_file": "SUMMARY_Invesco India Contra Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India Contra Fund",
+    "fund_type": "An open ended equity scheme following contrarian investment strategy",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF205K01189",
+      "INF205K01205",
+      "INF205K01197",
+      "INF205K01LE4",
+      "INF205K01LC8",
+      "INF205K01LD6"
+    ],
+    "amfi_codes": [
+      "105460",
+      "105459",
+      "105459",
+      "120348",
+      "120349",
+      "120349"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate capital appreciation by investing predominantly in Equity and Equity Related Instruments through contrarian investing. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Equity and Equity Related Instruments: Min. 65% Max. 100% Debt and Money Market Instruments: Min 0% Max. 35%",
+    "benchmark": "BSE 500 TRI",
+    "fund_managers": "Mr.Taher Badshah",
+    "annual_expense": {
+      "Regular": "1.70",
+      "Direct": "0.56"
+    },
+    "exit_load": "If upto 10% of Units allotted are redeemed / switched-out within 1 year from the date of allotment - Nil. For any redemption /switchout in excess of 10% of units allotted within one year from the date of allotment - 1%. If units are redeemed or switched-out after 1 year from the date of allotment -Nil."
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T14:24:48.624791+00:00"
+}

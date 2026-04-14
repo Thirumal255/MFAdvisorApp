@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "UTI - Nifty Next 50 Index Fund",
+  "source_file": "SUMMARY_UTI - Nifty Next 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "UTI - Nifty Next 50 Index Fund",
+    "fund_type": "An open-ended scheme replicating/tracking the Nifty Next 50 Index",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Regular Plan-Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The principal investment objective of the scheme is to invest in stocks of companies comprising the underlying index andendeavor to achieve return equivalent to underlying index by “passive” investment. The scheme will be managed by replicatingthe index in the same weightages in the underlying Index with the intention of minimizing the performance diﬀerencesbetween the scheme and the underlying Index in capital terms, subject to market liquidity, costs of trading, managementexpenses and other factors which may cause tracking error. The scheme would alter the scripts/weights as and when the sameare altered in the underlying index.",
+    "asset_allocation": "Securities covered by underlying index: 95-100% (Medium to High) Cash/Money Market Instruments including Triparty Repo onGovernment Securities or treasury bill and Units of Liquid Mutual Fund: 0-5% (Low)",
+    "benchmark": "Nifty Next 50 TRI",
+    "fund_managers": "Mr. Sharwan Kumar Goyal FM 1,Mr. Ayush Jain FM 2,Not Applicable FM 3,Not Applicable FM 4",
+    "annual_expense": {
+      "Regular": "0.80",
+      "Direct": "0.35"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "143341-Direct Plan-Growth Option",
+      "143340-Regular Plan-Growth Option"
+    ],
+    "isins": [
+      "INF789FC12T1",
+      "INF789FC11T3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Regular Plan-Growth"
+  ],
+  "extracted_at": "2026-04-13T16:32:12.384631+00:00"
+}

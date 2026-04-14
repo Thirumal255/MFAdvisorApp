@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "Mahindra Manulife Value Fund",
+  "source_file": "SUMMARY_Mahindra Manulife Value Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mahindra Manulife Value Fund",
+    "fund_type": "An open-ended equity scheme following a value investment strategy",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the Scheme is to generate long-term capital appreciation from a diversiﬁed portfolio of predominantly equity and equity related instruments of companies which are undervalued (or are trading below their intrinsic value). However, there is no assurance that the investment objective of the Scheme will be achieved. The Scheme does not guarantee/indicate any returns.",
+    "asset_allocation": "Equity and Equity Related Instruments^* - 65% - 100% Debt and Money Market Securities#$ (including TREPS (Tri-Party Repo) and Reverse Repo in Government Securities ) - 0% - 35% Units issued by REITs & InvITs - 0% - 10% ^Including derivative instruments to the extent of 50% of the equity component of the Scheme. *Including investment in Foreign Securities (including units/securities issued by overseas mutual funds) up to 20% of the net assets of the Scheme. #Money Market instruments includes commercial papers, commercial bills, treasury bills, Government securities having an unexpired maturity up to one year, call or notice money, certiﬁcate of deposit, usance bills, and any other like instruments as speciﬁed by the Reserve Bank of India from time to time. $The Scheme may also invest in units of debt and/or liquid mutual fund schemes of the Fund upto 10% of the net assets of the Scheme subject to compliance with Clause 4 of Seventh Schedule of the Regulations.",
+    "benchmark": "Nifty 500 TRI (First Tier Benchmark)",
+    "fund_managers": [
+      "Mr. Krishna Sanghavi",
+      "Mr. Vishal Jajoo"
+    ],
+    "annual_expense": {
+      "Regular": "2.37",
+      "Direct": "0.62"
+    },
+    "exit_load": "An Exit Load of 0.5% is payable if Units are redeemed / switched-out up to 3 months from the date of allotment; • Nil if Units are redeemed / switched-out after 3 months from the date of allotment Redemption /Switch-Out of Units would be done on First in First out Basis (FIFO).",
+    "amfi_codes": [
+      "153303",
+      "153305",
+      "153304",
+      "153302"
+    ],
+    "isins": [
+      "INF174V01CI9",
+      "INF174V01CK5",
+      "INF174V01CF5",
+      "INF174V01CG3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-13T15:03:53.096944+00:00"
+}

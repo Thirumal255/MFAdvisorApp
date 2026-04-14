@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "HDFC NIFTY50 Equal Weight Index Fund",
+  "source_file": "SUMMARY_HDFC NIFTY50 Equal Weight Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC NIFTY50 Equal Weight Index Fund",
+    "fund_type": "An open ended scheme replicating/tracking NIFTY50 Equal Weight Index",
+    "fund_options": [
+      "REGULAR PLAN - GROWTH OPTION",
+      "DIRECT PLAN - GROWTH OPTION"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "To generate returns that are commensurate (before fees and expenses) with the performance of the NIFTY50 Equal Weight IndexTRI (Underlying Index), subject to tracking error.There is no assurance that the investment objective of the Scheme will beachieved.",
+    "asset_allocation": "Securities covered by NIFTY50 Equal Weight Total Returns Index (TRI): 95% - 100% Debt Securities & Money market instruments:0%- 5%",
+    "benchmark": "NIFTY50 Equal Weight Index (Total Returns Index)",
+    "fund_managers": "FM 1 - Ms. Nandita Menezes, FM 2 - Mr.Arun Agarwal",
+    "annual_expense": {
+      "Regular": "0.86",
+      "Direct": "0.40"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "149106",
+      "149107"
+    ],
+    "isins": [
+      "INF179KC1BN6",
+      "INF179KC1BM8"
+    ]
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN - GROWTH OPTION",
+    "DIRECT PLAN - GROWTH OPTION"
+  ],
+  "extracted_at": "2026-04-13T13:52:18.941588+00:00"
+}

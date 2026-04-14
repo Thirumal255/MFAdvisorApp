@@ -1,0 +1,62 @@
+{
+  "parent_scheme_name": "Edelweiss NIFTY Large Midcap 250 Index Fund",
+  "source_file": "SUMMARY_Edelweiss NIFTY Large Midcap 250 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss NIFTY Large Midcap 250 Index Fund",
+    "fund_type": "Index Fund",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - IDCW Transfer",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Plan - IDCW Transfer",
+      "Direct Plan - IDCW Payout"
+    ],
+    "isins": [
+      "INF754K01NR9",
+      "INF754K01NT5",
+      "INF754K01NU3",
+      "INF754K01NN8",
+      "INF754K01NO6",
+      "INF754K01NP3",
+      "INF754K01NQ1",
+      "INF754K01NS7"
+    ],
+    "amfi_codes": [
+      "149343",
+      "149339",
+      "149339",
+      "149341",
+      "149342",
+      "149342",
+      "149342",
+      "149339"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely correspond to the total returns of the Nifty Large Midcap 250 Index subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "1. Equity and equity related securities constituting the Nifty LargeMidcap 250 Index - 95-100%\n2. Debt and Money Market Instruments - 0-5%",
+    "benchmark": "NIFTY LargeMidcap 250 Total Return Index",
+    "fund_managers": [
+      "Mr. Bhavesh Jain"
+    ],
+    "annual_expense": {
+      "Regular": "1.03",
+      "Direct": "0.38"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - IDCW Transfer",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Plan - IDCW Transfer",
+    "Direct Plan - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T13:25:13.566222+00:00"
+}

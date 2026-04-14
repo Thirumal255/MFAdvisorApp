@@ -1,0 +1,53 @@
+{
+  "parent_scheme_name": "Nippon India Nifty G-Sec Oct 2028 Maturity Index Fund",
+  "source_file": "SUMMARY_Nippon India Nifty G-Sec Oct 2028 Maturity Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India Nifty G-Sec Oct 2028 Maturity Index Fund",
+    "fund_type": "An open-ended Target Maturity Index Fund investing in constituents of Nifty G-Sec Oct 2028 Index.",
+    "fund_options": [
+      "IDCW PLANREINVESTMENT",
+      "DIRECT IDCW PLANPAYOUT",
+      "DIRECT IDCW PLANREINVESTMENT",
+      "GROWTH PLANGROWTH",
+      "DIRECT GROWTHPLANGROWTH",
+      "IDCW PLANPAYOUT"
+    ],
+    "isins": [
+      "INF204KC1AN7",
+      "INF204KC1AP2",
+      "INF204KC1AQ0",
+      "INF204KC1AL1",
+      "INF204KC1AO5",
+      "INF204KC1AM9"
+    ],
+    "amfi_codes": [
+      "013431",
+      "202312",
+      "202313",
+      "202314",
+      "202315",
+      "202321",
+      "202816"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns corresponding to the total returns of the securitiesas represented by the Nifty G-Sec Oct 2028 Index before expenses, subject to tracking errors. However, there can be noassurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Government Securities representing the G-Sec portion of Nifty G-Sec Oct 2028 Index 95% 100%, **Money Marketinstruments & Cash and Cash Equivalents 0% 5%",
+    "benchmark": "Nifty G-Sec Oct 2028 Index",
+    "fund_managers": "FM 1 - Vivek Sharma",
+    "annual_expense": {
+      "Regular": "0.39",
+      "Direct": "0.20"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "IDCW PLANREINVESTMENT",
+    "DIRECT IDCW PLANPAYOUT",
+    "DIRECT IDCW PLANREINVESTMENT",
+    "GROWTH PLANGROWTH",
+    "DIRECT GROWTHPLANGROWTH",
+    "IDCW PLANPAYOUT"
+  ],
+  "extracted_at": "2026-04-13T15:31:58.420564+00:00"
+}

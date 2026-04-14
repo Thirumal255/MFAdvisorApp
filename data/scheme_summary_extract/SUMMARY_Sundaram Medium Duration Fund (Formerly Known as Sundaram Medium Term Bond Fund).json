@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Sundaram Medium Duration Fund",
+  "source_file": "SUMMARY_Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund).pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Sundaram Medium Duration Fund",
+    "fund_type": "An open ended medium term debt scheme investing in Debt & Money Market instruments such that the Macaulay duration*of the portfolio is between 3 and 4 years. Portfolio Macaulay duration under anticipated adverse situation is 1 year to 4 years.A relatively high interest rate risk and relatively high credit risk. *The Macaulay duration is the weighted average term tomaturity of the cash ﬂows from a bond. The weight of each cash ﬂow is determined by dividing the present value of the cashﬂow by the price.",
+    "fund_options": [
+      "Regular Growth",
+      "Regular IDCW Payout",
+      "Regular IDCW Reinvestment",
+      "Direct Growth",
+      "Direct IDCW Payout",
+      "Direct IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF903J01FQ2",
+      "INF903J01FR0",
+      "INF903J01FU4",
+      "INF903J01PO6",
+      "INF903J01PK4",
+      "INF903J01PL2"
+    ],
+    "amfi_codes": [
+      "119676",
+      "119675",
+      "119672",
+      "100608",
+      "100610",
+      "100604"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate income and capital appreciation by investing in Fixed Income Securities and Money Market Instruments. NoGuarantee: Investors are neither being oﬀered any guaranteed/indicated returns nor any guarantee on repayment of capital bythe Scheme. There is also no guarantee of capital or return either by the mutual fund or by the sponsor or by the Assetmanagement Company.",
+    "asset_allocation": "Debt instruments & Money Market Instruments, Cash and Cash equivalents* Upto 100%",
+    "benchmark": "NIFTY Medium Duration Debt Index A-III",
+    "fund_managers": "FM1 - Mr. Dwijendra Srivastava, FM2- Mr. Sandeep Agarwal",
+    "annual_expense": {
+      "Regular": "2.06",
+      "Direct": "1.09"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Regular IDCW Payout",
+    "Regular IDCW Reinvestment",
+    "Direct Growth",
+    "Direct IDCW Payout",
+    "Direct IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T16:06:56.439385+00:00"
+}

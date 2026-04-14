@@ -1,0 +1,57 @@
+{
+  "parent_scheme_name": "PGIM India Liquid Fund",
+  "source_file": "SUMMARY_PGIM India Liquid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "PGIM India Liquid Fund",
+    "fund_type": "An open ended liquid scheme. A relatively low interest rate risk and moderate credit risk scheme.",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "To generate steady returns along with high liquidity by investing in a portfolio of short-term, high quality money market and debt instruments. However, there can be no assurance that the investment objective of the Scheme will be achieved. The Scheme does not guarantee/indicate any returns.",
+    "asset_allocation": "Debt and Money Market Instruments - Min 0% and Max 100%",
+    "benchmark": "CRISIL Liquid Debt A-I Index",
+    "fund_managers": "Mr. Bhupesh Kalyani and Mr. Puneet Pal",
+    "annual_expense": {
+      "Regular": "0.22",
+      "Direct": "0.12"
+    },
+    "exit_load": "Day 1 0.0070% Day 2 0.0065% Day 3 0.0060% Day 4 0.0055% Day 5 0.0050% Day 6 0.0045% Day 7 onwards 0.0000%",
+    "amfi_codes": [
+      "138285",
+      "138286",
+      "138287",
+      "138288",
+      "138289",
+      "138297",
+      "138298",
+      "138299",
+      "138301"
+    ],
+    "isins": [
+      "INF223J01NS5",
+      "INF223J01NR7",
+      "INF223J01NT3",
+      "INF223J01NU1",
+      "INF223J01NV9",
+      "INF223J01NW7",
+      "INF223J01BO9",
+      "INF223J01BR2",
+      "INF223J01BS0",
+      "INF223J01BP6",
+      "INF223J01BU6",
+      "INF223J01BT8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T15:39:33.790511+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Aditya Birla Sun Life US Equity Passive FOF",
+  "source_file": "SUMMARY_Aditya Birla Sun Life US Equity Passive FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Aditya Birla Sun Life US Equity Passive FOF",
+    "fund_type": "An open ended fund of fund investing in units of overseas ETF’s and/or Index Fund based on NASDAQ-100 Index",
+    "fund_options": [
+      "Direct IDCW",
+      "Regular Growth",
+      "Direct Growth",
+      "Regular IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation by investing in units of overseas ETFs and/or Index Fund based on NASDAQ-100 Index. The Scheme does not guarantee/indicate any returns. There can be no assurance that the schemes’ objectives will be achieved.",
+    "asset_allocation": "Units of overseas ETF’s and/or Index Fund based on NASDAQ 100 Index - High - 95% - 100%; Debt schemes, Debt & Money Market Instruments, including Tri Party Repo^, G-Secs, Cash and Cash at call - Low to Medium - 0% - 5%; ^ or similar instruments as may be permitted by RBI/SEBI",
+    "benchmark": "Nasdaq 100 TRI",
+    "fund_managers": "Mr. Dhaval Joshi",
+    "annual_expense": {
+      "Regular": "0.65",
+      "Direct": "29.00"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "149289",
+      "149290",
+      "149291",
+      "149292"
+    ],
+    "isins": [
+      "INF209KB19C3",
+      "INF209KB15C1",
+      "INF209KB18C5",
+      "INF209KB16C9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Regular Growth",
+    "Direct Growth",
+    "Regular IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:24:56.683800+00:00"
+}

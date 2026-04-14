@@ -1,0 +1,59 @@
+{
+  "parent_scheme_name": "Union Dynamic Bond Fund",
+  "source_file": "SUMMARY_Union Dynamic Bond Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Union Dynamic Bond Fund",
+    "fund_type": "An open-ended dynamic debt Scheme investing across duration. A relatively high interest rate risk and moderate credit risk",
+    "fund_options": [
+      "Other than Direct Plan - Growth Option",
+      "Other than Direct Plan - Payout of IDCW Option",
+      "Other than Direct Plan - Reinvestment of IDCW Option",
+      "Other than Direct Plan - Transfer of IDCW Plan",
+      "Direct Plan - Growth Option",
+      "Direct Plan - Payout of IDCW Option",
+      "Direct Plan - Reinvestment of IDCW Option",
+      "Direct Plan - Transfer of IDCW Plan"
+    ],
+    "riskometer": "Moderate Risk",
+    "investment_objective": "To actively manage a portfolio of good quality debt as well as money market instruments so as to provide reasonable returnsand liquidity to the investors. However, there can be no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Debt* Instruments including Government Securities and Corporate Debt: 0%- 100% of net assets; Money Market Instruments:0% - 100% of net assets; Units issued by InvITs: 0% to 10% of net assets. *Investments in securitized debt including PassThrough Certiﬁcates (PTCs) not to exceed 25% of the net assets of the Scheme as at the time of purchase. Please refer theScheme Information Document for complete details.",
+    "benchmark": "CRISIL Dynamic Bond A-III Index. CRISIL Benchmark Disclaimer: CRISIL Indices are the sole property of CRISIL Limited (CRISIL).CRISIL Indices shall not be copied, transmitted or distributed in any manner for any commercial use. CRISIL has taken due careand caution in computation of the Indices, based on the data obtained from sources, which it considers reliable. However,CRISIL does not guarantee the accuracy, adequacy or completeness of the Indices and is not responsible for any errors or for theresults obtained from the use of the Indices. CRISIL especially states that it has no ﬁnancial liability whatsoever to the users ofCRISIL Indices.",
+    "fund_managers": [
+      "Mr. Parijat Agrawal",
+      "Mr. Devesh Thacker"
+    ],
+    "annual_expense": {
+      "Regular": "1.57",
+      "Direct": "1.26"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "116555",
+      "116556",
+      "119311",
+      "119310"
+    ],
+    "isins": [
+      "INF582M01336",
+      "INF582M01351",
+      "INF582M01344",
+      "INF582M01369",
+      "INF582M01799",
+      "INF582M01815",
+      "INF582M01807",
+      "INF582M01823"
+    ]
+  },
+  "fund_options_inferred": [
+    "Other than Direct Plan - Growth Option",
+    "Other than Direct Plan - Payout of IDCW Option",
+    "Other than Direct Plan - Reinvestment of IDCW Option",
+    "Other than Direct Plan - Transfer of IDCW Plan",
+    "Direct Plan - Growth Option",
+    "Direct Plan - Payout of IDCW Option",
+    "Direct Plan - Reinvestment of IDCW Option",
+    "Direct Plan - Transfer of IDCW Plan"
+  ],
+  "extracted_at": "2026-04-13T16:23:26.277150+00:00"
+}

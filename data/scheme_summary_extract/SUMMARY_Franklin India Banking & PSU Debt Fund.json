@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Franklin India Banking & PSU Debt Fund",
+  "source_file": "SUMMARY_Franklin India Banking & PSU Debt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Franklin India Banking & PSU Debt Fund",
+    "fund_type": "An open ended debt scheme predominantly investing in debt instruments of banks, Public Sector Undertakings, Public Financial Institutions and Municipal Bonds",
+    "fund_options": [
+      "Regular - Growth",
+      "Direct - IDCW Reinv.",
+      "Regular - IDCW Payout",
+      "Direct - Growth",
+      "Regular - IDCW Reinv.",
+      "Direct - IDCW Payout"
+    ],
+    "isins": [
+      "INF090I01KO5",
+      "INF090I01KT4",
+      "INF090I01KP2",
+      "INF090I01KR8",
+      "INF090I01KQ0",
+      "INF090I01KS6"
+    ],
+    "amfi_codes": [
+      "129006",
+      "129009",
+      "129007",
+      "129008",
+      "129007",
+      "129009"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The fund seeks to provide regular income through a portfolio of debt and money market instruments consisting predominantly of securities issued by entities such as Banks, Public Sector Undertakings (PSUs) and Municipal bonds. However, there is no assurance or guarantee that the objective of the scheme will be achieved.",
+    "asset_allocation": "Debt and Money Market Instruments issued by Banks, Public Sector Undertakings (PSUs), Public Financial Institutions (PFIs) and Municipal Bonds : 80% - 100% Debt and Money Market Instruments issued by other entities; Gilt Securities and State Development Loans (SDLs) and units issued by Infrastructure Investment Trust (InvIT): 0% - 20%",
+    "benchmark": "Nifty Banking & PSU Debt Index A-II",
+    "fund_managers": "Chandni Gupta, Anuj Tagra, Sandeep Manam (dedicated for making investments for Foreign Securities)",
+    "annual_expense": {
+      "Regular": "0.50",
+      "Direct": "0.19"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Direct - IDCW Reinv.",
+    "Regular - IDCW Payout",
+    "Direct - Growth",
+    "Regular - IDCW Reinv.",
+    "Direct - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T13:27:44.151000+00:00"
+}

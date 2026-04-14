@@ -1,0 +1,32 @@
+{
+  "parent_scheme_name": "LIC MF Gold Exchange Traded Fund",
+  "source_file": "SUMMARY_LIC MF Gold Exchange Traded Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "LIC MF Gold Exchange Traded Fund",
+    "fund_type": "An open-ended scheme replicating/ tracking the performance of gold in domestic prices",
+    "fund_options": [
+      "Direct Plan - Growth"
+    ],
+    "riskometer": "High",
+    "investment_objective": "To invest in physical Gold and Gold related Instruments with the objective to replicate the performance of Gold in domestic prices. The ETF will adopt a passive investment strategy and will seek to achieve the investment objective by minimizing the tracking error between the Fund and the underlying asset. There is no assurance that the objective of the scheme will be achieved.",
+    "asset_allocation": "Instrument:Physical Gold and Gold related Insturments**Indicative allocation:Minimum: 95% Maximum: 100% Risk Proﬁle:MediumInstrument:Debt & Money Market Instrument Indicative allocation:Minimum: 0% Maximum: 5% Risk Proﬁle: Low toMedium**SEBI vide circular reference No. CIR/IMD/DF/11/2015 dated December 31, 2015 permitted mutual Funds to invest in Gold Monetisation Schemes (GMS) of banks as one of the Gold related Instruments. Total Investment in GMS will not exceed 20% of the total net asset of the Scheme.The Gross investment under the scheme, which includes physical gold, debt securities and money market instruments, will not exceed 100% of the net assets of the scheme.Please refer the Scheme Information Document for complete details.",
+    "benchmark": "Domestic Price of Physical Gold",
+    "fund_managers": "Mr. Sumit Bhatnagar",
+    "annual_expense": {
+      "Regular": "0.41",
+      "Direct": "0.00"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "151961"
+    ],
+    "isins": [
+      "INF397L01554"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T14:55:58.455477+00:00"
+}

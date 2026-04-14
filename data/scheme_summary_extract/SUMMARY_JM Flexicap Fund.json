@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "JM Flexicap Fund",
+  "source_file": "SUMMARY_JM Flexicap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "JM Flexicap Fund",
+    "fund_type": "An open ended dynamic equity scheme investing across large cap, mid cap, small cap stocks.",
+    "fund_options": [
+      "Regular IDCW Option-PAYOUT",
+      "Regular IDCW Option-REINVESTMENT",
+      "Regular Growth Option",
+      "Direct IDCW Option-PAYOUT",
+      "Direct IDCW Option-REINVESTMENT",
+      "Direct Growth Option"
+    ],
+    "isins": [
+      "INF192K01619",
+      "INF192K01627",
+      "INF192K01635",
+      "INF192K01CA1",
+      "INF192K01CB9",
+      "INF192K01CC7"
+    ],
+    "amfi_codes": [
+      "109523",
+      null,
+      "109522",
+      "120491",
+      null,
+      "120492"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "JM Flexicap Fund is an open-ended diversiﬁed equity fund which aims to provide capital appreciation by investing primarily inequity and equity related securities of various market capitalisation.There can be no assurance that the investment objective ofthe scheme will be realized. The scheme does not guarantee/ indicate any returns. Investors are required to read all the schemerelated information set out in this document carefully.",
+    "asset_allocation": "Equity and equity related instruments - 65%-100% - Medium to High, Money market Instrument\\debt securities (includingsecuritised debt* to the extent of 20%) - 0%-35% - Low to Medium",
+    "benchmark": "BSE 500 TRI",
+    "fund_managers": "Mr. Satish Ramanathan, Mr. Asit Bhandarkar , Mr. Deepak Gupta , Ms. Ruchi Fozdar",
+    "annual_expense": {
+      "Regular": "1.84",
+      "Direct": "0.62"
+    },
+    "exit_load": "If the units are redeemed/switched out on or before 30 days from the date of allotment – 1.00%. If the units are redeemed /switched out after 30 days from the date of allotment – Nil."
+  },
+  "fund_options_inferred": [
+    "Regular IDCW Option-PAYOUT",
+    "Regular IDCW Option-REINVESTMENT",
+    "Regular Growth Option",
+    "Direct IDCW Option-PAYOUT",
+    "Direct IDCW Option-REINVESTMENT",
+    "Direct Growth Option"
+  ],
+  "extracted_at": "2026-04-13T14:39:05.534438+00:00"
+}

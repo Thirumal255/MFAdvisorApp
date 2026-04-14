@@ -1,0 +1,37 @@
+{
+  "parent_scheme_name": "Motilal Oswal 5 Year G-Sec Fund Of Fund",
+  "source_file": "SUMMARY_Motilal Oswal 5 Year G-Sec Fund of Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal 5 Year G-Sec Fund Of Fund",
+    "fund_type": "Fund of Fund (Domestic)",
+    "fund_options": [
+      "Regular Growth",
+      "Direct Growth"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to seek returns by investing in units of Motilal Oswal 5 year G-sec ETF",
+    "asset_allocation": "Units of Motilal Oswal 5 Year G-Sec ETF 95-100%, Units of liquid/ debt schemes, Debt, Money Market Instruments, G-Secs, Triparty repo, Reverse Repo, units of Liquid and Debt schemes of Motilal Oswal Mutual Fund 0-5%",
+    "benchmark": "Nifty 5 yr Benchmark G-sec index",
+    "fund_managers": [
+      "Mr. Rakesh Shetty"
+    ],
+    "annual_expense": {
+      "Regular": "1",
+      "Direct": "1"
+    },
+    "exit_load": null,
+    "amfi_codes": [
+      "149240",
+      "149241"
+    ],
+    "isins": [
+      "INF247L01AQ1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth"
+  ],
+  "extracted_at": "2026-04-13T15:14:57.793192+00:00"
+}

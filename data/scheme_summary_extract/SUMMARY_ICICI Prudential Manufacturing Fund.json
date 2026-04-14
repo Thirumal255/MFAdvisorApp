@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "ICICI Prudential Manufacturing Fund",
+  "source_file": "SUMMARY_ICICI Prudential Manufacturing Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Manufacturing Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Manufacturing Fund - Direct - Growth",
+      "ICICI Prudential Manufacturing Fund - Direct - IDCW",
+      "ICICI Prudential Manufacturing Fund - Growth",
+      "ICICI Prudential Manufacturing Fund - IDCW"
+    ],
+    "riskometer": "High",
+    "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation by creating a portfolio that is invested predominantly in equity and equity related securities of companies engaged in manufacturing theme.",
+    "asset_allocation": "• Equity & Equity related securities of manufacturing companies = 80%-100% \n• Other Equity & Equity related instruments = 0%-20%\n• Debt and Money Market Instruments, including   Units   of   Debt   oriented mutual fund schemes = 0%-20% \n• Units issued by  INVITs = 0%-10%",
+    "benchmark": "Nifty India Manufacturing TRI",
+    "fund_managers": [
+      "Mr. Antariksha Banerjee",
+      "Sharmila D’silva"
+    ],
+    "annual_expense": {
+      "Regular": "1.83",
+      "Direct": "0.78"
+    },
+    "exit_load": "• 1% of applicable Net Asset Value - If the amount, sought to be redeemed or switch out within a period of one year from the date of allotment \n• Nil  - If the amount, sought to be redeemed or switch out after a period of more than one year from the date of allotment",
+    "amfi_codes": [
+      "145075",
+      "145076",
+      "145077",
+      "145078"
+    ],
+    "isins": [
+      "INF109KC1LJ8",
+      "INF109KC1LK6",
+      "INF109KC1LG4",
+      "INF109KC1LH2"
+    ]
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Manufacturing Fund - Direct - Growth",
+    "ICICI Prudential Manufacturing Fund - Direct - IDCW",
+    "ICICI Prudential Manufacturing Fund - Growth",
+    "ICICI Prudential Manufacturing Fund - IDCW"
+  ],
+  "extracted_at": "2026-04-13T14:14:13.724019+00:00"
+}

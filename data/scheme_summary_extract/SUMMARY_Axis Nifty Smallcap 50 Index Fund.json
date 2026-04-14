@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis Nifty Smallcap 50 Index Fund",
+  "source_file": "SUMMARY_Axis Nifty Smallcap 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Nifty Smallcap 50 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide returns before expenses that closely corresponds to the total returns of the NIFTY SMALLCAP 50 subject to tracking errors. However, there can be no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities covered by Nifty Smallcap 50 Index (95%-100%), Debt & Money Market Instruments (0%-5%)",
+    "benchmark": "Nifty Smallcap 50 Index TRI",
+    "fund_managers": "Mr. Karthik Kumar - Primary/Domestic Equities",
+    "annual_expense": {
+      "Regular": "1.02",
+      "Direct": "0.27"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "149894",
+      "149895",
+      "149896",
+      "149897"
+    ],
+    "isins": [
+      "INF846K013H3",
+      "INF846K014H1",
+      "INF846K016H6",
+      "INF846K017H4",
+      "INF846K015H8",
+      "INF846K018H2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T12:34:37.947971+00:00"
+}

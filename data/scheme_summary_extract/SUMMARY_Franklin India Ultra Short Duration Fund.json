@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Franklin India Ultra Short Duration Fund",
+  "source_file": "SUMMARY_Franklin India Ultra Short Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Franklin India Ultra Short Duration Fund",
+    "fund_type": "An open ended ultra short debt scheme investing in instruments such that the Macaulay duration of the portfolio is between 3months to 6 months.",
+    "fund_options": [
+      "Regular - Growth",
+      "Regular - IDCW Payout",
+      "Regular - IDCW Reinv.",
+      "Direct - Growth",
+      "Direct - IDCW Payout",
+      "Direct - IDCW Reinv."
+    ],
+    "isins": [
+      "INF090I01XJ8",
+      "INF090I01XK6",
+      "INF090I01XO8",
+      "INF090I01XL4",
+      "INF090I01XM2",
+      "INF090I01XN0"
+    ],
+    "amfi_codes": [
+      "152828",
+      "152826",
+      null,
+      "152825",
+      "152827",
+      null
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide a combination of regular income and high liquidity by investing primarilyin a mix of short term debt and money market instruments. However, there is no assurance that the investment objective ofthe Scheme will be achieved",
+    "asset_allocation": "Under normal circumstances, the investment range would be as follows: Debt securities*, and Money Market Instruments,cash & cash equivalent: 0% - 100% *including central and state Government Securities upto 100%, Securitised Debt up to 50%",
+    "benchmark": "NIFTY Ultra Short Duration Debt Index A-I",
+    "fund_managers": "Rohan Maru, Pallab Roy, Rahul Goswami",
+    "annual_expense": {
+      "Regular": "0.72",
+      "Direct": "0.28"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Regular - IDCW Payout",
+    "Regular - IDCW Reinv.",
+    "Direct - Growth",
+    "Direct - IDCW Payout",
+    "Direct - IDCW Reinv."
+  ],
+  "extracted_at": "2026-04-13T13:32:09.007801+00:00"
+}

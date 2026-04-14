@@ -1,0 +1,48 @@
+{
+  "parent_scheme_name": "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund",
+  "source_file": "SUMMARY_ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Growth",
+      "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Annual-IDCW",
+      "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-DP-Growth",
+      "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-DP-Annual IDCW"
+    ],
+    "isins": [
+      "INF109K1A039",
+      "INF109K1A047",
+      "INF109K1A062",
+      "INF109K1A088"
+    ],
+    "amfi_codes": [
+      "3561",
+      "3562",
+      "9763",
+      "9764"
+    ],
+    "riskometer": "Low to Moderate risk\nAs on March 21, 2025",
+    "investment_objective": "The investment objective of the scheme is to track the CRISIL-IBX Financial Services 3-6 Months Debt Index, subject to tracking errors.\nHowever, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved and the scheme does not assure or guarantee any returns.",
+    "asset_allocation": "• Securities forming part of CRISIL-IBX Financial Services 3-6 Months Debt Index  = 95%-100% \n• Debt and *Money Market instruments including cash and cash equivalents (Treasury Bills, Government \nSecurities with residual maturity of upto 1 year and Tri- Party Repos)*@ = 0%-5% \n*Money Market Instruments will include treasury bills and government securities having a residual maturity upto one year, Tri-Party Repos, Repo in government securities and treasury bills and any other like instruments as specified by the Reserve Bank of India from time to time.      \n@ Excluding money in transit before deployment / payout.",
+    "benchmark": "CRISIL-IBX Financial Services 3-6 Months Debt Index",
+    "fund_managers": [
+      "Mr. Nikhil Kabra",
+      "Mr. Darshil Dedhia"
+    ],
+    "annual_expense": {
+      "Regular": "0",
+      "Direct": "0",
+      "Retail": "0"
+    },
+    "exit_load": "Upto 1 of the daily net assets"
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Growth",
+    "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Annual-IDCW",
+    "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-DP-Growth",
+    "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-DP-Annual IDCW"
+  ],
+  "extracted_at": "2026-04-13T14:09:54.143005+00:00"
+}

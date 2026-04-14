@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Groww Nifty Non-Cyclcial Consumer Index Fund",
+  "source_file": "SUMMARY_Groww Nifty Non-Cyclical Consumer Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Groww Nifty Non-Cyclcial Consumer Index Fund",
+    "fund_type": "open‐ended",
+    "fund_options": [
+      "Direct Plan - IDCW - Payout",
+      "Direct Plan - Growth - Growth",
+      "Regular Plan - IDCW - Payout",
+      "Regular Plan - Growth - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The  investment  objective  of  the  Scheme  is  to  generate long term capital growth by investing  in  securities  of  the  Nifty Non-Cyclical Consumer Index (TRI) in  the  same proportion / weightage with an aim to provide returns before expenses that track  the total return of Nifty Non-Cyclical Consumer Index, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equities & Equity-related securities of companies engaged in or expected to benefit from consumption and consumption-related activities - 95% to 100% - Very high\nDebt & Money Market Instruments / and Units of debt schemes# / Units of Debt ETFs - 0% to 5% - Low to Medium",
+    "benchmark": "Nifty Non-Cyclical Consumer Index - TRI",
+    "fund_managers": "Mr. Nikhil Satam, Mr. Aakash Chauhan & Mr. Shashi Kumar",
+    "annual_expense": {
+      "Regular": "1.00",
+      "Direct": "0.40"
+    },
+    "exit_load": "• In respect of each purchase/switch‐in of units, an Exit load of 1% is payable if units are redeemed/switched-out within 30 days from the date of allotment\n• No Exit Load is payable if units are redeemed / switched‐ out after 30 days from the date of allotment.\nNo Entry / Exit Load shall be levied on Units allotted on Re- investment of Income Distribution cum Capital Withdrawal.\nIn respect of Systematic Transactions such as SIP, STP, etc. Exit Load, if any, prevailing on the date of registration / enrolment shall be levied.",
+    "amfi_codes": [
+      "152636",
+      "152637",
+      "152635",
+      "152633"
+    ],
+    "isins": [
+      "INF666M01IF6",
+      "INF666M01IG4",
+      "INF666M01IE9",
+      "INF666M01IC3",
+      "INF666M01ID1",
+      "INF666M01IB5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW - Payout",
+    "Direct Plan - Growth - Growth",
+    "Regular Plan - IDCW - Payout",
+    "Regular Plan - Growth - Growth"
+  ],
+  "extracted_at": "2026-04-13T13:37:35.366324+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "quant Dynamic Asset Allocation Fund",
+  "source_file": "SUMMARY_Quant Dynamic Bond.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "quant Dynamic Asset Allocation Fund",
+    "fund_type": "An Open Ended Dynamic Asset Allocation Fund",
+    "fund_options": [
+      "Growth Option - Regular Plan",
+      "Growth Option - Direct Plan",
+      "IDCW Payout Option - Regular Plan",
+      "IDCW Payout Option - Direct Plan",
+      "IDCW Re-investment Option - Regular Plan",
+      "IDCW Re-investment Option - Direct Plan"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the scheme is to provide capital appreciation by investing in equity and equity related instruments including derivatives and debt and money market instruments. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Equity and equity related instruments :- 0-100%\nDebt & Money Market instruments:- 0-100%\nForeign securities including ADRs / GDRs / Foreign equity and debt securities:- 0-35%",
+    "benchmark": "Nifty 50 Hybrid Composite debt 50:50 Index",
+    "fund_managers": [
+      "Mr. Sandeep Tandon",
+      "Mr. Ankit Pande",
+      "Mr. Sameer Kate",
+      "Mr. Varun Pattani",
+      "Ms. Ayusha Kumbhat",
+      "Mr. Yug Tibrewal",
+      "Mr. Sanjeev Sharma"
+    ],
+    "annual_expense": {
+      "Regular": "2.16",
+      "Direct": "0.73"
+    },
+    "exit_load": "For redemptions / switch outs (including SIP/STP) within 15 days from the date of allotment of units, irrespective of the amount of investment: 1%\nNo exit load shall be applicable on switches from Regular Plan to Direct Plan and vice versa, under the same scheme",
+    "amfi_codes": [
+      "151714",
+      "151713",
+      "151715",
+      "151712",
+      null,
+      null
+    ],
+    "isins": [
+      "INF966L01BO9",
+      "INF966L01BL5",
+      "INF966L01BP6",
+      "INF966L01BM3",
+      "INF966L01BQ4",
+      "INF966L01BN1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth Option - Regular Plan",
+    "Growth Option - Direct Plan",
+    "IDCW Payout Option - Regular Plan",
+    "IDCW Payout Option - Direct Plan",
+    "IDCW Re-investment Option - Regular Plan",
+    "IDCW Re-investment Option - Direct Plan"
+  ],
+  "extracted_at": "2026-04-13T15:42:38.152473+00:00"
+}

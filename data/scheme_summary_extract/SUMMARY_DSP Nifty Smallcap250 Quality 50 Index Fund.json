@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "DSP Nifty Smallcap250 Quality 50 Index Fund",
+  "source_file": "SUMMARY_DSP Nifty Smallcap250 Quality 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP Nifty Smallcap250 Quality 50 Index Fund",
+    "fund_type": "An open ended scheme replicating/ tracking Nifty Smallcap250 Quality 50 Index",
+    "fund_options": [
+      "Regular - Growth",
+      "Regular - IDCW",
+      "Regular - IDCW Reinvest",
+      "Direct - Growth",
+      "Direct - IDCW",
+      "Direct - IDCW Reinvest"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate returns that are commensurate with the performance of the NiftySmallcap250 Quality 50 Index, subject to tracking error. There is no assurance that the investment objective of the Scheme willbe achieved.",
+    "asset_allocation": "A. Equity and Equity Related Securities of companies constituting Nifty Smallcap250 Quality 50 Index, the Underlying Index :95% - 100% B. Cash and Cash Equivalents : 0% – 5%",
+    "benchmark": "Nifty Smallcap250 Quality 50 TRI",
+    "fund_managers": "Mr. Anil Ghelani, Mr. Diipesh Shah",
+    "annual_expense": {
+      "Regular": "0.85",
+      "Direct": "0.16"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "152245",
+      "152242",
+      "152242",
+      "152243",
+      "152244",
+      "152244"
+    ],
+    "isins": [
+      "INF740KA1TT7",
+      "NF740KA1TU5",
+      "INF740KA1TV3",
+      "INF740KA1TW1",
+      "INF740KA1TX9",
+      "INF740KA1TY7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Regular - IDCW",
+    "Regular - IDCW Reinvest",
+    "Direct - Growth",
+    "Direct - IDCW",
+    "Direct - IDCW Reinvest"
+  ],
+  "extracted_at": "2026-04-13T13:14:24.636699+00:00"
+}

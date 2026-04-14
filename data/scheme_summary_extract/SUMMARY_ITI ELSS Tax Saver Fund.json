@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "ITI ELSS Tax Saver Fund",
+  "source_file": "SUMMARY_ITI ELSS Tax Saver Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ITI ELSS Tax Saver Fund",
+    "fund_type": "An open ended equity linked saving scheme with a statutory lock in of 3 years and tax beneﬁt",
+    "fund_options": [
+      "DIRECT PLAN-GROWTH",
+      "DIRECT PLAN-IDCW - PAYOUT",
+      "REGULAR PLAN-IDCW - PAYOUT",
+      "REGULAR PLAN-GROWTH"
+    ],
+    "riskometer": "Very High risk",
+    "investment_objective": "The investment objective of the Scheme is to provide long-term capital appreciation by investing predominantly in equity andequity related securities. However, there is no assurance or guarantee that the investment objective of the Scheme will beachieved. The scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Equity and Units issued by REITs, Equity related securities 80%-100%, Short Term Debt and Money Market Instruments0%-20%.",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Mr. Alok Ranjan & Mr. Dhimant Shah",
+    "annual_expense": {
+      "Regular": "2.31",
+      "Direct": "0.56"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "147541",
+      "147542",
+      "147543",
+      "147544"
+    ],
+    "isins": [
+      "INF00XX01390",
+      "INF00XX01408",
+      "INF00XX01382",
+      "INF00XX01374"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN-GROWTH",
+    "DIRECT PLAN-IDCW - PAYOUT",
+    "REGULAR PLAN-IDCW - PAYOUT",
+    "REGULAR PLAN-GROWTH"
+  ],
+  "extracted_at": "2026-04-13T14:31:58.744540+00:00"
+}

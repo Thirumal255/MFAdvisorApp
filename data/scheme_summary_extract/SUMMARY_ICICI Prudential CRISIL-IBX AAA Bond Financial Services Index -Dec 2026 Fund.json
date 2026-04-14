@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index – Dec 2026 Fund",
+  "source_file": "SUMMARY_ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index -Dec 2026 Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index – Dec 2026 Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index – Dec 2026 Fund- Growth",
+      "ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index – Dec 2026 Fund- IDCW",
+      "ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index – Dec 2026 Fund- Direct Plan - Growth",
+      "ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index – Dec 2026 Fund- Direct Plan - IDCW"
+    ],
+    "isins": [
+      "INF109KC18Z6",
+      "INF109K1A013",
+      "INF109KC15Z2",
+      "INF109KC17Z8"
+    ],
+    "amfi_codes": [
+      "153234",
+      "153235",
+      "153236",
+      "153237"
+    ],
+    "riskometer": "Very High\nAs on September 30, 2025",
+    "investment_objective": "The investment objective of the scheme is to track the CRISIL-IBX AAA Financial Services Index – Dec 2026 by investing in Securities maturing on or before December 2026, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved and the scheme does not assure or guarantee any returns.",
+    "asset_allocation": "• Securities forming part of CRISIL-IBX AAA Financial Services Index – Dec 2026  = 95%-100% \n• Debt and *Money Market instruments including cash and cash equivalents (Treasury Bills, Government Securities with residual maturity of upto 1 year and Tri- Party Repos)*@  = 0%-5% \n*Money Market Instruments will include treasury bills and government securities having a residual maturity upto one year, Tri-Party Repos, Repo in government securities and treasury bills and any other like instruments as specified by the Reserve Bank of India from time to time.     \n@ Excluding money in transit before deployment / payout.",
+    "benchmark": "CRISIL-IBX AAA Financial Services Index – Dec 2026",
+    "fund_managers": [
+      "Mr. Darshil Dedhia",
+      "Mr. Rohit Lakhotia"
+    ],
+    "annual_expense": {
+      "Regular": "0.27",
+      "Direct": "0.15"
+    },
+    "exit_load": "0.25% of applicable Net Asset Value - If the amount sought to be redeemed or switch out within 30 days from allotment. NIL - If the amount sought to be redeemed or switched out after 30 days."
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index – Dec 2026 Fund- Growth",
+    "ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index – Dec 2026 Fund- IDCW",
+    "ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index – Dec 2026 Fund- Direct Plan - Growth",
+    "ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index – Dec 2026 Fund- Direct Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-13T14:09:47.226492+00:00"
+}

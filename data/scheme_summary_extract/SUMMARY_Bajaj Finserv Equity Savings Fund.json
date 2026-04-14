@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bajaj Finserv Equity Savings Fund",
+  "source_file": "SUMMARY_Bajaj Finserv Equity Savings Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bajaj Finserv Equity Savings Fund",
+    "fund_type": "An open ended scheme investing in equity, arbitrage and debt",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - IDCW Payout",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Plan - IDCW Payout"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The objective of the Scheme is to generate capital appreciation and income by investing in equity and equity related instruments, arbitrage opportunities and ﬁxed income instruments (including debt, government securities and money market instruments). However, there is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and equity related instruments - 65% - 90% Of which Derivatives including index futures, stock futures, index options and stock options, etc. (arbitrage opportunities) - Derivatives (hedged) - 25% - 80% - Net long equity exposure (unhedged) - 10% -40% Debt and Money Market Instruments* - 10% - 35% (including derivatives) Units issued by REITs and InvITs - 0% - 10% The asset allocation pattern for the scheme under defensive circumstances is detailed in the table below: Equity and equity related instruments - 15%- 65% Of which Derivatives including index futures, stock futures, index options and stock options, etc. (arbitrage opportunities) - Derivatives (hedged) - 0% - 55% - Net long equity exposure (unhedged)- 10% - 30% Debt and Money Market Instruments* (including derivatives) - 35% - 85% Units issued by REITs and InvITs - 0% - 10% *Debt instruments shall be deemed to include securitized debts (excluding foreign securitized debt). Money market instruments will include commercial papers, commercial bills, Triparty REPO, Reverse Repo and equivalent and any other like instruments as speciﬁed by SEBI and Reserve Bank of India from time to time.",
+    "benchmark": "Nifty Equity Savings TRI",
+    "fund_managers": "FM 1 - Mr. Sorbh Gupta (Equity Portion) , FM-2 - Mr. Ilesh Savla (Arbitrage portion), FM- 3- Mr. Siddharth Chaudhary (Debt portion) (Primary)",
+    "annual_expense": {
+      "Regular": "1.30",
+      "Direct": "0.30"
+    },
+    "exit_load": "Entry load – Nil Exit load – If units redeemed/switched out within 7 days from allotment date - 0.25% of the applicable NAV If units redeemed/switched out after 7 days from allotment date - Nil Exit load is applicable for each purchase of units through Lumpsum / switch-in / Systematic Investment Plan (SIP) and Systematic Transfer Plan (STP). The Scheme will not levy exit load in case the timelines for rebalancing portfolio as stated in SEBI Master Circular for Mutual Funds dated June 27, 2024, is not complied with. The Trustee / AMC reserves the right to change the load structure any time in the future if they so deem ﬁt on a prospective basis. The investor is requested to check the prevailing load structure of the scheme before investing.",
+    "amfi_codes": [
+      "153758",
+      "153770",
+      "153770",
+      "153769",
+      "153771",
+      "153771"
+    ],
+    "isins": [
+      "INF0QA701BT9",
+      "INF0QA701BV5",
+      "INF0QA701BU7",
+      "INF0QA701BQ5",
+      "INF0QA701BS1",
+      "INF0QA701BR3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - IDCW Payout",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Plan - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T12:36:41.962022+00:00"
+}

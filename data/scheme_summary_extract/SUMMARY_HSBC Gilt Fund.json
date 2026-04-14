@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "HSBC Gilt Fund",
+  "source_file": "SUMMARY_HSBC Gilt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Gilt Fund",
+    "fund_type": "An open-ended debt scheme investing in government securities across maturity. A relatively high interest rate risk andrelatively low credit risk",
+    "fund_options": [
+      "HSBC Gilt Fund - Direct Growth",
+      "HSBC Gilt Fund - Direct Quarterly IDCW Payout",
+      "HSBC Gilt Fund - Direct Quarterly IDCW Reinvestment",
+      "HSBC Gilt Fund - Regular Growth",
+      "HSBC Gilt Fund - Regular Quarterly IDCW Payout",
+      "HSBC Gilt Fund - Regular Quarterly IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF917K01FI7",
+      "INF917K01FK3",
+      "INF917K01FJ5",
+      "INF917K01BP1",
+      "INF917K01BN6",
+      "INF917K01BO4"
+    ],
+    "amfi_codes": [
+      "151014",
+      "151015",
+      null,
+      "151013",
+      "151012",
+      null
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate returns from a portfolio from investments in Government Securities. There is no assurance that the objective ofthe Scheme will be realised and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Government Securities including Treasury Bills and TREPS : 80% -100% Money market instruments: 0%-20%",
+    "benchmark": "NIFTY All Duration G-Sec Index",
+    "fund_managers": "FM 1 - Shriram Ramanathan, FM 2 - Mohd Asif Rizwi",
+    "annual_expense": {
+      "Regular": "1.58",
+      "Direct": "0.48"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "HSBC Gilt Fund - Direct Growth",
+    "HSBC Gilt Fund - Direct Quarterly IDCW Payout",
+    "HSBC Gilt Fund - Direct Quarterly IDCW Reinvestment",
+    "HSBC Gilt Fund - Regular Growth",
+    "HSBC Gilt Fund - Regular Quarterly IDCW Payout",
+    "HSBC Gilt Fund - Regular Quarterly IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T14:02:08.036179+00:00"
+}

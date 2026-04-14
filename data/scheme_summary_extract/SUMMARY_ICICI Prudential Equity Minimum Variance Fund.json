@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "ICICI Prudential Equity Minimum Varinace Fund",
+  "source_file": "SUMMARY_ICICI Prudential Equity Minimum Variance Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Equity Minimum Varinace Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Equity Minimum Varinace Fund - Growth",
+      "ICICI Prudential Equity Minimum Varinace Fund - IDCW",
+      "ICICI Prudential Equity Minimum Varinace Fund - IDCW Payout",
+      "ICICI Prudential Equity Minimum Varinace Fund - Direct Plan - Growth",
+      "ICICI Prudential Equity Minimum Varinace Fund - Direct Plan - IDCW",
+      "ICICI Prudential Equity Minimum Varinace Fund - Direct Plan - IDCW Payout"
+    ],
+    "isins": [
+      "INF109KC17X3",
+      "INF109KC18X1",
+      "INF109KC19X9",
+      "INF109KC10Y6",
+      "INF109KC11Y4",
+      "INF109KC12Y2"
+    ],
+    "amfi_codes": [
+      "153069",
+      "153071",
+      null,
+      "153068",
+      "153070",
+      null
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate long term capital appreciation by investing in Equity & Equity related instruments through a diversified basket with an aim to minimize the portfolio volatility. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "•Equity & Equity related instruments identified based on Minimum Variance Factor = 80% - 100% •Other Equity and Equity related instruments = 0%- 20% •Debt & Money market instruments =0% - 20% •InvITs=0%- 10%",
+    "benchmark": "Nifty 50 TRI",
+    "fund_managers": [
+      "Mr. Vaibhav Dusad",
+      "Ms. Nitya Mishra for overseas investments"
+    ],
+    "annual_expense": {
+      "Regular": "1.92",
+      "Direct": "0.76"
+    },
+    "exit_load": "• 1% of applicable Net Asset Value - If the amount sought to be redeemed or switch out within 12 months from allotment. • NIL - If the amount sought to be redeemed or switched out more than 12 months."
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Equity Minimum Varinace Fund - Growth",
+    "ICICI Prudential Equity Minimum Varinace Fund - IDCW",
+    "ICICI Prudential Equity Minimum Varinace Fund - IDCW Payout",
+    "ICICI Prudential Equity Minimum Varinace Fund - Direct Plan - Growth",
+    "ICICI Prudential Equity Minimum Varinace Fund - Direct Plan - IDCW",
+    "ICICI Prudential Equity Minimum Varinace Fund - Direct Plan - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T14:11:03.022720+00:00"
+}

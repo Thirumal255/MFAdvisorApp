@@ -1,0 +1,39 @@
+{
+  "parent_scheme_name": "Navi Nifty Midcap 150 Index fund",
+  "source_file": "SUMMARY_Navi Nifty Midcap 150 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Navi Nifty Midcap 150 Index fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Navi Nifty Midcap 150 Index Fund - Direct Plan Growth",
+      "Navi Nifty Midcap 150 Index Fund - Regular Plan Growth"
+    ],
+    "riskometer": "VERY HIGH RISK",
+    "investment_objective": "To achieve return equivalent to Nifty Midcap 150 Index by investing in stocks of companies comprising Nifty Midcap 150 Index, subject to tracking error",
+    "asset_allocation": "Equity & Equity related securities covered by Nifty Midcap 150– 95 to 100%; Debt & Money Market Instruments– 0 to 5%",
+    "benchmark": "Nifty Midcap 150 Index",
+    "fund_managers": [
+      "Mr. Aditya Mulki",
+      "Mr. Ashutosh Shirwaikar"
+    ],
+    "annual_expense": {
+      "Regular": "1.00",
+      "Direct": "1.00"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "149892",
+      "149893"
+    ],
+    "isins": [
+      "INF959L01FX6",
+      "INF959L01FY4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Navi Nifty Midcap 150 Index Fund - Direct Plan Growth",
+    "Navi Nifty Midcap 150 Index Fund - Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-13T15:21:00.558021+00:00"
+}

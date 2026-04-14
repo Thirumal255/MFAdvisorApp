@@ -1,0 +1,64 @@
+{
+  "parent_scheme_name": "Union Equity Savings Fund",
+  "source_file": "SUMMARY_Union Equity Savings Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Union Equity Savings Fund",
+    "fund_type": "An open ended scheme investing in equity, arbitrage and debt.",
+    "fund_options": [
+      "Regular Plan - Growth Option",
+      "Regular Plan - Payout of IDCW Option",
+      "Regular Plan - Reinvestment of IDCW Option",
+      "Regular Plan - Transfer of IDCW Plan",
+      "Direct Plan - Growth Option",
+      "Direct Plan - Payout of IDCW Option",
+      "Direct Plan - Reinvestment of IDCW Option",
+      "Direct Plan - Transfer of IDCW Plan"
+    ],
+    "riskometer": "Moderate Risk",
+    "investment_objective": "To seek capital appreciation and/or to generate consistent returns by actively investing in a combination of diversiﬁed equityand equity related instruments, arbitrage and derivative strategies and exposure in debt and money market instruments.However, there is no assurance that the Investment Objective of the scheme will be achieved.",
+    "asset_allocation": "Equity & Equity Related Securities (unhedged)#: 10%- 60% of net assets;Equities, equity related instruments and derivativesincluding index futures, stock futures, index options, & stock options, etc. as partly hedged / arbitrage exposure#: 65% - 90% ofnet assets;Debt and Money Market instruments: 10%-35% of net assets;Units issued by InvITs: 0% to 10% of net assets.# InEquity, unhedged equity exposure shall be limited to 60% of the overall portfolio. Unhedged equity exposure means exposureto equity shares alone without a corresponding equity derivative exposure.Please refer the Scheme Information Document forcomplete details.",
+    "benchmark": "CRISIL Equity Savings Index (TRI)",
+    "fund_managers": [
+      "Mr. Sanjay Bembalkar",
+      "Mr. Gaurav Chopra",
+      "Mr. Parijat Agrawal"
+    ],
+    "annual_expense": {
+      "Regular": "2.00",
+      "Direct": "1.50"
+    },
+    "exit_load": "1% if units are redeemed or switched out on or before completion of 15 days from the date of allotment. Nil thereafter",
+    "amfi_codes": [
+      "144310",
+      "144311",
+      null,
+      null,
+      "144312",
+      "144313",
+      null,
+      null
+    ],
+    "isins": [
+      "INF582M01EG2",
+      "INF582M01EI8",
+      "INF582M01EH0",
+      "INF582M01EJ6",
+      "INF582M01EC1",
+      "INF582M01EE7",
+      "INF582M01ED9",
+      "INF582M01EF4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth Option",
+    "Regular Plan - Payout of IDCW Option",
+    "Regular Plan - Reinvestment of IDCW Option",
+    "Regular Plan - Transfer of IDCW Plan",
+    "Direct Plan - Growth Option",
+    "Direct Plan - Payout of IDCW Option",
+    "Direct Plan - Reinvestment of IDCW Option",
+    "Direct Plan - Transfer of IDCW Plan"
+  ],
+  "extracted_at": "2026-04-13T16:23:40.556625+00:00"
+}

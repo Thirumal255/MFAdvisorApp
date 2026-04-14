@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Tata BSE Quality Index Fund",
+  "source_file": "SUMMARY_Tata BSE Quality Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata BSE Quality Index Fund",
+    "fund_type": "An open ended fund replicating / tracking the BSE Quality Total Return Index (TRI).",
+    "fund_options": [
+      "TATA BSE Quality INDEX FUND REGULAR PLAN IDCW",
+      "TATA BSE Quality INDEX FUND DIRECT PLAN IDCW",
+      "TATA BSE QualityINDEX FUND REGULAR PLAN GROWTH",
+      "TATA BSE Quality INDEX FUND DIRECT PLAN GROWTH",
+      "TATA BSE Quality INDEX FUNDREGULAR PLAN IDCW PAYOUT",
+      "TATA BSE Quality INDEX FUND DIRECT PLAN IDCW PAYOUT"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns, before expenses, that commensurate with the performance ofBSE Quality Total Return Index (TRI), subject to tracking error.However, there is no assurance or guarantee that the investmentobjective of the scheme will be achieved. The scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Securities covered by BSE Quality Total Return Index(95-100),Debt / Money Market Instruments^ including units of MutualFunds^^ (0-5).",
+    "benchmark": "BSE Quality Total Return Index (TRI).",
+    "fund_managers": "1. Nitin Sharma , 2. Rakesh Prajapati",
+    "annual_expense": {
+      "Regular": "1.09",
+      "Direct": "0.34"
+    },
+    "exit_load": "0.25% of the applicable NAV, if redeemed on or before 15 days from the date of allotment.",
+    "amfi_codes": [
+      "153423",
+      "153422",
+      "153425",
+      "153420",
+      "153424",
+      "153421"
+    ],
+    "isins": [
+      "INF277KA1DI5",
+      "INF277KA1DP0",
+      "INF277KA1DH7",
+      "INF277KA1DK1",
+      "INF277KA1DJ3",
+      "INF277KA1DO3"
+    ]
+  },
+  "fund_options_inferred": [
+    "TATA BSE Quality INDEX FUND REGULAR PLAN IDCW",
+    "TATA BSE Quality INDEX FUND DIRECT PLAN IDCW",
+    "TATA BSE QualityINDEX FUND REGULAR PLAN GROWTH",
+    "TATA BSE Quality INDEX FUND DIRECT PLAN GROWTH",
+    "TATA BSE Quality INDEX FUNDREGULAR PLAN IDCW PAYOUT",
+    "TATA BSE Quality INDEX FUND DIRECT PLAN IDCW PAYOUT"
+  ],
+  "extracted_at": "2026-04-13T16:09:48.375259+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Mirae Asset Healthcare Fund",
+  "source_file": "SUMMARY_Mirae Asset Healthcare Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Healthcare Fund",
+    "fund_type": "Sectoral/Thematic Fund - An open ended equity scheme investing in healthcare and allied sectors",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular PlanIDCW - Payout",
+      "Regular PlanIDCW -Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to seek to generate long term capital appreciation through investing in equity andequity related securities of companies beneﬁtting directly or indirectly in Healthcare and allied sectors in India. The Schemedoes not guarantee or assure any returns.",
+    "asset_allocation": "Indian Equities and Equity Related Securities* of companies that are likely to beneﬁt either directly or indirectly from Healthcareand allied sectors - 80% to 100% (High) Other equities and equity related securities of companies in India - 0% to 20% (High)Money market instruments / debt ecurities, Instruments and/or units of debt / liquid schemes of domestic Mutual Funds - 0% to20% (Low to Medium) / Units issued by REITs and InvITs - 0% to 10%",
+    "benchmark": "BSE Healthcare Index (TRI)",
+    "fund_managers": "Mr. Vrijesh Kasera , Mr. Tanmay Mehta",
+    "annual_expense": {
+      "Regular": "1.93",
+      "Direct": "0.48"
+    },
+    "exit_load": "Exit load: I. For investors who have opted for SWP under the plan: a) 15% of the units allotted (including Switch-in/STP - in) on orbefore completion of 365 days from the date of allotment of units: Nil. b) Any redemption in excess of such limits in the ﬁrst 365days from the date of allotment shall be subject to the following exit load: (Redemption of units would be done on First In FirstOut Basis (FIFO): -If redeemed within 1 year (365 days) from the date of allotment: 1% -If redeemed after 1 year (365 days) fromthe date of allotment: NIL II. Other Redemptions: For Investors who have not opted for SWP under the plan (including Switchout, STP out): -If redeemed within 1 year (365 days) from the date of allotment: 1% -If redeemed after 1 year (365 days) fromthe date of allotment: NIL",
+    "amfi_codes": [
+      "143783",
+      "143784",
+      "143785",
+      "143786"
+    ],
+    "isins": [
+      "INF769K01EA2",
+      "INF769K01EB0",
+      "INF769K01EC8",
+      "INF769K01ED6",
+      "INF769K01EE4",
+      "INF769K01EF1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular PlanIDCW - Payout",
+    "Regular PlanIDCW -Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-13T15:08:11.182905+00:00"
+}

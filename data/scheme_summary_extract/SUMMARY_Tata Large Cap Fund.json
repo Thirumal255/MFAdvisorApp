@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Tata Large Cap Fund",
+  "source_file": "SUMMARY_Tata Large Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Large Cap Fund",
+    "fund_type": "An open-ended equity scheme predominantly investing in large cap stocks.",
+    "fund_options": [
+      "Tata Large Cap Fund Regular Plan - Growth",
+      "Tata Large Cap Fund Regular Plan - IDCW",
+      "Tata Large Cap Fund Direct Plan -IDCW",
+      "Tata Large Cap Fund Direct Plan - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide income distribution and / or medium to long term capital gains while at all times emphasising the importance ofcapital appreciation. However, there is no assurance or guarantee that the investment objective of the Scheme will beachieved. The scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Equity and Equity Related Instruments of Large Cap Companies 80-100, Other Equity and Equity Related Instruments 0-20,Debt & Money market instruments 0-20, REITs & InvITs 0-10.",
+    "benchmark": "Nifty 100 TRI",
+    "fund_managers": "FM-1 Abhinav Sharma, FM-2 Hasmukh Vishariya",
+    "annual_expense": {
+      "Regular": "1.99",
+      "Direct": "0.97"
+    },
+    "exit_load": "1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL.",
+    "amfi_codes": [
+      "100475",
+      "102036",
+      "119159",
+      "119160"
+    ],
+    "isins": [
+      "INF277K01931",
+      "INF277K01923",
+      "INF277K01QY0",
+      "INF277K01QZ7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Large Cap Fund Regular Plan - Growth",
+    "Tata Large Cap Fund Regular Plan - IDCW",
+    "Tata Large Cap Fund Direct Plan -IDCW",
+    "Tata Large Cap Fund Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T16:13:29.781081+00:00"
+}

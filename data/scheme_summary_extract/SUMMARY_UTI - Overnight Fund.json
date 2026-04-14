@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "UTI - Overnight Fund",
+  "source_file": "SUMMARY_UTI - Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "UTI - Overnight Fund",
+    "fund_type": "An open ended debt scheme investing in overnight securities. A Relatively Low interest rate risk and Relatively Low Credit Risk",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Regular Plan-Periodic Reinvestment of IDCW",
+      "Regular Plan-Periodic Payout of IDCW",
+      "Regular Plan-Daily Reinvestment of IDCW",
+      "Direct Plan-Daily Reinvestment of IDCW",
+      "Direct Plan-Growth",
+      "Direct Plan-Periodic Reinvestment of IDCW",
+      "Direct Plan-Periodic Payout of IDCW"
+    ],
+    "isins": [
+      "INF789F01604",
+      "INF789F01596",
+      "INF789F01588",
+      "INF789FB1T13",
+      "INF789FB1S89",
+      "INF789FB1S71",
+      "INF789FB1S97",
+      "INF789FB1T05"
+    ],
+    "amfi_codes": [
+      "100814",
+      "100813",
+      "null",
+      "124265",
+      "124266",
+      "120785",
+      "120786",
+      "null"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the scheme is to generate reasonable income, with low risk and high level of liquidity from aportfolio of overnight securities having a maturity of one day. However there can be no assurance that the investmentobjective of the Scheme will be achieved. The Scheme does not guarantee / indicate any returns.",
+    "asset_allocation": "Overnight Securities (including Triparty Repo on Government Securities or treasury bill & Repo): 100% (Low) The scheme willinvest in Triparty Repo on Government Securities or treasury bill, market repo & securities having a maturity of one day. Hereone day refers to one business day.",
+    "benchmark": "CRISIL Liquid Overnight Index",
+    "fund_managers": "Mr. Jaydeep Bhowal",
+    "annual_expense": {
+      "Regular": "0.11",
+      "Direct": "0.06"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Regular Plan-Periodic Reinvestment of IDCW",
+    "Regular Plan-Periodic Payout of IDCW",
+    "Regular Plan-Daily Reinvestment of IDCW",
+    "Direct Plan-Daily Reinvestment of IDCW",
+    "Direct Plan-Growth",
+    "Direct Plan-Periodic Reinvestment of IDCW",
+    "Direct Plan-Periodic Payout of IDCW"
+  ],
+  "extracted_at": "2026-04-13T16:32:19.658714+00:00"
+}

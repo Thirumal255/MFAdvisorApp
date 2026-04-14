@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Mirae Asset BSE 200 Equal Weight ETF",
+  "source_file": "SUMMARY_Mirae Asset BSE 200 Equal Weight ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset BSE 200 Equal Weight ETF",
+    "fund_type": "An open-ended scheme replicating/tracking BSE 200 Equal Weight Total Return Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate returns, before expenses, that are commensurate with theperformance of the BSE 200 Equal Weight Total Return Index, subject to tracking error. The Scheme does not guarantee orassure any returns. There is no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Securities included in the BSE 200 Equal Weight Index - 95 to 100% ; Money market instruments* including Tri Party REPO/debt securities, Instruments and/or units of debt/liquid schemes of domestic Mutual Funds - 0 to 5 %",
+    "benchmark": "BSE 200 Equal Weight TRI (Total Return Index)",
+    "fund_managers": "Ms. Ekta Gala & Mr. Akshay Udeshi",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "153379"
+    ],
+    "isins": [
+      "INF769K01OA1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:05:11.770038+00:00"
+}

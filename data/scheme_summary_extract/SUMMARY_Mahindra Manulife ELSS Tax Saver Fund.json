@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "Mahindra Manulife ELSS Tax Saver Fund",
+  "source_file": "SUMMARY_Mahindra Manulife ELSS Tax Saver Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mahindra Manulife ELSS Tax Saver Fund",
+    "fund_type": "An open ended equity linked saving scheme with a statutory lock in of 3 years and tax benefit",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate long-term capital appreciation through a diversified portfolio of equity and equity related securities. The Scheme does not guarantee or assure any returns.",
+    "asset_allocation": "Equity and Equity related Securities*: 80% - 100%, Debt and Money Market Securities (including TREPS and Reverse Repo): 0% -20%, * Equity related Securities shall mean equities, cumulative convertible preference shares and fully convertible debentures and bonds of companies. Investment may also be made in partly convertible issues of debentures and bonds including those issued on rights basis subject to the condition that, as far as possible, the non-convertible portion of the debentures so acquired or subscribed, shall be disinvested within a period of 12 (twelve) months. Note: For detailed Asset Allocation please refer Scheme Information Document of the Scheme available on our website www.mahindramanulife.com",
+    "benchmark": "Nifty 500 TRI Index",
+    "fund_managers": [
+      {
+        "name": "Ms. Fatema Pacha",
+        "type": "Primary",
+        "from_date": "October 16, 2020"
+      },
+      {
+        "name": "Mr. Manish Lodha",
+        "type": "Comanage",
+        "from_date": "December 21, 2020"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.17",
+      "Direct": "0.61"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "139783",
+      "139780",
+      "139781",
+      "139782"
+    ],
+    "isins": [
+      "INF174V01077",
+      "INF174V01085",
+      "INF174V01093",
+      "INF174V01101"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T15:01:01.849512+00:00"
+}

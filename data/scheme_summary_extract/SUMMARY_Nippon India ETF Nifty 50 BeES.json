@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Nippon India ETF Nifty 50 BeES",
+  "source_file": "SUMMARY_Nippon India ETF Nifty 50 BeES.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India ETF Nifty 50 BeES",
+    "fund_type": "An Open Ended Index Exchange Traded Scheme",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of Nippon India ETF Nifty 50 BeES is to provide investment returns that, before expenses, closely correspond to the total returns of the Securities as represented by the Nifty 50 Index. There can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securites constituing Nifty 50 Index - 95% to 100%, Money Market Instruments- 0% to 5%. (with maturity not exceeding 91days), including Tri-party repo on G-sec or T-bills, cash & cash equivalents.",
+    "benchmark": "Nifty 50 TRI",
+    "fund_managers": "Himanshu Mange",
+    "annual_expense": {
+      "Direct": "0.0400"
+    },
+    "exit_load": "Not Applicable",
+    "amfi_codes": [
+      "140084"
+    ],
+    "isins": [
+      "INF204KB14I2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:25:01.896686+00:00"
+}

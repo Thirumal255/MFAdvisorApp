@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis Arbitrage Fund",
+  "source_file": "SUMMARY_Axis Arbitrage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Arbitrage Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Monthly IDCW",
+      "Direct Growth",
+      "Regular Monthly IDCW",
+      "Regular Growth"
+    ],
+    "isins": [
+      "INF846K01PZ1",
+      "INF846K01QA2",
+      "INF846K01QC8",
+      "INF846K01QD6",
+      "INF846K01QB0",
+      "INF846K01QE4"
+    ],
+    "amfi_codes": [
+      "130773",
+      "130774",
+      "130771",
+      "130776"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "To generate income through low volatility absolute return strategies that take advantage of opportunities in the cash and thederivative segments of the equity markets including the arbitrage opportunities available within the derivative segment, byusing other derivative based strategies and by investing the balance in debt and money market instruments. However, there isno assurance or guarantee that the investment objective of the Scheme will be achieved. The Scheme does not assure orguarantee any returns.",
+    "asset_allocation": "Equities, equity related instruments (unhedged) - (0%-10%), Equities, equity related instruments and derivatives includingindex futures, stock futures, index options, & stock options, etc. as part of hedged / arbitrage exposure - (65%-90%), Debt andMoney market instruments (including investments in securitized debt) - (10%-35%)",
+    "benchmark": "Nifty 50 Arbitrage Index",
+    "fund_managers": "Mr. Karthik Kumar, Mr. Devang Shah, Mr. Sachin Jain",
+    "annual_expense": {
+      "Regular": "1.01",
+      "Direct": "0.32"
+    },
+    "exit_load": "If redeemed/switched out within 15 days from the date of investment/allotment: 0.25%. If redeemed/switched out after 15days from the date of investment/allotment: Nil w.e.f. July 17, 2023"
+  },
+  "fund_options_inferred": [
+    "Direct Monthly IDCW",
+    "Direct Growth",
+    "Regular Monthly IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T12:26:35.527183+00:00"
+}

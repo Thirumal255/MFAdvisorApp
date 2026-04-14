@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis Focused Fund",
+  "source_file": "SUMMARY_Axis Focused Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Focused Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long term capital appreciation by investing in a concentrated portfolio of equity & equity related instruments of up to 30 companies. However, there can be no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity Related Instruments (of not exceeding 30 companies) - (65%-100%), Debt and Money Market Instruments -(0%-30%), Units issued by REITs & InvITs (0%-10%)",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Mr. Sachin Relekar, Ms. Krishnaa N",
+    "annual_expense": {
+      "Regular": "1.76",
+      "Direct": "0.85"
+    },
+    "exit_load": "If redeemed / switched-out within 12 months from the date of allotment,- For 10% of investments: Nil FIFO basis, Forremaining investments: 1% w.e.f., 25/09/2017",
+    "amfi_codes": [
+      "120468",
+      "120467",
+      "117560",
+      "117559"
+    ],
+    "isins": [
+      "INF846K01CQ8",
+      "INF846K01CO3",
+      "INF846K01CH7",
+      "INF846K01CI5",
+      "INF846K01CP0",
+      "INF846K01CJ3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T12:30:15.628526+00:00"
+}

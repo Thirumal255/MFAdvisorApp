@@ -1,0 +1,39 @@
+{
+  "parent_scheme_name": "Capitalmind Flexi Cap Fund",
+  "source_file": "SUMMARY_Capitalmind Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Capitalmind Flexi Cap Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "CAPITALMIND FLEXI CAP FUND DIRECT GROWTH",
+      "CAPITALMIND FLEXI CAP FUND REGULAR GROWTH"
+    ],
+    "isins": [
+      "INF226401018",
+      "INF226401026"
+    ],
+    "amfi_codes": [
+      "153738",
+      "153739"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long-term capital appreciation by investing predominantly in equity & equity related instruments across marketcapitalization i.e. large-cap, mid-cap and small-cap stocks. However, there is no assurance or guarantee that the investmentobjective of the Scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments of large cap, mid cap and small cap companies 65% to 100% Debt Securities & MoneyMarket instruments (including Cash & cash equivalents) 0% to 35% Unitsissued by REITs and INVITs 0% to 10% Units of MutualFund Scheme 0% to 5%",
+    "benchmark": "NIFTY 500 TRI",
+    "fund_managers": [
+      "Mr. Anoop Vijaykumar",
+      "Mr. Prateek Jain"
+    ],
+    "annual_expense": {
+      "Regular": "2.36",
+      "Direct": "0.96"
+    },
+    "exit_load": "For each purchase of Units through Lumpsum / switch-in / Systematic Investment Plan (SIP), Systematic Transfer Plan (STP),Exit load on redemption / Systematic Withdrawal Plan (SWP) / Switch-out, will be as follows: ? If Units redeemed or switchedwithin 12 months from the date of allotment – 1% of the applicable NAV ? If redeemed/switched out after 12 months from thedate of allotment – Nil ? If there is change in control of the AMC and/or change in the fundamental attributes of the Schemeand an investor wants to exit from the Scheme – Nil exit load."
+  },
+  "fund_options_inferred": [
+    "CAPITALMIND FLEXI CAP FUND DIRECT GROWTH",
+    "CAPITALMIND FLEXI CAP FUND REGULAR GROWTH"
+  ],
+  "extracted_at": "2026-04-13T13:04:37.999045+00:00"
+}

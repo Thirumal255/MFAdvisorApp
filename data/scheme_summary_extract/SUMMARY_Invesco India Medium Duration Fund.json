@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "Invesco India Medium Duration Fund",
+  "source_file": "SUMMARY_Invesco India Medium Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India Medium Duration Fund",
+    "fund_type": "An open ended medium term debt scheme investing in instruments such that the Macaulay duration^ of the portfolio is between3 years and 4 years. A relatively high interest rate risk and moderate credit risk",
+    "fund_options": [
+      "Direct Plan - Quarterly IDCW Payout",
+      "Direct Plan - Quarterly IDCW Reinvestment",
+      "Direct Plan - Discretionary IDCW Payout",
+      "Direct Plan - Discretionary IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Regular Plan - Discretionary IDCW Payout",
+      "Regular Plan - Discretionary IDCW Reinvestment",
+      "Regular Plan - Quarterly IDCW Payout",
+      "Regular Plan - Quarterly IDCW Reinvestment",
+      "Regular Plan - Growth"
+    ],
+    "isins": [
+      "INF205KA1403",
+      "INF205KA1437",
+      "INF205KA1411",
+      "INF205KA1445",
+      "INF205KA1429",
+      "INF205KA1361",
+      "INF205KA1395",
+      "INF205KA1353",
+      "INF205KA1387",
+      "INF205KA1379"
+    ],
+    "amfi_codes": [
+      "149014",
+      "149014",
+      "149013",
+      "149013",
+      "149011",
+      "149010",
+      "149010",
+      "149009",
+      "149009",
+      "149012"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate income by investing in a portfolio of Debt and Money Market Instruments such that the Macaulay duration of the portfolio is between 3 years and 4 years. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme would be as follows: Debt (including G-Secs) and Money Market Instruments*: Min.0% Max. 100% Units issues by REITs and InvITs Min.0% Max. 10% *The portfolio shall have Macaulay duration between 3 years to 4 years However, the Fund Manager, in the interest of investors, may reduce the portfolio duration of the Scheme upto 1 year in case he has views on the interest rate movements in the light of anticipated adverse situation. Under anticipated adverse circumstances, the asset allocation of the Scheme would be as follows: Debt (including G-Secs) and Money Market Instruments*: Min.0% Max. 100% Units issues by REITs and InvITs Min.0% Max. 10% *The portfolio shall have Macaulay duration between 1 years to 4 years",
+    "benchmark": "Nifty Medium Duration Debt Index A-III",
+    "fund_managers": "Vikas Garg - Primary, Krishna Cheemalapati - Comanage",
+    "annual_expense": {
+      "Regular": "1.35",
+      "Direct": "0.40"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Quarterly IDCW Payout",
+    "Direct Plan - Quarterly IDCW Reinvestment",
+    "Direct Plan - Discretionary IDCW Payout",
+    "Direct Plan - Discretionary IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Regular Plan - Discretionary IDCW Payout",
+    "Regular Plan - Discretionary IDCW Reinvestment",
+    "Regular Plan - Quarterly IDCW Payout",
+    "Regular Plan - Quarterly IDCW Reinvestment",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T14:27:22.736407+00:00"
+}

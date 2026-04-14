@@ -1,0 +1,41 @@
+{
+  "parent_scheme_name": "Samco Overnight Fund",
+  "source_file": "SUMMARY_Samco Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Samco Overnight Fund",
+    "fund_type": "An open-ended debt scheme investing in overnight securities. A relatively low interest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "Samco Overnight Fund - Regular Plan - Growth Option",
+      "Samco Overnight Fund - Direct Plan - Growth Option"
+    ],
+    "riskometer": "Low (The Scheme risk-o-meter is based on evalution of the portfolio data as on November 30,2025)",
+    "investment_objective": "The investment objective of the Scheme is to provide reasonable returns commensurate with very low risk and providing a high level of liquidity, through investments made primarily in overnight securities having maturity/ residual maturity of 1 day. However, there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Overnight Securities* - 0 to 100%\n*TREPS (or any similar instrument), Government Repo / Reverse Repo (in Government Securities), Treasury bills, Government securities (Issued by both Central and State governments) and any other like instruments as specified by the Reserve Bank of India from time to time and approved by SEBI from time to time with one day residual maturity.",
+    "benchmark": "CRISIL Liquid Overnight Index",
+    "fund_managers": [
+      "Mr. Umeshkumar Mehta",
+      "Mrs. Nirali Bhansali",
+      "Mr. Dhawal Ghanshyam Dhanani",
+      "Ms. Komal Grover"
+    ],
+    "annual_expense": {
+      "Regular": "0.33",
+      "Direct": "0.13"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "150632",
+      "150631"
+    ],
+    "isins": [
+      "INF0K1H01032",
+      "INF0K1H01040"
+    ]
+  },
+  "fund_options_inferred": [
+    "Samco Overnight Fund - Regular Plan - Growth Option",
+    "Samco Overnight Fund - Direct Plan - Growth Option"
+  ],
+  "extracted_at": "2026-04-13T15:49:59.728430+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Tata Small Cap Fund",
+  "source_file": "SUMMARY_Tata Small Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Small Cap Fund",
+    "fund_type": "An open-ended Equity Scheme predominantly investing in small cap stocks.",
+    "fund_options": [
+      "TATA Small Cap Fund - Regular Plan - IDCW",
+      "Tata Small Cap Fund - Direct Plan - IDCW",
+      "Tata Small Cap Fund - Regular Plan -Growth",
+      "Tata Small Cap Fund - Direct Plan - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation by predominantly investing in equity andequity related instruments of small cap companies. However, there is no assurance or guarantee that the investment objectiveof the Scheme will be achieved. The Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Equity and equity related instruments of small cap companies 65-100, Equity and equity related instruments of other thansmall cap companies 0-35, Debt and Money Market Instruments including units of debt & liquid schemes of Tata Mutual Fund0-35, Units of REITs and InvITs 0-10.",
+    "benchmark": "Nifty Smallcap 250 TRI",
+    "fund_managers": "FM-1 Chandraprakash Padiyar, FM-2 Jeetendra Khatri",
+    "annual_expense": {
+      "Regular": "1.68",
+      "Direct": "0.34"
+    },
+    "exit_load": "Redemption/Switch out/SWP/STP: 1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the dateof allotment: NIL.",
+    "amfi_codes": [
+      "145210",
+      "145209",
+      "145208",
+      "145206"
+    ],
+    "isins": [
+      "INF277K016O0",
+      "INF277K012O9",
+      "INF277K015O2",
+      "INF277K011O1"
+    ]
+  },
+  "fund_options_inferred": [
+    "TATA Small Cap Fund - Regular Plan - IDCW",
+    "Tata Small Cap Fund - Direct Plan - IDCW",
+    "Tata Small Cap Fund - Regular Plan -Growth",
+    "Tata Small Cap Fund - Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T16:18:08.181163+00:00"
+}

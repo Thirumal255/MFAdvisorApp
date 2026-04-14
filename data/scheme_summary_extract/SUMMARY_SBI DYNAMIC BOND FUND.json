@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "SBI Dynamic Bond Fund",
+  "source_file": "SUMMARY_SBI DYNAMIC BOND FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Dynamic Bond Fund",
+    "fund_type": "An open ended dynamic debt scheme investing across duration",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth"
+    ],
+    "riskometer": "MODERATE",
+    "investment_objective": "To provide investors attractive returns through investment in an actively managed portfolio of high quality debt securities of varying maturities.",
+    "asset_allocation": {
+      "Debt Instruments (including Central and State Government securities, debt derivatives)": "0%-100%",
+      "Money market instruments": "0%-100%",
+      "Units issued by REITs and InVITs^": "0%-10%"
+    },
+    "benchmark": "NIFTY Composite Debt Index",
+    "fund_managers": "Mr. Rajeev Radhakrishnan",
+    "annual_expense": {
+      "Regular": "1.23"
+    },
+    "exit_load": "For exit within 1 month from the date of allotment - For 10% of investment - Nil - For remaining investments - 0.25% For exit after 1 month from the date of allotment - Nil",
+    "amfi_codes": [
+      "102206",
+      "102205",
+      "119670",
+      "119671"
+    ],
+    "isins": [
+      "INF200K01974",
+      "INF200K01958",
+      "INF200K01RC6",
+      "INF200K01RD4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T15:53:51.204925+00:00"
+}

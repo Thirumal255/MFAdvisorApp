@@ -1,0 +1,41 @@
+{
+  "parent_scheme_name": "Samco Multi Cap Fund",
+  "source_file": "SUMMARY_Samco Multi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Samco Multi Cap Fund",
+    "fund_type": "An open-ended scheme investing across large cap, mid cap and small cap stocks.",
+    "fund_options": [
+      "Samco Multi Cap Fund - Direct Plan - Growth Option",
+      "Samco Multi Cap Fund - Regular Plan - Growth Option"
+    ],
+    "riskometer": "Very High (The Scheme risk-o-meter is based on evalution of the portfolio data as on November 30,2025)",
+    "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation by investing in a portfolio of equity and equity related securities of large cap, midcap and small cap companies. \nThere is no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments of Large Cap Stocks - 25% to 50%\nEquity & Equity related instruments of Mid Cap Stocks - 25% to 50%\nEquity & Equity related instruments of Small Cap Stocks - 25% to 50%\nForeign Securities - 0% to 25%\nDebt & Money Market Instruments - 0% to 25%",
+    "benchmark": "Nifty 500 Multicap 50:25:25 Total Returns Index",
+    "fund_managers": [
+      "Mr. Umeshkumar Mehta",
+      "Mrs. Nirali Bhansali",
+      "Mr. Dhawal Dhanani",
+      "Ms. Komal Grover"
+    ],
+    "annual_expense": {
+      "Regular": "2.40",
+      "Direct": "0.78"
+    },
+    "exit_load": "• 10% of units can be redeemed without an exit load within 12 months of allotment.\n• . Any redemption in excess of such limit in the first 12 months will incur 1% exit load.\n• . No exit load, if redeemed or switched out after 12 months from the date of allotment of unit.",
+    "amfi_codes": [
+      "152847",
+      "152848"
+    ],
+    "isins": [
+      "INF0K1H01198",
+      "INF0K1H01206"
+    ]
+  },
+  "fund_options_inferred": [
+    "Samco Multi Cap Fund - Direct Plan - Growth Option",
+    "Samco Multi Cap Fund - Regular Plan - Growth Option"
+  ],
+  "extracted_at": "2026-04-13T15:49:51.983582+00:00"
+}

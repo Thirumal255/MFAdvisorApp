@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Canara Robeco Equity Hybrid Fund",
+  "source_file": "SUMMARY_Canara Robeco Equity Hybrid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Canara Robeco Equity Hybrid Fund",
+    "fund_type": "An open-ended hybrid scheme investing predominantly in equity and equity related instruments",
+    "fund_options": [
+      "Direct Plan - Monthly IDCW Payout",
+      "Direct Plan - Monthly IDCW Reinvestment",
+      "Direct -Growth",
+      "Regular Plan - Monthly IDCW Payout",
+      "Regular Plan - Monthly IDCW Reinvestment",
+      "Regular -Growth"
+    ],
+    "isins": [
+      "INF760K01EX3",
+      "INF760K01EY1",
+      "INF760K01EZ8",
+      "INF760K01068",
+      "INF760K01076",
+      "INF760K01050"
+    ],
+    "amfi_codes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To seek to generate long term capital appreciation and/or income from a portfolio constituted of equity and equity related securities as well as ﬁxed income securities (debt and money market securities). However, there can be no assurance that the investment objective of the scheme will be realized",
+    "asset_allocation": "Equity and equity related instruments 65 to 80%. Debt and money market instruments 20% to 35%. InvITs – 0-10%",
+    "benchmark": "CRISIL Hybrid 35+65 - Aggressive Index",
+    "fund_managers": "Ms. Ennette Fernandes / Mr. Shridatta Bhandwaldar / Mr. Avnish Jain / Ms. Suman Prasad",
+    "annual_expense": {
+      "Regular": "1.73",
+      "Direct": "0.60"
+    },
+    "exit_load": "For any redemption / switch out upto 10% of units within 1 Year from the date of allotment – Nil. For any redemption / switch out more than 10% of units within 1 Year from the date of allotment - 1%. For any redemption / switch out after 1 Year from the date of allotment - Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Monthly IDCW Payout",
+    "Direct Plan - Monthly IDCW Reinvestment",
+    "Direct -Growth",
+    "Regular Plan - Monthly IDCW Payout",
+    "Regular Plan - Monthly IDCW Reinvestment",
+    "Regular -Growth"
+  ],
+  "extracted_at": "2026-04-13T13:00:53.573721+00:00"
+}

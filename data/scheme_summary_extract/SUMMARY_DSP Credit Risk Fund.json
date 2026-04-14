@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "DSP Credit Risk Fund",
+  "source_file": "SUMMARY_DSP Credit Risk Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP Credit Risk Fund",
+    "fund_type": "An open ended debt scheme predominantly investing in AA and below rated corporate bonds (excluding AA+ rated corporate bonds). A relatively high interest rate risk and relatively high credit risk.",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - IDCW - Reinvest",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW - Reinvest"
+    ],
+    "isins": [
+      "INF740K01OS4",
+      "INF740K01OT2",
+      "INF740K01OU0",
+      "INF740K01599",
+      "INF740K01581",
+      "INF740K01AB9"
+    ],
+    "amfi_codes": [
+      "119082",
+      "119083",
+      "119083",
+      "101837",
+      "101839",
+      "101839"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The primary investment objective of the Scheme is to seek to generate returns commensurate with risk from a portfolio constituted of money market securities and/or debt securities. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "1. Investment in corporate bonds which are AA and below rated instruments: 65% - 100% 2. Investment in other debt and money market instruments: 0% - 35% 3. Units issued by InviTS: 0% - 10%",
+    "benchmark": "CRISIL Credit Risk Debt B-II Index",
+    "fund_managers": "Mr. Vivek Ramakrishnan - Primary, Mr. Shalini Vasanta - Comanage, Mr. Kunal Khudania - Comanage",
+    "annual_expense": {
+      "Regular": "1.22",
+      "Direct": "0.40"
+    },
+    "exit_load": "NIL - If the units redeemed or switched-out are upto 10% of the units purchased or switched-in within 12 months from the date of allotment, NIL - If units are redeemed or switched out on or after 12 months from the date of allotment, 1% - If units redeemed or switched-out are in excess of 10% of the units purchased or switched-in within 12 months from the date of allotment Note: No exit load shall be levied in case of switch of investments from Direct Plan to Regular Plan and vice versa."
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - IDCW - Reinvest",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW - Reinvest"
+  ],
+  "extracted_at": "2026-04-13T13:07:31.858392+00:00"
+}

@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "PGIM India Aggressive Hybrid Equity Fund",
+  "source_file": "SUMMARY_PGIM India Aggressive Hybrid Equity Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "PGIM India Aggressive Hybrid Equity Fund",
+    "fund_type": "An open ended hybrid scheme investing predominantly in equity and equity related instruments",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to seek to generate long term capital appreciation and income from a portfolio ofequity and equity related securities as well as ﬁxed income securities. However, there can be no assurance that theinvestment objective of the Scheme will be achieved. The Scheme does not guarantee/ indicate any returns.",
+    "asset_allocation": "Equity and equity related instruments - Min 65% and Max 80% Debt Securities and Money Market Instruments - Min 20%and Max 35% Units issued by InVITs - Min 0% and Max 10%",
+    "benchmark": "CRISIL Hybrid 35+65 - Aggresive Index",
+    "fund_managers": "Mr. Vivek Sharma, Mr. Anandha Padmanabhan, Mr. Vinay Paharia, Mr. Puneet Pal",
+    "annual_expense": {
+      "Regular": "2.34",
+      "Direct": "0.79"
+    },
+    "exit_load": "For Exits within 90 days from date of allotment of units: 0.50%; For Exits beyond 90 days from date of allotment of units: NIL.",
+    "amfi_codes": [
+      "138381",
+      "138382",
+      "138385",
+      "138386",
+      "138387",
+      "142419",
+      "142420",
+      "142421",
+      "142422"
+    ],
+    "isins": [
+      "INF663L01GX2",
+      "INF663L01GY0",
+      "INF663L01GZ7",
+      "INF663L01OA4",
+      "INF663L01OB2",
+      "INF663L01HB6",
+      "INF663L01HA8",
+      "INF663L01HC4",
+      "INF663L01NY6",
+      "INF663L01NZ3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T15:37:39.984900+00:00"
+}

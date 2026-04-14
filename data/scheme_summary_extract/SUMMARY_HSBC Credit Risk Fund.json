@@ -1,0 +1,64 @@
+{
+  "parent_scheme_name": "HSBC Credit Risk Fund",
+  "source_file": "SUMMARY_HSBC Credit Risk Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Credit Risk Fund",
+    "fund_type": "An open-ended debt scheme predominantly investing in AA and below rated corporate bonds (excluding AA+ rated corporate bonds). A relatively high interest rate risk and relatively high credit risk",
+    "fund_options": [
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - Annual IDCW Payout",
+      "Direct Plan - Annual IDCW Reinvestment",
+      "Regular Plan - Annual IDCW Payout",
+      "Regular Plan - Annual IDCW Reinvestment",
+      "Regular Plan - Growth",
+      "Direct Plan - Growth",
+      "Regular Plan - Bonus",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF917K01E29",
+      "INF917K01UH8",
+      "INF917K01UI6",
+      "INF917K01UN6",
+      "INF917K01130",
+      "INF917K01114",
+      "INF917K01CU9"
+    ],
+    "amfi_codes": [
+      "151047",
+      "151045",
+      "151044",
+      "151046",
+      "151043",
+      "151042",
+      "151041"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "To generate regular returns and capital appreciation by investing predominantly in AA and below rated corporate bonds, debt, government securities and money market instruments. There is no assurance that the objective of the Scheme will be realised and the Scheme does not assure or guarantee any returns",
+    "asset_allocation": "Debt Instruments and Money market instruments only in AA and below rated corporate bonds (excludes AA+ rated corporate bonds): 65% -100% Debt and Money market instruments other than above: 0%-35% Units issued by REITs and InvITs : 0%-10%",
+    "benchmark": "NIFTY Credit Risk Bond Index B-II",
+    "fund_managers": "Shriram Ramanathan",
+    "annual_expense": {
+      "Regular": "1.64",
+      "Direct": "0.96"
+    },
+    "exit_load": "Units redeemed or switched out are upto 10% of the units purchased or switched in (“the limit”) within 1 year from the date of allotment – Nil. Units redeemed or switched out are over and above the limit within 1 year from the date of allotment – 1%. Units redeemed or switched on or after 1 year from the date of allotment – Nil."
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - Annual IDCW Payout",
+    "Direct Plan - Annual IDCW Reinvestment",
+    "Regular Plan - Annual IDCW Payout",
+    "Regular Plan - Annual IDCW Reinvestment",
+    "Regular Plan - Growth",
+    "Direct Plan - Growth",
+    "Regular Plan - Bonus",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T14:00:00.202539+00:00"
+}

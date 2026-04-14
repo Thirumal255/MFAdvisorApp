@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "Baroda BNP Paribas Banking and PSU Bond Fund",
+  "source_file": "SUMMARY_Baroda BNP Paribas Banking and PSU Bond Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Baroda BNP Paribas Banking and PSU Bond Fund",
+    "fund_type": "An open ended debt scheme predominantly investing in debt instruments of banks, Public Sector Undertakings, PublicFinancial Institutions and Municipal Bonds. A relatively High Interest Rate Risk and Moderate Credit Risk scheme.",
+    "fund_options": [
+      "REGULAR PLAN - QUARTERLY IDCW PAYOUT",
+      "REGULAR PLAN - QUARTERLY IDCW REINVESTMENT",
+      "REGULAR PLAN - MONTHLY IDCW REINVESTMENT",
+      "REGULAR PLAN - MONTHLY IDCW PAYOUT",
+      "REGULAR PLAN - GROWTH",
+      "DIRECT PLAN - QUARTERLY IDCW REINVESTMENT",
+      "DIRECT PLAN - QUARTERLY IDCW PAYOUT",
+      "DIRECT PLAN - GROWTH",
+      "DIRECT PLAN - MONTHLY IDCW PAYOUT",
+      "DIRECT PLAN - MONTHLY IDCW REINVESTMENT"
+    ],
+    "isins": [
+      "INF955L01JY4",
+      "INF955L01JZ1",
+      "INF955L01KB0",
+      "INF955L01KA2",
+      "INF955L01JX6",
+      "INF955L01KE4",
+      "INF955L01KD6",
+      "INF955L01KC8",
+      "INF955L01KF1",
+      "INF955L01KG9"
+    ],
+    "amfi_codes": [
+      "148627",
+      "148627",
+      "148626",
+      "148626",
+      "148625",
+      "148630",
+      "148630",
+      "148628",
+      "148629",
+      "148629"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The scheme seeks to provide regular income through a portfolio of debt and money market instruments consistingpredominantly of securities issued by entities such as Banks, Public Sector Undertakings (PSUs), Public Financial Institutions andMunicipal Bonds However, there can be no assurance that the investment objectives of the Scheme will be realized. TheScheme does not guarantee/indicate any returns.",
+    "asset_allocation": "Debt and Money Market Instruments issued by Banks, Public Sector Undertakings (PSUs), Public Financial Institutions (PFIs) andMunicipal Bonds: 80% - 100%, Debt (including governmental securities) and Money Market Instruments issued by entitiesother than Banks, PFIs and PSUs: 0% - 20%, REITs and INVITs: 0 - 10%",
+    "benchmark": "CRISIL Banking and PSU Debt A-II Index",
+    "fund_managers": "Mr. Gurvinder Singh Wasan (Primary Fund Manager), Mr. Vikram Pamnani (Primary Fund Manager)",
+    "annual_expense": {
+      "Regular": "0.80",
+      "Direct": "0.39"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN - QUARTERLY IDCW PAYOUT",
+    "REGULAR PLAN - QUARTERLY IDCW REINVESTMENT",
+    "REGULAR PLAN - MONTHLY IDCW REINVESTMENT",
+    "REGULAR PLAN - MONTHLY IDCW PAYOUT",
+    "REGULAR PLAN - GROWTH",
+    "DIRECT PLAN - QUARTERLY IDCW REINVESTMENT",
+    "DIRECT PLAN - QUARTERLY IDCW PAYOUT",
+    "DIRECT PLAN - GROWTH",
+    "DIRECT PLAN - MONTHLY IDCW PAYOUT",
+    "DIRECT PLAN - MONTHLY IDCW REINVESTMENT"
+  ],
+  "extracted_at": "2026-04-13T12:50:44.029019+00:00"
+}

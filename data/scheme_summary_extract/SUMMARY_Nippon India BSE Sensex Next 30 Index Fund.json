@@ -1,0 +1,51 @@
+{
+  "parent_scheme_name": "NIPPON INDIA BSE SENSEX NEXT 30 INDEX FUND",
+  "source_file": "SUMMARY_Nippon India BSE Sensex Next 30 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "NIPPON INDIA BSE SENSEX NEXT 30 INDEX FUND",
+    "fund_type": "An open-ended scheme replicating/tracking BSE Sensex Next 30 Index",
+    "fund_options": [
+      "Direct Plan IDCW Plan Payout",
+      "Direct Plan IDCW Plan Reinvestment",
+      "Direct Growth Plan Growth Option Growth",
+      "IDCW PlanPayout",
+      "IDCW Plan Reinvestment",
+      "Growth Plan Growth Option Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns that commensurate to the total returns of the securities as represented by the BSE Sensex Next 30 Index before expenses, subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities constituting BSE Sensex Next 30 Index - 95%- 100%, Cash & cash equivalents and Money Market instruments and/or Schemes which invest in the money market securities or Liquid Schemes",
+    "benchmark": "BSE Sensex Next 30 TRI",
+    "fund_managers": "Himanshu Mange",
+    "annual_expense": {
+      "Regular": "0.52",
+      "Direct": "0.20"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "015831",
+      "202512",
+      "202513",
+      "202514",
+      "202521"
+    ],
+    "isins": [
+      "INF204KC1FD7",
+      "INF204KC1FA3",
+      "INF204KC1FE5",
+      "INF204KC1FF2",
+      "INF204KC1FB1",
+      "INF204KC1FC9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan IDCW Plan Payout",
+    "Direct Plan IDCW Plan Reinvestment",
+    "Direct Growth Plan Growth Option Growth",
+    "IDCW PlanPayout",
+    "IDCW Plan Reinvestment",
+    "Growth Plan Growth Option Growth"
+  ],
+  "extracted_at": "2026-04-13T15:22:29.761253+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Helios Overnight Fund",
+  "source_file": "SUMMARY_Helios Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Helios Overnight Fund",
+    "fund_type": "An open-ended debt scheme investing in overnight securities. Relatively low interest rate risk and low credit risk.",
+    "fund_options": [
+      "Direct Plan - Growth Option",
+      "Direct Plan - Daily IDCW Option(Reinvestment)",
+      "Regular Plan - Growth Option",
+      "Regular Plan - Daily IDCW Option (Reinvestment)"
+    ],
+    "isins": [
+      "INF0R8701079",
+      "INF0R8701087",
+      "INF0R8701095",
+      "INF0R8701103"
+    ],
+    "amfi_codes": [
+      "152152",
+      "152151",
+      "152153",
+      "152154"
+    ],
+    "riskometer": "Low Risk",
+    "investment_objective": "The primary objective of the Scheme is to seek to generate returns commensurate with low risk and providing high level ofliquidity, through investments made in debt and money market securities having maturity of 1 business day including TREPS(Tri-Party Repo) and Reverse Repo. However, there is no assurance or guarantee that the investment objective of the Schemewill be achieved.",
+    "asset_allocation": "Debt, Money Market instruments, Cash and Cash equivalents (including Repo) with overnight maturity / maturing on or beforenext business day - 95-100% G-secs and/or T-bills with a residual maturity of upto 30 days - 0-5%",
+    "benchmark": "CRISIL Liquid Overnight Index",
+    "fund_managers": "FM1 - Mr. Alok Bahl; FM2 - Mr. Utssav Modi",
+    "annual_expense": {
+      "Regular": "0.19",
+      "Direct": "0.14"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth Option",
+    "Direct Plan - Daily IDCW Option(Reinvestment)",
+    "Regular Plan - Growth Option",
+    "Regular Plan - Daily IDCW Option (Reinvestment)"
+  ],
+  "extracted_at": "2026-04-13T13:56:37.236782+00:00"
+}

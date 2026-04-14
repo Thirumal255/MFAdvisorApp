@@ -1,0 +1,69 @@
+{
+  "parent_scheme_name": "Edelweiss Multi Asset Omni Fund of Fund",
+  "source_file": "SUMMARY_Edelweiss Multi Asset Omni Fund of Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss Multi Asset Omni Fund of Fund",
+    "fund_type": "Hybrid Fund of Funds (FoF)- Active and Passive Multi Asset Allocation FoF",
+    "fund_options": [
+      "Direct Plan Growth Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - IDCW Transfer",
+      "Regular Plan Growth Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Plan - IDCW Transfer"
+    ],
+    "isins": [
+      "INF754K01VN1",
+      "INF754K01VO9",
+      "INF754K01VP6",
+      "INF754K01VQ4",
+      "INF754K01VR2",
+      "INF754K01VS0",
+      "INF754K01VT8",
+      "INF754K01VU6"
+    ],
+    "amfi_codes": [
+      "153776",
+      "153777",
+      "153777",
+      "153777",
+      "153779",
+      "153778",
+      "153778",
+      "153778"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The primary objective of the Scheme is to generate capital appreciation and income through a diversified portfolio of equity, debt, and Gold & Silver ETFs. There is no assurance or guarantee that the investment objective of the Scheme will be achieved. An open-ended fund of funds scheme investing in equity-oriented schemes, debt-oriented schemes and Gold & Silver ETFs.",
+    "asset_allocation": "A. Units of domestic equity-oriented schemes, debt or oriented schemes and Gold & Silver ETFs - 95 - 100% A(i) Active & Passive Equity oriented schemes - 65 - 80% A(ii) Active & Passive Debt oriented schemes - 10 - 25% A(iii) Gold & Silver ETFs - 10 - 25% B. Money Market Instruments, cash and cash equivalent and/or units of Liquid scheme - 0 - 5%",
+    "benchmark": "65% Nifty500 TRI + 15% Crisil Composite Bond Fund Index + 10% Domestic Gold",
+    "fund_managers": [
+      {
+        "name": "Mr. Bhavesh Jain",
+        "type": "Comanage"
+      },
+      {
+        "name": "Mr. Bharat Lahoti",
+        "type": "Comanage"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1.36",
+      "Direct": "1.41"
+    },
+    "exit_load": "If the units are redeemed/switched out on or before 90 days from the date of allotment – 1% of the applicable NAV. If the units are redeemed/switched out after 90 days from the date of allotment – Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - IDCW Transfer",
+    "Regular Plan Growth Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Plan - IDCW Transfer"
+  ],
+  "extracted_at": "2026-04-13T13:24:26.790648+00:00"
+}

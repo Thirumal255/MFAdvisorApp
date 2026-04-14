@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "SBI Gold Fund",
+  "source_file": "SUMMARY_SBI GOLD FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Gold Fund",
+    "fund_type": "An open ended Fund of Fund Scheme investing in SBI-ETF Gold",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth"
+    ],
+    "riskometer": "VERY HIGH",
+    "investment_objective": "The scheme seeks to provide returns thatclosely correspond to returns provided bySBI Gold Exchange Traded Scheme (SBIGETS).",
+    "asset_allocation": {
+      "Units of SBI-ETF Gold": "95%-100%",
+      "Reverse repo and /or Triparty Repo and/or short-term fixed deposits and/or Schemes which invest predominantly in the money market securities or Liquid Schemes*": "0%-5%"
+    },
+    "benchmark": "Price of Gold",
+    "fund_managers": "Mr. Raj Gandhi",
+    "annual_expense": {
+      "Regular": "0.38",
+      "Direct": "0.2"
+    },
+    "exit_load": "For exit on or before 15 days from the date of allotment - 1%; For exit after 15 days from the date of allotment - Nil.",
+    "amfi_codes": [
+      "115677",
+      "115676",
+      "119789",
+      "119788"
+    ],
+    "isins": [
+      "INF200K01HC7",
+      "INF200K01HA1",
+      "INF200K01RO1",
+      "INF200K01RP8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T15:55:04.314547+00:00"
+}

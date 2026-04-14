@@ -1,0 +1,72 @@
+{
+  "parent_scheme_name": "Bank of India Ultra Short Duration Fund",
+  "source_file": "SUMMARY_BANK OF INDIA ULTRA SHORT DURATION FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bank of India Ultra Short Duration Fund",
+    "fund_type": "An open ended ultra-short term debt scheme investing in instruments with Macaulay duration of the portfolio between 3months and 6 months. A Relatively Low Interest Rate Risk and Moderate Credit Risk.",
+    "fund_options": [
+      "Direct Plan - Bonus",
+      "Direct Plan - Daily IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Direct Plan - Weekly IDCW Reinvestment",
+      "Institutional Plan - Growth",
+      "Institutional Plan - Monthly IDCW Reinvestment",
+      "Institutional Plan - Monthly IDCW Payout",
+      "Regular Plan - Bonus",
+      "Regular Plan - Daily IDCW Reinvestment",
+      "Regular Plan - Growth",
+      "Regular Plan - Weekly IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF761K01CS5",
+      "INF761K01CT3",
+      "INF761K01892",
+      "INF761K01CU1",
+      "INF761K01264",
+      "INF761K01272",
+      "INF761K01280",
+      "INF761K01CV9",
+      "INF761K01CW7",
+      "INF761K01298",
+      "INF761K01CX5"
+    ],
+    "amfi_codes": [
+      "TFID-109268",
+      "TFIG-109265",
+      "TFIM-109267",
+      "TFIW-109266",
+      "TFRG-109269",
+      "TFRW-109264",
+      "TFRD-111970",
+      "TFDG-119379",
+      "TFDW-119381",
+      "TFDD-119380",
+      "TFDB-126389"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The Scheme seeks to deliver reasonable market related returns with lower risk and higher liquidity through portfolio of debt and money market instruments. The Scheme is not providing any assured or guaranteed returns. Further there is no assurance that the investment objectives of the Scheme will be realized.",
+    "asset_allocation": "Investment in Debt & Money Market instruments such that the Macaulay duration of the portfolio is between 3 months and 6 months-0 to 100%-Low- Medium",
+    "benchmark": "CRISIL Ultra Short Duration Debt A-I Index",
+    "fund_managers": "Mr.Mithraem Bharucha",
+    "annual_expense": {
+      "Regular": "0.90",
+      "Direct": "0.39"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Bonus",
+    "Direct Plan - Daily IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Direct Plan - Weekly IDCW Reinvestment",
+    "Institutional Plan - Growth",
+    "Institutional Plan - Monthly IDCW Reinvestment",
+    "Institutional Plan - Monthly IDCW Payout",
+    "Regular Plan - Bonus",
+    "Regular Plan - Daily IDCW Reinvestment",
+    "Regular Plan - Growth",
+    "Regular Plan - Weekly IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T12:49:54.036308+00:00"
+}

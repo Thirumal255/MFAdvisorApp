@@ -1,0 +1,63 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE FLOATING RATE FUND",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Floating Rate Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE FLOATING RATE FUND",
+    "fund_type": "An open ended debt scheme predominantly investing in floating rate instruments \n(including fixed rate instruments converted to floating rate exposures using \nswaps / derivatives). A relatively high interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Regular - DAILY IDCW",
+      "Regular Plan-Growth",
+      "Direct - daily IDCW",
+      "Direct Plan-Growth",
+      "REGULAR - WEEKLY IDCW",
+      "Direct - weekly IDCW",
+      "RETAIL - WEEKLY IDCW",
+      "Retail Plan-Growth"
+    ],
+    "isins": [
+      "INF209KA1LN1",
+      "INF209K01MG9",
+      "INF209K01UW9",
+      "INF209K01UX7",
+      "INF209K01MH7",
+      "INF209K01UY5",
+      "INF209K01MI5",
+      "INF209K01MF1"
+    ],
+    "amfi_codes": [
+      "122643",
+      "122644",
+      "122645",
+      "122646",
+      "122647",
+      "122648",
+      "122649",
+      "122650"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The primary objective of the scheme is to generate regular income through \ninvestment in a portfolio comprising substantially of floating rate debt / money \nmarket instruments. The scheme may invest a portion of its net assets in fixed \nrate debt securities and money market instruments.",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme will be as \nfollows:\nFloating Rate Debt Securities (including securitized debt and Fixed rate debt \ninstruments swapped for floating rate returns) - 65-100% - Low to Medium\nFixed Rate Debt Securities (including securitized debt, money market \ninstruments) - 0-35% - Low to Medium",
+    "benchmark": "NIFTY Low Duration Debt Index A-I",
+    "fund_managers": [
+      "Mr. Kaustubh Gupta",
+      "Mr. Harshil Suvarnkar"
+    ],
+    "annual_expense": {
+      "Regular": "0.46",
+      "Direct": "0.23"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular - DAILY IDCW",
+    "Regular Plan-Growth",
+    "Direct - daily IDCW",
+    "Direct Plan-Growth",
+    "REGULAR - WEEKLY IDCW",
+    "Direct - weekly IDCW",
+    "RETAIL - WEEKLY IDCW",
+    "Retail Plan-Growth"
+  ],
+  "extracted_at": "2026-04-13T12:16:56.844404+00:00"
+}

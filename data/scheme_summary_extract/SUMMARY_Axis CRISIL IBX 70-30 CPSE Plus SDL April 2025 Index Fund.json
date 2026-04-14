@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis CRISIL IBX 70:30 CPSE Plus SDL April 2025 Index Fund",
+  "source_file": "SUMMARY_Axis CRISIL IBX 70-30 CPSE Plus SDL April 2025 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis CRISIL IBX 70:30 CPSE Plus SDL April 2025 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns closely corresponding to the total returns of the securities as represented by the CRISIL IBX 70:30 CPSE Plus SDL April 2025 before expenses, subject to tracking errors.",
+    "asset_allocation": "Debt Instruments comprising CRISIL IBX 70:30 CPSE Plus SDL – April 2025 - (95%-100%), Money Market Instruments -(0%-5%)",
+    "benchmark": "CRISIL IBX 70:30 CPSE Plus SDL - April 2025",
+    "fund_managers": "Mr. Devang Shah, Mr. Sachin Jain",
+    "annual_expense": {
+      "Regular": "0.27",
+      "Direct": "0.14"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "149753",
+      "149754",
+      "149755",
+      "149756"
+    ],
+    "isins": [
+      "INF846K015F2",
+      "INF846K016F0",
+      "INF846K018F6",
+      "INF846K019F4",
+      "INF846K017F8",
+      "INF846K010G1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T12:28:28.711048+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bajaj Finserv Large and Mid Cap Fund",
+  "source_file": "SUMMARY_Bajaj Finserv Large and Mid Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bajaj Finserv Large and Mid Cap Fund",
+    "fund_type": "An open ended equity scheme investing in both large cap and mid cap stocks",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - IDCW Payout",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Plan - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long-term capital appreciation by investing in a diversified portfolio of equity and equity related securities, predominantly in large and mid-cap stocks from various sectors. The fund manager may also seek participation in other equity and equity related securities. However, there is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and equity related instruments of large cap companies - 65% -35%, Equity and equity related instruments of mid cap companies -65% -35% Equity and equity related instruments other than large and mid cap companies - 30% - 0% Debt instruments and money market instruments* and units of mutual fund schemes - 30%-0% Units issued by REITs and InvITs - 10%- 0%",
+    "benchmark": "Nifty Large Midcap 250 TRI",
+    "fund_managers": "FM 1 - Mr. Nimesh Chandan (Equity Portion) , FM 2 - Mr. Sorbh Gupta (Equity Portion) , FM-3- Mr. Siddharth Chaudhary (Debt Portion)",
+    "annual_expense": {
+      "Regular": "1.98",
+      "Direct": "0.59"
+    },
+    "exit_load": "Entry load – not applicable Exit load – For each purchase of units through Lumpsum / switch-in / Systematic Investment Plan(SIP) and Systematic Transfer Plan (STP), exit load will be as follows: ? if units are redeemed / switched out within 6 months from the date of allotment: • if upto 10% of units allotted are redeemed/switched out – Nil • any redemption / switch-out of units in excess of 10% of units allotted - 1% of applicable NAV. ? if units are redeemed/switched out after 6 months from the date of allotment, no exit load is payable. The Scheme will not levy exit load in case the timelines for rebalancing portfolio as stated in SEBI Master Circular for Mutual Funds dated May 19, 2023 is not complied with.",
+    "amfi_codes": [
+      "152408",
+      "152405",
+      "152405",
+      "152406",
+      "152407",
+      "152407"
+    ],
+    "isins": [
+      "INF0QA701763",
+      "INF0QA701789",
+      "INF0QA701771",
+      "INF0QA701730",
+      "INF0QA701755",
+      "INF0QA701748"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - IDCW Payout",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Plan - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T12:37:02.555457+00:00"
+}

@@ -1,0 +1,59 @@
+{
+  "parent_scheme_name": "PGIM India Ultra Short Duration Fund",
+  "source_file": "SUMMARY_PGIM India Ultra Short Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "PGIM India Ultra Short Duration Fund",
+    "fund_type": "An open ended ultra-short term debt scheme investing in instruments such that the Macaulay duration of the portfolio isbetween 3 months to 6 months. A relatively low interest rate risk and moderate credit risk scheme.",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "To provide liquidity and seek to generate returns by investing in a mix of short term debt and money market instruments.However, there can be no assurance that the investment objective of the Scheme will be achieved. The Scheme does notguarantee/indicate any returns.",
+    "asset_allocation": "Debt and Money Market Instruments including Government securities- Min 0% and Max 100%",
+    "benchmark": "CRISIL Ultra Short Duration Debt A-I Index",
+    "fund_managers": "Mr. Puneet Pal and Mr. Bhupesh Kalyani",
+    "annual_expense": {
+      "Regular": "1.10",
+      "Direct": "0.45"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "138337",
+      "138339",
+      "138341",
+      "138342",
+      "138343",
+      "138344",
+      "138358",
+      "138359",
+      "138360",
+      "138361",
+      "138362"
+    ],
+    "isins": [
+      "INF223J01QO7",
+      "INF223J01QL3",
+      "INF223J01QR0",
+      "INF223J01QS8",
+      "INF223J01QP4",
+      "INF223J01QQ2",
+      "INF223J01FH4",
+      "INF223J01FK8",
+      "INF223J01FM4",
+      "INF223J01FL6",
+      "INF223J01FP7",
+      "INF223J01FO0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T15:40:53.411497+00:00"
+}

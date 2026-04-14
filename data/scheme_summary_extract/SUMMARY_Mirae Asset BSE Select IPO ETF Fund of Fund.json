@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Mirae Asset BSE Select IPO ETF Fund of Fund",
+  "source_file": "SUMMARY_Mirae Asset BSE Select IPO ETF Fund of Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset BSE Select IPO ETF Fund of Fund",
+    "fund_type": "An open-ended fund of fund scheme investing in units of Mirae Asset BSE Select IPO ETF",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation from a portfolio investing in units of Mirae Asset BSE Select IPO ETF. The Scheme does not guarantee or assure any returns There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Units of Mirae Asset BSE Select IPO ETF 95% to 100% Money market instruments / debt securities, Instruments and/or units of debt/liquid schemes of domestic Mutual Funds 0 to 5%",
+    "benchmark": "BSE Select IPO TRI",
+    "fund_managers": "Ms. Ekta Gala (Primary) & Mr. Akshay Udeshi (Co - Fund Manager)",
+    "annual_expense": {
+      "Direct": "0.18"
+    },
+    "exit_load": "If redeemed within 15 Days from the date of allotment: 0.05%. If redeemed after 15 Days from the date of allotment: NIL.",
+    "amfi_codes": [
+      "008131",
+      "153385",
+      "153386",
+      "153387",
+      "202512",
+      "202513",
+      "202514",
+      "202515",
+      "500041"
+    ],
+    "isins": [
+      "INF769K01OK0",
+      "INF769K01OM6",
+      "INF769K01OL8",
+      "INF769K01OH6",
+      "INF769K01OJ2",
+      "INF769K01OI4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:05:24.515062+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Helios Mid Cap Fund",
+  "source_file": "SUMMARY_Helios Mid Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Helios Mid Cap Fund",
+    "fund_type": "An open-ended equity scheme investing in Mid Cap stocks",
+    "fund_options": [
+      "Direct Plan - Growth Option",
+      "Direct Plan - IDCW Option (Payout)",
+      "Direct Plan - IDCW Option (Reinvestment)",
+      "Regular Plan - Growth Option",
+      "Regular Plan - IDCW Option (Payout)",
+      "Regular Plan - IDCW Option (Reinvestment)"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to generate long-term capital appreciation from a portfolio that is invested predominantly in equity and equity related securities of mid-cap companies. However, there is no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments of mid cap companies - 65-100% Equity & Equity related instruments of other than mid cap companies - 0-35% Debt Securities & Money Market instruments (including Cash & cash equivalents, TREPS) - 0-35%",
+    "benchmark": "Nifty Midcap 150 Total Return Index (TRI)",
+    "fund_managers": "FM1 - Mr. Alok Bahl; FM2 - Mr. Pratik Singh",
+    "annual_expense": {
+      "Regular": "2.14",
+      "Direct": "0.56"
+    },
+    "exit_load": "(i) If units redeemed or switched out are upto 10% (limit) of the units purchased or switched in within 3 months from the date of allotment – Nil (ii) If units redeemed or switched out are over and above the limit within 3 months from the date of allotment – 1% of the applicable NAV (iii) If redeemed/switched out after 3 months from the date of allotment – Nil",
+    "amfi_codes": [
+      "155326",
+      "155324",
+      null,
+      "155327",
+      "155325",
+      null
+    ],
+    "isins": [
+      "INF0R8701327",
+      "INF0R8701335",
+      "INF0R8701343",
+      "INF0R8701293",
+      "INF0R8701301",
+      "INF0R8701319"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth Option",
+    "Direct Plan - IDCW Option (Payout)",
+    "Direct Plan - IDCW Option (Reinvestment)",
+    "Regular Plan - Growth Option",
+    "Regular Plan - IDCW Option (Payout)",
+    "Regular Plan - IDCW Option (Reinvestment)"
+  ],
+  "extracted_at": "2026-04-13T13:56:30.452769+00:00"
+}

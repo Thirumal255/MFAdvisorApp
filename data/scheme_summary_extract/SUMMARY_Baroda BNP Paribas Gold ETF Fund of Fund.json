@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Baroda BNP Paribas Gold ETF Fund Of Fund",
+  "source_file": "SUMMARY_Baroda BNP Paribas Gold ETF Fund of Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Baroda BNP Paribas Gold ETF Fund Of Fund",
+    "fund_type": "An open-ended fund of fund scheme investing in Baroda BNP Paribas Gold ETF",
+    "fund_options": [
+      "Direct Plan - Growth Option",
+      "Regular Plan - Growth Option"
+    ],
+    "riskometer": "HIgh",
+    "investment_objective": "The investment objective of the Scheme is to seek to provide returns that are in line with the returns provided by BarodaBNP Paribas Gold Exchange Traded Fund. However, there is no assurance or guarantee that the objective of the Schemewill be achieved",
+    "asset_allocation": "Units of Baroda BNP Paribas Gold Exchange Traded Fund: 95 to 100%; Money Market instruments, Cash & cashequivalents etc: 0 to 5%",
+    "benchmark": "Domestic Price of Physical Gold based on the the AM ﬁxing price of gold by the LBMA",
+    "fund_managers": "Mr. Gurvinder Wasan, Mr. Madhav Vyas, Ms. Swapna Shelar",
+    "annual_expense": {
+      "Regular": "0.55",
+      "Direct": "0.15"
+    },
+    "exit_load": "1% if units are redeemed/switched out within 15 days from date of allotment No Exit load is payable if units areredeemed/switched-out after 15 days from the date of allotment",
+    "amfi_codes": [
+      "153795",
+      "153794"
+    ],
+    "isins": [
+      "INF251K01VF4",
+      "INF251K01VE7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth Option",
+    "Regular Plan - Growth Option"
+  ],
+  "extracted_at": "2026-04-13T12:53:34.251160+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Axis India Manufacturing Fund",
+  "source_file": "SUMMARY_Axis India Manufacturing Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis India Manufacturing Fund",
+    "fund_type": "An open-ended equity scheme representing the India manufacturing theme",
+    "fund_options": [
+      "Direct IDCW-Payout",
+      "Direct IDCW-Reinvestment",
+      "Direct Growth",
+      "Regular IDCW-Payout",
+      "Regular IDCW-Reinvestment",
+      "RegularGrowth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide long term capital appreciation by investing in equity and equity related securities of companies engaged inmanufacturing theme. However, there can be no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments selected based on the manufacturing theme: 80%-100%, Other Equity & EquityRelated Instruments - 0%-20%, Debt & Money Market Instruments: 0%-20%, Units issued by REITs & InVITs: 0%-10%",
+    "benchmark": "NIFTY India Manufacturing TRI",
+    "fund_managers": "Mr. Shreyash Devalkar and Mr. Nitin Arora",
+    "annual_expense": {
+      "Regular": "1.84",
+      "Direct": "0.54"
+    },
+    "exit_load": "If redeemed / switched-out within 90 days from the date of allotment: For 10% of investment: Nil For remaininginvestment: 1% If redeemed/switched out after 90 days from the date of allotment: Nil",
+    "amfi_codes": [
+      "152205",
+      "152203",
+      "152202",
+      "152204"
+    ],
+    "isins": [
+      "INF846K013S0",
+      "INF846K014S8",
+      "INF846K016S3",
+      "INF846K017S1",
+      "INF846K015S5",
+      "INF846K018S9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW-Payout",
+    "Direct IDCW-Reinvestment",
+    "Direct Growth",
+    "Regular IDCW-Payout",
+    "Regular IDCW-Reinvestment",
+    "RegularGrowth"
+  ],
+  "extracted_at": "2026-04-13T12:31:45.264386+00:00"
+}

@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "Bajaj Finserv Banking and PSU Fund",
+  "source_file": "SUMMARY_Bajaj Finserv Banking and PSU Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bajaj Finserv Banking and PSU Fund",
+    "fund_type": "An open ended debt scheme predominantly investing in Debt instruments of banks, Public Sector Undertakings, Public FinancialInstitutions and Municipal Bonds with relatively high interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - Monthly IDCW Reinvestment",
+      "Direct Plan - Monthly IDCW Payout",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - Monthly IDCW Reinvestment",
+      "Regular Plan - Monthly IDCW Payout"
+    ],
+    "isins": [
+      "INF0QA701607",
+      "INF0QA701623",
+      "INF0QA701615",
+      "INF0QA701631",
+      "INF0QA701649",
+      "INF0QA701557",
+      "INF0QA701573",
+      "INF0QA701565",
+      "INF0QA701581",
+      "INF0QA701599"
+    ],
+    "amfi_codes": [
+      "152162",
+      "152163",
+      "152163",
+      "152164",
+      "152164",
+      "152165",
+      "152166",
+      "152166",
+      "152167",
+      "152167"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate income by predominantly investing in debt & money market securities issued by Banks, Public Sector Undertaking(PSUs), Public Financial Institutions (PFI), Municipal Bonds and Reverse repos in such securities, sovereign securities issued bythe Central Government and State Governments, and / or any security unconditionally guaranteed by the Govt. of India. There isno assurance that or guarantee that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Debt and money market instruments of banks, Public Sector Undertakings, Public Financial Institutions and Municipal Bonds -100%-80%, Debt & money market securities (including government securities) issued by entities other than banks, Public SectorUndertakings , Public Financial Institutions and Municipal Bonds -20%-0%",
+    "benchmark": "Nifty Banking & PSU Debt Index A-II",
+    "fund_managers": "FM 1 - Mr. Siddharth Chaudhary , FM 2 - Mr. Nimesh Chandan",
+    "annual_expense": {
+      "Regular": "0.90",
+      "Direct": "0.35"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - Monthly IDCW Reinvestment",
+    "Direct Plan - Monthly IDCW Payout",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - Monthly IDCW Reinvestment",
+    "Regular Plan - Monthly IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T12:36:19.195169+00:00"
+}

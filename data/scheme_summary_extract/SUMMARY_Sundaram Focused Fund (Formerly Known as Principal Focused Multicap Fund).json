@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Sundaram Focused Fund",
+  "source_file": "SUMMARY_Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund).pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Sundaram Focused Fund",
+    "fund_type": "An open-ended equity scheme with a focus on investing across market capitalization.",
+    "fund_options": [
+      "Direct Plan - Growth Option",
+      "Direct Plan - IDCW",
+      "Direct Plan - Reinvestment",
+      "Regular Plan - Growth Option",
+      "Regular IDCW",
+      "Regular Reinvestment"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The Investment Objective of the scheme would be to provide capital appreciation and /or dividend distribution by investing in companies across market capitalization",
+    "asset_allocation": "Equity and Equity Related Instruments 65- 100% Debt (including Securitised debt), Money Market instruments and Cash and Cash Equivalents 0 -35% Units issued by REITs/InvITs 0 -10%",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "FM1 - Ashwin Jain, FM2- Mr. Shalav Saket(Overseas Securities)",
+    "annual_expense": {
+      "Regular": "2.27",
+      "Direct": "1.23"
+    },
+    "exit_load": "If Units purchased/ switchin within 7 days from the date of allotment 0.25%. NIL after 7 days from the date of allotment",
+    "amfi_codes": [
+      "149531",
+      "149532",
+      "149533",
+      "149534"
+    ],
+    "isins": [
+      "INF173K01EK6",
+      "INF173K01EM2",
+      "INF173K01EL4",
+      "INF173K01189",
+      "INF173K01197",
+      "INF173K01205"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth Option",
+    "Direct Plan - IDCW",
+    "Direct Plan - Reinvestment",
+    "Regular Plan - Growth Option",
+    "Regular IDCW",
+    "Regular Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T16:05:35.835035+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "THE WEALTH COMPANY ARBITRAGE FUND",
+  "source_file": "SUMMARY_The Wealth Company Arbitrage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "THE WEALTH COMPANY ARBITRAGE FUND",
+    "fund_type": "An open ended scheme investing in Arbitrage opportunities",
+    "fund_options": [
+      "DIRECT GROWTH",
+      "DIRECT-IDCWPAYOUT",
+      "DIRECT -IDCWREINVESTMENT",
+      "REGULAR GROWTH",
+      "REGULAR IDCWPAYOUT",
+      "REGULAR IDCWREINVESTMENT"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "To generate income through arbitrage opportunities and debt and money market instruments. There is no assurance orguarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity Related Instruments of companies following the Arbitrage theme: 65% - 100% Debt Securities and moneymarket instruments including the margin money deployed in derivatives transactions : 0 to 35% and Units issued by REITs andInvITs: 0% - 10%.",
+    "benchmark": "Nifty 50 Arbitrage Index (TRI)",
+    "fund_managers": "FM 1 - Ms.Aparna Shanker, FM 2 - Mr. Rouhak Shah , FM 3 - Mr. Neeraj Jain",
+    "annual_expense": {
+      "Regular": "0.92",
+      "Direct": "0.26"
+    },
+    "exit_load": "0.25% - If redeemed/switched out within 7 days from the date of allotment, Nil - if redeemed/switched out after 7 days fromthe date of allotment.",
+    "amfi_codes": [
+      "153891",
+      "153893",
+      "null",
+      "153892",
+      "null",
+      "null"
+    ],
+    "isins": [
+      "INF2F0001271",
+      "INF2F0001263",
+      "INF2F0001255",
+      "INF2F0001305",
+      "INF2F0001289",
+      "INF2F0001297"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT GROWTH",
+    "DIRECT-IDCWPAYOUT",
+    "DIRECT -IDCWREINVESTMENT",
+    "REGULAR GROWTH",
+    "REGULAR IDCWPAYOUT",
+    "REGULAR IDCWREINVESTMENT"
+  ],
+  "extracted_at": "2026-04-13T16:19:12.286128+00:00"
+}

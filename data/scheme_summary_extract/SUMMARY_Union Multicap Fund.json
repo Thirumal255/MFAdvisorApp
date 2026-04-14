@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Union Multicap Fund",
+  "source_file": "SUMMARY_Union Multicap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Union Multicap Fund",
+    "fund_type": "Multi Cap Fund - An open ended equity scheme investing across large cap, mid cap, small cap stocks",
+    "fund_options": [
+      "Regular Plan - Growth Option",
+      "Regular Plan - IDCW Payout Option",
+      "Regular Plan - IDCW Reinvestment Option",
+      "Regular Plan - IDCW Transfer Option",
+      "Direct Plan - Growth Option",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment Option",
+      "Direct Plan - IDCW Transfer"
+    ],
+    "isins": [
+      "INF582M01IS8",
+      "INF582M01IT6",
+      "INF582M01IU4",
+      "INF582M01IV2",
+      "INF582M01IO7",
+      "INF582M01IP4",
+      "INF582M01IQ2",
+      "INF582M01IR0"
+    ],
+    "amfi_codes": [
+      "150855",
+      "150856",
+      null,
+      null,
+      "150858",
+      "150857",
+      null,
+      null
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the Scheme is to achieve long term capital appreciation by investing in equity and equity related instruments of large, mid and small cap companies. However, there is no assurance that the Investment Objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related instruments of Large Cap Companies#: 25% - 50% of net assets, Equity & Equity Related Instruments of Mid Cap Companies#: 25% - 50% of net assets, Equity & Equity Related Instruments of Small Cap Companies#: 25% - 50% of net assets, Debt and Money Market Instruments: 0% - 25% of net assets, Units issued by InvITs: 0% - 10% of net assets. #In accordance with SEBI Circular No. SEBI/HO/IMD/DF3/CIR/P/2017/114 dated October 6, 2017, as amended from time to time, Large Cap, Mid Cap and Small Cap are defined as follows: • Large Cap: 1st -100th company in terms of full market capitalization • Mid Cap: 101st - 250th company in terms of full market capitalization • Small Cap: 251st company onwards in terms of full market capitalization Please refer the Scheme Information Document for complete details.",
+    "benchmark": "Nifty 500 Multicap 50:25:25 Index (TRI)",
+    "fund_managers": "FM 1 - Mr. Harshad Patwardhan, FM 2 - Mr. Sanjay Bembalkar",
+    "annual_expense": {
+      "Regular": "2.17",
+      "Direct": "1.01"
+    },
+    "exit_load": "1% if units are redeemed or switched out on or before completion of 15 days from the date of allotment. Nil if redeemed or switched out after completion of 15 days from the date of allotment of units"
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth Option",
+    "Regular Plan - IDCW Payout Option",
+    "Regular Plan - IDCW Reinvestment Option",
+    "Regular Plan - IDCW Transfer Option",
+    "Direct Plan - Growth Option",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment Option",
+    "Direct Plan - IDCW Transfer"
+  ],
+  "extracted_at": "2026-04-13T16:26:41.234394+00:00"
+}

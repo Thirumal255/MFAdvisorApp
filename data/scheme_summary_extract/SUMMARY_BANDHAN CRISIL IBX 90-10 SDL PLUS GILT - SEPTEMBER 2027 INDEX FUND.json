@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bandhan CRISIL IBX 90:10 SDL Plus Gilt Sep 2027 Index Fund",
+  "source_file": "SUMMARY_BANDHAN CRISIL IBX 90-10 SDL PLUS GILT - SEPTEMBER 2027 INDEX FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan CRISIL IBX 90:10 SDL Plus Gilt Sep 2027 Index Fund",
+    "fund_type": "An open-ended Target Maturity Index Fund investing in constituents of CRISIL IBX 90:10 SDL plus Gilt Index – September 2027with Relatively High Interest Rate Risk and Relatively Low Credit Risk",
+    "fund_options": [
+      "Bandhan CRISIL IBX 90:10 SDL Plus Sep 2027 GIF Reg-Growth",
+      "Bandhan CRISIL IBX 90:10 SDL Plus Sep 2027 GIF Reg-IDCW",
+      "Bandhan CRISIL IBX 90:10 SDL Plus Sep 2027 GIF Reg -IDCW (Re-inv)",
+      "Bandhan CRISIL IBX 90:10 SDL Plus Sep 2027 GIF Dir-Growth",
+      "Bandhan CRISIL IBX 90:10 SDL Plus Sep 2027 GIF Dir-IDCW",
+      "Bandhan CRISIL IBX 90:10 SDL Plus Sep 2027 GIF Dir-IDCW(Re-inv)"
+    ],
+    "isins": [
+      "INF194KB1FC2",
+      "INF194KB1FD0",
+      "INF194KB1FE8",
+      "INF194KB1EZ6",
+      "INF194KB1FA6",
+      "INF194KB1FB4"
+    ],
+    "amfi_codes": [
+      "150890",
+      "150891",
+      "150891",
+      "150888",
+      "150889",
+      "150889"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns corresponding to the total returns of the securities as represented by the CRISIL IBX 90:10 SDL Plus Gilt Index – September 2027 before expenses, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities belonging to the SDL portion of the CRISIL IBX 90:10 SDL Plus Gilt Index – September 2027-95% - 100% Cash & Money Market instruments - 0%- 5%",
+    "benchmark": "CRISIL IBX 90:10 SDL plus Gilt Index – September 2027",
+    "fund_managers": "Mr. Gautam Kaul Mr. Harshal Joshi",
+    "annual_expense": {
+      "Regular": "0.35",
+      "Direct": "0.10"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Bandhan CRISIL IBX 90:10 SDL Plus Sep 2027 GIF Reg-Growth",
+    "Bandhan CRISIL IBX 90:10 SDL Plus Sep 2027 GIF Reg-IDCW",
+    "Bandhan CRISIL IBX 90:10 SDL Plus Sep 2027 GIF Reg -IDCW (Re-inv)",
+    "Bandhan CRISIL IBX 90:10 SDL Plus Sep 2027 GIF Dir-Growth",
+    "Bandhan CRISIL IBX 90:10 SDL Plus Sep 2027 GIF Dir-IDCW",
+    "Bandhan CRISIL IBX 90:10 SDL Plus Sep 2027 GIF Dir-IDCW(Re-inv)"
+  ],
+  "extracted_at": "2026-04-13T12:40:31.074191+00:00"
+}

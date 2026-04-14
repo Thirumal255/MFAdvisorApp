@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "BHARAT Bond FOF - April 2030",
+  "source_file": "SUMMARY_Bharat Bond FOF - April 2030.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "BHARAT Bond FOF - April 2030",
+    "fund_type": "Fund of Fund - Domestic",
+    "fund_options": [
+      "Direct Plan - Growth - Growth",
+      "Direct Plan - IDCW Option - Payout",
+      "Direct Plan - IDCW Option - Reinvestment",
+      "Regular Plan - Growth - Growth",
+      "Regular Plan - IDCW Option - Payout",
+      "Regular Plan - IDCW Option - Reinvestment"
+    ],
+    "isins": [
+      "INF754K01KY1",
+      "INF754K01KZ8",
+      "INF754K01LA9",
+      "INF754K01KV7",
+      "INF754K01KW5",
+      "INF754K01KX3"
+    ],
+    "amfi_codes": [
+      "147857",
+      "147855",
+      "147855",
+      "147854",
+      "147856",
+      "147856"
+    ],
+    "riskometer": "Moderate Risk",
+    "investment_objective": "BHARAT Bond FOF – April 2030 is a fund of funds scheme with the primary objective to generate returns by investing in units of BHARAT Bond ETF – April 2030. However, there is no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "1. Units of BHARAT Bond ETF – April 2030 - 95-100%\n2. Government Securities maturing on or before maturity date of the Scheme, TREPS and REPO in government bonds - 0-5%",
+    "benchmark": "Nifty BHARAT Bond Index – April 2030",
+    "fund_managers": "Ms. Pranavi Kulkarni",
+    "annual_expense": {
+      "Regular": "0.06",
+      "Direct": "0.06"
+    },
+    "exit_load": "• If redeemed or switched out on or before completion of 30 days from the date of allotment of units –0.10%\n• If redeemed or switched out after completion of 30 days from the date of allotment of units –NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth - Growth",
+    "Direct Plan - IDCW Option - Payout",
+    "Direct Plan - IDCW Option - Reinvestment",
+    "Regular Plan - Growth - Growth",
+    "Regular Plan - IDCW Option - Payout",
+    "Regular Plan - IDCW Option - Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T12:58:51.364813+00:00"
+}

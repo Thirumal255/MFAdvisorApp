@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Shriram Aggressive Hybrid Fund",
+  "source_file": "SUMMARY_Shriram Aggressive Hybrid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Shriram Aggressive Hybrid Fund",
+    "fund_type": "An Open Ended Hybrid Scheme Investing Predominantly In Equity And Equity Related Instruments",
+    "fund_options": [
+      "Direct Growth",
+      "Regular Growth",
+      "Direct IDCW Reinvestment",
+      "Regular IDCW Reinvestment",
+      "Direct IDCW Payout",
+      "Regular IDCW Payout"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the Scheme would be to generate long term Capital appreciation and current income with reduced volatility by investing in a judicious mix of a diversified portfolio of equity and equity related investments, debt and money market instruments.",
+    "asset_allocation": "Equity,  Equity related instruments and Derivatives: 65% to 80%;  Debt instruments (including fixed/ floating rate debt instruments) and Money Market instruments: 20% to 35%",
+    "benchmark": "CRISIL Hybrid 35+65 - Aggressive Index",
+    "fund_managers": "Mr. Deepak Ramaraju, Mr. Sudip More, Mr. Prateek Nigudkar and Mr. Amit Modani",
+    "annual_expense": {
+      "Regular": "2.395",
+      "Direct": "0.845"
+    },
+    "exit_load": "If redeemed / switched-out within 90 days from the date of allotment :- • Upto 12% of units: Nil • More than 12% of units: 1% of applicable Net Asset Value (NAV) If redeemed/switched-out after 90 days from the date of allotment: Nil",
+    "amfi_codes": [
+      "125711",
+      "125713",
+      "125712",
+      "125714",
+      "125712",
+      "125714"
+    ],
+    "isins": [
+      "INF680P01042",
+      "INF680P01018",
+      "INF680P01067",
+      "INF680P01034",
+      "INF680P01059",
+      "INF680P01026"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Regular Growth",
+    "Direct IDCW Reinvestment",
+    "Regular IDCW Reinvestment",
+    "Direct IDCW Payout",
+    "Regular IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T16:01:39.351671+00:00"
+}

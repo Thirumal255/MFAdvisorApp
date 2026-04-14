@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "HDFC Nifty G-sec Dec 2026 Index Fund",
+  "source_file": "SUMMARY_HDFC Nifty G-Sec Dec 2026 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Nifty G-sec Dec 2026 Index Fund",
+    "fund_type": "An open ended target maturity scheme replicating/tracking Nifty G-sec Dec 2026 Index. A Relatively High Interest Rate Risk andRelatively Low Credit Risk",
+    "fund_options": [
+      "Direct Plan- Growth Option",
+      "Regular Plan- Growth Option"
+    ],
+    "riskometer": "Low to Moderate Risk",
+    "investment_objective": "To generate returns that are commensurate (before fees and expenses) with the performance of the Nifty G-Sec Dec 2026 Index(Underlying Index), subject to tracking diﬀerence. There is no assurance that the investment objective of the Scheme will beachieved.",
+    "asset_allocation": "Government Securities/SDL, TREPS on Government Securities/Treasury bills : 95% - 100%; Money Market Instruments and Unitsof liquid and debt mutual fund schemes : 0% - 5% For detailed asset allocation, refer Scheme Information Document (SID)available on the website.",
+    "benchmark": "Nifty G-sec Dec 2026 Index",
+    "fund_managers": "FM 1 - Mr.Anupam Joshi , FM 2 - Sankalp Baid",
+    "annual_expense": {
+      "Regular": "0.35",
+      "Direct": "0.20"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "150845",
+      "150844"
+    ],
+    "isins": [
+      "INF179KC1EE9",
+      "INF179KC1EG4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan- Growth Option",
+    "Regular Plan- Growth Option"
+  ],
+  "extracted_at": "2026-04-13T13:48:45.861197+00:00"
+}

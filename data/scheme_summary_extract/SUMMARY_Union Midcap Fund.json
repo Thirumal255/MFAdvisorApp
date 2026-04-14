@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Union Midcap Fund",
+  "source_file": "SUMMARY_Union Midcap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Union Midcap Fund",
+    "fund_type": "Mid Cap Fund - An open ended equity scheme predominantly investing in mid cap stocks.",
+    "fund_options": [
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Transfer",
+      "Direct Plan - IDCW Transfer"
+    ],
+    "isins": [
+      "INF582M01GK9",
+      "INF582M01GJ1",
+      "INF582M01GI3",
+      "INF582M01GO1",
+      "INF582M01GN3",
+      "INF582M01GM5",
+      "INF582M01GP8",
+      "INF582M01GL7"
+    ],
+    "amfi_codes": [
+      "148074",
+      "148074",
+      "148073",
+      "148071",
+      "148072",
+      "148071",
+      "148072",
+      "148074"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the Scheme is to achieve long term capital appreciation and generate income by investing predominantly in equity and equity related securities of mid cap companies. However, there is no assurance that the Investment Objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments of mid cap companies# - 65% - 100% of net assets, Equity and Equity related instruments of companies other than Mid Cap companies# - 0% - 35% of net assets, Debt and Money Market instruments - 0%-35% of net assets, Units issued by InvITs - 0% - 10% of net assets. (#In accordance with SEBI Circular No. SEBI/HO/IMD/DF3/CIR/P/2017/114 dated October 6, 2017, as amended from time to time, Large Cap, Mid Cap and Small Cap are defined as follows: Large Cap: 1st-100th company in terms of full market capitalization, Mid Cap: 101st - 250th company in terms of full market capitalization, Small Cap: 251st company onwards in terms of full market capitalization.) Please refer the Scheme Information Document for more details.",
+    "benchmark": "BSE 150 MidCap Index (TRI)",
+    "fund_managers": "FM 1 - Mr. Gaurav Chopra, FM 2 - Mr. Pratik Dharmshi",
+    "annual_expense": {
+      "Regular": "2.09",
+      "Direct": "0.74"
+    },
+    "exit_load": "1% if units are redeemed or switched out on or before completion of 15 days from the date of allotment. Nil thereafter."
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Transfer",
+    "Direct Plan - IDCW Transfer"
+  ],
+  "extracted_at": "2026-04-13T16:25:41.688543+00:00"
+}

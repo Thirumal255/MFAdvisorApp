@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Invesco India Banking and PSU Fund",
+  "source_file": "SUMMARY_Invesco India Banking and PSU Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India Banking and PSU Fund",
+    "fund_type": "An open ended debt scheme predominantly investing in Debt instruments of banks, Public Sector Undertakings, Public FinancialInstitutions and Municipal Bonds. A relatively high interest rate risk and relatively low credit risk",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - Monthly IDCW Payout",
+      "Regular Plan - Monthly IDCW Reinvestment",
+      "Regular Plan - Daily IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Direct Plan - Monthly IDCW Payout",
+      "Direct Plan - Monthly IDCW Reinvestment",
+      "Direct Plan - Daily IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF205K01JV2",
+      "INF205K01JW0",
+      "INF205K01JY6",
+      "INF205K01JX8",
+      "INF205K01KT4",
+      "INF205K01KU2",
+      "INF205K01KV0",
+      "INF205K01KS6"
+    ],
+    "amfi_codes": [
+      "118232",
+      "118233",
+      "118233",
+      "118234",
+      "120444",
+      "120445",
+      "120445",
+      "120443"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate returns by investing primarily in debt & Money Market Instruments issued by banks, Public Financial Institutions(PFIs), Public Sector Undertakings (PSUs) and Municipal Bonds. There is no assurance that the investment objective of theScheme will be achieved",
+    "asset_allocation": "Debt and Money Market Instruments issued by banks, PSUs, PFIs and Municipal Bonds: Min.80% Max. 100% Debt and MoneyMarket Instruments issued by other than banks, PSUs, PFIs and Municipal Bonds: Min.0% Max. 20%",
+    "benchmark": "Nifty Banking & PSU Debt Index A-II",
+    "fund_managers": "Vikas Garg - Primary, Krishna Cheemalapati - Comanage",
+    "annual_expense": {
+      "Regular": "0.70",
+      "Direct": "0.28"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - Monthly IDCW Payout",
+    "Regular Plan - Monthly IDCW Reinvestment",
+    "Regular Plan - Daily IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Direct Plan - Monthly IDCW Payout",
+    "Direct Plan - Monthly IDCW Reinvestment",
+    "Direct Plan - Daily IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T14:24:21.353672+00:00"
+}

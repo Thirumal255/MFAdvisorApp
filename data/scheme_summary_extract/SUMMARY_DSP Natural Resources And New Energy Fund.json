@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "DSP Natural Resources And New Energy Fund",
+  "source_file": "SUMMARY_DSP Natural Resources And New Energy Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP Natural Resources And New Energy Fund",
+    "fund_type": "An open ended equity scheme investing in Natural Resources and Alternative Energy sector",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - IDCW - Reinvest",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW - Reinvest"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the Scheme is to seek to generate capital appreciation and provide long term growth opportunities by investing in equity and equity related securities of companies domiciled in India whose pre-dominant economic activity is in the: (a) discovery, development, production, or distribution of natural resources, viz., energy, mining etc.; (b) alternative energy and energy technology sectors, with emphasis given to renewable energy, automotive and on-site power generation, energy storage and enabling energy technologies. The Scheme will also invest a certain portion of its corpus in the equity and equity related securities of companies domiciled overseas, which are principally engaged in the discovery, development, production or distribution of natural resources and alternative energy and/or the units/shares of BlackRock Global Funds – Sustainable Energy Fund, BlackRock Global Funds – World Energy Fund and similar other overseas mutual fund schemes. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "1. Equity and Equity related Securities of companies domiciled in India, and principally engaged in the discovery, development, production or distribution of Natural Resources and Alternative Energy: 65% - 100% 2. (a) Equity and Equity related Securities of companies domiciled overseas and principally engaged in the discovery, development, production or distribution of Natural Resources and Alternative Energy. (b) Units/shares of (i) BGF - SEF (ii) BGF - WEF and (iii) Similar other overseas mutual fund schemes: 0% - 35% 3. Debt and Money Market Securities: 0% - 20% For detailed asset allocation pattern, please refer to the Scheme Information Document",
+    "benchmark": "35% BSE Oil & Gas Index + 30% BSE Metal Index + 35% MSCI World Energy 30% Buﬀer 10/40 Net Total Return",
+    "fund_managers": "Mr. Rohit Singhania",
+    "annual_expense": {
+      "Regular": "2.02",
+      "Direct": "0.85"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "119028",
+      "119029",
+      "119029",
+      "108202",
+      "108203",
+      "108203"
+    ],
+    "isins": [
+      "INF740K01QA7",
+      "INF740K01QB5",
+      "INF740K01QC3",
+      "INF740K01060",
+      "INF740K01045",
+      "INF740K01052"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - IDCW - Reinvest",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW - Reinvest"
+  ],
+  "extracted_at": "2026-04-13T13:11:24.016085+00:00"
+}

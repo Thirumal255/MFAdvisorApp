@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Franklin India Mid Cap Fund",
+  "source_file": "SUMMARY_Franklin India Mid Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Franklin India Mid Cap Fund",
+    "fund_type": "Mid-cap Fund- An open ended equity scheme predominantly investing in mid cap stocks",
+    "fund_options": [
+      "Regular - Growth",
+      "Direct - IDCW Reinv.",
+      "Regular - IDCW Payout",
+      "Direct - Growth",
+      "Regular - IDCW Reinv.",
+      "Direct - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide medium to long-term capital appreciation as a primary objective and income as a secondary objective.",
+    "asset_allocation": "Equity and equity related instruments of mid cap companies: 65-100% Equity and equity related instruments of other than midcap companies: 0-35% Debt & Money Market Instruments: 0-35%",
+    "benchmark": "Nifty Midcap 150",
+    "fund_managers": "R. Janakiraman, Akhil Kalluri Sandeep Manam (dedicated for making investments for Foreign Securities)",
+    "annual_expense": {
+      "Regular": "1.77",
+      "Direct": "0.99"
+    },
+    "exit_load": "In respect of each purchase of Units - 1% if the Units are redeemed/switched-out within one year of allotment",
+    "amfi_codes": [
+      "100473",
+      "118532",
+      "100472",
+      "118533",
+      "100472",
+      "118532"
+    ],
+    "isins": [
+      "INF090I01809",
+      "INF090I01FJ5",
+      "INF090I01726",
+      "INF090I01FH9",
+      "INF090I01734",
+      "INF090I01FI72"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Direct - IDCW Reinv.",
+    "Regular - IDCW Payout",
+    "Direct - Growth",
+    "Regular - IDCW Reinv.",
+    "Direct - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T13:30:46.354428+00:00"
+}

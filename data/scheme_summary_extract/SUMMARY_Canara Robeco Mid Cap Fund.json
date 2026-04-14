@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Canara Robeco Mid Cap Fund",
+  "source_file": "SUMMARY_Canara Robeco Mid Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Canara Robeco Mid Cap Fund",
+    "fund_type": "An open-ended equity scheme predominantly investing in mid cap stocks.",
+    "fund_options": [
+      "Regular Growth",
+      "Regular IDCW Payout",
+      "Regular IDCW Reinvestment",
+      "Direct Growth",
+      "Direct IDCW Payout",
+      "Direct IDCW Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate capital appreciation by investing predominantly in equity and equityrelated instruments of mid cap companies. However, there can be no assurance that the investment objective of the scheme willbe realized.",
+    "asset_allocation": "Equity and Equity-related Instruments of Midcap companies* 65% to 100% (Very High) Equity and Equity-related Instruments ofcompanies other than Midcap companies 0% to 35% (Very High) Debt and Money Market Instruments 0% to 35% (Low toMedium) Units issued by InvITs 0% to 10% (Medium to High) *Investment universe of Mid Cap: The investment universe of SmallCap shall comprise companies as deﬁned by SEBI from time to time. In terms of SEBI circular SEBI/ HO/ IMD/ DF3/ CIR/ P/ 2017/114 dated October 6, 2017, the universe of Mid Cap shall consist of 101 to 250th company in terms of full market capitalizationPursuant to SEBI Circular dated November 28, 2025, AMFI shall include REITs in the list of classiﬁcation of scrips as per theirmarket capitalization.",
+    "benchmark": "BSE 150 Mid Cap TRI",
+    "fund_managers": "Mr. Pranav Gokhale / Mr. Shridatta Bhandwaldar",
+    "annual_expense": {
+      "Regular": "1.87",
+      "Direct": "0.60"
+    },
+    "exit_load": "In respect of each purchase / switch-in of units,1% - if Units are redeemed / switched-out within 365 days from the date ofallotment. Nil – if redeemed / switched out after 365 days from the date of allotment.",
+    "amfi_codes": [
+      "150816",
+      "150819",
+      "150818",
+      "150817",
+      "150818",
+      "150818"
+    ],
+    "isins": [
+      "INF760K01KL5",
+      "INF760K01KN1",
+      "INF760K01KM3",
+      "INF760K01KI1",
+      "INF760K01KK7",
+      "INF760K01KJ9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Regular IDCW Payout",
+    "Regular IDCW Reinvestment",
+    "Direct Growth",
+    "Direct IDCW Payout",
+    "Direct IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T13:02:34.320605+00:00"
+}

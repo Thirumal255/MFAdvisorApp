@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE PSU EQUITY FUND",
+  "source_file": "SUMMARY_Aditya Birla Sun Life PSU Equity Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE PSU EQUITY FUND",
+    "fund_type": "An Open ended equity scheme following PSU theme",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Direct - Payout of IDCW",
+      "Regular Plan-Growth",
+      "Regular - Payout of IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide long term capital appreciation by investing in equity and equity related Instruments of Public Sector Undertakings (PSUs). The Scheme does not guarantee/indicate any returns. There can be no assurance that the schemes’ objectives will be achieved",
+    "asset_allocation": "Instruments - Risk Profile - Range\nEquity & Equity Related instruments of Public Sector Undertakings - High - 80%-100%\nOther Equity & Equity Related instruments - High - 0%-20%\nDebt and Money Market Instruments - Low to Medium - 0%-20%\nUnits issued by InvITs - Medium to High - 0%-10%",
+    "benchmark": "BSE PSU TRI",
+    "fund_managers": "Mr. Dhaval Gala",
+    "annual_expense": {
+      "Regular": "2.10",
+      "Direct": "0.73"
+    },
+    "exit_load": "For redemption/switch-out of units on or before 30 days from the date of allotment: 1.00% of applicable NAV. For redemption/switch-out of units after 30 days from the date of allotment: Nil",
+    "amfi_codes": [
+      "147844",
+      "147845",
+      "147846",
+      "147847"
+    ],
+    "isins": [
+      "INF209KB1O82",
+      "INF209KB1O90",
+      "INF209KB1O66",
+      "INF209KB1O74"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Direct - Payout of IDCW",
+    "Regular Plan-Growth",
+    "Regular - Payout of IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:23:07.518476+00:00"
+}

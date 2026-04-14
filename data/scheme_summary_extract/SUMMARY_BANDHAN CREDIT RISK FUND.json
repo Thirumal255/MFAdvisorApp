@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "Bandhan Credit Risk Fund",
+  "source_file": "SUMMARY_BANDHAN CREDIT RISK FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Credit Risk Fund",
+    "fund_type": "An open ended debt scheme predominantly investing in AA and below rated corporate bonds. A Scheme with Relatively HighInterest Rate Risk and Moderate Credit Risk.",
+    "fund_options": [
+      "Bandhan Credit Risk Fund - REGULAR PLAN - Annual IDCW Reinvestment",
+      "Bandhan Credit Risk Fund - REGULAR PLAN - Quarterly IDCW Payout",
+      "Bandhan Credit Risk Fund - DIRECT PLAN - Annual IDCW Payout",
+      "Bandhan Credit Risk Fund - REGULAR PLAN - IDCW Reinvestment",
+      "Bandhan Credit Risk Fund - REGULAR PLAN - Annual IDCW Payout",
+      "Bandhan Credit Risk Fund - REGULAR PLAN - Half yearly IDCW Payout",
+      "Bandhan Credit Risk Fund - DIRECT PLAN - Quarterly IDCW Payout",
+      "Bandhan Credit Risk Fund - DIRECT PLAN - Growth",
+      "Bandhan Credit Risk Fund - REGULAR PLAN - Growth",
+      "Bandhan Credit Risk Fund - REGULAR PLAN - IDCW Payout"
+    ],
+    "isins": [
+      "INF194KA1W13",
+      "INF194KA1V48",
+      "INF194KA1X38",
+      "INF194KA1V22",
+      "INF194KA1W05",
+      "INF194KA1V71",
+      "INF194KA1W70",
+      "INF194KA1X61",
+      "INF194KA1W39",
+      "INF194KA1V14"
+    ],
+    "amfi_codes": [
+      "140608",
+      "140607",
+      "140610",
+      "140612",
+      "140608",
+      "140611",
+      "140604",
+      "140603",
+      "140609",
+      "140612"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The Fund seeks to generate returns by investing predominantly in AA and below rated corporate debt securities across maturities.",
+    "asset_allocation": "Corporate bonds (including securitised debt) rated AA*/ equivalent and below (including unrated securities) - 65% – 100%,Other Debt Securities (including securitised debt and Government Securities), Money Market Instruments and Units issued by InvITs, within which - 0% – 35%, Units issued by InvITs - 0% - 10% * excludes AA+/equivalent rated corporate bonds",
+    "benchmark": "NIFTY Credit Risk Bond Index B-II",
+    "fund_managers": "FM 1 - Mr. Gautam Kaul, FM 2 - Mr. Debraj Lahiri",
+    "annual_expense": {
+      "Regular": "1.69",
+      "Direct": "0.67"
+    },
+    "exit_load": "1% if redeemed/switched out within 365 days from the date of allotment"
+  },
+  "fund_options_inferred": [
+    "Bandhan Credit Risk Fund - REGULAR PLAN - Annual IDCW Reinvestment",
+    "Bandhan Credit Risk Fund - REGULAR PLAN - Quarterly IDCW Payout",
+    "Bandhan Credit Risk Fund - DIRECT PLAN - Annual IDCW Payout",
+    "Bandhan Credit Risk Fund - REGULAR PLAN - IDCW Reinvestment",
+    "Bandhan Credit Risk Fund - REGULAR PLAN - Annual IDCW Payout",
+    "Bandhan Credit Risk Fund - REGULAR PLAN - Half yearly IDCW Payout",
+    "Bandhan Credit Risk Fund - DIRECT PLAN - Quarterly IDCW Payout",
+    "Bandhan Credit Risk Fund - DIRECT PLAN - Growth",
+    "Bandhan Credit Risk Fund - REGULAR PLAN - Growth",
+    "Bandhan Credit Risk Fund - REGULAR PLAN - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T12:40:06.987020+00:00"
+}

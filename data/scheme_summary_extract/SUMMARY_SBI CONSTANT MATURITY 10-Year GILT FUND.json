@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "SBI Constant Maturity 10-Year Gilt Fund (Formerly known as SBI Magnum Constant Maturity Fund)",
+  "source_file": "SUMMARY_SBI CONSTANT MATURITY 10-Year GILT FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Constant Maturity 10-Year Gilt Fund (Formerly known as SBI Magnum Constant Maturity Fund)",
+    "fund_type": "An open-ended Debt Scheme investing in government securities having a constant maturity of around 10 years",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth"
+    ],
+    "riskometer": "MODERATE",
+    "investment_objective": "To provide returns to the investors generated through investments predominantly in Government securities issued by the Central Government and/or State Government such that the Average Maturity of the portfolio is around 10 years.",
+    "asset_allocation": {
+      "Central Government and State Government securities, TBills": "80%-100%",
+      "Triparty repo, Repo and Cash": "0%-20%"
+    },
+    "benchmark": "Crisil 10 Year Gilt Index",
+    "fund_managers": "Mr. Sudhir Agarwal",
+    "annual_expense": {
+      "Regular": "0.59"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "101003",
+      "101002",
+      "120136",
+      "120137"
+    ],
+    "isins": [
+      "INF200K01AP4",
+      "INF200K01AN9",
+      "INF200K01SJ9",
+      "INF200K01SK7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T15:52:17.288089+00:00"
+}

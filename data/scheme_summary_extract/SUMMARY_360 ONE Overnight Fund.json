@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "360 ONE Overnight Fund",
+  "source_file": "SUMMARY_360 ONE Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "360 ONE Overnight Fund",
+    "fund_type": "An open-ended debt scheme investing in overnight securities. A relatively low interest risk & relatively low credit risk",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Direct Plan-Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment"
+    ],
+    "riskometer": "Low Risk",
+    "investment_objective": "The investment objective of the Scheme is to generate reasonable returns commensurate with low risk and providing high level of liquidity, through investments made in debt and money market securities having maturity of 1 business day. However, there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Overnight Securities - 0%-100%",
+    "benchmark": "NIFTY 1D Rate Index",
+    "fund_managers": "Mr. Milan Mody , Mr. Viral Mehta",
+    "annual_expense": {
+      "Regular": "0.15",
+      "Direct": "0.07"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153700",
+      "153701",
+      "153702",
+      "153703",
+      null,
+      null
+    ],
+    "isins": [
+      "INF579M01BD1",
+      "INF579M01BE9",
+      "INF579M01BF6",
+      "INF579M01BG4",
+      "INF579M01BH2",
+      "INF579M01BI0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Direct Plan-Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T12:09:16.715002+00:00"
+}

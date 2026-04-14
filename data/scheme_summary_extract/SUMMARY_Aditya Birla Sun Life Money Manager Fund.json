@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE MONEY MANAGER FUND",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Money Manager Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE MONEY MANAGER FUND",
+    "fund_type": "An open-ended debt scheme investing in money market instruments. A relatively low interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "RETAIL - WEEKLY IDCW",
+      "Retail Growth",
+      "Retail - Daily IDCW",
+      "Daily IDCW",
+      "WEEKLY IDCW",
+      "Growth",
+      "Growth - Direct Plan",
+      "Direct - weekly IDCW",
+      "Direct - daily IDCW"
+    ],
+    "isins": [
+      "INF209K01JY8",
+      "INF209K01MJ3",
+      "INF209K01JZ5",
+      "INF209K01SZ6",
+      "INF209K01SY9",
+      "INF209K01RV7",
+      "INF209K01UU3",
+      "INF209K01UV1",
+      "INF209K01UT5"
+    ],
+    "amfi_codes": [
+      "101970",
+      "101971",
+      "101972",
+      "101973",
+      "101974",
+      "101976",
+      "119511",
+      "119512",
+      "119513"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The primary objective of the scheme is to generate regular income through investment in a portfolio comprising money market instruments.",
+    "asset_allocation": "Under normal circumstances, the asset allocation pattern shall be as under: Money Market Instruments (including cash and Tri-party Repos) - Upto 100% - Low to Medium",
+    "benchmark": "CRISIL Money Market A-I Index",
+    "fund_managers": [
+      "Mr. Mohit Sharma",
+      "Mr. Kaustubh Gupta",
+      "Mr. Anuj Jain"
+    ],
+    "annual_expense": {
+      "Regular": "0.34",
+      "Direct": "0.21"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "RETAIL - WEEKLY IDCW",
+    "Retail Growth",
+    "Retail - Daily IDCW",
+    "Daily IDCW",
+    "WEEKLY IDCW",
+    "Growth",
+    "Growth - Direct Plan",
+    "Direct - weekly IDCW",
+    "Direct - daily IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:19:48.742660+00:00"
+}

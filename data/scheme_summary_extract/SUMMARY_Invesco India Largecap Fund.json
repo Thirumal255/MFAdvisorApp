@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Invesco India Largecap Fund",
+  "source_file": "SUMMARY_Invesco India Largecap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India Largecap Fund",
+    "fund_type": "Large Cap Fund - An open ended equity scheme predominantly investing in large cap stocks",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF205K01304",
+      "INF205K01320",
+      "INF205K01312",
+      "INF205K01LB0",
+      "INF205K01KZ1",
+      "INF205K01LA2"
+    ],
+    "amfi_codes": [
+      "112098",
+      "112099",
+      "112099",
+      "120392",
+      "120393",
+      "120393"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate capital appreciation by investing predominantly in Largecap companies. There is no assurance that the investmentobjective of the Scheme will be achieved",
+    "asset_allocation": "Equity and Equity Related Instruments of Largecap companies: Min. 80% Max. 100% Equity and Equity Related Instruments ofcompanies other than Largecap companies: Min. 0% and Max. 20%. Debt and Money Market Instruments: Min. 0% and Max.20%.",
+    "benchmark": "Nifty 100 TRI",
+    "fund_managers": "Mr. Hiten Jain",
+    "annual_expense": {
+      "Regular": "2.23",
+      "Direct": "0.80"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T14:26:44.528500+00:00"
+}

@@ -1,0 +1,72 @@
+{
+  "parent_scheme_name": "PGIM India Small Cap Fund",
+  "source_file": "SUMMARY_PGIM India Short Duration Fund (Earlier known as PGIM India Short Maturity Fund).pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "PGIM India Small Cap Fund",
+    "fund_type": "An open-ended equity scheme predominantly investing in small cap stocks",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To achieve long term capital appreciation by predominantly investing in equity and equity related instruments of small cap companies. However, there can be no assurance that the investment objective of the Scheme will be achieved. The Scheme does not guarantee/ indicate any returns.",
+    "asset_allocation": "Equity & Equity Related Instruments of Small Cap Companies - Min 65% and Max 100%\nEquity & Equity Related Instruments of other companies- Min 0% and Max 35%\nDebt and Money Market instruments (including cash and cash equivalents), Liquid and Debt Schemes of Mutual Fund - Min 0% and Max 35%\nUnits issued by InVITs and REITs - Min 0% and Max 10%",
+    "benchmark": "NIFTY Smallcap 250 TRI",
+    "fund_managers": [
+      {
+        "name": "Mr. Vinay Paharia",
+        "type": "Primary",
+        "from_date": "01 April 2023"
+      },
+      {
+        "name": "Mr. Anandha Padmanabhan Anjeneyan",
+        "type": "Comanage",
+        "from_date": "01 April 2023"
+      },
+      {
+        "name": "Mr. Harsh Kothari",
+        "type": "Comanage",
+        "from_date": "12 October 2023"
+      },
+      {
+        "name": "Mr. Puneet Pal",
+        "type": "Debt Fund Manager",
+        "from_date": "01 April 2023"
+      },
+      {
+        "name": "Mr. Ojasvi Khicha",
+        "type": "Dedicated Overseas Fund Manager",
+        "from_date": "01 April 2023"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.04",
+      "Direct": "0.43"
+    },
+    "exit_load": "For Exits within 90 days from date of allotment of units: 0.50%; For Exits beyond 90 days from date of allotment of units: NIL.",
+    "amfi_codes": [
+      "149019",
+      "149020",
+      "149031",
+      "149032"
+    ],
+    "isins": [
+      "INF663L01W14",
+      "INF663L01W22",
+      "INF663L01W48",
+      "INF663L01W55",
+      "INF663L01W06",
+      "INF663L01W30"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T15:40:35.705135+00:00"
+}

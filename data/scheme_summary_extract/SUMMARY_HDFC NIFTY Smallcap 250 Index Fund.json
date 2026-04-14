@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "HDFC Nifty Smallcap 250 Index Fund",
+  "source_file": "SUMMARY_HDFC NIFTY Smallcap 250 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Nifty Smallcap 250 Index Fund",
+    "fund_type": "An open ended scheme replicating/tracking NIFTY Smallcap 250 Index (TRI)",
+    "fund_options": [
+      "Direct Plan- Growth Option",
+      "Regular Plan- Growth Option"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "To generate returns that are commensurate (before fees and expenses) with the performance of the NIFTY Smallcap 250 Index,subject to tracking error.There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities covered by NIFTY Smallcap 250 Index (TRI): 95% - 100%; Debt Securities & Money Market Instruments, Units of DebtSchemes of Mutual Funds : 0% - 5% For detailed asset allocation, refer Scheme Information Document (SID) available on thewebsite.",
+    "benchmark": "NIFTY Smallcap 250 Index (TRI)",
+    "fund_managers": "FM 1 - Ms. Nandita Menezes , FM 2 - Arun Agarwal",
+    "annual_expense": {
+      "Regular": "0.75",
+      "Direct": "0.30"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "151727",
+      "151726"
+    ],
+    "isins": [
+      "INF179KC1GE4",
+      "INF179KC1GF1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan- Growth Option",
+    "Regular Plan- Growth Option"
+  ],
+  "extracted_at": "2026-04-13T13:50:58.743916+00:00"
+}

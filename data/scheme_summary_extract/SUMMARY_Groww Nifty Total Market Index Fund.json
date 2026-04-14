@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Groww Nifty Total Market Index Fund",
+  "source_file": "SUMMARY_Groww Nifty Total Market Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Groww Nifty Total Market Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - IDCW - Payout",
+      "Direct Plan - Growth - Growth",
+      "Regular Plan - IDCW - Payout",
+      "Regular Plan - Growth - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to achieve a return equivalent to the Nifty Total Market Index-TRI subject to tracking error. This index is diversified throughout the Indian market across sectors and market caps and aims to benefit from India’s economic growth.",
+    "asset_allocation": "Equity & Equity related instruments - 95 % - 100% - Very High\nDebt & Money Market Instruments - 0% - 05% - Low to \nMedium",
+    "benchmark": "Nifty Total Market Index - TRI",
+    "fund_managers": "Mr. Nikhil Satam, Mr. Aakash Chauhan & Mr. Shashi Kumar",
+    "annual_expense": {
+      "Regular": "1.05",
+      "Direct": "0.40"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "152092",
+      "152125",
+      "152127",
+      "152126"
+    ],
+    "isins": [
+      "INF666M01HM4",
+      "INF666M01HN2",
+      "INF666M01HJ0",
+      "INF666M01HK8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW - Payout",
+    "Direct Plan - Growth - Growth",
+    "Regular Plan - IDCW - Payout",
+    "Regular Plan - Growth - Growth"
+  ],
+  "extracted_at": "2026-04-13T13:37:55.456877+00:00"
+}

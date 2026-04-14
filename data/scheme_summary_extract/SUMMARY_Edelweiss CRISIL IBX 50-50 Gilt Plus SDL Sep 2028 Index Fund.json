@@ -1,0 +1,62 @@
+{
+  "parent_scheme_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL September 2028 Index Fund",
+  "source_file": "SUMMARY_Edelweiss CRISIL IBX 50-50 Gilt Plus SDL Sep 2028 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL September 2028 Index Fund",
+    "fund_type": "Index Fund",
+    "fund_options": [
+      "Direct Plan Growth - Growth",
+      "Direct Plan IDCW- Payout",
+      "Direct Plan IDCW- Reinvestment",
+      "Direct Plan IDCW- Transfer",
+      "Regular Plan Growth - Growth",
+      "Regular Plan IDCW - Payout",
+      "Regular Plan IDCW - Reinvestment",
+      "Regular Plan IDCW - Transfer"
+    ],
+    "riskometer": "Moderate Risk",
+    "investment_objective": "The investment objective of the scheme is to replicate CRISIL IBX 50:50 Gilt Plus SDL Index – Sep 2028 by investing in Indian Government Bonds and SDLs, maturing on or before September 28, 2028, subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be realized, and the Scheme does not assure or guarantee any returns",
+    "asset_allocation": "1. # Indian Government Bonds and SDLs representing CRISIL IBX 50:50 Gilt Plus SDL Index – Sep 2028 - 95-100%\n2. Money Market Instruments - 0-5%",
+    "benchmark": "CRISIL IBX 50:50 Gilt Plus SDL Index – Sep 2028",
+    "fund_managers": [
+      "Mr. Dhawal Dalal"
+    ],
+    "annual_expense": {
+      "Regular": "0.39",
+      "Direct": "0.15"
+    },
+    "exit_load": "0.10 up to 30 days, Nil after 30 days",
+    "amfi_codes": [
+      "150807",
+      "150850",
+      "150850",
+      "150850",
+      "150848",
+      "150849",
+      "150849",
+      "150849"
+    ],
+    "isins": [
+      "INF754K01PV6",
+      "INF754K01PW4",
+      "INF754K01PX2",
+      "INF754K01PY0",
+      "INF754K01PR4",
+      "INF754K01PS2",
+      "INF754K01PT0",
+      "INF754K01PU8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth - Growth",
+    "Direct Plan IDCW- Payout",
+    "Direct Plan IDCW- Reinvestment",
+    "Direct Plan IDCW- Transfer",
+    "Regular Plan Growth - Growth",
+    "Regular Plan IDCW - Payout",
+    "Regular Plan IDCW - Reinvestment",
+    "Regular Plan IDCW - Transfer"
+  ],
+  "extracted_at": "2026-04-13T13:19:51.663716+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "The Wealth Company Gold ETF FOF",
+  "source_file": "SUMMARY_The Wealth Company Gold ETF FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "The Wealth Company Gold ETF FOF",
+    "fund_type": "An open ended fund of fund scheme investing in The Wealth Company Gold ETF",
+    "fund_options": [
+      "REGULAR Growth",
+      "REGULAR IDCW-PAYOUT",
+      "REGULAR IDCW-REINVESTMENT",
+      "DIRECT GROWTH",
+      "DIRECT IDCW-PAYOUT",
+      "DIRECT IDCW-REINVESTMENT"
+    ],
+    "riskometer": "High Risk",
+    "investment_objective": "To generate long-term Capital appreciation from a portfolio created by investing in units of The Wealth Company Gold ETF.There is no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Units of The Wealth Company Gold ETF - minimum 95% Debt and Money Market Instruments, Government Securities - 0%-5%",
+    "benchmark": "Domestic Price of Gold",
+    "fund_managers": "Mr. Niranjan Das",
+    "annual_expense": {
+      "Regular": "0.01",
+      "Direct": "0.01"
+    },
+    "exit_load": "No Exit Load",
+    "amfi_codes": [
+      "154133",
+      "154134",
+      "154134",
+      "154131",
+      "154132",
+      "154132"
+    ],
+    "isins": [
+      "INF2F0001388",
+      "INF2F0001396",
+      "INF2F0001404",
+      "INF2F0001412",
+      "INF2F0001420",
+      "INF2F0001438"
+    ]
+  },
+  "fund_options_inferred": [
+    "REGULAR Growth",
+    "REGULAR IDCW-PAYOUT",
+    "REGULAR IDCW-REINVESTMENT",
+    "DIRECT GROWTH",
+    "DIRECT IDCW-PAYOUT",
+    "DIRECT IDCW-REINVESTMENT"
+  ],
+  "extracted_at": "2026-04-13T16:19:31.076840+00:00"
+}

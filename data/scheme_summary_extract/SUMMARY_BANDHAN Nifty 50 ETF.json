@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Bandhan Nifty 50 ETF",
+  "source_file": "SUMMARY_BANDHAN Nifty 50 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Nifty 50 ETF",
+    "fund_type": "Exchange Traded Fund",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The fund seeks to provide returns that, before expenses, closely correspond to the total return of the underlying index,subject to tracking errors.",
+    "asset_allocation": "Securities of companies constituting Nifty 50, the Underlying Index - 95%-100%, Cash and Cash Equivalents, Money Market Instruments with residual maturity not exceeding 91 days, liquid and money market mutual fund schemes - 0%-5%",
+    "benchmark": "Nifty 50 TRI",
+    "fund_managers": "Mr. Abhishek Jain",
+    "annual_expense": {
+      "Direct": "0.0000"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "139839"
+    ],
+    "isins": [
+      "INF194KA1U07"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T12:44:52.285978+00:00"
+}

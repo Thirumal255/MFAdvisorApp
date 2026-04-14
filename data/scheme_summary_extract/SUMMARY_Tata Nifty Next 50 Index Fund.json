@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Tata Nifty Next 50 Index Fund",
+  "source_file": "SUMMARY_Tata Nifty Next 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Nifty Next 50 Index Fund",
+    "fund_type": "An open-ended scheme replicating/ tracking Nifty Next 50 Index",
+    "fund_options": [
+      "Regular Plan IDCW Reinvestment",
+      "Regular Plan IDCW Payout",
+      "Direct Plan IDCW Reinvestment",
+      "Direct Plan IDCW Payout",
+      "Regular Plan Growth",
+      "Direct Plan Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "Passive investment in equity and equity related securities replicating the composition of the Nifty Next 50 Index, subject to tracking errors. There is no assurance or guarantee that the investment objective of the Scheme will be achieved. The scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Minimum 95% allocation is to the constituents of index and maximum 5% to Debt / Money Market Instruments including units of Mutual Funds as per the asset allocation section specified in Annexure 1",
+    "benchmark": "Nifty Next 50 Index (TRI)",
+    "fund_managers": "Nitin Sharma, Rakesh Prajapati",
+    "annual_expense": {
+      "Regular": "1.07",
+      "Direct": "0.22"
+    },
+    "exit_load": "0.25",
+    "amfi_codes": [
+      "153855",
+      "153856",
+      "153857",
+      "153858",
+      "153853",
+      "153854"
+    ],
+    "isins": [
+      "INF277KA1EH5",
+      "INF277KA1EI3",
+      "INF277KA1EK9",
+      "INF277KA1EL7",
+      "INF277KA1EG7",
+      "INF277KA1EJ1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan IDCW Reinvestment",
+    "Regular Plan IDCW Payout",
+    "Direct Plan IDCW Reinvestment",
+    "Direct Plan IDCW Payout",
+    "Regular Plan Growth",
+    "Direct Plan Growth"
+  ],
+  "extracted_at": "2026-04-13T16:16:00.879300+00:00"
+}

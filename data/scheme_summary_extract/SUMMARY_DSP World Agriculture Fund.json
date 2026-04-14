@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "DSP World Agriculture Fund",
+  "source_file": "SUMMARY_DSP World Agriculture Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP World Agriculture Fund",
+    "fund_type": "An open ended fund of fund scheme investing in BlackRock Global Funds – Nutrition Fund",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - IDCW - Reinvest",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW - Reinvest"
+    ],
+    "isins": [
+      "INF740K01OE4",
+      "INF740K01OF1",
+      "INF740K01OG9",
+      "INF740K01EK2",
+      "INF740K01EL0",
+      "INF740K01EM8"
+    ],
+    "amfi_codes": [
+      "119271",
+      "119272",
+      "119272",
+      "115882",
+      "115881",
+      "115881"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the Scheme is to seek capital appreciation by investing predominantly in units of BlackRock Global Funds Nutrition Fund (BGF - NF). The Scheme may, at the discretion of the Investment Manager, also invest in the units of other similar overseas mutual fund schemes, which may constitute a significant part of its corpus. The Scheme may also invest a certain portion of its corpus in money market securities and/or money market/liquid schemes of DSP Mutual Fund, in order to meet liquidity requirements from time to time. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "1. Units of BGF – NF or other similar overseas mutual fund scheme(s): 95% to 100% 2. Money market securities and/or units of money market/liquid schemes of DSP Mutual Fund: 0% to 5%; For detailed asset allocation pattern, please refer to the Scheme Information Document",
+    "benchmark": "MSCI ACWI Net Total Return",
+    "fund_managers": "Mr. Jay Kothari",
+    "annual_expense": {
+      "Regular": "2.21",
+      "Direct": "1.46"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - IDCW - Reinvest",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW - Reinvest"
+  ],
+  "extracted_at": "2026-04-13T13:17:08.201458+00:00"
+}

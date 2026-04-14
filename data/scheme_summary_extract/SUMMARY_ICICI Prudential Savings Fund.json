@@ -1,0 +1,87 @@
+{
+  "parent_scheme_name": "ICICI Prudential Savings Fund",
+  "source_file": "SUMMARY_ICICI Prudential Savings Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Savings Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Savings Fund - Direct Plan - Growth",
+      "ICICI Prudential Savings Fund - Direct Plan - IDCW - Daily",
+      "ICICI Prudential Savings Fund - Direct Plan - IDCW - Fortnightly",
+      "ICICI Prudential Savings Fund - Direct Plan - IDCW - Monthly",
+      "ICICI Prudential Savings Fund - Direct Plan - IDCW - Quarterly",
+      "ICICI Prudential Savings Fund - Direct Plan - IDCW - Weekly",
+      "ICICI Prudential Savings Fund - Direct Plan - IDCW Others",
+      "ICICI Prudential Savings Fund - Growth",
+      "ICICI Prudential Savings Fund - IDCW - Daily",
+      "ICICI Prudential Savings Fund - IDCW - Fortnightly",
+      "ICICI Prudential Savings Fund - IDCW - Monthly",
+      "ICICI Prudential Savings Fund - IDCW - Quarterly",
+      "ICICI Prudential Savings Fund - IDCW - Weekly",
+      "ICICI Prudential Savings Fund - IDCW Others"
+    ],
+    "isins": [
+      "INF109K01O82",
+      "INF109K01O66",
+      "INF109K016Y3",
+      "INF109K018Y9",
+      "INF109K010Z3",
+      "INF109K01P08",
+      "INF109K01O90",
+      "INF109K01746",
+      "INF109K01738",
+      "INF109K012Z9",
+      "INF109K014Z5",
+      "INF109K016Z0",
+      "INF109K01JO1",
+      "INF109K01WO4"
+    ],
+    "amfi_codes": [
+      "120398",
+      "120397",
+      "122904",
+      "122651",
+      "122982",
+      "120396",
+      "120399",
+      "101619",
+      "101618",
+      "122748",
+      "122531",
+      "122995",
+      "101617",
+      "115511"
+    ],
+    "riskometer": "Low To Moderate\nAs on October 31, 2025",
+    "investment_objective": "To generate income through investments in a range of debt and money market instruments while maintaining the \noptimum balance of yield, safety and liquidity.\nHowever, there can be no assurance or guarantee that the investment objective of the Scheme would be \nachieved.",
+    "asset_allocation": "Debt and Money Market Instruments = 0% - 100%",
+    "benchmark": "NIFTY Low Duration Debt Index A-I",
+    "fund_managers": [
+      "Darshil Dedia",
+      "Nikhil Kabra"
+    ],
+    "annual_expense": {
+      "Regular": "0.55",
+      "Direct": "0.42"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Savings Fund - Direct Plan - Growth",
+    "ICICI Prudential Savings Fund - Direct Plan - IDCW - Daily",
+    "ICICI Prudential Savings Fund - Direct Plan - IDCW - Fortnightly",
+    "ICICI Prudential Savings Fund - Direct Plan - IDCW - Monthly",
+    "ICICI Prudential Savings Fund - Direct Plan - IDCW - Quarterly",
+    "ICICI Prudential Savings Fund - Direct Plan - IDCW - Weekly",
+    "ICICI Prudential Savings Fund - Direct Plan - IDCW Others",
+    "ICICI Prudential Savings Fund - Growth",
+    "ICICI Prudential Savings Fund - IDCW - Daily",
+    "ICICI Prudential Savings Fund - IDCW - Fortnightly",
+    "ICICI Prudential Savings Fund - IDCW - Monthly",
+    "ICICI Prudential Savings Fund - IDCW - Quarterly",
+    "ICICI Prudential Savings Fund - IDCW - Weekly",
+    "ICICI Prudential Savings Fund - IDCW Others"
+  ],
+  "extracted_at": "2026-04-13T14:21:24.430351+00:00"
+}

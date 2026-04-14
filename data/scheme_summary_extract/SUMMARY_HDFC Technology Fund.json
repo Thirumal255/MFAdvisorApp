@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "HDFC Technology Fund",
+  "source_file": "SUMMARY_HDFC Technology Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Technology Fund",
+    "fund_type": "An open-ended equity scheme investing in Technology & technology related companies.",
+    "fund_options": [
+      "Direct Plan - Growth Option",
+      "Direct Plan - IDCW Payout Option",
+      "Direct Plan - IDCW Re-investment Option",
+      "Regular Plan - Growth Option",
+      "Regular Plan - IDCW Payout Option",
+      "Regular Plan - IDCW Re-investment Option"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "To provide long-term capital appreciation by investing predominantly in equity and equity related securities of Technology &technology related companies There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related instruments of Technology & technology related companies # : 80%- 100%; Equity and equity relatedinstruments of companies other than above: 0% - 20%; Units issued by InvITs: 0% - 10%; Debt Securities, money marketinstruments and Fixed Income Derivatives: 0% - 20% Units of Mutual Fund: 0% - 20% #Technology & technology relatedcompanies include • IT services, software, consulting, and outsourcing companies • IT products and hardware includingcomputers, electronic components etc • Internet companies and internet enabled services including Fintech, e-retail/e-commerce, technology platforms, IoT (Internet of Things) and other digital service providers • Infrastructure providers andTelecommunications, including networking, wireless, and wire-line services, equipment, software and support • Media andinformation services, including the distribution of information and content providers • Data and data solutions providers. Fordetailed asset allocation, refer Scheme Information Document (SID) available on the website.",
+    "benchmark": "BSE Teck Index (TRI)",
+    "fund_managers": "FM 1 - Mr. Balakumar B, FM 2 - Mr. Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "2.13",
+      "Direct": "0.93"
+    },
+    "exit_load": "In respect of each purchase/switch-in of units, an Exit load of 1% is payable if units are redeemed /switched-out within 30 daysfrom the date of allotment. No Exit Load is payable if units are redeemed / switched out after 30 days from the date of allotment.",
+    "amfi_codes": [
+      "152060",
+      null,
+      null,
+      null,
+      "152057",
+      null
+    ],
+    "isins": [
+      "INF179KC1HI3",
+      "INF179KC1HJ1",
+      "INF179KC1HK9",
+      "INF179KC1HF9",
+      "INF179KC1HG7",
+      "INF179KC1HH5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth Option",
+    "Direct Plan - IDCW Payout Option",
+    "Direct Plan - IDCW Re-investment Option",
+    "Regular Plan - Growth Option",
+    "Regular Plan - IDCW Payout Option",
+    "Regular Plan - IDCW Re-investment Option"
+  ],
+  "extracted_at": "2026-04-13T13:54:46.281369+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Bandhan Nifty 500 Momentum 50 Index Fund",
+  "source_file": "SUMMARY_Bandhan Nifty 500 Momentum 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Nifty 500 Momentum 50 Index Fund",
+    "fund_type": "An open ended scheme tracking Nifty 500 Momentum 50 Index",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Regular Plan- Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to replicate the Nifty 500 Momentum 50 Index by investing in securities of the Nifty 500 Momentum 50 Index in the same proportion / weightage with an aim to provide returns before expenses that tracks the total return of Nifty 500 Momentum 50 Index, subject to tracking errors.",
+    "asset_allocation": "Securities belonging to the Nifty 500 Momentum 50 Index - 95%-100%, Debt & Money Market instruments - 0%-5%",
+    "benchmark": "Nifty 500 Momentum 50 TRI",
+    "fund_managers": "Abhishek Jain",
+    "annual_expense": {
+      "Regular": "1.01",
+      "Direct": "0.36"
+    },
+    "exit_load": "0.25% if redeemed on or before 15 days from the allotment date. Nil if redeemed after 15 days from allotment date.",
+    "amfi_codes": [
+      "153003",
+      "153002"
+    ],
+    "isins": [
+      "INF194KB1IY0",
+      "INF194KB1IX2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Regular Plan- Growth"
+  ],
+  "extracted_at": "2026-04-13T12:45:09.854413+00:00"
+}

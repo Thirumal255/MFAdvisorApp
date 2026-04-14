@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Mirae Asset Small Cap Fund",
+  "source_file": "SUMMARY_Mirae Asset Small Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Small Cap Fund",
+    "fund_type": "An open-ended equity scheme predominantly investing in small cap stocks",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular PlanIDCW - Payout",
+      "Regular PlanIDCW- Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate capital appreciation by investing predominantly in small cap stocks.From time to time, the fund manager will also seek participation in other equity and equity related securities to achieveoptimal portfolio construction. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Equity and Equity related securities* of Smallcap Companies- 65-100% , Equity & Equity Related Securities of Companiesother than above - 0-35%, Debt and Money Market Instruments - 0 - 35%, Units issued by InvITs- 0-10%",
+    "benchmark": "Nifty Small Cap 250 Total Return Index",
+    "fund_managers": "Mr. Varun Goel",
+    "annual_expense": {
+      "Regular": "1.89",
+      "Direct": "0.43"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153196",
+      "153197",
+      "153198",
+      "153199"
+    ],
+    "isins": [
+      "INF769K01NJ4",
+      "INF769K01NL0",
+      "INF769K01NK2",
+      "INF769K01NG0",
+      "INF769K01NI6",
+      "INF769K01NH8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular PlanIDCW - Payout",
+    "Regular PlanIDCW- Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-13T15:14:47.729629+00:00"
+}

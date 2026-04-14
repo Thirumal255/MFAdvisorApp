@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Invesco India Smallcap Fund",
+  "source_file": "SUMMARY_Invesco India Smallcap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India Smallcap Fund",
+    "fund_type": "Small Cap Fund - An open-ended equity scheme predominantly investing in small cap stocks",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate capital appreciation by investing predominantly in stocks of Smallcap companies. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Equity and Equity Related Instruments of Smallcap companies: Min. 65% Max. 100% Equity and Equity Related Instruments of companies other than Smallcap companies: Min. 0% and Max. 35%. Debt and Money Market Instruments: Min. 0% and Max. 35%.",
+    "benchmark": "BSE 250 Smallcap TRI",
+    "fund_managers": "FM 1 - Taher Badshah, FM 2 - Aditya Khemani",
+    "annual_expense": {
+      "Regular": "1.94",
+      "Direct": "0.56"
+    },
+    "exit_load": "If upto 10% of Units allotted are redeemed / switched-out within 1 year from the date of allotment - Nil . For any redemption /switchout in excess of 10% of units allotted within one year from the date of allotment - 1%. If units are redeemed or switched-out after 1 year from the date of allotment - Nil .",
+    "amfi_codes": [
+      "145139",
+      "145140",
+      "145140",
+      "145137",
+      "145138",
+      "145138"
+    ],
+    "isins": [
+      "INF205K011T7",
+      "INF205K010T9",
+      "INF205K014T1",
+      "INF205K013T3",
+      "INF205K012T5",
+      "INF205K015T8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T14:29:35.303008+00:00"
+}

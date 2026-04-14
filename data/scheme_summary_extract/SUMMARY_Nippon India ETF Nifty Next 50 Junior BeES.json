@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Nippon India ETF Nifty Next 50 Junior BeES",
+  "source_file": "SUMMARY_Nippon India ETF Nifty Next 50 Junior BeES.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India ETF Nifty Next 50 Junior BeES",
+    "fund_type": "An Open Ended Index Exchange Traded Fund",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of Nippon India ETF Nifty Next 50 Junior BeES is to provide returns that, before expenses, closely correspond to the returns of Securities as represented by Nifty Next 50 Index. There can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities covered by Nifty Next 50 Index - 95% to 100%, Money Market Instruments -0% to 5%. (with maturity not exceeding 91 days), including Tri-party repo on G-sec or T-bills, cash & cash equivalents",
+    "benchmark": "Nifty Next 50 TRI",
+    "fund_managers": "Himanshu Mange",
+    "annual_expense": {
+      "Direct": "0.1700"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "140085"
+    ],
+    "isins": [
+      "INF732E01045"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:26:03.425948+00:00"
+}

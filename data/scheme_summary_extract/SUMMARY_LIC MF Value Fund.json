@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "LIC MF Value Fund",
+  "source_file": "SUMMARY_LIC MF Value Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "LIC MF Value Fund",
+    "fund_type": "An open ended equity scheme following value investment strategy",
+    "fund_options": [
+      "Direct Plan-IDCW-Payout",
+      "Direct Plan-IDCW-Reinvestment",
+      "Regular Plan-IDCW-Payout",
+      "Regular Plan-IDCW-Reinvestment",
+      "Direct Plan-Growth",
+      "Regular Plan-Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Investment Objective of the Scheme is to generate long-term capital appreciation along with regular income by investing predominantly in equity and equity related instruments by following value investing strategy. There is no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "Equity and Equity related Instruments-65% to 100% Debt and Money Market Instruments including Tri party Repo- 0%-35% Units issued by Infrastructure Investment Trusts (InvITs)- 0%-10% Please refer Scheme Information Document for complete details.",
+    "benchmark": "NIFTY 500 - TRI",
+    "fund_managers": "FM 1: Mr. Mahesh Bendre; FM 2: Mr. Sumit Bhatnagar",
+    "annual_expense": {
+      "Regular": "2.48",
+      "Direct": "1.35"
+    },
+    "exit_load": "Nil, If units of the Scheme are redeemed or switched out up to 12% of the units (the limit) within 12 months from the date of allotment. 1% of the applicable NAV, If units of the scheme are redeemed or switched out in excess of the limit within 12 months from the date of allotment. Nil, If units of scheme are redeemed or switched out after 12 months from the date of allotment.",
+    "amfi_codes": [
+      "152015",
+      "152018",
+      "152017",
+      "152016"
+    ],
+    "isins": [
+      "INF397L01KR1",
+      "INF397L01KU5",
+      "INF397L01KN0",
+      "INF397L01KQ3",
+      "INF397L01KS9",
+      "INF397L01KO8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan-IDCW-Payout",
+    "Direct Plan-IDCW-Reinvestment",
+    "Regular Plan-IDCW-Payout",
+    "Regular Plan-IDCW-Reinvestment",
+    "Direct Plan-Growth",
+    "Regular Plan-Growth"
+  ],
+  "extracted_at": "2026-04-13T14:59:29.435466+00:00"
+}

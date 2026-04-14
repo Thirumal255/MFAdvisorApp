@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Union Low Duration Fund",
+  "source_file": "SUMMARY_Union Low Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Union Low Duration Fund",
+    "fund_type": "An open-ended low duration debt scheme investing in instruments such that the Macaulay duration of the portfolio is between 6months to 12 months. Please refer Page No. 22 of the SID for concept of Macaulay Duration. A relatively high interest rate riskand moderate credit risk.",
+    "fund_options": [
+      "Regular Plan - Growth Option",
+      "Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal Option",
+      "Regular Plan - Payout of Income Distribution cum Capital Withdrawal Option",
+      "Regular Plan - Transfer of Income Distribution cum Capital Withdrawal Option",
+      "Direct Plan - Growth Option",
+      "Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal Option",
+      "Direct Plan - Payout of Income Distribution cum Capital Withdrawal Option",
+      "Direct Plan - Transfer of Income Distribution cum Capital Withdrawal Option"
+    ],
+    "isins": [
+      "INF582M01LU8",
+      "INF582M01LO1",
+      "INF582M01LN3",
+      "INF582M01LP8",
+      "INF582M01LQ6",
+      "INF582M01LS2",
+      "INF582M01LR4",
+      "INF582M01LT0"
+    ],
+    "amfi_codes": [
+      "153652",
+      "153653",
+      "153652",
+      "153652",
+      "153654",
+      "153655",
+      "153654",
+      "153654"
+    ],
+    "riskometer": "Low to Moderate Risk",
+    "investment_objective": "The Investment objective of the scheme is to provide reasonable returns and liquidity by investing in a range of debt and money market instruments while maintaining the balance of safety, liquidity and returns such that the Macaulay Duration of the portfolio is between 6 months to 12 months.There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Debt and Money Market Instruments including Government Securities* : 0%-100% of total assets *Debt instruments shall be deemed to include securitised debt and investment in securitised debts shall be upto 50% of the net assets of the Scheme. Please refer the Scheme Information Document for more details.",
+    "benchmark": "Nifty Low Duration Debt Index A-I",
+    "fund_managers": "FM 1 - Mr. Anindya Sarkar, FM 2 - Mr. Devesh Thacker",
+    "annual_expense": {
+      "Regular": "0.97",
+      "Direct": "0.25"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth Option",
+    "Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal Option",
+    "Regular Plan - Payout of Income Distribution cum Capital Withdrawal Option",
+    "Regular Plan - Transfer of Income Distribution cum Capital Withdrawal Option",
+    "Direct Plan - Growth Option",
+    "Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal Option",
+    "Direct Plan - Payout of Income Distribution cum Capital Withdrawal Option",
+    "Direct Plan - Transfer of Income Distribution cum Capital Withdrawal Option"
+  ],
+  "extracted_at": "2026-04-13T16:25:21.635135+00:00"
+}

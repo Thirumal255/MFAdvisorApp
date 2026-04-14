@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "ICICI Prudential Infrastructure Fund",
+  "source_file": "SUMMARY_ICICI Prudential Infrastructure Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Infrastructure Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Growth",
+      "IDCW"
+    ],
+    "isins": [
+      "INF109K018M4",
+      "INF109K016M8",
+      "INF109K017M6",
+      "INF109K01AV5",
+      "INF109K01FB6",
+      "INF109K01AT9"
+    ],
+    "amfi_codes": [
+      "120621",
+      "120622",
+      "103149",
+      "103150"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate capital appreciation and income distribution to unit holders by investing • Equity & Equity related securities of companies engaged in infrastucture theme = 80%-100% • Other Equity and Equity Related instruments = 0%-20% • Units of INVITs = 0%-10%\n• Debt & Money market instruments = 0%-20%",
+    "asset_allocation": "Equity & Equity related securities of companies engaged in infrastucture theme = 80%-100%, Other Equity and Equity Related instruments = 0%-20%, Units of INVITs = 0%-10%, Debt & Money market instruments = 0%-20%",
+    "benchmark": "Nifty 50 TRI",
+    "fund_managers": [
+      "Ihab Dalwani",
+      "Sharmila D'mello"
+    ],
+    "annual_expense": {
+      "Regular": "1.85",
+      "Direct": "1.15"
+    },
+    "exit_load": "1% of applicable Net Asset Value – If units purchased or switched in from another scheme of the Fund are redeemed or switched out within 15 days from the date of allotment. Nil - If units purchased or switched in from another scheme of the Fund are redeemed or switched out after 15 days from the date of allotment."
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Growth",
+    "IDCW"
+  ],
+  "extracted_at": "2026-04-13T14:13:05.742698+00:00"
+}

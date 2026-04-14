@@ -1,0 +1,39 @@
+{
+  "parent_scheme_name": "Capitalmind Liquid Fund",
+  "source_file": "SUMMARY_Capitalmind Liquid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Capitalmind Liquid Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Capitalmind Liquid Fund Direct-Growth",
+      "Capitalmind Liquid Fund Regular-Growth"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "To generate regular Income over the short-term investment horizon by investment in debt and money market instruments with maturity upto 91 days. The Scheme does not guarantee or assure any returns. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Debt & Money Market instruments with residual maturity up to 91 days  0% to 100%",
+    "benchmark": "Nifty Liquid Index A-I TRI",
+    "fund_managers": [
+      "Mr. Prateek Jain",
+      "Mr. Anoop Vijaykumar"
+    ],
+    "annual_expense": {
+      "Regular": "2.00",
+      "Direct": "2.00"
+    },
+    "exit_load": "Day 1- 0.0070%, Day 2- 0.0065%, Day 3- 0.0060%, Day 4- 0.0055%, Day 5- 0.0050%, Day 6- 0.0045%, Day 7 onwards- Nil",
+    "amfi_codes": [
+      "154011",
+      "154010"
+    ],
+    "isins": [
+      "INF226401034",
+      "INF226401042"
+    ]
+  },
+  "fund_options_inferred": [
+    "Capitalmind Liquid Fund Direct-Growth",
+    "Capitalmind Liquid Fund Regular-Growth"
+  ],
+  "extracted_at": "2026-04-13T13:04:52.901255+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Nippon India Nifty 500 Equal Weight Index Fund",
+  "source_file": "SUMMARY_Nippon India Nifty 500 Equal Weight Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India Nifty 500 Equal Weight Index Fund",
+    "fund_type": "An open-ended scheme replicating/tracking Nifty 500 Equal Weight Index",
+    "fund_options": [
+      "DIRECT GROWTH PLAN GROWTH",
+      "GROWTH PLAN GROWTH",
+      "DIRECT IDCW PLAN PAYOUT",
+      "DIRECT IDCW PLAN REINVESTMENT",
+      "IDCW PLAN PAYOUT",
+      "IDCW PLAN REINVESTMENT"
+    ],
+    "isins": [
+      "INF204KC1DA8",
+      "INF204KC1CX2",
+      "INF204KC1DB6",
+      "INF204KC1DC4",
+      "INF204KC1CY0",
+      "INF204KC1CZ7"
+    ],
+    "amfi_codes": [
+      "152842",
+      "152840",
+      "152839",
+      null,
+      null,
+      null
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns that commensurate to the total returns of the securities as represented by the Nifty 500 Equal Weight Index before expenses, subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities constituting Nifty 500 Equal Weight Index - 95%- 100%, Cash & cash equivalents and Money Market instruments and/or Schemes which invest in the money market securities or Liquid Schemes",
+    "benchmark": "Nifty 500 Equal Weight TRI",
+    "fund_managers": "Jitendra Tolani",
+    "annual_expense": {
+      "Regular": "0.94",
+      "Direct": "0.35"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "DIRECT GROWTH PLAN GROWTH",
+    "GROWTH PLAN GROWTH",
+    "DIRECT IDCW PLAN PAYOUT",
+    "DIRECT IDCW PLAN REINVESTMENT",
+    "IDCW PLAN PAYOUT",
+    "IDCW PLAN REINVESTMENT"
+  ],
+  "extracted_at": "2026-04-13T15:30:34.580872+00:00"
+}

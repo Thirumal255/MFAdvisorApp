@@ -1,0 +1,64 @@
+{
+  "parent_scheme_name": "Axis Banking & PSU Debt Fund",
+  "source_file": "SUMMARY_Axis Banking & PSU Debt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Banking & PSU Debt Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Regular Daily IDCW",
+      "Direct Growth",
+      "Direct Monthly IDCW",
+      "Regular Monthly IDCW",
+      "Direct Daily IDCW",
+      "Direct Weekly IDCW",
+      "Regular Growth",
+      "Regular Weekly IDCW"
+    ],
+    "isins": [
+      "INF846K01CU0",
+      "INF846K01CR6",
+      "INF846K01CT2",
+      "INF846K01CV8",
+      "INF846K01CS4",
+      "INF846K01CB0",
+      "INF846K01CF1",
+      "INF846K01CD6",
+      "INF846K01CW6",
+      "INF846K01CC8",
+      "INF846K01CG9",
+      "INF846K01CE4"
+    ],
+    "amfi_codes": [
+      "120437",
+      "120438",
+      "120439",
+      "120436",
+      "117447",
+      "117446",
+      "117449",
+      "117448"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate stable returns by investing predominantly in debt & money market instruments issued by Banks, Public Sector Units (PSUs) & Public Financial Institutions (PFIs). The scheme shall endeavor to generate optimum returns with low credit risk.",
+    "asset_allocation": "Debt & Money Market Instruments issued by Banks, Public Financial Institutions (PFIs) and Public Sector Undertakings (PSUs) - (80%-100%), Debt (including government securities) and Money Market Instruments issued by entities other than Banks, PFIs and PSUs - (0%-20%)",
+    "benchmark": "Nifty Banking & PSU Debt Index A-II",
+    "fund_managers": "Mr. Aditya Pagaria, Mr. Hardik Shah",
+    "annual_expense": {
+      "Regular": "0.61",
+      "Direct": "0.33"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Daily IDCW",
+    "Direct Growth",
+    "Direct Monthly IDCW",
+    "Regular Monthly IDCW",
+    "Direct Daily IDCW",
+    "Direct Weekly IDCW",
+    "Regular Growth",
+    "Regular Weekly IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:26:54.831769+00:00"
+}

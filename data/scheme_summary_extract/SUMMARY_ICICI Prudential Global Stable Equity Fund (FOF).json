@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "ICICI Prudential Global Stable Equity Fund (FOF)",
+  "source_file": "SUMMARY_ICICI Prudential Global Stable Equity Fund (FOF).pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Global Stable Equity Fund (FOF)",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Growth",
+      "IDCW"
+    ],
+    "riskometer": "High",
+    "investment_objective": "ICICI Prudential Global Stable Equity Fund (FOF) (the Scheme) is an open-ended fund of funds scheme that seeks to provide adequate returns by investing in the units of overseas mutual fund schemes, which have the mandate to invest globally. Accordingly, the Scheme intends to invest in the units/shares of Nordea 1 – Global Stable Equity Fund – Unhedged (N1 – GSEF - U) and/or other overseas mutual funds. The fund manager may also invest in one or more other overseas mutual fund schemes, with similar investment policy/fundamental attributes and risk profile and is in accordance with the investment strategy of the Scheme. The Scheme may also invest a certain portion of its corpus in domestic money market securities and/or money market/liquid schemes of domestic mutual funds including that of ICICI Prudential Mutual Fund, in order to meet liquidity requirements from time to time. However, there can be no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "• Units/shares  of  Nordea  1 –Global Stable   Equity   Fund   and/or   other overseas mutual fund schemes* =  95%-100%\n• Cash, domestic money market securities and/or money market/liquid  schemes  of  domestic mutual  funds  including  that  of  ICICI Prudential Mutual Fund = 0%-5%",
+    "benchmark": "MSCI World Net Return Index",
+    "fund_managers": [
+      "Rohan Maru",
+      "Massomi Jhurmarvala"
+    ],
+    "annual_expense": {
+      "Regular": "1.51",
+      "Direct": "1.05"
+    },
+    "exit_load": "1 % of applicable Net Asset Value If the amount sought to be redeemed or switch out within 1 months from allotment. Nil If the amount sought to be redeemed or switched out more than 1 months.",
+    "amfi_codes": [
+      "P8344",
+      "P8345",
+      "P2144",
+      "P2145"
+    ],
+    "isins": [
+      "INF109KA1CE0",
+      "INF109KA1CG5",
+      "INF109KA1CF7",
+      "INF109KA1CB6",
+      "INF109KA1CD2",
+      "INF109KA1CC4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Growth",
+    "IDCW"
+  ],
+  "extracted_at": "2026-04-13T14:12:23.055028+00:00"
+}

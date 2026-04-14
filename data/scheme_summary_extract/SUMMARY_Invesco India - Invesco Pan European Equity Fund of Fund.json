@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Invesco India - Invesco Pan European Equity Fund of Fund",
+  "source_file": "SUMMARY_Invesco India - Invesco Pan European Equity Fund of Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India - Invesco Pan European Equity Fund of Fund",
+    "fund_type": "An open ended fund of fund scheme investing in Invesco Pan European Equity Fund",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate capital appreciation by investing predominantly in units of Invesco Pan European Equity Fund, an overseas equity fund which invests primarily in equity securities of European companies with an emphasis on larger companies. The Scheme may, at the discretion of Fund Manager, also invest in units of other similar Overseas Mutual Funds with similar objectives, strategy and attributes which may constitute a significant portion of its net assets. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Shares of Invesco Pan European Equity Fund or other similar overseas mutual funds: Min 95% Max 100% Debt and money market securities (including government and corporate debt) / Units of debt and liquid schemes of Invesco Mutual Fund: Min 0% Max 5%",
+    "benchmark": "MSCI Europe Index - Net Total Return",
+    "fund_managers": "Mr. Sagar Gandhi",
+    "annual_expense": {
+      "Regular": "0.9600",
+      "Direct": "0.6100"
+    },
+    "exit_load": "If upto 10% of Units allotted are redeemed / switched-out within 1 year from the date of allotment -Nil. For any redemption /switchout in excess of 10% of units allotted within one year from the date of allotment - 1%. If units are redeemed or switched-out after 1 year from the date of allotment - Nil.",
+    "amfi_codes": [
+      "126351",
+      "126350",
+      "126350",
+      "126353",
+      "126352",
+      "126352"
+    ],
+    "isins": [
+      "INF205K01ZZ9",
+      "INF205K01A08",
+      "INF205K01A16",
+      "INF205K01A24",
+      "INF205K01A32",
+      "INF205K01A40"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T14:23:51.582685+00:00"
+}

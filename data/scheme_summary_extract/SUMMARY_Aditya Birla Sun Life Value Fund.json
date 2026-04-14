@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Aditya Birla Sun Life Value Fund",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Value Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Aditya Birla Sun Life Value Fund",
+    "fund_type": "An open ended equity scheme following a value investment strategy",
+    "fund_options": [
+      "Direct - IDCW",
+      "Growth - Direct Plan",
+      "Regular - IDCW",
+      "Growth Option"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme seeks to generate consistent long-term capital appreciation by investing predominantly in equity and equity related securities by following value investing strategy.",
+    "asset_allocation": "Instruments - Risk Profile - Range\nEquity and Equity linked Instruments* - Medium to High - 85%-100%\nFixed Income Securities (including Money market instruments)** - Low to Medium - 0%-15%\n* Equity and Equity linked instruments include convertible debentures, equity warrants, convertible preference shares, etc.\n** Investment in Securitised Debt papers may be made upto 15%.",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Mr. Kunal Sangoi",
+    "annual_expense": {
+      "Regular": "1.89",
+      "Direct": "1.02"
+    },
+    "exit_load": "For redemption /switch-out of units on or before 90 days from the date of allotment: 1.00% of applicable NAV. For redemption/ switch-out of units after 90 days from the date of allotment: Nil.",
+    "amfi_codes": [
+      "119658",
+      "119659",
+      "108166",
+      "108167"
+    ],
+    "isins": [
+      "INF209K01WP9",
+      "INF209K01WQ7",
+      "INF209K01LE6",
+      "INF209K01LF3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct - IDCW",
+    "Growth - Direct Plan",
+    "Regular - IDCW",
+    "Growth Option"
+  ],
+  "extracted_at": "2026-04-13T12:25:22.667239+00:00"
+}

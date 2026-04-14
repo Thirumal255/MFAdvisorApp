@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Invesco India ELSS Tax Saver Fund",
+  "source_file": "SUMMARY_Invesco India ELSS Tax Saver Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India ELSS Tax Saver Fund",
+    "fund_type": "An open ended equity linked saving scheme with a statutory lock in of 3 years and tax beneﬁt",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long term capital appreciation from a diversiﬁed portfolio of predominantly equity and equity-relatedinstruments. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Equity and Equity Related Instruments: Min. 80% Max. 100% Money Market Instruments: Min 0% Max. 20%",
+    "benchmark": "BSE 500 TRI",
+    "fund_managers": "Mr. Depesh Kashyap",
+    "annual_expense": {
+      "Regular": "1.97",
+      "Direct": "0.76"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "104636",
+      "104635",
+      "120416",
+      "120417"
+    ],
+    "isins": [
+      "INF205K01270",
+      "INF205K01296",
+      "INF205K01NT8",
+      "INF205K01NR2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T14:25:08.979361+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis Gold Fund",
+  "source_file": "SUMMARY_Axis Gold Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Gold Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "High",
+    "investment_objective": "The investment objective of the Scheme is to generate returns that are in line with the performance of gold.",
+    "asset_allocation": "Units of Axis Gold ETF - (95%-100%), Money Market Instruments - (0%-5%)",
+    "benchmark": "Domestic Price of Gold",
+    "fund_managers": "Mr. Aditya Pagaria , Mr. Pratik Tibrewal",
+    "annual_expense": {
+      "Regular": "0.5000",
+      "Direct": "0.1700"
+    },
+    "exit_load": "1% is payable if Units are redeemed / switched-out within 15 days from the date of allotment",
+    "amfi_codes": [
+      "120473",
+      "120472",
+      "115897",
+      "115898"
+    ],
+    "isins": [
+      "INF846K01DS2",
+      "INF846K01DQ6",
+      "INF846K01AL3",
+      "INF846K01AM1",
+      "INF846K01DR4",
+      "INF846K01AN9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T12:30:58.552802+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Axis CRISIL IBX50:50 Gilt Plus SDL June 2028 Index Fund",
+  "source_file": "SUMMARY_Axis CRISIL IBX 50-50 Gilt Plus SDL June 2028 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis CRISIL IBX50:50 Gilt Plus SDL June 2028 Index Fund",
+    "fund_type": "An open-ended Target Maturity index fund investing in constituents of CRISIL IBX 50:50 Gilt Plus SDL Index – June 2028.Relatively High interest rate risk and Relatively Low Credit Risk.",
+    "fund_options": [
+      "Direct IDCW-Payout",
+      "Direct IDCW-Reinvestment",
+      "Direct Growth",
+      "Regular IDCW-Payout",
+      "Regular IDCW-Reinvestment",
+      "RegularGrowth"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns corresponding to the total returns of the securities asrepresented by the CRISIL IBX 50:50 Gilt Plus SDL Index – June 2028 before expenses, subject to tracking errors. However, therecan be no assurance or guarantee that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Debt Instruments comprising CRISIL IBX 50:50 Gilt Plus SDL Index – June 2028 - 95% to 100%; Debt & Money MarketInstruments - 0% to 5%",
+    "benchmark": "CRISIL IBX 50:50 Gilt Plus SDL Index – June 2028",
+    "fund_managers": "Mr. Hardik Shah",
+    "annual_expense": {
+      "Regular": "0.37",
+      "Direct": "0.20"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "151300",
+      "151299",
+      "151297",
+      "151298"
+    ],
+    "isins": [
+      "INF846K010N7",
+      "INF846K011N5",
+      "INF846K013N1",
+      "INF846K014N9",
+      "INF846K012N3",
+      "INF846K015N6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW-Payout",
+    "Direct IDCW-Reinvestment",
+    "Direct Growth",
+    "Regular IDCW-Payout",
+    "Regular IDCW-Reinvestment",
+    "RegularGrowth"
+  ],
+  "extracted_at": "2026-04-13T12:28:08.239403+00:00"
+}

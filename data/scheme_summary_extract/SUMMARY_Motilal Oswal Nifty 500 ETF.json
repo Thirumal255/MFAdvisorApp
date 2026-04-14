@@ -1,0 +1,42 @@
+{
+  "parent_scheme_name": "Motilal Oswal Nifty 500 ETF",
+  "source_file": "SUMMARY_Motilal Oswal Nifty 500 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal Nifty 500 ETF",
+    "fund_type": "An open ended scheme replicating / tracking the Nifty 500 Total Return Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, correspond to the total returns of the securities as represented by the Nifty 500 Total Return Index, subject to tracking error. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Constituents of Nifty 500 Index Min 95% Max 100% Units of Liquid Schemes and Money Market Instruments Min 0% Max 5%",
+    "benchmark": "Nifty 500 Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt Securities",
+        "from_date": "Since Inception"
+      }
+    ],
+    "annual_expense": {
+      "Direct": "1.00"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "152106"
+    ],
+    "isins": [
+      "INF247L01BU1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:18:09.540379+00:00"
+}

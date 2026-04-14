@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "HDFC Nifty LargeMidcap 250 Index Fund",
+  "source_file": "SUMMARY_HDFC NIFTY LargeMidcap 250 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Nifty LargeMidcap 250 Index Fund",
+    "fund_type": "An open ended scheme replicating/tracking Nifty LargeMidcap 250 Index (TRI)",
+    "fund_options": [
+      "Regular Growth",
+      "Direct Growth"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "To generate returns that are commensurate (before fees and expenses) with the performance of the Nifty LargeMidcap 250 Index(TRI), subject to tracking error. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Securities covered by Nifty LargeMidcap 250 Index (TRI)# : 95%-100% Debt Securities & Money Market Instruments, Units of DebtSchemes of Mutual Funds@ : 0% - 5% #includes shares of HDFC Asset Management Company Limited. It may be noted that NiftyLargeMidcap 250 Index (TRI) has been constructed and managed by NSE Indices Limited (formerly known as India Index Services& Products Limited – IISL), a subsidiary of National Stock Exchange of India Limited (NSE). The HDFC Nifty LargeMidcap 250 IndexFund will be managed passively to replicate the performance of the Underlying Index. @ investments will be made Cash or cashequivalents i.e. Government Securities, T-Bills and Repo on Government Securities, units of Liquid and Overnight Mutual FundSchemes for liquidity purposes. For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
+    "benchmark": "Nifty LargeMidcap 250 Index (TRI)",
+    "fund_managers": "FM1 - Ms. Nandita Menezes , FM2 - Arun Agarwal",
+    "annual_expense": {
+      "Regular": "0.70",
+      "Direct": "0.25"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "152890",
+      "152889"
+    ],
+    "isins": [
+      "INF179KC1IP6",
+      "INF179KC1IQ4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth"
+  ],
+  "extracted_at": "2026-04-13T13:49:34.560675+00:00"
+}

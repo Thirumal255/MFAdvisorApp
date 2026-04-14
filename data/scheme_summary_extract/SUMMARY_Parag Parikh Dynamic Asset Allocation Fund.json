@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Parag Parikh Dynamic Asset Allocation Fund",
+  "source_file": "SUMMARY_Parag Parikh Dynamic Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Parag Parikh Dynamic Asset Allocation Fund",
+    "fund_type": "An open ended dynamic asset allocation fund.",
+    "fund_options": [
+      "Regular Plan - Growth Option",
+      "Direct Plan - Growth Option",
+      "Regular Plan - Monthly Payout of IDCW Option",
+      "Direct Plan -Monthly Payout of IDCW Option",
+      "Regular Plan - Monthly Reinvestment of IDCW Option",
+      "Direct Plan - Monthly Reinvestment ofIDCW Option"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the Scheme is to generate income/long-term capital appreciation by investing in equity, equityderivatives, ﬁxed income instruments. The allocation between equity instruments and ﬁxed income will be manageddynamically so as to provide investors with long term capital appreciation while managing downside risk. However, there is noassurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee anyreturns.",
+    "asset_allocation": "Equities & Equity related instruments : 0-100%; Risk Proﬁle - Very High Debt securities & Money Market instruments includingunits of Debt oriented mutual fund schemes : 0-100%; Risk Proﬁle - Low to Moderate",
+    "benchmark": "CRISIL Hybrid 50+50 Moderate Index",
+    "fund_managers": "Mr. Rajeev Thakkar, Mr. Raunak Onkar, Mr. Rukun Tarachandani, Mr. Raj Mehta,Mr. Tejas Soman, Ms. Mansi Kariya",
+    "annual_expense": {
+      "Regular": "0.63",
+      "Direct": "0.33"
+    },
+    "exit_load": "In respect of each purchase / switch-in of Units, 10% of the units (“the limit”) may be redeemed without any exit load from thedate of allotment. Any redemption or switch-out in excess of the limit shall be subject to the following exit load: - Exit load of1.00% is payable if Units are redeemed / switched-out within 1 year from the date of allotment of units. - No Exit Load ispayable if Units are redeemed / switched-out after 1 year from the date of allotment. Any exit load charged (net oﬀ GST, if any)shall be credited back to the Scheme.",
+    "amfi_codes": [
+      "152464",
+      "152468",
+      "152466",
+      "152465",
+      "152467",
+      "152469"
+    ],
+    "isins": [
+      "INF879O01233",
+      "INF879O01266",
+      "INF879O01241",
+      "INF879O01274",
+      "INF879O01258",
+      "INF879O01282"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth Option",
+    "Direct Plan - Growth Option",
+    "Regular Plan - Monthly Payout of IDCW Option",
+    "Direct Plan -Monthly Payout of IDCW Option",
+    "Regular Plan - Monthly Reinvestment of IDCW Option",
+    "Direct Plan - Monthly Reinvestment ofIDCW Option"
+  ],
+  "extracted_at": "2026-04-13T15:37:03.189507+00:00"
+}

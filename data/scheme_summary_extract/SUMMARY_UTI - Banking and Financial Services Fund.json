@@ -1,0 +1,59 @@
+{
+  "parent_scheme_name": "UTI - Banking and Financial Services Fund",
+  "source_file": "SUMMARY_UTI - Banking and Financial Services Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "UTI - Banking and Financial Services Fund",
+    "fund_type": "An open ended equity scheme investing in Banking and Financial Services Sector.",
+    "fund_options": [
+      "Institutional Plan-Growth",
+      "Regular Plan-Reinvestment of IDCW (Institutional)",
+      "Regular Plan-Payout of IDCW (Institutional)",
+      "Regular Plan-Growth",
+      "Regular Plan-Reinvestment of IDCW",
+      "Regular Plan-Payout of IDCW",
+      "Direct Plan-Growth",
+      "Direct Plan-Reinvestment of IDCW",
+      "Direct Plan-Payout of IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The objective of the scheme is to generate long term capital appreciation by investing predominantly in equity and equityrelated securities of companies/institutions engaged in the banking and ﬁnancial services activities. However, there can be noassurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Equity and equity related instruments (Including units of REITS) (minimum 80% of the total assets would be in equity andequity related instruments of companies engaged in banking and ﬁnancial services activities): 80-100% (Medium to High) Debtand Money Market instruments including securitized debt#: 0-20% (Low to Medium) Units issued by InvITs: 0-10% (Medium toHigh) # The fund may invest up to 50% of its debt portfolio in securitized debt",
+    "benchmark": "Nifty Financial Services TRI",
+    "fund_managers": "Mr. Amit Premchandani FM 1, Mr. Bhavesh Kanani FM 2, Not Applicable FM 3, Not Applicable FM 4",
+    "annual_expense": {
+      "Regular": "2.15",
+      "Direct": "1.07"
+    },
+    "exit_load": "1.00% if redeemed before 30 days from the date of investment.",
+    "amfi_codes": [
+      "120733-Direct Plan - Growth Option",
+      "120732-Direct Plan - IDCW",
+      "102401-Regular Plan - Growth Option",
+      "102402-Regular Plan -IDCW"
+    ],
+    "isins": [
+      "INF789F01PF5",
+      "INF789F01PE8",
+      null,
+      "INF789F01372",
+      "INF789F01364",
+      "INF789F01356",
+      "INF789F01SN3",
+      "INF789F01SM5",
+      "INF789F01SL7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Institutional Plan-Growth",
+    "Regular Plan-Reinvestment of IDCW (Institutional)",
+    "Regular Plan-Payout of IDCW (Institutional)",
+    "Regular Plan-Growth",
+    "Regular Plan-Reinvestment of IDCW",
+    "Regular Plan-Payout of IDCW",
+    "Direct Plan-Growth",
+    "Direct Plan-Reinvestment of IDCW",
+    "Direct Plan-Payout of IDCW"
+  ],
+  "extracted_at": "2026-04-13T16:27:53.894391+00:00"
+}

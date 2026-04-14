@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "HSBC ELSS Tax saver Fund",
+  "source_file": "SUMMARY_HSBC ELSS Tax saver Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC ELSS Tax saver Fund",
+    "fund_type": "An open ended equity linked saving scheme with a statutory lock in of 3 years and tax beneﬁt",
+    "fund_options": [
+      "HSBC ELSS Fund-Direct Plan-Growth",
+      "HSBC ELSS Fund-Regular Plan-Growth",
+      "HSBC ELSS Fund-Direct Plan-IDCW Payout",
+      "HSBC ELSS Fund-Regular Plan-IDCW Payout"
+    ],
+    "isins": [
+      "INF917K01GP0",
+      "INF677K01064",
+      "INF917K01GO3",
+      "INF677K01072"
+    ],
+    "amfi_codes": [
+      "151078",
+      "151076",
+      "151079",
+      "151077"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate long-term capital growth from a diversiﬁed portfolio of predominantlyequity and equity-related securities. There is no assurance that the objective of the Scheme will be realised and the Schemedoes not assure or guarantee any returns. For defensive considerations and/or managing liquidity, the Scheme may alsoinvest in money market instruments.",
+    "asset_allocation": "Equity and equity related securities:80% TO 100% Debt* and Money market instruments.:0% TO 20% Units issued by REITs/InvITs:0% TO 10% *subject to ELSS Rules",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Abhishek Gupta, Sonal Gupta",
+    "annual_expense": {
+      "Regular": "1.92",
+      "Direct": "1.17"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "HSBC ELSS Fund-Direct Plan-Growth",
+    "HSBC ELSS Fund-Regular Plan-Growth",
+    "HSBC ELSS Fund-Direct Plan-IDCW Payout",
+    "HSBC ELSS Fund-Regular Plan-IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T14:01:09.370031+00:00"
+}

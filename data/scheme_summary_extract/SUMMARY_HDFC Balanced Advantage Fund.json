@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "HDFC Balanced Advantage Fund",
+  "source_file": "SUMMARY_HDFC Balanced Advantage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Balanced Advantage Fund",
+    "fund_type": "An open ended Balanced Advantage Fund",
+    "fund_options": [
+      "REGULAR PLAN - IDCW OPTION",
+      "REGULAR PLAN - IDCW REINVESTMENT OPTION",
+      "REGULAR PLAN - GROWTH OPTION",
+      "DIRECT PLAN - IDCW OPTION",
+      "DIRECT PLAN - IDCW REINVESTMENT OPTION",
+      "DIRECT PLAN - GROWTH OPTION"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "To provide long term capital appreciation / income from a dynamic mix of equity and debt investments. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related instruments# : 65%-100%; Debt Securities (including securitized debt) and money market instruments :0% - 35%; Units issued by InvITs : 0% -10%; Non-convertible preference shares: 0% -10%. #Unhedged equity exposure shall be limited to 90% of the portfolio value. Unhedged equity exposure means exposure to equity shares alone without a corresponding equity derivative exposure. For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
+    "fund_managers": "FM 1 - Mr.Gopal Agrawal, FM 2 - Mr. Srinivasan Ramamurthy, FM 3 - Ms. Nandita Menezes , FM 4 – Mr. Arun Agarwal,FM 5 - AnilBamboli, FM 6 - Mr. Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "1.35",
+      "Direct": "0.76"
+    },
+    "exit_load": "In respect of each purchase / switch-in of Units, upto 15% of the units may be redeemed without any exit load from the date of allotment. Any redemption in excess of the above limit shall be subject to the following exit load: Exit load of 1.00% is payable if Units are redeemed / switched-out within 1 year from the date of allotment of units. No Exit Load is payable if Units are redeemed / switched-out after 1 year from the date of allotment.",
+    "amfi_codes": [
+      "100120",
+      "118969",
+      "100119",
+      "118968"
+    ],
+    "isins": [
+      "INF179K01814",
+      "INF179K01822",
+      "INF179K01830",
+      "INF179K01VY8",
+      "INF179K01VZ5",
+      "INF179K01WA6"
+    ]
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN - IDCW OPTION",
+    "REGULAR PLAN - IDCW REINVESTMENT OPTION",
+    "REGULAR PLAN - GROWTH OPTION",
+    "DIRECT PLAN - IDCW OPTION",
+    "DIRECT PLAN - IDCW REINVESTMENT OPTION",
+    "DIRECT PLAN - GROWTH OPTION"
+  ],
+  "extracted_at": "2026-04-13T13:39:37.068157+00:00"
+}

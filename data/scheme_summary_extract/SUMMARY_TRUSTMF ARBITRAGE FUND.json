@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "TRUSTMF Arbitrage Fund",
+  "source_file": "SUMMARY_TRUSTMF ARBITRAGE FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "TRUSTMF Arbitrage Fund",
+    "fund_type": "An open-ended scheme investing in arbitrage opportunities",
+    "fund_options": [
+      "TRUSTMF ARBITRAGE FUND-DIRECT-GROWTH",
+      "TRUSTMF ARBITRAGE FUND-REGULAR-GROWTH"
+    ],
+    "isins": [
+      "INF0GCD01859",
+      "INF0GCD01867"
+    ],
+    "amfi_codes": [
+      "153804",
+      "153805"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to generate capital appreciation and income by predominantly investing in arbitrage opportunities in the cash and derivatives segment of the equity market, and the arbitrage opportunities available within the derivative segment and by investing the balance in debt and money market instruments.  There is no assurance that the investment objective of the scheme will be realized.",
+    "asset_allocation": "Equity and Equity related instruments including equity derivatives - 65 to 100; Debt & Money Market Instruments - 0 to 35; Units issued by REITs & InvITs - 0 to 10",
+    "benchmark": "Nifty 50 Arbitrage Index",
+    "fund_managers": "Mr. Mihir Vora and Mr. Sachin Parekh",
+    "annual_expense": {
+      "Regular": "1",
+      "Direct": "0.20"
+    },
+    "exit_load": "0.25% If redeemed / switched out within 7 days from the date of allotment. Nil - if redeemed/switched out after 7 days from the date of allotment."
+  },
+  "fund_options_inferred": [
+    "TRUSTMF ARBITRAGE FUND-DIRECT-GROWTH",
+    "TRUSTMF ARBITRAGE FUND-REGULAR-GROWTH"
+  ],
+  "extracted_at": "2026-04-13T16:20:00.021748+00:00"
+}

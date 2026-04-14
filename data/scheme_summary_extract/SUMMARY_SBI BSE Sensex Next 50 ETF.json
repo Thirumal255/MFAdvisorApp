@@ -1,0 +1,34 @@
+{
+  "parent_scheme_name": "SBI S & P BSE Sensex Next 50 ETF Formerly known as (SBI ETF Sensex Next 50)",
+  "source_file": "SUMMARY_SBI BSE Sensex Next 50 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI S & P BSE Sensex Next 50 ETF Formerly known as (SBI ETF Sensex Next 50)",
+    "fund_type": "An open-ended Scheme tracking S & P BSE SENSEX Next 50 Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "VERY HIGH",
+    "investment_objective": "The investment objective of the scheme is to provide returns that closely correspond to the total returns of the securities as represented by the underlying index, subject to tracking error. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": {
+      "Securities covered by S&P BSE SENSEX Next 50 Index": "95%-100%",
+      "Money Market Instrument* and units of liquid mutual fund": "0%-5%"
+    },
+    "benchmark": "S&P BSE SENSEX Next 50 TRI",
+    "fund_managers": "Mr. Raviprakash Sharma",
+    "annual_expense": {
+      "Direct": "0"
+    },
+    "exit_load": "N.A.",
+    "amfi_codes": [
+      "144916"
+    ],
+    "isins": [
+      "INF200KA1VQ2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:51:30.969950+00:00"
+}

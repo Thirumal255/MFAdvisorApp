@@ -1,0 +1,40 @@
+{
+  "parent_scheme_name": "Motilal Oswal S&P BSE Healthcare ETF",
+  "source_file": "SUMMARY_Motilal Oswal BSE Healthcare ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal S&P BSE Healthcare ETF",
+    "fund_type": "ETF",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very high",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, correspond to the total returns of the securities as represented by the S&P BSE Healthcare Total Return Index, subject to tracking error. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Constituents of S&P BSE Healthcare Total Return Index 95-100%, Units of Liquid/ debt schemes, debt and money market instruments 0-5%",
+    "benchmark": "S&P BSE Healthcare Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "-"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt Component"
+      }
+    ],
+    "annual_expense": {
+      "Direct": "00"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "150445"
+    ],
+    "isins": [
+      "INF247L01BB1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:15:33.760051+00:00"
+}

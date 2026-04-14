@@ -1,0 +1,35 @@
+{
+  "parent_scheme_name": "Kotak Nifty 100 Low Volatility 30 ETF",
+  "source_file": "SUMMARY_Kotak Nifty 100 Low Volatility 30 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Nifty 100 Low Volatility 30 ETF",
+    "fund_type": "An open ended scheme replicating/tracking NIFTY 100 Low Volatility 30 Index(NSE Symbol-LOWVOL1)",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to replicate the composition of the NIFTY 100 Low Volatility 30 Index and to generate returns that are commensurate with the performance of the NIFTY 100 Low Volatility 30 Index, subject to tracking errors. However, there is no assurance that the objective of the scheme will be realized",
+    "asset_allocation": "Equity and Equity related securities covered by the Nifty 100 Low Volatility 30 Index - 95 - 100% - Medium - High Debt & Money Market Instrument - 0 - 5% - Low – Medium",
+    "benchmark": "NIFTY 100 Low Volatility 30 Index TRI",
+    "fund_managers": [
+      "FM 1 Mr. Devender Singhal",
+      "FM 2 Mr. Satish Dondapati",
+      "FM 3 Mr. Abhishek Bisen"
+    ],
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "150000"
+    ],
+    "isins": [
+      "INF174KA1IY"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T14:48:11.448874+00:00"
+}

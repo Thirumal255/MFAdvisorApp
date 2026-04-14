@@ -1,0 +1,34 @@
+{
+  "parent_scheme_name": "SBI Nifty 50 ETF Formerly known as (SBI ETF Nifty 50)",
+  "source_file": "SUMMARY_SBI Nifty 50 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Nifty 50 ETF Formerly known as (SBI ETF Nifty 50)",
+    "fund_type": "An Open Ended Exchange Traded Scheme tracking Nifty 50 Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "VERY HIGH",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, closely correspond to the total returns of the securities as represented by the underlying index, subject to tracking error. However there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": {
+      "Securities covered by the Nifty 50 Index": "95%-100%",
+      "Money Market Instrument* including Triparty Repo and Units of liquid mutual funds": "0%-5%"
+    },
+    "benchmark": "Nifty 50 TRI",
+    "fund_managers": "Mr. Raviprakash Sharma",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "NA",
+    "amfi_codes": [
+      "135106"
+    ],
+    "isins": [
+      "INF200KA1FS1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:57:43.535782+00:00"
+}

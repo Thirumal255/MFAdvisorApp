@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "ICICI Prudential BSE Midcap Select ETF",
+  "source_file": "SUMMARY_ICICI Prudential BSE Midcap Select ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential BSE Midcap Select ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High\nAs on October 31, 2025",
+    "investment_objective": "To provide returns before expenses that closely correspond to the total return of the \nunderlying index subject to tracking errors.\nHowever, there can be no assurance or guarantee that the investment objective of the \nScheme would be achieved.",
+    "asset_allocation": "• Securitiesofcompaniesconstitutingthe  Underlying  Index(BSE MidcapSelect Index) 95%-100%\n• Debt and Money Market Instruments with maturity of upto 91 days only.  0%-5%",
+    "benchmark": "BSE Midcap Select TRI",
+    "fund_managers": [
+      "Nishit Patel",
+      "Ajaykumar Solanki",
+      "Ashwini Bharucha",
+      "Venus Ahuja"
+    ],
+    "annual_expense": {
+      "Direct": "0.15"
+    },
+    "exit_load": null,
+    "amfi_codes": [
+      "139519"
+    ],
+    "isins": [
+      "INF109KB1XT3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T14:08:38.813871+00:00"
+}

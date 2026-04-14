@@ -1,0 +1,71 @@
+{
+  "parent_scheme_name": "Edelweiss Recently Listed IPO Fund",
+  "source_file": "SUMMARY_Edelweiss Recently Listed IPO Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss Recently Listed IPO Fund",
+    "fund_type": "Equity Scheme",
+    "fund_options": [
+      "Direct Plan- Growth",
+      "Direct Plan - IDCW – Payout",
+      "Direct Plan - IDCW – Reinvestment",
+      "Direct Plan - IDCW – Transfer",
+      "Regular Plan- Growth",
+      "Regular Plan - IDCW – Payout",
+      "Regular Plan - IDCW – Reinvestment",
+      "Regular Plan - IDCW – Transfer"
+    ],
+    "isins": [
+      "INF754K01ML4",
+      "INF754K01MM2",
+      "INF754K01MN0",
+      "INF754K01MO8",
+      "INF754K01MH2",
+      "INF754K01MI0",
+      "INF754K01MJ8",
+      "INF754K01MK6"
+    ],
+    "amfi_codes": [
+      "142388",
+      "142386",
+      "142386",
+      "142386",
+      "142383",
+      "142384",
+      "142384",
+      "142384"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the Scheme is to seek to provide capital appreciation by investing in equity and equity related securities of recently listed 100 companies or upcoming Initial Public Offers (IPOs). However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "1. Equity and Equity related instruments including derivatives of recently listed 100 companies or upcoming Initial Public Offer (IPOs) - 80-100%\n2. Equity and Equity related instruments including derivatives of other than recently listed 100 companies or upcoming Initial Public Offer (IPOs) - 0-20%\n3. Debt and money market instruments - 0-20%",
+    "benchmark": "India Recent 100 IPO Index TRI",
+    "fund_managers": [
+      {
+        "name": "Mr. Bharat Lahoti",
+        "type": "Co-Manage",
+        "from_date": "22/Feb/2018"
+      },
+      {
+        "name": "Mr. Bhavesh Jain",
+        "type": "Co-Manage",
+        "from_date": "22/Feb/2018"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.25",
+      "Direct": "0.92"
+    },
+    "exit_load": "• Upto 180 days : 2%\n• After 180 days : Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan- Growth",
+    "Direct Plan - IDCW – Payout",
+    "Direct Plan - IDCW – Reinvestment",
+    "Direct Plan - IDCW – Transfer",
+    "Regular Plan- Growth",
+    "Regular Plan - IDCW – Payout",
+    "Regular Plan - IDCW – Reinvestment",
+    "Regular Plan - IDCW – Transfer"
+  ],
+  "extracted_at": "2026-04-13T13:26:16.017141+00:00"
+}

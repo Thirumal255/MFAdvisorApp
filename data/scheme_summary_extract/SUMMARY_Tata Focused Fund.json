@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Tata Focused Fund",
+  "source_file": "SUMMARY_Tata Focused Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Focused Fund",
+    "fund_type": "An Open Ended Equity Scheme investing in maximum 30 stocks across market caps (i.e. Multi Cap)",
+    "fund_options": [
+      "Tata Focused Equity Fund Regular Plan IDCW",
+      "Tata Focused Equity Fund Direct Plan IDCW",
+      "Tata Focused Equity Fund RegularPlan Growth",
+      "Tata Focused Equity Fund Direct Plan Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation by investing in equity & equity relatedinstruments of maximum 30 stocks across market caps. However, there is no assurance or guarantee that the investmentobjective of the Scheme will be achieved. The scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Equity and equity related instruments 65-100, ,Debt and money market instruments 0-35, Units issued by REITs & InvITs 0-10.",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "FM-1 Anand Sharma, FM-2 Hasmukh Vishariya",
+    "annual_expense": {
+      "Regular": "2.04",
+      "Direct": "0.63"
+    },
+    "exit_load": "Redemption/Switch-out/SWP/STP: 1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the dateof allotment: NIL.",
+    "amfi_codes": [
+      "147756",
+      "147758",
+      "147760",
+      "147757"
+    ],
+    "isins": [
+      "INF277K011Y0",
+      "INF277K018X7",
+      "INF277K010Y2",
+      "INF277K017X9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Focused Equity Fund Regular Plan IDCW",
+    "Tata Focused Equity Fund Direct Plan IDCW",
+    "Tata Focused Equity Fund RegularPlan Growth",
+    "Tata Focused Equity Fund Direct Plan Growth"
+  ],
+  "extracted_at": "2026-04-13T16:12:00.669869+00:00"
+}

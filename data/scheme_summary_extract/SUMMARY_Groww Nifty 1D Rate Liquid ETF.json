@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Groww Nifty 1D Rate Liquid ETF",
+  "source_file": "SUMMARY_Groww Nifty 1D Rate Liquid ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Groww Nifty 1D Rate Liquid ETF",
+    "fund_type": "ETF",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the Scheme is to provide current income, commensurate with relatively low risk while providing a high level of liquidity, primarily through a portfolio of Tri-Party REPO), Repo in Government Securities, Reverse Repos and similar other overnight instruments. However, there can be no assurance or guarantee that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Tri-Party REPOs, Repo in Government Securities, Reverse Repos and any other similar overnight instruments as may be provided by RBI and approved by SEBI - 95% to 100% G-sec(s) and/or T-bills with a residual maturity of upto 30 days# - 0% to 5%",
+    "benchmark": "Nifty 1D Rate Index",
+    "fund_managers": "Mr. Kaustubh Sule",
+    "annual_expense": {
+      "Direct": "0.29"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "152891"
+    ],
+    "isins": [
+      "INF666M01IP5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T13:35:09.546963+00:00"
+}

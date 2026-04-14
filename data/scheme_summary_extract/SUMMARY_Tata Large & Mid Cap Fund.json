@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "Tata Large & Mid Cap Fund",
+  "source_file": "SUMMARY_Tata Large & Mid Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Large & Mid Cap Fund",
+    "fund_type": "An open-ended equity scheme investing in both large cap & mid cap stocks.",
+    "fund_options": [
+      "Tata Large and Mid Cap Fund Regular Plan - IDCW",
+      "Tata Large and Mid Cap Fund Direct Plan - IDCW",
+      "Tata Large and Mid Cap Fund Regular Plan - Growth",
+      "Tata Large and Mid Cap Fund Direct Plan - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide income distribution and / or medium to long term capital gains while at all times emphasizing the importance ofcapital appreciation. However, there is no assurance or guarantee that the investment objective of the Scheme will beachieved. The scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Equity and Equity Related Instruments of Large Cap Companies 35-65, Equity and Equity Related Instruments of Mid CapCompanies 35-65, Other Equity and Equity Related Instruments 0-30, Other Securities 0-30.",
+    "benchmark": "NIFTY Large Midcap 250 TRI",
+    "fund_managers": [
+      "FM-1 Chandraprakash Padiyar",
+      "FM-2 Kapil Malhotra"
+    ],
+    "annual_expense": {
+      "Regular": "1.76",
+      "Direct": "0.65"
+    },
+    "exit_load": "1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL.",
+    "amfi_codes": [
+      "101823",
+      "119201",
+      "101824",
+      "119202"
+    ],
+    "isins": [
+      "INF277K01410",
+      "INF277K01MJ0",
+      "INF277K01428",
+      "INF277K01MK8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Large and Mid Cap Fund Regular Plan - IDCW",
+    "Tata Large and Mid Cap Fund Direct Plan - IDCW",
+    "Tata Large and Mid Cap Fund Regular Plan - Growth",
+    "Tata Large and Mid Cap Fund Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T16:13:22.474898+00:00"
+}

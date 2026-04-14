@@ -1,0 +1,81 @@
+{
+  "parent_scheme_name": "Edelweiss Focused Fund",
+  "source_file": "SUMMARY_Edelweiss Focused Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss Focused Fund",
+    "fund_type": "Focused Fund",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - IDCW Transfer",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Plan - IDCW Transfer"
+    ],
+    "isins": [
+      "INF754K01OP1",
+      "INF754K01OQ9",
+      "INF754K01OR7",
+      "INF754K01OS5",
+      "INF754K01OL0",
+      "INF754K01OM8",
+      "INF754K01ON6",
+      "INF754K01OO4"
+    ],
+    "amfi_codes": [
+      "150376",
+      "150383",
+      "150383",
+      "150383",
+      "150382",
+      "150384",
+      "150384",
+      "150384"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the fund is to generate long term capital appreciation by investing in equity and equity and derivative segment of upto 30 companies across market caps. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "1. Equity and Equity related instruments  - 65-100%\n2. Debt and Money Market Instruments  - 0-35%\n3. Units of REITs & InvITs - 0-10%",
+    "benchmark": "NIFTY 500 Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Trideep Bhattacharya",
+        "type": "Primary",
+        "from_date": "01/Aug/2022"
+      },
+      {
+        "name": "Mr. Raj Koradia",
+        "type": "Comanage",
+        "from_date": "NA"
+      },
+      {
+        "name": "Mr. Sumanta Khan",
+        "type": "NA",
+        "from_date": "NA"
+      },
+      {
+        "name": "Mr. Amit Vora",
+        "type": "Primary - Overseas Fund Manager",
+        "from_date": "15/Dec/2023"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.45",
+      "Direct": "0.74"
+    },
+    "exit_load": "1.00"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - IDCW Transfer",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Plan - IDCW Transfer"
+  ],
+  "extracted_at": "2026-04-13T13:22:16.547515+00:00"
+}

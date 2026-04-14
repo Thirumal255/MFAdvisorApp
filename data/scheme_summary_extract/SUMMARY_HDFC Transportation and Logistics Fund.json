@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "HDFC Transportation and Logistics Fund",
+  "source_file": "SUMMARY_HDFC Transportation and Logistics Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Transportation and Logistics Fund",
+    "fund_type": "An open-ended equity scheme investing in Transportation and Logistics themed companies",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF179KC1GU0",
+      "INF179KC1GV8",
+      "INF179KC1GW6",
+      "INF179KC1GX4",
+      "INF179KC1GY2",
+      "INF179KC1GZ9"
+    ],
+    "amfi_codes": [
+      "151900",
+      "151902",
+      "151899",
+      "151901",
+      null,
+      null
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "To provide long-term capital appreciation by investing predominantly in equity and equity related securities under Transportationand Logistics theme. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related instruments of Transportation and Logistics themed companies#: 80%- 100%; Equity and Equity relatedinstruments of companies other than above: 0% - 20%; Units issued by InvITs: 0% - 10%; Debt securities, money marketinstruments and Fixed Income Derivatives: 0% - 20%; Units of Mutual Fund: 0% - 20% #Includes following basic industries as percommon framework of industry classiﬁcation of companies notiﬁed by stock exchanges (NSE and BSE) 2/3 Wheelers, Abrasives,Airline, Auto Components and Equipments, Batteries-Automobile, Bearings, Castings and Forgings, Commercial Vehicles, Fastener,Logistics Solution Provider, Passenger Cars & Utility Vehicles, Port & Port services, Railway Wagons, Railways, Ship Building &Allied Services, Shipping, Toll bridge operator, Tour, Travel Related Services, Tractors, Trading – Automobiles, Tyres & RubberProducts, E-Commerce companies which are into delivery are eligible to be included. For detailed asset allocation, refer SchemeInformation Document (SID) available on the website.",
+    "benchmark": "Nifty Transportation & Logistics Index",
+    "fund_managers": "FM 1 - Mr. Priya Ranjan, FM 2 - Mr Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "2.12",
+      "Direct": "0.97"
+    },
+    "exit_load": "In respect of each purchase/switch-in of units, an Exit load of 1% is payable if units are redeemed /switched-out within 30 daysfrom the date of allotment. No Exit Load is payable if units are redeemed / switched out after 30 days from the date of allotment."
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T13:55:04.090100+00:00"
+}

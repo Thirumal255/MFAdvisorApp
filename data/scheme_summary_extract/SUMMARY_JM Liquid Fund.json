@@ -1,0 +1,79 @@
+{
+  "parent_scheme_name": "JM Liquid Fund",
+  "source_file": "SUMMARY_JM Liquid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "JM Liquid Fund",
+    "fund_type": "An Open-Ended Liquid Scheme",
+    "fund_options": [
+      "Regular Daily IDCW",
+      "Regular Weekly IDCW",
+      "Regular Quarterly IDCW",
+      "Regular Growth",
+      "Regular Bonus Option - Principal Units",
+      "Regular Bonus Option - Bonus Units",
+      "Regular Super Institutional Plan - Growth Option",
+      "Direct Daily IDCW",
+      "Direct Weekly IDCW",
+      "Direct Quarterly IDCW",
+      "Direct Growth",
+      "Direct Bonus Option - Principal Units"
+    ],
+    "isins": [
+      "INF192K0183",
+      "INF192K01841",
+      "INF192K01858",
+      "INF192K01866",
+      "INF192K01874",
+      "INF192K01882",
+      "INF192K01890",
+      "INF192K01908",
+      "INF192K01981",
+      "INF192K01CH6",
+      "INF192K01CI4",
+      "INF192K01CJ2",
+      "INF192K01CK0",
+      "INF192K01CL8",
+      "INF192K01CM6",
+      "INF192K01CN4"
+    ],
+    "amfi_codes": [
+      "101078",
+      "100233",
+      "100244",
+      "100234",
+      "101549",
+      "120410",
+      "100247",
+      "120411",
+      "120407",
+      "120408",
+      "120406"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "To provide income by way of dividend (dividend plans) and capital gains (growth plan) through investing in Debt and money market securities with maturity of upto 91 days only. Investors are required to read all the scheme related information set out in this document carefully and also note that there can be no assurance that the investment objectives of the scheme will be realized. The scheme does not guarantee/ indicate any returns.",
+    "asset_allocation": "Debt & Money Market Instruments with maturity up to 91 days- 0 - 100% -Low, Exposure in securitized debt 0%-50% of net assets of this scheme with low risk profile",
+    "benchmark": "CRISIL Liquid Debt A-I Index",
+    "fund_managers": "Mr. Killol Pandya, Ms. Ruchi Fozdar, Mr. Jayant Dhoot",
+    "annual_expense": {
+      "Regular": "0.26",
+      "Direct": "0.16"
+    },
+    "exit_load": "Day 1 - 0.0070%,Day 2 - 0.0065%,Day 3 - 0.0060%,Day 4 - 0.0055%,Day 5 - 0.0050%,Day 6 - 0.0045%,Day 7 onwards - Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Daily IDCW",
+    "Regular Weekly IDCW",
+    "Regular Quarterly IDCW",
+    "Regular Growth",
+    "Regular Bonus Option - Principal Units",
+    "Regular Bonus Option - Bonus Units",
+    "Regular Super Institutional Plan - Growth Option",
+    "Direct Daily IDCW",
+    "Direct Weekly IDCW",
+    "Direct Quarterly IDCW",
+    "Direct Growth",
+    "Direct Bonus Option - Principal Units"
+  ],
+  "extracted_at": "2026-04-13T14:39:59.903977+00:00"
+}

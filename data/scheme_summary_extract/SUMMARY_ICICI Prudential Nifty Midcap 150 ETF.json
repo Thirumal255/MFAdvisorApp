@@ -1,0 +1,35 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty Midcap 150 ETF",
+  "source_file": "SUMMARY_ICICI Prudential Nifty Midcap 150 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty Midcap 150 ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High\nAs on October 31, 2025",
+    "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely correspond to the total return of the underlying index, subject to tracking errors. \nHowever, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Equity and Equity related securities of    companies    constituting    the underlying  index(Nifty  Midcap  150 Index) 95%-100% \n• Units of debtschemes, TREPs#,Repo  and  Reverse  Repo,cash  & cash equivalents. 0%-5%",
+    "benchmark": "Nifty Midcap 150 TRI",
+    "fund_managers": [
+      "Ashwini Bharucha",
+      "Venus Ahuja",
+      "Nishit Patel"
+    ],
+    "annual_expense": {
+      "Direct": "0.15"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "147921"
+    ],
+    "isins": [
+      "INF109KC1G82"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T14:18:00.028897+00:00"
+}

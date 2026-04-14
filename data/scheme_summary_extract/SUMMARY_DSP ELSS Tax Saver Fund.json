@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "DSP ELSS Tax Saver Fund",
+  "source_file": "SUMMARY_DSP ELSS Tax Saver Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP ELSS Tax Saver Fund",
+    "fund_type": "An open ended equity linked saving scheme with a statutory lock in of 3 years and tax beneﬁt",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - IDCW - Reinvest",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW - Reinvest"
+    ],
+    "isins": [
+      "INF740K01OK1",
+      "INF740K01OL9",
+      "INF740K01OM7",
+      "INF740K01185",
+      "INF740K01169",
+      "INF740K01177"
+    ],
+    "amfi_codes": [
+      "119242",
+      "119241",
+      "119241",
+      "104772",
+      "104773",
+      "104773"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the Scheme is to seek to generate medium to long-term capital appreciation from a diversiﬁed portfolio that is substantially constituted of equity and equity related securities of corporates, and to enable investors avail of a deduction from total income, as permitted under the Income Tax Act, 1961 from time to time. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "1. Equity and equity related securities: 80% to 100% 2. Investments in ADRs, GDRs and foreign equity securities: 0% to 20% 3. Debt, securitised debt and money market securities: 0% to 20%",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Mr. Rohit Singhania",
+    "annual_expense": {
+      "Regular": "1.63",
+      "Direct": "0.68"
+    },
+    "exit_load": "Not Applicable"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - IDCW - Reinvest",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW - Reinvest"
+  ],
+  "extracted_at": "2026-04-13T13:08:00.624205+00:00"
+}

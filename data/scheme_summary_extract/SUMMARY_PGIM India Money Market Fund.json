@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "PGIM India Money Market Fund",
+  "source_file": "SUMMARY_PGIM India Money Market Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "PGIM India Money Market Fund",
+    "fund_type": "An open ended debt scheme investing in money market instruments",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The Scheme seeks to deliver reasonable market related returns through investments in Money Market instruments. However,there can be no assurance that the investment objective of the Scheme will be achieved. The Scheme does notguarantee/indicate any returns.",
+    "asset_allocation": "Money Market instruments- Min 0% and Max 100%",
+    "benchmark": "CRISIL Money Market A-I Index",
+    "fund_managers": "Mr. Puneet Pal and Mr. Bhupesh Kalyani.",
+    "annual_expense": {
+      "Regular": "0.46",
+      "Direct": "0.21"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "148157",
+      "148158",
+      "148159",
+      "148160",
+      "148161",
+      "148162",
+      "148163",
+      "148164"
+    ],
+    "isins": [
+      "INF663L01T92",
+      "INF663L01U08",
+      "INF663L01U32",
+      "INF663L01U40",
+      "INF663L01U24",
+      "INF663L01U57",
+      "INF663L01T84",
+      "INF663L01U16"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-13T15:39:55.558276+00:00"
+}

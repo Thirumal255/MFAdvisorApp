@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Franklin India NSE Nifty 50 Index Fund (The scheme name has changed from Franklin India Index Fund - NSE Nifty Plan w.e.fJuly 1, 2022)",
+  "source_file": "SUMMARY_Franklin India NSE Nifty 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Franklin India NSE Nifty 50 Index Fund (The scheme name has changed from Franklin India Index Fund - NSE Nifty Plan w.e.fJuly 1, 2022)",
+    "fund_type": "An open ended scheme replicating/ tracking Nifty 50 Index",
+    "fund_options": [
+      "Regular - Growth",
+      "Direct - IDCW Reinv.",
+      "Regular - IDCW Payout",
+      "Direct - Growth",
+      "Regular - IDCW Reinv.",
+      "Direct - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Investment Objective of the Scheme is to invest in companies whose securities are included in the Nifty and subject totracking errors, endeavouring to attain results commensurate with the Nifty 50 Index under NSE Nifty Plan.",
+    "asset_allocation": "Securities covered by the Nifty: Up to 100% Money Market instruments, convertible bonds & cash including money at call butexcluding subscription and Redemption Cash Flow: Up to 5%",
+    "benchmark": "Nifty 50",
+    "fund_managers": "Shyam Sundar Sriram, Sandeep Manam (dedicated for foreign securities)",
+    "annual_expense": {
+      "Regular": "0.63",
+      "Direct": "0.28"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "100484",
+      "118580",
+      "105067",
+      "118581",
+      null,
+      null
+    ],
+    "isins": [
+      "INF090I01890",
+      "INF090I01GR6",
+      "INF090I01874",
+      "INF090I01GS4",
+      "INF090I01882",
+      "INF090I01GQ8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Direct - IDCW Reinv.",
+    "Regular - IDCW Payout",
+    "Direct - Growth",
+    "Regular - IDCW Reinv.",
+    "Direct - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T13:31:28.334378+00:00"
+}

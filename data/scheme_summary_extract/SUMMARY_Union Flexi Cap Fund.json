@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Union Flexi Cap Fund",
+  "source_file": "SUMMARY_Union Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Union Flexi Cap Fund",
+    "fund_type": "An open-ended dynamic equity scheme investing across large cap, mid cap, small cap stocks.",
+    "fund_options": [
+      "Union Flexi Cap Fund Growth Option",
+      "Union Flexi Cap Fund IDCW Payout",
+      "Union Flexi Cap Fund IDCW Reinvestment",
+      "Union Flexi Cap Fund IDCW Transfer",
+      "Union Flexi Cap Fund Growth- Direct Plan",
+      "Union Flexi Cap Fund IDCW Payout - Direct Plan",
+      "Union Flexi Cap Fund IDCW Reinvestment - Direct Plan",
+      "Union Flexi Cap Fund IDCW Transfer - Direct Plan"
+    ],
+    "isins": [
+      "INF582M01104",
+      "INF582M01120",
+      "INF582M01112",
+      "INF582M01138",
+      "INF582M01633",
+      "INF582M01658",
+      "INF582M01641",
+      "INF582M01666"
+    ],
+    "amfi_codes": [
+      "115270",
+      "115290",
+      "115290",
+      "115290",
+      "119292",
+      "119293",
+      "119293",
+      "119293"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to achieve long-term capital appreciation by investing substantially in a portfolio consisting of equity and equity related securities across market capitalisation. However, there can be no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related instruments including equity linked derivatives: 75%- 100% of net assets, Debt and Money Market instruments: 0%-25% of net assets, Units issued by InvITs, 0% to 10% of net assets.",
+    "benchmark": "BSE 500 Index (TRI)",
+    "fund_managers": "FM 1 Mr. Sanjay Bembalkar, FM 2 Mr. Vinod Malviya",
+    "annual_expense": {
+      "Regular": "2.03",
+      "Direct": "0.94"
+    },
+    "exit_load": "1% if units are redeemed or switched out on or before completion of 15 days from the date of allotment. Nil thereafter."
+  },
+  "fund_options_inferred": [
+    "Union Flexi Cap Fund Growth Option",
+    "Union Flexi Cap Fund IDCW Payout",
+    "Union Flexi Cap Fund IDCW Reinvestment",
+    "Union Flexi Cap Fund IDCW Transfer",
+    "Union Flexi Cap Fund Growth- Direct Plan",
+    "Union Flexi Cap Fund IDCW Payout - Direct Plan",
+    "Union Flexi Cap Fund IDCW Reinvestment - Direct Plan",
+    "Union Flexi Cap Fund IDCW Transfer - Direct Plan"
+  ],
+  "extracted_at": "2026-04-13T16:23:49.116220+00:00"
+}

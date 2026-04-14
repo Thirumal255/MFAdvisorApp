@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "SBI Corporate Bond Fund",
+  "source_file": "SUMMARY_SBI Corporate Bond Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Corporate Bond Fund",
+    "fund_type": "An open-ended debt scheme predominantly investing in AA+ and above rated corporate bonds",
+    "fund_options": [
+      "Regular Plan IDCW",
+      "Regular Plan Growth",
+      "Regular Plan Quarterly IDCW",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth",
+      "Direct Plan - Quarterly IDCW"
+    ],
+    "riskometer": "MODERATE",
+    "investment_objective": "To provide the investors an opportunity to predominantly invest in corporate bonds rated AA+ and above to generate additional spread on part of their debt investments from high quality corporate debt securities while maintaining moderate liquidity in the portfolio through investment in money market securities.",
+    "asset_allocation": {
+      "Corporate Bonds rated AA+ and above only": "80%-100%",
+      "Debt instruments other than above including Central and State Government(s) dated securities and Money market Instruments": "0%-20%",
+      "Units of REITs and InVITs^": "0%-10%"
+    },
+    "benchmark": "NIFTY Corporate Bond Index B-III",
+    "fund_managers": [
+      "Mr. Rajeev Radhakrishnan",
+      "Mr. Ardhendu Bhattacharya",
+      "Mr. Pradeep Kesavan"
+    ],
+    "annual_expense": {
+      "Regular": "0.8",
+      "Direct": "0.35"
+    },
+    "exit_load": null,
+    "amfi_codes": [
+      "146208",
+      "146207",
+      "146210",
+      "146212",
+      "146215",
+      "146216"
+    ],
+    "isins": [
+      "INF200KA1YO1",
+      "INF200KA1YM5",
+      "INF200KA1YQ6",
+      "INF200KA1YT0",
+      "INF200KA1YR4",
+      "INF200KA1YV6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan IDCW",
+    "Regular Plan Growth",
+    "Regular Plan Quarterly IDCW",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth",
+    "Direct Plan - Quarterly IDCW"
+  ],
+  "extracted_at": "2026-04-13T15:52:48.296428+00:00"
+}

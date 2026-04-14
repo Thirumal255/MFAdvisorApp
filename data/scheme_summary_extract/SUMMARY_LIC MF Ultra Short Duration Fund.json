@@ -1,0 +1,76 @@
+{
+  "parent_scheme_name": "LIC MF Ultra Short Duration Fund",
+  "source_file": "SUMMARY_LIC MF Ultra Short Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "LIC MF Ultra Short Duration Fund",
+    "fund_type": "An Open Ended ultra short term debt scheme investing in instruments such that the Macaulay duration of the portfolio isbetween 3 months to 6 months. Please refer Page No. 18. A Relatively Low interest rate risk and moderate Credit Risk.",
+    "fund_options": [
+      "Regular Plan-Daily IDCW Reinv",
+      "Regular Plan-Weekly IDCW Payout",
+      "Regular Plan-Weekly IDCW Reinv",
+      "Regular Plan-Monthly IDCW Payout",
+      "Regular Plan-Monthly IDCW Reinv",
+      "Regular Plan-Growth",
+      "Direct Plan-Daily IDCW Reinv",
+      "Direct Plan-Weekly IDCW Payout",
+      "Direct Plan-Weekly IDCW Reinv",
+      "Direct Plan-Monthly IDCW Payout",
+      "Direct Plan-Monthly IDCW Reinv",
+      "Direct Plan-Growth"
+    ],
+    "isins": [
+      "INF767K01QJ1",
+      "INF767K01QL7",
+      "INF767K01QK9",
+      "INF767K01QN3",
+      "INF767K01QM5",
+      "INF767K01QO1",
+      "INF767K01QP8",
+      "INF767K01QR4",
+      "INF767K01QQ6",
+      "INF767K01QT0",
+      "INF767K01QS2",
+      "INF767K01QU8"
+    ],
+    "amfi_codes": [
+      "147766",
+      "147767",
+      "147767",
+      "147768",
+      "147768",
+      "147770",
+      "147771",
+      "147769",
+      "147769",
+      "147773",
+      "147773",
+      "147772"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to generate returns through investment in Debt & Money Market instruments suchthat the Macaulay duration of the portfolio is between 3 months - 6 months. There is no assurance that the investmentobjective of the Scheme will be achieved.",
+    "asset_allocation": "Debt & Money Market Instruments (including Triparty Repo):0-100% of the total assets. Debt Securities mays includesecuritized debts up to 50% of the net assets. • The Scheme will invest in Debt, Money Market instruments, & InvITs such thatthe Macaulay duration of the portfolio is between 3 months - 6 months. • A maximum of 10% of net assets may be deployed inInvITs and the maximum single issuer exposure may be restricted to 5% of net assets or upto the limits permitted by SEBI fromtime to time. Please refer the Scheme Information Document for complete details.",
+    "benchmark": "CRISIL Ultra Short Duration Debt A-I Index",
+    "fund_managers": "FM 1 - Mr. Rahul Singh ,FM 2 - Pratik Harish Shroﬀ",
+    "annual_expense": {
+      "Regular": "0.53",
+      "Direct": "0.24"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Daily IDCW Reinv",
+    "Regular Plan-Weekly IDCW Payout",
+    "Regular Plan-Weekly IDCW Reinv",
+    "Regular Plan-Monthly IDCW Payout",
+    "Regular Plan-Monthly IDCW Reinv",
+    "Regular Plan-Growth",
+    "Direct Plan-Daily IDCW Reinv",
+    "Direct Plan-Weekly IDCW Payout",
+    "Direct Plan-Weekly IDCW Reinv",
+    "Direct Plan-Monthly IDCW Payout",
+    "Direct Plan-Monthly IDCW Reinv",
+    "Direct Plan-Growth"
+  ],
+  "extracted_at": "2026-04-13T14:58:58.095009+00:00"
+}

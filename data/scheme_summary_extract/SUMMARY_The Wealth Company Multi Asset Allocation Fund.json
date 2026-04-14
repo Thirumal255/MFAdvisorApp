@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "The Wealth Company Multi Asset Alocation Fund",
+  "source_file": "SUMMARY_The Wealth Company Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "The Wealth Company Multi Asset Alocation Fund",
+    "fund_type": "An open ended Multi Asset Allocation scheme investing across equity/equity related securities, debt/ money marketinstruments, commodity ETFs, exchange traded commodity derivatives",
+    "fund_options": [
+      "REGULAR-GROWTH",
+      "REGULAR-IDCW-PAYOUT",
+      "REGULAR-IDCW-REINVESTMENT",
+      "DIRECT-GROWTH",
+      "DIRECT-IDCW-PAYOUT",
+      "DIRECT-IDCW-REINVESTMENT"
+    ],
+    "isins": [
+      "INF2F0001313",
+      "INF2F0001321",
+      "INF2F0001339",
+      "INF2F0001347",
+      "INF2F0001354",
+      "INF2F0001362"
+    ],
+    "amfi_codes": [
+      "154002",
+      "154001",
+      null,
+      "153898",
+      "154000",
+      null
+    ],
+    "riskometer": "High",
+    "investment_objective": "To provide long-term growth in capital and income to investors, through active management of investments in a diversiﬁedportfolio of equity and equity-related securities. There is no assurance or guarantee that the investment objective of theScheme will be achieved.",
+    "asset_allocation": "Equity and Equity Related Instruments:10%- 80 % Debt and money market instruments: 10% - 80% Gold/silver relatedinstruments (including ETFs ) & Exchange Traded Commodity Derivatives (ETCDs) as permitted by SEBI from time to time: 10% -50% Units issued by REITs and InvITs: 0 - 10%",
+    "benchmark": "NIFTY 200 TRI (40%) + NIFTY Short Duration Debt Index (45%) + Domestic Prices of Gold (10%) + Domestic Prices of Silver (5%)",
+    "fund_managers": "FM 1 - Ms.Aparna Shanker, FM 2 - Mr. Umesh Sharma, FM3- Mr. Niranjan Das",
+    "annual_expense": {
+      "Regular": "2.02",
+      "Direct": "0.40"
+    },
+    "exit_load": "1% - If redeemed/switched out within 30 days from the date of allotment. Nil - if redeemed/switched out after 30 days from thedate of allotment"
+  },
+  "fund_options_inferred": [
+    "REGULAR-GROWTH",
+    "REGULAR-IDCW-PAYOUT",
+    "REGULAR-IDCW-REINVESTMENT",
+    "DIRECT-GROWTH",
+    "DIRECT-IDCW-PAYOUT",
+    "DIRECT-IDCW-REINVESTMENT"
+  ],
+  "extracted_at": "2026-04-13T16:19:53.672552+00:00"
+}

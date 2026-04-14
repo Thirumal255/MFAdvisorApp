@@ -1,0 +1,32 @@
+{
+  "parent_scheme_name": "JioBlackRock Overnight Fund",
+  "source_file": "SUMMARY_JioBlackRock Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "JioBlackRock Overnight Fund",
+    "fund_type": "An open ended debt scheme investing in overnight securities. A relatively low interest rate risk and relatively low creditrisk",
+    "fund_options": [
+      "Direct Plan - Growth"
+    ],
+    "riskometer": "Low Risk",
+    "investment_objective": "The investment objective of the Scheme is to generate regular income through investment in a portfolio comprising ofdebt and money market instruments with overnight maturity. There is no assurance that the investment objective of theScheme will be achieved.",
+    "asset_allocation": "Overnight securities or Debt & money market instruments maturing on or before next business day : 0% to 100%",
+    "benchmark": "Nifty 1D Rate Index",
+    "fund_managers": "Mr. Arun Ramachandran , Mr. Vikrant Mehta, Mr. Siddharth Deb",
+    "annual_expense": {
+      "Regular": "0.00",
+      "Direct": "0.06"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153650"
+    ],
+    "isins": [
+      "INF22M001036"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T14:35:06.632787+00:00"
+}

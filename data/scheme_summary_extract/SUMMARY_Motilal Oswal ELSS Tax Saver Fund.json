@@ -1,0 +1,51 @@
+{
+  "parent_scheme_name": "Motilal Oswal ELSS Tax Saver Fund (formerly known as Motilal Oswal Long Term Equity Fund)",
+  "source_file": "SUMMARY_Motilal Oswal ELSS Tax Saver Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal ELSS Tax Saver Fund (formerly known as Motilal Oswal Long Term Equity Fund)",
+    "fund_type": "An open ended equity linked saving scheme with a statutory lock in of 3 years and tax benefit",
+    "fund_options": [
+      "Regular",
+      "Direct"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate long-term capital appreciation from a diversified portfolio of predominantly equity and equity related instruments. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "Equity & equity related instruments 80-100% Debt Instruments, Money Market Instruments, G-Secs, Cash and Cash at call, etc. 0-20%",
+    "benchmark": "Nifty 500 Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Niket Shah",
+        "type": "For Equity Component",
+        "from_date": "October 17, 2023"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt Securities",
+        "from_date": "November 22, 2022"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.25",
+      "Direct": "2.25"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "133386",
+      "133383",
+      "133385",
+      "133384"
+    ],
+    "isins": [
+      "INF247L01569",
+      "INF247L01551",
+      "INF247L01544",
+      "INF247L01577"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular",
+    "Direct"
+  ],
+  "extracted_at": "2026-04-13T15:16:13.423295+00:00"
+}

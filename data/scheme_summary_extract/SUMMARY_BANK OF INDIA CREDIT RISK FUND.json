@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Bank of India Credit Risk Fund",
+  "source_file": "SUMMARY_BANK OF INDIA CREDIT RISK FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bank of India Credit Risk Fund",
+    "fund_type": "An open ended debt scheme predominantly investing in AA and below rated corporate bonds (excluding AA+ rated corporate bonds.) A Moderate Interest Rate Risk and Relatively High Credit Risk.",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Regular Plan Growth"
+    ],
+    "isins": [
+      "INF761K01DG8",
+      "INF761K01DH6"
+    ],
+    "amfi_codes": [
+      "CSDG-133868",
+      "CSRG-133867"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The Scheme’s investment objective is to generate capital appreciation over the long term by investing predominantly incorporate debt across the credit spectrum within the universe of investment grade rating. To achieve this objective, the Scheme will seek to make investments in rated, unrated instruments and structured obligations of public and private companies. However, there is no assurance or guarantee that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Corporate Debt (including securitized debt-65% to 100%-Medium to High Money market instruments-0% to 35%-Low",
+    "benchmark": "CRISIL Credit Risk Debt B-II Index",
+    "fund_managers": "Mr.Alok Singh",
+    "annual_expense": {
+      "Regular": "1.52",
+      "Direct": "1.12"
+    },
+    "exit_load": "• 4% if redeemed within 12 months from the date of allotment • 3% if redeemed after 12 months but within 24 months from the date of allotment. • 2% if redeemed after 24 months but within 36 months from the date of allotment. • Nil if redeemed after 36 months from the date of allotment."
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-13T12:47:57.988251+00:00"
+}

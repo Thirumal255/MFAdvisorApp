@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "ICICI Prudential BSE Sensex Index Fund",
+  "source_file": "SUMMARY_ICICI Prudential BSE Sensex Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential BSE Sensex Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential BSE Sensex Index Fund - Direct Plan - Growth",
+      "ICICI Prudential BSE Sensex Index Fund - Direct Plan - IDCW",
+      "ICICI Prudential BSE Sensex Index Fund - Growth",
+      "ICICI Prudential BSE Sensex Index Fund - IDCW"
+    ],
+    "riskometer": "Very High\nAs on October 31, 2025",
+    "investment_objective": "An open-ended index linked growth scheme seeking to track the returns of BSE Sensex Index through investments in \na basket of stocks drawn from the constituents of the above index. \nThe objective of the Scheme is to invest in companies whose securities are included in BSE Sensex Index and subject \nto tracking errors, to endeavor to achieve the returns of the above index. This would be done by investing in all the \nstocks comprising the BSE Sensex Index in approximately the same weightage that they represent in BSE Sensex \nIndex. The Scheme will not seek to outperform the BSE Sensex Index or to underperform it. The objective is that the \nperformance of the NAV of the Scheme should closely track the performance of the BSE Sensex Index over the same \nperiod.\nHowever, there can be no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "Equity Stocks drawn from the components of the BSE Sensex Index and the exchange-traded derivatives on the BSE \nSensex Index 95%-100% \nDebt & Money Market Instruments 0%-5%",
+    "benchmark": "BSE SENSEX TRI",
+    "fund_managers": [
+      "Ajaykumar Solanki",
+      "Ashwini Bharucha",
+      "Nishit Patel",
+      "Venus Ahuja"
+    ],
+    "annual_expense": {
+      "Regular": "0.28",
+      "Direct": "0.20"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "141841",
+      "141842",
+      "141839",
+      "141840"
+    ],
+    "isins": [
+      "INF109KB10X0",
+      "INF109KB12X6",
+      "INF109KB17W7",
+      "INF109KB19W3"
+    ]
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential BSE Sensex Index Fund - Direct Plan - Growth",
+    "ICICI Prudential BSE Sensex Index Fund - Direct Plan - IDCW",
+    "ICICI Prudential BSE Sensex Index Fund - Growth",
+    "ICICI Prudential BSE Sensex Index Fund - IDCW"
+  ],
+  "extracted_at": "2026-04-13T14:08:49.495833+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Bandhan BSE India Sector Leaders Index Fund",
+  "source_file": "SUMMARY_Bandhan BSE India Sector Leaders Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan BSE India Sector Leaders Index Fund",
+    "fund_type": "An open-ended scheme tracking BSE India Sector Leaders Index",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "DirectPlan-Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to replicate the BSE India Sector Leaders Index by investing in the underlyingsecurities in the same proportion, subject to tracking error. The BSE India Sector Leaders Index will track the performance ofcompaniesthat are part of BSE AllCap belonging to the Healthcare sector.",
+    "asset_allocation": "Securities belonging to the Bandhan BSE India Sector Leaders Index (including stock and index derivatives) - 95% - 100%, Debt & Money Market instruments - 0%- 5%",
+    "benchmark": "BSE India Sector Leaders TRI",
+    "fund_managers": "FM 1 - Mr. Abhishek Jain",
+    "annual_expense": {
+      "Regular": "1.00",
+      "Direct": "0.25"
+    },
+    "exit_load": "0.25% - if redeemed on or before 15 days from the allotment date. • Nil – if redeemed after 15 days from the allotmentdate",
+    "amfi_codes": [
+      "153839",
+      "153838"
+    ],
+    "isins": [
+      "INF194KB1KA6",
+      "INF194KB1KB4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "DirectPlan-Growth"
+  ],
+  "extracted_at": "2026-04-13T12:39:25.429737+00:00"
+}

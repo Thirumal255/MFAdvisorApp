@@ -1,0 +1,42 @@
+{
+  "parent_scheme_name": "Motilal Oswal S&P BSE Low Volatility ETF",
+  "source_file": "SUMMARY_Motilal Oswal BSE Low Volatility ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal S&P BSE Low Volatility ETF",
+    "fund_type": "EQUITY FUND",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very high",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, correspond to the total returns of the securities as represented by S&P BSE Low Volatility Total Return Index, subject to tracking error.",
+    "asset_allocation": "Constituents of S&P BSE Low Volatility Index 95-100%, Liquid schemes/ debt schemes, debt and/or money market instruments 0-5%",
+    "benchmark": "S&P BSE Low Volatility Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "Equity Component",
+        "from_date": "23-Mar-22"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "Debt Component",
+        "from_date": "22/11/2022"
+      }
+    ],
+    "annual_expense": {
+      "Direct": "1"
+    },
+    "exit_load": "Yes",
+    "amfi_codes": [
+      "149921"
+    ],
+    "isins": [
+      "INF247L01BA3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:15:38.089977+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Sundaram Short Duration fund",
+  "source_file": "SUMMARY_Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund).pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Sundaram Short Duration fund",
+    "fund_type": "An open ended short term debt scheme investing in instruments such that the Macaulay duration of the portfolio is between1 year and 3 years. A relatively high interest rate risk and relatively high credit risk. * The Macaulay duration is the weightedaverage term to maturity of the cash ﬂows from a bond. The weight of each cash ﬂow is determined by dividing the presentvalue of the cash ﬂow by the price.",
+    "fund_options": [
+      "Regular Plan Growth",
+      "Regular Plan IDCW Payout",
+      "Regular Plan IDCW Reinvestment",
+      "Direct Plan Growth",
+      "Direct Plan IDCW Payout",
+      "Direct Plan IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF173K01BA3",
+      "INF173K01BB1",
+      "INF173K01BC9",
+      "INF173K01GP0",
+      "INF173K01GQ8",
+      "INF173K01GR6"
+    ],
+    "amfi_codes": [
+      "149588",
+      "149726",
+      "149733",
+      "149728",
+      "149730",
+      "149735"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate income and capital appreciation by investing primarily in ﬁxed income securities & money market instruments.No Guarantee: Investors are neither being oﬀered any guaranteed/indicated returns nor any guarantee on repayment ofcapital by the Scheme. There is also no guarantee of capital or return either by the mutual fund or by the sponsor or Trusteesby the Asset management Company.",
+    "asset_allocation": "Debt securities / Money Market 0 - 100%, instruments and Cash & Cash equivalents*",
+    "benchmark": "Nifty Short Duration Debt Index A-II",
+    "fund_managers": "FM 1 -Mr. Dwijendra Srivastava, FM 2 -Mr. Sandeep Agarwal",
+    "annual_expense": {
+      "Regular": "0.72",
+      "Direct": "0.31"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Regular Plan Growth",
+    "Regular Plan IDCW Payout",
+    "Regular Plan IDCW Reinvestment",
+    "Direct Plan Growth",
+    "Direct Plan IDCW Payout",
+    "Direct Plan IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T16:08:06.677917+00:00"
+}

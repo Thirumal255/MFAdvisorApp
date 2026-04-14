@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "UTI Focused Fund",
+  "source_file": "SUMMARY_UTI Focused Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "UTI Focused Fund",
+    "fund_type": "An open-ended equity scheme investing in maximum 30 stocks across market caps.",
+    "fund_options": [
+      "Direct - Payout of IDCW",
+      "Regular - Payout of IDCW",
+      "Direct Plan-Growth",
+      "Regular Plan-Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation by investing in equity & equity related instruments of maximum 30 stocks across market caps. However, there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Equity and equity related instruments (Maximum 30 stocks) (Including units of REITS): 65-100% (High) Debt and Money Market instruments including securitized debt*: 0-25% (Low to Medium) Units issued by InvITs: 0-10% (Medium to High)*Debt instruments shall be deemed to include securitised debts (excluding foreign securitised debt) and investment in securitised debts may be up to 50% of Debt and Money Market instruments.",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Vishal Chopda",
+    "annual_expense": {
+      "Regular": "1.97",
+      "Direct": "0.63"
+    },
+    "exit_load": "Less than one year: 1% and Greater than or equal to one year: Nil",
+    "amfi_codes": [
+      "149093",
+      "149092",
+      "149091",
+      "149090"
+    ],
+    "isins": [
+      "INF789F1AVB1",
+      "INF789F1AUZ2",
+      "INF789F1AVA3",
+      "INF789F1AUY5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct - Payout of IDCW",
+    "Regular - Payout of IDCW",
+    "Direct Plan-Growth",
+    "Regular Plan-Growth"
+  ],
+  "extracted_at": "2026-04-13T16:34:31.875548+00:00"
+}

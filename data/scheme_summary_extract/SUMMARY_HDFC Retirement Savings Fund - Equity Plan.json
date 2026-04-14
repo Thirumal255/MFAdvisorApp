@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "HDFC Retirement Savings Fund - Equity Plan",
+  "source_file": "SUMMARY_HDFC Retirement Savings Fund - Equity Plan.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Retirement Savings Fund - Equity Plan",
+    "fund_type": "An open ended retirement solution oriented scheme having a lock-in of 5 years or till retirement age (whichever is earlier)",
+    "fund_options": [
+      "DIRECT PLAN",
+      "REGULAR PLAN"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the Investment Plans under the Scheme is to provide long-term capital appreciation / income by investing in a mix of equity and debt instruments to help investors meet their retirement goals. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related Instruments: 80% - 100%; Debt Securities (including securitised debt) and money market instruments: 0%- 20%; Units issued by InvITs: 0% -10%; Non-convertible preference shares: 0% - 10%. For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
+    "benchmark": "NIFTY 500 Index (Total Returns Index)",
+    "fund_managers": "FM 1 - Mr.Srinivasan Ramamurthy, FM 2 - Mr.Shobhit Mehrotra, FM 3 - Ms. Nandita Menezes , FM 4 - Mr. Arun Agarwal , FM 5 -Mr. Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "1.76",
+      "Direct": "0.71"
+    },
+    "exit_load": "Fresh investments by investors including SIP / STP registrations, etc effective June 2, 2018: Exit Load (Upon completion of lock-in period): Nil Existing investments by investors including SIP / STP registrations, etc until June 1, 2018: Exit Load (Upon completion of lock-in period of 5 years) In respect of each purchase/switch-in of units offered under the respective Investment Plan(s) • An Exit Load of 1% is payable if Units are redeemed/ switched-out before completion of 60 years of age • No Exit Load is payable if Units are redeemed / switched-out on or after attainment of 60 years of age.",
+    "amfi_codes": [
+      "136094",
+      "136090"
+    ],
+    "isins": [
+      "INF179KB1MF0",
+      "INF179KB1MG8"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN",
+    "REGULAR PLAN"
+  ],
+  "extracted_at": "2026-04-13T13:53:24.041802+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Kotak CRISIL-IBX Financial Services 9 to 12 Months Debt Index Fund",
+  "source_file": "SUMMARY_Kotak CRISIL-IBX Financial Services 9 to 12 Months Debt Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak CRISIL-IBX Financial Services 9 to 12 Months Debt Index Fund",
+    "fund_type": "An open-ended Constant Maturity Index Fund tracking the CRISIL-IBX Financial Services 9 - 12 Months Debt Index. A relativelylow interest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCW Re-investment",
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-IDCW Re-investment"
+    ],
+    "isins": [
+      "INF174KA1XM9",
+      "INF174KA1XN7",
+      "INF174KA1XO5",
+      "INF174KA1XP2",
+      "INF174KA1XQ0",
+      "INF174KA1XR8"
+    ],
+    "amfi_codes": [
+      "153875",
+      "153876",
+      "153876",
+      "153877",
+      "153878",
+      "153878"
+    ],
+    "riskometer": "Low to moderate risk",
+    "investment_objective": "The investment objective of the scheme is to generate returns that are commensurate (before fees and expenses) with theperformance of CRISILIBX Financial Services 9 -12 Months Debt Index that seeks to track the performance of CommercialPapers (CPs), Certiﬁcates of Deposit (CDs) & corporate bond securities maturing within 9 to 12 months from the date ofinclusion in the index. However, there can be no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Investments Indicative Allocation Instruments forming part of the CRISIL-IBX Financial Services 9 - 12 Months Debt Index ^ -95% - 100% Cash & Debt/Money Market Instruments - 0% - 5%",
+    "benchmark": "CRISIL-IBX Financial Services 9 - 12 Months Debt Index",
+    "fund_managers": "Mr. Manu Sharma",
+    "annual_expense": {
+      "Regular": "0.32",
+      "Direct": "0.12"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCW Re-investment",
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-13T14:43:46.806199+00:00"
+}

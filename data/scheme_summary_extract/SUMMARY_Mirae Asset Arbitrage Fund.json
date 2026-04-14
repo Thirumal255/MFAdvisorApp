@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Mirae Asset Arbitrage Fund",
+  "source_file": "SUMMARY_Mirae Asset Arbitrage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Arbitrage Fund",
+    "fund_type": "An open ended scheme investing in arbitrage opportunities",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular PlanIDCW - Payout",
+      "Regular PlanIDCW -Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the scheme is to generate capital appreciation and income by predominantly investing in arbitrage opportunities in the cash and derivative segments of the equity markets and the arbitrage opportunities available within the derivative segment and by investing the balance in debt and money market instruments. There is no assurance or guarantee that the investment objective of the scheme will be realized.",
+    "asset_allocation": "Under normal circumstances, the asset allocation will be as follows: Equities and Equity Linked instruments - 65% to 90% (Medium to High) Derivatives including Index Futures, Stock Futures, Index Options and Stock Options - 65% to 90% (Medium to High) Debt securities and Money Market Instruments (including the margin money deployed in derivative transactions) - 10% to 35% (Low to Medium) Units issued by REITs & InvITs - 0% to 10% (Medium to High) Under defensive circumstances, the asset allocation will be as follows: Equities and Equity Linked instruments - 0% to 35% (Medium to High) Derivatives including Index Futures, Stock Futures, Index Options and Stock Options -0% to 35% (Medium to High) Debt securities and Money Market Instruments (including the margin money deployed in derivative transactions) - 65% to 100% (Low to Medium) Units issued by REITs & InvITs - 0% to 10% (Medium to High)",
+    "benchmark": "Nifty 50 Arbitrage Index",
+    "fund_managers": "Mr. Jignesh Rao (Equity Portion), Mr. Jigar Sethia (Equity Portion), Mr. Krishnpal Yadav (Debt Portion)",
+    "annual_expense": {
+      "Regular": "0.93",
+      "Direct": "0.15"
+    },
+    "exit_load": "0.25% If Redeemed or Switched Out within 15 days from the date of allotment. Nil after 15 Days.",
+    "amfi_codes": [
+      "148400",
+      "148401",
+      "148402",
+      "148403"
+    ],
+    "isins": [
+      "INF769K01FO0",
+      "INF769K01FP7",
+      "INF769K01FQ5",
+      "INF769K01FR3",
+      "INF769K01FS1",
+      "INF769K01FT9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular PlanIDCW - Payout",
+    "Regular PlanIDCW -Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-13T15:04:17.147614+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "parent_scheme_name": "JioBlackRock Low Duration Fund",
+  "source_file": "SUMMARY_JioBlackRock Low Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "JioBlackRock Low Duration Fund",
+    "fund_type": "An open ended low duration debt scheme investing in instruments such that the Macaulay duration of the portfolio isbetween 6 months to 12 months",
+    "fund_options": [
+      "Direct Plan - Growth"
+    ],
+    "riskometer": "Low To Moderate Risk",
+    "investment_objective": "The investment objective of the Scheme is to generate income through investment in debt and money market instrumentssuch that the Macaulay duration of the portfolio is between 6 months to 12 months.",
+    "asset_allocation": "Debt and Money Market instruments - 0% to 100%",
+    "benchmark": "NIFTY Low Duration Debt Index A-I",
+    "fund_managers": "Mr. Arun Ramachandran , Mr. Vikrant Mehta, Mr. Siddharth Deb",
+    "annual_expense": {
+      "Regular": "0.00",
+      "Direct": "0.20"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "154081"
+    ],
+    "isins": [
+      "INF22M001150"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T14:34:35.517089+00:00"
+}

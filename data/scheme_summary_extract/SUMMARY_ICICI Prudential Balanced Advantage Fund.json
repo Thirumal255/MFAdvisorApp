@@ -1,0 +1,67 @@
+{
+  "parent_scheme_name": "ICICI Prudential Balanced Advantage Fund",
+  "source_file": "SUMMARY_ICICI Prudential Balanced Advantage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Balanced Advantage Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Balanced Advantage Fund - Direct Plan - Growth",
+      "ICICI Prudential Balanced Advantage Fund - Direct Plan - IDCW",
+      "ICICI Prudential Balanced Advantage Fund - Direct Plan - IDCW - Monthly",
+      "ICICI Prudential Balanced Advantage Fund - Growth",
+      "ICICI Prudential Balanced Advantage Fund - IDCW",
+      "ICICI Prudential Balanced Advantage Fund - IDCW - Monthly"
+    ],
+    "isins": [
+      "INF109K012B0",
+      "INF109K010B4",
+      "INF109K011B2",
+      "INF109K016W7",
+      "INF109K015W9",
+      "INF109K01BH2",
+      "INF109K01EG8",
+      "INF109K01BG4",
+      "INF109K018W3",
+      "INF109K017W5"
+    ],
+    "amfi_codes": [
+      "120377",
+      "120376",
+      "120376",
+      "122236",
+      "122236",
+      "104685",
+      "104686",
+      "104686",
+      "122168",
+      "122168"
+    ],
+    "riskometer": "High",
+    "investment_objective": "To provide capital appreciation/income by investing in equity and equity related",
+    "asset_allocation": "•Equity & Equity related instruments 65% - 100% \n• Debt and Money Market Instruments, including Units of Debt oriented mutual fund \nschemes 0% - 35% \n•Preference Shares 0% - 10% \n•Units issued by InvITs 0% - 10%",
+    "benchmark": "CRISIL Hybrid 50+50 Moderate Index",
+    "fund_managers": [
+      "Rajat Chandak",
+      "Ihab Dalwai",
+      "Manish Banthia",
+      "Akhil Kakkar",
+      "Sri Sharma",
+      "Sharmila D'silva"
+    ],
+    "annual_expense": {
+      "Regular": "1.43",
+      "Direct": "0.86"
+    },
+    "exit_load": "• NIL - If units purchased or switched in from another scheme of the Fund are redeemed or \nswitched out upto 30% of the units (the limit) purchased or switched within 1 year from \nthe date of allotment. \n• 1% of the applicable NAV - If units purchased or switched in from another scheme of the \nFund are redeemed or switched out in excess of the limit within 1 year from the date of \nallotment.\n• NIL - If units purchased or switched in from another scheme of the Fund are redeemed or \nswitched out after 1 year from the date of allotment."
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Balanced Advantage Fund - Direct Plan - Growth",
+    "ICICI Prudential Balanced Advantage Fund - Direct Plan - IDCW",
+    "ICICI Prudential Balanced Advantage Fund - Direct Plan - IDCW - Monthly",
+    "ICICI Prudential Balanced Advantage Fund - Growth",
+    "ICICI Prudential Balanced Advantage Fund - IDCW",
+    "ICICI Prudential Balanced Advantage Fund - IDCW - Monthly"
+  ],
+  "extracted_at": "2026-04-13T14:07:34.860169+00:00"
+}

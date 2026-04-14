@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Franklin India Large Cap Fund",
+  "source_file": "SUMMARY_Franklin India Large Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Franklin India Large Cap Fund",
+    "fund_type": "Large-cap Fund- An open ended equity scheme predominantly investing in large cap stocks",
+    "fund_options": [
+      "Regular - Growth",
+      "Direct - IDCW Reinv.",
+      "Regular - IDCW Payout",
+      "Direct - Growth",
+      "Regular - IDCW Reinv.",
+      "Direct - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate long-term capital appreciation by actively managing a portfolio of equityand equity related securities. The Scheme will invest in a range of companies, with a bias towards large cap companies.",
+    "asset_allocation": "Equity and Equity related instruments of Large cap companies: 80-100% Equity and Equity related instruments of othercompanies: 0-20% Debt & Money Market Instruments: 0-20%",
+    "benchmark": "Nifty 100",
+    "fund_managers": "Venkatesh Sanjeevi, Ajay Argal, Sandeep Manam (dedicated for making investments for Foreign Securities)",
+    "annual_expense": {
+      "Regular": "1.85",
+      "Direct": "1.12"
+    },
+    "exit_load": "In respect of each purchase of Units - 1% if the Units are redeemed/switched-out within one year of allotment",
+    "amfi_codes": [
+      "100470",
+      "118462",
+      "100471",
+      "118531",
+      "100470",
+      "118462"
+    ],
+    "isins": [
+      "INF090I01171",
+      "INF090I01FP2",
+      "INF090I01155",
+      "INF090I01FN7",
+      "INF090I01163",
+      "INF090I01FO5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Direct - IDCW Reinv.",
+    "Regular - IDCW Payout",
+    "Direct - Growth",
+    "Regular - IDCW Reinv.",
+    "Direct - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-13T13:29:28.783073+00:00"
+}

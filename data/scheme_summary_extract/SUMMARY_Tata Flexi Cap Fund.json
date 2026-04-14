@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Tata Flexi Cap Fund",
+  "source_file": "SUMMARY_Tata Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Flexi Cap Fund",
+    "fund_type": "An open ended dynamic equity scheme investing across large cap, mid cap, small cap stocks.",
+    "fund_options": [
+      "Tata Flexi Cap Fund - Regular Plan - IDCW",
+      "Tata Flexi Cap Fund - Direct Plan - IDCW",
+      "Tata Flexi Cap Fund - Regular Plan -Growth",
+      "Tata Flexi Cap Fund - Direct Plan - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate capital appreciation over medium to long term. However, there is noassurance or guarantee that the investment objective of the Scheme will be achieved. The scheme does not assure orguarantee any returns.",
+    "asset_allocation": "Equity and Equity related instruments 65-100, Debt(including money market instrument & units of debt and liquid categoryschemes) 0-35, Units of REITs & InvITs 0-10.",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "FM-1 Anand Sharma, FM-2 Aditya Bagul",
+    "annual_expense": {
+      "Regular": "1.89",
+      "Direct": "0.62"
+    },
+    "exit_load": "Redemption/Switch-out/SWP/STP: 1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the dateof allotment: NIL.",
+    "amfi_codes": [
+      "144545",
+      "144543",
+      "144548",
+      "144546"
+    ],
+    "isins": [
+      "INF277K010L9",
+      "INF277K016K8",
+      "INF277K019K2",
+      "INF277K015K0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Flexi Cap Fund - Regular Plan - IDCW",
+    "Tata Flexi Cap Fund - Direct Plan - IDCW",
+    "Tata Flexi Cap Fund - Regular Plan -Growth",
+    "Tata Flexi Cap Fund - Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T16:11:46.392625+00:00"
+}

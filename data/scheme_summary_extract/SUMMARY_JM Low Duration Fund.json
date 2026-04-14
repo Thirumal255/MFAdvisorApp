@@ -1,0 +1,76 @@
+{
+  "parent_scheme_name": "JM Low Duration Fund",
+  "source_file": "SUMMARY_JM Low Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "JM Low Duration Fund",
+    "fund_type": "An open ended low duration debt scheme investing in instruments such that the Macaulay duration of the portfolio is between 6to 12 months. A relatively low interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Regular Daily IDCW",
+      "Regular Growth",
+      "Regular Weekly IDCW",
+      "Regular Fortnightly IDCW",
+      "Direct Daily IDCW",
+      "Direct Weekly IDCW",
+      "Direct Fortnightly IDCW",
+      "Direct Growth",
+      "Regular Bonus Option - Principal Units",
+      "Regular Bonus Option - Bonus Units",
+      "Direct Bonus Option - Principal Units",
+      "Direct Bonus Option - Bonus Units"
+    ],
+    "isins": [
+      "INF192K01AV1",
+      "INF192K01AY5",
+      "INF192K01AW9",
+      "INF192K01AX7",
+      "INF192K01DT9",
+      "INF192K01DU7",
+      "INF192K01DV5",
+      "INF192K01DW3",
+      "INF192K01FJ5",
+      "INF192K01FK3",
+      "INF192K01FL1",
+      "INF192K01FM9"
+    ],
+    "amfi_codes": [
+      "143603",
+      "143607",
+      "143608",
+      "143605",
+      "143604",
+      "143611",
+      "143606",
+      "143612",
+      "143609",
+      "148887",
+      "143610",
+      null
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "To generate stable long term returns with low risk strategy and capital appreciation/accretion besides preservation of capitalthrough investments in Debt & Money Market instruments such that the Macaulay duration of the portfolio is between 6months - 12 months,Investors are required to read all the scheme related information set out in the oﬀer documents carefullyand also note that there can be no assurance that the investment objectives of the scheme will be realized. The scheme does notguarantee/ indicate any returns.",
+    "asset_allocation": "Debt; Money Market and Short term debt inst. Maturing within one year; Debt, Money market and short term debt inst. Withresidual maturity above one year - 0% - 100% - Low",
+    "benchmark": "CRISIL Low Duration Debt A-I Index",
+    "fund_managers": "Mr. Killol Pandya, Ms. Ruchi Fozdar, Mr. Jayant Dhoot",
+    "annual_expense": {
+      "Regular": "0.88",
+      "Direct": "0.35"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Daily IDCW",
+    "Regular Growth",
+    "Regular Weekly IDCW",
+    "Regular Fortnightly IDCW",
+    "Direct Daily IDCW",
+    "Direct Weekly IDCW",
+    "Direct Fortnightly IDCW",
+    "Direct Growth",
+    "Regular Bonus Option - Principal Units",
+    "Regular Bonus Option - Bonus Units",
+    "Direct Bonus Option - Principal Units",
+    "Direct Bonus Option - Bonus Units"
+  ],
+  "extracted_at": "2026-04-13T14:40:08.914981+00:00"
+}

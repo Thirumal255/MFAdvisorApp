@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Baroda BNP Paribas Manufacturing Fund",
+  "source_file": "SUMMARY_Baroda BNP Paribas Manufacturing Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Baroda BNP Paribas Manufacturing Fund",
+    "fund_type": "An open-ended equity scheme predominantly investing in Manufacturing theme.",
+    "fund_options": [
+      "Direct Plan - Growth Option",
+      "Direct Plan - IDCW Option",
+      "Regular Plan - Growth Option",
+      "Regular Plan - IDCW Option",
+      "Direct Plan - IDCW Option Dividend Reinvestment",
+      "Regular Plan - IDCW Option - Dividend Reinvestment Option"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective is to generate long-term capital appreciation from a portfolio invested predominantly in equity and equity related securities of companies engaged in the Manufacturing.",
+    "asset_allocation": "Equity and equity related instruments of companies having manufacturing theme: 80 to 100%; Equity and equity related instruments of companies other than having manufacturing theme: 0 to 20% Debt / Money Market: 0 to 20%; Units of Mutual Funds (Domestic Schemes): 0 to 10%; Units issued by REITs & InvITs: 0 to 10%",
+    "benchmark": "Nifty India Manufacturing Index",
+    "fund_managers": "Mr. Jitendra Sriram, Mr. Kushant Arora",
+    "annual_expense": {
+      "Regular": "2.26",
+      "Direct": "1.14"
+    },
+    "exit_load": "If units of the Scheme are redeemed or switched out up to 10% of the units (the limit) within 1 year from the date of allotment - Nil. • If units of the scheme are redeemed or switched out in excess of the limit within 1 year from the date of allotment - 1% of the applicable NAV. • If units of scheme are redeemed or switched out after 1 year from the date of allotment - Nil.",
+    "amfi_codes": [
+      "152697",
+      "152698",
+      "152696",
+      "152699"
+    ],
+    "isins": [
+      "INF251K01TP7",
+      "INF251K01TQ5",
+      "INF251K01TM4",
+      "INF251K01TN2",
+      "INF251K01TR3",
+      "INF251K01TO0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth Option",
+    "Direct Plan - IDCW Option",
+    "Regular Plan - Growth Option",
+    "Regular Plan - IDCW Option",
+    "Direct Plan - IDCW Option Dividend Reinvestment",
+    "Regular Plan - IDCW Option - Dividend Reinvestment Option"
+  ],
+  "extracted_at": "2026-04-13T12:55:00.644087+00:00"
+}

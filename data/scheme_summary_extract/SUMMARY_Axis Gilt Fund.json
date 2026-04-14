@@ -1,0 +1,56 @@
+{
+  "parent_scheme_name": "Axis Gilt Fund",
+  "source_file": "SUMMARY_Axis Gilt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Gilt Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Growth",
+      "Direct IDCW",
+      "Direct Half Yearly IDCW",
+      "Regular Growth",
+      "Regular IDCW",
+      "Regular Half Yearly IDCW"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The Scheme will aim to generate credit risk free returns through investments in sovereign securities issued by the Central Government and/or State Government.",
+    "asset_allocation": "Government Securities and Treasury Bills - (80%-100%), Debt & Money market instruments - (0% - 20%)",
+    "benchmark": "CRISIL Dynamic Gilt Index",
+    "fund_managers": "Mr. Devang Shah, Mr. Sachin Jain",
+    "annual_expense": {
+      "Regular": "0.82",
+      "Direct": "0.42"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "120447",
+      "120448",
+      "120449",
+      "116471",
+      "116472",
+      "116470"
+    ],
+    "isins": [
+      "INF846K01DD4",
+      "INF846K01DF9",
+      "INF846K01DG7",
+      "INF846K01AX8",
+      "INF846K01AZ3",
+      "INF846K01CK1",
+      "INF846K01DE2",
+      "INF846K01DH5",
+      "INF846K01BB2",
+      "INF846K01CL9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Direct IDCW",
+    "Direct Half Yearly IDCW",
+    "Regular Growth",
+    "Regular IDCW",
+    "Regular Half Yearly IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:30:22.032522+00:00"
+}

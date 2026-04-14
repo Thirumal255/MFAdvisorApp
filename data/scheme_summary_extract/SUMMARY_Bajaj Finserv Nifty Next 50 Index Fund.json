@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "Bajaj Finserv Nifty Next 50 Index Fund",
+  "source_file": "SUMMARY_Bajaj Finserv Nifty Next 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bajaj Finserv Nifty Next 50 Index Fund",
+    "fund_type": "An open ended scheme tracking Nifty Next 50 Index",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - Reinvestment IDCW",
+      "Direct Plan - Payout IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - Reinvestment IDCW",
+      "Regular - Payout IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "An open ended index linked growth scheme seeking to replicate the returns of the Nifty Next 50 through investments in a basket of stocks drawn from the constituents of the Nifty Next 50 index. The objective of the Scheme is to invest in companies whose securities are included in the Nifty Next 50 Index and subject to tracking errors, to endeavor to achieve the returns of the Nifty Next 50 Index. This would be done by investing in all the stocks comprising Nifty Next 50 in approximately the same weightage that they represent in Nifty Next 50. The Scheme will not seek to outperform the Nifty Next 50 or to underperform it. The objective is that the performance of the NAV of the Scheme should track the performance of the Nifty Next 50 over the same period. However, there is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity Stocks forming part of the Nifty Next 50 Index - 95% - 100% Debt & Money Market instruments* - 0% - 5% *Moneymarket instruments will include commercial papers, commercial bills, Triparty REPO, Reverse Repo and equivalent and any other like instruments as specified by SEBI and Reserve Bank of India from time to time.",
+    "benchmark": "Nifty Next 50 Total Return Index (TRI)",
+    "fund_managers": "Mr. Ilesh Savla",
+    "annual_expense": {},
+    "exit_load": "Entry load: Nil Exit load: Nil",
+    "amfi_codes": [
+      "153479",
+      "153478",
+      "153478",
+      "153480",
+      "153481",
+      "153481"
+    ],
+    "isins": [
+      "INF0QA701BG6",
+      "INF0QA701BI2",
+      "INF0QA701BH4",
+      "INF0QA701BD3",
+      "INF0QA701BF8",
+      "INF0QA701BE1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - Reinvestment IDCW",
+    "Direct Plan - Payout IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - Reinvestment IDCW",
+    "Regular - Payout IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:38:11.405854+00:00"
+}

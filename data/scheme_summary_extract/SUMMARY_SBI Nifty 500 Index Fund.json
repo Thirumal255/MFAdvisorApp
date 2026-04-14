@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "SBI Nifty Bank Index Fund",
+  "source_file": "SUMMARY_SBI Nifty 500 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Nifty Bank Index Fund",
+    "fund_type": "An open-ended scheme replicating/ tracking Nifty Bank Index.",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth"
+    ],
+    "riskometer": "VERY HIGH",
+    "investment_objective": "The investment objective of the scheme is to provide returns that correspond to the total returns of the securities as represented by the underlying index, subject to tracking error. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": {
+      "Securities covered by Nifty Bank Index": "95%-100%",
+      "Government. Securities* including Triparty Repo, and units of liquid mutual fund": "0%-5%"
+    },
+    "benchmark": "Nifty Bank Index TRI",
+    "fund_managers": "Mr. Harsh Sethi",
+    "annual_expense": {
+      "Regular": "0.67"
+    },
+    "exit_load": "For exit on or before 15 days from the date of allotment – 0.25%• For exit after 15 days from the date of allotment – Nil•",
+    "amfi_codes": [
+      "153250",
+      "153252",
+      "153251",
+      "153253"
+    ],
+    "isins": [
+      "INF200KB1563",
+      "INF200KB1571",
+      "INF200KB1548",
+      "INF200KB1530"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T15:57:50.316848+00:00"
+}

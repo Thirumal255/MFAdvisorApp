@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "SBI Ultra Short Duration Fund (Formerly known as SBI Magnum Ultra Short Duration Fund)",
+  "source_file": "SUMMARY_SBI ULTRA SHORT DURATION FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Ultra Short Duration Fund (Formerly known as SBI Magnum Ultra Short Duration Fund)",
+    "fund_type": "An open ended ultra-short term debt scheme investing in instruments such that the Macaulay Duration of the portfolio is between 3 months to 6 months",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth"
+    ],
+    "isins": [
+      "INF200K01LK2",
+      "INF200K01LJ4",
+      "INF200K01TG3",
+      "INF200K01TF5"
+    ],
+    "amfi_codes": [
+      "105080",
+      "100641",
+      "119784",
+      "119828"
+    ],
+    "riskometer": "MODERATE",
+    "investment_objective": "The investment objective is to provide investors with an opportunity to generate regular income with high degree of liquidity through investments in a portfolio comprising predominantly of debt and money market instruments",
+    "asset_allocation": "Debt instruments (including Central and State Government(s) securities, Debt derivatives) and Money Market instruments 0%-100% Low to Medium",
+    "benchmark": "NIFTY Ultra Short Duration Debt Index",
+    "fund_managers": [
+      "Mr. Ardhendu Bhattacharya",
+      "Mr. Rajeev Radhakrishnan"
+    ],
+    "annual_expense": {
+      "Regular": "0.51"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T16:01:22.469870+00:00"
+}

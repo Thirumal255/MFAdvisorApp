@@ -1,0 +1,41 @@
+{
+  "parent_scheme_name": "Axis Multi Asset Allocation Fund",
+  "source_file": "SUMMARY_Axis Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Multi Asset Allocation Fund",
+    "fund_type": "Open Ended",
+    "fund_options": null,
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme seeks to generate long term capital appreciation by investing in a diversiﬁed portfolio of equity and equity relatedinstruments, debt and money market instruments, Exchange Traded Commodity Derivatives / Units of Gold ETFs, Silver ETF &units of REITs/InvITs.",
+    "asset_allocation": "Equity and Equity Related Instruments - (65%-80%), Debt and Money Market Instruments - (10%-30%), Units of Gold ETFs &Silver ETF & Exchange Traded Commodities Derivative (10%-30%), Units issued by REITs & InvITs - (0%-10%)",
+    "benchmark": "Nifty 500 TRI Index (65%) + Nifty Composite Debt Index (20%) + Domestic Price of Physical Gold (7.5%) + Domestic Price ofPhysical Silver (7.5%)",
+    "fund_managers": "Mr. Ashish Naik, Mr. Devang Shah, Mr. Hardik Shah, Mr. Aditya Pagaria, Mr. Pratik Tibrewal, Ms. Krishnaa N (For ForeignSecurities)",
+    "annual_expense": {
+      "Regular": "1.91",
+      "Direct": "0.86"
+    },
+    "exit_load": "If redeemed/switch out within 12 months from the date of allotment: - For 10% of investment : Nil FIFO basis For remaininginvestment : 1% w.e.f., 15/06/2015.1% if redeemed/switched out within 1 yea",
+    "amfi_codes": [
+      "120524",
+      "120523",
+      "113064",
+      "113065"
+    ],
+    "isins": [
+      "INF846K01EV4",
+      "INF846K01ET8",
+      "INF846K01768",
+      "INF846K01776",
+      "INF846K01EU6",
+      "INF846K01784"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth",
+    "Regular Payout of IDCW",
+    "Direct Payout of IDCW"
+  ],
+  "extracted_at": "2026-04-13T12:33:00.263360+00:00"
+}

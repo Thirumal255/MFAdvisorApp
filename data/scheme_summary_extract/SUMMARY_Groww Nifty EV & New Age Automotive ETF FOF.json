@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Groww Nifty EV & New Age Automotive ETF FOF",
+  "source_file": "SUMMARY_Groww Nifty EV & New Age Automotive ETF FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Groww Nifty EV & New Age Automotive ETF FOF",
+    "fund_type": "Fund of Fund",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW - Payout",
+      "Direct Plan - IDCW - Reinvestment",
+      "Regular Plan - Growth",
+      "Regular Plan -IDCW - Payout",
+      "Regular Plan - IDCW - Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate long term capital gains by investing in units of the Groww Nifty EV& New Age Automotive. However, there can be no assurance or guarantee that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Units of Groww Nifty EV & New Age Automotive ETF - 95% to 100% - Very High Debt & Money Market Instruments / and Units of debt/liquid schemes of domestic Mutual Funds - 0% to 05% - Very High",
+    "benchmark": "Nifty EV and New Age Automotive Index - Total Return Index",
+    "fund_managers": "Mr. Nikhil Satam , Mr. Aakash Chauhan , Mr. Shashi Kumar",
+    "annual_expense": {
+      "Regular": "0.60",
+      "Direct": "0.17"
+    },
+    "exit_load": "If redeemed within 30 days from the date of allotment: 1%; If redeemed after 30 days from the date of allotment: NIL.",
+    "amfi_codes": [
+      "152770",
+      "152771",
+      "152772",
+      "152773"
+    ],
+    "isins": [
+      "INF666M01IL4",
+      "INF666M01IM2",
+      "INF666M01IN0",
+      "INF666M01II0",
+      "INF666M01IJ8",
+      "INF666M01IK6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW - Payout",
+    "Direct Plan - IDCW - Reinvestment",
+    "Regular Plan - Growth",
+    "Regular Plan -IDCW - Payout",
+    "Regular Plan - IDCW - Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T13:36:15.903577+00:00"
+}

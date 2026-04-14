@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Quantum Gold Savings Fund",
+  "source_file": "SUMMARY_Quantum Gold Savings Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Quantum Gold Savings Fund",
+    "fund_type": "An Open-Ended Fund of Fund Scheme investing in Quantum Gold Fund.",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Regular Plan Growth"
+    ],
+    "riskometer": "High Risk",
+    "investment_objective": "The investment objective of the Scheme is to provide capital appreciation by predominantly investing in units of QuantumGold Fund - Replicating / Tracking Gold – an Exchange Traded Fund. The performance of the Scheme may diﬀer from that ofQuantum Gold Fund and the domestic prices of gold due to expenses and certain other factors. There can be no assurance orguarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Units of Quantum Gold Fund-95 to 100%, Money Market Instruments, Short-term Corporate debt securities, Tri-party Repoand units of Debt and Liquid Schemes of Mutual Fund-0 to 5%.",
+    "benchmark": "Domestic Price of Gold",
+    "fund_managers": "Chirag Mehta",
+    "annual_expense": {
+      "Regular": "0.49",
+      "Direct": "0.04"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "115132",
+      "141064"
+    ],
+    "isins": [
+      "INF082J01150",
+      "INF082J01358"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-13T15:47:49.984486+00:00"
+}

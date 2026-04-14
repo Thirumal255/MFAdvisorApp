@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "JM Value Fund",
+  "source_file": "SUMMARY_JM Value Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "JM Value Fund",
+    "fund_type": "An open ended equity scheme following a value investment strategy.",
+    "fund_options": [
+      "Regular IDCW Option-PAYOUT",
+      "Regular IDCW Option-REINVESTMENT",
+      "Regular Growth Option",
+      "Direct IDCW Option-PAYOUT",
+      "Direct IDCW Option-REINVESTMENT",
+      "Direct Growth Option"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "JM Value Fund is an open-ended diversiﬁed equity scheme which aims to provide long term capital growth by investing primarily in a well-diversiﬁed portfolio of undervalued securities. However, there can be no assurance that the investment objectives of the Scheme will be realized. The Scheme does not guarantee/ indicate any returns. Investors are required to read all the scheme related information set out in this document carefully.",
+    "asset_allocation": "Equity and Equity related instruments (including equity derivatives) -65%-100% - High, Debt Securities and Money Market Instruments - 0%-35% - Low, Securitised debt - 0%-20% - Low",
+    "benchmark": [
+      "BSE 500 TRI",
+      "Nifty 50 TRI"
+    ],
+    "fund_managers": [
+      "Mr. Satish Ramanathan",
+      "Mr. Asit Bhandarkar",
+      "Mr. Deepak Gupta",
+      "Ms. Ruchi Fozdar"
+    ],
+    "annual_expense": {
+      "Regular": "2.30",
+      "Direct": "1.10"
+    },
+    "exit_load": "If the units are redeemed/switched out on or before 30 days from the date of allotment – 1.00%. If the units are redeemed /switched out after 30 days from the date of allotment – Nil.",
+    "amfi_codes": [
+      "106168",
+      "106168",
+      "100254",
+      "120485",
+      "120485",
+      "120486"
+    ],
+    "isins": [
+      "INF137A01011",
+      "INF137A01029",
+      "INF137A01037",
+      "INF192K01BR7",
+      "INF192K01BS5",
+      "INF192K01BT3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular IDCW Option-PAYOUT",
+    "Regular IDCW Option-REINVESTMENT",
+    "Regular Growth Option",
+    "Direct IDCW Option-PAYOUT",
+    "Direct IDCW Option-REINVESTMENT",
+    "Direct Growth Option"
+  ],
+  "extracted_at": "2026-04-13T14:41:12.107484+00:00"
+}

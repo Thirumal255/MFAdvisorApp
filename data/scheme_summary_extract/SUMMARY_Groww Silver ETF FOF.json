@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Groww Silver ETF FOF",
+  "source_file": "SUMMARY_Groww Silver ETF FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Groww Silver ETF FOF",
+    "fund_type": "Fund of Funds",
+    "fund_options": [
+      "Direct - Growth",
+      "Direct - IDCW (Payout)",
+      "Direct - IDCW (Reinvestment)",
+      "Regular - Growth",
+      "Regular - IDCW (Payout)",
+      "Regular - IDCW (Reinvestment)"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to seek to provide returns that are in line with returns provided by Groww Silver Exchange Traded Fund. However, there is no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Units of Groww Silver ETF - 95% to 100% \nMoney market instruments  /  debt  securities,  Instruments  \nand/or units of debt/liquid schemes of domestic Mutual \nFunds 0% to 05%",
+    "benchmark": "Domestic Price of Physical Silver",
+    "fund_managers": "Mr. Wilfred Gonsalves",
+    "annual_expense": {
+      "Regular": "0.63",
+      "Direct": "0.18"
+    },
+    "exit_load": "If redeemed within 30 days from the date of allotment: 1%; \nIf redeemed after 30 days from the date of allotment: NIL.",
+    "amfi_codes": [
+      "153525",
+      "153526",
+      "153527",
+      "153528"
+    ],
+    "isins": [
+      "INF666M01KQ9",
+      "INF666M01KR7",
+      "INF666M01KS5",
+      "INF666M01KX5",
+      "INF666M01KY3",
+      "INF666M01KZ0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct - Growth",
+    "Direct - IDCW (Payout)",
+    "Direct - IDCW (Reinvestment)",
+    "Regular - Growth",
+    "Regular - IDCW (Payout)",
+    "Regular - IDCW (Reinvestment)"
+  ],
+  "extracted_at": "2026-04-13T13:38:38.738589+00:00"
+}

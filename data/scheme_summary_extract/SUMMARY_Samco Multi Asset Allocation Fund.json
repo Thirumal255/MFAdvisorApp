@@ -1,0 +1,41 @@
+{
+  "parent_scheme_name": "Samco Multi Asset Allocation Fund",
+  "source_file": "SUMMARY_Samco Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Samco Multi Asset Allocation Fund",
+    "fund_type": "An open-ended scheme investing in Equity, Fixed Income, Exchange Traded Comodity Derivatives, Units of Gold ETF's/ Silver ETF's & units of REITs/InvITs",
+    "fund_options": [
+      "Direct Plan - Growth Option",
+      "Regular Plan - Growth Option"
+    ],
+    "riskometer": "Very High (The Scheme risk-o-meter is based on evalution of the portfolio data as on November 30,2025)",
+    "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation by investing in a diversified portfolio of equity and equity related instruements, debt and money market instruments, Exchange Traded Commodity Derivatives / Units of Gold ETFs, Silver ETF & units of REITs/InvITs There is no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments  - 20% to 80% Debt & Money Market Instruments - 10% to 80% Units of Gold ETF, Silver ETF & Gold Related Instruments (which may be permitted under SEBI Regulations from time to time) & any other mode of investment in commodities (excluding commodity derivatives) - 10% to 80% Exchange Traded Commodity Derivatives (ETCDs) - 0% to 30% Units issued by REITs / InvITs - 0% to 10%",
+    "benchmark": "65% Nifty 50 TRI + 20% CRISIL Short Term Bond Fund Index +10% Domestic Price of Gold + 5% Domestic Price of Silver",
+    "fund_managers": [
+      "Mr. Umeshkumar Mehta",
+      "Mrs. Nirali Bhansali",
+      "Mr. Dhawal Dhanani",
+      "Ms. Komal Grover"
+    ],
+    "annual_expense": {
+      "Regular": "2.16",
+      "Direct": "0.56"
+    },
+    "exit_load": "• 10% of units can be redeemed without an exit load within 12 months of allotment. • . Any redemption in excess of such limit in the first 12 months will incur 1% exit load. • . No exit load, if redeemed or switched out after 12 months from the date of allotment of unit.",
+    "amfi_codes": [
+      "153092",
+      "153093"
+    ],
+    "isins": [
+      "INF0K1H01230",
+      "INF0K1H01248"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth Option",
+    "Regular Plan - Growth Option"
+  ],
+  "extracted_at": "2026-04-13T15:49:42.532923+00:00"
+}

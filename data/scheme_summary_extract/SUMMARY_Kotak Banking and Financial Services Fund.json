@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Kotak Banking & Financial Services Fund",
+  "source_file": "SUMMARY_Kotak Banking and Financial Services Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Banking & Financial Services Fund",
+    "fund_type": "An open-ended equity scheme investing in the Banking & Financial Services Sectors",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCW Re-investment",
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-IDCW Re-investment"
+    ],
+    "isins": [
+      "INF174KA1MD1",
+      "INF174KA1ME9",
+      "INF174KA1MF6",
+      "INF174KAMA7",
+      "INF174KA1MB5",
+      "INF174KA1MC3"
+    ],
+    "amfi_codes": [
+      "151384",
+      "151383",
+      "151383",
+      "151381",
+      "151382",
+      "151382"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate long-term capital appreciation from a portfolio that is invested predominantly in equity and equity related securities of companies engaged in banking and ﬁnancial services sector. However, there can be no assurance that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Equity and Equity Related Securities selected on the basis of business cycle- 80%-100%-Very High Equity and Equity Related Securities of companies other than those engaged in Banking & Financial Services -0%-20%-Very High Overseas Mutual Fund Schemes/ETFs/Foreign Securities - 0-20% - Very High Debt and Money Market Securities-0%-20%-Low to Moderate Units of InvITs-0%-10%-Very High $companies include units of REITs",
+    "benchmark": "Nifty Financial Services Total Return Index",
+    "fund_managers": "FM 1 Ms. Shibani Sircar Kurian, FM 2 Mr. Abhishek Bisen",
+    "annual_expense": {
+      "Regular": "2.11",
+      "Direct": "0.68"
+    },
+    "exit_load": "For redemption / switch out within 30 days from the date of allotment: 0.5% If units are redeemed or switched out on or after 30 days from the date of allotment: NIL Units issued on reinvestment of IDCW shall not be subject to entry and exit load. Any exit load charged (net off Goods and Services tax, if any) shall be credited back to the Scheme."
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCW Re-investment",
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-13T14:41:49.803943+00:00"
+}

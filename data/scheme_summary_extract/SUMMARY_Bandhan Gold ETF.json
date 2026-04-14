@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Bandhan Gold ETF",
+  "source_file": "SUMMARY_Bandhan Gold ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Gold ETF",
+    "fund_type": "Exchange Traded Fund",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "High",
+    "investment_objective": "The fund seeks to provide returns that, before expenses, closely correspond to the total return of the underlying index,subject to tracking errors.",
+    "asset_allocation": "Physical Gold and Gold related instruments - 95% - 100% Debt & Money Market instruments - 0%- 5%",
+    "benchmark": "Domestic Price of Physical Gold",
+    "fund_managers": "Mr. Abhishek Jain",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "503653"
+    ],
+    "isins": [
+      "INF194KB1KJ7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T12:42:17.673722+00:00"
+}

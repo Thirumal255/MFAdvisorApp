@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "UTI Nifty 50 Equal Weight Index Fund",
+  "source_file": "SUMMARY_UTI Nifty50 Equal Weight Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "UTI Nifty 50 Equal Weight Index Fund",
+    "fund_type": "An open-ended scheme replicating / tracking NIFTY50 Equal Weight Total Return Index [TRI]",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Regular Plan-Growth"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The Investment Objective of the Scheme is to provide returns that, before expenses, corresponds to the total return of the securities as represented by the underlying index, subject to tracking error. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Securities covered by Nifty 50 Equal Weight Index 95% 100% Very High Debt / Money Market instruments including Triparty Repo on Government Securities or treasury bill and units of Liquid Mutual Fund 0% 5% Low",
+    "benchmark": "Nifty 50 Equal Weight TRI",
+    "fund_managers": "Mr Sharwan Kumar Goyal FM 1, Mr. Ayush Jain FM 2",
+    "annual_expense": {
+      "Regular": "0.79",
+      "Direct": "0.33"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "151761",
+      "151762"
+    ],
+    "isins": [
+      "INF789F1AYQ3",
+      "INF789F1AYP5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Regular Plan-Growth"
+  ],
+  "extracted_at": "2026-04-13T16:38:29.762812+00:00"
+}

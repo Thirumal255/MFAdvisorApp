@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Invesco India Technology Fund",
+  "source_file": "SUMMARY_Invesco India Technology Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India Technology Fund",
+    "fund_type": "An open ended equity scheme investing in technology and technology related sectors",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Plan - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate capital appreciation by investing in equity and equity related instruments of companies in the technology and technology related sectors, companies focused on driving transformative innovations across technology, automation, robotics, artificial intelligence, cloud computing and other technology companies including those benefiting from the increased digital adoption. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity & equity related instruments of companies following manufacturing theme: Min. 80% Max. 100% Other equity and equity related instruments: Min. 0% and Max. 20%. Debt and Money Market Instruments: Min. 0% and Max. 20%. Units issued by REITs and InvITs: Min. 0% and Max. 10%.",
+    "benchmark": "Nifty IT TRI",
+    "fund_managers": "Mr. Hiten Jain - Primary, Mr. Aditya Khemani - Comanage",
+    "annual_expense": {
+      "Regular": "2.25",
+      "Direct": "1.25"
+    },
+    "exit_load": "- if units are redeemed/switched out on or before 3 months from the date of allotment: 0.50% - if units are redeemed/switched-out after 3 months: Nil - Switch between the Plans under the Scheme: Nil",
+    "amfi_codes": [
+      "152863",
+      "152860",
+      "152860",
+      "152861",
+      "152861",
+      "152862"
+    ],
+    "isins": [
+      "INF205KA1965",
+      "INF205KA1973",
+      "INF205KA1981",
+      "INF205KA1940",
+      "INF205KA1957",
+      "INF205KA1932"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-13T14:29:43.606845+00:00"
+}

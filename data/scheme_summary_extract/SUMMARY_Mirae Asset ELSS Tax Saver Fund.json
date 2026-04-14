@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "Mirae Asset ELSS Tax Saver Fund (formerly known as Mirae Asset Tax Saver Fund)",
+  "source_file": "SUMMARY_Mirae Asset ELSS Tax Saver Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset ELSS Tax Saver Fund (formerly known as Mirae Asset Tax Saver Fund)",
+    "fund_type": "ELSS - An open ended equity linked saving scheme with a statutory lock in of 3 years and tax benefit",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Regular Plan IDCW - Payout",
+      "Regular Plan Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate long-term capital appreciation from a diversified portfolio of predominantly equity and equity related instruments. The Scheme does not guarantee or assure any returns",
+    "asset_allocation": "Equity and Equity Related Instruments - 80% to 100% (High) Debt Instruments, Money Market Instruments, G-Secs, Cash, TREPS, Reverse Repo, etc.- 0% to 20% (Low to Medium)",
+    "benchmark": [
+      "Nifty 500 (TRI)",
+      "Nifty 200 (TRI)"
+    ],
+    "fund_managers": "Mr. Neelesh Surana",
+    "annual_expense": {
+      "Regular": "1.55",
+      "Direct": "0.58"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "135781",
+      "135782",
+      "135783",
+      "135784"
+    ],
+    "isins": [
+      "INF769K01DK3",
+      "INF769K01DL1",
+      "INF769K01DM9",
+      "INF769K01DN7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Regular Plan IDCW - Payout",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-13T15:06:28.982508+00:00"
+}

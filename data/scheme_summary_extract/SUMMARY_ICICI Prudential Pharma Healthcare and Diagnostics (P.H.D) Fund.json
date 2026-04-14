@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund",
+  "source_file": "SUMMARY_ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Growth",
+      "IDCW"
+    ],
+    "isins": [
+      "INF109KC1GH2",
+      "INF109KC1GJ8",
+      "INF109KC1GE9",
+      "INF109KC1GG4"
+    ],
+    "amfi_codes": [
+      "143874",
+      "143876",
+      "143873",
+      "143875"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long-term capital appreciation by creating a portfolio that is invested in equity and equity related securities of pharma, healthcare, hospitals, diagnostics, wellness and allied companies. However there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "• Equity & Equity related instruments of pharma, healthcare, diagnostics, wellness and allied companies 80%=100%\n• Equity & Equity related instruments of other than pharma, healthcare, diagnostics, wellness and allied companies 0%=20%\n• Debt, Units of Mutual Fund schemes, Money market instruments, Cash & Cash Equivalents 0%=20%",
+    "benchmark": "BSE Healthcare TRI",
+    "fund_managers": [
+      "Dharmesh Kakkad",
+      "Sharmila D'mello"
+    ],
+    "annual_expense": {
+      "Regular": "1.95",
+      "Direct": "1.07"
+    },
+    "exit_load": "1% of the applicable NAV - If units purchased or switched in from another scheme of the Fund are redeemed or switched out within 15 days from the date of allotment NIL - If units purchased or switched in from another scheme of the Fund are redeemed or switched out after 15 days from the date of allotment (w.e.f. 1st Jan 2019)"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Growth",
+    "IDCW"
+  ],
+  "extracted_at": "2026-04-13T14:20:14.344474+00:00"
+}

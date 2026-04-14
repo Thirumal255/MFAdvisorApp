@@ -1,0 +1,56 @@
+{
+  "parent_scheme_name": "Kotak Nifty500 Momentum 50 Index Fund",
+  "source_file": "SUMMARY_Kotak Nifty500 Momentum 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Nifty500 Momentum 50 Index Fund",
+    "fund_type": "An open-ended scheme replicating/tracking the Nifty500 Momentum 50 Index.",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCW Re-investment",
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-IDCW Re-investment"
+    ],
+    "isins": [
+      "INF174KA1YC8",
+      "INF174KA1YD6",
+      "INF174KA1YE4",
+      "INF174KA1YF1",
+      "INF174KA1YG9",
+      "INF174KA1YH7"
+    ],
+    "amfi_codes": [
+      "154032",
+      "154029",
+      "154029",
+      "154030",
+      "154031",
+      "154031"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, corresponds to the total returns of the securities as represented by the underlying index, subject to tracking errors. However, there is no assurance that the objective of the scheme will be realized.",
+    "asset_allocation": "Equity & Equity related Securities covered by Nifty500 Momentum 50 Index - 95% - 100%, Debt/ Money Market instruments - 0% - 5%",
+    "benchmark": "Nifty500 Momentum 50 Index",
+    "fund_managers": [
+      "Mr. Devender Singhal",
+      "Mr. Satish Dondapati",
+      "Mr. Abhishek Bisen"
+    ],
+    "annual_expense": {
+      "Regular": "0.52",
+      "Direct": "0.19"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCW Re-investment",
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-13T14:51:41.660876+00:00"
+}

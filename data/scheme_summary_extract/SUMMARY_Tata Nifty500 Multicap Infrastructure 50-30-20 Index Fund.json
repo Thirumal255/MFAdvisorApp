@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund",
+  "source_file": "SUMMARY_Tata Nifty500 Multicap Infrastructure 50-30-20 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund",
+    "fund_type": "An open-ended scheme replicating/tracking Nifty500 Multicap Infrastructure 50:30:20 Index",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns, before expenses, that are in line with the performance ofNifty500 Multicap Infrastructure 50:30:20 Index (TRI), subject to tracking error. However ,there is no assurance or guaranteethat the investment objective of the scheme will be achieved. The scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Securities covered by Nifty500 Multicap Infrastructure 50:30:20 Index(95-100),Debt & Money Market Instruments^ includingunits of Mutual Funds (0-5).",
+    "benchmark": "Nifty 500 Multicap Infrastructure 50:30:20 Index (TRI)",
+    "fund_managers": "1. Nitin Sharma , 2. Rakesh Prajapati",
+    "annual_expense": {
+      "Regular": "1.11",
+      "Direct": "0.48"
+    },
+    "exit_load": "0.25 % of the applicable NAV, if redeemed on or before 15 days from the date of allotment.",
+    "amfi_codes": [
+      "152596",
+      "152597",
+      "152599",
+      "152595",
+      "152598",
+      "152594"
+    ],
+    "isins": [
+      "INF277KA1BP4",
+      "INF277KA1BQ2",
+      "INF277KA1BR0",
+      "INF277KA1BS8",
+      "INF277KA1BT6",
+      "INF277KA1BU4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T16:16:51.153237+00:00"
+}

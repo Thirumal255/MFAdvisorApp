@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "LIC MF Flexi Cap Fund",
+  "source_file": "SUMMARY_LIC MF Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "LIC MF Flexi Cap Fund",
+    "fund_type": "An open ended dynamic equity scheme investing across large cap, mid cap and small cap stocks",
+    "fund_options": [
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-IDCW Reinv",
+      "Regular Plan-Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCW Reinv",
+      "Direct Plan-Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The main investment objective of the scheme is to provide capital growth by investing across Large, Mid & Small Cap stocks.The investment portfolio of the scheme will be constantly monitored and reviewed to optimise capital growth. There is noassurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and equity related instruments : 65-100%, Debt and debt related instruments, G-Secs, Money market instruments andcash:0-35%. Please refer the Scheme Information Document for complete details.",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": [
+      "FM -1-Mr. Jaiprakash Toshniwal",
+      "FM -2-Mr. Karan Doshi"
+    ],
+    "annual_expense": {
+      "Regular": "2.32",
+      "Direct": "1.59"
+    },
+    "exit_load": "12% of the units allotted shall be redeemed or switched out without any exit load, on or before completion of 3 months fromthe date of allotment of units., 1% on remaining units if redeemed or switched out on or before completion of 3 monthsfrom the date of allotment of units., Nil, if redeemed or switched out after completion of 3 months from the date ofallotment of units.",
+    "amfi_codes": [
+      "100312",
+      "100312",
+      "100313",
+      "120263",
+      "120263",
+      "120264"
+    ],
+    "isins": [
+      "INF767K01063",
+      "INF767K01055",
+      "INF767K01071",
+      "INF767K01EF5",
+      "INF767K01EH1",
+      "INF767K01EG3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-IDCW Reinv",
+    "Regular Plan-Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCW Reinv",
+    "Direct Plan-Growth"
+  ],
+  "extracted_at": "2026-04-13T14:55:29.624555+00:00"
+}

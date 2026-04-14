@@ -1,0 +1,33 @@
+{
+  "parent_scheme_name": "Motilal Oswal Nifty 50 ETF",
+  "source_file": "SUMMARY_Motilal Oswal Nifty 50 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal Nifty 50 ETF",
+    "fund_type": "ETF",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very high",
+    "investment_objective": "The Scheme seeks investment return that corresponds (before fees and expenses) generally to the performance of the Nifty 50 Index, subject to tracking error.",
+    "asset_allocation": "Securities constituting Nifty 50 Index 95-100%, Debt and Money market instruments and cash at call 0-5%",
+    "benchmark": "Nifty 50 TRI",
+    "fund_managers": [
+      "Mr. Swapnil Mayekar"
+    ],
+    "annual_expense": {
+      "Direct": "1"
+    },
+    "exit_load": "Yes",
+    "amfi_codes": [
+      "113069"
+    ],
+    "isins": [
+      "INF247L01536"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-13T15:18:00.066421+00:00"
+}

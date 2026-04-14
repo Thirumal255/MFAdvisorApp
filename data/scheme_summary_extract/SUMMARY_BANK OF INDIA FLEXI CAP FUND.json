@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bank of India Flexi Cap Fund",
+  "source_file": "SUMMARY_BANK OF INDIA FLEXI CAP FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bank of India Flexi Cap Fund",
+    "fund_type": "An open ended dynamic equity scheme investing across large cap, mid cap, small cap stocks",
+    "fund_options": [
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - Growth Growth",
+      "Regular - IDCW Payout",
+      "Regular - IDCW Reinvestment",
+      "Regular Plan - Growth Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation by investing predominantly in equity andequity-related securities across various market capitalisation. However, there can be no assurance that the investmentobjectives of the Scheme will be realized.",
+    "asset_allocation": "Equity & Equity related securities-65% to 100%-Medium Debt including Corporate Debt and Money Market instruments-0 to35%-Low to Medium Units issued by REITs and InvITs-0 to 10%-Medium to High",
+    "benchmark": "BSE 500 TRI",
+    "fund_managers": "Mr. Alok Singh",
+    "annual_expense": {
+      "Regular": "1.98",
+      "Direct": "0.60"
+    },
+    "exit_load": "• For redemption/switch out of initial units allotted within 3 months from the date of allotment : 1% Exit Load • Anyredemption/switch out from the date of allotment of units after 3 months: NIL",
+    "amfi_codes": [
+      "MPDD-148406",
+      "MPDG-148404",
+      "MPRD-148407",
+      "MPRG-148405",
+      null,
+      null
+    ],
+    "isins": [
+      "INF761K01FE8",
+      "INF761K01FG3",
+      "INF761K01FF5",
+      "INF761K01FH1",
+      "INF761K01FJ7",
+      "INF761K01FI9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - Growth Growth",
+    "Regular - IDCW Payout",
+    "Regular - IDCW Reinvestment",
+    "Regular Plan - Growth Growth"
+  ],
+  "extracted_at": "2026-04-13T12:48:10.233598+00:00"
+}

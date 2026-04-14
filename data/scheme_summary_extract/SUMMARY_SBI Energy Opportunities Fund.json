@@ -1,0 +1,48 @@
+{
+  "parent_scheme_name": "SBI Energy Opportunities Fund",
+  "source_file": "SUMMARY_SBI Energy Opportunities Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Energy Opportunities Fund",
+    "fund_type": "An open-ended equity scheme following the energy theme",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW"
+    ],
+    "riskometer": "VERY HIGH",
+    "investment_objective": "The investment objective of the scheme is to provide investors with opportunities for long term capital appreciation by investing in equity and equity related instruments of companies engaging in activities such as exploration, production, distribution, transportation and processing of traditional & new energy including but not limited to sectors such as oil & gas, utilities and power.However, there can be no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": {
+      "Equity and equity related instruments of companies engaged in energy (traditional & new) and allied business activities theme. (including equity derivatives)": "80% - 100%",
+      "Other equity & equity related instruments (including equity derivatives)": "0% - 20%",
+      "Debt securities (including securitized debt^ & debt derivatives) and money market instruments including tri-party repos": "0% - 20%",
+      "Units issued by REITs and InvITs": "0% - 10%"
+    },
+    "benchmark": "Nifty Energy TRI",
+    "fund_managers": "Mr. Raj Gandhi",
+    "annual_expense": {
+      "Direct": "0.64"
+    },
+    "exit_load": "For exit within 30 days from the date of allotment - 1%.• For exit after 30 days from the date of allotment - Nil.•",
+    "amfi_codes": [
+      "152417",
+      "152420",
+      "152418",
+      "152419"
+    ],
+    "isins": [
+      "INF200KB1126",
+      "INF200KB1134",
+      "INF200KB1092",
+      "INF200KB1100"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-13T15:54:06.552509+00:00"
+}

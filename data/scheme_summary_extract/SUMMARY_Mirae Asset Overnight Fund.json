@@ -1,0 +1,73 @@
+{
+  "parent_scheme_name": "Mirae Asset Overnight Fund",
+  "source_file": "SUMMARY_Mirae Asset Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Overnight Fund",
+    "fund_type": "Overnight Fund - An open ended debt scheme investing in overnight securities. A relatively low interest rate risk andrelatively low credit risk",
+    "fund_options": [
+      "Direct Plan IDCW - Weekly Reinvestment",
+      "Direct Plan-Growth",
+      "Direct PlanIDCW - Daily Reinvestment",
+      "Direct PlanIDCW -Monthly Payout",
+      "Direct PlanIDCW - Monthly Reinvestment",
+      "Regular Plan IDCW - Monthly Payout",
+      "Regular Plan IDCW - WeeklyReinvestment",
+      "Regular Plan-Growth",
+      "Regular PlanIDCW - Daily Reinvestment",
+      "Regular PlanIDCW - Monthly Reinvestment"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the scheme is to generate returns commensurate with low risk and providing high level ofliquidity, through investments made primarily in overnight securities having maturity of 1 business day. However, there is noassurance or guarantee that the investment objective of the Scheme will be achieved. The scheme does not assure orguarantee any returns.",
+    "asset_allocation": "Overnight securities or Debt Securities and Money Market Instruments@ (including MIBOR Linked instruments with daily calland put options) - 0% to 100% (Low)",
+    "benchmark": "NIFTY 1D Rate Index",
+    "fund_managers": "Mr. Krishnpal Yadav",
+    "annual_expense": {
+      "Regular": "0.17",
+      "Direct": "0.08"
+    },
+    "exit_load": null,
+    "amfi_codes": [
+      "100011",
+      "100043",
+      "147736",
+      "147737",
+      "147738",
+      "147739",
+      "147740",
+      "147741",
+      "147742",
+      "147743",
+      "201912",
+      "201913",
+      "201914",
+      "201915",
+      "202521"
+    ],
+    "isins": [
+      "INF769K01FD3",
+      "INF769K01FE1",
+      "INF769K01FF8",
+      "INF769K01FG6",
+      "INF769K01FH4",
+      "INF769K01FI2",
+      "INF769K01FJ0",
+      "INF769K01FK8",
+      "INF769K01FL6",
+      "INF769K01FM4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan IDCW - Weekly Reinvestment",
+    "Direct Plan-Growth",
+    "Direct PlanIDCW - Daily Reinvestment",
+    "Direct PlanIDCW -Monthly Payout",
+    "Direct PlanIDCW - Monthly Reinvestment",
+    "Regular Plan IDCW - Monthly Payout",
+    "Regular Plan IDCW - WeeklyReinvestment",
+    "Regular Plan-Growth",
+    "Regular PlanIDCW - Daily Reinvestment",
+    "Regular PlanIDCW - Monthly Reinvestment"
+  ],
+  "extracted_at": "2026-04-13T15:14:12.785295+00:00"
+}
