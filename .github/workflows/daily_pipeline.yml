@@ -44,7 +44,7 @@ jobs:
 
       - name: Run Processing Scripts
         run: |
-          python -m app.get_scheme_details
+          python -m app.get_scheme_details full
           python -m app.build_parent_masterlist
           python -m app.build_parent_nav_dataset
           python -m app.build_all_scheme_metrics
