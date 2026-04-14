@@ -1,0 +1,71 @@
+name: 🧪 Test Infrastructure Connections
+
+# This "workflow_dispatch" means it will ONLY run when you manually click the button
+on:
+  workflow_dispatch: 
+
+jobs:
+  test-connections:
+    runs-on: ubuntu-latest
+    
+    # Required for WIF Authentication
+    permissions:
+      contents: 'read'
+      id-token: 'write'
+      
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.14'
+
+      # TEST 1: Check OpenAI API Key
+      - name: Test OpenAI API Key
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "❌ OPENAI_API_KEY secret is missing or empty!"
+            exit 1
+          else
+            echo "✅ OpenAI API Key secret is securely loaded."
+          fi
+
+      # TEST 2: Check Google Cloud WIF Authentication
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          audience: 'https://github.com/Thirumal255'
+          workload_identity_provider: 'projects/264866286943/locations/global/workloadIdentityPools/github-actions-pool/providers/github-oidc-provider'
+          # 🟢 INSERT YOUR EXACT SERVICE ACCOUNT EMAIL HERE
+          service_account: 'mf-advisor-pipeline-automation@mf-advisor-487108.iam.gserviceaccount.com'
+
+      # TEST 3: Check Cloud SQL Proxy Tunnel
+      - name: Start Cloud SQL Auth Proxy
+        run: |
+          curl -o cloud-sql-proxy https://storage.googleapis.com/cloud-sql-connectors/cloud-sql-proxy/v2.11.0/cloud-sql-proxy.linux.amd64
+          chmod +x cloud-sql-proxy
+          # 🟢 INSERT YOUR EXACT INSTANCE NAME HERE
+          ./cloud-sql-proxy mf-advisor-487108:asia-south1:mf-advisor-db --port 5432 > proxy.log 2>&1 &
+          sleep 3
+          cat proxy.log
+            
+      # TEST 4: Check Database Credentials & Connectivity
+      - name: Test Postgres Database Connection
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: |
+          pip install psycopg2-binary
+          
+          # This runs a tiny Python script directly in the terminal
+          python -c "
+          import os, psycopg2, sys
+          try:
+              # Attempt to connect to the database
+              conn = psycopg2.connect(os.environ['DATABASE_URL'])
+              print('✅ SUCCESS: Securely connected to Cloud SQL database through the proxy!')
+              conn.close()
+          except Exception as e:
+              print(f'❌ FAILED: Could not connect to the database. Error: {e}')
+              sys.exit(1)
+          "
