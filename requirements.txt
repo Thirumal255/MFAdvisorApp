@@ -26,3 +26,4 @@ sentence-transformers
 google-cloud-storage
 psycopg2-binary
 ijson
+tqdm
