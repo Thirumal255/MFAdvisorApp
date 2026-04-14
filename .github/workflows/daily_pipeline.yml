@@ -30,12 +30,13 @@ jobs:
       - name: Authenticate to Google Cloud
         uses: google-github-actions/auth@v2
         with:
+          audience: 'https://github.com/Thirumal255'
           # Replace YOUR_PROJECT_NUMBER with your actual 12-digit project number
           workload_identity_provider: 'projects/264866286943/locations/global/workloadIdentityPools/github-actions-pool/providers/github-oidc-provider'
           
           # Replace YOUR_PROJECT_ID with your actual project ID
           service_account: 'github-actions-mf-advisor@mf-advisor-487108.iam.gserviceaccount.com'
-          
+
       - name: Install Requirements
         run: |
           python -m pip install --upgrade pip
