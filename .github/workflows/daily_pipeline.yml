@@ -37,11 +37,19 @@ jobs:
           # Replace YOUR_PROJECT_ID with your actual project ID
           service_account: 'github-actions-mf-advisor@mf-advisor-487108.iam.gserviceaccount.com'
 
-      - name: Set up Cloud SQL Auth Proxy
-        uses: GoogleCloudPlatform/cloud-sql-proxy-action@v1
-        with:
-          # Replace this with your exact Connection Name from the GCP Console!
-          instances: 'mf-advisor-487108:asia-south1:mf-advisor-db'          
+      # 🟢 REPLACE THE FAILED PROXY STEP WITH THIS:
+      - name: Start Cloud SQL Auth Proxy
+        run: |
+          # Download the official Google Cloud SQL Proxy v2
+          curl -o cloud-sql-proxy https://storage.googleapis.com/cloud-sql-connectors/cloud-sql-proxy/v2.11.0/cloud-sql-proxy.linux.amd64
+          chmod +x cloud-sql-proxy
+          
+          # Start the proxy in the background (&) on port 5432
+          # ⚠️ Replace the string below with your exact Cloud SQL Connection Name!
+          ./cloud-sql-proxy mf-advisor-487108:asia-south1:mf-advisor-db --port 5432 &
+          
+          # Wait a few seconds for the secure tunnel to fully open before continuing
+          sleep 3
 
       - name: Install Requirements
         run: |
