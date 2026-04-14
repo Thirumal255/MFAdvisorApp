@@ -35,7 +35,7 @@ jobs:
           workload_identity_provider: 'projects/264866286943/locations/global/workloadIdentityPools/github-actions-pool/providers/github-oidc-provider'
           
           # Replace YOUR_PROJECT_ID with your actual project ID
-          service_account: 'github-actions-mf-advisor@mf-advisor-487108.iam.gserviceaccount.com'
+          service_account: 'mf-advisor-pipeline-automation@mf-advisor-487108.iam.gserviceaccount.com'
 
       # 🟢 REPLACE THE FAILED PROXY STEP WITH THIS:
       - name: Start Cloud SQL Auth Proxy
@@ -46,10 +46,12 @@ jobs:
           
           # Start the proxy in the background (&) on port 5432
           # ⚠️ Replace the string below with your exact Cloud SQL Connection Name!
-          ./cloud-sql-proxy mf-advisor-487108:asia-south1:mf-advisor-db --port 5432 &
+          ./cloud-sql-proxy mf-advisor-487108:asia-south1:mf-advisor-db --port 5432 > proxy.log 2>&1 &
           
           # Wait a few seconds for the secure tunnel to fully open before continuing
           sleep 3
+
+          cat proxy.log
 
       - name: Install Requirements
         run: |
