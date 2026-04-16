@@ -1,0 +1,51 @@
+name: 🚀 Deploy Backend to Cloud Run
+
+on:
+  push:
+    branches:
+      - main
+    # Wakes up ONLY if files inside the backend folder are changed
+    paths:
+      - 'backend/**/*.py'
+      - 'backend/requirements.txt'
+      - 'backend/Dockerfile'
+  workflow_dispatch: 
+
+jobs:
+  deploy-backend:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: 'read'
+      id-token: 'write'
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          audience: 'https://github.com/Thirumal255'
+          workload_identity_provider: 'projects/264866286943/locations/global/workloadIdentityPools/github-actions-pool/providers/github-oidc-provider'
+          # 🟢 INSERT YOUR EXACT SERVICE ACCOUNT EMAIL HERE
+          service_account: 'mf-advisor-pipeline-automation@mf-advisor-487108.iam.gserviceaccount.com'
+
+      - name: Deploy to Cloud Run
+        id: deploy
+        uses: google-github-actions/deploy-cloudrun@v2
+        with:
+          service: mf-advisor-backend
+          region: asia-south1
+          # 🟢 TELLS GOOGLE CLOUD TO BUILD FROM THIS FOLDER
+          source: ./backend 
+          flags: >
+            --allow-unauthenticated
+            --add-cloudsql-instances=mf-advisor-487108:asia-south1:mf-advisor-db
+            --set-secrets=DATABASE_URL=DATABASE_URL:latest
+            --memory=512Mi
+            --cpu=1
+            --max-instances=10
+
+      - name: Show Deployment URL
+        run: echo "✅ Backend deployed successfully to ${{ steps.deploy.outputs.url }}"
