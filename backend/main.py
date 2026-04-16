@@ -13,6 +13,7 @@ import difflib
 from routers.chat import router as chat_router
 from routers.analytics import router as analytics_router
 from services.llm_service import get_llm_provider, MFBESTIE_SYSTEM_PROMPT
+from google.cloud import storage
 
 app = FastAPI(title="MF Advisor API", version="1.0")
 
@@ -88,7 +89,7 @@ FUNDS_DATA = {}
 # Database connection
 def get_db_connection():
     database_url = os.getenv("DATABASE_URL")
-    database_url = "postgresql://postgres:admin@localhost:5432/mf_advisor"
+    #database_url = "postgresql://postgres:admin@localhost:5432/mf_advisor"
     if not database_url:
         raise Exception("DATABASE_URL not set")
     conn = psycopg2.connect(database_url, cursor_factory=RealDictCursor)
@@ -157,6 +158,30 @@ def get_category_emoji(main_category):
 
 def load_data():
     global FUNDS_DATA
+    
+    # 1. Detect if we are running in Google Cloud Run
+    is_cloud_run = os.environ.get('K_SERVICE') is not None
+    
+    # 2. If in the cloud, download the file from GCS first
+    if is_cloud_run:
+        print("☁️ Running in Cloud Run! Downloading data from GCS...")
+        try:
+            # Ensure the /app/data directory exists
+            os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
+            
+            # Connect to GCS and download the file
+            storage_client = storage.Client()
+            bucket = storage_client.bucket("run-sources-mf-advisor-487108-asia-south1")
+            blob = bucket.blob("scheme_metrics_merged.json")
+            
+            blob.download_to_filename(DATA_FILE)
+            print("✅ Successfully downloaded scheme_metrics_merged.json from GCS")
+        except Exception as e:
+            print(f"❌ Failed to download from GCS: {e}")
+    else:
+        print("💻 Running locally. Skipping GCS download.")
+
+    # 3. Load the data into memory (Works for both Cloud and Local)
     try:
         with open(DATA_FILE, 'r', encoding='utf-8') as f:
             FUNDS_DATA = json.load(f)
