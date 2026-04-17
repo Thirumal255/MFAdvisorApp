@@ -14,6 +14,7 @@ import json
 import os
 from pathlib import Path
 from dotenv import load_dotenv
+from google.cloud import storage
 
 # ============================================================
 # REMOVED BLOCKING IMPORTS - These were crashing the app!
@@ -219,25 +220,51 @@ SUB_CATEGORY_SYNONYMS = {
 # =============================================================================
 
 def load_funds():
-    """Load funds and create indexes."""
-    paths = [
-        Path(__file__).parent.parent / "data" / "scheme_metrics_merged.json",
-        Path("./data/scheme_metrics_merged.json"),
-        Path("/app/data/scheme_metrics_merged.json"),
-    ]
+    """Load funds and create indexes (Cloud Run Ready)."""
     
+    # 1. Define our target paths
+    local_path = Path(__file__).parent.parent / "data" / "scheme_metrics_merged.json"
+    cloud_path = Path("/app/data/scheme_metrics_merged.json")
+    
+    # Default to cloud path if in Cloud Run, else local path
+    is_cloud_run = os.environ.get('K_SERVICE') is not None
+    target_path = cloud_path if is_cloud_run else local_path
+
+    # 2. Cloud Run GCS Download Logic
+    if is_cloud_run:
+        print("☁️ [Chat Router] Running in Cloud Run! Downloading data from GCS...")
+        try:
+            # Ensure the directory exists
+            os.makedirs(os.path.dirname(target_path), exist_ok=True)
+            
+            # Connect to GCS and download the file
+            storage_client = storage.Client()
+            bucket = storage_client.bucket("run-sources-mf-advisor-487108-asia-south1")
+            blob = bucket.blob("scheme_metrics_merged.json")
+            
+            blob.download_to_filename(str(target_path))
+            print(f"✅ [Chat Router] Successfully downloaded to {target_path}")
+        except Exception as e:
+            print(f"❌ [Chat Router] Failed to download from GCS: {e}")
+    else:
+        print("💻 [Chat Router] Running locally. Skipping GCS download.")
+
+    # 3. Load the data into memory
+    paths_to_check = [target_path, local_path, Path("./data/scheme_metrics_merged.json")]
     raw_data = {}
-    for p in paths:
+    
+    for p in paths_to_check:
         if p.exists():
             with open(p, encoding='utf-8') as f:
                 raw_data = json.load(f)
-            print(f"✅ Loaded funds from {p}")
+            print(f"✅ [Chat Router] Loaded funds from {p}")
             break
     
     if not raw_data:
         print("⚠️ Fund data not found")
         return {}, {}, {}, {}
     
+    # 4. Build Indexes (Unchanged)
     code_index = {}
     sub_category_index = {}
     main_category_index = {}
@@ -264,7 +291,7 @@ def load_funds():
             main_category_index[main_cat] = []
         main_category_index[main_cat].append(fund_data)
     
-    print(f"📊 Indexed {len(raw_data)} funds, {len(code_index)} codes")
+    print(f"📊 [Chat Router] Indexed {len(raw_data)} funds, {len(code_index)} codes")
     
     return raw_data, code_index, sub_category_index, main_category_index
 
