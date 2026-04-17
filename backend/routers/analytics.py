@@ -3,12 +3,17 @@ Analytics Router - Peer Comparison, Sector Allocation, Overlap Analysis
 ========================================================================
 FILE: backend/routers/analytics.py
 
-UPDATED: 
-- Added CATEGORY_INDEX for faster peer lookups
-- Added debug logging for troubleshooting
-- Better fallback to main_category when sub_category has few peers
-- Returns partial data instead of error when peers are limited
-- Fixed sector response to include both "weight" and "value" fields
+UPDATED: Handles JSON structure where keys are fund names and codes are 
+stored inside as canonical_code and amfi_code in variants.
+
+ENDPOINTS:
+    GET  /api/analytics/peer-comparison/{fund_code}   - Compare fund vs category
+    GET  /api/analytics/sector-allocation/{fund_code} - Get sector breakdown
+    POST /api/analytics/overlap-analysis              - Analyze portfolio overlap
+    GET  /api/analytics/fund-manager/{fund_code}      - Fund manager details
+    GET  /api/analytics/search                        - Search funds by name
+    GET  /api/analytics/list-funds                    - List all funds
+    GET  /api/analytics/health                        - Health check
 """
 
 from fastapi import APIRouter, HTTPException, Query
@@ -36,17 +41,18 @@ def load_funds():
         if p.exists():
             with open(p, encoding='utf-8') as f:
                 raw_data = json.load(f)
-                print(f"📊 Analytics: Loaded data from {p}")
                 break
     
     if not raw_data:
         print("⚠️ Fund data not found")
-        return {}, {}, {}
+        return {}, {}
     
     # Create code-to-fund lookup index
+    # Maps: scheme_code -> fund_data
     code_index = {}
     
     for fund_name, fund_data in raw_data.items():
+        # Add the fund name as a field for easy access
         fund_data["_fund_name_key"] = fund_name
         
         # Index by canonical_code
@@ -61,43 +67,14 @@ def load_funds():
             if amfi:
                 code_index[str(amfi)] = fund_data
     
-    # =====================================================
-    # NEW: Build category index for faster peer lookups
-    # =====================================================
-    category_index = {}
-    
-    for fund_name, fund_data in raw_data.items():
-        # Get both sub_category and main_category
-        sub_cat = (fund_data.get("sub_category") or "").strip()
-        main_cat = (fund_data.get("main_category") or "").strip()
-        
-        # Index by sub_category (exact match, case-insensitive key)
-        if sub_cat:
-            key = sub_cat.lower()
-            if key not in category_index:
-                category_index[key] = []
-            category_index[key].append(fund_data)
-        
-        # Also index by main_category if different
-        if main_cat and main_cat.lower() != sub_cat.lower():
-            key = main_cat.lower()
-            if key not in category_index:
-                category_index[key] = []
-            category_index[key].append(fund_data)
-    
     print(f"📊 Analytics: Loaded {len(raw_data)} funds")
     print(f"📊 Analytics: Indexed {len(code_index)} scheme codes")
-    print(f"📊 Analytics: Built {len(category_index)} category groups")
     
-    # Print sample categories for debugging
-    sample_cats = list(category_index.keys())[:10]
-    print(f"📊 Sample categories: {sample_cats}")
-    
-    return raw_data, code_index, category_index
+    return raw_data, code_index
 
 
 # Load data at startup
-FUNDS_BY_NAME, FUNDS_BY_CODE, CATEGORY_INDEX = load_funds()
+FUNDS_BY_NAME, FUNDS_BY_CODE = load_funds()
 
 
 # =============================================================================
@@ -113,15 +90,20 @@ class OverlapRequest(BaseModel):
 # =============================================================================
 
 def get_fund(code: str) -> Dict:
-    """Get fund by scheme code (canonical_code or amfi_code)."""
+    """
+    Get fund by scheme code (canonical_code or amfi_code).
+    """
     code_str = str(code).strip()
     
+    # Try code index first
     if code_str in FUNDS_BY_CODE:
         return FUNDS_BY_CODE[code_str]
     
+    # Try as fund name (in case someone passes the name)
     if code_str in FUNDS_BY_NAME:
         return FUNDS_BY_NAME[code_str]
     
+    # Try partial name match
     code_lower = code_str.lower()
     for name, fund in FUNDS_BY_NAME.items():
         if code_lower in name.lower():
@@ -153,62 +135,49 @@ def get_fund_category(fund: Dict) -> str:
     )
 
 
-def get_category_funds(category: str, exclude_code: str = None) -> List[Dict]:
-    """
-    Get all funds in a category using the pre-built index.
-    Much faster than iterating through all funds.
-    """
+def get_category_funds(category: str) -> List[Dict]:
+    """Get all funds in a category."""
     if not category:
         return []
     
-    cat_key = category.lower().strip()
+    cat_lower = category.lower().strip()
+    results = []
     
-    # Try exact match first
-    results = CATEGORY_INDEX.get(cat_key, [])
+    for fund_name, fund in FUNDS_BY_NAME.items():
+        fund_cat = get_fund_category(fund).lower().strip()
+        # Match on sub_category or main_category
+        if cat_lower in fund_cat or fund_cat in cat_lower:
+            results.append(fund)
     
-    # If no exact match, try partial matching
-    if not results:
-        for key, funds in CATEGORY_INDEX.items():
-            if cat_key in key or key in cat_key:
-                results.extend(funds)
-                break  # Use first match
-    
-    # Remove duplicates and exclude the current fund if specified
-    seen_codes = set()
-    unique_results = []
-    
-    for fund in results:
-        fund_code = str(fund.get("canonical_code", ""))
-        if fund_code and fund_code not in seen_codes:
-            # Optionally exclude the fund we're comparing
-            if exclude_code and fund_code == str(exclude_code):
-                continue
-            seen_codes.add(fund_code)
-            unique_results.append(fund)
-    
-    return unique_results
+    return results
 
 
 def get_metric(fund: Dict, key: str) -> Optional[float]:
-    """Get a metric value from fund data. Handles nested metrics structure."""
+    """
+    Get a metric value from fund data.
+    Handles nested metrics structure.
+    """
+    # First check in nested 'metrics' dict
     metrics = fund.get("metrics", {})
     
+    # Mapping of common names to your actual field names
     field_mapping = {
-        "cagr": ["cagr"],
-        "cagr_1y": ["abs_return_1y", "rolling_1y", "return_1y"],
-        "cagr_3y": ["rolling_3y", "abs_return_3y", "return_3y"],
-        "cagr_5y": ["rolling_5y", "abs_return_5y", "return_5y"],
+        "cagr_1y": ["abs_return_1y", "rolling_1y"],
+        "cagr_3y": ["rolling_3y", "abs_return_3y"],
+        "cagr_5y": ["rolling_5y", "abs_return_5y"],
         "sharpe_ratio": ["sharpe"],
         "sortino_ratio": ["sortino"],
         "volatility": ["volatility"],
         "max_drawdown": ["max_drawdown"],
-        "expense_ratio": [],
+        "expense_ratio": [],  # Will check annual_expense separately
         "consistency_score": ["consistency_score"],
     }
     
+    # Try to find the metric
     aliases = field_mapping.get(key, [key])
     
     for alias in aliases:
+        # Check in metrics dict
         val = metrics.get(alias)
         if val is not None:
             try:
@@ -216,6 +185,7 @@ def get_metric(fund: Dict, key: str) -> Optional[float]:
             except (ValueError, TypeError):
                 pass
         
+        # Check at top level
         val = fund.get(alias)
         if val is not None:
             try:
@@ -225,9 +195,10 @@ def get_metric(fund: Dict, key: str) -> Optional[float]:
     
     # Special handling for expense_ratio
     if key == "expense_ratio":
-        expense = fund.get("expense") or fund.get("annual_expense", {})
-        if isinstance(expense, dict):
-            val = expense.get("Direct") or expense.get("Regular")
+        annual_expense = fund.get("annual_expense", {})
+        if isinstance(annual_expense, dict):
+            # Prefer Direct plan expense
+            val = annual_expense.get("Direct") or annual_expense.get("Regular")
             if val:
                 try:
                     return float(val)
@@ -358,52 +329,31 @@ async def get_peer_comparison(fund_code: str):
     fund = get_fund(fund_code)
     
     fund_name = get_fund_name(fund)
-    sub_category = fund.get("sub_category") or ""
-    main_category = fund.get("main_category") or ""
+    category = get_fund_category(fund)
+    peers = get_category_funds(category)
     
-    # Debug logging
-    print(f"\n🔍 Peer comparison for fund_code: {fund_code}")
-    print(f"   Fund name: {fund_name}")
-    print(f"   Sub-category: '{sub_category}'")
-    print(f"   Main-category: '{main_category}'")
-    
-    # Try sub_category first
-    peers = get_category_funds(sub_category, exclude_code=fund_code)
-    category_used = sub_category
-    print(f"   Peers in sub_category '{sub_category}': {len(peers)}")
-    
-    # If not enough peers, try main_category
-    if len(peers) < 3 and main_category and main_category.lower() != sub_category.lower():
-        peers = get_category_funds(main_category, exclude_code=fund_code)
-        category_used = main_category
-        print(f"   Peers in main_category '{main_category}': {len(peers)}")
-    
-    # If still not enough peers, return partial data instead of error
     if len(peers) < 2:
-        print(f"   ⚠️ Not enough peers found!")
-        return {
-            "fund_code": fund_code,
-            "fund_name": fund_name,
-            "category": category_used or sub_category or main_category or "Unknown",
-            "main_category": main_category,
-            "category_count": len(peers),
-            "overall_percentile": 50,
-            "overall_label": "Insufficient peer data",
-            "riskometer": fund.get("riskometer") or fund.get("risk"),
-            "metrics": {},
-            "message": f"Only {len(peers)} peers found. Need at least 2 for comparison."
-        }
+        # Try broader category
+        main_cat = fund.get("main_category", "")
+        if main_cat:
+            peers = get_category_funds(main_cat)
+    
+    if len(peers) < 2:
+        raise HTTPException(
+            status_code=400, 
+            detail=f"Not enough peers in category '{category}' (found {len(peers)})"
+        )
     
     # Metrics to compare
     metrics_config = {
-        "cagr": ("Overall CAGR (%)", True),
         "cagr_1y": ("1Y Returns (%)", True),
         "cagr_3y": ("3Y Returns (%)", True),
         "cagr_5y": ("5Y Returns (%)", True),
         "sharpe_ratio": ("Sharpe Ratio", True),
         "sortino_ratio": ("Sortino Ratio", True),
-        "volatility": ("Volatility (%)", False),
-        "max_drawdown": ("Max Drawdown (%)", False),
+        "volatility": ("Volatility", False),
+        "max_drawdown": ("Max Drawdown", False),
+        "expense_ratio": ("Expense Ratio (%)", False),
         "consistency_score": ("Consistency Score", True),
     }
     
@@ -415,9 +365,9 @@ async def get_peer_comparison(fund_code: str):
         if fund_val is None:
             continue
         
-        # Convert decimals to percentages for display
-        if key in ["cagr", "cagr_1y", "cagr_3y", "cagr_5y", "volatility", "max_drawdown"]:
-            if abs(fund_val) < 1:
+        # For returns stored as decimals (0.12 = 12%), convert to percentage
+        if key in ["cagr_1y", "cagr_3y", "cagr_5y", "volatility", "max_drawdown"]:
+            if abs(fund_val) < 1:  # Likely decimal format
                 fund_val = fund_val * 100
         
         # Get peer values
@@ -425,7 +375,7 @@ async def get_peer_comparison(fund_code: str):
         for p in peers:
             pv = get_metric(p, key)
             if pv is not None:
-                if key in ["cagr", "cagr_1y", "cagr_3y", "cagr_5y", "volatility", "max_drawdown"]:
+                if key in ["cagr_1y", "cagr_3y", "cagr_5y", "volatility", "max_drawdown"]:
                     if abs(pv) < 1:
                         pv = pv * 100
                 peer_vals.append(pv)
@@ -453,17 +403,15 @@ async def get_peer_comparison(fund_code: str):
     
     overall = round(sum(percentiles) / len(percentiles)) if percentiles else 50
     
-    print(f"   ✅ Comparison complete: {len(metrics)} metrics, overall percentile: {overall}")
-    
     return {
         "fund_code": fund_code,
         "fund_name": fund_name,
-        "category": category_used,
-        "main_category": main_category,
+        "category": category,
+        "main_category": fund.get("main_category"),
         "category_count": len(peers),
         "overall_percentile": overall,
         "overall_label": percentile_label(overall),
-        "riskometer": fund.get("riskometer") or fund.get("risk"),
+        "riskometer": fund.get("riskometer"),
         "metrics": metrics,
     }
 
@@ -485,7 +433,6 @@ async def get_sector_allocation(fund_code: str):
         fund.get("sectors") or 
         fund.get("portfolio_sectors") or
         fund.get("asset_allocation_sectors") or
-        fund.get("holdings_by_sector") or
         {}
     )
     
@@ -509,42 +456,43 @@ async def get_sector_allocation(fund_code: str):
             "riskometer": fund.get("riskometer"),
             "data_available": False,
             "message": "Sector allocation data not available. This data comes from monthly factsheets.",
-            "asset_allocation": fund.get("asset_allocation"),
-            "sectors": [],
-            "total_sectors": 0,
-            "top3_concentration": 0,
-            "concentration_level": "Unknown",
+            "asset_allocation": fund.get("asset_allocation"),  # Return the text-based allocation if available
+            "sectors": []
         }
     
-    # Format sectors for response
+    # Format sectors
     sector_list = []
     for sector_name, alloc in sectors.items():
         try:
             val = float(alloc)
             sector_list.append({
                 "name": sector_name,
-                "weight": round(val, 2),  # Frontend expects "weight"
-                "value": round(val, 2),   # Keep "value" for backward compatibility
+                "value": round(val, 2),
                 "color": get_sector_color(sector_name)
             })
         except (ValueError, TypeError):
             continue
     
-    sector_list.sort(key=lambda x: x["weight"], reverse=True)
+    sector_list.sort(key=lambda x: x["value"], reverse=True)
     
-    # Calculate concentration
-    top3 = 0
-    concentration_level = "Unknown"
+    # Concentration metrics
+    concentration = None
     if sector_list:
-        values = [s["weight"] for s in sector_list]
+        values = [s["value"] for s in sector_list]
         top3 = sum(sorted(values, reverse=True)[:3])
         
         if top3 > 70:
-            concentration_level = "High"
+            risk = "High (Concentrated)"
         elif top3 > 50:
-            concentration_level = "Moderate"
+            risk = "Moderate"
         else:
-            concentration_level = "Diversified"
+            risk = "Low (Diversified)"
+        
+        concentration = {
+            "top_3_percentage": round(top3, 1),
+            "risk_level": risk,
+            "sector_count": len(sector_list)
+        }
     
     return {
         "fund_code": fund_code,
@@ -552,16 +500,7 @@ async def get_sector_allocation(fund_code: str):
         "category": get_fund_category(fund),
         "data_available": True,
         "sectors": sector_list,
-        "total_sectors": len(sector_list),
-        "top3_concentration": round(top3, 1),
-        "concentration_level": concentration_level,
-        "as_of_date": fund.get("portfolio_date") or fund.get("as_of_date"),
-        # Keep old format for backward compatibility
-        "concentration": {
-            "top_3_percentage": round(top3, 1),
-            "risk_level": f"{concentration_level} ({'Concentrated' if concentration_level == 'High' else 'Diversified' if concentration_level == 'Diversified' else ''})",
-            "sector_count": len(sector_list)
-        },
+        "concentration": concentration,
     }
 
 
@@ -581,6 +520,7 @@ async def analyze_overlap(request: OverlapRequest):
         fund = get_fund(code)
         name = get_fund_name(fund)
         
+        # Get holdings
         holdings = (
             fund.get("holdings") or 
             fund.get("portfolio_holdings") or 
@@ -668,8 +608,6 @@ async def analyze_overlap(request: OverlapRequest):
         "unique_stocks_count": len(unique_all),
         "diversification_score": div_score,
         "average_overlap": round(avg_overlap, 1),
-        "overlap_percentage": round(avg_overlap, 1),  # Alias for frontend
-        "overlap_level": risk.split()[0],  # "High", "Moderate", or "Low"
         "risk_level": risk,
         "recommendation": rec,
     }
@@ -686,7 +624,8 @@ async def get_fund_manager(fund_code: str):
     
     fund_name = get_fund_name(fund)
     
-    managers = fund.get("managers") or fund.get("fund_managers") or fund.get("fund_manager") or fund.get("manager")
+    # Get manager info - in your JSON it's "fund_managers" as a string
+    managers = fund.get("fund_managers") or fund.get("fund_manager") or fund.get("manager")
     
     if not managers:
         return {
@@ -696,6 +635,7 @@ async def get_fund_manager(fund_code: str):
             "message": "Manager data not available"
         }
     
+    # Parse managers string if needed (e.g., "Mr. Mayur Patel, Mr. Ashish Ongari")
     if isinstance(managers, str):
         manager_list = [m.strip() for m in managers.split(",")]
     elif isinstance(managers, list):
@@ -711,7 +651,7 @@ async def get_fund_manager(fund_code: str):
         for fname, f in FUNDS_BY_NAME.items():
             if fname == fund.get("_fund_name_key"):
                 continue
-            fm = f.get("managers") or f.get("fund_managers") or f.get("fund_manager") or ""
+            fm = f.get("fund_managers") or f.get("fund_manager") or ""
             if primary_manager.lower() in str(fm).lower():
                 other_funds.append({
                     "fund_name": fname,
@@ -737,21 +677,14 @@ async def get_fund_manager(fund_code: str):
 
 @router.get("/health")
 async def health():
-    """Health check with category debug info."""
+    """Health check."""
     sample_codes = list(FUNDS_BY_CODE.keys())[:5]
     sample_names = list(FUNDS_BY_NAME.keys())[:3]
-    sample_categories = list(CATEGORY_INDEX.keys())[:15]
-    
-    # Count funds per category
-    category_counts = {cat: len(funds) for cat, funds in list(CATEGORY_INDEX.items())[:10]}
     
     return {
         "status": "healthy",
         "funds_by_name": len(FUNDS_BY_NAME),
         "funds_by_code": len(FUNDS_BY_CODE),
-        "categories_indexed": len(CATEGORY_INDEX),
         "sample_codes": sample_codes,
         "sample_names": sample_names,
-        "sample_categories": sample_categories,
-        "category_counts": category_counts,
     }

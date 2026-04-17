@@ -18,4 +18,5 @@ EXPOSE 8080
 RUN mkdir -p /tmp/data /tmp/faiss_index
 
 # Run the application
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8080"]
+# 🟢 CHANGE YOUR LAST LINE TO THIS:
+CMD exec uvicorn main:app --host 0.0.0.0 --port ${PORT:-8080}

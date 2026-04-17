@@ -19,10 +19,16 @@
 //     }
 // ============================================================
 
-import { Bell, ChevronRight, Flame, MessageSquare, Search, Trophy, Upload } from 'lucide-react-native';
+import { signOut } from 'firebase/auth';
+import { Bell, ChevronRight, Flame, LogOut, MessageSquare, Search, Trophy, Upload } from 'lucide-react-native';
+import { useContext } from 'react'; // 🟢 Added useContext
 import { ScrollView, Text, TouchableOpacity, View } from 'react-native';
 import { Navigation } from '../components/Navigation';
-import { styles } from '../styles/appStyles';
+import { auth } from '../config/firebase';
+import { AuthContext } from '../context/AuthContext';
+import { COLORS, styles } from '../styles/appStyles'; // 🟢 Added COLORS
+
+
 
 export default function HomeScreen({
   setScreen,
@@ -33,19 +39,41 @@ export default function HomeScreen({
   screen,
 }) {
 
+  // 🟢 1. Grab the user object from Firebase
+  const { user } = useContext(AuthContext);
+
+  // 🟢 2. Extract the name from the email (e.g., "thirumal@example.com" -> "Thirumal")
+  const rawName = user?.email ? user.email.split('@')[0] : 'Investor';
+  const displayName = rawName.charAt(0).toUpperCase() + rawName.slice(1);
+
   return (
     <View style={styles.container}>
       <ScrollView style={styles.scrollView}>
-        {/* Header with greeting + notification bell */}
-        <View style={styles.header}>
+        
+
+       
+        {/* Header with greeting + notification bell & logout */}
+        <View style={[styles.header, { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' }]}>
+          
+          {/* Left Side: Greeting */}
           <View>
-            <Text style={styles.greeting}>hey bestie 👋</Text>
-            <Text style={styles.userName}>Investor</Text>
+            <Text style={styles.greeting}>
+              Good Morning, <Text style={{ color: COLORS.primary }}>{displayName}</Text>! 👋
+            </Text>
+            <Text style={styles.greeting}>Let's grow your wealth</Text>
           </View>
-          <TouchableOpacity style={styles.notificationButton}>
-            <Bell size={18} color="#fff" />
-            <View style={styles.notificationDot} />
-          </TouchableOpacity>
+          
+          {/* Right Side: Icons */}
+          <View style={{ flexDirection: 'row', alignItems: 'center', gap: 15 }}>
+            <TouchableOpacity>
+              <Bell size={24} color="#FBBF24" />
+            </TouchableOpacity>
+            
+            <TouchableOpacity onPress={() => signOut(auth)}>
+              <LogOut size={24} color="#FF3B30" />
+            </TouchableOpacity>
+          </View>
+
         </View>
 
         {/* Streak Card */}

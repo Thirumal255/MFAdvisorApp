@@ -45,7 +45,7 @@ export const styles = StyleSheet.create({
   
   // Header
   header: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', padding: 20, paddingTop: 60 },
-  greeting: { color: '#A78BFA', fontSize: 14, fontWeight: '700' },
+  greeting: { color: '#fff', fontSize: 20, fontWeight: '700' },
   userName: { color: '#fff', fontSize: 30, fontWeight: '900' },
   notificationButton: { width: 44, height: 44, backgroundColor: '#7C3AED', borderRadius: 16, alignItems: 'center', justifyContent: 'center', position: 'relative' },
   notificationDot: { position: 'absolute', top: -4, right: -4, width: 12, height: 12, backgroundColor: '#FBBF24', borderRadius: 6 },

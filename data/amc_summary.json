@@ -1,7 +1,18 @@
 {
-  "total_amcs": 1,
-  "total_funds": 52,
+  "total_amcs": 12,
+  "total_funds": 430,
   "by_amc": {
-    "Motilal Oswal Mutual Fund": 52
+    "Motilal Oswal Mutual Fund": 52,
+    "Old Bridge Mutual Fund": 3,
+    "360 ONE Mutual Fund": 11,
+    "Taurus Mutual Fund": 8,
+    "Unifi Mutual Fund": 3,
+    "Mahindra Manulife Mutual Fund": 24,
+    "Bajaj Finserv Mutual Fund": 24,
+    "Mirae Asset Mutual Fund": 89,
+    "Franklin Templeton Mutual Fund": 43,
+    "Union Mutual Fund": 31,
+    "quant Mutual Fund": 30,
+    "Kotak Mahindra Mutual Fund": 112
   }
 }

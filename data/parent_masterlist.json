@@ -3052,14 +3052,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Groww Gold ETF FOF - REGULAR - GROWTH",
-        "amfi_code": "153006",
+        "scheme_name": "Groww Gold ETF FOF - REGULAR - IDCW",
+        "amfi_code": "153005",
         "fund_house": "Groww Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Groww Gold ETF FOF - REGULAR - IDCW",
-        "amfi_code": "153005",
+        "scheme_name": "Groww Gold ETF FOF - REGULAR - GROWTH",
+        "amfi_code": "153006",
         "fund_house": "Groww Mutual Fund",
         "match_type": "name_search"
       }
@@ -3274,14 +3274,14 @@
     "canonical_code": "153908",
     "variants": [
       {
-        "scheme_name": "Groww Nifty Capital Markets ETF",
-        "amfi_code": "153907",
+        "scheme_name": "Groww Nifty Capital Markets ETF FOF Direct Growth",
+        "amfi_code": "153908",
         "fund_house": "Groww Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Groww Nifty Capital Markets ETF FOF Direct Growth",
-        "amfi_code": "153908",
+        "scheme_name": "Groww Nifty Capital Markets ETF",
+        "amfi_code": "153907",
         "fund_house": "Groww Mutual Fund",
         "match_type": "name_search"
       },
@@ -3660,6 +3660,12 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
+        "amfi_code": "123707",
+        "fund_house": "Groww Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
         "amfi_code": "123705",
         "fund_house": "Groww Mutual Fund",
@@ -3672,32 +3678,26 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
-        "amfi_code": "123710",
-        "fund_house": "Groww Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
         "amfi_code": "123709",
         "fund_house": "Groww Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
-        "amfi_code": "123711",
-        "fund_house": "Groww Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
-        "amfi_code": "123707",
-        "fund_house": "Groww Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund )- Regular Plan - Growth Option",
         "amfi_code": "123708",
+        "fund_house": "Groww Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
+        "amfi_code": "123710",
+        "fund_house": "Groww Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
+        "amfi_code": "123711",
         "fund_house": "Groww Mutual Fund",
         "match_type": "name_search"
       }
@@ -4590,14 +4590,14 @@
     "canonical_code": "153634",
     "variants": [
       {
-        "scheme_name": "Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Direct Plan - IDCW",
-        "amfi_code": "153635",
+        "scheme_name": "Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Direct Plan - Growth",
+        "amfi_code": "153634",
         "fund_house": "Mirae Asset Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Direct Plan - Growth",
-        "amfi_code": "153634",
+        "scheme_name": "Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Direct Plan - IDCW",
+        "amfi_code": "153635",
         "fund_house": "Mirae Asset Mutual Fund",
         "match_type": "name_search"
       },
@@ -5216,14 +5216,14 @@
     "canonical_code": "148574",
     "variants": [
       {
-        "scheme_name": "Mirae Asset Nifty 100 ESG Sector Leaders Fund  of Fund Regular IDCW",
-        "amfi_code": "148573",
+        "scheme_name": "Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund Direct Growth",
+        "amfi_code": "148574",
         "fund_house": "Mirae Asset Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund Direct Growth",
-        "amfi_code": "148574",
+        "scheme_name": "Mirae Asset Nifty 100 ESG Sector Leaders Fund  of Fund Regular IDCW",
+        "amfi_code": "148573",
         "fund_house": "Mirae Asset Mutual Fund",
         "match_type": "name_search"
       },
@@ -5644,14 +5644,14 @@
     "canonical_code": "152459",
     "variants": [
       {
-        "scheme_name": "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF",
-        "amfi_code": "152455",
+        "scheme_name": "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Direct Plan - IDCW",
+        "amfi_code": "152456",
         "fund_house": "Mirae Asset Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Direct Plan - IDCW",
-        "amfi_code": "152456",
+        "scheme_name": "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF",
+        "amfi_code": "152455",
         "fund_house": "Mirae Asset Mutual Fund",
         "match_type": "name_search"
       },
@@ -5662,14 +5662,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Regular Plan - IDCW",
-        "amfi_code": "152458",
+        "scheme_name": "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Direct Plan - Growth",
+        "amfi_code": "152459",
         "fund_house": "Mirae Asset Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Direct Plan - Growth",
-        "amfi_code": "152459",
+        "scheme_name": "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Regular Plan - IDCW",
+        "amfi_code": "152458",
         "fund_house": "Mirae Asset Mutual Fund",
         "match_type": "name_search"
       }
@@ -5790,6 +5790,12 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "Mirae Asset Overnight Fund Regular Plan Growth",
+        "amfi_code": "147739",
+        "fund_house": "Mirae Asset Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "Mirae Asset Overnight Fund Direct Monthly IDCW",
         "amfi_code": "147738",
         "fund_house": "Mirae Asset Mutual Fund",
@@ -5798,12 +5804,6 @@
       {
         "scheme_name": "Mirae Asset Overnight Fund Direct Weekly IDCW",
         "amfi_code": "147740",
-        "fund_house": "Mirae Asset Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "Mirae Asset Overnight Fund Regular Plan Growth",
-        "amfi_code": "147739",
         "fund_house": "Mirae Asset Mutual Fund",
         "match_type": "name_search"
       },
@@ -7774,14 +7774,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - IDCW Option",
-        "amfi_code": "149245",
+        "scheme_name": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Direct Plan - Growth Option",
+        "amfi_code": "149243",
         "fund_house": "Axis Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Direct Plan - Growth Option",
-        "amfi_code": "149243",
+        "scheme_name": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - IDCW Option",
+        "amfi_code": "149245",
         "fund_house": "Axis Mutual Fund",
         "match_type": "name_search"
       }
@@ -7824,14 +7824,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Axis Nifty Bank Index Fund - Regular Plan - IDCW Option",
-        "amfi_code": "152630",
+        "scheme_name": "Axis Nifty Bank Index Fund - Regular Plan - Growth Option",
+        "amfi_code": "152632",
         "fund_house": "Axis Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Axis Nifty Bank Index Fund - Regular Plan - Growth Option",
-        "amfi_code": "152632",
+        "scheme_name": "Axis Nifty Bank Index Fund - Regular Plan - IDCW Option",
+        "amfi_code": "152630",
         "fund_house": "Axis Mutual Fund",
         "match_type": "name_search"
       }
@@ -8814,8 +8814,8 @@
     "canonical_code": "153506",
     "variants": [
       {
-        "scheme_name": "Bajaj Finserv Nifty 50 Index Fund - Regular - IDCW",
-        "amfi_code": "153507",
+        "scheme_name": "Bajaj Finserv Nifty 50 Index Fund - Direct - IDCW",
+        "amfi_code": "153505",
         "fund_house": "Bajaj Finserv Mutual Fund",
         "match_type": "name_search"
       },
@@ -8826,8 +8826,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Bajaj Finserv Nifty 50 Index Fund - Direct - IDCW",
-        "amfi_code": "153505",
+        "scheme_name": "Bajaj Finserv Nifty 50 Index Fund - Regular - IDCW",
+        "amfi_code": "153507",
         "fund_house": "Bajaj Finserv Mutual Fund",
         "match_type": "name_search"
       },
@@ -9144,20 +9144,8 @@
     "canonical_code": "135916",
     "variants": [
       {
-        "scheme_name": "BANDHAN Corporate Bond Fund - Regular Growth",
-        "amfi_code": "135914",
-        "fund_house": "Bandhan Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "BANDHAN Corporate Bond Fund - Direct Growth",
         "amfi_code": "135916",
-        "fund_house": "Bandhan Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "BANDHAN Corporate Bond Fund - Regular Periodic IDCW",
-        "amfi_code": "135915",
         "fund_house": "Bandhan Mutual Fund",
         "match_type": "name_search"
       },
@@ -9168,8 +9156,26 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "BANDHAN Corporate Bond Fund - Regular Periodic IDCW",
+        "amfi_code": "135915",
+        "fund_house": "Bandhan Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "BANDHAN Corporate Bond Fund - Regular Growth",
+        "amfi_code": "135914",
+        "fund_house": "Bandhan Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "BANDHAN Corporate Bond Fund - Direct Monthly IDCW",
         "amfi_code": "139198",
+        "fund_house": "Bandhan Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "BANDHAN Corporate Bond Fund - Regular Monthly IDCW",
+        "amfi_code": "139202",
         "fund_house": "Bandhan Mutual Fund",
         "match_type": "name_search"
       },
@@ -9186,8 +9192,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANDHAN Corporate Bond Fund - Regular Monthly IDCW",
-        "amfi_code": "139202",
+        "scheme_name": "BANDHAN Corporate Bond Fund - Regular Half Yearly IDCW",
+        "amfi_code": "139203",
         "fund_house": "Bandhan Mutual Fund",
         "match_type": "name_search"
       },
@@ -9206,12 +9212,6 @@
       {
         "scheme_name": "BANDHAN Corporate Bond Fund - Regular Quarterly IDCW",
         "amfi_code": "139205",
-        "fund_house": "Bandhan Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "BANDHAN Corporate Bond Fund - Regular Half Yearly IDCW",
-        "amfi_code": "139203",
         "fund_house": "Bandhan Mutual Fund",
         "match_type": "name_search"
       }
@@ -10708,6 +10708,12 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "BANK OF INDIA BALANCED ADVANTAGE FUND DIRECT PLAN  GROWTH",
+        "amfi_code": "127850",
+        "fund_house": "Bank of India Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "BANK OF INDIA BALANCED ADVANTAGE FUND  REGULAR PLAN IDCW",
         "amfi_code": "127851",
         "fund_house": "Bank of India Mutual Fund",
@@ -10716,12 +10722,6 @@
       {
         "scheme_name": "BANK OF INDIA BALANCED ADVANTAGE FUND  DIRECT PLAN IDCW",
         "amfi_code": "127852",
-        "fund_house": "Bank of India Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "BANK OF INDIA BALANCED ADVANTAGE FUND DIRECT PLAN  GROWTH",
-        "amfi_code": "127850",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       }
@@ -10778,26 +10778,20 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Conservative Hybrid Fund-ECO Plan-Monthly IDCW",
-        "amfi_code": "111717",
-        "fund_house": "Bank of India Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "BANK OF INDIA Conservative Hybrid Fund-Regular Plan-Monthly IDCW",
         "amfi_code": "111716",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Conservative Hybrid Fund-Direct Plan-Annual IDCW",
-        "amfi_code": "119396",
+        "scheme_name": "BANK OF INDIA Conservative Hybrid Fund-ECO Plan-Monthly IDCW",
+        "amfi_code": "111717",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Conservative Hybrid Fund-Direct Plan-Monthly IDCW",
-        "amfi_code": "119394",
+        "scheme_name": "BANK OF INDIA Conservative Hybrid  Fund-Direct Plan-Quarterly IDCW",
+        "amfi_code": "119395",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
@@ -10808,8 +10802,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Conservative Hybrid  Fund-Direct Plan-Quarterly IDCW",
-        "amfi_code": "119395",
+        "scheme_name": "BANK OF INDIA Conservative Hybrid Fund-Direct Plan-Monthly IDCW",
+        "amfi_code": "119394",
+        "fund_house": "Bank of India Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "BANK OF INDIA Conservative Hybrid Fund-Direct Plan-Annual IDCW",
+        "amfi_code": "119396",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       }
@@ -10839,17 +10839,17 @@
   },
   "Bank of India Credit Risk Fund": {
     "parent_scheme_name": "Bank of India Credit Risk Fund",
-    "canonical_code": "133867",
+    "canonical_code": "133868",
     "variants": [
       {
-        "scheme_name": "BANK OF INDIA Credit Risk Fund - Regular Plan",
-        "amfi_code": "133867",
+        "scheme_name": "BANK OF INDIA Credit Risk  Fund - Direct Plan",
+        "amfi_code": "133868",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Credit Risk  Fund - Direct Plan",
-        "amfi_code": "133868",
+        "scheme_name": "BANK OF INDIA Credit Risk Fund - Regular Plan",
+        "amfi_code": "133867",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       }
@@ -10860,12 +10860,6 @@
     "canonical_code": "119351",
     "variants": [
       {
-        "scheme_name": "BANK OF INDIA ELSS Tax Saver -Regular Plan-IDCW",
-        "amfi_code": "111708",
-        "fund_house": "Bank of India Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "BANK OF INDIA ELSS Tax Saver -ECO Plan-Growth",
         "amfi_code": "111709",
         "fund_house": "Bank of India Mutual Fund",
@@ -10874,6 +10868,12 @@
       {
         "scheme_name": "BANK OF INDIA ELSS Tax Saver -Regular Plan- Growth",
         "amfi_code": "111710",
+        "fund_house": "Bank of India Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "BANK OF INDIA ELSS Tax Saver -Regular Plan-IDCW",
+        "amfi_code": "111708",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
@@ -10902,8 +10902,8 @@
     "canonical_code": "148404",
     "variants": [
       {
-        "scheme_name": "BANK OF INDIA Flexi Cap Fund Regular Plan -Growth",
-        "amfi_code": "148405",
+        "scheme_name": "BANK OF INDIA Flexi Cap Fund Direct Plan -IDCW",
+        "amfi_code": "148406",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
@@ -10914,8 +10914,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Flexi Cap Fund Direct Plan -IDCW",
-        "amfi_code": "148406",
+        "scheme_name": "BANK OF INDIA Flexi Cap Fund Regular Plan -Growth",
+        "amfi_code": "148405",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
@@ -10938,14 +10938,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Large & Mid Cap Fund Eco Plan- Growth",
-        "amfi_code": "110599",
+        "scheme_name": "BANK OF INDIA Large & Mid Cap Fund Eco Plan-Bonus",
+        "amfi_code": "110601",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Large & Mid Cap Fund Eco Plan-Bonus",
-        "amfi_code": "110601",
+        "scheme_name": "BANK OF INDIA Large & Mid Cap Fund Eco Plan- Growth",
+        "amfi_code": "110599",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
@@ -10968,14 +10968,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Large & Mid Cap Fund Regular Plan- Regular IDCW",
-        "amfi_code": "110607",
+        "scheme_name": "BANK OF INDIA Large & Mid Cap Fund Eco Plan-Regular IDCW",
+        "amfi_code": "110608",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Large & Mid Cap Fund Eco Plan-Regular IDCW",
-        "amfi_code": "110608",
+        "scheme_name": "BANK OF INDIA Large & Mid Cap Fund Regular Plan- Regular IDCW",
+        "amfi_code": "110607",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
@@ -11016,14 +11016,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Large Cap Fund Regular Plan Growth",
-        "amfi_code": "148982",
+        "scheme_name": "BANK OF INDIA Large Cap Fund Direct Plan IDCW",
+        "amfi_code": "148981",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Large Cap Fund Direct Plan IDCW",
-        "amfi_code": "148981",
+        "scheme_name": "BANK OF INDIA Large Cap Fund Regular Plan Growth",
+        "amfi_code": "148982",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
@@ -11244,14 +11244,20 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "BANK OF INDIA Overnight Fund Direct Plan- Weekly IDCW",
+        "amfi_code": "147950",
+        "fund_house": "Bank of India Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "BANK OF INDIA Overnight Fund Direct Plan- Daily IDCW",
         "amfi_code": "147952",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Overnight Fund Direct Plan- Weekly IDCW",
-        "amfi_code": "147950",
+        "scheme_name": "BANK OF INDIA Overnight Fund Regular Plan- Daily IDCW",
+        "amfi_code": "147953",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
@@ -11262,8 +11268,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Overnight Fund Regular Plan- Daily IDCW",
-        "amfi_code": "147953",
+        "scheme_name": "BANK OF INDIA Overnight Fund Unclaimed Redemption Plan - Upto 3 Years",
+        "amfi_code": "149413",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
@@ -11276,12 +11282,6 @@
       {
         "scheme_name": "BANK OF INDIA Overnight Fund Unclaimed IDCW Plan - Up to 3 Years",
         "amfi_code": "149414",
-        "fund_house": "Bank of India Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "BANK OF INDIA Overnight Fund Unclaimed Redemption Plan - Upto 3 Years",
-        "amfi_code": "149413",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
@@ -11322,14 +11322,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Short Term Income Fund-Direct Plan- Quarterly IDCW",
-        "amfi_code": "119384",
+        "scheme_name": "BANK OF INDIA Short Term Income Fund-Direct Plan- Monthly IDCW",
+        "amfi_code": "119383",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Short Term Income Fund-Direct Plan- Monthly IDCW",
-        "amfi_code": "119383",
+        "scheme_name": "BANK OF INDIA Short Term Income Fund-Direct Plan- Quarterly IDCW",
+        "amfi_code": "119384",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       }
@@ -11340,26 +11340,26 @@
     "canonical_code": "145678",
     "variants": [
       {
-        "scheme_name": "BANK OF INDIA Small Cap Fund Regular Plan IDCW",
-        "amfi_code": "145676",
-        "fund_house": "Bank of India Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "BANK OF INDIA Small Cap Fund Direct Plan IDCW",
         "amfi_code": "145675",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Small Cap Fund Direct Plan Growth",
-        "amfi_code": "145678",
+        "scheme_name": "BANK OF INDIA Small Cap Fund Regular Plan Growth",
+        "amfi_code": "145677",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Small Cap Fund Regular Plan Growth",
-        "amfi_code": "145677",
+        "scheme_name": "BANK OF INDIA Small Cap Fund Regular Plan IDCW",
+        "amfi_code": "145676",
+        "fund_house": "Bank of India Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "BANK OF INDIA Small Cap Fund Direct Plan Growth",
+        "amfi_code": "145678",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       }
@@ -11388,14 +11388,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Ultra Short Duration Fund- Direct Plan- Growth",
-        "amfi_code": "119379",
+        "scheme_name": "BANK OF INDIA Ultra Short Duration Fund- Direct Plan- Daily IDCW",
+        "amfi_code": "119380",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "BANK OF INDIA Ultra Short Duration Fund- Direct Plan- Daily IDCW",
-        "amfi_code": "119380",
+        "scheme_name": "BANK OF INDIA Ultra Short Duration Fund- Direct Plan- Growth",
+        "amfi_code": "119379",
         "fund_house": "Bank of India Mutual Fund",
         "match_type": "name_search"
       },
@@ -12522,20 +12522,14 @@
     "canonical_code": "119400",
     "variants": [
       {
-        "scheme_name": "Baroda BNP Paribas Short Duration Fund - Regular Plan - Monthly IDCW Option",
-        "amfi_code": "113037",
-        "fund_house": "Baroda BNP Paribas Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Baroda BNP Paribas Short Duration Fund - Regular Plan - Growth Option",
         "amfi_code": "113036",
         "fund_house": "Baroda BNP Paribas Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Baroda BNP Paribas Short Duration Fund - Direct Plan - Growth Option",
-        "amfi_code": "119400",
+        "scheme_name": "Baroda BNP Paribas Short Duration Fund - Regular Plan - Monthly IDCW Option",
+        "amfi_code": "113037",
         "fund_house": "Baroda BNP Paribas Mutual Fund",
         "match_type": "name_search"
       },
@@ -12546,14 +12540,20 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Baroda BNP Paribas Short Duration Fund - Direct Plan - Quarterly IDCW",
-        "amfi_code": "140463",
+        "scheme_name": "Baroda BNP Paribas Short Duration Fund - Direct Plan - Growth Option",
+        "amfi_code": "119400",
         "fund_house": "Baroda BNP Paribas Mutual Fund",
         "match_type": "name_search"
       },
       {
         "scheme_name": "Baroda BNP Paribas Short Duration Fund - Regular Plan - Quarterly IDCW",
         "amfi_code": "140465",
+        "fund_house": "Baroda BNP Paribas Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Baroda BNP Paribas Short Duration Fund - Direct Plan - Quarterly IDCW",
+        "amfi_code": "140463",
         "fund_house": "Baroda BNP Paribas Mutual Fund",
         "match_type": "name_search"
       }
@@ -12858,8 +12858,14 @@
     "canonical_code": "150505",
     "variants": [
       {
-        "scheme_name": "Canara Robeco Banking and PSU Debt Fund- Direct Plan- IDCW Payout",
-        "amfi_code": "150507",
+        "scheme_name": "Canara Robeco Banking and PSU Debt Fund- Regular Plan- IDCW (Payout/ Reinvestment)",
+        "amfi_code": "150504",
+        "fund_house": "Canara Robeco Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Canara Robeco Banking and PSU Debt Fund- Regular Plan- Growth Option",
+        "amfi_code": "150503",
         "fund_house": "Canara Robeco Mutual Fund",
         "match_type": "name_search"
       },
@@ -12870,14 +12876,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Canara Robeco Banking and PSU Debt Fund- Regular Plan- IDCW (Payout/ Reinvestment)",
-        "amfi_code": "150504",
-        "fund_house": "Canara Robeco Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "Canara Robeco Banking and PSU Debt Fund- Regular Plan- Growth Option",
-        "amfi_code": "150503",
+        "scheme_name": "Canara Robeco Banking and PSU Debt Fund- Direct Plan- IDCW Payout",
+        "amfi_code": "150507",
         "fund_house": "Canara Robeco Mutual Fund",
         "match_type": "name_search"
       }
@@ -12910,26 +12910,26 @@
     "canonical_code": "118273",
     "variants": [
       {
-        "scheme_name": "Canara Robeco Consumer Trends Fund - Institutional Plan - Growth Option",
-        "amfi_code": "112150",
-        "fund_house": "Canara Robeco Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Canara Robeco Consumer Trends Fund - Institutional Plan - Dividend Option",
         "amfi_code": "112151",
         "fund_house": "Canara Robeco Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - GROWTH OPTION",
-        "amfi_code": "112152",
+        "scheme_name": "Canara Robeco Consumer Trends Fund - Institutional Plan - Growth Option",
+        "amfi_code": "112150",
         "fund_house": "Canara Robeco Mutual Fund",
         "match_type": "name_search"
       },
       {
         "scheme_name": "CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - IDCW (Payout/Reinvestment)",
         "amfi_code": "112153",
+        "fund_house": "Canara Robeco Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - GROWTH OPTION",
+        "amfi_code": "112152",
         "fund_house": "Canara Robeco Mutual Fund",
         "match_type": "name_search"
       },
@@ -13004,14 +13004,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "CANARA ROBECO ELSS TAX SAVER - DIRECT PLAN - GROWTH OPTION",
-        "amfi_code": "118285",
+        "scheme_name": "CANARA ROBECO ELSS TAX SAVER - DIRECT PLAN - IDCW (Payout)",
+        "amfi_code": "118286",
         "fund_house": "Canara Robeco Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "CANARA ROBECO ELSS TAX SAVER - DIRECT PLAN - IDCW (Payout)",
-        "amfi_code": "118286",
+        "scheme_name": "CANARA ROBECO ELSS TAX SAVER - DIRECT PLAN - GROWTH OPTION",
+        "amfi_code": "118285",
         "fund_house": "Canara Robeco Mutual Fund",
         "match_type": "name_search"
       }
@@ -15240,8 +15240,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Edelweiss BSE Internet Economy Index Fund - Direct Plan - Growth",
-        "amfi_code": "153497",
+        "scheme_name": "Edelweiss BSE Internet Economy Index Fund - Regular Plan - Growth",
+        "amfi_code": "153495",
         "fund_house": "Edelweiss Mutual Fund",
         "match_type": "name_search"
       },
@@ -15252,8 +15252,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Edelweiss BSE Internet Economy Index Fund - Regular Plan - Growth",
-        "amfi_code": "153495",
+        "scheme_name": "Edelweiss BSE Internet Economy Index Fund - Direct Plan - Growth",
+        "amfi_code": "153497",
         "fund_house": "Edelweiss Mutual Fund",
         "match_type": "name_search"
       }
@@ -15280,8 +15280,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Edelweiss Business Cycle Fund - Regular Plan - Growth",
-        "amfi_code": "152724",
+        "scheme_name": "Edelweiss Business Cycle Fund - Regular Plan - IDCW Option",
+        "amfi_code": "152722",
         "fund_house": "Edelweiss Mutual Fund",
         "match_type": "name_search"
       },
@@ -15292,8 +15292,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Edelweiss Business Cycle Fund - Regular Plan - IDCW Option",
-        "amfi_code": "152722",
+        "scheme_name": "Edelweiss Business Cycle Fund - Regular Plan - Growth",
+        "amfi_code": "152724",
         "fund_house": "Edelweiss Mutual Fund",
         "match_type": "name_search"
       }
@@ -15478,14 +15478,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund - Regular Plan Growth",
-        "amfi_code": "149949",
+        "scheme_name": "Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund - Direct Plan Growth",
+        "amfi_code": "149950",
         "fund_house": "Edelweiss Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund - Direct Plan Growth",
-        "amfi_code": "149950",
+        "scheme_name": "Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund - Regular Plan Growth",
+        "amfi_code": "149949",
         "fund_house": "Edelweiss Mutual Fund",
         "match_type": "name_search"
       }
@@ -15660,20 +15660,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Edelweiss Government Securities Fund - Regular Plan - IDCW Option",
-        "amfi_code": "140301",
-        "fund_house": "Edelweiss Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "Edelweiss Government Securities Fund - Direct Plan - IDCW Option",
-        "amfi_code": "140302",
-        "fund_house": "Edelweiss Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Edelweiss Government Securities Fund - Direct Plan - Growth Option",
         "amfi_code": "140298",
+        "fund_house": "Edelweiss Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Edelweiss Government Securities Fund - Regular Plan - IDCW Option",
+        "amfi_code": "140301",
         "fund_house": "Edelweiss Mutual Fund",
         "match_type": "name_search"
       },
@@ -15684,14 +15678,20 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Edelweiss Government Securities Fund - Direct Plan weekly - IDCW Option",
-        "amfi_code": "140304",
+        "scheme_name": "Edelweiss Government Securities Fund - Direct Plan - IDCW Option",
+        "amfi_code": "140302",
         "fund_house": "Edelweiss Mutual Fund",
         "match_type": "name_search"
       },
       {
         "scheme_name": "Edelweiss Government Securities Fund - Regular Plan Fortnightly - IDCW Option",
         "amfi_code": "140305",
+        "fund_house": "Edelweiss Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Edelweiss Government Securities Fund - Direct Plan weekly - IDCW Option",
+        "amfi_code": "140304",
         "fund_house": "Edelweiss Mutual Fund",
         "match_type": "name_search"
       },
@@ -15708,14 +15708,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Edelweiss Government Securities Fund - Direct Plan Monthly - IDCW Option",
-        "amfi_code": "140308",
+        "scheme_name": "Edelweiss Government Securities Fund - Direct Plan - Annual Dividend Option",
+        "amfi_code": "140309",
         "fund_house": "Edelweiss Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Edelweiss Government Securities Fund - Direct Plan - Annual Dividend Option",
-        "amfi_code": "140309",
+        "scheme_name": "Edelweiss Government Securities Fund - Direct Plan Monthly - IDCW Option",
+        "amfi_code": "140308",
         "fund_house": "Edelweiss Mutual Fund",
         "match_type": "name_search"
       },
@@ -15888,26 +15888,26 @@
     "canonical_code": "140228",
     "variants": [
       {
-        "scheme_name": "Edelweiss Mid Cap Fund - Regular Plan - Growth Option",
-        "amfi_code": "140225",
-        "fund_house": "Edelweiss Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Edelweiss Mid Cap Fund - Regular Plan - IDCW Option",
         "amfi_code": "140226",
         "fund_house": "Edelweiss Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Edelweiss Mid Cap Fund - Direct Plan - IDCW Option",
-        "amfi_code": "140227",
+        "scheme_name": "Edelweiss Mid Cap Fund - Regular Plan - Growth Option",
+        "amfi_code": "140225",
         "fund_house": "Edelweiss Mutual Fund",
         "match_type": "name_search"
       },
       {
         "scheme_name": "Edelweiss Mid Cap Fund - Direct Plan - Growth Option",
         "amfi_code": "140228",
+        "fund_house": "Edelweiss Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Edelweiss Mid Cap Fund - Direct Plan - IDCW Option",
+        "amfi_code": "140227",
         "fund_house": "Edelweiss Mutual Fund",
         "match_type": "name_search"
       }
@@ -17664,14 +17664,14 @@
     "canonical_code": "153908",
     "variants": [
       {
-        "scheme_name": "Groww Nifty Capital Markets ETF",
-        "amfi_code": "153907",
+        "scheme_name": "Groww Nifty Capital Markets ETF FOF Direct Growth",
+        "amfi_code": "153908",
         "fund_house": "Groww Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Groww Nifty Capital Markets ETF FOF Direct Growth",
-        "amfi_code": "153908",
+        "scheme_name": "Groww Nifty Capital Markets ETF",
+        "amfi_code": "153907",
         "fund_house": "Groww Mutual Fund",
         "match_type": "name_search"
       },
@@ -19628,26 +19628,26 @@
     "canonical_code": "153326",
     "variants": [
       {
-        "scheme_name": "Helios Mid Cap Fund - Regular Plan - IDCW Option",
-        "amfi_code": "153325",
-        "fund_house": "Helios Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Helios Mid Cap Fund - Direct Plan - IDCW Option",
         "amfi_code": "153324",
         "fund_house": "Helios Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Helios Mid Cap Fund - Regular Plan - Growth Plan",
-        "amfi_code": "153327",
+        "scheme_name": "Helios Mid Cap Fund - Regular Plan - IDCW Option",
+        "amfi_code": "153325",
         "fund_house": "Helios Mutual Fund",
         "match_type": "name_search"
       },
       {
         "scheme_name": "Helios Mid Cap Fund - Direct Plan - Growth Option",
         "amfi_code": "153326",
+        "fund_house": "Helios Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Helios Mid Cap Fund - Regular Plan - Growth Plan",
+        "amfi_code": "153327",
         "fund_house": "Helios Mutual Fund",
         "match_type": "name_search"
       }
@@ -19680,8 +19680,8 @@
     "canonical_code": "153912",
     "variants": [
       {
-        "scheme_name": "Helios Small Cap Fund - Direct Plan - Growth Option",
-        "amfi_code": "153912",
+        "scheme_name": "Helios Small Cap Fund - Regular Plan - Growth Option",
+        "amfi_code": "153909",
         "fund_house": "Helios Mutual Fund",
         "match_type": "name_search"
       },
@@ -19692,14 +19692,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Helios Small Cap Fund - Regular Plan - Growth Option",
-        "amfi_code": "153909",
+        "scheme_name": "Helios Small Cap Fund - Regular Plan - IDCW Option",
+        "amfi_code": "153911",
         "fund_house": "Helios Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Helios Small Cap Fund - Regular Plan - IDCW Option",
-        "amfi_code": "153911",
+        "scheme_name": "Helios Small Cap Fund - Direct Plan - Growth Option",
+        "amfi_code": "153912",
         "fund_house": "Helios Mutual Fund",
         "match_type": "name_search"
       }
@@ -20032,6 +20032,12 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "HSBC Flexi Debt Fund - Monthly IDCW",
+        "amfi_code": "106739",
+        "fund_house": "HSBC Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "HSBC Flexi Debt Fund - Fortnightly IDCW",
         "amfi_code": "106738",
         "fund_house": "HSBC Mutual Fund",
@@ -20040,12 +20046,6 @@
       {
         "scheme_name": "HSBC Flexi Debt Fund - Regular Monthly IDCW",
         "amfi_code": "106741",
-        "fund_house": "HSBC Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "HSBC Flexi Debt Fund - Monthly IDCW",
-        "amfi_code": "106739",
         "fund_house": "HSBC Mutual Fund",
         "match_type": "name_search"
       },
@@ -20062,14 +20062,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "HSBC Flexi Debt Fund - Quarterly IDCW",
-        "amfi_code": "110438",
+        "scheme_name": "HSBC Flexi Debt Fund - Half-yearly IDCW",
+        "amfi_code": "110439",
         "fund_house": "HSBC Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "HSBC Flexi Debt Fund - Half-yearly IDCW",
-        "amfi_code": "110439",
+        "scheme_name": "HSBC Flexi Debt Fund - Quarterly IDCW",
+        "amfi_code": "110438",
         "fund_house": "HSBC Mutual Fund",
         "match_type": "name_search"
       },
@@ -20086,6 +20086,12 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "HSBC Flexi Debt Fund - Growth Direct",
+        "amfi_code": "120048",
+        "fund_house": "HSBC Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "HSBC Flexi Debt Fund - Half-yearly IDCW Direct Plan",
         "amfi_code": "120049",
         "fund_house": "HSBC Mutual Fund",
@@ -20094,12 +20100,6 @@
       {
         "scheme_name": "HSBC Flexi Debt Fund - Monthly IDCW Direct Plan",
         "amfi_code": "120050",
-        "fund_house": "HSBC Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "HSBC Flexi Debt Fund - Growth Direct",
-        "amfi_code": "120048",
         "fund_house": "HSBC Mutual Fund",
         "match_type": "name_search"
       },
@@ -20376,42 +20376,6 @@
     "canonical_code": "120038",
     "variants": [
       {
-        "scheme_name": "HSBC Liquid Fund - Regular Weekly IDCW",
-        "amfi_code": "118904",
-        "fund_house": "HSBC Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "HSBC Liquid Fund - Growth",
-        "amfi_code": "118907",
-        "fund_house": "HSBC Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "HSBC Liquid Fund - Regular Daily IDCW",
-        "amfi_code": "118901",
-        "fund_house": "HSBC Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "HSBC Liquid Fund - Institutional Daily IDCW",
-        "amfi_code": "118909",
-        "fund_house": "HSBC Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "HSBC Liquid Fund - Regular Growth",
-        "amfi_code": "118902",
-        "fund_house": "HSBC Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "HSBC Liquid Fund - IDCW",
-        "amfi_code": "118906",
-        "fund_house": "HSBC Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "HSBC Liquid Fund - Regular Monthly IDCW",
         "amfi_code": "118903",
         "fund_house": "HSBC Mutual Fund",
@@ -20424,20 +20388,56 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "HSBC Liquid Fund - Growth",
+        "amfi_code": "118907",
+        "fund_house": "HSBC Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "HSBC Liquid Fund - IDCW",
+        "amfi_code": "118906",
+        "fund_house": "HSBC Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "HSBC Liquid Fund - Regular Daily IDCW",
+        "amfi_code": "118901",
+        "fund_house": "HSBC Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "HSBC Liquid Fund - Regular Weekly IDCW",
+        "amfi_code": "118904",
+        "fund_house": "HSBC Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "HSBC Liquid Fund - Regular Growth",
+        "amfi_code": "118902",
+        "fund_house": "HSBC Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "HSBC Liquid Fund - Institutional Daily IDCW",
+        "amfi_code": "118909",
+        "fund_house": "HSBC Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "HSBC Liquid Fund - Direct Daily IDCW",
         "amfi_code": "120037",
         "fund_house": "HSBC Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "HSBC Liquid Fund - Direct Weekly IDCW",
-        "amfi_code": "120040",
+        "scheme_name": "HSBC Liquid Fund -  Growth Direct",
+        "amfi_code": "120038",
         "fund_house": "HSBC Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "HSBC Liquid Fund -  Growth Direct",
-        "amfi_code": "120038",
+        "scheme_name": "HSBC Liquid Fund - Direct Weekly IDCW",
+        "amfi_code": "120040",
         "fund_house": "HSBC Mutual Fund",
         "match_type": "name_search"
       },
@@ -20686,26 +20686,26 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "HSBC Overnight Fund - Regular Daily IDCW",
-        "amfi_code": "147289",
-        "fund_house": "HSBC Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "HSBC Overnight Fund - Regular Growth",
         "amfi_code": "147290",
         "fund_house": "HSBC Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "HSBC Overnight Fund - Direct Weekly IDCW",
-        "amfi_code": "147296",
+        "scheme_name": "HSBC Overnight Fund - Regular Daily IDCW",
+        "amfi_code": "147289",
         "fund_house": "HSBC Mutual Fund",
         "match_type": "name_search"
       },
       {
         "scheme_name": "HSBC Overnight Fund - Direct Daily IDCW",
         "amfi_code": "147291",
+        "fund_house": "HSBC Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "HSBC Overnight Fund - Direct Weekly IDCW",
+        "amfi_code": "147296",
         "fund_house": "HSBC Mutual Fund",
         "match_type": "name_search"
       },
@@ -20722,8 +20722,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "HSBC Overnight Fund - Unclaimed IDCW Above three years",
-        "amfi_code": "150501",
+        "scheme_name": "HSBC Overnight Fund - Unclaimed IDCW Below three years",
+        "amfi_code": "150499",
+        "fund_house": "HSBC Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "HSBC Overnight Fund - Unclaimed Redemption Below three years",
+        "amfi_code": "150502",
         "fund_house": "HSBC Mutual Fund",
         "match_type": "name_search"
       },
@@ -20734,14 +20740,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "HSBC Overnight Fund - Unclaimed IDCW Below three years",
-        "amfi_code": "150499",
-        "fund_house": "HSBC Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "HSBC Overnight Fund - Unclaimed Redemption Below three years",
-        "amfi_code": "150502",
+        "scheme_name": "HSBC Overnight Fund - Unclaimed IDCW Above three years",
+        "amfi_code": "150501",
         "fund_house": "HSBC Mutual Fund",
         "match_type": "name_search"
       }
@@ -21264,14 +21264,8 @@
     "canonical_code": "131061",
     "variants": [
       {
-        "scheme_name": "ICICI Prudential Constant Maturity Gilt Fund - Direct Plan - Annual IDCW",
-        "amfi_code": "131056",
-        "fund_house": "ICICI Prudential Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "ICICI Prudential Constant Maturity Gilt Fund - Half Yearly IDCW",
-        "amfi_code": "131058",
+        "scheme_name": "ICICI Prudential Constant Maturity Gilt Fund - Direct Plan - Monthly IDCW",
+        "amfi_code": "131053",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -21282,14 +21276,20 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "ICICI Prudential Constant Maturity Gilt Fund - Direct Plan - Quarterly IDCW",
+        "amfi_code": "131054",
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "ICICI Prudential Constant Maturity Gilt Fund - Direct Plan - Half Yearly IDCW",
         "amfi_code": "131055",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Constant Maturity Gilt Fund - Direct Plan - Monthly IDCW",
-        "amfi_code": "131053",
+        "scheme_name": "ICICI Prudential Constant Maturity Gilt Fund - Direct Plan - Annual IDCW",
+        "amfi_code": "131056",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -21300,8 +21300,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Constant Maturity Gilt Fund - Direct Plan - Quarterly IDCW",
-        "amfi_code": "131054",
+        "scheme_name": "ICICI Prudential Constant Maturity Gilt Fund - Half Yearly IDCW",
+        "amfi_code": "131058",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -21360,8 +21360,8 @@
     "canonical_code": "120711",
     "variants": [
       {
-        "scheme_name": "ICICI Prudential Credit Risk Fund - Growth",
-        "amfi_code": "114239",
+        "scheme_name": "ICICI Prudential Credit Risk Fund - Half Yearly IDCW",
+        "amfi_code": "114241",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -21372,20 +21372,20 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Credit Risk Fund - Half Yearly IDCW",
-        "amfi_code": "114241",
-        "fund_house": "ICICI Prudential Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "ICICI Prudential Credit Risk Fund - Direct Plan - Half Yearly IDCW",
-        "amfi_code": "120710",
+        "scheme_name": "ICICI Prudential Credit Risk Fund - Growth",
+        "amfi_code": "114239",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
         "scheme_name": "ICICI Prudential Credit Risk Fund - Direct Plan - Quarterly IDCW",
         "amfi_code": "120709",
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "ICICI Prudential Credit Risk Fund - Direct Plan - Half Yearly IDCW",
+        "amfi_code": "120710",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -21408,14 +21408,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Credit Risk Fund - Annual IDCW",
-        "amfi_code": "134342",
+        "scheme_name": "ICICI Prudential Credit Risk Fund - Direct Plan - Annual IDCW",
+        "amfi_code": "134341",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Credit Risk Fund - Direct Plan - Annual IDCW",
-        "amfi_code": "134341",
+        "scheme_name": "ICICI Prudential Credit Risk Fund - Annual IDCW",
+        "amfi_code": "134342",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       }
@@ -21454,12 +21454,6 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - Annual IDCW",
-        "amfi_code": "153410",
-        "fund_house": "ICICI Prudential Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - Growth",
         "amfi_code": "153411",
         "fund_house": "ICICI Prudential Mutual Fund",
@@ -21468,6 +21462,12 @@
       {
         "scheme_name": "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Annual IDCW",
         "amfi_code": "153412",
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - Annual IDCW",
+        "amfi_code": "153410",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       }
@@ -21976,14 +21976,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI PRUDENTIAL HOUSING OPPORTUNITIES FUND - Direct Plan IDCW",
-        "amfi_code": "150311",
+        "scheme_name": "ICICI PRUDENTIAL HOUSING OPPORTUNITIES FUND - Direct Plan Growth",
+        "amfi_code": "150310",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI PRUDENTIAL HOUSING OPPORTUNITIES FUND - Direct Plan Growth",
-        "amfi_code": "150310",
+        "scheme_name": "ICICI PRUDENTIAL HOUSING OPPORTUNITIES FUND - Direct Plan IDCW",
+        "amfi_code": "150311",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       }
@@ -22104,8 +22104,8 @@
     "canonical_code": "120596",
     "variants": [
       {
-        "scheme_name": "ICICI Prudential Large & Mid Cap Fund - Institutional Option - I - Growth",
-        "amfi_code": "100350",
+        "scheme_name": "ICICI Prudential Large & Mid Cap Fund - Growth",
+        "amfi_code": "100349",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -22116,8 +22116,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Large & Mid Cap Fund - Growth",
-        "amfi_code": "100349",
+        "scheme_name": "ICICI Prudential Large & Mid Cap Fund - Institutional Option - I - Growth",
+        "amfi_code": "100350",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -22662,14 +22662,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Nifty Auto Index Fund - IDCW",
-        "amfi_code": "150646",
+        "scheme_name": "ICICI Prudential Nifty Auto Index Fund - Growth",
+        "amfi_code": "150645",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Nifty Auto Index Fund - Growth",
-        "amfi_code": "150645",
+        "scheme_name": "ICICI Prudential Nifty Auto Index Fund - IDCW",
+        "amfi_code": "150646",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       }
@@ -22842,6 +22842,12 @@
     "canonical_code": "150468",
     "variants": [
       {
+        "scheme_name": "ICICI Prudential Nifty IT Index Fund - IDCW",
+        "amfi_code": "150467",
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "ICICI Prudential Nifty IT Index Fund - Growth",
         "amfi_code": "150466",
         "fund_house": "ICICI Prudential Mutual Fund",
@@ -22850,12 +22856,6 @@
       {
         "scheme_name": "ICICI Prudential Nifty IT Index Fund - Direct Plan - Growth",
         "amfi_code": "150468",
-        "fund_house": "ICICI Prudential Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "ICICI Prudential Nifty IT Index Fund - IDCW",
-        "amfi_code": "150467",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -22994,14 +22994,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Nifty Pharma Index Fund - Direct Plan - Growth",
-        "amfi_code": "150930",
+        "scheme_name": "ICICI Prudential Nifty Pharma Index Fund - IDCW",
+        "amfi_code": "150931",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Nifty Pharma Index Fund - IDCW",
-        "amfi_code": "150931",
+        "scheme_name": "ICICI Prudential Nifty Pharma Index Fund - Direct Plan - Growth",
+        "amfi_code": "150930",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       }
@@ -23098,14 +23098,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Nifty SDL Sep 2026 Index Fund - Direct Plan - Growth",
-        "amfi_code": "151211",
+        "scheme_name": "ICICI Prudential Nifty SDL Sep 2026 Index Fund - Direct Plan - Annual IDCW",
+        "amfi_code": "151210",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Nifty SDL Sep 2026 Index Fund - Direct Plan - Annual IDCW",
-        "amfi_code": "151210",
+        "scheme_name": "ICICI Prudential Nifty SDL Sep 2026 Index Fund - Direct Plan - Growth",
+        "amfi_code": "151211",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       }
@@ -23170,18 +23170,6 @@
     "canonical_code": "153546",
     "variants": [
       {
-        "scheme_name": "ICICI Prudential Nifty200 Quality 30 Index Fund - IDCW",
-        "amfi_code": "153545",
-        "fund_house": "ICICI Prudential Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "ICICI Prudential Nifty200 Quality 30 Index Fund - Growth",
-        "amfi_code": "153544",
-        "fund_house": "ICICI Prudential Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "ICICI Prudential Nifty200 Quality 30 Index Fund - Direct Plan - Growth",
         "amfi_code": "153546",
         "fund_house": "ICICI Prudential Mutual Fund",
@@ -23190,6 +23178,18 @@
       {
         "scheme_name": "ICICI Prudential Nifty200 Quality 30 Index Fund - Direct Plan - IDCW",
         "amfi_code": "153547",
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "ICICI Prudential Nifty200 Quality 30 Index Fund - IDCW",
+        "amfi_code": "153545",
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "ICICI Prudential Nifty200 Quality 30 Index Fund - Growth",
+        "amfi_code": "153544",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       }
@@ -23226,14 +23226,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Nifty50 Equal Weight Index Fund- Direct Plan - Growth",
-        "amfi_code": "150639",
+        "scheme_name": "ICICI Prudential Nifty50 Equal Weight Index Fund- IDCW",
+        "amfi_code": "150638",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Nifty50 Equal Weight Index Fund- IDCW",
-        "amfi_code": "150638",
+        "scheme_name": "ICICI Prudential Nifty50 Equal Weight Index Fund- Direct Plan - Growth",
+        "amfi_code": "150639",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -23846,14 +23846,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - IDCW",
-        "amfi_code": "102595",
+        "scheme_name": "ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Growth",
+        "amfi_code": "102594",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Growth",
-        "amfi_code": "102594",
+        "scheme_name": "ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - IDCW",
+        "amfi_code": "102595",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -23870,14 +23870,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 1 -Dividend",
-        "amfi_code": "124843",
+        "scheme_name": "ICICI Prudential Value Fund - Series 1 - Direct Dividend",
+        "amfi_code": "124842",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 1 - Direct Dividend",
-        "amfi_code": "124842",
+        "scheme_name": "ICICI Prudential Value Fund - Series 1 -Dividend",
+        "amfi_code": "124843",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -23894,14 +23894,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 3 - Dividend",
-        "amfi_code": "127629",
+        "scheme_name": "ICICI Prudential Value Fund - Series 3 - Direct Dividend",
+        "amfi_code": "127628",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 3 - Direct Dividend",
-        "amfi_code": "127628",
+        "scheme_name": "ICICI Prudential Value Fund - Series 3 - Dividend",
+        "amfi_code": "127629",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -23930,6 +23930,12 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "ICICI Prudential Value Fund - Series 5  Cumulative Option",
+        "amfi_code": "130987",
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "ICICI Prudential Value Fund - Series 5 Dividend Option",
         "amfi_code": "130985",
         "fund_house": "ICICI Prudential Mutual Fund",
@@ -23942,26 +23948,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 5  Cumulative Option",
-        "amfi_code": "130987",
-        "fund_house": "ICICI Prudential Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "ICICI Prudential Value Fund - Series 5 Direct Plan Cumulative Option",
         "amfi_code": "130988",
-        "fund_house": "ICICI Prudential Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "ICICI Prudential Value Fund - Series 6 Direct Plan Cumulative Option",
-        "amfi_code": "134189",
-        "fund_house": "ICICI Prudential Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "ICICI Prudential Value Fund - Series 6 Direct Plan Dividend Option",
-        "amfi_code": "134190",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -23974,6 +23962,18 @@
       {
         "scheme_name": "ICICI Prudential Value Fund - Series 6  Cumulative Option",
         "amfi_code": "134192",
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "ICICI Prudential Value Fund - Series 6 Direct Plan Cumulative Option",
+        "amfi_code": "134189",
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "ICICI Prudential Value Fund - Series 6 Direct Plan Dividend Option",
+        "amfi_code": "134190",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -24002,14 +24002,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 9 - Dividend Option",
-        "amfi_code": "140030",
+        "scheme_name": "ICICI Prudential Value Fund - Series 9 - Direct Plan - Cumulative Option",
+        "amfi_code": "140031",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 9 - Direct Plan - Cumulative Option",
-        "amfi_code": "140031",
+        "scheme_name": "ICICI Prudential Value Fund - Series 9 - Dividend Option",
+        "amfi_code": "140030",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -24026,14 +24026,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 10 - Direct Plan - Cumulative Option",
-        "amfi_code": "140433",
+        "scheme_name": "ICICI Prudential Value Fund - Series 10 - Dividend Option",
+        "amfi_code": "140434",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 10 - Dividend Option",
-        "amfi_code": "140434",
+        "scheme_name": "ICICI Prudential Value Fund - Series 10 - Direct Plan - Cumulative Option",
+        "amfi_code": "140433",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -24050,14 +24050,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 11 - Cumulative Option",
-        "amfi_code": "140500",
+        "scheme_name": "ICICI Prudential Value Fund - Series 11 - Dividend Option",
+        "amfi_code": "140501",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 11 - Dividend Option",
-        "amfi_code": "140501",
+        "scheme_name": "ICICI Prudential Value Fund - Series 11 - Cumulative Option",
+        "amfi_code": "140500",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -24110,14 +24110,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 14 - Direct Plan - Cumulative Option",
-        "amfi_code": "141559",
+        "scheme_name": "ICICI Prudential Value Fund - Series 14 - Cumulative Option",
+        "amfi_code": "141558",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 14 - Cumulative Option",
-        "amfi_code": "141558",
+        "scheme_name": "ICICI Prudential Value Fund - Series 14 - Direct Plan - Cumulative Option",
+        "amfi_code": "141559",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -24182,14 +24182,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 17 - Cumulative Option",
-        "amfi_code": "141790",
+        "scheme_name": "ICICI Prudential Value Fund - Series 17 - IDCW Option",
+        "amfi_code": "141789",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 17 - IDCW Option",
-        "amfi_code": "141789",
+        "scheme_name": "ICICI Prudential Value Fund - Series 17 - Cumulative Option",
+        "amfi_code": "141790",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -24200,14 +24200,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 18 - Direct Plan - IDCW Option",
-        "amfi_code": "141880",
+        "scheme_name": "ICICI Prudential Value Fund - Series 18 - IDCW Option",
+        "amfi_code": "141881",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 18 - IDCW Option",
-        "amfi_code": "141881",
+        "scheme_name": "ICICI Prudential Value Fund - Series 18 - Direct Plan - IDCW Option",
+        "amfi_code": "141880",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -24224,14 +24224,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 19 - Direct Plan - IDCW Option",
-        "amfi_code": "142073",
+        "scheme_name": "ICICI Prudential Value Fund - Series 19 - Direct Plan - Cumulative Option",
+        "amfi_code": "142072",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 19 - Direct Plan - Cumulative Option",
-        "amfi_code": "142072",
+        "scheme_name": "ICICI Prudential Value Fund - Series 19 - Direct Plan - IDCW Option",
+        "amfi_code": "142073",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -24248,8 +24248,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 20 - IDCW Option",
-        "amfi_code": "142290",
+        "scheme_name": "ICICI Prudential Value Fund - Series 20 - Cumulative Option",
+        "amfi_code": "142288",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       },
@@ -24260,8 +24260,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "ICICI Prudential Value Fund - Series 20 - Cumulative Option",
-        "amfi_code": "142288",
+        "scheme_name": "ICICI Prudential Value Fund - Series 20 - IDCW Option",
+        "amfi_code": "142290",
         "fund_house": "ICICI Prudential Mutual Fund",
         "match_type": "name_search"
       }
@@ -27282,12 +27282,6 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Motilal Oswal Balanced Advantage Fund Direct - Annual IDCW Payout/Reinvestment",
-        "amfi_code": "139866",
-        "fund_house": "Motilal Oswal Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Motilal Oswal Balanced Advantage Fund (MOFDYNAMIC) - Regular Plan - Growth Option",
         "amfi_code": "139870",
         "fund_house": "Motilal Oswal Mutual Fund",
@@ -27302,6 +27296,12 @@
       {
         "scheme_name": "Motilal Oswal Balanced Advantage Fund  (MOFDYNAMIC) - Direct Plan - Growth Option",
         "amfi_code": "139872",
+        "fund_house": "Motilal Oswal Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Motilal Oswal Balanced Advantage Fund Direct - Annual IDCW Payout/Reinvestment",
+        "amfi_code": "139866",
         "fund_house": "Motilal Oswal Mutual Fund",
         "match_type": "name_search"
       }
@@ -27456,14 +27456,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Motilal Oswal Focused Fund - Direct Plan Growth Option",
-        "amfi_code": "122389",
+        "scheme_name": "Motilal Oswal Focused Fund Regular - IDCW Payout/Reinvestment",
+        "amfi_code": "122388",
         "fund_house": "Motilal Oswal Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Motilal Oswal Focused Fund Regular - IDCW Payout/Reinvestment",
-        "amfi_code": "122388",
+        "scheme_name": "Motilal Oswal Focused Fund - Direct Plan Growth Option",
+        "amfi_code": "122389",
         "fund_house": "Motilal Oswal Mutual Fund",
         "match_type": "name_search"
       },
@@ -27570,20 +27570,26 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Motilal Oswal Liquid Fund Direct - IDCW Monthly Payout/Reinvestment",
-        "amfi_code": "146223",
-        "fund_house": "Motilal Oswal Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Motilal Oswal Liquid Fund Regular - IDCW Quarterly Payout/Reinvestment",
         "amfi_code": "146222",
         "fund_house": "Motilal Oswal Mutual Fund",
         "match_type": "name_search"
       },
       {
+        "scheme_name": "Motilal Oswal Liquid Fund Direct - IDCW Monthly Payout/Reinvestment",
+        "amfi_code": "146223",
+        "fund_house": "Motilal Oswal Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "Motilal Oswal Liquid Fund Regular - IDCW Weekly Reinvestment",
         "amfi_code": "146224",
+        "fund_house": "Motilal Oswal Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Motilal Oswal Liquid Fund Direct - IDCW Fortnightly Reinvestment",
+        "amfi_code": "146226",
         "fund_house": "Motilal Oswal Mutual Fund",
         "match_type": "name_search"
       },
@@ -27596,12 +27602,6 @@
       {
         "scheme_name": "Motilal Oswal Liquid Fund Direct - IDCW Reinvestment",
         "amfi_code": "146228",
-        "fund_house": "Motilal Oswal Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "Motilal Oswal Liquid Fund Direct - IDCW Fortnightly Reinvestment",
-        "amfi_code": "146226",
         "fund_house": "Motilal Oswal Mutual Fund",
         "match_type": "name_search"
       },
@@ -27624,6 +27624,12 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "Motilal Oswal Liquid Fund - Unclaimed Redemption - Greater than 3 years",
+        "amfi_code": "147443",
+        "fund_house": "Motilal Oswal Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "Motilal Oswal Liquid Fund - Unclaimed Dividend- Upto 3 years",
         "amfi_code": "147441",
         "fund_house": "Motilal Oswal Mutual Fund",
@@ -27632,12 +27638,6 @@
       {
         "scheme_name": "Motilal Oswal Liquid Fund - Unclaimed Redemption - Upto 3 years",
         "amfi_code": "147444",
-        "fund_house": "Motilal Oswal Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "Motilal Oswal Liquid Fund - Unclaimed Redemption - Greater than 3 years",
-        "amfi_code": "147443",
         "fund_house": "Motilal Oswal Mutual Fund",
         "match_type": "name_search"
       }
@@ -28058,20 +28058,14 @@
     "canonical_code": "124234",
     "variants": [
       {
-        "scheme_name": "Motilal Oswal Ultra Short Term Fund (MOFUSTF) -Direct Plan- Growth",
-        "amfi_code": "124234",
-        "fund_house": "Motilal Oswal Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Motilal Oswal Ultra Short Term Fund (MOFUSTF)-Regular Plan- Growth",
         "amfi_code": "124233",
         "fund_house": "Motilal Oswal Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Motilal Oswal Ultra Short Term Fund Regular - IDCW Quarterly Payout/Reinvestment",
-        "amfi_code": "124305",
+        "scheme_name": "Motilal Oswal Ultra Short Term Fund (MOFUSTF) -Direct Plan- Growth",
+        "amfi_code": "124234",
         "fund_house": "Motilal Oswal Mutual Fund",
         "match_type": "name_search"
       },
@@ -28082,38 +28076,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Motilal Oswal Ultra Short Term Fund Regular - IDCW Fortnightly Reinvestment",
-        "amfi_code": "124313",
-        "fund_house": "Motilal Oswal Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "Motilal Oswal Ultra Short Term Fund Regular - IDCW Monthly Payout/Reinvestment",
-        "amfi_code": "124315",
-        "fund_house": "Motilal Oswal Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "Motilal Oswal Ultra Short Term Fund Direct - IDCW Daily Reinvestment",
-        "amfi_code": "124316",
-        "fund_house": "Motilal Oswal Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Motilal Oswal Ultra Short Term Fund Direct - IDCW Fortnightly Reinvestment",
         "amfi_code": "124311",
         "fund_house": "Motilal Oswal Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Motilal Oswal Ultra Short Term Fund Direct - IDCW Weekly Reinvestment",
-        "amfi_code": "124306",
-        "fund_house": "Motilal Oswal Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "Motilal Oswal Ultra Short Term Fund Direct Plan - IDCW Monthly Payout/Reinvestment",
-        "amfi_code": "124308",
+        "scheme_name": "Motilal Oswal Ultra Short Term Fund Regular - IDCW Quarterly Payout/Reinvestment",
+        "amfi_code": "124305",
         "fund_house": "Motilal Oswal Mutual Fund",
         "match_type": "name_search"
       },
@@ -28124,8 +28094,38 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "Motilal Oswal Ultra Short Term Fund Direct Plan - IDCW Monthly Payout/Reinvestment",
+        "amfi_code": "124308",
+        "fund_house": "Motilal Oswal Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "Motilal Oswal Ultra Short Term Fund Direct - IDCW Quarterly Payout/Reinvestment",
         "amfi_code": "124312",
+        "fund_house": "Motilal Oswal Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Motilal Oswal Ultra Short Term Fund Regular - IDCW Monthly Payout/Reinvestment",
+        "amfi_code": "124315",
+        "fund_house": "Motilal Oswal Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Motilal Oswal Ultra Short Term Fund Direct - IDCW Weekly Reinvestment",
+        "amfi_code": "124306",
+        "fund_house": "Motilal Oswal Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Motilal Oswal Ultra Short Term Fund Regular - IDCW Fortnightly Reinvestment",
+        "amfi_code": "124313",
+        "fund_house": "Motilal Oswal Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Motilal Oswal Ultra Short Term Fund Direct - IDCW Daily Reinvestment",
+        "amfi_code": "124316",
         "fund_house": "Motilal Oswal Mutual Fund",
         "match_type": "name_search"
       }
@@ -28596,26 +28596,26 @@
     "canonical_code": "153567",
     "variants": [
       {
-        "scheme_name": "Nippon India BSE Sensex Next 30 Index Fund- Direct Plan- Growth Option",
-        "amfi_code": "153567",
-        "fund_house": "Nippon India Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Nippon India BSE Sensex Next 30 Index -Direct Plan - IDCW Payout",
         "amfi_code": "153565",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Nippon India BSE Sensex Next 30 Index Fund -Regular Plan- IDCW Payout",
-        "amfi_code": "153568",
+        "scheme_name": "Nippon India BSE Sensex Next 30 Index Fund - Regular Plan-Growth Option",
+        "amfi_code": "153566",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Nippon India BSE Sensex Next 30 Index Fund - Regular Plan-Growth Option",
-        "amfi_code": "153566",
+        "scheme_name": "Nippon India BSE Sensex Next 30 Index Fund- Direct Plan- Growth Option",
+        "amfi_code": "153567",
+        "fund_house": "Nippon India Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Nippon India BSE Sensex Next 30 Index Fund -Regular Plan- IDCW Payout",
+        "amfi_code": "153568",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       }
@@ -28812,14 +28812,8 @@
     "canonical_code": "152996",
     "variants": [
       {
-        "scheme_name": "Nippon India CRISIL - IBX AAA Financial Services - Jan 2028 Index Fund - Direct Plan - Growth Option",
-        "amfi_code": "152996",
-        "fund_house": "Nippon India Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "Nippon India CRISIL - IBX AAA Financial Services - Jan 2028 Index Fund - Direct Plan - IDCW Option",
-        "amfi_code": "152997",
+        "scheme_name": "Nippon India CRISIL - IBX AAA Financial Services - Jan 2028 Index Fund - Regular Plan - IDCW Option",
+        "amfi_code": "152999",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       },
@@ -28830,8 +28824,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Nippon India CRISIL - IBX AAA Financial Services - Jan 2028 Index Fund - Regular Plan - IDCW Option",
-        "amfi_code": "152999",
+        "scheme_name": "Nippon India CRISIL - IBX AAA Financial Services - Jan 2028 Index Fund - Direct Plan - Growth Option",
+        "amfi_code": "152996",
+        "fund_house": "Nippon India Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Nippon India CRISIL - IBX AAA Financial Services - Jan 2028 Index Fund - Direct Plan - IDCW Option",
+        "amfi_code": "152997",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       }
@@ -30034,12 +30034,6 @@
     "canonical_code": "152881",
     "variants": [
       {
-        "scheme_name": "Nippon India Nifty 500 Momentum 50 Index Fund - Regular Plan - IDCW Option",
-        "amfi_code": "152882",
-        "fund_house": "Nippon India Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Nippon India Nifty 500 Momentum 50 Index Fund - Direct Plan - Growth Option",
         "amfi_code": "152881",
         "fund_house": "Nippon India Mutual Fund",
@@ -30048,6 +30042,12 @@
       {
         "scheme_name": "Nippon India Nifty 500 Momentum 50 Index Fund - Regular Plan - Growth Option",
         "amfi_code": "152883",
+        "fund_house": "Nippon India Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Nippon India Nifty 500 Momentum 50 Index Fund - Regular Plan - IDCW Option",
+        "amfi_code": "152882",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       },
@@ -30136,14 +30136,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Nippon India Nifty Alpha Low Volatility 30 Index Fund - Regular Plan - Growth Option",
-        "amfi_code": "150490",
+        "scheme_name": "Nippon India Nifty Alpha Low Volatility 30 Index Fund - Direct Plan - IDCW Option",
+        "amfi_code": "150488",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Nippon India Nifty Alpha Low Volatility 30 Index Fund - Direct Plan - IDCW Option",
-        "amfi_code": "150488",
+        "scheme_name": "Nippon India Nifty Alpha Low Volatility 30 Index Fund - Regular Plan - Growth Option",
+        "amfi_code": "150490",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       },
@@ -30170,6 +30170,12 @@
     "canonical_code": "153064",
     "variants": [
       {
+        "scheme_name": "Nippon India Nifty Auto Index Fund - Regular Plan- IDCW Option",
+        "amfi_code": "153065",
+        "fund_house": "Nippon India Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "Nippon India Nifty Auto Index Fund - Direct Plan- Growth Option",
         "amfi_code": "153064",
         "fund_house": "Nippon India Mutual Fund",
@@ -30178,12 +30184,6 @@
       {
         "scheme_name": "Nippon India Nifty Auto Index Fund - Regular Plan- Growth Option",
         "amfi_code": "153066",
-        "fund_house": "Nippon India Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "Nippon India Nifty Auto Index Fund - Regular Plan- IDCW Option",
-        "amfi_code": "153065",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       },
@@ -30200,8 +30200,8 @@
     "canonical_code": "152389",
     "variants": [
       {
-        "scheme_name": "Nippon India Nifty Bank Index Fund - Regular Plan - Growth Option",
-        "amfi_code": "152387",
+        "scheme_name": "Nippon India Nifty Bank Index Fund - Regular Plan - IDCW Option",
+        "amfi_code": "152388",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       },
@@ -30212,14 +30212,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Nippon India Nifty Bank Index Fund - Regular Plan - IDCW Option",
-        "amfi_code": "152388",
+        "scheme_name": "Nippon India Nifty Bank Index Fund - Direct Plan - Growth Option",
+        "amfi_code": "152389",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Nippon India Nifty Bank Index Fund - Direct Plan - Growth Option",
-        "amfi_code": "152389",
+        "scheme_name": "Nippon India Nifty Bank Index Fund - Regular Plan - Growth Option",
+        "amfi_code": "152387",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       }
@@ -30258,8 +30258,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Nippon India Nifty G-Sec Oct 2028 Maturity Index Fund-Direct Plan-Growth Option",
-        "amfi_code": "151440",
+        "scheme_name": "Nippon India Nifty G-Sec Oct 2028 Maturity Index Fund-Regular Plan-IDCW Option",
+        "amfi_code": "151441",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       },
@@ -30270,8 +30270,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Nippon India Nifty G-Sec Oct 2028 Maturity Index Fund-Regular Plan-IDCW Option",
-        "amfi_code": "151441",
+        "scheme_name": "Nippon India Nifty G-Sec Oct 2028 Maturity Index Fund-Direct Plan-Growth Option",
+        "amfi_code": "151440",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       }
@@ -30328,14 +30328,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Nippon India Nifty India Manufacturing Index-Regular Plan-Growth Option",
-        "amfi_code": "153809",
+        "scheme_name": "Nippon India Nifty India Manufacturing Index- Regular Plan-IDCW Option",
+        "amfi_code": "153808",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Nippon India Nifty India Manufacturing Index- Regular Plan-IDCW Option",
-        "amfi_code": "153808",
+        "scheme_name": "Nippon India Nifty India Manufacturing Index-Regular Plan-Growth Option",
+        "amfi_code": "153809",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       }
@@ -30438,14 +30438,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Nippon India Nifty SDL Plus G-Sec-Jun 2029 Maturity 70:30 Index Fund-Direct Plan-IDCW Option",
-        "amfi_code": "151391",
+        "scheme_name": "Nippon India Nifty SDL Plus G-Sec-Jun 2029 Maturity 70:30 Index Fund-Direct Plan-Growth Option",
+        "amfi_code": "151390",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Nippon India Nifty SDL Plus G-Sec-Jun 2029 Maturity 70:30 Index Fund-Direct Plan-Growth Option",
-        "amfi_code": "151390",
+        "scheme_name": "Nippon India Nifty SDL Plus G-Sec-Jun 2029 Maturity 70:30 Index Fund-Direct Plan-IDCW Option",
+        "amfi_code": "151391",
         "fund_house": "Nippon India Mutual Fund",
         "match_type": "name_search"
       },
@@ -31118,20 +31118,20 @@
     "canonical_code": "138875",
     "variants": [
       {
-        "scheme_name": "PGIM India Arbitrage Fund - Direct Plan - Regular Dividend",
-        "amfi_code": "138877",
-        "fund_house": "PGIM India Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "PGIM India Arbitrage Fund - Direct Plan - Growth",
         "amfi_code": "138875",
         "fund_house": "PGIM India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "PGIM India Arbitrage Fund - Direct Plan - Annual Dividend",
-        "amfi_code": "138880",
+        "scheme_name": "PGIM India Arbitrage Fund - Direct Plan - Regular Dividend",
+        "amfi_code": "138877",
+        "fund_house": "PGIM India Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "PGIM India Arbitrage Fund - Regular Plan - Growth",
+        "amfi_code": "138876",
         "fund_house": "PGIM India Mutual Fund",
         "match_type": "name_search"
       },
@@ -31148,20 +31148,20 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "PGIM India Arbitrage Fund - Regular Plan - Growth",
-        "amfi_code": "138876",
-        "fund_house": "PGIM India Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "PGIM India Arbitrage Fund - Regular Plan - Monthly Dividend",
-        "amfi_code": "138883",
+        "scheme_name": "PGIM India Arbitrage Fund - Direct Plan - Annual Dividend",
+        "amfi_code": "138880",
         "fund_house": "PGIM India Mutual Fund",
         "match_type": "name_search"
       },
       {
         "scheme_name": "PGIM India Arbitrage Fund - Regular Plan - Quarterly Dividend",
         "amfi_code": "138884",
+        "fund_house": "PGIM India Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "PGIM India Arbitrage Fund - Regular Plan - Monthly Dividend",
+        "amfi_code": "138883",
         "fund_house": "PGIM India Mutual Fund",
         "match_type": "name_search"
       },
@@ -31246,14 +31246,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "PGIM India Corporate Bond Fund - Monthly Dividend",
-        "amfi_code": "138316",
+        "scheme_name": "PGIM India Corporate Bond Fund - Annual Dividend",
+        "amfi_code": "138317",
         "fund_house": "PGIM India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "PGIM India Corporate Bond Fund - Annual Dividend",
-        "amfi_code": "138317",
+        "scheme_name": "PGIM India Corporate Bond Fund - Monthly Dividend",
+        "amfi_code": "138316",
         "fund_house": "PGIM India Mutual Fund",
         "match_type": "name_search"
       },
@@ -31276,14 +31276,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "PGIM India Corporate Bond Fund - Direct Plan - Monthly Dividend",
-        "amfi_code": "138331",
+        "scheme_name": "PGIM India Corporate Bond Fund - Direct Plan - Quarterly Dividend",
+        "amfi_code": "138332",
         "fund_house": "PGIM India Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "PGIM India Corporate Bond Fund - Direct Plan - Quarterly Dividend",
-        "amfi_code": "138332",
+        "scheme_name": "PGIM India Corporate Bond Fund - Direct Plan - Monthly Dividend",
+        "amfi_code": "138331",
         "fund_house": "PGIM India Mutual Fund",
         "match_type": "name_search"
       }
@@ -35754,12 +35754,6 @@
     "canonical_code": "135789",
     "variants": [
       {
-        "scheme_name": "TATA Banking & Financial Services Fund Direct Plan - Payout of Income Distribution cum capital withdrawal option ",
-        "amfi_code": "135789",
-        "fund_house": "Tata Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "TATA Banking & Financial Services Fund Regular Plan - Payout of Income Distribution cum capital withdrawal option ",
         "amfi_code": "135790",
         "fund_house": "Tata Mutual Fund",
@@ -35768,6 +35762,12 @@
       {
         "scheme_name": "TATA Banking & Financial Services Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option ",
         "amfi_code": "135791",
+        "fund_house": "Tata Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "TATA Banking & Financial Services Fund Direct Plan - Payout of Income Distribution cum capital withdrawal option ",
+        "amfi_code": "135789",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
@@ -35952,6 +35952,12 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "Tata Corporate Bond Fund -Regular Plan -  Growth",
+        "amfi_code": "106129",
+        "fund_house": "Tata Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "Tata Corporate Bond Fund Retail Investment Plan Growth",
         "amfi_code": "106128",
         "fund_house": "Tata Mutual Fund",
@@ -35970,20 +35976,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Tata Corporate Bond Fund-Regular Plan - Weekly Dividend",
-        "amfi_code": "106131",
-        "fund_house": "Tata Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "Tata Corporate Bond Fund -Regular Plan -  Growth",
-        "amfi_code": "106129",
-        "fund_house": "Tata Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Tata Corporate Bond Fund Super High Investment Plan Daily Dividend",
         "amfi_code": "106133",
+        "fund_house": "Tata Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Tata Corporate Bond Fund-Regular Plan - Weekly Dividend",
+        "amfi_code": "106131",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
@@ -35994,14 +35994,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Tata Corporate Bond Fund- Direct Plan-Daily Dividend",
-        "amfi_code": "119102",
+        "scheme_name": "Tata Corporate Bond Fund- Direct Plan-Weekly Dividend",
+        "amfi_code": "119103",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Tata Corporate Bond Fund- Direct Plan-Weekly Dividend",
-        "amfi_code": "119103",
+        "scheme_name": "Tata Corporate Bond Fund- Direct Plan-Daily Dividend",
+        "amfi_code": "119102",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
@@ -36024,20 +36024,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Tata Corporate Bond Fund - Direct Plan -Growth (Segregated Portfolio 1)",
-        "amfi_code": "147389",
-        "fund_house": "Tata Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Tata Corporate Bond Fund Segregated Portfolio 1  Direct Plan - Daily Payout of Income Distribution cum capital withdrawal option",
         "amfi_code": "147388",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Tata Corporate Bond Fund -Regular Plan-Growth(Segregated Portfolio 1)",
-        "amfi_code": "147392",
+        "scheme_name": "Tata Corporate Bond Fund - Direct Plan -Growth (Segregated Portfolio 1)",
+        "amfi_code": "147389",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
@@ -36048,20 +36042,26 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "Tata Corporate Bond Fund -Regular Plan-Growth(Segregated Portfolio 1)",
+        "amfi_code": "147392",
+        "fund_house": "Tata Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "Tata Corporate Bond Fund Segregated Portfolio 1  Direct Plan - Weekly Payout of Income Distribution cum capital withdrawal option ",
         "amfi_code": "147391",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Tata Corporate Bond Fund Segregated Portfolio 1  Regular Plan - Weekly Payout of  Income Distribution cum capital withdrawal option ",
-        "amfi_code": "147394",
+        "scheme_name": "Tata Corporate Bond Fund Segregated Portfolio 1  Regular Plan - Monthly Payout of Income Distribution cum capital withdrawal option ",
+        "amfi_code": "147393",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Tata Corporate Bond Fund Segregated Portfolio 1  Regular Plan - Monthly Payout of Income Distribution cum capital withdrawal option ",
-        "amfi_code": "147393",
+        "scheme_name": "Tata Corporate Bond Fund Segregated Portfolio 1  Regular Plan - Weekly Payout of  Income Distribution cum capital withdrawal option ",
+        "amfi_code": "147394",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
@@ -36078,20 +36078,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Tata Corporate Bond Fund-Regular Plan-IDCW Periodic Reinvestment",
-        "amfi_code": "149352",
-        "fund_house": "Tata Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Tata Corporate Bond Fund-Regular Plan-IDCW Quarterly Payout",
         "amfi_code": "149354",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Tata Corporate Bond Fund-Direct Plan-IDCW Periodic Reinvestment",
-        "amfi_code": "149356",
+        "scheme_name": "Tata Corporate Bond Fund-Regular Plan-IDCW Periodic Reinvestment",
+        "amfi_code": "149352",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
@@ -36102,14 +36096,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Tata Corporate Bond Fund-Direct Plan-IDCW Monthly Reinvestment",
-        "amfi_code": "149357",
+        "scheme_name": "Tata Corporate Bond Fund-Direct Plan-IDCW Periodic Reinvestment",
+        "amfi_code": "149356",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Tata Corporate Bond Fund-Regular Plan-IDCW Periodic Payout",
-        "amfi_code": "149360",
+        "scheme_name": "Tata Corporate Bond Fund-Direct Plan-IDCW Monthly Reinvestment",
+        "amfi_code": "149357",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
@@ -36126,8 +36120,20 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "Tata Corporate Bond Fund-Regular Plan-IDCW Periodic Payout",
+        "amfi_code": "149360",
+        "fund_house": "Tata Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "Tata Corporate Bond Fund-Direct Plan-Growth",
         "amfi_code": "149361",
+        "fund_house": "Tata Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Tata Corporate Bond Fund-Regular Plan-IDCW Monthly Reinvestment",
+        "amfi_code": "149363",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
@@ -36140,12 +36146,6 @@
       {
         "scheme_name": "Tata Corporate Bond Fund-Direct Plan-IDCW Monthly Payout",
         "amfi_code": "149364",
-        "fund_house": "Tata Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "Tata Corporate Bond Fund-Regular Plan-IDCW Monthly Reinvestment",
-        "amfi_code": "149363",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       }
@@ -36196,14 +36196,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "TATA Digital India Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option ",
-        "amfi_code": "135799",
+        "scheme_name": "TATA Digital India Fund Direct Plan - Reinvestment of Income Distribution cum capital withdrawal option ",
+        "amfi_code": "135798",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "TATA Digital India Fund Direct Plan - Reinvestment of Income Distribution cum capital withdrawal option ",
-        "amfi_code": "135798",
+        "scheme_name": "TATA Digital India Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option ",
+        "amfi_code": "135799",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
@@ -36404,6 +36404,12 @@
         "match_type": "name_search"
       },
       {
+        "scheme_name": "TATA Focused Fund Direct Plan - Reinvestment of Income Distribution cum capital withdrawal option",
+        "amfi_code": "147758",
+        "fund_house": "Tata Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "Tata Focused Fund-Direct Plan-Growth",
         "amfi_code": "147757",
         "fund_house": "Tata Mutual Fund",
@@ -36412,12 +36418,6 @@
       {
         "scheme_name": "TATA Focused Fund Direct Plan - Payout of Income Distribution cum capital withdrawal option",
         "amfi_code": "147759",
-        "fund_house": "Tata Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "TATA Focused Fund Direct Plan - Reinvestment of Income Distribution cum capital withdrawal option",
-        "amfi_code": "147758",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
@@ -37380,8 +37380,8 @@
     "canonical_code": "146980",
     "variants": [
       {
-        "scheme_name": "TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ",
-        "amfi_code": "146979",
+        "scheme_name": "Tata Overnight Fund-Regular Plan-Growth",
+        "amfi_code": "146977",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
@@ -37392,8 +37392,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Tata Overnight Fund-Regular Plan-Growth",
-        "amfi_code": "146977",
+        "scheme_name": "TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ",
+        "amfi_code": "146979",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
@@ -37496,14 +37496,14 @@
     "canonical_code": "119949",
     "variants": [
       {
-        "scheme_name": "Tata Short Term Bond Fund- Regular Plan - Monthly Payout of IDCW Option",
-        "amfi_code": "101547",
+        "scheme_name": "Tata Short Term Bond Fund -Regular Plan- Growth Option",
+        "amfi_code": "101548",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Tata Short Term Bond Fund -Regular Plan- Growth Option",
-        "amfi_code": "101548",
+        "scheme_name": "Tata Short Term Bond Fund- Regular Plan - Monthly Payout of IDCW Option",
+        "amfi_code": "101547",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
@@ -37520,14 +37520,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Tata Short Term Bond Fund- Direct Plan - Periodic Payout of IDCW Option",
-        "amfi_code": "133974",
+        "scheme_name": "Tata Short Term Bond Fund- Regular Plan - Periodic Payout of IDCW Option",
+        "amfi_code": "133975",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Tata Short Term Bond Fund- Regular Plan - Periodic Payout of IDCW Option",
-        "amfi_code": "133975",
+        "scheme_name": "Tata Short Term Bond Fund- Direct Plan - Periodic Payout of IDCW Option",
+        "amfi_code": "133974",
         "fund_house": "Tata Mutual Fund",
         "match_type": "name_search"
       }
@@ -37710,14 +37710,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Taurus ELSS Tax Saver Fund - Direct Plan - Growth",
-        "amfi_code": "118866",
+        "scheme_name": "Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option",
+        "amfi_code": "118867",
         "fund_house": "Taurus Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option",
-        "amfi_code": "118867",
+        "scheme_name": "Taurus ELSS Tax Saver Fund - Direct Plan - Growth",
+        "amfi_code": "118866",
         "fund_house": "Taurus Mutual Fund",
         "match_type": "name_search"
       }
@@ -37728,26 +37728,20 @@
     "canonical_code": "118876",
     "variants": [
       {
-        "scheme_name": "Taurus Ethical Fund - Regular Plan - Growth",
-        "amfi_code": "111787",
-        "fund_house": "Taurus Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option",
         "amfi_code": "111788",
         "fund_house": "Taurus Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Taurus Ethical Fund -  Regular Plan - Bonus Option",
-        "amfi_code": "111903",
+        "scheme_name": "Taurus Ethical Fund - Regular Plan - Growth",
+        "amfi_code": "111787",
         "fund_house": "Taurus Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Taurus Ethical Fund-Direct Plan-Bonus Option #",
-        "amfi_code": "118878",
+        "scheme_name": "Taurus Ethical Fund -  Regular Plan - Bonus Option",
+        "amfi_code": "111903",
         "fund_house": "Taurus Mutual Fund",
         "match_type": "name_search"
       },
@@ -37760,6 +37754,12 @@
       {
         "scheme_name": "Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option",
         "amfi_code": "118877",
+        "fund_house": "Taurus Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Taurus Ethical Fund-Direct Plan-Bonus Option #",
+        "amfi_code": "118878",
         "fund_house": "Taurus Mutual Fund",
         "match_type": "name_search"
       }
@@ -37782,14 +37782,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option",
-        "amfi_code": "118884",
+        "scheme_name": "Taurus Flexi Cap Fund - Direct Plan - Growth",
+        "amfi_code": "118883",
         "fund_house": "Taurus Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Taurus Flexi Cap Fund - Direct Plan - Growth",
-        "amfi_code": "118883",
+        "scheme_name": "Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option",
+        "amfi_code": "118884",
         "fund_house": "Taurus Mutual Fund",
         "match_type": "name_search"
       }
@@ -37800,26 +37800,26 @@
     "canonical_code": "118879",
     "variants": [
       {
-        "scheme_name": "Taurus Infrastructure Fund - Regular Plan - Growth",
-        "amfi_code": "105417",
-        "fund_house": "Taurus Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option",
         "amfi_code": "105418",
         "fund_house": "Taurus Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option",
-        "amfi_code": "118880",
+        "scheme_name": "Taurus Infrastructure Fund - Regular Plan - Growth",
+        "amfi_code": "105417",
         "fund_house": "Taurus Mutual Fund",
         "match_type": "name_search"
       },
       {
         "scheme_name": "Taurus Infrastructure Fund - Direct Plan - Growth ",
         "amfi_code": "118879",
+        "fund_house": "Taurus Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option",
+        "amfi_code": "118880",
         "fund_house": "Taurus Mutual Fund",
         "match_type": "name_search"
       }
@@ -37842,14 +37842,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option",
-        "amfi_code": "118873",
+        "scheme_name": "Taurus Mid Cap Fund - Direct Plan - Growth",
+        "amfi_code": "118872",
         "fund_house": "Taurus Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "Taurus Mid Cap Fund - Direct Plan - Growth",
-        "amfi_code": "118872",
+        "scheme_name": "Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option",
+        "amfi_code": "118873",
         "fund_house": "Taurus Mutual Fund",
         "match_type": "name_search"
       }
@@ -39188,6 +39188,12 @@
     "canonical_code": "144339",
     "variants": [
       {
+        "scheme_name": "UTI Corporate Bond Fund - Regular Plan - Annual IDCW",
+        "amfi_code": "144337",
+        "fund_house": "UTI Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
         "scheme_name": "UTI Corporate Bond Fund - Regular Plan - Flexi IDCW",
         "amfi_code": "144338",
         "fund_house": "UTI Mutual Fund",
@@ -39200,8 +39206,8 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "UTI Corporate Bond Fund - Regular Plan - Annual IDCW",
-        "amfi_code": "144337",
+        "scheme_name": "UTI Corporate Bond Fund - Direct Plan - Flexi IDCW",
+        "amfi_code": "144341",
         "fund_house": "UTI Mutual Fund",
         "match_type": "name_search"
       },
@@ -39212,14 +39218,14 @@
         "match_type": "name_search"
       },
       {
-        "scheme_name": "UTI Corporate Bond Fund - Direct Plan - Flexi IDCW",
-        "amfi_code": "144341",
+        "scheme_name": "UTI Corporate Bond Fund - Regular Plan - Quarterly IDCW",
+        "amfi_code": "144342",
         "fund_house": "UTI Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "UTI Corporate Bond Fund - Regular Plan - Quarterly IDCW",
-        "amfi_code": "144342",
+        "scheme_name": "UTI Corporate Bond Fund - Direct Plan - Quarterly IDCW",
+        "amfi_code": "144346",
         "fund_house": "UTI Mutual Fund",
         "match_type": "name_search"
       },
@@ -39238,12 +39244,6 @@
       {
         "scheme_name": "UTI Corporate Bond Fund - Regular Plan - Growth Option",
         "amfi_code": "144345",
-        "fund_house": "UTI Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
-        "scheme_name": "UTI Corporate Bond Fund - Direct Plan - Quarterly IDCW",
-        "amfi_code": "144346",
         "fund_house": "UTI Mutual Fund",
         "match_type": "name_search"
       }
@@ -40390,26 +40390,26 @@
     "canonical_code": "131164",
     "variants": [
       {
-        "scheme_name": "UTI Multi Cap Fund - Dividend Option - Direct",
-        "amfi_code": "131162",
-        "fund_house": "UTI Mutual Fund",
-        "match_type": "name_search"
-      },
-      {
         "scheme_name": "UTI Multi Cap Fund - Dividend Option",
         "amfi_code": "131161",
         "fund_house": "UTI Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "UTI Multi Cap Fund - Growth Option - Direct",
-        "amfi_code": "131164",
+        "scheme_name": "UTI Multi Cap Fund - Growth Option",
+        "amfi_code": "131163",
         "fund_house": "UTI Mutual Fund",
         "match_type": "name_search"
       },
       {
-        "scheme_name": "UTI Multi Cap Fund - Growth Option",
-        "amfi_code": "131163",
+        "scheme_name": "UTI Multi Cap Fund - Dividend Option - Direct",
+        "amfi_code": "131162",
+        "fund_house": "UTI Mutual Fund",
+        "match_type": "name_search"
+      },
+      {
+        "scheme_name": "UTI Multi Cap Fund - Growth Option - Direct",
+        "amfi_code": "131164",
         "fund_house": "UTI Mutual Fund",
         "match_type": "name_search"
       },

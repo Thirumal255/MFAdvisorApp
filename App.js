@@ -1,5 +1,5 @@
 import { ArrowLeft, Search } from 'lucide-react-native';
-import { useState } from 'react';
+import { useContext, useState } from 'react';
 import { ActivityIndicator, Alert, ScrollView, Text, TextInput, TouchableOpacity, View } from 'react-native';
 import DateTimePickerModal from "react-native-modal-datetime-picker";
 import { Navigation } from './components/Navigation';
@@ -23,9 +23,14 @@ import RiskAnalyzer from './tools/RiskAnalyzer';
 import SIPCalculator from './tools/SIPCalculator';
 import TaxOptimizer from './tools/TaxOptimizer';
 import ToolsScreen from './tools/ToolsScreen';
+// 🟢 ADD YOUR FIREBASE IMPORTS HERE:
+import { AuthContext, AuthProvider } from './context/AuthContext';
+import LoginScreen from './screens/LoginScreen';
 
 
-export default function App() {
+function MainApp() {
+  // 🟢 PULL THE USER IDENTITY FROM FIREBASE
+  const { user, loading: authLoading } = useContext(AuthContext);
   const [screen, setScreen] = useState('home');
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState([]);
@@ -431,7 +436,19 @@ const compareTwoFunds = async (code1, code2) => {
   }
 };
 
+// 🟢 THE BOUNCER: Show a loading spinner while Firebase verifies the token
+  if (authLoading) {
+    return (
+      <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+        <ActivityIndicator size="large" color="#007AFF" />
+      </View>
+    );
+  }
 
+  // 🟢 THE BOUNCER: If no user is logged in, forcefully show the LoginScreen
+  if (!user) {
+    return <LoginScreen />;
+  }
 
   
 
@@ -2438,4 +2455,14 @@ return (
         />
   </View>
 );
+}
+
+// 🟢 ADD THIS AT THE VERY BOTTOM OF YOUR FILE
+// This wraps your custom app in the Firebase identity provider
+export default function App() {
+  return (
+    <AuthProvider>
+      <MainApp />
+    </AuthProvider>
+  );
 }
