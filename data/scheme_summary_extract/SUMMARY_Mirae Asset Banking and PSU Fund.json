@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Mirae Asset Banking and PSU Fund (formerly known as Mirae Asset Banking and PSU Debt Fund)",
+  "source_file": "SUMMARY_Mirae Asset Banking and PSU Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Banking and PSU Fund (formerly known as Mirae Asset Banking and PSU Debt Fund)",
+    "fund_type": "Banking and PSU Fund - An open ended debt scheme predominantly investing in debt instruments of banks, Public SectorUndertakings, Public Financial Institutions and Municipal Bonds. A relatively high interest rate risk and moderate credit risk",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular PlanIDCW - Payout",
+      "Regular PlanIDCW -Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "isins": [
+      "INF769K01FU7",
+      "INF769K01FV5",
+      "INF769K01FW3",
+      "INF769K01FX1",
+      "INF769K01FY9",
+      "INF769K01FZ6"
+    ],
+    "amfi_codes": [
+      "148416",
+      "148417",
+      "148418",
+      "148419",
+      null,
+      null
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to generate income / capital appreciation through predominantly investing in debtand money market instruments issued by Banks, Public Sector Undertakings (PSUs) and Public Financial Institutions (PFIs) andMunicipal Bonds.The Scheme does not guarantee or assure any returns.",
+    "asset_allocation": "Debt and Money Market Instruments, issued by Scheduled Commercial Banks, Public Sector Undertakings (PSUs) & PublicFinancial Institutions (PFIs), Municipal Bonds - 80% to 100% (Low to Medium) Debt (including government securities) andMoney Market Instruments issued by entities other than Banks, PFIs, PSUs and Municipal Bonds - 0% to 20% (Low to Medium)Units issued by REITs & InvITs - 0% to 10% (Low to Medium)",
+    "benchmark": "CRISIL Banking and PSU Debt A-II Index",
+    "fund_managers": "Ms. Kruti Chheta",
+    "annual_expense": {
+      "Regular": "0.82",
+      "Direct": "0.35"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular PlanIDCW - Payout",
+    "Regular PlanIDCW -Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T04:52:57.779127+00:00"
+}

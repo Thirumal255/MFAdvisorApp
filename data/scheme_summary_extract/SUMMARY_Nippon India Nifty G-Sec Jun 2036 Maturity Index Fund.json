@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Nippon India Nifty G-Sec - Jun 2036 Maturity Index Fund",
+  "source_file": "SUMMARY_Nippon India Nifty G-Sec Jun 2036 Maturity Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India Nifty G-Sec - Jun 2036 Maturity Index Fund",
+    "fund_type": "An open-ended Target Maturity Index Fund investing in constituents of Nifty G-Sec Jun 2036 Index",
+    "fund_options": [
+      "DIRECT GROWTH PLAN GROWTH",
+      "GROWTH PLAN GROWTH",
+      "DIRECT IDCW PLAN PAYOUT",
+      "DIRECT IDCW PLAN REINVESTMENT",
+      "IDCW PLAN PAYOUT",
+      "IDCW PLAN REINVESTMENT"
+    ],
+    "isins": [
+      "INF204KC1AC0",
+      "INF204KC1998",
+      "INF204KC1AD8",
+      "INF204KC1AE6",
+      "INF204KC1AA4",
+      "INF204KC1AB2"
+    ],
+    "amfi_codes": [
+      "150920",
+      "150923",
+      "150921",
+      "150922",
+      null,
+      null
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns corresponding to the total returns of the securities as represented by the Nifty G-Sec Jun 2036 Index before expenses, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Government Securities representing the G-Sec portion of Nifty G-Sec Jun 2036 Index - 95% - 100%. , Money Market instruments & Cash and Cash Equivalents - 0% - 5%",
+    "benchmark": "Nifty G-Sec Jun 2036 Index",
+    "fund_managers": "FM 1 - Vivek Sharma",
+    "annual_expense": {
+      "Regular": "0.42",
+      "Direct": "0.20"
+    },
+    "exit_load": "Not Applicable"
+  },
+  "fund_options_inferred": [
+    "DIRECT GROWTH PLAN GROWTH",
+    "GROWTH PLAN GROWTH",
+    "DIRECT IDCW PLAN PAYOUT",
+    "DIRECT IDCW PLAN REINVESTMENT",
+    "IDCW PLAN PAYOUT",
+    "IDCW PLAN REINVESTMENT"
+  ],
+  "extracted_at": "2026-04-18T05:18:52.834719+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis CRISIL IBX SDL May 2027 Index Fund",
+  "source_file": "SUMMARY_Axis CRISIL IBX SDL May 2027 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis CRISIL IBX SDL May 2027 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns closely corresponding to the total returns of the securities as represented by the CRISIL IBX SDL Index May 2027 before expenses, subject to tracking errors. However, there can be no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Debt Instruments comprising CRISIL IBX SDL Index – May 2027 - (95%-100%), Money Market Instruments - (0%-5%)",
+    "benchmark": "CRISIL IBX SDL Index - May 2027",
+    "fund_managers": "Mr. Hardik Shah, Mr. Aditya Pagaria",
+    "annual_expense": {
+      "Regular": "0.29",
+      "Direct": "0.16"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "149873",
+      "149874",
+      "149872",
+      "149875"
+    ],
+    "isins": [
+      "INF846K017G6",
+      "INF846K018G4",
+      "INF846K010H9",
+      "INF846K011H7",
+      "INF846K019G2",
+      "INF846K012H5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T02:19:59.803395+00:00"
+}

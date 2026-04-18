@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "Edelweiss Large & Mid Cap Fund",
+  "source_file": "SUMMARY_Edelweiss Large & Mid Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss Large & Mid Cap Fund",
+    "fund_type": null,
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Regular Plan Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the Scheme is to generate long-term capital appreciation from a diversified portfolio of predominantly Large Cap and Mid Cap equity and equity-related securities. The Scheme does not assure or guarantee any returns. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "1. Equity & Equity related instruments of Large Cap Companies - 35-65%\n2. Equity & Equity related instruments of Mid Cap Companies - 35-65%\n3. Equity & Equity related instruments of companies other than Large & Mid Cap companies - 0-30%\n4. Debt & Money Market Instruments - 0-30%",
+    "benchmark": "Nifty Large Midcap 250 TR Index",
+    "fund_managers": [
+      "Mr. Raj Koradia",
+      "Mr. Trideep Bhattacharya"
+    ],
+    "annual_expense": {
+      "Regular": "2.22",
+      "Direct": "0.51"
+    },
+    "exit_load": "• If the units are redeemed / switched out on or before 90 days from the date of allotment – 1.00%\n• If the units are redeemed / switched out after 90 days from the date of allotment – Nil",
+    "amfi_codes": [
+      "140175",
+      "140174",
+      "140174",
+      "140172",
+      "140173",
+      "140173"
+    ],
+    "isins": [
+      "INF843K01AL0",
+      "INF843K01AM8",
+      "INF843K01AN6",
+      "INF843K01047",
+      "INF843K01054",
+      "INF843K01062"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Regular Plan Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T03:23:41.770498+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty Midcap 150 Index Fund",
+  "source_file": "SUMMARY_ICICI Prudential Nifty Midcap 150 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty Midcap 150 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Growth",
+      "IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns closely corresponding to the total returns of the securities as represented by the Nifty Midcap 150 Index before expenses, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (NIFTY Midcap 150 Index) 95%-100% \n• Money Market instruments, Reverse repo and / or TREPS and/or Debt Mutual Funds Schemes * 0%-5% \n• Units of Debt ETFs 0%-5%",
+    "benchmark": "Nifty Midcap 150 TRI",
+    "fund_managers": [
+      "Nishit Patel",
+      "Ajaykumar Solanki",
+      "Ashwini Bharucha",
+      "Venus Ahuja"
+    ],
+    "annual_expense": {
+      "Regular": "0.94",
+      "Direct": "0.30"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "149389",
+      "149391",
+      "149390",
+      "149388"
+    ],
+    "isins": [
+      "INF109KC1W58",
+      "INF109KC1W66",
+      "INF109KC1W25",
+      "INF109KC1W33"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Growth",
+    "IDCW"
+  ],
+  "extracted_at": "2026-04-18T04:13:12.038549+00:00"
+}

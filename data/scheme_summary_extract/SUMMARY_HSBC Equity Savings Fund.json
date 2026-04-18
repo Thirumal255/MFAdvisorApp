@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "HSBC Equity Savings Fund",
+  "source_file": "SUMMARY_HSBC Equity Savings Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Equity Savings Fund",
+    "fund_type": "An open-ended scheme investing in equity, arbitrage and debt",
+    "fund_options": [
+      "HSBC Equity Savings Fund - Direct Plan-Growth",
+      "HSBC Equity Savings Fund - Direct Plan-Monthly IDCW Payout",
+      "HSBC Equity Savings Fund - Direct Plan-Monthly IDCW Reinvestment",
+      "HSBC Equity Savings Fund - Regular Plan - Growth",
+      "HSBC Equity Savings Fund - Regular Plan - Monthly IDCW Payout",
+      "HSBC Equity Savings Fund - Regular Plan - Monthly IDCW Reinvestment",
+      "HSBC Equity Savings Fund - Regular Plan - Quarterly IDCW Payout",
+      "HSBC Equity Savings Fund - Regular Plan - Quarterly IDCW Reinvestment",
+      "HSBC Equity Savings Fund - Direct Plan-Quarterly IDCW Payout",
+      "HSBC Equity Savings Fund - Direct Plan-Quarterly IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF917K01GE4",
+      "INF917K01E37",
+      "INF917K01GA2",
+      "INF917K01AA5",
+      "INF917K01965",
+      "INF917K01973",
+      "INF917K01981",
+      "INF917K01999",
+      "INF917K01GD6",
+      "INF917K01GC8"
+    ],
+    "amfi_codes": [
+      "151060",
+      "151061",
+      "151059",
+      "151058",
+      "151056",
+      "151057",
+      null,
+      null,
+      null,
+      null
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The investment objective of the Scheme is to generate regular income by predominantly investing in arbitrage opportunities in the cash and derivatives segments of the equity markets and debt and money market instruments and to generate long-term capital appreciation through unhedged exposure to equity and equity related instruments. There is no assurance that the objective of the Scheme will be realised and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "A. Equities & Equity related securities :65% to 90% A1. Hedged ^ 20% to 50% A2. Unhedged^^ 15% to 45% B. Debt, Money Market Instruments and Government Securities*:10% to 35% Units issued by REITs/ InvITs: 0% to 10%",
+    "benchmark": "NIFTY Equity Savings Index",
+    "fund_managers": "FM 1 - Cheenu Gupta, FM 2 - Praveen Ayathan, FM 3 - Mahesh Chhabria, FM 4 - . Mohd. Asif Rizwi, FM 5 - Sonal Gupta",
+    "annual_expense": {
+      "Regular": "1.52",
+      "Direct": "0.67"
+    },
+    "exit_load": "If the units redeemed or switched out are upto 10% of the units purchased or switched in (“the limit”) within 1 month from the date of allotment – Nil. If units redeemed or switched out are over and above 10% within 1 month from the date of allotment –0.50%. If units are redeemed or switched out on or after 1 month from the date of allotment – Nil."
+  },
+  "fund_options_inferred": [
+    "HSBC Equity Savings Fund - Direct Plan-Growth",
+    "HSBC Equity Savings Fund - Direct Plan-Monthly IDCW Payout",
+    "HSBC Equity Savings Fund - Direct Plan-Monthly IDCW Reinvestment",
+    "HSBC Equity Savings Fund - Regular Plan - Growth",
+    "HSBC Equity Savings Fund - Regular Plan - Monthly IDCW Payout",
+    "HSBC Equity Savings Fund - Regular Plan - Monthly IDCW Reinvestment",
+    "HSBC Equity Savings Fund - Regular Plan - Quarterly IDCW Payout",
+    "HSBC Equity Savings Fund - Regular Plan - Quarterly IDCW Reinvestment",
+    "HSBC Equity Savings Fund - Direct Plan-Quarterly IDCW Payout",
+    "HSBC Equity Savings Fund - Direct Plan-Quarterly IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T03:55:44.566809+00:00"
+}

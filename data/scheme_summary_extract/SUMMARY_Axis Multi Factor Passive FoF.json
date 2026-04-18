@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis Multi Factor FoF Passive",
+  "source_file": "SUMMARY_Axis Multi Factor Passive FoF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Multi Factor FoF Passive",
+    "fund_type": "An open ended fund of funds scheme investing in units of domestic Equity ETFs falling under the factor theme.",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide long-term capital appreciation from a portfolio investing predominantly in units of domestic Equity ETFs falling under the factor theme.",
+    "asset_allocation": "Units of Domestic Equity oriented ETFs falling under factor theme# - (95%-100%), Debt and Money Market Instruments** -(0%-5%) * Including units of liquid and overnight schemes. # Indicative list of the factors across all market caps where the scheme will invest: i. Momentum ii. Quality iii. Growth iv. Value v. Alpha vi. Low Volatility vii. High Beta viii. Dividend / Dividend Opportunity / Dividend Points ix. Equal Weights Provided that investments in schemes falling under a single factor shall not exceed 40% of the net assets of the scheme.",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Mr. Karthik Kumar - Primary/Domestic Equities",
+    "annual_expense": {
+      "Regular": "0.66",
+      "Direct": "0.14"
+    },
+    "exit_load": "If redeemed / switched-out within 15 days from the date of allotment – 1% w.e.f., 24/02/2022",
+    "amfi_codes": [
+      "149847",
+      "149846",
+      "149844",
+      "149845"
+    ],
+    "isins": [
+      "INF846K011G9",
+      "INF846K012G7",
+      "INF846K014G3",
+      "INF846K015G0",
+      "INF846K013G5",
+      "INF846K016G8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T02:22:37.070324+00:00"
+}

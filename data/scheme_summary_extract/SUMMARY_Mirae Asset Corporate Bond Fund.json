@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Mirae Asset Corporate Bond Fund",
+  "source_file": "SUMMARY_Mirae Asset Corporate Bond Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Corporate Bond Fund",
+    "fund_type": "Corporate Bond Fund - An open ended debt scheme predominantly investing in AA+ and above rated corporate bonds. Arelatively high interest rate risk and Moderate credit risk.",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular PlanIDCW - Payout",
+      "RegularPlanIDCW - Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide income and capital appreciation by investing predominantly in AA+and above rated corporate bonds. The Scheme does not guarantee or assure any returns.",
+    "asset_allocation": "Corporate Debt* rated AA+ and above - 80% to 100% (Low to Medium) Government Securities, other debt and MoneyMarket Instruments - 0% to 20% (Low to Medium) Units issued by REITs & InvITs - 0% to 10% (Medium to High)",
+    "benchmark": "CRISIL Corporate Debt A-II Index",
+    "fund_managers": "Ms. Kruti Chheta",
+    "annual_expense": {
+      "Regular": "0.68",
+      "Direct": "0.25"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "148755",
+      "148756",
+      "148757",
+      "148758"
+    ],
+    "isins": [
+      "INF769K01GZ4",
+      "INF769K01HA5",
+      "INF769K01HB3",
+      "INF769K01HC1",
+      "INF769K01HD9",
+      "INF769K01HE7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular PlanIDCW - Payout",
+    "RegularPlanIDCW - Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T04:53:47.983091+00:00"
+}

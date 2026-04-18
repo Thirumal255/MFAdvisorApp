@@ -1,0 +1,41 @@
+{
+  "parent_scheme_name": "Samco Flexi Cap Fund",
+  "source_file": "SUMMARY_Samco Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Samco Flexi Cap Fund",
+    "fund_type": "An open-ended dynamic equity scheme investing across large cap, mid cap, small cap stocks",
+    "fund_options": [
+      "Samco Flexi Cap Fund - Regular Plan - Growth Option",
+      "Samco Flexi Cap Fund - Direct Plan - Growth Option"
+    ],
+    "riskometer": "Very High (The Scheme risk-o-meter is based on evalution of the portfolio data as on November 30,2025)",
+    "investment_objective": "The investment objective of the Scheme is to seek to generate long-term capital growth from an actively managed portfolio of Indian & foreign equity instruments across market capitalisation. However, there is no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Indian Equity across market capitalization – 65% to 100% Foreign securities – 0 to 35% Tri-party Repo (TREPS) through CCIL – 0 to 35%",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": [
+      "Mr. Umeshkumar Mehta",
+      "Mrs. Nirali Bhansali",
+      "Mr. Dhawal Dhanani",
+      "Ms. Komal Grover"
+    ],
+    "annual_expense": {
+      "Regular": "2.41",
+      "Direct": "0.91"
+    },
+    "exit_load": "10% of the units allotted may be redeemed without any exit load, on or before completion of 12 months from the date of allotment of units. Any redemption in excess of such limit in the first 12 months from the date of allotment shall be subject to the following exit load: • 1% if redeemed or switched out on or before completion of 12 months from the date of allotment of units; •Nil, if redeemed or switched out after completion of 12 months from the date of allotment of unit.",
+    "amfi_codes": [
+      "149449",
+      "149450"
+    ],
+    "isins": [
+      "INF0K1H01016",
+      "INF0K1H01024"
+    ]
+  },
+  "fund_options_inferred": [
+    "Samco Flexi Cap Fund - Regular Plan - Growth Option",
+    "Samco Flexi Cap Fund - Direct Plan - Growth Option"
+  ],
+  "extracted_at": "2026-04-18T05:33:35.486046+00:00"
+}

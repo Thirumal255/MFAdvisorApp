@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "GROWW MULTI ASSET ALLOCATION FUND",
+  "source_file": "SUMMARY_Groww Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "GROWW MULTI ASSET ALLOCATION FUND",
+    "fund_type": "Multi Asset",
+    "fund_options": [
+      "DIRECT PLAN-GROWTH OPTION",
+      "DIRECT PLAN-IDCW PAYOUT OPTION",
+      "DIRECT PLAN-IDCW REINVESTMENT OPTION",
+      "REGULAR PLAN-GROWTH OPTION",
+      "REGULAR PLAN-IDCW PAYOUT OPTION",
+      "REGULAR PLAN-IDCW REINVESTMENT OPTION"
+    ],
+    "riskometer": "High",
+    "investment_objective": "To achieve long-term capital appreciation by predominantly \ninvesting in equity and equity-related instruments, Debt & \nMoney market instruments, Commodities and in units of REITs \n& InvITs. However, there can be no assurance that the \ninvestment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments - 10% to 80 %\nDebt & Money market instruments - 10% t o80 %\nGold, Silver, Commodity ETFs, Exchange\nTraded Commodity Derivatives (ETCDs) - 10% to 50 %\nREITs and InvITs - 0% to 10%",
+    "benchmark": "Nifty 500 TRI (60%) CRISIL Composite Bond Fund Index (30%) \nDomestic Gold Prices (5%) Domestic Silver Prices (5%)",
+    "fund_managers": "Mr. Paras Matalia, Mr. Kaustubh Sule & Mr. Wilfred & Mr. \nNikhil Satam Gonsalves",
+    "annual_expense": {
+      "Regular": "2.28",
+      "Direct": "0.46"
+    },
+    "exit_load": "If redeemed within 30 days from the date of allotment: 1%; \nIf redeemed after 30 days from the date of allotment: NIL.",
+    "amfi_codes": [
+      "153821",
+      "153852",
+      "153851",
+      "153850"
+    ],
+    "isins": [
+      "INF666M01MA9",
+      "INF666M01MB7",
+      "INF666M01MC5",
+      "INF666M01MD3",
+      "INF666M01ME1",
+      "INF666M01MF8"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN-GROWTH OPTION",
+    "DIRECT PLAN-IDCW PAYOUT OPTION",
+    "DIRECT PLAN-IDCW REINVESTMENT OPTION",
+    "REGULAR PLAN-GROWTH OPTION",
+    "REGULAR PLAN-IDCW PAYOUT OPTION",
+    "REGULAR PLAN-IDCW REINVESTMENT OPTION"
+  ],
+  "extracted_at": "2026-04-18T03:36:30.670396+00:00"
+}

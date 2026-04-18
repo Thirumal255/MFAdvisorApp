@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE RETIREMENT FUND - THE 50s PLAN",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Retirement Fund-The 50s Plan.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE RETIREMENT FUND - THE 50s PLAN",
+    "fund_type": "An open-ended retirement solution oriented scheme having a lock-in of 5 years or till retirement age (whichever is earlier)",
+    "fund_options": [
+      "Direct - Payout of IDCW",
+      "Regular Plan-Growth",
+      "Regular - Payout of IDCW",
+      "Direct Plan-Growth"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The primary investment objective of the Scheme is income generation and capital appreciation for its investors which will be in line with their retirement goals by investing in a mix of equity, equity related instruments along with debt and money market instruments. The Scheme does not guarantee/indicate any returns. There can be no assurance that the schemes’ objectives will be achieved.",
+    "asset_allocation": "Instruments -  Risk Profile -  Range\nDebt & Money Market Instruments -  Low to Medium - 75%-100%\nEquity & Equity related instruments - Medium to High - 0%-25%",
+    "benchmark": "CRISIL Short Term Debt Hybrid 75+25 Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Mohit Sharma",
+        "type": "Comanage",
+        "from_date": "October 31, 2024"
+      },
+      {
+        "name": "Mr. Harshil Suvarnkar",
+        "type": "Comanage",
+        "from_date": "March 22, 2021"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1.74",
+      "Direct": "0.64"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "146937",
+      "146938",
+      "146939",
+      "146940"
+    ],
+    "isins": [
+      "INF209KB1J55",
+      "INF209KB1J14",
+      "INF209KB1J22",
+      "INF209KB1J48"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct - Payout of IDCW",
+    "Regular Plan-Growth",
+    "Regular - Payout of IDCW",
+    "Direct Plan-Growth"
+  ],
+  "extracted_at": "2026-04-18T02:16:56.476761+00:00"
+}

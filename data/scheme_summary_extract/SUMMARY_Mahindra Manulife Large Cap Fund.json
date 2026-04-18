@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Mahindra Manulife Large Cap Fund",
+  "source_file": "SUMMARY_Mahindra Manulife Large Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mahindra Manulife Large Cap Fund",
+    "fund_type": "An open ended equity scheme predominantly investing in large cap stocks",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to provide long term capital appreciation & provide long-term growth opportunities by investing in a portfolio constituted of equity & equity related securities and derivatives predominantly in large cap companies. However, there can be no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related Securities of Large cap companies^*: 80%-100% Equity and Equity related Securities of other companies^: 0% - 20% Debt and Money Market Securities^ (including TREPS, Reverse Repo): 0% - 20% Units issued by REITs & InvITs: 0% - 10% ^ including derivative instruments to the extent of 50% of the Net Assets of the Scheme. Investment in derivatives shall be for hedging, portfolio balancing and such other purposes as maybe permitted from time to time under the Regulations and subject to guidelines issued by SEBI/RBI from time to time. *Definition of Large Cap Companies: 1st – 100th company in terms of full Market Capitalization. For the purpose of this definition, the list of stocks prepared by AMFI in this regard will be adopted Note: For detailed Asset Allocation please refer Scheme Information Document of the Scheme available on our website www.mahindramanulife.com",
+    "benchmark": "Nifty 100 Index TRI",
+    "fund_managers": "FM-1 Ms. Fatema Pacha , FM-2 Ms. Kirti Dalvi",
+    "annual_expense": {
+      "Regular": "2.35",
+      "Direct": "0.67"
+    },
+    "exit_load": "An Exit Load of 1% is payable if Units are redeemed / switched-out upto 3 months from the date of allotment; Nil if Units are redeemed / switched-out after 3 months from the date of allotment.",
+    "amfi_codes": [
+      "146551",
+      "146548",
+      "146549",
+      "146550"
+    ],
+    "isins": [
+      "INF174V01697",
+      "INF174V01705",
+      "INF174V01721",
+      "INF174V01739"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-18T04:50:40.592168+00:00"
+}

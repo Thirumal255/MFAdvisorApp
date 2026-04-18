@@ -1,0 +1,35 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF",
+  "source_file": "SUMMARY_ICICI Prudential Nifty Alpha Low- Volatility 30 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely correspond to the total return of the underlying index subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Equity securities of companies constituting the underlying index (Nifty Alpha Low-Volatility 30 Index) 95% - 100% Medium to High\n• Derivatives 0% - 5% Medium to High\n• Units of debt schemes, Debt and Money market instruments with maturity up to 91 days, TREPs,Repo and Reverse Repo 0% - 5% Low to Medium\n• Units of debt ETFs 0% - 5% Low to Medium",
+    "benchmark": "Nifty Alpha Low –Volatility 30 TRI",
+    "fund_managers": [
+      "Venus Ahuja",
+      "Nishit Patel",
+      "Ashwini Bharucha"
+    ],
+    "annual_expense": {
+      "Direct": "0.41"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "148456"
+    ],
+    "isins": [
+      "INF109KC1N59"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:11:13.575027+00:00"
+}

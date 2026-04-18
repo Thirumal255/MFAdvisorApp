@@ -1,0 +1,32 @@
+{
+  "parent_scheme_name": "ICICI Prudential BSE Liquid Rate ETF - Growth",
+  "source_file": "SUMMARY_ICICI Prudential BSE Liquid Rate ETF - Growth.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential BSE Liquid Rate ETF - Growth",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the Scheme is to provide returns before expenses that correspond to the returns of BSE Liquid Rate Index, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Instruments forming part of the BSE Liquid Rate Index = 95%-100% \n• G-sec(s) and/or T-bills with a residual maturity of upto 30 days = 0%-5%",
+    "benchmark": "BSE Liquid Rate Index",
+    "fund_managers": [
+      "Nikhil Kabra",
+      "Darshil Dedhia"
+    ],
+    "annual_expense": {},
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153378"
+    ],
+    "isins": [
+      "INF109K1A021"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:01:42.067904+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "HDFC Nifty 1D Rate Liquid ETF - Growth",
+  "source_file": "SUMMARY_HDFC NIFTY 1D Rate Liquid ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Nifty 1D Rate Liquid ETF - Growth",
+    "fund_type": "Exchange Traded Fund",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Low Risk",
+    "investment_objective": "The investment objective of the Scheme is to invest in Tri-Party Repos in Government Securities or Treasury Bills (TREPS). The Scheme aims to provide investment returns that, before expenses, correspond to the returns of the NIFTY 1D Rate Index, subject to tracking errors. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Tri-Party Repos in Government Securities or Treasury Bills (TREPS): 95% - 100%; Units of Overnight/ Liquid schemes#, Money Market Instruments (with maturity not exceeding 91 days), cash & cash equivalents. : 0% - 5% #The Scheme will invest in money market instruments as permitted by SEBI / RBI from time to time, subject to regulatory approvals, including Liquid/Money market schemes of own and other mutual funds. For detailed asset allocation, refer Scheme Information Document (SID) available on the website",
+    "benchmark": "NIFTY 1D Rate Index",
+    "fund_managers": "FM 1 - Mr. Swapnil Jangam , FM 2 - Mr. Rohan Pillai",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "Not Applicable",
+    "amfi_codes": [
+      "152049"
+    ],
+    "isins": [
+      "INF179KC1HE2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T03:46:25.035857+00:00"
+}

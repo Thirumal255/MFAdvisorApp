@@ -1,0 +1,34 @@
+{
+  "parent_scheme_name": "Mirae Asset NYSE FANG+ ETF Fund of Fund",
+  "source_file": "SUMMARY_Mirae Asset NYSE FANG + ETF Fund of Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset NYSE FANG+ ETF Fund of Fund",
+    "fund_type": "Fund of Fund - An Open-ended fund of fund scheme predominantly investing in Mirae Asset NYSE FANG+ ETF",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "An open-ended fund of fund scheme predominantly investing in Mirae Asset NYSE FANG+ ETF. There is no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "Units of Mirae Asset NYSE FANG+ ETF - 95% to 100% (High) Money market instruments / debt securities, Instruments and/or units of debt/liquid schemes of domestic Mutual Funds - 0% to 5% (Low to Medium)",
+    "benchmark": "NYSE FANG+ Index (TRI) (INR)",
+    "fund_managers": "Ms. Ekta Gala & Mr. Akshay Udeshi",
+    "annual_expense": {
+      "Regular": "0.44",
+      "Direct": "0.05"
+    },
+    "exit_load": "If redeemed within 3 months from the date of allotment: 0.50%,If redeemed after 3 months from the date of allotment:NIL.",
+    "amfi_codes": [
+      "148928",
+      "148929"
+    ],
+    "isins": [
+      "INF769K01HG2",
+      "INF769K01HH0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T05:02:21.440504+00:00"
+}

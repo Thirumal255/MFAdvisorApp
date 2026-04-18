@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Kotak Nifty200 Quality 30 ETF",
+  "source_file": "SUMMARY_Kotak Nifty200 Quality 30 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Nifty200 Quality 30 ETF",
+    "fund_type": "An open-ended scheme replicating/tracking Nifty200 Quality 30 Index.",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to replicate the composition of the Nifty200 Quality 30 Index and to generate returns that are commensurate with the performance of the Nifty200 Quality 30 Index, subject to tracking errors. However, there is no assurance that the objective of the scheme will be realized.",
+    "asset_allocation": "Equity and Equity related securities covered by the Nifty200 Quality 30 Index - 95% - 100%, Debt & Money Market Instruments - 0% - 5%",
+    "benchmark": "Nifty200 Quality 30 Index (Total Return Index (TRI))",
+    "fund_managers": "Mr. Devender Singhal, Mr. Satish Dondapati & Mr. Abhishek Bisen",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "153657"
+    ],
+    "isins": [
+      "INF174KA1WT6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:41:19.363851+00:00"
+}

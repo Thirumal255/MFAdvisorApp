@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "UTI - Dividend Yield Fund",
+  "source_file": "SUMMARY_UTI - Dividend Yield Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "UTI - Dividend Yield Fund",
+    "fund_type": "An open ended equity scheme predominantly investing in dividend yielding stocks",
+    "fund_options": [
+      "Direct Plan-Payout of IDCW",
+      "Direct Plan-Reinvestment of IDCW",
+      "Direct Plan-Growth",
+      "Regular Plan-Payout of IDCW",
+      "Regular Plan-Reinvestment of IDCW",
+      "Regular Plan-Growth"
+    ],
+    "isins": [
+      "INF789F01SU8",
+      "INF789F01SV6",
+      "INF789F01SW4",
+      "INF789F01448",
+      "INF789F01455",
+      "INF789F01463"
+    ],
+    "amfi_codes": [
+      null,
+      null,
+      "120749",
+      null,
+      null,
+      "103026"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The objective of the scheme is to generate long term capital appreciation and income by investing predominantly in dividendyielding equity and equity related securities. However, there can be no assurance or guarantee that the investment objectiveof the scheme would be achieved.",
+    "asset_allocation": "Equity and equity related instruments (minimum 65% of the total assets would be in equity and equity related instruments ofdividend yielding companies) (Including units of REITS): 65-100% (Medium to High) Debt and Money Market instrumentsincluding securitized debt#: 0-35% (Low to Medium) Units issued by InvITs: 0-10% (Medium to High) # The fund may invest upto 50% of its debt portfolio in securitized debt.",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Mr. Amit Premchandani",
+    "annual_expense": {
+      "Regular": "2.01",
+      "Direct": "1.44"
+    },
+    "exit_load": "1% if redeemed before 1 year from the date of investment."
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Payout of IDCW",
+    "Direct Plan-Reinvestment of IDCW",
+    "Direct Plan-Growth",
+    "Regular Plan-Payout of IDCW",
+    "Regular Plan-Reinvestment of IDCW",
+    "Regular Plan-Growth"
+  ],
+  "extracted_at": "2026-04-18T06:06:01.408475+00:00"
+}

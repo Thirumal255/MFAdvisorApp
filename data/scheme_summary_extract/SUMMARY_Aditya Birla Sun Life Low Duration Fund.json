@@ -1,0 +1,75 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE LOW DURATION FUND",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Low Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE LOW DURATION FUND",
+    "fund_type": "An open ended low duration debt scheme investing in instruments such that Macaulay duration of the portfolio is between 6 months and 12 months. A relatively high interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Direct - weekly IDCW",
+      "Growth - Direct Plan",
+      "Direct - daily IDCW",
+      "INSTITUTIONAL - DAILY IDCW",
+      "Growth Plan",
+      "REGULAR - WEEKLY IDCW",
+      "Institutional - weekly IDCW",
+      "Institutional Plan - Growth",
+      "Regular - DAILY IDCW"
+    ],
+    "isins": [
+      "INF209K01XV5",
+      "INF209K01XU7",
+      "INF209K01XW3",
+      "INF209K01KD0",
+      "INF209K01LQ0",
+      "INF209KA1LQ4",
+      "INF209K01KG3",
+      "INF209K01KE8",
+      "INF209KA1LP6"
+    ],
+    "amfi_codes": [
+      "119522",
+      "119523",
+      "119524",
+      "103191",
+      "103192",
+      "103193",
+      "103194",
+      "103195",
+      "113307"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The objective of the scheme is to provide income which is consistent with a portfolio through investments in a basket of debt and money market instruments of short maturities with a view to provide reasonable returns.",
+    "asset_allocation": "Under normal market conditions, the Scheme's maximum exposure as a percentage of its net assets to different debt and money market securities is set out below:\nDebt and Money Market Instruments#  - 0% to 80% - Low to Medium\nMoney Market Instruments including Tri-party Repo on Government securities or treasury bills & repo - 20% to 100% - Low to Medium\nMacaulay duration of the portfolio will be between 6 months-12 months.\n#The scheme may invest into securitized debt upto 50% of its net assets.",
+    "benchmark": "NIFTY Low Duration Debt Index A-I",
+    "fund_managers": [
+      {
+        "name": "Mr. Kaustubh Gupta",
+        "type": "Comanage",
+        "from_date": "July 15, 2011"
+      },
+      {
+        "name": "Mr. Mohit Sharma",
+        "type": "Comanage",
+        "from_date": "April 01, 2017"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1.19",
+      "Direct": "0.39"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct - weekly IDCW",
+    "Growth - Direct Plan",
+    "Direct - daily IDCW",
+    "INSTITUTIONAL - DAILY IDCW",
+    "Growth Plan",
+    "REGULAR - WEEKLY IDCW",
+    "Institutional - weekly IDCW",
+    "Institutional Plan - Growth",
+    "Regular - DAILY IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:13:47.133561+00:00"
+}

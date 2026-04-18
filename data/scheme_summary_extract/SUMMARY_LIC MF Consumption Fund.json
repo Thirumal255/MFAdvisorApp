@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "LIC MF Consumption Fund",
+  "source_file": "SUMMARY_LIC MF Consumption Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "LIC MF Consumption Fund",
+    "fund_type": "An open-ended equity scheme following consumption theme",
+    "fund_options": [
+      "Direct Plan - Payout of IDCW option",
+      "Direct Plan - Reinvestment of IDCW option",
+      "Regular Plan - Payout of IDCW option",
+      "Regular Plan - Reinvestment of IDCW option",
+      "Direct Plan - Growth option",
+      "Regular Plan - Growth option"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to achieve long term capital appreciation by predominantly investing in equity and equity related instruments of companies following consumption theme. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme would be as follows: Equity and Equity related instruments of companies following consumption theme: 80%-100% of total assets, Equity and equity related instruments of other than above companies: 0%-20% of total assets, Debt and Money Market instruments: 0%-20% of total assets, Units issued by InvITs: 0%-10% of total assets. Please refer the Scheme Information Document for complete details.",
+    "benchmark": "Nifty India Consumption Total Return Index (TRI)",
+    "fund_managers": "FM 1: Mr. Sumit Bhatnagar ; FM 2: Mr. Karan Doshi",
+    "annual_expense": {
+      "Regular": "2.38",
+      "Direct": "0.75"
+    },
+    "exit_load": "1. If units of the Scheme are redeemed / switched-out within 90 days from the date of allotment: a. Upto 12% of the units: No exit load will be levied b. Above 12% of the units: exit load of 1% will be levied 2. If units of the Scheme are redeemed /switched-out after 90 days from the date of allotment: No exit load will be levied.",
+    "amfi_codes": [
+      "153949",
+      "153949",
+      "153951",
+      "153951",
+      "153948",
+      "153950"
+    ],
+    "isins": [
+      "INF767K01SF5",
+      "INF767K01SE8",
+      "INF767K01SC2",
+      "INF767K01SB4",
+      "INF767K01SD0",
+      "INF767K01SA6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Payout of IDCW option",
+    "Direct Plan - Reinvestment of IDCW option",
+    "Regular Plan - Payout of IDCW option",
+    "Regular Plan - Reinvestment of IDCW option",
+    "Direct Plan - Growth option",
+    "Regular Plan - Growth option"
+  ],
+  "extracted_at": "2026-04-18T04:44:16.540248+00:00"
+}

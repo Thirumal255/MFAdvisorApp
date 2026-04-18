@@ -1,0 +1,32 @@
+{
+  "parent_scheme_name": "JioBlackRock Arbitrage Fund",
+  "source_file": "SUMMARY_JioBlackRock Arbitrage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "JioBlackRock Arbitrage Fund",
+    "fund_type": "Arbitrage Fund- An open ended scheme investing in arbitrage opportunities",
+    "fund_options": [
+      "Direct Plan-Growth"
+    ],
+    "riskometer": "Low Risk",
+    "investment_objective": "The investment objective of the Scheme is to generate capital appreciation and income by predominantly investing in arbitrage opportunities in the cash and derivatives segment of the equity market, and by investing the balance in debt and money market instruments. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity-related instruments including equity derivatives - 65% to 100% Debt and Money Market Instruments including the margin money deployed in derivative transactions - 0% to 35%",
+    "benchmark": "Nifty 50 Arbitrage (TRI)",
+    "fund_managers": "Mr. Anand Shah, Mr. Haresh Mehta, Mr, Siddharth Deb, Mr. Arun R",
+    "annual_expense": {
+      "Regular": "0.00",
+      "Direct": "0.22"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "154076"
+    ],
+    "isins": [
+      "INF22M001101"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth"
+  ],
+  "extracted_at": "2026-04-18T04:28:04.071700+00:00"
+}

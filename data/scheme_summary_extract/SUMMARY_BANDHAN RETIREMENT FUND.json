@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "BANDHAN RETIREMENT FUND",
+  "source_file": "SUMMARY_BANDHAN RETIREMENT FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "BANDHAN RETIREMENT FUND",
+    "fund_type": "An open-ended retirement solution oriented scheme having a lock-in of 5 years or till retirement age (whichever is earlier)",
+    "fund_options": [
+      "Bandhan Retirement Fund Regular Plan-Growth",
+      "Bandhan Retirement Fund Regular Plan-IDCW",
+      "Bandhan Retirement Fund Direct Plan-Growth",
+      "Bandhan Retirement Fund Direct Plan-IDCW"
+    ],
+    "isins": [
+      "INF194KB1GN7",
+      "INF194KB1GO5",
+      "INF194KB1GU2",
+      "INF194KB1GV0"
+    ],
+    "amfi_codes": [
+      "152103",
+      "152104",
+      "152102",
+      "152104"
+    ],
+    "riskometer": "5 Riskometer (as on Date)",
+    "investment_objective": "The investment objective of the Scheme is to provide long-term capital appreciation / income by investing in a mix ofequity, debt and other instruments to help investors meet their retirement goals. However, there can be no assurance thatthe investment objective of the scheme will be realized.",
+    "asset_allocation": "Securities belonging to the Equity and equity related instruments - 50%-100%, Debt Securities and Money MarketInstruments (including Government securities, Securitised debt) - 0%- 50% Units issued by InvITs - 0% - 10%.",
+    "benchmark": "CRISIL Hybrid 50+50 - Moderate Index",
+    "fund_managers": "Mr. Vishal Biraia (equity portion),Mr. Viraj Kulkarni (equity portion) Mr. Gautam Kaul (debt portion)",
+    "annual_expense": {
+      "Regular": "2.34",
+      "Direct": "0.69"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Bandhan Retirement Fund Regular Plan-Growth",
+    "Bandhan Retirement Fund Regular Plan-IDCW",
+    "Bandhan Retirement Fund Direct Plan-Growth",
+    "Bandhan Retirement Fund Direct Plan-IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:52:20.452096+00:00"
+}

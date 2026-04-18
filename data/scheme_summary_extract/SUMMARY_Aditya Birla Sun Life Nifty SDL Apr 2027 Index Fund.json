@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE NIFTY SDL APR 2027 INDEX FUND",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE NIFTY SDL APR 2027 INDEX FUND",
+    "fund_type": "An open ended Target Maturity Index Fund tracking the Nifty SDL Apr 2027 Index.",
+    "fund_options": [
+      "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Regular-IDCW Payout",
+      "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Regular Growth",
+      "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Direct IDCW Payout",
+      "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Direct Growth"
+    ],
+    "isins": [
+      "INF209KB10F5",
+      "INF209KB19E9",
+      "INF209KB12F1",
+      "INF209KB11F3"
+    ],
+    "amfi_codes": [
+      "149791",
+      "149792",
+      "149793",
+      "149794"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the Scheme is to generate returns corresponding to the total returns of the securities as represented by the Nifty SDL Apr 2027 Index before expenses, subject to tracking errors. The Scheme does not guarantee/indicate any returns. There can be no assurance that the objective of the Scheme will be achieved.",
+    "asset_allocation": "Debt Instruments comprising Nifty SDL Apr 2027 Index - Moderate - 95%-100%, Cash and Money Market Instruments - Low - 0%-5%",
+    "benchmark": "Nifty SDL Apr 2027 Index",
+    "fund_managers": [
+      "Mr. Bhupesh Bameta",
+      "Mr. Harshil Survankar"
+    ],
+    "annual_expense": {
+      "Regular": "0.50",
+      "Direct": "0.20"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Regular-IDCW Payout",
+    "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Regular Growth",
+    "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Direct IDCW Payout",
+    "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Direct Growth"
+  ],
+  "extracted_at": "2026-04-18T02:15:51.394717+00:00"
+}

@@ -1,0 +1,56 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty Smallcap 250 Index Fund",
+  "source_file": "SUMMARY_ICICI Prudential Nifty Smallcap 250 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty Smallcap 250 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW - Payout",
+      "Direct Plan - IDCW - Reinvestment",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW - Payout",
+      "Regular Plan - IDCW - Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The objective of the Scheme is to invest in companies whose securities are included in Nifty Smallcap 250 Index and subject to tracking errors, to endeavor to achieve the returns of the above index. This would be done by investing in stocks comprising the Nifty Smallcap 250 Index in the same weightage that they represent in Nifty Smallcap 250 Index. However, there is no assurance or guarantee that the investment objective of the scheme shall be achieved.",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (NIFTY Smallcap 250 Index) = 95% - 100%\n• Money Market instruments including TREPs* and Units of debt schemes = 0% - 5%\n• Units of Debt ETFs = 0% - 5%",
+    "benchmark": "Nifty Smallcap 250 TRI",
+    "fund_managers": [
+      "Nishit Patel",
+      "Ashwini Bharucha",
+      "Venus Ahuja"
+    ],
+    "annual_expense": {
+      "Regular": "0.84",
+      "Direct": "0.30"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "149283",
+      "149284",
+      "149284",
+      "149281",
+      "149282",
+      "149282"
+    ],
+    "isins": [
+      "INF109KC1V18",
+      "INF109KC1V26",
+      "INF109KC1V34",
+      "INF109KC1U84",
+      "INF109KC1U92",
+      "INF109KC1V00"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW - Payout",
+    "Direct Plan - IDCW - Reinvestment",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW - Payout",
+    "Regular Plan - IDCW - Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T04:14:32.805346+00:00"
+}

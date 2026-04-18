@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "360 ONE Multi Asset Allocation Fund",
+  "source_file": "SUMMARY_360 ONE Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "360 ONE Multi Asset Allocation Fund",
+    "fund_type": "An open ended scheme investing in Equity & Equity Related Instruments, Debt & Money Market Securities, Gold/Silver relatedinstruments and in units of REITs & InvITs",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Direct Plan-Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment"
+    ],
+    "riskometer": "High",
+    "investment_objective": "The Investment Objective of the Scheme is to provide the investors an opportunity to invest in an actively managed portfolio ofmultiple asset classes. However, there is no assurance that the investment objective of the Scheme will be realized and theScheme does not assure or guarantee any returns.",
+    "asset_allocation": "Equity or Equity Related Instruments - 15%-35% Debt and money market instruments - 25%-50% Gold and Silver ETFs, ExchangeTraded CommodityDerivatives (ETCDs) & any other mode of investment in commodities as permitted by SEBI from time to time -25%-40% Units issued by InvITs - 0%-10%",
+    "benchmark": "BSE 500 TRI – 25% + NIFTY Composite Debt Index – 45% + Domestic prices of Gold and Silver (30%)",
+    "fund_managers": "Mr. Mayur Patel, Mr. Ashish Ongari, Mr. Milan Mody, Mr. Rahul Khetawat, Mr. Viral Mehta",
+    "annual_expense": {
+      "Regular": "1.99",
+      "Direct": "0.39"
+    },
+    "exit_load": "1. If units of the Scheme are redeemed/switched -out within 12 months from the date of allotment: • Upto 10% of the units: Noexit load will be levied • Above 10% of the units: exit load of 1% will be levied 2. If units of the Scheme are redeemed/switched -out after 12 months from the date of allotment. No exit will be levied.",
+    "amfi_codes": [
+      "153774",
+      "153773",
+      "153772",
+      "153775"
+    ],
+    "isins": [
+      "INF579M01BM2",
+      "INF579M01BN0",
+      "INF579M01BJ8",
+      "INF579M01BK6",
+      "INF579M01BO8",
+      "INF579M01BL4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Direct Plan-Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T02:05:39.003210+00:00"
+}

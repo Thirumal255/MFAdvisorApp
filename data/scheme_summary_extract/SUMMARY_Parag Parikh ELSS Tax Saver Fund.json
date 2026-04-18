@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Parag Parikh ELSS Tax Saver Fund",
+  "source_file": "SUMMARY_Parag Parikh ELSS Tax Saver Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Parag Parikh ELSS Tax Saver Fund",
+    "fund_type": "An open-ended equity linked saving scheme with a statutory lock in of 3 years and tax beneﬁt",
+    "fund_options": [
+      "Regular Plan - Growth Option",
+      "Direct Plan - Growth Option"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate long-term capital appreciation through a diversiﬁed portfolio of equityand equity related instruments. (80% of total assets in accordance with Equity Linked Saving Scheme, 2005 notiﬁed byMinistry of Finance) However, there can be no assurance or guarantee that the investment objective of the Scheme would beachieved.",
+    "asset_allocation": "Equity and Equity related instruments : 80-100% Debt Instruments & Money Market Instruments : 0-20%.",
+    "benchmark": "NIFTY500(TRI)",
+    "fund_managers": "Mr. Rajeev Thakkar, Mr. Raunak Onkar, Mr. Rukun Tarachandani, Mr. Raj Mehta , Mr. Tejas Soman , Ms. Aishwarya Dhar",
+    "annual_expense": {
+      "Regular": "1.72",
+      "Direct": "0.62"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "147482",
+      "147481"
+    ],
+    "isins": [
+      "INF879O01092",
+      "INF879O01100"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth Option",
+    "Direct Plan - Growth Option"
+  ],
+  "extracted_at": "2026-04-18T05:23:32.453188+00:00"
+}

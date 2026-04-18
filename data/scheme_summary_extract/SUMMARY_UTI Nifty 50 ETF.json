@@ -1,0 +1,32 @@
+{
+  "parent_scheme_name": "UTI Nifty 50 ETF",
+  "source_file": "SUMMARY_UTI Nifty 50 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "UTI Nifty 50 ETF",
+    "fund_type": "An open ended scheme replicating / tracking Nifty 50 Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, closely correspond to the total returns ofthe securities as represented by the underlying index, subject to tracking error. However there is no guarantee or assurancethat the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Securities covered by the Nifty 50 Index: 95-100% (Medium to High) Cash/Money Market Instruments*: 0-5% (Low)*Commercial Paper, Commercial Bills, Certiﬁcates of Deposit, Treasury Bills, Bills Rediscounting, Repos, Triparty Repo onGovernment Securities or treasury bill, Government securities having an unexpired maturity of less than 1 year, alternate toCall or notice money and any other such shortterm instruments as may be allowed under the Regulations/RBI prevailing fromtime to time. However, the scheme will invest in Money market instruments having residual maturity upto 91 days.",
+    "benchmark": "Nifty 50 TRI",
+    "fund_managers": "Mr. Sharwan Kumar Goyal FM 1,Mr. Ayush Jain FM 2,Not Applicable FM 3,Not Applicable FM 4",
+    "annual_expense": {
+      "Regular": "0.0500",
+      "Direct": "0.000022"
+    },
+    "exit_load": "Not Applicable",
+    "amfi_codes": [
+      "135320"
+    ],
+    "isins": [
+      "INF789FB1X4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T06:11:04.723805+00:00"
+}

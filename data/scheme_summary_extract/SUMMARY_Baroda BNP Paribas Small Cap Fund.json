@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Baroda BNP Paribas Small Cap Fund",
+  "source_file": "SUMMARY_Baroda BNP Paribas Small Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Baroda BNP Paribas Small Cap Fund",
+    "fund_type": "An open-ended equity scheme predominantly investing in small cap stocks",
+    "fund_options": [
+      "Regular Plan - Growth Option",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Plan - IDCW Payout",
+      "Direct Plan - Growth Option",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme seeks to generate long-term capital appreciation by investing predominantly in equity and equity related securities of small cap companies. However, there can be no assurance that the investment objectives of the Scheme will be realized.",
+    "asset_allocation": "Equity & Equity related instruments : 65% 100% Equity and equity related instruments of other than small cap companies :0% 35% Debt & Money Market instruments : 0% 35% Units issued by REITs & INvITs : 0% 10% Units of Mutual Fund Scheme :0% 10%",
+    "benchmark": "Nifty Small Cap 250 TRI",
+    "fund_managers": "Mr. Sanjay Chawla (Primary Fund Manager), Mr. Himanshu Singh (Primary Fund Manager)",
+    "annual_expense": {
+      "Regular": "2.18",
+      "Direct": "0.95"
+    },
+    "exit_load": "If units of the Scheme are redeemed or switched out up to 10% of the units (the limit) within 1 year from the date of allotment - Nil. • If units of the scheme are redeemed or switched out in excess of the limit within 1 year from the date of allotment - 1% of the applicable NAV. • If units of scheme are redeemed or switched out after 1 year from the date of allotment - Nil.",
+    "amfi_codes": [
+      "152130",
+      "152131",
+      "152131",
+      "152128",
+      "152129",
+      "152129"
+    ],
+    "isins": [
+      "NF251K01SO2",
+      "INF251K01SQ7",
+      "INF251K01SP9",
+      "INF251K01SR5",
+      "INF251K01ST1",
+      "INF251K01SS3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth Option",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Plan - IDCW Payout",
+    "Direct Plan - Growth Option",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T03:02:35.326696+00:00"
+}

@@ -1,0 +1,62 @@
+{
+  "parent_scheme_name": "WhiteOak Capital Balanced Hybrid Fund",
+  "source_file": "SUMMARY_WhiteOak Capital Balanced Hybrid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "WhiteOak Capital Balanced Hybrid Fund",
+    "fund_type": "An open ended balanced scheme investing in equity and debt instruments.",
+    "fund_options": [
+      "Regular-Growth",
+      "Direct-Growth"
+    ],
+    "riskometer": "Very High risk",
+    "investment_objective": "The investment objective of the Scheme is to provide long term capital appreciation and generate income by investing in a balanced portfolio of equity & equity related instruments and debt & money market securities. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity Related Instruments (including foreign securities and REITs) Min - 40% Max - 60% Debt Securities (including securitized debt) & Money market instruments, cash, and cash equivalents and / or units of domestic liquid mutual fund schemes. Min - 40% Max - 60%",
+    "benchmark": "CRISIL Hybrid 50+50  Moderate Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Ramesh Mantri",
+        "type": "Comanage/Equity",
+        "from_date": "30-10-2023"
+      },
+      {
+        "name": "Mr. Piyush Baranwal",
+        "type": "Comanage/Debt",
+        "from_date": "30-10-2023"
+      },
+      {
+        "name": "Ms. Trupti Agrawal",
+        "type": "Assistant Fund Manager - Equity",
+        "from_date": "30-10-2023"
+      },
+      {
+        "name": "Mr. Dheeresh Pathak",
+        "type": "Assistant Fund Manager – Equity",
+        "from_date": "01-04-2024"
+      },
+      {
+        "name": "Mr. Ashish Agrawal",
+        "type": "Fund Manager - Arbitrage Transactions",
+        "from_date": "06-01-2025"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.12",
+      "Direct": "0.56"
+    },
+    "exit_load": "Nil Exit load – for 10% of the units purchased or switched-in on or before 30 days from the date of allotment. All units redeemed /switched out in excess of the 10% load free units will be subject to the below mentioned exit load. - 1.00% - if Units are redeemed/switched-out on or before 30 days from the date of allotment - Nil - if redeemed after 30 days from the date of allotment",
+    "amfi_codes": [
+      "152133",
+      "152132"
+    ],
+    "isins": [
+      "INF03VN01811",
+      "INF03VN01829"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular-Growth",
+    "Direct-Growth"
+  ],
+  "extracted_at": "2026-04-18T06:13:06.545920+00:00"
+}

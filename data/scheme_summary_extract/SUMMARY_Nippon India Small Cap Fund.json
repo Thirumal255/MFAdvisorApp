@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Nippon India Small Cap Fund",
+  "source_file": "SUMMARY_Nippon India Small Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India Small Cap Fund",
+    "fund_type": "Open",
+    "fund_options": [
+      "Direct Plan Growth Plan - Bonus Option Bonus",
+      "Direct Plan IDCW Plan Payout",
+      "Direct Plan IDCW Plan Reinvestment",
+      "Direct Growth Plan Growth Option Growth",
+      "Growth Plan - Bonus Option Bonus",
+      "IDCW Plan Payout",
+      "IDCW Plan Reinvestment",
+      "Growth Plan Growth Option Growth"
+    ],
+    "isins": [
+      "INF204K01J83",
+      "INF204K01J91",
+      "INF204K01K07",
+      "INF204K01K15",
+      "INF204K01HZ0",
+      "INF204K01IA1",
+      "INF204K01IB9",
+      "INF204K01HY3"
+    ],
+    "amfi_codes": [
+      "118777",
+      "118775",
+      "118775",
+      "118778",
+      "113178",
+      "113179",
+      "113179",
+      "113177"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the scheme is to generate long term capital appreciation by investing predominantly inequity and equity related instruments of small cap companies and the secondary objective is to generate consistent returns byinvesting in debt and money market securities. There is no assurance that the investment objective of the Scheme will beachieved.",
+    "asset_allocation": "Equity & Equity Related Securities of small cap companies including derivatives - 65%-100%, Equity & Equity Related Securitiesof Any other companies including derivatives - 0% - 35%, debt & money market securities (including investments in securitizeddebt upto 30%)- 0%-35%, Units issued by REITs and InvITs – 0%- 10%, Market Capitalization: Market value of the listedcompAny, which is calculated by multiplying its current market price by total number of shares. Small Cap: Small Cap stocks aredeﬁned as stocks of companies whose market capitalization is below ﬁrst 250 companies in terms of full market capitalization.",
+    "benchmark": "Nifty Smallcap 250 TRI",
+    "fund_managers": "Samir Rachh",
+    "annual_expense": {
+      "Regular": "1.41",
+      "Direct": "0.65"
+    },
+    "exit_load": "1% if redeemed or switched out on or before completion of 1 Year from the date of allotment of units. Nil, thereafter."
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth Plan - Bonus Option Bonus",
+    "Direct Plan IDCW Plan Payout",
+    "Direct Plan IDCW Plan Reinvestment",
+    "Direct Growth Plan Growth Option Growth",
+    "Growth Plan - Bonus Option Bonus",
+    "IDCW Plan Payout",
+    "IDCW Plan Reinvestment",
+    "Growth Plan Growth Option Growth"
+  ],
+  "extracted_at": "2026-04-18T05:21:41.161725+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bandhan Multi Cap Fund",
+  "source_file": "SUMMARY_BANDHAN MULTI CAP FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Multi Cap Fund",
+    "fund_type": "An open-ended equity scheme investing across large cap, mid cap, small cap stocks",
+    "fund_options": [
+      "DIRECT PLAN - Growth",
+      "DIRECT PLAN - IDCW Payout",
+      "REGULAR PLAN - IDCW Payout",
+      "REGULAR PLAN - Growth",
+      "REGULAR PLAN - IDCW Reinvestment",
+      "DIRECT PLAN - IDCW Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Fund seeks to generate long term capital appreciation by investing in a diversiﬁed portfolio of equity & equity related instruments across large cap, mid cap, small cap stocks.",
+    "asset_allocation": "Equity and Equity related Instruments of which: 75%-100% Large Cap Companies - 25%-50%, Mid Cap Companies - 25%-50%, Small Cap Companies - 25%-50%, International equity, equity mutual funds - 0%-25%, Debt Securities and Money Market Instruments (including Government securities, securitised debt) - 0%-25%",
+    "benchmark": "NIFTY 500 Multicap 50:25:25 TRI",
+    "fund_managers": "FM 1 - Mr. Daylynn Pinto, FM 2 - Mr. Harshal Joshi",
+    "annual_expense": {
+      "Regular": "1.94",
+      "Direct": "0.56"
+    },
+    "exit_load": "If redeemed/switched out within 1 year from the date of allotment -1% of applicable NAV; If redeemed/switched out after 1 year from the date of allotment –Nil",
+    "amfi_codes": [
+      "149304",
+      "149303",
+      "149302",
+      "149305",
+      "149302",
+      "149304"
+    ],
+    "isins": [
+      "INF194KB1CM8",
+      "INF194KB1CL0",
+      "INF194KB1CJ4",
+      "INF194KB1CI6",
+      "INF194KB1CK2",
+      "INF194KB1CN6"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN - Growth",
+    "DIRECT PLAN - IDCW Payout",
+    "REGULAR PLAN - IDCW Payout",
+    "REGULAR PLAN - Growth",
+    "REGULAR PLAN - IDCW Reinvestment",
+    "DIRECT PLAN - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T02:50:33.979275+00:00"
+}

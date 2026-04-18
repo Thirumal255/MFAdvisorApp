@@ -1,0 +1,72 @@
+{
+  "parent_scheme_name": "HSBC Arbitrage Fund",
+  "source_file": "SUMMARY_HSBC Arbitrage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Arbitrage Fund",
+    "fund_type": "An open ended scheme investing in arbitrage opportunities",
+    "fund_options": [
+      "Direct Growth",
+      "Direct Monthly IDCW Payout",
+      "Direct Monthly IDCW Reinvestment",
+      "Direct Quarterly IDCW Payout",
+      "Direct Quarterly IDCW Reinvestment",
+      "Regular Growth",
+      "Regular Monthly IDCW Payout",
+      "Regular Monthly IDCW Reinvestment",
+      "Regular Quarterly IDCW Payout",
+      "Regular Quarterly IDCW Reinvestment"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the Scheme is to seek to generate reasonable returns by predominantly investing in arbitrage opportunities in the cash and derivatives segments of the equity markets and by investing balance in debt and money market instruments. There is no assurance that the objective of the Scheme will be realised and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Equity and equity related securities and equity derivatives : 65% -90%, Debt and money market instruments : 10-35%",
+    "benchmark": "Nifty 50 Arbitrage Index",
+    "fund_managers": [
+      "Praveen Ayathan",
+      "Mahesh Chhabria",
+      "Mohd. Asif Rizwi"
+    ],
+    "annual_expense": {
+      "Regular": "0.92",
+      "Direct": "0.30"
+    },
+    "exit_load": "Any redemption / switch-out of units on or before 1 month from the date of allotment: 0.25%. If units are redeemed or switched out after 1 Month from the date of allotment: NIL",
+    "amfi_codes": [
+      "151138",
+      "151135",
+      "null",
+      "151136",
+      "null",
+      "151134",
+      "151140",
+      "null",
+      "151137",
+      "null"
+    ],
+    "isins": [
+      "INF917K01QR5",
+      "INF917K01QT1",
+      "INF917K01QS3",
+      "INF917K01QV7",
+      "INF917K01QU9",
+      "INF917K01QL8",
+      "INF917K01QN4",
+      "INF917K01QM6",
+      "INF917K01QP9",
+      "INF917K01QO2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Direct Monthly IDCW Payout",
+    "Direct Monthly IDCW Reinvestment",
+    "Direct Quarterly IDCW Payout",
+    "Direct Quarterly IDCW Reinvestment",
+    "Regular Growth",
+    "Regular Monthly IDCW Payout",
+    "Regular Monthly IDCW Reinvestment",
+    "Regular Quarterly IDCW Payout",
+    "Regular Quarterly IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T03:52:39.233577+00:00"
+}

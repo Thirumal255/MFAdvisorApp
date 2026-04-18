@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Groww Nifty50 Exchange Traded Fund",
+  "source_file": "SUMMARY_Groww Nifty50 Exchange Traded Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Groww Nifty50 Exchange Traded Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that closely correspond to the total returns of the securities as represented by the underlying index, subject to tracking error.",
+    "asset_allocation": "Securities covered by Nifty 50 Index – 95% - 100% - High Risk Money Market Instruments*/Debt Securities including CBLO and Units of Liquid Mutual Fund – 0% - 5% - Low to Medium Risk * Money Market Instruments will include Commercial Paper, Certificates of Deposit, Treasury Bills, Bills Rediscounting, Repos, short term bank deposits, short-term Government securities and any other such short-term instruments as may be allowed under the regulations prevailing from time to time having residual maturity up to 91 days. The exposure of Scheme in derivative instruments shall be restricted to 100% of the net assets of the Scheme.",
+    "benchmark": "Nifty 50 TRI (Total Return Index)",
+    "fund_managers": "FM 1 - Mr. Anupam Tiwari, FM 2 - Mr.Kaustubh Sule",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "NA",
+    "amfi_codes": [
+      "147113"
+    ],
+    "isins": [
+      "INF666M01FS5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T03:39:18.407187+00:00"
+}

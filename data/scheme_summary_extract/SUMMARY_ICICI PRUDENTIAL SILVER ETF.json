@@ -1,0 +1,35 @@
+{
+  "parent_scheme_name": "ICICI PRUDENTIAL SILVER ETF",
+  "source_file": "SUMMARY_ICICI PRUDENTIAL SILVER ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI PRUDENTIAL SILVER ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The Investment Objective of the Scheme is to generate returns that are in line with the performance of physical silver in domestic prices, subject to tracking error. There can be no assurance or guarantee that the investment objective of the plan will be achieved. The Scheme may also participate in Exchange Traded Commodity Derivatives (ETCDs) with silver as underlying.",
+    "asset_allocation": "• Silver and Silver related instruments with Silver as Underlying = 95% - 100%\n• Debt & Money Market Instruments including units of Debt oriented Mutual Funds = 0% - 5%",
+    "benchmark": "LBMA AM fixing Prices (Domestic Price of Silver)",
+    "fund_managers": [
+      "Gaurav Chikane",
+      "Nishit Patel",
+      "Venus Ahuja"
+    ],
+    "annual_expense": {
+      "Direct": "0.40"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "149464"
+    ],
+    "isins": [
+      "INF109KC1Y56"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:17:44.283580+00:00"
+}

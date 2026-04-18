@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Groww Gilt Fund",
+  "source_file": "SUMMARY_Groww Gilt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Groww Gilt Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct - Growth",
+      "Direct - IDCW (Payout)",
+      "Direct - IDCW (Reinvestment)",
+      "Regular - Growth",
+      "Regular - IDCW (Payout)",
+      "Regular - IDCW (Reinvestment)"
+    ],
+    "riskometer": "Moderate Risk",
+    "investment_objective": "The objective of the Scheme is to generate credit risk-free returns by predominantly investing in  sovereign  securities  issued  by  the  Central Government   and/or   State   Government(s)   and/or   any security  guaranteed  by  the  Government  of  India,  and/or reverse  repos  in  such  securities as  per  applicable  RBI  Regulations and Guidelines. The Scheme may also be investing in Reverse repo, Triparty repo on Government  securities  or  treasury  bills  and/or other similar instruments as may be notified from time to time. However, there is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Investing in Government    of    India    Securities/    State    Government Securities, Treasury Bills and Cash Management Bills across maturity - 80% to 100% & in Other Debt Securities and Money Market Instruments - 0% to 20%",
+    "benchmark": "CRISIL Dynamic Gilt Index",
+    "fund_managers": "Mr.Kaustubh Sule",
+    "annual_expense": {
+      "Regular": "1.49",
+      "Direct": "0.51"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153477",
+      "153502",
+      "153503",
+      "153504"
+    ],
+    "isins": [
+      "INF666M01KK2",
+      "INF666M01KL0",
+      "INF666M01KM8",
+      "INF666M01KN6",
+      "INF666M01KO4",
+      "INF666M01KP1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct - Growth",
+    "Direct - IDCW (Payout)",
+    "Direct - IDCW (Reinvestment)",
+    "Regular - Growth",
+    "Regular - IDCW (Payout)",
+    "Regular - IDCW (Reinvestment)"
+  ],
+  "extracted_at": "2026-04-18T03:35:52.132221+00:00"
+}

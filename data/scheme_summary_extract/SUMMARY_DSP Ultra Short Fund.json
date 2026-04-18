@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "DSP Ultra Short Fund",
+  "source_file": "SUMMARY_DSP Ultra Short Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP Ultra Short Fund",
+    "fund_type": "An open ended ultra-short term debt scheme investing in debt and money market securities such that the Macaulay duration ofthe portfolio is between 3 months and 6 months (please refer page no. 55 under the section “Where will the Scheme invest?” ofSID for details on Macaulay’s Duration). A relatively low interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Regular Plan - Growth"
+    ],
+    "isins": [
+      "INF740K01ON5",
+      "INF740K01QQ3"
+    ],
+    "amfi_codes": [
+      "119205",
+      "104138"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The primary investment objective of the scheme is to seek to generate returns commensurate with risk from a portfolioconstituted of money market securities and/or debt securities. There is no assurance that the investment objective of theScheme will be achieved.",
+    "asset_allocation": "Debt and Money market securities: 0% -100% For detailed asset allocation pattern, please refer to the Scheme InformationDocument",
+    "benchmark": "CRISIL Ultra Short Duration Debt A-I Index",
+    "fund_managers": "Ms. Shalini Vasanta - Primary, Mr. Karan Mundhra - Comanage",
+    "annual_expense": {
+      "Regular": "1.03",
+      "Direct": "0.30"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T03:17:50.985559+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Bandhan BSE Healthcare Index Fund",
+  "source_file": "SUMMARY_Bandhan BSE Healthcare Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan BSE Healthcare Index Fund",
+    "fund_type": "An open-ended scheme tracking BSE Healthcare Index",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Direct Plan-Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to replicate the BSE Healthcare Index by investing in the underlying securities in the same proportion, subject to tracking error. The BSE Healthcare Index will track the performance of companies that are part of BSE AllCap belonging to the Healthcare sector.",
+    "asset_allocation": "Securities belonging to the Bandhan BSE Healthcare Index (including stock and index derivatives) - 95% - 100% Debt & Money Market instruments - 0%- 5%",
+    "benchmark": "BSE Healthcare TRI",
+    "fund_managers": "FM 1 - Mr. Abhishek Jain",
+    "annual_expense": {
+      "Regular": "1.02",
+      "Direct": "0.22"
+    },
+    "exit_load": "0.25% - if redeemed on or before 15 days from the allotment date. • Nil – if redeemed after 15 days from the allotment date",
+    "amfi_codes": [
+      "152844",
+      "152843"
+    ],
+    "isins": [
+      "INF194KB1IR4",
+      "INF194KB1IS2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Direct Plan-Growth"
+  ],
+  "extracted_at": "2026-04-18T02:27:24.120523+00:00"
+}

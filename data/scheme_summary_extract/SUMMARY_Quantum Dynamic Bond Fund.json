@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Quantum Dynamic Bond Fund",
+  "source_file": "SUMMARY_Quantum Dynamic Bond Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Quantum Dynamic Bond Fund",
+    "fund_type": "An Open-ended Dynamic Debt Scheme Investing Across Duration. A relatively high interest rate risk and relatively low creditrisk",
+    "fund_options": [
+      "Quantum Dynamic Bond Fund - Direct Plan Growth",
+      "Quantum Dynamic Bond Fund - Direct Plan Monthly IDCW Payout",
+      "Quantum Dynamic Bond Fund - Direct Plan Monthly IDCW Re-Investment",
+      "Quantum Dynamic Bond Fund - Regular Plan Growth",
+      "Quantum Dynamic Bond Fund - Regular Plan Monthly IDCW Payout",
+      "Quantum Dynamic Bond Fund - Regular Plan Monthly IDCW Re-Investment"
+    ],
+    "isins": [
+      "INF082J01176",
+      "INF082J01184",
+      "INF082J01192",
+      "INF082J01218",
+      "INF082J01226",
+      "INF082J01234"
+    ],
+    "amfi_codes": [
+      "134494",
+      "134493",
+      null,
+      "141061",
+      "141060",
+      null
+    ],
+    "riskometer": "Moderate Risk",
+    "investment_objective": "The investment objective of the scheme is to generate income and capital appreciation through active management of aportfolio consisting of short term and long term debt and money market instruments. There is no assurance that theinvestment objective of the Scheme will be achieved.",
+    "asset_allocation": "Government Bond/Bills-25 to 100%-, PSU Bonds-0 to 50%-, Certiﬁcate of Deposits/ Commercial Paper / Short Term DebtInstruments-0 to 75%-, Tri-Party Repo / Repos-0 to 100%.",
+    "benchmark": "CRISIL Dynamic Bond Fund A-III Index",
+    "fund_managers": "Ms. Sneha Pandey - Comanage, Mr. Mayur Chauhan - Comanage",
+    "annual_expense": {
+      "Regular": "1.01",
+      "Direct": "0.50"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Quantum Dynamic Bond Fund - Direct Plan Growth",
+    "Quantum Dynamic Bond Fund - Direct Plan Monthly IDCW Payout",
+    "Quantum Dynamic Bond Fund - Direct Plan Monthly IDCW Re-Investment",
+    "Quantum Dynamic Bond Fund - Regular Plan Growth",
+    "Quantum Dynamic Bond Fund - Regular Plan Monthly IDCW Payout",
+    "Quantum Dynamic Bond Fund - Regular Plan Monthly IDCW Re-Investment"
+  ],
+  "extracted_at": "2026-04-18T05:31:35.094991+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Union Arbitrage Fund",
+  "source_file": "SUMMARY_Union Arbitrage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Union Arbitrage Fund",
+    "fund_type": "An open ended scheme investing in arbitrage opportunities",
+    "fund_options": [
+      "Regular Plan - Growth Option",
+      "Regular Plan - Payout of IDCW Option",
+      "Regular Plan - Reinvestment of IDCW Option",
+      "Regular Plan - Transfer of IDCW Plan",
+      "Direct Plan - Growth Option",
+      "Direct Plan - Payout of IDCW Option",
+      "Direct Plan - Reinvestment of IDCW Option",
+      "Direct Plan - Transfer of IDCW Plan"
+    ],
+    "riskometer": "Low Risk.",
+    "investment_objective": "The investment objective of the scheme is to generate capital appreciation and income by predominantly investing in arbitrage opportunities in the cash and derivatives segment of the equity market, and by investing the balance in debt and money market instruments. However, there is no assurance that the Investment Objective of the scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related instruments (as part of hedged / arbitrage exposure)*: 65% - 90% of net assets; Debt and Money Market Instruments including margin money deployed for derivatives transactions: 10%-35% of net assets; Units issued by InvITs: 0% to 10% of net assets. *Equity allocation so built, at any point in time, would be completely hedged out, using derivative instruments that provide an equal but opposite exposure, thereby making the Net exposure market-neutral. In case the fund is not able to have a net market-neutral position due to any operational reason such as short delivery in the cash market etc., the fund will endeavor to rebalance the portfolio to a net market-neutral position at the earliest. Please refer the Scheme Information Document for complete details.",
+    "benchmark": "NIFTY 50 Arbitrage Index",
+    "fund_managers": "FM 1 Mr. Vishal Thakker,FM 2 Mr. Devesh Thacker",
+    "annual_expense": {
+      "Regular": "1.00",
+      "Direct": "0.39"
+    },
+    "exit_load": "0.25% if units are redeemed or switched out on or before completion of 1 month from the date of allotment of units. Nil if units are redeemed or switched out after completion of 1 month from the date of allotment of units.",
+    "amfi_codes": [
+      "146294",
+      "146295",
+      null,
+      null,
+      "146297",
+      "146296",
+      null,
+      null
+    ],
+    "isins": [
+      "INF582M01EW9",
+      "INF582M01EY5",
+      "INF582M01EX7",
+      "INF582M01EZ2",
+      "INF582M01ES7",
+      "INF582M01EU3",
+      "INF582M01ET5",
+      "INF582M01EV1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth Option",
+    "Regular Plan - Payout of IDCW Option",
+    "Regular Plan - Reinvestment of IDCW Option",
+    "Regular Plan - Transfer of IDCW Plan",
+    "Direct Plan - Growth Option",
+    "Direct Plan - Payout of IDCW Option",
+    "Direct Plan - Reinvestment of IDCW Option",
+    "Direct Plan - Transfer of IDCW Plan"
+  ],
+  "extracted_at": "2026-04-18T06:00:34.144634+00:00"
+}

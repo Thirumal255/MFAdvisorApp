@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Kotak Gilt Fund",
+  "source_file": "SUMMARY_Kotak Gilt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Gilt Fund",
+    "fund_type": "An open ended debt scheme investing in government securities across maturity. A relatively high interest rate risk and relativelylow credit risk.",
+    "fund_options": [
+      "Kotak Gilt Investment - Direct Plan-G",
+      "Kotak Gilt Investment - Direct Plan-Quarterly - IDCW Payout",
+      "Kotak Gilt Fund - Providend Fund & Trust - Direct Plan-G",
+      "Kotak Gilt Fund- Regular - Non Direct Plan-Growth",
+      "Kotak Gilt Fund- Regular - Non Direct Plan-Quarterly - IDCW Payout",
+      "Kotak Gilt Fund- Regular - NonDirect Plan-Quarterly - IDCW Re-investment",
+      "Kotak Gilt Fund - Providend Fund & Trust - Regular Plan-Growth",
+      "Kotak Gilt Fund - Providend Fund & Trust - Regular Plan-Quarterly - IDCW Re-investment"
+    ],
+    "isins": [
+      "INF174K01KE4",
+      "INF174K01KF1",
+      "INF174K01KM7",
+      "INF174K01FI5",
+      "INF174K01FK1",
+      "INF174K01FJ3",
+      "INF174K01FL9",
+      "INF174K01FM7"
+    ],
+    "amfi_codes": [
+      "119759",
+      "119758",
+      "119757",
+      "100265",
+      "100264",
+      null,
+      "100281",
+      "100280"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The objective of the Plan is to generate risk-free returns through investments in sovereign securities issued by the CentralGovernment and/or State Government(s) and/or any security unconditionally guaranteed by the Government of India, and/orreverse repos in such securities as and when permitted by RBI. A portion of the fund may be invested in Reverse repo, Tripartyrepo on Government securities or treasury bills and/or other similar instruments as may be notiﬁed to meet the day-to-dayliquidity requirements of the Plan. To ensure total safety of Unitholders' funds, the Plan does not invest in any other securitiessuch as shares, debentures or bonds issued by any other entity. The Fund will seek to underwrite issuance of GovernmentSecurities if and to the extent permitted by SEBI/RBI and subject to the prevailing rules and regulations speciﬁed in this respectand may also participate in their auction from time to time. Subject to the maximum amount permitted from time to time, thePlan may invest in securities abroad, in the manner allowed by SEBI/RBI in conformity with the guidelines, rules and regulationsin this respect. There is no assurance that the investment objective of the Plan will be achieved. It is however emphasized, thatinvestments under the Plan are made in Government Securities, where there is no risk of default of payment in principal orinterest amount.",
+    "asset_allocation": "Government of India Securities/ State Government Securities/ Government of India tbills/, repos/ reverse repos in such Securitiesas may be permitted by RBI - 80%-100% - Sovereign Call money market or alternative investment for call money market as maybe provided by the Reserve Bank of India - currently Triparty repo on Government securities or treasury bills - 0% - 20% - Low",
+    "benchmark": "Nifty All Duration G-Sec Index",
+    "fund_managers": "FM 1 Mr. Abhishek Bisen",
+    "annual_expense": {
+      "Regular": "1.48",
+      "Direct": "0.47"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Kotak Gilt Investment - Direct Plan-G",
+    "Kotak Gilt Investment - Direct Plan-Quarterly - IDCW Payout",
+    "Kotak Gilt Fund - Providend Fund & Trust - Direct Plan-G",
+    "Kotak Gilt Fund- Regular - Non Direct Plan-Growth",
+    "Kotak Gilt Fund- Regular - Non Direct Plan-Quarterly - IDCW Payout",
+    "Kotak Gilt Fund- Regular - NonDirect Plan-Quarterly - IDCW Re-investment",
+    "Kotak Gilt Fund - Providend Fund & Trust - Regular Plan-Growth",
+    "Kotak Gilt Fund - Providend Fund & Trust - Regular Plan-Quarterly - IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-18T04:34:46.223159+00:00"
+}

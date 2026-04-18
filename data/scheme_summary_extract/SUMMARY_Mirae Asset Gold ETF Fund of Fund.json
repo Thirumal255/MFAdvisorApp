@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Mirae Asset Gold ETF Fund of Fund",
+  "source_file": "SUMMARY_Mirae Asset Gold ETF Fund of Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Gold ETF Fund of Fund",
+    "fund_type": "An open-ended fund of fund scheme investing in units of Mirae Asset Gold ETF",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular PlanIDCW - Payout",
+      "RegularPlanIDCW - Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation from a portfolio investing in units ofMirae Asset Gold ETF. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Units of Mirae Asset Gold ETF 95% to 100% Money market instruments including Tri Party REPO/ debt securities,Instruments and/or units of debt/liquid schemes of domestic Mutual Funds 0 to 5%",
+    "benchmark": "Domestic price of physical gold",
+    "fund_managers": "Mr. Ritesh Patel (Primary) & Mr. Akshay Udeshi (Co - Fund Manager)",
+    "annual_expense": {
+      "Regular": "0.70",
+      "Direct": "0.14"
+    },
+    "exit_load": "-If redeemed or switched outwithin 15 calendar days from thedate of allotment: 0.05% -If redeemed or switched outafter 15 days from date of allotment: Nil",
+    "amfi_codes": [
+      "153007",
+      "153008",
+      "153009",
+      "153010"
+    ],
+    "isins": [
+      "INF769K01MV1",
+      "INF769K01MW9",
+      "INF769K01MX7",
+      "INF769K01MS7",
+      "INF769K01MT5",
+      "INF769K01MU3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular PlanIDCW - Payout",
+    "RegularPlanIDCW - Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T04:55:33.198873+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "DSP 10Y G-Sec Fund",
+  "source_file": "SUMMARY_DSP 10Y G-Sec Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP 10Y G-Sec Fund",
+    "fund_type": "An open ended debt scheme investing in government securities having a constant maturity of 10 years. A relatively high interestrate risk and relatively low credit risk.",
+    "fund_options": [
+      "Direct - Growth",
+      "Direct - IDCW",
+      "Direct - IDCW - Reinvest",
+      "Regular - Growth",
+      "Regular - IDCW",
+      "Regular - IDCW - Reinvest"
+    ],
+    "isins": [
+      "INF740K019I5",
+      "INF740K010J2",
+      "INF740K011J0",
+      "INF740K012I0",
+      "INF740K013I8",
+      "INF740K014I6"
+    ],
+    "amfi_codes": [
+      "131301",
+      "131304",
+      "131304",
+      "131297",
+      "131298",
+      "131298"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the Scheme is to seek to generate returns commensurate with risk from a portfolio of GovernmentSecurities such that the Macaulay duration of the portfolio is similar to the 10 Year benchmark government security. (Please referpage no. 33 under the section “Where will the Scheme invest” for details on Macaulay’s Duration). There is no assurance that theinvestment objective of the Scheme will be achieved.",
+    "asset_allocation": "1. Government Securities : 80% - 100%. 2. TREPs/repo or any other alternatives as may be provided by RBI: 0% - 20%",
+    "benchmark": "CRISIL 10 Year Gilt Index",
+    "fund_managers": "Mr. Shantanu Godambe",
+    "annual_expense": {
+      "Regular": "0.52",
+      "Direct": "0.31"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct - Growth",
+    "Direct - IDCW",
+    "Direct - IDCW - Reinvest",
+    "Regular - Growth",
+    "Regular - IDCW",
+    "Regular - IDCW - Reinvest"
+  ],
+  "extracted_at": "2026-04-18T03:09:02.570788+00:00"
+}

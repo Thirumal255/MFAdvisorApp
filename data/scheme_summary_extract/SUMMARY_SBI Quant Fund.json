@@ -1,0 +1,48 @@
+{
+  "parent_scheme_name": "SBI Quant Fund",
+  "source_file": "SUMMARY_SBI Quant Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Quant Fund",
+    "fund_type": "An open ended equity scheme following Quant based investing theme",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth"
+    ],
+    "riskometer": "VERY HIGH",
+    "investment_objective": "The investment objective of the scheme is to seek to generate long term capital appreciation by investing in equity and equity related instruments selected based on quant model theme.However, there is no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": {
+      "Equity & Equity related instruments selected based on a quantitative model": "80%-100%",
+      "Other Equity and Equity related instruments": "0%-20%",
+      "Debt Securities (including securitized debt^ & debt derivatives) & Money Market Instruments(including Tri Party Repo)": "0%-20%",
+      "Units issued by REITs and InvITs": "0%-10%"
+    },
+    "benchmark": "BSE 200 TRI",
+    "fund_managers": "Ms. Sukanya Ghosh",
+    "annual_expense": {
+      "Direct": "0.59"
+    },
+    "exit_load": "0.5% of the applicable NAV - If units purchased or switched in from another scheme of the Fund are redeemed or switched out on or before 6 months from the date of allotment. NIL - If units purchased or switched in from another scheme of the Fund are redeemed or switched out after 6 months from the date of allotment.",
+    "amfi_codes": [
+      "153152",
+      "153153",
+      "153151",
+      "153154"
+    ],
+    "isins": [
+      "INF200KB1480",
+      "INF200KB1472",
+      "INF200KB1514",
+      "INF200KB1506"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:43:26.344663+00:00"
+}

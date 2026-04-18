@@ -1,0 +1,42 @@
+{
+  "parent_scheme_name": "Motilal Oswal S and P 500 Index Fund",
+  "source_file": "SUMMARY_Motilal Oswal S&P 500 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal S and P 500 Index Fund",
+    "fund_type": "Index fund",
+    "fund_options": [
+      "Regular Growth",
+      "Direct Growth"
+    ],
+    "riskometer": "Very high",
+    "investment_objective": "The Scheme seeks investment return that corresponds (before fees and expenses) generally to the performance of the S&P 500 TRI Index, subject to tracking error.",
+    "asset_allocation": "Equity and equity related securities covered by S&P 500 Index 95-100%, Debt and Money market instruments, overseas mutual fund schemes or exchange traded funds 0-5%",
+    "benchmark": "^S&P 500 TRI (INR)",
+    "fund_managers": [
+      {
+        "name": "Mr. Ankush Sood",
+        "type": "Equity Component",
+        "from_date": "28-Apr-20"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "Debt Component",
+        "from_date": "22/11/2022"
+      }
+    ],
+    "annual_expense": {},
+    "exit_load": null,
+    "amfi_codes": [
+      "127"
+    ],
+    "isins": [
+      "INF247L01AG2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth"
+  ],
+  "extracted_at": "2026-04-18T05:08:14.123339+00:00"
+}

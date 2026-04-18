@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Canara Robeco Income Fund",
+  "source_file": "SUMMARY_Canara Robeco Income Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Canara Robeco Income Fund",
+    "fund_type": "An open ended medium term debt scheme investing in debt & money market instruments such that the Macaulay duration ofthe portfolio is between 4 years – 7 years. (Portfolio Macaulay duration under anticipated adverse situation is 1 year to 7years). A relatively high interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Direct Plan - Quarterly IDCW Payout",
+      "Direct Plan - Quarterly IDCW Reinvestment",
+      "Direct Growth -Growth",
+      "Regular Plan - Quarterly IDCW Payout",
+      "Regular Plan - Quarterly IDCW Reinvestment",
+      "Regular Growth -Growth"
+    ],
+    "isins": [
+      "INF760K01FG5",
+      "INF760K01FH3",
+      "INF760K01FI1",
+      "INF760K01340",
+      "INF760K01357",
+      "INF760K01324"
+    ],
+    "amfi_codes": [
+      null,
+      null,
+      null,
+      "101588",
+      "101587",
+      null
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The Scheme seeks to generate income and capital appreciation through a portfolio constituted of medium to long term debtand money market securities and issuers of diﬀerent risk proﬁles. However, there can be no assurance that the investmentobjective of the scheme will be realized.",
+    "asset_allocation": "Debt and Money Market instruments- 0% to 100% (Risk- Low to Medium) Invits- 0% to 10% (Risk- Medium to High)",
+    "benchmark": "CRISIL Medium to Long Duration Debt A-III Index",
+    "fund_managers": "Mr. Avnish Jain / Mr. Kunal Jain",
+    "annual_expense": {
+      "Regular": "1.91",
+      "Direct": "0.75"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Quarterly IDCW Payout",
+    "Direct Plan - Quarterly IDCW Reinvestment",
+    "Direct Growth -Growth",
+    "Regular Plan - Quarterly IDCW Payout",
+    "Regular Plan - Quarterly IDCW Reinvestment",
+    "Regular Growth -Growth"
+  ],
+  "extracted_at": "2026-04-18T03:06:13.037281+00:00"
+}

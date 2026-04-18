@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty 200 Momentum 30 Index Fund",
+  "source_file": "SUMMARY_ICICI Prudential Nifty 200 Momentum 30 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty 200 Momentum 30 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Nifty 200 Momentum 30 Index Fund - Growth",
+      "ICICI Prudential Nifty 200 Momentum 30 Index Fund - IDCW",
+      "ICICI Prudential Nifty 200 Momentum 30 Index Fund - IDCW Payout",
+      "ICICI Prudential Nifty 200 Momentum 30 Index Fund - Direct Plan - Growth",
+      "ICICI Prudential Nifty 200 Momentum 30 Index Fund - Direct Plan - IDCW",
+      "ICICI Prudential Nifty 200 Momentum 30 Index Fund - Direct Plan - IDCW Payout"
+    ],
+    "isins": [
+      "INF109KC18C5",
+      "INF109KC10D0",
+      "INF109KC19C3",
+      "INF109KC11D8",
+      "INF109KC13D4",
+      "INF109KC12D6"
+    ],
+    "amfi_codes": [
+      "150452",
+      "150453",
+      "150454",
+      "150451",
+      "9684",
+      "9685",
+      "3482",
+      "3483",
+      "3483P",
+      "9685P"
+    ],
+    "riskometer": "Very High\nAs on 18-Dec-24",
+    "investment_objective": "The objective of the Scheme is to invest in companies whose securities are included in Nifty200 Momentum 30 Index and subject to tracking errors, to endeavour to achieve the returns of the above index as closely as possible. This would be done by investing in all the stocks comprising the Nifty200 Momentum 30 Index in the same weightage that they represent in Nifty200 Momentum 30 Index. However, there is no assurance or guarantee that the investment objective of the scheme shall be achieved.",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (NIFTY200 Momentum 30 Index) 95% - 100%  \n• Money Market instruments including TREPs 0% - 5%",
+    "benchmark": "Nifty200 Momentum 30 TRI",
+    "fund_managers": [
+      "Nishit Patel",
+      "Ashwini Bharucha",
+      "Venus Ahuja"
+    ],
+    "annual_expense": {
+      "Regular": "1.00",
+      "Direct": "0.37"
+    },
+    "exit_load": "NA"
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Nifty 200 Momentum 30 Index Fund - Growth",
+    "ICICI Prudential Nifty 200 Momentum 30 Index Fund - IDCW",
+    "ICICI Prudential Nifty 200 Momentum 30 Index Fund - IDCW Payout",
+    "ICICI Prudential Nifty 200 Momentum 30 Index Fund - Direct Plan - Growth",
+    "ICICI Prudential Nifty 200 Momentum 30 Index Fund - Direct Plan - IDCW",
+    "ICICI Prudential Nifty 200 Momentum 30 Index Fund - Direct Plan - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T04:10:24.608050+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "parent_scheme_name": "quant Momentum Fund",
+  "source_file": "SUMMARY_quant Momentum Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "quant Momentum Fund",
+    "fund_type": "An open ended equity scheme following momentum theme",
+    "fund_options": [
+      "Growth Option - Regular Plan",
+      "Growth Option - Direct Plan",
+      "IDCW Payout Option - Regular Plan",
+      "IDCW Payout Option - Direct Plan",
+      "IDCW Re-investment Option - Regular Plan",
+      "IDCW Re-investment Option - Direct Plan"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the scheme is to achieve long-term capital appreciation for its investors. This objective will be pursued by strategically investing in a diversified portfolio of equity and equity-related instruments. The selection of these instruments will be based on a quantitative model meticulously designed to identify potential investment opportunities that exhibit the potential for significant capital appreciation over the specified investment horizon. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and equity related instruments (including units issued by REITs) :- 80-100%\nDebt & Money Market instruments:- 0-20%                                                                                     \nUnits issued by InvITs:- 0-10%                                                                                            \nForeign Equity and Equity related instruments and Overseas ETFs:- 0-20%",
+    "benchmark": "NIFTY 500 TRI",
+    "fund_managers": [
+      {
+        "name": "Sandeep Tandon",
+        "type": "Primary",
+        "from_date": "20-Nov-23"
+      },
+      {
+        "name": "Ankit Pande",
+        "type": "Co manage",
+        "from_date": "20-Nov-23"
+      },
+      {
+        "name": "Sameer Kate",
+        "type": "Co manage",
+        "from_date": "3-Feb-25"
+      },
+      {
+        "name": "Varun Pattani",
+        "type": "Co manage",
+        "from_date": "19-Feb-25"
+      },
+      {
+        "name": "Ayusha Kumbhat",
+        "type": "Co manage",
+        "from_date": "19-Feb-25"
+      },
+      {
+        "name": "Yug Tibrewal",
+        "type": "Co manage",
+        "from_date": "6-Mar-25"
+      },
+      {
+        "name": "Sanjeev Sharma",
+        "type": "Co manage",
+        "from_date": "20-Nov-23"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.17",
+      "Direct": "1.01"
+    },
+    "exit_load": "For redemptions / switch outs (including SIP/STP) within 15 days from the date of \nallotment of units, irrespective of the amount of investment: 1%\nNo exit load shall be applicable on switches from Regular Plan to Direct Plan and vice \nversa, under the same scheme.",
+    "amfi_codes": [
+      "152190",
+      "152189",
+      "152191",
+      "152192",
+      null,
+      null
+    ],
+    "isins": [
+      "INF966L01CW0",
+      "INF966L01CZ3",
+      "INF966L01CX8",
+      "INF966L01DA4",
+      "INF966L01CY6",
+      "INF966L01DB2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth Option - Regular Plan",
+    "Growth Option - Direct Plan",
+    "IDCW Payout Option - Regular Plan",
+    "IDCW Payout Option - Direct Plan",
+    "IDCW Re-investment Option - Regular Plan",
+    "IDCW Re-investment Option - Direct Plan"
+  ],
+  "extracted_at": "2026-04-18T05:30:05.993452+00:00"
+}

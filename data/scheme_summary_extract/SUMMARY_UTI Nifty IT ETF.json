@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "UTI Nifty IT ETF",
+  "source_file": "SUMMARY_UTI Nifty IT ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "UTI Nifty IT ETF",
+    "fund_type": "An open-ended scheme replicating/tracking the Nifty IT TRI",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, corresponds to the total returns of the securities as represented by the underlying index, subject to tracking error. However there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Securities covered by Nifty IT Index: 95 to 100% (Very High Risk) Money Market Instruments, including Tri Party Repo on government securities or T-bills, cash & cash equivalents or Liquid category of Mutual Fund: 0 to 5% (Low Risk)",
+    "benchmark": "Nifty IT TRI",
+    "fund_managers": "Sharwan Goyal",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "152355"
+    ],
+    "isins": [
+      "INF789F1AZD8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T06:11:31.470509+00:00"
+}

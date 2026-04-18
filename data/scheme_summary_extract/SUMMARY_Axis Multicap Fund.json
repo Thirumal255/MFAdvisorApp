@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis Multicap Fund",
+  "source_file": "SUMMARY_Axis Multicap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Multicap Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long term capital appreciation by investing in a diversiﬁed portfolio of equity and equity related instrumentsacross market capitalization. However, there is no assurance or guarantee that the investment objective of the Scheme will beachieved.",
+    "asset_allocation": "Equity & Equity Related Instruments of Large Cap Stocks - (25%-50%), Equity & Equity Related Instruments of Mid Cap Stocks -(25%-50%), Equity & Equity Related Instruments of Small Cap Stocks - (25%-50%), Debt and Money Market Instruments -(0%-25%), Units issued by REITs & InvITs - (0%-10%)",
+    "benchmark": "Nifty 500 Multicap 50:25:25 TRI",
+    "fund_managers": "Mr. Nitin Arora,Mr. Shreyash Devalkar, Mr. Hitesh Das",
+    "annual_expense": {
+      "Regular": "1.77",
+      "Direct": "0.71"
+    },
+    "exit_load": "If redeemed / switched-out within 12 months - For 10% of investment: Nil on FIFO basis. For remaining investment: 1% w.e.f.,17/12/2021",
+    "amfi_codes": [
+      "149383",
+      "149384",
+      "149382",
+      "149387"
+    ],
+    "isins": [
+      "INF846K013E0",
+      "INF846K014E8",
+      "INF846K015E5",
+      "INF846K016E3",
+      "INF846K017E1",
+      "INF846K018E9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T02:22:46.719891+00:00"
+}

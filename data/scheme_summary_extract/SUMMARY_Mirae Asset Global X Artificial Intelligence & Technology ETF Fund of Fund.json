@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Mirae Asset Global X Artiﬁcial Intelligence & Technology ETF Fund of Fund",
+  "source_file": "SUMMARY_Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Global X Artiﬁcial Intelligence & Technology ETF Fund of Fund",
+    "fund_type": "An open-ended fund of fund scheme investing in units of Global X Artiﬁcial Intelligence & Technology ETF.",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Regular Plan Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation from a portfolio investing in units of Global X Artiﬁcial Intelligence & Technology ETF. There is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Units of Global X Artiﬁcial Intelligence & Technology ETF - 95 to 100% Money market instruments including Tri Party REPO/debt securities - 0 to 5%",
+    "benchmark": "Indxx Artiﬁcial Intelligence & Big Data Index (TRI) (INR)",
+    "fund_managers": "Mr. Siddharth Srivastava",
+    "annual_expense": {
+      "Regular": "0.40",
+      "Direct": "0.26"
+    },
+    "exit_load": "Entry Load: Nil Exit Load 1% If redeemed within 1 year (365 Days) from the date of allotment Exit Load: Nil If redeemed after 365 days from the date of allotment.",
+    "amfi_codes": [
+      "150597",
+      "150596"
+    ],
+    "isins": [
+      "INF769K01IS5",
+      "INF769K01IR7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T04:55:25.443079+00:00"
+}

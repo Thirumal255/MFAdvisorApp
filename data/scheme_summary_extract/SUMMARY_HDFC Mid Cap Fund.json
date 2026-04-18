@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "HDFC Mid Cap Fund",
+  "source_file": "SUMMARY_HDFC Mid Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Mid Cap Fund",
+    "fund_type": "An open ended equity scheme predominantly investing in mid cap stocks",
+    "fund_options": [
+      "DIRECT PLAN - IDCW PAYOUT OPTION",
+      "DIRECT PLAN - GROWTH OPTION",
+      "DIRECT PLAN - IDCW REINVESTMENT",
+      "REGULAR PLAN IDCW PAYOUT OPTION",
+      "REGULAR PLAN GROWTH OPTION",
+      "REGULAR PLAN - IDCW REINVESTMENT"
+    ],
+    "isins": [
+      "INF179K01XO5",
+      "INF179K01XQ0",
+      "INF179K01XP2",
+      "INF179K01CS0",
+      "INF179K01CR2",
+      "INF179K01CT8"
+    ],
+    "amfi_codes": [
+      "118988",
+      "118989",
+      "105757",
+      "105758",
+      "118988",
+      "118989"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "To provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies. There is no assurance thatthe investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity Related Instruments of Mid Cap companies**: 65%- 100%; Equity and Equity Related Instruments other thanabove: 0%- 35%; Debt Securities (including securitised debt) and money market instruments: 0%- 35%; Units issued by InvITs: 0%-10%; Non-convertible preference shares: 0% -10%. **Investment universe of “Mid Cap” For detailed asset allocation, referScheme Information Document (SID) available on the website.",
+    "benchmark": "NIFTY MidCap 150 Index(Total Returns Index)",
+    "fund_managers": "FM 1 - Mr.Chirag Setalvad, FM 2 - Mr. Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "1.36",
+      "Direct": "0.74"
+    },
+    "exit_load": "In respect of each purchase/switch-in of units, an Exit Load of 1.00% is payable if Units are redeemed/switched-out within 1 yearfrom the date of allotment. No Exit Load is payable if Units are redeemed/ switched-out after 1 year from the date of allotment."
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN - IDCW PAYOUT OPTION",
+    "DIRECT PLAN - GROWTH OPTION",
+    "DIRECT PLAN - IDCW REINVESTMENT",
+    "REGULAR PLAN IDCW PAYOUT OPTION",
+    "REGULAR PLAN GROWTH OPTION",
+    "REGULAR PLAN - IDCW REINVESTMENT"
+  ],
+  "extracted_at": "2026-04-18T03:45:19.975738+00:00"
+}

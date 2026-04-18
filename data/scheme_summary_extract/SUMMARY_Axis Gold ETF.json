@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Axis Gold ETF",
+  "source_file": "SUMMARY_Axis Gold ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Gold ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "High",
+    "investment_objective": "The investment objective of the Scheme is to generate returns that are in line with the performance of gold.",
+    "asset_allocation": "Gold & gold related instruments* - (95%-100%), Money Market Instruments^ - (0%-5%) *Gold related instruments, as permitted by Regulator from time to time. In accordance with clause 3.2.1.3 of SEBI Master Circular for Mutual Funds, Gold Deposit Scheme (GDS) and Gold Monetisation Scheme (GMS) have been designated as gold related instrument. As per clause 3.2.1.4. of SEBI Master Circular for Mutual Funds, Exchange Traded Commodity Derivatives (ETCDs) having gold as the underlying shall be considered as ‘gold related instrument’ for Gold ETF. ^Residual portion of 5% of the net assets of the Scheme is provided for liquidity purposes. For liquidity purposes, the Scheme would invest in ‘liquid assets’ as per clause 4.5.1 of SEBI Master Circular of Mutual funds as amended from time to time. The scheme may also invest in debt and liquid mutual fund scheme.",
+    "benchmark": "Domestic Price of Gold",
+    "fund_managers": "Mr. Aditya Pagaria , Mr. Pratik Tibrewal",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "N/A",
+    "amfi_codes": [
+      "113434"
+    ],
+    "isins": [
+      "INF846K01W8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T02:21:22.954993+00:00"
+}

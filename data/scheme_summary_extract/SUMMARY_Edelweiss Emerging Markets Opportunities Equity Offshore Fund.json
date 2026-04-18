@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "Edelweiss Emerging Markets Opportunities Equity Off-shore Fund",
+  "source_file": "SUMMARY_Edelweiss Emerging Markets Opportunities Equity Offshore Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss Emerging Markets Opportunities Equity Off-shore Fund",
+    "fund_type": "Fund of Funds Investing Overseas",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Regular Plan Growth"
+    ],
+    "isins": [
+      "INF843K01IZ3",
+      "INF843K01IY6"
+    ],
+    "amfi_codes": [
+      "140327",
+      "140328"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The primary investment objective of the Scheme is to seek to provide long term capital growth by investing predominantly in the JPMorgan Funds – Emerging Markets Opportunities Fund, an equity fund which invests primarily in an aggressively managed portfolio of emerging market companies. However, there can be no assurance that the investment objective of the Scheme will be realised.",
+    "asset_allocation": "1. Shares of the Underlying Fund i.e. JPMorgan Funds – Emerging Markets Opportunities Fund - 95-100%\n2. Money market instruments, cash and cash equivalents and/ or units of liquid schemes - 0-5%",
+    "benchmark": "MSCI Emerging Markets Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Bhavesh Jain",
+        "type": "Co-Manage",
+        "from_date": "27/Sep/2019"
+      },
+      {
+        "name": "Mr. Bharat Lahoti",
+        "type": "Co-Manage",
+        "from_date": "07/Jul/2014"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1.31",
+      "Direct": "0.41"
+    },
+    "exit_load": "• If the units are redeemed / switched out on or before 90 days from the date of allotment – 1.00%\n• If the units are redeemed / switched out after 90 days from the date of allotment – Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T03:21:59.625045+00:00"
+}

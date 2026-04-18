@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bandhan Nifty IT Index Fund",
+  "source_file": "SUMMARY_Bandhan Nifty IT Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Nifty IT Index Fund",
+    "fund_type": "An open-ended scheme tracking Nifty IT Index",
+    "fund_options": [
+      "Bandhan Nifty IT Index Fund Regular Plan-Growth",
+      "Bandhan Nifty IT Index Fund Regular Plan-IDCW",
+      "Bandhan Nifty IT Index Fund Regular Plan-IDCW (Re-inv)",
+      "Bandhan Nifty IT Index Fund Direct Plan-Growth",
+      "Bandhan Nifty IT Index Fund Direct Plan-IDCW",
+      "Bandhan Nifty IT Index Fund Direct Plan-IDCW (Re-inv)"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to replicate the Nifty IT Index by investing in securities of the Nifty IT Index in the same proportion / weightage with an aim to provide returns before expenses that tracks the total return of Nifty IT Index, subject to tracking errors.",
+    "asset_allocation": "Securities belonging to the Nifty IT Index - 95%-100%, Debt & Money Market instruments - 0% - 100%",
+    "benchmark": "Nifty IT TRI",
+    "fund_managers": "FM 1 - Mr. Abhishek Jain",
+    "annual_expense": {
+      "Regular": "1.02",
+      "Direct": "0.37"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "152043",
+      "152044",
+      null,
+      "152041",
+      "152042",
+      null
+    ],
+    "isins": [
+      "INF194KB1GH9",
+      "INF194KB1GI7",
+      null,
+      "INF194KB1GK3",
+      "INF194KB1GL1",
+      null
+    ]
+  },
+  "fund_options_inferred": [
+    "Bandhan Nifty IT Index Fund Regular Plan-Growth",
+    "Bandhan Nifty IT Index Fund Regular Plan-IDCW",
+    "Bandhan Nifty IT Index Fund Regular Plan-IDCW (Re-inv)",
+    "Bandhan Nifty IT Index Fund Direct Plan-Growth",
+    "Bandhan Nifty IT Index Fund Direct Plan-IDCW",
+    "Bandhan Nifty IT Index Fund Direct Plan-IDCW (Re-inv)"
+  ],
+  "extracted_at": "2026-04-18T02:51:40.132213+00:00"
+}

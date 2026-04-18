@@ -1,0 +1,26 @@
+{
+  "parent_scheme_name": null,
+  "source_file": "SUMMARY_Bandhan CRISIL-IBX Financial Services 3-6 Months Debt Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": null,
+    "fund_type": null,
+    "fund_options": null,
+    "riskometer": null,
+    "investment_objective": null,
+    "asset_allocation": null,
+    "benchmark": null,
+    "fund_managers": null,
+    "annual_expense": {},
+    "exit_load": null,
+    "amfi_codes": [],
+    "isins": []
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth",
+    "Regular Payout of IDCW",
+    "Direct Payout of IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:47:57.265612+00:00"
+}

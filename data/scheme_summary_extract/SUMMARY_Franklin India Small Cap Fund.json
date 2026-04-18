@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Franklin India Small Cap Fund",
+  "source_file": "SUMMARY_Franklin India Small Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Franklin India Small Cap Fund",
+    "fund_type": "Small-cap Fund- An open ended equity scheme predominantly investing in small cap stocks",
+    "fund_options": [
+      "Regular - Growth",
+      "Direct - IDCW Reinv.",
+      "Regular - IDCW Payout",
+      "Direct - Growth",
+      "Regular - IDCW Reinv.",
+      "Direct - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Fund seeks to provide long-term capital appreciation by investing predominantly in small cap companies",
+    "asset_allocation": "Equities and Equity Linked instruments of Smaller Companies: 65 – 100% Equities and Equity Linked instruments of otherCompanies : 0 – 35% Debt/Money Market Instruments/Cash: 0 – 35%",
+    "benchmark": "Nifty Smallcap 250",
+    "fund_managers": "R. Janakiraman, Akhil Kalluri Sandeep Manam (dedicated for making investments for Foreign Securities)",
+    "annual_expense": {
+      "Regular": "1.76",
+      "Direct": "0.94"
+    },
+    "exit_load": "In respect of each purchase of Units - 1% if the Units are redeemed/switched-out within one year of allotment",
+    "amfi_codes": [
+      "103360",
+      "118524",
+      "103361",
+      "118525",
+      "103361",
+      "118524"
+    ],
+    "isins": [
+      "INF090I01569",
+      "INF090I01IP6",
+      "INF090I01544",
+      "INF090I01IQ4",
+      "INF090I01551",
+      "INF090I01IO9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Direct - IDCW Reinv.",
+    "Regular - IDCW Payout",
+    "Direct - Growth",
+    "Regular - IDCW Reinv.",
+    "Direct - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T03:34:30.240949+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "parent_scheme_name": "PGIM India Emerging Markets Equity Fund of Fund",
+  "source_file": "SUMMARY_PGIM India Emerging Markets Equity Fund of Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "PGIM India Emerging Markets Equity Fund of Fund",
+    "fund_type": "An open ended equity fund of fund scheme investing in PGIM Jennison Emerging Markets Equity Fund",
+    "fund_options": null,
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the Scheme is to generate long term capital growth from investing in the units of PGIMJennison Emerging Markets Equity Fund, which invests primarily in equity and equity-related securities of companies locatedin or otherwise economically tied to emerging markets countries. However, there can be no assurance that the investmentobjective of the Scheme will be achieved. The Scheme does not guarantee/indicate any returns.",
+    "asset_allocation": "Units and Securities issued by PGIM Jennison Emerging Markets Equity Fund, domiciled in Ireland - Min 95 % and Max 100 %Debt Instruments including Government Securities, Corporate Debt, Money Market Instruments (incl. Cash equivalents),Securitised Debt and units of domestic money market mutual funds - Min 0 % and Max 5 %",
+    "benchmark": "MSCI Emerging Markets Index TRI",
+    "fund_managers": "Mr. Anandha Padmanabhan Anjeneyan , Mr. Vivek Sharma",
+    "annual_expense": {
+      "Regular": "1.64",
+      "Direct": "0.66"
+    },
+    "exit_load": "For Exits within 90 days from date of allotment of units: 0.50%; For Exits beyond 90 days from date of allotment of units: NIL.",
+    "amfi_codes": [
+      "138453",
+      "138454",
+      "138455",
+      "138456",
+      "138457",
+      "138458"
+    ],
+    "isins": [
+      "INF223J01NL0",
+      "INF223J01NJ4",
+      "INF223J01NK2",
+      "INF223J01AW4",
+      "INF223J01AX2",
+      "INF223J01AY0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth",
+    "Regular Payout of IDCW",
+    "Direct Payout of IDCW"
+  ],
+  "extracted_at": "2026-04-18T05:24:45.100594+00:00"
+}

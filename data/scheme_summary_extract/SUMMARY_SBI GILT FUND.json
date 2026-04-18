@@ -1,0 +1,79 @@
+{
+  "parent_scheme_name": "SBI Gilt Fund (Formerly known as SBI Magnum Gilt Fund)",
+  "source_file": "SUMMARY_SBI GILT FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Gilt Fund (Formerly known as SBI Magnum Gilt Fund)",
+    "fund_type": "An open-ended Debt Scheme investing in government securities across maturity",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - Growth",
+      "Regular Plan - Growth",
+      "Regular Plan - Growth",
+      "Regular Plan - Growth",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW"
+    ],
+    "isins": [
+      "INF200K01AA6",
+      "INF200K01AM1",
+      "INF200K01AD0",
+      "INF200K01AG3",
+      "INF200K01AJ7",
+      "INF200K01982",
+      "INF200K01AK5",
+      "INF200K01SH3",
+      "INF200K01SF7",
+      "INF200K01AH1",
+      "INF200K01SH3",
+      "INF200K01SG5"
+    ],
+    "amfi_codes": [
+      "100999",
+      "101935",
+      "101950",
+      "101951",
+      "101952",
+      "101001",
+      "101932",
+      "102061",
+      "101933",
+      "101934",
+      "119707",
+      "119706"
+    ],
+    "riskometer": "MODERATE",
+    "investment_objective": "To provide returns to the investors generated through investments in Government securities issued by the Central Government and/or State Government(s).",
+    "asset_allocation": {
+      "Central and State Government securities, T-Bills": "80%-100%",
+      "Triparty Repo, Repo and Cash": "0%-20%"
+    },
+    "benchmark": "CRISIL Dynamic Gilt index",
+    "fund_managers": "Mr. Sudhir Agarwal",
+    "annual_expense": {
+      "Regular": "0.89",
+      "Direct": "0.46"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - Growth",
+    "Regular Plan - Growth",
+    "Regular Plan - Growth",
+    "Regular Plan - Growth",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-18T05:38:20.561599+00:00"
+}

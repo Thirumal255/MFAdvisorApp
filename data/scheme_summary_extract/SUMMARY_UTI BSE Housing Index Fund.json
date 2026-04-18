@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "UTI BSE Housing Index Fund",
+  "source_file": "SUMMARY_UTI BSE Housing Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "UTI BSE Housing Index Fund",
+    "fund_type": "An open-ended scheme replicating / tracking S&P BSE Housing Total Return Index [TRI]",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Regular Plan-Growth"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The Investment objective of the Scheme is to provide returns that, before expenses, corresponds to the total return of the securities as represented by the underlying index, subject to tracking error. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Securities covered by S&P BSE Housing Index 95% 100% High Risk Debt / Money Market instruments including Triparty Repo on Government Securities or treasury bill and units of Liquid Mutual Fund 0% 5% Low",
+    "benchmark": "BSE Housing TRI",
+    "fund_managers": "Mr Sharwan Kumar Goyal FM 1, Mr. Ayush Jain FM 2",
+    "annual_expense": {
+      "Regular": "1.04",
+      "Direct": "0.59"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "151763",
+      "151764"
+    ],
+    "isins": [
+      "INF789F1AYS9",
+      "INF789F1AYR1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Regular Plan-Growth"
+  ],
+  "extracted_at": "2026-04-18T06:08:24.237485+00:00"
+}

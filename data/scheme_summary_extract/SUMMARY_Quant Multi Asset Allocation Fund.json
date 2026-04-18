@@ -1,0 +1,86 @@
+{
+  "parent_scheme_name": "quant Multi Asset Allocation Fund",
+  "source_file": "SUMMARY_Quant Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "quant Multi Asset Allocation Fund",
+    "fund_type": "An open ended scheme investing in equity, debt and commodity.",
+    "fund_options": [
+      "Growth Option - Regular Plan",
+      "Growth Option - Direct Plan",
+      "IDCW Payout Option - Regular Plan",
+      "IDCW Payout Option - Direct Plan",
+      "IDCW Reinvestment - Direct Plan",
+      "IDCW Reinvestment - Regular Plan"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to generate capital appreciation & provide long-term growth opportunities by investing in instruments across the three asset classes viz. Equity, Debt and Commodity. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and equity related instruments (including units issued by REITs) :- 10-80% Debt and money market instruments:- 10-80% Gold ETF & any other mode of investment in commodities (excluding commodity derivatives):- 10-80% Exchange Traded Commodity Derivatives (ETCDs) & any other mode of investment in commodities:- 0-30% Units issued by InvITs:- 0-10%",
+    "benchmark": "Composite Benchmark of 65% Nifty 500 TRI + 15% CRISIL Short Term Bond Fund Index + 20% iCOMDEX Composite Index.",
+    "fund_managers": [
+      {
+        "name": "Mr. Sandeep Tandon",
+        "type": "Primary",
+        "from_date": "1-Apr-22"
+      },
+      {
+        "name": "Mr. Ankit Pande",
+        "type": "Co-manage",
+        "from_date": "10-May-20"
+      },
+      {
+        "name": "Mr. Sanjeev sharma",
+        "type": "Co-manage",
+        "from_date": "3-Oct-19"
+      },
+      {
+        "name": "Mr. Varun Pattani",
+        "type": "Co-manage",
+        "from_date": "19-Feb-25"
+      },
+      {
+        "name": "Ayusha Kumbhat",
+        "type": "Co-manage",
+        "from_date": "19-Feb-25"
+      },
+      {
+        "name": "Sameer Kate",
+        "type": "Co-manage",
+        "from_date": "3-Feb-25"
+      },
+      {
+        "name": "Yug Tibrewal",
+        "type": "Co-manage",
+        "from_date": "6-Mar-25"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1.75",
+      "Direct": "0.58"
+    },
+    "exit_load": "For redemptions / switch outs (including SIP/STP) within 15 days from the date of allotment of units, irrespective of the amount of investment: 1% No exit load shall be applicable on switches from Regular Plan to Direct Plan and vice versa, under the same scheme.",
+    "amfi_codes": [
+      "101072",
+      "120821",
+      "101071",
+      "120820"
+    ],
+    "isins": [
+      "INF966L01200",
+      "INF966L01580",
+      "INF966L01184",
+      "INF966L01564",
+      "INF966L01572",
+      "INF966L01192"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth Option - Regular Plan",
+    "Growth Option - Direct Plan",
+    "IDCW Payout Option - Regular Plan",
+    "IDCW Payout Option - Direct Plan",
+    "IDCW Reinvestment - Direct Plan",
+    "IDCW Reinvestment - Regular Plan"
+  ],
+  "extracted_at": "2026-04-18T05:30:15.516251+00:00"
+}

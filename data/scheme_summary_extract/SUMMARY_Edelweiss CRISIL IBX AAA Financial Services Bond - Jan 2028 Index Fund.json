@@ -1,0 +1,69 @@
+{
+  "parent_scheme_name": "Edelweiss CRISIL IBX AAA Financial Services Bond – Jan 2028 Index Fund",
+  "source_file": "SUMMARY_Edelweiss CRISIL IBX AAA Financial Services Bond - Jan 2028 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss CRISIL IBX AAA Financial Services Bond – Jan 2028 Index Fund",
+    "fund_type": "Index Fund",
+    "fund_options": [
+      "Direct Plan Growth Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - IDCW Transfer",
+      "Regular Plan Growth Growth",
+      "Regular Plan IDCW Payout",
+      "Regular Plan IDCW Reinvestment",
+      "Regular Plan IDCW Transfer"
+    ],
+    "isins": [
+      "INF754K01TP0",
+      "INF754K01TQ8",
+      "INF754K01TR6",
+      "INF754K01TS4",
+      "INF754K01TT2",
+      "INF754K01TU0",
+      "INF754K01TV8",
+      "INF754K01TW6"
+    ],
+    "amfi_codes": [
+      "153115",
+      "153128",
+      "153128",
+      "153128",
+      "153130",
+      "153129",
+      "153129",
+      "153129"
+    ],
+    "riskometer": "Low to Moderate risk",
+    "investment_objective": "The investment objective of the scheme is to replicate CRISIL IBX AAA Financial Services – Jan 2028 Index by investing in AAA rated financial services corporate bond issuers maturing on or before January 2028, subject to tracking errors. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Fixed Income Instruments replicating CRISIL-IBX AAA Financial Services Index – Jan 2028** - 95 to 100 TREPS / Repo / T-Bills / G-Sec / SDL^ - 0 to 5 ** Including Fixed Income Instruments not forming part of the Index, invested in compliance with Para 3.5 of SEBI Master circular for Mutual Funds and further amended from time to time. ^Residual portion of 5% of the net assets of the scheme is provided for liquidity purposes.",
+    "benchmark": "CRISIL IBX AAA Financial Services – Jan 2028 index.",
+    "fund_managers": [
+      {
+        "name": "Ms. Pranavi Kulkarni",
+        "type": "Co Manage"
+      },
+      {
+        "name": "Mr. Dhawal Dalal",
+        "type": "Co Manage"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "0.001",
+      "Direct": "0.001"
+    },
+    "exit_load": "If the units are redeemed/switched out on or before 30 days from the date of allotment – 0.10%. If the units are redeemed/switched out after 30 days from the date of allotment – Nil."
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - IDCW Transfer",
+    "Regular Plan Growth Growth",
+    "Regular Plan IDCW Payout",
+    "Regular Plan IDCW Reinvestment",
+    "Regular Plan IDCW Transfer"
+  ],
+  "extracted_at": "2026-04-18T03:21:35.605745+00:00"
+}

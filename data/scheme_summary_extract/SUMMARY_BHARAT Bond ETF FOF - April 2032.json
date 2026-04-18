@@ -1,0 +1,54 @@
+{
+  "parent_scheme_name": "BHARAT Bond ETF FOF - April 2032",
+  "source_file": "SUMMARY_BHARAT Bond ETF FOF - April 2032.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "BHARAT Bond ETF FOF - April 2032",
+    "fund_type": "Fund of Fund - Domestic",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Regular Plan IDCW Payout",
+      "Regular Plan IDCW Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "isins": [
+      "INF754K01NY5",
+      "INF754K01NZ2",
+      "INF754K01OA3",
+      "INF754K01NW9",
+      "INF754K01NX7",
+      "INF754K01NV1"
+    ],
+    "amfi_codes": [
+      "149401",
+      "149402",
+      "149402",
+      "149400",
+      "149400",
+      null
+    ],
+    "riskometer": "Moderate Risk",
+    "investment_objective": "BHARAT Bond ETF FOF - April 2032 is a fund of funds scheme with the primary objective to generate returns by investing in units of BHARAT Bond ETF – April 2032. However, there is no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "1. Units of BHARAT Bond ETF – April 2032 - 95-100%\n2. Government Securities maturing on or before maturity date of the Scheme, TREPS and REPO in government bonds - 0-5%",
+    "benchmark": "Nifty BHARAT Bond Index – April 2032",
+    "fund_managers": [
+      "Ms. Pranavi Kulkarni"
+    ],
+    "annual_expense": {
+      "Regular": "0.06",
+      "Direct": "0.06"
+    },
+    "exit_load": "• If redeemed or switched out on or before \ncompletion of 30 days from the date of allotment \nof units –0.10%\n• If redeemed or switched out after completion of \n30 days from the date of allotment of units –NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Regular Plan IDCW Payout",
+    "Regular Plan IDCW Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T03:03:20.931364+00:00"
+}

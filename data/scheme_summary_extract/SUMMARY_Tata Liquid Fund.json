@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "Tata Liquid Fund",
+  "source_file": "SUMMARY_Tata Liquid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Liquid Fund",
+    "fund_type": "An open ended Liquid Scheme. A Relatively Low Interest Rate Risk and Moderate Credit Risk.",
+    "fund_options": [
+      "Tata Liquid Fund Regular Plan - Daily IDCW",
+      "Tata Liquid Fund Direct Plan - Daily IDCW",
+      "Tata Liquid Fund Regular Plan -Growth",
+      "Tata Liquid Fund Direct Plan - Growth"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective is to generate reasonable returns with high liquidity to the unitholders",
+    "asset_allocation": "Debt & Money Market instruments having maturity upto 91 days 0-100.",
+    "benchmark": "CRISIL Liquid Debt A-I Index",
+    "fund_managers": [
+      "FM-1 Amit Somani",
+      "FM-2 Harsh Dave"
+    ],
+    "annual_expense": {
+      "Regular": "0.31",
+      "Direct": "0.20"
+    },
+    "exit_load": "1 day - 0.0070% of redemption proceeds 2 days - 0.0065% of redemption proceeds 3 days - 0.0060% of redemptionproceeds 4 days - 0.0055 of redemption proceeds 5 days - 0.0050 of redemption proceeds 6 days - 0.0045 of redemptionproceeds 7 days or more -Nil",
+    "amfi_codes": [
+      "101714",
+      "119862",
+      "102672",
+      "119861"
+    ],
+    "isins": [
+      "INF277K011D4",
+      "INF277K012D2",
+      "INF277K01YD8",
+      "INF277K01YE6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Liquid Fund Regular Plan - Daily IDCW",
+    "Tata Liquid Fund Direct Plan - Daily IDCW",
+    "Tata Liquid Fund Regular Plan -Growth",
+    "Tata Liquid Fund Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:53:58.144439+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "SBI Credit Risk Fund",
+  "source_file": "SUMMARY_SBI CREDIT RISK FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Credit Risk Fund",
+    "fund_type": "An open-ended debt scheme predominantly investing in AA and below rated corporate bonds (excluding AA+ rated corporate bonds)",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth"
+    ],
+    "riskometer": "HIGH",
+    "investment_objective": "To provide the investors an opportunity to predominantly invest in corporate bonds rated AA and below (excluding AA+ rated corporate bonds) so as to generate attractive returns while maintaining moderate liquidity in the portfolio through investment in money market securities.",
+    "asset_allocation": {
+      "Debt (including securitized debt) and Money Market Instruments": "Upto 100%",
+      "ADR/GDR/Foreign Securities": "0%-25%",
+      "Units issued by REITs and InVITs": "0%-10%"
+    },
+    "benchmark": "CRISIL Composite Credit Risk Index",
+    "fund_managers": "Mr. Lokesh Mallya",
+    "annual_expense": {
+      "Regular": "1.42"
+    },
+    "exit_load": "For exit within 12 months from the date of allotment – For 8% of the investment – Nil; For the remaining investment - 3% For exit after 12 months but within 24 months from the date of allotment - For 8% of the investment – Nil; For the remaining investment -1.5% For exit after 24 months but within 36 months from the date of allotment - For 8% of the investment – Nil; For the remaining investment -0.75%; For exit after 36 months from the date of allotment – Nil",
+    "amfi_codes": [
+      "102506",
+      "102505",
+      "119792",
+      "119798"
+    ],
+    "isins": [
+      "INF200K01701",
+      "INF200K01685",
+      "INF200K01SS0",
+      "INF200K01SV4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:36:26.885965+00:00"
+}

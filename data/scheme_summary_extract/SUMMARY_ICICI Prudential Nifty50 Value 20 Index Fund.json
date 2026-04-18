@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty50 Value 20 Index Fund",
+  "source_file": "SUMMARY_ICICI Prudential Nifty50 Value 20 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty50 Value 20 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Nifty50 Value 20 Index Fund - Direct Plan - Growth",
+      "ICICI Prudential Nifty50 Value 20 Index Fund - Direct Plan - IDCW",
+      "ICICI Prudential Nifty50 Value 20 Index Fund - Growth",
+      "ICICI Prudential Nifty50 Value 20 Index Fund - IDCW"
+    ],
+    "isins": [
+      "INF109KC16T3",
+      "INF109KC17T1",
+      "INF109KC19T7",
+      "INF109KC11U2"
+    ],
+    "amfi_codes": [
+      "152365",
+      "152367",
+      "152366",
+      "152364"
+    ],
+    "riskometer": "Very High\n(as on November 30, 2024)",
+    "investment_objective": "The objective of the Scheme is to invest in companies whose securities are included in Nifty50 Value 20 Index in the same weightage that they represent in Nifty50 Value 20 Index in order to achieve the returns of the above index, subject to tracking errors. However, there is no assurance or guarantee that the investment objective of the scheme shall be achieved.",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (Nifty50 Value 20 Index) 95%-100% \n• Money Market instruments including TREPs* and units of debt schemes# 0%-5% \n*or similar instruments as may be permitted by RBI/ SEBI, subject to requisite approvals from SEBI / RBI, if needed.\n#Excluding subscription money in transit before deployment / payout.",
+    "benchmark": "Nifty50 Value 20 TRI",
+    "fund_managers": [
+      "Nishit Patel",
+      "Ashwini Bharucha"
+    ],
+    "annual_expense": {
+      "Regular": "0.68",
+      "Direct": "0.25"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Nifty50 Value 20 Index Fund - Direct Plan - Growth",
+    "ICICI Prudential Nifty50 Value 20 Index Fund - Direct Plan - IDCW",
+    "ICICI Prudential Nifty50 Value 20 Index Fund - Growth",
+    "ICICI Prudential Nifty50 Value 20 Index Fund - IDCW"
+  ],
+  "extracted_at": "2026-04-18T04:15:19.690648+00:00"
+}

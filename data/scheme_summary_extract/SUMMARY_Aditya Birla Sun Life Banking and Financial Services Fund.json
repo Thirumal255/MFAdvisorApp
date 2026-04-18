@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE BANKING AND FINANCIAL SERVICES FUND",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Banking and Financial Services Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE BANKING AND FINANCIAL SERVICES FUND",
+    "fund_type": "An open ended equity scheme investing in the Banking & Financial Services sectors.",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "REGULAR - IDCW",
+      "Direct Plan - Growth",
+      "DIRECT - IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the Scheme is to generate long-term capital appreciation to unitholders from a portfolio that is invested predominantly in equity and equity related securities of companies engaged in banking and financial services.\nThe Scheme does not guarantee/indicate any returns. There can be no assurance that the schemes’ objectives will be achieved.",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme will be as follows:\nEquity & Equity related securities of Banking & Financial Services Companies - 80%-100%\nEquity and Equity related Instruments of companies other than above - 0%-20%\nUnits issued by InvITs -  0%-10%\nCash, Money Market & Debt instruments -  0%-20%\nUnits of Mutual Funds# -  0%-5%",
+    "benchmark": "Nifty Financial Services TRI",
+    "fund_managers": "Mr. Dhaval Gala",
+    "annual_expense": {
+      "Regular": "2.00",
+      "Direct": "1.04"
+    },
+    "exit_load": "For redemption/switch-out of units on or before 30 days from the date of allotment: 1.00% of applicable NAV. For redemption/switch-out of units after 30 days from the date of allotment: Nil",
+    "amfi_codes": [
+      "125595",
+      "125596",
+      "125597",
+      "125598"
+    ],
+    "isins": [
+      "INF209K011W7",
+      "INF209K010W9",
+      "INF209K014W1",
+      "INF209K013W3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "REGULAR - IDCW",
+    "Direct Plan - Growth",
+    "DIRECT - IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:07:07.564681+00:00"
+}

@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "ICICI Prudential Bharat Consumption Fund",
+  "source_file": "SUMMARY_ICICI Prudential Bharat Consumption Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Bharat Consumption Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct plan - IDCW",
+      "Growth",
+      "IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long-term capital appreciation by investing primarily in Equity and Equity related securities of companies engaged in consumption and consumption related activities or allied sectors. However, there can be no assurance or guarantee that the in",
+    "asset_allocation": "• Equity and Equity Related Instruments of companies engaged in consumption and consumption related activities or allied sectors = 80% - 100%\n• Other equity and equity related securities = 0% - 20% \n• Debt, Units of debt Mutual Fund schemes and market instruments = 0%- 20%\n•Gold ETF/Units issued by REITs/ InvITs such other asset classes as may be permitted by SEBI from time to time (subject to applicable SEBI limits) = 0%- 20%",
+    "benchmark": "Nifty India Consumption TRI",
+    "fund_managers": [
+      {
+        "name": "Priyanka Khandelwal",
+        "type": "Primary",
+        "from_date": "02-May-22"
+      },
+      {
+        "name": "Sharmila D'mello",
+        "type": "Manages Overseas Investments",
+        "from_date": "01-Jul-22"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.00",
+      "Direct": "1.1"
+    },
+    "exit_load": "1% of applicable Net Asset Value - If the amount sought to be redeemed or switch out is invested for a period of up to three months from the date of allotment Nil - If the amount, sought to be redeemed or switch out is invested for a period of",
+    "amfi_codes": [
+      "146951",
+      "146949",
+      "146950",
+      "14"
+    ],
+    "isins": [
+      "INF109KC1YD4",
+      "INF109KC1YF9",
+      "INF109KC1YA0",
+      null
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct plan - IDCW",
+    "Growth",
+    "IDCW"
+  ],
+  "extracted_at": "2026-04-18T04:01:18.772379+00:00"
+}

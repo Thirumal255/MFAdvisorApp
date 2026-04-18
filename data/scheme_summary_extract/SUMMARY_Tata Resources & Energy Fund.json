@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Tata Resources & Energy Fund",
+  "source_file": "SUMMARY_Tata Resources & Energy Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Resources & Energy Fund",
+    "fund_type": "An open ended equity scheme investing in Resources and Energy Sector.",
+    "fund_options": [
+      "Tata Resources and Energy Fund Regular Plan IDCW",
+      "Tata Resources and Energy Fund Direct Plan IDCW",
+      "Tata Resources and Energy Fund Regular Plan Growth",
+      "Tata Resources and Energy Fund Direct Plan Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide long term capital appreciation by investing atleast 80% of its net assets inequity/equity related instruments of the companies in the Resources& Energy sectors in India.However, there is no assuranceor guarantee that the investment objective of the Scheme will be achieved.The Scheme does not assure or guarantee anyreturns.",
+    "asset_allocation": "Equity & equity related instruments of companies in three macro economic sectors i.e., Commodities, Energy and Utilities 80-100, Other Equity/Equity related instruments 0-20, Debt and Money Market Instruments 0-20.",
+    "benchmark": "Nifty Commodities TRI",
+    "fund_managers": "Satish Chandra Mishra",
+    "annual_expense": {
+      "Regular": "2.13",
+      "Direct": "0.54"
+    },
+    "exit_load": "0.25% of NAV if redeemed /switched out before 30 days from the date of allotment.",
+    "amfi_codes": [
+      "135814",
+      "135817",
+      "135815",
+      "135813"
+    ],
+    "isins": [
+      "INF277K014B2",
+      "INF277K017B5",
+      "INF277K012B6",
+      "INF277K015B9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Resources and Energy Fund Regular Plan IDCW",
+    "Tata Resources and Energy Fund Direct Plan IDCW",
+    "Tata Resources and Energy Fund Regular Plan Growth",
+    "Tata Resources and Energy Fund Direct Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T05:56:51.359426+00:00"
+}

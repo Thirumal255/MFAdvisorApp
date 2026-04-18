@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Mirae Asset Nifty 100 ESG Sector Leaders ETF",
+  "source_file": "SUMMARY_Mirae Asset Nifty 100 ESG Sector Leaders ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Nifty 100 ESG Sector Leaders ETF",
+    "fund_type": "Exchange Traded Fund (ETF)",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate returns, before expenses, that are commensurate with theperformance of the Nifty 100 ESG Sector Leaders Total Return Index, subject to tracking error. The Scheme does notguarantee or assure any returns.",
+    "asset_allocation": "Securities included in the Nifty100 ESG Sector Leaders Index - 95% to 100% (High) Money market instruments / debtsecurities, Instruments and/or units of debt/liquid schemes of domestic Mutual Funds. - 0% to 5% (Low to Medium)",
+    "benchmark": "Nifty 100 ESG Sector Leaders Index (TRI)",
+    "fund_managers": "Ms. Ekta Gala, Mr. Akshay Udeshi",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "148572"
+    ],
+    "isins": [
+      "INF769K01GS9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:59:10.462369+00:00"
+}

@@ -1,0 +1,66 @@
+{
+  "parent_scheme_name": "Axis Equity Savings Fund",
+  "source_file": "SUMMARY_Axis Equity Savings Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Equity Savings Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Regular IDCW",
+      "Direct Growth",
+      "Direct Monthly IDCW",
+      "Direct Quarterly IDCW",
+      "Regular Monthly IDCW",
+      "Regular Growth",
+      "Regular Quarterly IDCW",
+      "Regular Regular IDCW"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The investment objective of the scheme is to provide capital appreciation and income distribution to the investors by usingequity and equity related instruments, arbitrage opportunities, and investments in debt and money market instruments.However, there is no assurance or guarantee that the investment objective of the Scheme will be achieved. The Scheme doesnot assure or guarantee any returns.",
+    "asset_allocation": "Equity and Equity related securities Of which - (65%-80%), i) Equities & equity related instruments (unhedged) - (20%-45%), ii)Equities, equity related instruments and derivatives including index futures, stock futures, index options, & stock options, etc.as part of hedged / arbitrage exposure - (20%-60%), Debt & Money Market Instruments - (20%-35%), Units issued by REITs &InvITs (0%-10%)",
+    "benchmark": "NIFTY Equity Savings Index",
+    "fund_managers": "Mr. Mayank Hyanki, Mr. Devang Shah, Mr. Hardik Shah, Ms. Krishnaa N",
+    "annual_expense": {
+      "Regular": "2.28",
+      "Direct": "1.07"
+    },
+    "exit_load": "If redeemed/switched out within 1 months from the date of allotment: For 10% of investment : Nil FIFO basis, For remaininginvestment : 1% w.e.f., 29/10/2021",
+    "amfi_codes": [
+      "135120",
+      "135121",
+      "135124",
+      "139520",
+      "135122",
+      "135123",
+      "135125",
+      "139521"
+    ],
+    "isins": [
+      "INF846K01VJ3",
+      "INF846K01VK1",
+      "INF846K01VM7",
+      "INF846K01XP6",
+      "INF846K01VO3",
+      "INF846K01VP0",
+      "INF846K01VR6",
+      "INF846K01XR2",
+      "INF846K01VL9",
+      "INF846K01VN5",
+      "INF846K01XQ4",
+      "INF846K01VQ8",
+      "INF846K01VS4",
+      "INF846K01XS0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Regular IDCW",
+    "Direct Growth",
+    "Direct Monthly IDCW",
+    "Direct Quarterly IDCW",
+    "Regular Monthly IDCW",
+    "Regular Growth",
+    "Regular Quarterly IDCW",
+    "Regular Regular IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:20:35.237664+00:00"
+}

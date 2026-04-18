@@ -1,0 +1,56 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty EV & New Age Automotive ETF FOF",
+  "source_file": "SUMMARY_ICICI Prudential Nifty EV & New Age Automotive ETF FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty EV & New Age Automotive ETF FOF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Growth",
+      "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - IDCW",
+      "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - IDCW Payout",
+      "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Direct Plan - Growth",
+      "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Direct Plan - IDCW",
+      "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Direct Plan - IDCW Payout"
+    ],
+    "isins": [
+      "INF109K1A096",
+      "INF109K1A104",
+      "INF109K1A112",
+      "INF109K1A120",
+      "INF109K1A138",
+      "INF109K1A146"
+    ],
+    "amfi_codes": [
+      "153396",
+      "153393",
+      "null",
+      "153394",
+      "153395",
+      "null"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "ICICI Prudential Nifty EV & New Age Automotive ETF FOF is a Fund of Funds scheme with the primary objective to generate returns by investing in units of ICICI Prudential Nifty EV & New Age Automotive ETF. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Units of ICICI Prudential Nifty EV & New Age Automotive ETF (Underlying Scheme) = 95%-100% \n• Money Market Instruments (with maturity not exceeding 91 days), including Tri-Party Repo#*= 0%-5%\n#Excluding subscription money in transit before deployment / payout.\n*or similar instruments as may be permitted by RBI/ SEBI, subject to requisite approvals from SEBI / RBI, if needed.",
+    "benchmark": "Nifty EV & New Age Automotive TRI",
+    "fund_managers": [
+      "Nishit Patel",
+      "Venus Ahuja",
+      "Ashwini Bharucha"
+    ],
+    "annual_expense": {
+      "Regular": "0.60",
+      "Direct": "0.10"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Growth",
+    "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - IDCW",
+    "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - IDCW Payout",
+    "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Direct Plan - Growth",
+    "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Direct Plan - IDCW",
+    "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Direct Plan - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T04:11:53.347442+00:00"
+}

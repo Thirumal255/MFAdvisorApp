@@ -1,0 +1,34 @@
+{
+  "parent_scheme_name": "Edelweiss Nifty 1D Rate Liquid ETF",
+  "source_file": "SUMMARY_Edelweiss Nifty 1D Rate Liquid ETF - Growth.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss Nifty 1D Rate Liquid ETF",
+    "fund_type": "ETF",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Low Risk",
+    "investment_objective": "The investment objective of the scheme is to generate returns, before expenses, that are in line with the performance of the Nifty 1D Rate Index, subject to tracking errors.",
+    "asset_allocation": "1. Instruments replicating Nifty 1D Rate Index - 95 -100%\n2. Money Market Instruments#, cash and cash equivalent and/or units of Liquid scheme - 0 - 5%",
+    "benchmark": "Nifty 1D Rate Index",
+    "fund_managers": [
+      "Mr. Hetul Raval",
+      "Ms. Pranavi Kulkarni"
+    ],
+    "annual_expense": {
+      "Direct": "0.06"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "153920"
+    ],
+    "isins": [
+      "INF754K01VW2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T03:25:45.616415+00:00"
+}

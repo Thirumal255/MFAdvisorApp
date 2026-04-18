@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "DSP BSE Sensex Next 30 Index Fund",
+  "source_file": "SUMMARY_DSP BSE SENSEX Next 30 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP BSE Sensex Next 30 Index Fund",
+    "fund_type": "An open ended scheme replicating/ tracking BSE SENSEX Next 30 Index",
+    "fund_options": [
+      "Regular - Growth",
+      "Regular - IDCW",
+      "Regular - IDCW Reinvest",
+      "Direct - Growth",
+      "Direct - IDCW",
+      "Direct - IDCW Reinvest"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate returns that are commensurate with the performance of the BSESENSEX Next 30 Index, subject to tracking error. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "A. Equity and Equity Related Securities of companies constituting BSE SENSEX Next 30 Index, the Underlying Index : 95% -100%, B. Cash and Cash Equivalents : 0% - 5%. For detailed asset allocation, please refer to the Scheme Information Document",
+    "benchmark": "BSE Sensex Next 30 TRI",
+    "fund_managers": "Mr. Anil Ghelani, Mr. Diipesh Shah",
+    "annual_expense": {
+      "Regular": "0.89",
+      "Direct": "0.24"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153216",
+      "153217",
+      "153217",
+      "153219",
+      "153218",
+      "153218"
+    ],
+    "isins": [
+      "INF740KA1UY5",
+      "INF740KA1UZ2",
+      "INF740KA1VA3",
+      "INF740KA1VB1",
+      "INF740KA1VC9",
+      "INF740KA1VD7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Regular - IDCW",
+    "Regular - IDCW Reinvest",
+    "Direct - Growth",
+    "Direct - IDCW",
+    "Direct - IDCW Reinvest"
+  ],
+  "extracted_at": "2026-04-18T03:09:56.621326+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Mirae Asset Nifty LargeMidcap 250 Index Fund",
+  "source_file": "SUMMARY_Mirae Asset Nifty LargeMidcap 250 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Nifty LargeMidcap 250 Index Fund",
+    "fund_type": "An open-ended scheme replicating / tracking Nifty LargeMidcap 250 Total Return Index",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular PlanIDCW - Payout",
+      "RegularPlanIDCW - Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate returns, before expenses, that are commensurate with theperformance of Nifty LargeMidcap 250 Total Return Index, subject to tracking error. There is no assurance or guarantee thatthe investment objective of the scheme would be achieved.",
+    "asset_allocation": "Equity Securities covered by Nifty LargeMidcap 250 Total Return Index - 95 - 100% ; Money market instruments / debtsecurities, Instruments and/or units of debt/liquid schemes of domestic Mutual Funds - 0-5%",
+    "benchmark": "Nifty LargeMidcap 250 Total Return Index",
+    "fund_managers": "Ms. Ekta Gala (Primary) & Mr. Ritesh Patel (Primary)",
+    "annual_expense": {
+      "Regular": "0.88",
+      "Direct": "0.29"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "152976",
+      "152977",
+      "152978",
+      "152979"
+    ],
+    "isins": [
+      "INF769K01MG2",
+      "INF769K01MH0",
+      "INF769K01MI8",
+      "INF769K01MJ6",
+      "INF769K01MK4",
+      "INF769K01ML2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular PlanIDCW - Payout",
+    "RegularPlanIDCW - Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T05:00:55.847524+00:00"
+}

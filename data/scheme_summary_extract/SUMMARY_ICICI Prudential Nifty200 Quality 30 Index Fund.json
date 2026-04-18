@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty200 Quality 30 Index Fund",
+  "source_file": "SUMMARY_ICICI Prudential Nifty200 Quality 30 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty200 Quality 30 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Nifty200 Quality 30 Index Fund- Growth"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The objective of the Scheme is to invest in companies whose securities are • Equity and Equity related securities of companies constituting the underlying index (Nifty200 Quality 30 Index) = 95%-100% • Money Market instruments including TREPs* and Units of debt schemes# = 0%-5%",
+    "asset_allocation": "Equity and Equity related securities of companies constituting the underlying index (Nifty200 Quality 30 Index) = 95%-100%, Money Market instruments including TREPs* and Units of debt schemes# = 0%-5%",
+    "benchmark": "Nifty200 Quality 30 TRI",
+    "fund_managers": [
+      "Mr. Nishit Patel",
+      "Ms. Ashwini Bharucha",
+      "Mr. Venus Ahuja"
+    ],
+    "annual_expense": {
+      "Regular": "0.83",
+      "Direct": "0.35"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "3567"
+    ],
+    "isins": [
+      "INF109K1A229"
+    ]
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Nifty200 Quality 30 Index Fund- Growth"
+  ],
+  "extracted_at": "2026-04-18T04:14:45.082182+00:00"
+}

@@ -1,0 +1,64 @@
+{
+  "parent_scheme_name": "Bank of India Manufacturing & Infrastructure Fund",
+  "source_file": "SUMMARY_BANK OF INDIA MANUFACTURING & INFRASTRUCTURE FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bank of India Manufacturing & Infrastructure Fund",
+    "fund_type": "An open ended equity scheme investing in manufacturing and infrastructure sectors",
+    "fund_options": [
+      "Direct Regular IDCW Reinvestment",
+      "Direct Regular IDCW Payout",
+      "Direct Growth Growth",
+      "Direct Quarterly IDCW Reinvestment",
+      "Direct Quarterly IDCW Payout",
+      "Regular - IDCW Reinvestment",
+      "Regular - IDCW Payout",
+      "Regular - Growth Growth",
+      "Regular - Quarterly IDCW Reinvestment",
+      "Regular - Quarterly IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme seeks to generate long term capital appreciation through a portfolio of predominantly equity and equity related securities of companies engaged in manufacturing and infrastructure related sectors. Further, there can be no assurance that the investment objectives of the scheme will be realized. The Scheme is not providing any assured or guaranteed returns.",
+    "asset_allocation": "Equity and equity related securities of companies engaged in manufacturing and infrastructure and related sectors-80% to 100%-High Debt & money market securities/ instruments-0 to 20%-Low to Medium",
+    "benchmark": "BSE India Manufacturing Total Return Index (TRI) - 50% & BSE India Infrastructure Total Return Index (TRI) - 50%",
+    "fund_managers": "Mr. Nitin Gosar (w.e.f September 27, 2022)",
+    "annual_expense": {
+      "Regular": "2.32",
+      "Direct": "0.71"
+    },
+    "exit_load": "For redemption/switch out upto 10% of the initial units allotted - within 1 year from the date of allotment: “NIL”. • Any redemption/switch out - in excess of the above mentioned limit would be subject to an exit load of 1%, if the units are redeemed/switched out within 1 year from the date of allotment of units. • If the units are redeemed/switched out after 1 year from the date of allotment of units : “Nil”",
+    "amfi_codes": [
+      "FIRG-112359",
+      "FIRQ-112360",
+      "FIRD-112361",
+      "FIDD-119363",
+      "FIDG-119364",
+      "FIDQ-119365"
+    ],
+    "isins": [
+      "INF761K01686",
+      "INF761K01694",
+      "INF761K01702",
+      "INF761K01710",
+      "INF761K01728",
+      "INF761K01207",
+      "INF761K01215",
+      "INF761K01199",
+      "INF761K01223",
+      "INF761K01231"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Regular IDCW Reinvestment",
+    "Direct Regular IDCW Payout",
+    "Direct Growth Growth",
+    "Direct Quarterly IDCW Reinvestment",
+    "Direct Quarterly IDCW Payout",
+    "Regular - IDCW Reinvestment",
+    "Regular - IDCW Payout",
+    "Regular - Growth Growth",
+    "Regular - Quarterly IDCW Reinvestment",
+    "Regular - Quarterly IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T02:54:59.732931+00:00"
+}

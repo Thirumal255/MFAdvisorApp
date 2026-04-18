@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "PGIM India Midcap Fund",
+  "source_file": "SUMMARY_PGIM India Midcap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "PGIM India Midcap Fund",
+    "fund_type": "Mid Cap Fund- An open ended equity scheme predominantly investing in mid cap stocks",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary objective of the Scheme is to achieve long-term capital appreciation by predominantly investing in equity &equity related instruments of mid cap companies. However, there is no assurance that the investment objective will beachieved. The Scheme does not guarantee/ indicate any returns.",
+    "asset_allocation": "Equity & Equity Related Instruments of Mid Cap Companies- Min 65% and Max 100% Equity & Equity Related Instruments ofother companies- Min 0% and Max 35% Cash, Money Market, Debt Securities#, Liquid & Debt schemes of Mutual Fund- Min0% and Max 35%",
+    "benchmark": "NIFTY Midcap 150 TRI",
+    "fund_managers": "Mr. Vivek Sharma, Mr. Utsav Mehta, Mr. Vinay Paharia and Mr. Puneet Pal",
+    "annual_expense": {
+      "Regular": "1.70",
+      "Direct": "0.47"
+    },
+    "exit_load": "For Exits within 90 days from date of allotment of units: 0.50%; For Exits beyond 90 days from date of allotment of units:NIL.",
+    "amfi_codes": [
+      "125301",
+      "125305",
+      "125306",
+      "125307"
+    ],
+    "isins": [
+      "INF663L01DW1",
+      "INF663L01DX9",
+      "INF663L01EA5",
+      "INF663L01EB3",
+      "INF663L01DV3",
+      "INF663L01DZ4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T05:25:41.748461+00:00"
+}

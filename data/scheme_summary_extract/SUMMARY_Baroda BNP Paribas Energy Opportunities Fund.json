@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Baroda BNP Paribas Energy Opportunities Fund",
+  "source_file": "SUMMARY_Baroda BNP Paribas Energy Opportunities Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Baroda BNP Paribas Energy Opportunities Fund",
+    "fund_type": "An open-ended equity scheme predominantly investing in Energy companies",
+    "fund_options": [
+      "Direct Plan - Growth Option",
+      "Direct Plan - IDCW Payout Option",
+      "Direct Plan - IDCW Option Dividend Reinvestment",
+      "Regular Plan - Growth Option",
+      "Regular Plan - IDCW Payout Option",
+      "Regular Plan - IDCW Option - Dividend Reinvestment Option"
+    ],
+    "isins": [
+      "INF251K01UJ8",
+      "INF251K01UK6",
+      "INF251K01UL4",
+      "INF251K01UG4",
+      "INF251K01UH2",
+      "INF251K01UI0"
+    ],
+    "amfi_codes": [
+      "153225",
+      "153227",
+      "153227",
+      "153226",
+      "153224",
+      "153224"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective is to provide investors with opportunities for long term capital appreciation by investing in equity and equity related instruments of companies engaging in activities such as exploration, production, distribution, transportation and processing of traditional & new energy including but not limited to industries /sectors such as oil & gas, utilities and power.",
+    "asset_allocation": "Equity and equity related^ instruments of companies in the Energy and allied sectors: 80 to 100%; Equity and equity related instruments of companies other than those in the Energy and allied sectors: 0 to 20% Debt / Money Market: 0 to 20%; Units of Mutual Funds (Domestic Schemes): 0 to 10%; Units issued by REITs & InvITs: 0 to 10%",
+    "benchmark": "Nifty Energy TRI",
+    "fund_managers": "Mr. Sanjay Chawla (Primary Fund Manager) and Mr.Kirtan Mehta (Primary Fund Manager)",
+    "annual_expense": {
+      "Regular": "2.36",
+      "Direct": "1.01"
+    },
+    "exit_load": "If units of the Scheme are redeemed or switched out up to 10% of the units (the limit) within 1 year from the date of allotment - Nil. • If units of the scheme are redeemed or switched out in excess of the limit within 1 year from the date of allotment - 1% of the applicable NAV. • If units of scheme are redeemed or switched out after 1 year from the date of allotment - Nil."
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth Option",
+    "Direct Plan - IDCW Payout Option",
+    "Direct Plan - IDCW Option Dividend Reinvestment",
+    "Regular Plan - Growth Option",
+    "Regular Plan - IDCW Payout Option",
+    "Regular Plan - IDCW Option - Dividend Reinvestment Option"
+  ],
+  "extracted_at": "2026-04-18T02:58:37.659044+00:00"
+}

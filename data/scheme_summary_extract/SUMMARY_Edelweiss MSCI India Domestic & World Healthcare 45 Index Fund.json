@@ -1,0 +1,71 @@
+{
+  "parent_scheme_name": "Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund",
+  "source_file": "SUMMARY_Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund",
+    "fund_type": "Index Fund",
+    "fund_options": [
+      "Direct Plan - Growth - Growth",
+      "Direct Plan - IDCW Option - Payout",
+      "Direct Plan - IDCW Option - Reinvestment",
+      "Direct Plan - IDCW Option - Transfer",
+      "Regular Plan - Growth - Growth",
+      "Regular Plan - IDCW Option - Payout",
+      "Regular Plan - IDCW Option - Reinvestment",
+      "Regular Plan - IDCW Option - Transfer"
+    ],
+    "isins": [
+      "INF754K01LV5",
+      "INF754K01LW3",
+      "INF754K01LX1",
+      "INF754K01LY9",
+      "INF754K01LR3",
+      "INF754K01LS1",
+      "INF754K01LT9",
+      "INF754K01LU7"
+    ],
+    "amfi_codes": [
+      "148555",
+      "148556",
+      "148556",
+      "148556",
+      "148557",
+      "148558",
+      "148558",
+      "148558"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The Scheme will invest in stocks comprising of the MSCI India Domestic IMI and World Healthcare Select Index with the objective to provide investment returns that, before expenses, closely corresponds to the returns equivalent to the index, subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "1. Stocks comprising the MSCI India Domestic IMI and World Healthcare Select Index - 95-100%\n2. Debt and Money Market Instruments/ units of Liquid Mutual Fund - 0-5%",
+    "benchmark": "MSCI India Domestic & World Healthcare 45 Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Bhavesh Jain",
+        "type": "Co-Manage",
+        "from_date": "01/Oct/2021"
+      },
+      {
+        "name": "Mr. Amit Vora (for investments in foreign securities)",
+        "type": "Co-Manage",
+        "from_date": "26/Oct/2020"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1.05",
+      "Direct": "0.46"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth - Growth",
+    "Direct Plan - IDCW Option - Payout",
+    "Direct Plan - IDCW Option - Reinvestment",
+    "Direct Plan - IDCW Option - Transfer",
+    "Regular Plan - Growth - Growth",
+    "Regular Plan - IDCW Option - Payout",
+    "Regular Plan - IDCW Option - Reinvestment",
+    "Regular Plan - IDCW Option - Transfer"
+  ],
+  "extracted_at": "2026-04-18T03:24:51.897140+00:00"
+}

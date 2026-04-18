@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Kotak Aggressive Hybrid Fund",
+  "source_file": "SUMMARY_Kotak Aggressive Hybrid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Aggressive Hybrid Fund",
+    "fund_type": "An open-ended hybrid scheme investing predominantly in equity and equity related instruments",
+    "fund_options": [
+      "Kotak Aggressive Hybrid Fund- Direct Plan-G",
+      "Kotak Aggressive Hybrid Fund- Direct Plan-IDCW Payout",
+      "Kotak Aggressive Hybrid Fund- Direct Plan-IDCW Re-investment",
+      "Kotak Aggressive Hybrid Fund -Regular Plan-Growth",
+      "Kotak Aggressive Hybrid Fund - Regular Plan-IDCW Payout",
+      "Kotak Aggressive Hybrid Fund - Regular Plan-IDCW Re-investment"
+    ],
+    "isins": [
+      "INF174K01F00",
+      "INF174K01LL7",
+      "INF174K01LM5",
+      "INF174K01E92",
+      "INF174K01450",
+      "INF174K01443"
+    ],
+    "amfi_codes": [
+      "133035",
+      "119767",
+      "119767",
+      "133036",
+      "100286",
+      "100286"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to achieve growth by investing in equity and equity related instruments, balanced with income generation by investing in debt and money market instruments. However, there is no assurance that the objective of the scheme will be realized.",
+    "asset_allocation": "Equity and Equity related instruments - 65% - 80% (Medium to High) Debt and Money Market instruments - 20% - 35% (Low to medium) Units issued by InvITs - 0-10% (Medium to High)",
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 65:35 Index TRI",
+    "fund_managers": "FM 1 Mr. Atul Bhole, FM 2 Mr. Abhishek Bisen",
+    "annual_expense": {
+      "Regular": "1.73",
+      "Direct": "0.47"
+    },
+    "exit_load": "For redemptions / switch outs of upto 8% of the initial investment amount (limit) purchased or switched in within 1 year from the date of allotment : Nil If units redeemed or switched out are in excess of the limit within 1 year from the date of allotment: 1% If units are redeemed or switched out on or after 1 year from the date of allotment : Nil Units issued on reinvestment of IDCW shall not be subject to entry and exit load."
+  },
+  "fund_options_inferred": [
+    "Kotak Aggressive Hybrid Fund- Direct Plan-G",
+    "Kotak Aggressive Hybrid Fund- Direct Plan-IDCW Payout",
+    "Kotak Aggressive Hybrid Fund- Direct Plan-IDCW Re-investment",
+    "Kotak Aggressive Hybrid Fund -Regular Plan-Growth",
+    "Kotak Aggressive Hybrid Fund - Regular Plan-IDCW Payout",
+    "Kotak Aggressive Hybrid Fund - Regular Plan-IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-18T04:31:49.705250+00:00"
+}

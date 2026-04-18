@@ -1,0 +1,42 @@
+{
+  "parent_scheme_name": "Taurus Mid cap Fund",
+  "source_file": "SUMMARY_Taurus Mid Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Taurus Mid cap Fund",
+    "fund_type": "Equity",
+    "fund_options": [
+      "Regular",
+      "Direct"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The prime objective of the scheme is to achieve long term capital appreciation by investing in a portfolio consisting of equity and equity related securities predominantly of mid cap companies.",
+    "asset_allocation": "Equity & Equity related securities-Midcap companies: 65-100%; Equity & Equity related securities-Other companies: 0-35%; Debt, Cash  & Money Market securities: 0-20%",
+    "benchmark": "Nifty Midcap 150 TRI",
+    "fund_managers": [
+      "Mr. Anuj Kapil",
+      "Mr. Hemanshu Srivastava"
+    ],
+    "annual_expense": {
+      "Regular": "2.55",
+      "Direct": "2.07"
+    },
+    "exit_load": "1% if exited on or before 365 days. Nil, if exited after 365 days.",
+    "amfi_codes": [
+      "TDF"
+    ],
+    "isins": [
+      "INF044D01CB7",
+      "INF044D01CC5",
+      "INF044D01CA9",
+      "INF044D01781",
+      "INF044D01799",
+      "INF044D01815"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular",
+    "Direct"
+  ],
+  "extracted_at": "2026-04-18T05:58:02.605567+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Nippon India Retirement Fund- Income Generation Scheme",
+  "source_file": "SUMMARY_Nippon India Retirement Fund- Income Generation Scheme.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India Retirement Fund- Income Generation Scheme",
+    "fund_type": "Solution Oriented: Retirement Fund",
+    "fund_options": [
+      "Direct Bonus Planbonus",
+      "Direct IDCW Plan Payout",
+      "Direct Growthgrowth",
+      "Bonus Planbonus",
+      "IDCW Plan Payout",
+      "Growth Plan Growth"
+    ],
+    "isins": [
+      "INF204KA1C55",
+      "INF204KA1C71",
+      "INF204KA1C30",
+      "INF204KA1C48",
+      "INF204KA1C63",
+      "INF204KA1C22"
+    ],
+    "amfi_codes": [
+      "133629",
+      "133570",
+      "133569",
+      "133628",
+      "133571",
+      "133572"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The investment objective of the scheme is to provide capital appreciation to the investors, which will be in line with their longterm savings goal, by investing in a diversiﬁed portfolio of equity & equity related instruments with small exposure to ﬁxedincome securities. Although, the objective of the Fund is to generate optimal returns, the objective may or may not beachieved.",
+    "asset_allocation": "Diversiﬁed Equities and equity related securities -5-30% Debt and Money market securities -70-95%",
+    "benchmark": "CRISIL Hybrid 85+15 - Conservative Index",
+    "fund_managers": "FM 1 Pranay Sinha, FM 2 Ritesh Rathod",
+    "annual_expense": {
+      "Regular": "2.08",
+      "Direct": "0.98"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Bonus Planbonus",
+    "Direct IDCW Plan Payout",
+    "Direct Growthgrowth",
+    "Bonus Planbonus",
+    "IDCW Plan Payout",
+    "Growth Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T05:21:06.278010+00:00"
+}

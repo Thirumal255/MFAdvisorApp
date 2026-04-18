@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "Axis Aggressive Hybrid Fund",
+  "source_file": "SUMMARY_Axis Aggressive Hybrid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Aggressive Hybrid Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Regular IDCW",
+      "Direct Growth",
+      "Direct Monthly IDCW",
+      "Regular Monthly IDCW",
+      "Direct Quarterly IDCW",
+      "Regular Growth",
+      "Regular Quarterly IDCW",
+      "Regular",
+      "Regular IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long term capital appreciation along with current income by investing in a mix of Equity and Equity relatedInstruments, debt Instruments and money market instruments. However, there is no assurance or guarantee that theinvestment objective of the Scheme will be achieved. The Scheme does not assure or guarantee any returns",
+    "asset_allocation": "Equity and Equity related securities - (65%-80%), Debt & Money Market Instruments - (20%-35%), Units issued by REITs &InvITs (0%-10%)",
+    "benchmark": "CRISIL Hybrid 35+65 - Aggressive Index",
+    "fund_managers": "Mr. Jayesh Sundar, Mr. Devang Shah, Mr. Aditya Pagaria, Ms. Krishnaa N",
+    "annual_expense": {
+      "Regular": "2.16",
+      "Direct": "1.07"
+    },
+    "exit_load": "If redeemed/switched out on or before 12 months from the date of allotment: For 10% of investment: Nil on FIFO basis.Forremaining investment: 1% w.e.f., 09/08/2018",
+    "amfi_codes": [
+      "144394",
+      "144397",
+      "144398",
+      "144395",
+      "144393",
+      "144399",
+      "144400",
+      "144396"
+    ],
+    "isins": [
+      "INF846K01E25",
+      "INF846K01E33",
+      "INF846K01E58",
+      "INF846K01E09",
+      "INF846K01E90",
+      "INF846K01F08",
+      "INF846K01F24",
+      "INF846K01E74",
+      "INF846K01E41",
+      "INF846K01E66",
+      "INF846K01E17",
+      "INF846K01F16",
+      "INF846K01F32",
+      "INF846K01E82"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Regular IDCW",
+    "Direct Growth",
+    "Direct Monthly IDCW",
+    "Regular Monthly IDCW",
+    "Direct Quarterly IDCW",
+    "Regular Growth",
+    "Regular Quarterly IDCW",
+    "Regular",
+    "Regular IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:18:43.252879+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE CRISIL-IBX AAA FINANCIAL SERVICES INDEX – SEP 2027 FUND",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Crisil-IBX AAA Financial Services Index-Sep 2027 Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE CRISIL-IBX AAA FINANCIAL SERVICES INDEX – SEP 2027 FUND",
+    "fund_type": "An open ended Target Maturity Index Fund tracking the CRISIL-IBX AAA Financial Services Index – Sep 2027. A relatively moderate interest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "Direct Growth",
+      "Direct IDCW Payout",
+      "Regular IDCW Payout",
+      "Regular Growth"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to generate returns corresponding to the total returns of the securities as represented by the CRISIL-IBX AAA Financial Services Index – Sep 2027 before expenses, subject to tracking errors. The Scheme does not guarantee/indicate any returns. There is no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Instruments forming part of the CRISIL-IBX AAA Financial Services Index – Sep 2027- 95% to 100%    Debt and Money Market Instruments (including Cash and Cash Equivalent) - 0% to 5%",
+    "benchmark": "CRISIL-IBX AAA Financial Services Index – Sep 2027",
+    "fund_managers": [
+      "Mr. Harshil Survankar",
+      "Mr. Vighnesh Gupta"
+    ],
+    "annual_expense": {
+      "Regular": "0.44",
+      "Direct": "0.14"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "153030",
+      "153031",
+      "153032",
+      "153033"
+    ],
+    "isins": [
+      "INF209KC1290",
+      "INF209KC1308",
+      "INF209KC1324",
+      "INF209KC1316"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Direct IDCW Payout",
+    "Regular IDCW Payout",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T02:10:09.554894+00:00"
+}

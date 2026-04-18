@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Franklin India Retirement Fund",
+  "source_file": "SUMMARY_Franklin India Retirement Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Franklin India Retirement Fund",
+    "fund_type": "An open ended retirement solution oriented scheme having a lock-in of 5 years or till retirement age (whichever is earlier)",
+    "fund_options": [
+      "Regular - Growth",
+      "Direct - IDCW Reinv.",
+      "Regular - IDCW Payout",
+      "Direct - Growth",
+      "Regular - IDCW Reinv.",
+      "Direct - IDCW Payout"
+    ],
+    "riskometer": "High",
+    "investment_objective": "The Fund seeks to provide investors regular income under the Income Distribution cum capital withdrawal Plan and capitalappreciation under the Growth Plan.",
+    "asset_allocation": "Equities, preference shares and equity related instruments: Up to 40% Debentures (Investment grade, privately placed etc.),Bonds issued by Public Sector Units and Money Market Instruments: Up to 100%",
+    "benchmark": "CRISIL Short Term Debt Hybrid 60+40 Index",
+    "fund_managers": "Debt: Anuj Tagra & Pallab Roy; Equity: Rajasa Kakulavarapu & Ajay Argal",
+    "annual_expense": {
+      "Regular": "2.27",
+      "Direct": "1.49"
+    },
+    "exit_load": "3% if redeemed before the age of 58 years; Nil if redeemed after the age of 58 years.",
+    "amfi_codes": [
+      "100536",
+      "118549",
+      "100535",
+      "118548",
+      "100536",
+      "118549"
+    ],
+    "isins": [
+      "INF090I01510",
+      "INF090I01KB2",
+      "INF090I01528",
+      "INF090I01JZ3",
+      "INF090I01536",
+      "INF090I01KA4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Direct - IDCW Reinv.",
+    "Regular - IDCW Payout",
+    "Direct - Growth",
+    "Regular - IDCW Reinv.",
+    "Direct - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T03:34:21.804662+00:00"
+}

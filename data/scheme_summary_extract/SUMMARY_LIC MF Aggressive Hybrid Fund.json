@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "LIC MF Aggressive Hybrid Fund",
+  "source_file": "SUMMARY_LIC MF Aggressive Hybrid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "LIC MF Aggressive Hybrid Fund",
+    "fund_type": "An open ended hybrid scheme investing predominantly in equity and equity related instruments.",
+    "fund_options": [
+      "Regular Plan-IDCW payout",
+      "Regular Plan-IDCW Reinv",
+      "Regular Plan-Growth",
+      "Direct Plan-IDCW payout",
+      "Direct Plan-IDCW Reinv",
+      "Direct Plan-Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "An open ended balanced scheme which seeks to provide regular returns and capital appreciation according to the selection of plan by investing in equities and debt. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme would be as follows: Equity / Equity Related Instruments* :65-80% of the Total Assets, Debt / Money market* (Wherein Debt includes securitized debt & government securities): 20-35% of the Total Assets, Units issued by InviT* :0-10% of the Total Assets. * The Cumulative Gross Exposure to Equity, Debt, Money Market, Derivatives, InvITs and repo in corporate debt securities will not exceed 100% of the Net Assets of the Scheme. Please refer the Scheme Information Document for complete details.",
+    "benchmark": "Crisil Hybrid 35 + 65 - Aggressive Index",
+    "fund_managers": "FM -1-Mr. Karan Doshi, FM -2-Mr. Sumit Bhatnagar, FM -3-Mr. Pratik Harish Shroff",
+    "annual_expense": {
+      "Regular": "2.48",
+      "Direct": "1.41"
+    },
+    "exit_load": "12% of the units allotted shall be redeemed or switched out without any exit load, on or before completion of 3 months from the date of allotment of units. , 1% on remaining units if redeemed or switched out on or before completion of 3 months from the date of allotment of units. , Nil, if redeemed or switched out after completion of 3 months from the date of allotment of units.",
+    "amfi_codes": [
+      "100321",
+      "100321",
+      "100323",
+      "120260",
+      "120260",
+      "120261"
+    ],
+    "isins": [
+      "INF767K01022",
+      "INF767K01014",
+      "INF767K01030",
+      "INF767K01EC2",
+      "INF767K01EE8",
+      "INF767K01ED0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-IDCW payout",
+    "Regular Plan-IDCW Reinv",
+    "Regular Plan-Growth",
+    "Direct Plan-IDCW payout",
+    "Direct Plan-IDCW Reinv",
+    "Direct Plan-Growth"
+  ],
+  "extracted_at": "2026-04-18T04:42:59.760156+00:00"
+}

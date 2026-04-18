@@ -1,0 +1,35 @@
+{
+  "parent_scheme_name": "Aditya Birla Sun Life CRISIL Broad Based Gilt ETF",
+  "source_file": "SUMMARY_ADITYA BIRLA SUN LIFE CRISIL BROAD BASED GILT ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Aditya Birla Sun Life CRISIL Broad Based Gilt ETF",
+    "fund_type": "An open ended Debt Exchange Traded Fund tracking the CRISIL Broad Based Gilt Index. A relatively high interest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the Scheme is to generate returns corresponding to the total returns of the securities as represented by the CRISIL Broad Based Gilt Index before expenses, subject to tracking errors. The Scheme does not guarantee/indicate any returns. There is no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Instruments forming part of the CRISIL Broad Based Gilt Index  - 95 to 100% T-Bills, cash and cash equivalent - 0 to 5%",
+    "benchmark": "CRISIL Broad Based Gilt Index",
+    "fund_managers": [
+      "Mr. Kaustubh Gupta",
+      "Mr. Harshil Suvarnkar",
+      "Mr. Vighnesh Gupta"
+    ],
+    "annual_expense": {
+      "Direct": "0.19"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "152732"
+    ],
+    "isins": [
+      "INF209KC1134"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T02:08:28.455246+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "ICICI Prudential Gilt Fund",
+  "source_file": "SUMMARY_ICICI Prudential Gilt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Gilt Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Gilt Fund - Direct Plan - Growth",
+      "ICICI Prudential Gilt Fund - Direct Plan - IDCW",
+      "ICICI Prudential Gilt Fund - Growth",
+      "ICICI Prudential Gilt Fund - IDCW"
+    ],
+    "isins": [
+      "INF109K018C5",
+      "INF109K016C9",
+      "INF109K017C7",
+      "INF109K01JR4",
+      "INF109K01JQ6",
+      "INF109K01JP8"
+    ],
+    "amfi_codes": [
+      "120590",
+      "120589",
+      "100369",
+      "100368"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate income primarily through investment in Gilts of various maturities. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Government Securities across maturity = 80%-100% \n• Other Debt Securities and Money Market Instruments = 0%-20%\nThe Scheme may also take exposure to:\n• Securitized debt up to 20% of the net assets in other debt and money market instruments\n• Derivatives up to 100% of the net assets",
+    "benchmark": "NIFTY All Duration G-Sec Index",
+    "fund_managers": [
+      "Manish Banthia",
+      "Raunak Surana"
+    ],
+    "annual_expense": {
+      "Regular": "1.09",
+      "Direct": "0.56"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Gilt Fund - Direct Plan - Growth",
+    "ICICI Prudential Gilt Fund - Direct Plan - IDCW",
+    "ICICI Prudential Gilt Fund - Growth",
+    "ICICI Prudential Gilt Fund - IDCW"
+  ],
+  "extracted_at": "2026-04-18T04:06:15.230625+00:00"
+}

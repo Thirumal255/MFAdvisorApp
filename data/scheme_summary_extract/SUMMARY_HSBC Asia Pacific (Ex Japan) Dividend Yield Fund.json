@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "HSBC Asia Paciﬁc (Ex Japan) Dividend Yield Fund",
+  "source_file": "SUMMARY_HSBC Asia Pacific (Ex Japan) Dividend Yield Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Asia Paciﬁc (Ex Japan) Dividend Yield Fund",
+    "fund_type": "An Open Ended Fund of Funds Scheme investing in HSBC Global Investments Fund -(HGIF) Asia Paciﬁc Ex Japan Equity HighDividend Fund.",
+    "fund_options": [
+      "Asia Paciﬁc Div Yield Growth",
+      "Asia Paciﬁc Div Yield Dir.Growth",
+      "Asia Paciﬁc Div Yield Dir.IDCW Pay",
+      "Asia Paciﬁc IDCW Yield IDCW Pay",
+      "Asia Paciﬁc Div Yield Dir.IDCW",
+      "Asia Paciﬁc Div Yield IDCW"
+    ],
+    "isins": [
+      "INF336L01HC7",
+      "INF336L01HF0",
+      "INF336L01HG8",
+      "INF336L01HD5",
+      "INF336L01HH6",
+      "INF336L01HE3"
+    ],
+    "amfi_codes": [
+      "127071"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide long term capital appreciation by investing predominantly in units of HSBC Global Investment Funds (HGIF) AsiaPaciﬁc Ex Japan Equity High Dividend Fund (HEHDF). The Scheme may also invest a certain proportion of its corpus in moneymarket instruments and / or units of liquid mutual fund schemes, in order to meet liquidity requirements from time to time.However, there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Units issued by HGIF Asia Paciﬁc Ex Japan Equity High Dividend Fund- 95%-100% (Medium to High) Money Market instruments(including TREPS & reverse repo in government securities) and units of domestic mutual funds-0%-5% (Low to Medium) Undernormal circumstances 95-100% of the AUM will be invested into, HGIF Asia Paciﬁc Ex Japan Equity High Dividend Fund. Thecumulative exposure through units of the Underlying scheme, money market instruments and units of domestic mutual fundsshall not exceed 100% of the net assets of the Scheme. The Scheme will not invest in derivatives, securitised debts or unratedinstruments. However, the Underlying scheme may have exposure to these securities and may also undertake short selling andsecurities lending.",
+    "benchmark": "MSCI AC Asia Paciﬁc ex Japan TRI",
+    "fund_managers": "Sonal Gupta",
+    "annual_expense": {
+      "Regular": "1.44",
+      "Direct": "1.06"
+    },
+    "exit_load": "Exit Load : i) In respect of each purchase /switch-in of Units, an Exit Load of 1% is payable if Units are redeemed / switched-outwithin 1 year from the date of allotment ii) No Exit Load will be charged, if Units are redeemed/switched-out after 1 year fromthe date of allotment. The exit loads set forth above is subject to change at the discretion of the AMC and such changes shall beimplemented prospectively. Entry / Exit load is not applicable for Segregated Portfolio"
+  },
+  "fund_options_inferred": [
+    "Asia Paciﬁc Div Yield Growth",
+    "Asia Paciﬁc Div Yield Dir.Growth",
+    "Asia Paciﬁc Div Yield Dir.IDCW Pay",
+    "Asia Paciﬁc IDCW Yield IDCW Pay",
+    "Asia Paciﬁc Div Yield Dir.IDCW",
+    "Asia Paciﬁc Div Yield IDCW"
+  ],
+  "extracted_at": "2026-04-18T03:52:48.303198+00:00"
+}

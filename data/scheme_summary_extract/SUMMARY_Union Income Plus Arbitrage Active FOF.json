@@ -1,0 +1,64 @@
+{
+  "parent_scheme_name": "Union Income Plus Arbitrage Active FOF",
+  "source_file": "SUMMARY_Union Income Plus Arbitrage Active FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Union Income Plus Arbitrage Active FOF",
+    "fund_type": "An open-ended FoF investing in units of Arbitrage and Debt Oriented Schemes.",
+    "fund_options": [
+      "Regular Plan - Growth Option",
+      "Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal Option",
+      "Regular Plan - Payout of Income Distribution cum Capital Withdrawal Option",
+      "Regular Plan - Transfer of Income Distribution cum Capital Withdrawal Option",
+      "Direct Plan - Growth Option",
+      "Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal Option",
+      "Direct Plan - Payout of Income Distribution cum Capital Withdrawal Option",
+      "Direct Plan - Transfer of Income Distribution cum Capital Withdrawal Option"
+    ],
+    "isins": [
+      "INF582M01LB8",
+      "INF582M01LD4",
+      "INF582M01LC6",
+      "INF582M01LE2",
+      "INF582M01LF9",
+      "INF582M01LH5",
+      "INF582M01LG7",
+      "INF582M01LI3"
+    ],
+    "amfi_codes": [
+      "153573",
+      "153574",
+      null,
+      null,
+      "153575",
+      "153576",
+      null,
+      null
+    ],
+    "riskometer": "Moderate Risk",
+    "investment_objective": "The objective of the Scheme is to provide income over medium to long term by investing in units of Arbitrage Fund and Debt Funds. However, there is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Units of Arbitrage Fund#: 35%-65%,Units of Debt & Money Market Funds#: 35%-65%,Money Market Instruments and Cash & Cash Equivalent: 0%-5%,#The Scheme will invest predominantly in the existing or prospective schemes of Union Mutual Fund / third party domestic mutual funds that invests in equity and equity related instruments, debt, money market instruments, etc. depending upon the asset allocation pattern, investment objective and risk proﬁle of the respective schemes. Please refer the Scheme Information Document for more details.",
+    "benchmark": "60% Nifty Composite Debt Index + 40% Nifty 50 Arbitrage Index TRI",
+    "fund_managers": [
+      "Mr. Vishal Thakker",
+      "Mr. Anindya Sarkar",
+      "Mr. Shrenuj Parekh"
+    ],
+    "annual_expense": {
+      "Regular": "0.43",
+      "Direct": "0.12"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth Option",
+    "Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal Option",
+    "Regular Plan - Payout of Income Distribution cum Capital Withdrawal Option",
+    "Regular Plan - Transfer of Income Distribution cum Capital Withdrawal Option",
+    "Direct Plan - Growth Option",
+    "Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal Option",
+    "Direct Plan - Payout of Income Distribution cum Capital Withdrawal Option",
+    "Direct Plan - Transfer of Income Distribution cum Capital Withdrawal Option"
+  ],
+  "extracted_at": "2026-04-18T06:02:35.981096+00:00"
+}

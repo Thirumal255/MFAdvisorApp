@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Bank of India Balanced Advantage Fund",
+  "source_file": "SUMMARY_BANK OF INDIA BALANCED ADVANTAGE FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bank of India Balanced Advantage Fund",
+    "fund_type": "An Open Ended Dynamic Asset Allocation Fund",
+    "fund_options": [
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Regular - IDCW Payout",
+      "Regular - IDCW Reinvestment",
+      "Regular Plan - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "Bank of India Balanced Advantage Fund aims at providing long term capital appreciation / income from a dynamic mix of equity and debt investments. There is no assurance that the investment objectives of the Scheme will be realized and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Equity & Equity related Instruments-0%-65%-Medium to High Debt & Money Market Instruments-0% - 35%-Low to Medium Units of REITs / INVITs-0% -10%-Medium to High",
+    "benchmark": "Nifty 50 Hybrid Composite Debt 50: 50 Index TRI",
+    "fund_managers": "Mr.Alok Singh",
+    "annual_expense": {
+      "Regular": "2.51",
+      "Direct": "1.35"
+    },
+    "exit_load": "• For redemption/switch out of initial units allotted within 3 months from the date of allotment : 1% Exit Load • Anyredemption/switch out from the date of allotment of units after 3 months: NIL",
+    "amfi_codes": [
+      "EDDD -127852",
+      "EDDg -127850",
+      "EDRD -127851",
+      "EDRG - 127849"
+    ],
+    "isins": [
+      "INF761K01BM0",
+      "INF761K01BN8",
+      "INF761K01BO6",
+      "INF761K01BP3",
+      "INF761K01BQ1",
+      "INF761K01BR9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Regular - IDCW Payout",
+    "Regular - IDCW Reinvestment",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T02:53:34.961546+00:00"
+}

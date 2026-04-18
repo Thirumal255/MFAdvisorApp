@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Tata Nifty MidSmall Healthcare Index Fund",
+  "source_file": "SUMMARY_Tata Nifty MidSmall Healthcare Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Nifty MidSmall Healthcare Index Fund",
+    "fund_type": "An open-ended scheme replicating/tracking Nifty MidSmall Healthcare Index (TRI).",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns, before expenses, that are in line with the performance of Nifty MidSmall Healthcare Index (TRI), subject to tracking error. However, there is no assurance or guarantee that the investment objective of the Scheme will be achieved. The scheme does not assure or guarantee any returns",
+    "asset_allocation": "Securities covered by Nifty MidSmall Healthcare Index (95-100),Debt & Money Market Instruments^ including units of Mutual Funds (0-5).",
+    "benchmark": "Nifty MidSmall Healthcare Index (TRI)",
+    "fund_managers": "1. Nitin Sharma, 2. Rakesh Prajapati",
+    "annual_expense": {
+      "Regular": "1.11",
+      "Direct": "0.50"
+    },
+    "exit_load": "0.25% of the applicable NAV, if redeemed on or before 15 days from the date of allotment.",
+    "amfi_codes": [
+      "152564",
+      "152565",
+      "152566",
+      "152567",
+      "152562",
+      "152563"
+    ],
+    "isins": [
+      "INF277KA1BG3",
+      "INF277KA1BH1",
+      "INF277KA1BI9",
+      "INF277KA1BD0",
+      "INF277KA1BE8",
+      "INF277KA1BF5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T05:55:43.264544+00:00"
+}

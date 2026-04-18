@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Baroda BNP Paribas Value Fund",
+  "source_file": "SUMMARY_Baroda BNP Paribas Value Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Baroda BNP Paribas Value Fund",
+    "fund_type": "An open ended equity scheme following a value investment strategy",
+    "fund_options": [
+      "REGULAR PLAN - GROWTH",
+      "REGULAR PLAN - IDCW Reinvestment",
+      "REGULAR PLAN - IDCW Payout",
+      "DIRECT PLAN - GROWTH",
+      "DIRECT PLAN - IDCW Reinvestment",
+      "DIRECT PLAN - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate long-term capital appreciation from a diversiﬁed portfolio ofpredominantly equity and equity related instruments by following a value investment strategy. However, there can be noassurance that the investment objectives of the Scheme will be realized. The Scheme does not guarantee/indicate anyreturns.",
+    "asset_allocation": "Equity and Equity related securities: 65 - 100% Debt & Money Market Instruments: 0 - 35% Units issued by REITs and INvITs: 0- 10% Units of Mutual Fund Scheme: 0 - 10%",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Mr. Jitendra Sriram and Mr. Himanshu Singh",
+    "annual_expense": {
+      "Regular": "2.22",
+      "Direct": "1.16"
+    },
+    "exit_load": "1. If units of the scheme are redeemed or switched out up to 10% of the units (the limit) within 1 year from the date ofallotment - Nil. 2. If units of the scheme are redeemed or switched out in excess of the limit within 1 year from the date ofallotment - 1% of the applicable NAV. 3. If units of scheme are redeemed or switched out after 1 year from the date ofallotment - Nil.",
+    "amfi_codes": [
+      "151747",
+      "151754",
+      "151754",
+      "151755",
+      "151756",
+      "151756"
+    ],
+    "isins": [
+      "INF251K01SA1",
+      "INF251K01SC7",
+      "INF251K01SB9",
+      "INF251K01SD5",
+      "INF251K01SF0",
+      "INF251K01SE3"
+    ]
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN - GROWTH",
+    "REGULAR PLAN - IDCW Reinvestment",
+    "REGULAR PLAN - IDCW Payout",
+    "DIRECT PLAN - GROWTH",
+    "DIRECT PLAN - IDCW Reinvestment",
+    "DIRECT PLAN - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T03:02:47.509449+00:00"
+}

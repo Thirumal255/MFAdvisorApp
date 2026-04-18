@@ -1,0 +1,76 @@
+{
+  "parent_scheme_name": "ITI Liquid Fund",
+  "source_file": "SUMMARY_ITI Liquid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ITI Liquid Fund",
+    "fund_type": "An open ended liquid scheme. Relatively Low interest rate risk and relatively Low credit risk.",
+    "fund_options": [
+      "Regular Plan- Growth Option",
+      "Regular Plan- Monthly Income Distribution cum Capital Withdrawal (IDCW) Option (Reinvestmentof IDCW)",
+      "Regular Plan- Weekly IDCW Option (Reinvestment of IDCW)",
+      "Regular Plan- Fortnightly IDCW Option (Reinvestment ofIDCW option and Payout of IDCW option)",
+      "Regular Plan- Monthly IDCW Option (Reinvestment of IDCW option and Payout ofIDCW option)",
+      "Regular Plan- Annually IDCW Option (Reinvestment of IDCW option and Payout of IDCW option)",
+      "Direct Plan-Growth Option",
+      "Direct Plan- Monthly Income Distribution cum Capital Withdrawal (IDCW) Option (Reinvestment of IDCW)",
+      "Direct Plan- Weekly IDCW Option (Reinvestment of IDCW)",
+      "Direct Plan- Fortnightly IDCW Option (Reinvestment of IDCW option andPayout of IDCW option)",
+      "Direct Plan- Monthly IDCW Option (Reinvestment of IDCW option and Payout of IDCW option)",
+      "Direct Plan- Annually IDCW Option (Reinvestment of IDCW option and Payout of IDCW option)"
+    ],
+    "isins": [
+      "INF00XX01192",
+      "INF00XX01200",
+      "INF00XX01218",
+      "INF00XX01226",
+      "INF00XX01267",
+      "INF00XX01234",
+      "INF00XX01283",
+      "INF00XX01291",
+      "INF00XX01309",
+      "INF00XX01317",
+      "INF00XX01358",
+      "INF00XX01333"
+    ],
+    "amfi_codes": [
+      "147153",
+      "147154",
+      "147164",
+      "147155",
+      "147156",
+      "147156",
+      "147157",
+      "147158",
+      "147159",
+      "147160",
+      "147163",
+      "147161"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the Scheme is to provide reasonable returns, commensurate with low risk while providing a highlevel of liquidity, through a portfolio of money market and debt securities. However, there can be no assurance that theinvestment objective of the scheme will be realized.",
+    "asset_allocation": "Money market instruments (including cash and reverse repo and debt instruments with maturity up to 91 days)* 0%-100%,Securitised debt instruments with Residual maturity up to 91 days 0%-30%.",
+    "benchmark": "CRISIL Liquid Debt A-I Index",
+    "fund_managers": "Mr. Laukik Bagwe - Fund manager and Head - Fixed Income",
+    "annual_expense": {
+      "Regular": "0.25",
+      "Direct": "0.09"
+    },
+    "exit_load": "Exit Load as a % of redemption / switch-out proceeds Up to Day 1-0.0070%, Day 2-0.0065%, Day 3-0.0060%, Day 4-0.0055%, Day5-0.0050%, Day 6-0.0045%, Day 7 onwards 0.0000%. # Applicable for normal subscriptions/redemptions including transactionsunder special products such as SIP, SWP, etc. oﬀered by the AMC. No Exit Load shall be levied for switching between Plans /Options within the Scheme. However, exit load will be applicable if the units are switched out / redeemed from the Schemewithin the exit load period from the initial date of purchase. There shall be no load on issue of units allotted on reinvestment ofdividend for existing as well as prospective investors."
+  },
+  "fund_options_inferred": [
+    "Regular Plan- Growth Option",
+    "Regular Plan- Monthly Income Distribution cum Capital Withdrawal (IDCW) Option (Reinvestmentof IDCW)",
+    "Regular Plan- Weekly IDCW Option (Reinvestment of IDCW)",
+    "Regular Plan- Fortnightly IDCW Option (Reinvestment ofIDCW option and Payout of IDCW option)",
+    "Regular Plan- Monthly IDCW Option (Reinvestment of IDCW option and Payout ofIDCW option)",
+    "Regular Plan- Annually IDCW Option (Reinvestment of IDCW option and Payout of IDCW option)",
+    "Direct Plan-Growth Option",
+    "Direct Plan- Monthly Income Distribution cum Capital Withdrawal (IDCW) Option (Reinvestment of IDCW)",
+    "Direct Plan- Weekly IDCW Option (Reinvestment of IDCW)",
+    "Direct Plan- Fortnightly IDCW Option (Reinvestment of IDCW option andPayout of IDCW option)",
+    "Direct Plan- Monthly IDCW Option (Reinvestment of IDCW option and Payout of IDCW option)",
+    "Direct Plan- Annually IDCW Option (Reinvestment of IDCW option and Payout of IDCW option)"
+  ],
+  "extracted_at": "2026-04-18T04:27:02.054697+00:00"
+}

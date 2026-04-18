@@ -1,0 +1,33 @@
+{
+  "parent_scheme_name": "Kotak Nifty MNC ETF",
+  "source_file": "SUMMARY_Kotak Nifty MNC ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Nifty MNC ETF",
+    "fund_type": "An open ended scheme replicating/tracking NIFTY MNC Index(NSE Symbol-MNC)",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to replicate the composition of the NIFTY MNC Index and to generate returns that are commensurate with the performance of the NIFTY MNC Index, subject to tracking errors. However, there is no assurance or guarantee that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related securities covered by the NIFTY MNC Index - 95% to 100% - Medium to High (Risk Profile) Debt & Money Market Instruments - 0% to 5% - Low to Medium (Risk Profile)",
+    "benchmark": "NIFTY MNC Index TRI",
+    "fund_managers": [
+      "FM 1 Mr. Devender Singhal",
+      "FM 2 Mr. Satish Dondapati",
+      "FM 3 Mr. Abhishek Bisen"
+    ],
+    "annual_expense": {},
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "150531"
+    ],
+    "isins": [
+      "INF174KA1JF2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:40:00.263620+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Mirae Asset Gold Silver Passive FoF",
+  "source_file": "SUMMARY_Mirae Asset Gold Silver Passive FoF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Gold Silver Passive FoF",
+    "fund_type": "An open-ended fund of fund scheme predominantly investing in units of Mirae Asset Gold ETF and Mirae Asset Silver ETF",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct Plan IDCW - Reinvestment",
+      "Regular Plan IDCW - Payout",
+      "Regular Plan IDCW - Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation from a portfolio investing in units of Mirae Asset Gold ETF and Mirae Asset Silver ETF. There is no assurance that the investment objective of the Scheme will be realized",
+    "asset_allocation": "Units of Mirae Asset Gold ETF and Mirae Asset Silver ETF- 95% to 100% Money market instruments including Tri Party REPO/ debt securities, Instruments and/or units of debt/liquid schemes of domestic Mutual Funds 0 to 5%",
+    "benchmark": "Domestic Price of Gold (50%) + Domestic Price of Silver (50%)",
+    "fund_managers": "Mr. Ritesh Patel",
+    "annual_expense": {
+      "Regular": "0.71",
+      "Direct": "0.17"
+    },
+    "exit_load": "If redeemed or switched out within 15 days from the date of allotment: 0.05%, if redeemed or switched out after 15 days from date of allotment: Nil",
+    "amfi_codes": [
+      "153812",
+      "153813",
+      "153814",
+      "153815"
+    ],
+    "isins": [
+      "INF769K01PK7",
+      "INF769K01PL5",
+      "INF769K01PM3",
+      "INF769K01PN1",
+      "INF769K01PO9",
+      "INF769K01PP6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct Plan IDCW - Reinvestment",
+    "Regular Plan IDCW - Payout",
+    "Regular Plan IDCW - Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T04:55:49.874013+00:00"
+}

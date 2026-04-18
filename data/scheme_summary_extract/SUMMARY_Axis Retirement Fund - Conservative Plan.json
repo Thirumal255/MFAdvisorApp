@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Axis Retirement Fund - Conservative Plan",
+  "source_file": "SUMMARY_Axis Retirement Fund - Conservative Plan.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Retirement Fund - Conservative Plan",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "High",
+    "investment_objective": "The investment objective of the Investment Plan(s) under the Scheme is to provide long-term capital appreciation / income by investing in a mix of equity, debt and other instruments to help investors meet their retirement goals. However, there can be no assurance that the investment objective of the Scheme will be achieved. To generate regular income through investments predominantly in debt and money market instruments and to generate long term capital appreciation by investing certain portion of the portfolio in equity and equity related securities. The Investment Plan may also invest in units of Gold ETF or units of REITs & InvITs for income generation / wealth creation.",
+    "asset_allocation": "Equity and Equity related instruments - (20%-40%), Debt & Money Market Instruments - (40%-80%), Gold ETF - (0%-10%), Units issued by REITs & InvITs - (0%-10%)",
+    "benchmark": "CRISIL Hybrid 75+25 - Conservative Index",
+    "fund_managers": "Mr. Jayesh Sundar, Mr. Devang Shah, Mr. Hardik Shah, Ms. Krishnaa N",
+    "annual_expense": {
+      "Regular": "2.15",
+      "Direct": "1.24"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "147830",
+      "147831",
+      "147832",
+      "147833"
+    ],
+    "isins": [
+      "INF846K01T69",
+      "INF846K01T77",
+      "INF846K01T85",
+      "INF846K01T93"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T02:24:12.580163+00:00"
+}

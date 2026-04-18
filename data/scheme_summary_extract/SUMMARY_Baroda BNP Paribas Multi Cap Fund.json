@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "Baroda BNP Paribas Multi Cap Fund",
+  "source_file": "SUMMARY_Baroda BNP Paribas Multi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Baroda BNP Paribas Multi Cap Fund",
+    "fund_type": "An open ended equity scheme investing across large cap, mid-cap and small cap stocks",
+    "fund_options": [
+      "DIRECT PLAN- GROWTH OPTION",
+      "DIRECT PLAN IDCW PAYOUT",
+      "REGULAR PLAN GROWTH OPTION",
+      "REGULAR PLAN IDCW Reinvestment",
+      "REGULAR PLAN IDCW PAYOUT"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective is to generate long term capital appreciation from an actively managed portfolio of equity & equityrelated instruments.",
+    "asset_allocation": "Equity & Equity related securities: 75% - 100% (Minimum investments in Equity & Equity related instruments of large capcompanies would be 25% of total assets Minimum investments in Equity & Equity related instruments of mid cap companieswould be 25% of total assets Minimum investments in Equity & Equity related instruments of small cap companies would be25% of total assets ) Money market instruments and debt securities: 0% - 25%",
+    "benchmark": "Nifty 500 Multicap 50:25:25 TRI",
+    "fund_managers": "Mr. Sanjay Chawla and Mr.Kirtan Mehta",
+    "annual_expense": {
+      "Regular": "1.96",
+      "Direct": "0.90"
+    },
+    "exit_load": "1% if redeemed on or before 12 months from the date of allotment of units, NIL if redeemed after 12 months from the date ofallotment of units",
+    "amfi_codes": [
+      "119354",
+      "119353",
+      "102020",
+      "102021"
+    ],
+    "isins": [
+      "INF955L01AG0",
+      "INF955L01AE5",
+      "INF955L01674",
+      "INF955L01666",
+      "INF955L01658"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN- GROWTH OPTION",
+    "DIRECT PLAN IDCW PAYOUT",
+    "REGULAR PLAN GROWTH OPTION",
+    "REGULAR PLAN IDCW Reinvestment",
+    "REGULAR PLAN IDCW PAYOUT"
+  ],
+  "extracted_at": "2026-04-18T03:01:31.681131+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Aditya Birla Sun Life Nifty 200 Momentum 30 ETF",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Nifty 200 Momentum 30 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Aditya Birla Sun Life Nifty 200 Momentum 30 ETF",
+    "fund_type": "An open ended exchange traded fund tracking Nifty 200 Momentum 30 TRI",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate returns that are in line \nwith the performance of Nifty 200 Momentum 30 Index, subject to tracking \nerrors.\nThe Scheme does not guarantee/indicate any returns. There can be no \nassurance that the objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments constituting Nifty 200 Momentum 30 TRI \n- 95 to 100% - Very High\nCash, Money Market & Debt instruments - 0 to 5% - Low to Medium",
+    "benchmark": "Nifty 200 Momentum 30 TRI",
+    "fund_managers": "Ms. Priya Sridhar",
+    "annual_expense": {
+      "Direct": "0.32"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "150498"
+    ],
+    "isins": [
+      "INF209KB14K7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T02:14:48.563846+00:00"
+}

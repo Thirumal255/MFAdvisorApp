@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "ICICI Prudential Energy Opportunities Fund",
+  "source_file": "SUMMARY_ICICI PRUDENTIAL ENERGY OPPORTUNITIES FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Energy Opportunities Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Energy Opportunities Fund - Direct Plan - Growth",
+      "ICICI Prudential Energy Opportunities Fund - Direct Plan - IDCW",
+      "ICICI Prudential Energy Opportunities Fund - Direct Plan - IDCW Payout",
+      "ICICI Prudential Energy Opportunities Fund - Growth",
+      "ICICI Prudential Energy Opportunities Fund - IDCW",
+      "ICICI Prudential Energy Opportunities Fund - IDCW Payout"
+    ],
+    "isins": [
+      "INF109KC12W6",
+      "INF109KC14W2",
+      "INF109KC13W4",
+      "INF109KC15W9",
+      "INF109KC17W5",
+      "INF109KC16W7"
+    ],
+    "amfi_codes": [
+      "9751",
+      "9752",
+      "9752P",
+      "3549",
+      "3550",
+      "3550P"
+    ],
+    "riskometer": "Very High\nAs on November 30, 2025",
+    "investment_objective": "The investment objective of the Scheme is to provide investors with opportunities for long term capital appreciation by investing in equity and equity related instruments of companies engaging in activities such as exploration, production, distribution, transportation and processing of traditional & new energy including but not limited to industries/sectors such as oil & gas, utilities and power.\nHowever there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "•Equity & Equity related instruments of companies engaged in Energy (traditional / new) and allied sectors = 80% - 100%\n•Other equity and equity related securities = 0%- 20%\n•Debt & Money market instruments =0% - 20%\n•InvITs=0%- 10%",
+    "benchmark": "Nifty Energy TRI",
+    "fund_managers": [
+      "Ms. Sharmila D'silva",
+      "Ms. Nitya Mishra"
+    ],
+    "annual_expense": {
+      "Regular": "1.74",
+      "Direct": "0.58"
+    },
+    "exit_load": "• 1% of applicable Net Asset Value - If the amount sought to be redeemed or switch out is invested for a period of up to three months from the date of allotment \n• Nil - If the amount, sought to be redeemed or switch out is invested for a period of more than three months from the date of allotment"
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Energy Opportunities Fund - Direct Plan - Growth",
+    "ICICI Prudential Energy Opportunities Fund - Direct Plan - IDCW",
+    "ICICI Prudential Energy Opportunities Fund - Direct Plan - IDCW Payout",
+    "ICICI Prudential Energy Opportunities Fund - Growth",
+    "ICICI Prudential Energy Opportunities Fund - IDCW",
+    "ICICI Prudential Energy Opportunities Fund - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T04:04:29.080046+00:00"
+}

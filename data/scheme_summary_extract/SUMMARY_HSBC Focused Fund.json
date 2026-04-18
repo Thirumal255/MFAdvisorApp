@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "HSBC Focused Fund",
+  "source_file": "SUMMARY_HSBC Focused Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Focused Fund",
+    "fund_type": "An open ended equity scheme investing in maximum 30 stocks across market caps.",
+    "fund_options": [
+      "Focused Equity Fund IDCW Payout",
+      "Focused Equity Fund Direct Growth",
+      "Focused Equity Fund Direct IDCW",
+      "Focused Equity Fund IDCW",
+      "Focused Equity Fund Dir IDCW Pay",
+      "Focused Equity Fund Growth"
+    ],
+    "isins": [
+      "INF336L01PF3",
+      "INF336L01PB2",
+      "INF336L01PD8",
+      "INF336L01PG1",
+      "INF336L01PC0",
+      "INF336L01PE6"
+    ],
+    "amfi_codes": [
+      "148411"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To seek long term capital growth through investments in a concentrated portfolio of equity & equity related instruments of upto 30 companies across market capitalization. However, there is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equities and Equity related securities- 65%-100% (Risk Proﬁle - High) Debt Instruments & Money Market Instruments (including Cash & Cash equivalents)-0%-35% (Risk Proﬁle - Low to Medium) Units issued by REITs and InvITs-0%- 10% (Risk Proﬁle - Medium to High) * Subject to overall limit of 30 stocks across market capitalization.",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "FM 1 - Neelotpal Sahai (For Equity), FM 2 - Sonal Gupta (For Equity), FM 3 - Mr. Mayank Chaturvedi (For Overseas Investment)",
+    "annual_expense": {
+      "Regular": "2.11",
+      "Direct": "0.98"
+    },
+    "exit_load": "Exit Load : If the units redeemed or switched out are upto 10% of the units purchased or switched in (“the limit”) within 1 year from the date of allotment – Nil If units redeemed or switched out are over and above the limit within 1 year from the date of allotment – 1% If units are redeemed or switched out on or after 1 year from the date of allotment– Nil A switch-out or a withdrawal under SWP may also attract an Exit Load like any Redemption. No Exit load will be chargeable in case of switches made between different options of the Scheme. No Exit load will be chargeable in case of Units allotted on account of dividend reinvestments, if any."
+  },
+  "fund_options_inferred": [
+    "Focused Equity Fund IDCW Payout",
+    "Focused Equity Fund Direct Growth",
+    "Focused Equity Fund Direct IDCW",
+    "Focused Equity Fund IDCW",
+    "Focused Equity Fund Dir IDCW Pay",
+    "Focused Equity Fund Growth"
+  ],
+  "extracted_at": "2026-04-18T03:56:10.103338+00:00"
+}

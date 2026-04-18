@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "THE WEALTH COMPANY ETHICAL FUND",
+  "source_file": "SUMMARY_THE WEALTH COMPANY ETHICAL FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "THE WEALTH COMPANY ETHICAL FUND",
+    "fund_type": "An open ended equity scheme following an Ethical Theme.",
+    "fund_options": [
+      "DIRECT GROWTH",
+      "DIRECT-IDCWPAYOUT",
+      "DIRECT -IDCWREINVESTMENT",
+      "REGULAR GROWTH",
+      "REGULAR IDCWPAYOUT",
+      "REGULAR IDCWREINVESTMENT"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the Scheme is to provide investors with opportunities for long term growth in capital through anactive management principle in a diversiﬁed basket of Ethical compliant equity and equity related instruments. There is noassurance or guarantee that the investment objective of the Scheme will be achieved. The scheme does not assure orguarantee any return.",
+    "asset_allocation": "Equity and Equity Related Instruments of companies following the Ethical theme: 80% - 100% Debt Securities and moneymarket instruments: 0 to 20% and Units issued by REITs and InvITs: 0% - 10%.",
+    "benchmark": "NIFTY 500 Shariah TRI Index.",
+    "fund_managers": "FM 1 - Ms. Aparna Shanker, FM 2 - Ms. Saloni Kapadia",
+    "annual_expense": {
+      "Regular": "2.25",
+      "Direct": "0.80"
+    },
+    "exit_load": "1% - If redeemed/switched out within 30 days from the date of allotment and Nil - if redeemed/switched out after 30 days fromthe date of allotment.",
+    "amfi_codes": [
+      "153895",
+      "153898",
+      "null",
+      "153897",
+      "153896",
+      "null"
+    ],
+    "isins": [
+      "INF2F0001214",
+      "INF2F0001206",
+      "INF2F0001198",
+      "INF2F0001248",
+      "INF2F0001230",
+      "INF2F0001222"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT GROWTH",
+    "DIRECT-IDCWPAYOUT",
+    "DIRECT -IDCWREINVESTMENT",
+    "REGULAR GROWTH",
+    "REGULAR IDCWPAYOUT",
+    "REGULAR IDCWREINVESTMENT"
+  ],
+  "extracted_at": "2026-04-18T05:58:22.285302+00:00"
+}

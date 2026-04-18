@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Baroda BNP Paribas Large and Mid Cap fund",
+  "source_file": "SUMMARY_Baroda BNP Paribas Large and Mid Cap fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Baroda BNP Paribas Large and Mid Cap fund",
+    "fund_type": "An open ended scheme investing in both large cap and mid cap stocks.",
+    "fund_options": [
+      "DIRECT PLAN - IDCW PAYOUT",
+      "DIRECT PLAN - IDCW REINVESTMENT",
+      "REGULAR PLAN - IDCW REINVESTMENT",
+      "REGULAR PLAN - IDCW PAYOUT",
+      "DIRECT PLAN - GROWTH",
+      "REGULAR GROWTH"
+    ],
+    "isins": [
+      "INF955L01JV0",
+      "INF955L01JW8",
+      "INF955L01JT4",
+      "INF955L01JS6",
+      "INF955L01JU2",
+      "INF955L01JR8"
+    ],
+    "amfi_codes": [
+      "148475",
+      "148474",
+      "148475",
+      "148472",
+      "148474",
+      "148471"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary objective of the Scheme is to seek long term capital growth through investments in both large cap and mid cap stocks.",
+    "asset_allocation": "Equity & Equity related instruments of large cap companies (including derivatives) 35% - 65% Equity & Equity related instruments of mid cap companies (including derivatives) 35% - 65% Other equities and equity related instruments 0% - 30% Debt and Money Market instruments 0% - 20% Units issued in REITs & InvITs 0% - 10%",
+    "benchmark": "BSE 250 Large & Midcap TRI",
+    "fund_managers": "Mr. Sanjay Chawla and Mr. Kirtan Mehta",
+    "annual_expense": {
+      "Regular": "2.09",
+      "Direct": "0.84"
+    },
+    "exit_load": "If units are redeemed upto 10% of the units held, on or before 365 days from the date of allotment : Nil. If units are redeemed over and above the 10% limit, on or before 365 days from the date of allotment :1% of the applicable Net Asset Value (NAV). If the units after 365 days from the date of allotment: Nil The above Exit Load will be applicable to all subscription transactions, excluding switch-ins."
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN - IDCW PAYOUT",
+    "DIRECT PLAN - IDCW REINVESTMENT",
+    "REGULAR PLAN - IDCW REINVESTMENT",
+    "REGULAR PLAN - IDCW PAYOUT",
+    "DIRECT PLAN - GROWTH",
+    "REGULAR GROWTH"
+  ],
+  "extracted_at": "2026-04-18T03:00:04.874565+00:00"
+}

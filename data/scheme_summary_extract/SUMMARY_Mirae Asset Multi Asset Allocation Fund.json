@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Mirae Asset Multi Asset Allocation Fund",
+  "source_file": "SUMMARY_Mirae Asset Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Multi Asset Allocation Fund",
+    "fund_type": "An open-ended equity scheme investing in equity, debt & money market instruments, Gold ETFs, Silver ETFs and exchangetraded commodity derivatives",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular Plan Growth",
+      "Regular PlanIDCW - Payout",
+      "Regular PlanIDCW - Reinvestment"
+    ],
+    "isins": [
+      "INF769K01KZ6",
+      "INF769K01LA7",
+      "INF769K01LB5",
+      "INF769K01KW3",
+      "INF769K01KX1",
+      "INF769K01KY9"
+    ],
+    "amfi_codes": [
+      "152344",
+      "152345",
+      "152347",
+      "152346",
+      null,
+      null
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation from a portfolio investing in equity andequity related securities, Debt and money market instruments, Gold ETFs, Silver ETFs and Exchange Traded CommodityDerivatives.",
+    "asset_allocation": "Equity and equity related instruments*: 65% 80% High Gold ETFs, Silver ETFs, Exchange Traded Commodity Derivatives (ETCDs)$:10% 25% Medium to High Debt securities (including securitized debt & debt derivatives), money market instruments (includingTriparty REPO, Reverse Repo and equivalent): 10% 25% Medium to High Units issued by REITs & InvITs: 0% 10% Low to Medium",
+    "benchmark": "65% Nifty 500 TRI + 25% Nifty Short Duration Debt Index + 7.5% Domestic Price of Gold + 2.5% Domestic Price of Silver",
+    "fund_managers": "Mr. Harshad Borawake (Equity Portion), Mr. Basant Bafna (Debt Portion), Mr. Siddharth Srivastava (Overseas Investments),Mr.Ritesh Patel ( Dedicated Fund Manager for Commodity Investments)",
+    "annual_expense": {
+      "Regular": "1.87",
+      "Direct": "0.31"
+    },
+    "exit_load": "I. For investors who have opted for SWP under the plan: a) 15% of the units allotted (including Switch-in/STP-in) on or beforecompletion of 180 days from the date of allotment of units: Nil. b) Any redemption in excess of such limits in the ﬁrst 180 daysfrom the date of allotment shall be subject to the following exit load: (Redemption of units would be done on First In First OutBasis (FIFO): -If redeemed within 6 months (180 days) from the date of allotment: 1% -If redeemed after 6 months (180 days)from the date of allotment: NIL II. Other Redemptions: For Investors who have not opted for SWP under the plan (includingSwitch out, STP out): -If redeemed within 6 months (180 days) from the date of allotment: 1% -If redeemed after 6 months (180days) from the date of allotment: NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular Plan Growth",
+    "Regular PlanIDCW - Payout",
+    "Regular PlanIDCW - Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T04:58:39.886640+00:00"
+}

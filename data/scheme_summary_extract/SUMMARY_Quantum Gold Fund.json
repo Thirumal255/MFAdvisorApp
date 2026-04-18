@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Quantum Gold Fund",
+  "source_file": "SUMMARY_Quantum Gold Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Quantum Gold Fund",
+    "fund_type": "Exchange Traded Fund",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "High Risk",
+    "investment_objective": "The Investment Objective of the Scheme is to generate returns that are in line with the performance of gold and gold relatedinstruments subject to tracking errors. However, investment in gold related instruments will be made if and when SEBI permitsmutual funds to invest, in gold related instruments. The Scheme is designed to provide returns that before expenses, closelycorrespond to the returns provided by gold. There is no assurance that the Investment Objective of the Scheme will beachieved.",
+    "asset_allocation": "Physical Gold- 95 to 100%, Money Market Instruments-0 to 5%.",
+    "benchmark": "Domestic Price of Gold",
+    "fund_managers": "Mr. Chirag Mehta",
+    "annual_expense": {
+      "Direct": "0.56"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "107693"
+    ],
+    "isins": [
+      "INF082J01408"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T05:31:56.775981+00:00"
+}

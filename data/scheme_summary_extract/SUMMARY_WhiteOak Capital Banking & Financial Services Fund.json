@@ -1,0 +1,42 @@
+{
+  "parent_scheme_name": "WhiteOak Capital Banking & Financial Services Fund",
+  "source_file": "SUMMARY_WhiteOak Capital Banking & Financial Services Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "WhiteOak Capital Banking & Financial Services Fund",
+    "fund_type": "An open ended equity scheme investing in banking & financial services sector.",
+    "fund_options": [
+      "Regular Growth",
+      "Direct Growth"
+    ],
+    "riskometer": "Very High risk",
+    "investment_objective": "The primary objective of the Scheme is to provide long-term capital appreciation by investing predominantly in equity and equity related instruments of banks & companies engaged in Financial Services Sector. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Equity & Equity related Instruments of Banks & companies engaged in financial services sector: Min -80% Max - 100% Equity and Equity Related Instruments companies (including REITs) other than above Min -0% Max - 20% Debt Securities and Money Market Instruments Min -0% Max - 20% Units issued by InvITs Min -0% Max - 10%",
+    "benchmark": "Nifty Financial Services TRI",
+    "fund_managers": [
+      "Ms. Trupti Agrawal",
+      "Mr. Piyush Baranwal",
+      "Mr. Ramesh Mantri",
+      "Mr. Dheeresh Pathak",
+      "Mr. Ashish Agrawal"
+    ],
+    "annual_expense": {
+      "Regular": "2.35",
+      "Direct": "0.65"
+    },
+    "exit_load": "1.00% (of applicable NAV); if Units are redeemed/ switched-out within 1 month from the date of allotment., Nil thereafter",
+    "amfi_codes": [
+      "152322",
+      "152321"
+    ],
+    "isins": [
+      "INF03VN01852",
+      "INF03VN01860"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth"
+  ],
+  "extracted_at": "2026-04-18T06:13:12.151668+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Tata Childrens Fund",
+  "source_file": "SUMMARY_Tata Childrens Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Childrens Fund",
+    "fund_type": "An open ended fund for investment for children having a lock-in for at least 5 years or till the child attains age of majority(whichever is earlier).",
+    "fund_options": [
+      "Tata Young Citizens Fund Regular Plan - Growth",
+      "Tata Young Citizens Fund Direct Plan - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate long term capital growth. However, there is no assurance orguarantee that the investment objective of the Scheme will be achieved. The scheme does not assure or guarantee anyreturn.",
+    "asset_allocation": "Equity and Equity Related Instruments (Listed / to be listed) 65-100, Debt & Money market instrument 0-35, Units issued byREITs and InviTs 0-10.",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Rahul Singh",
+    "annual_expense": {
+      "Regular": "2.59",
+      "Direct": "2.07"
+    },
+    "exit_load": "If redeemed before child attains 18 years of age, Exit load is 1%.",
+    "amfi_codes": [
+      "101491",
+      "119312"
+    ],
+    "isins": [
+      "INF277K01AJ5",
+      "INF277K01QW4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Young Citizens Fund Regular Plan - Growth",
+    "Tata Young Citizens Fund Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:51:32.847950+00:00"
+}

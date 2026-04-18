@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Axis NIFTY India Consumption ETF",
+  "source_file": "SUMMARY_Axis NIFTY India Consumption ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis NIFTY India Consumption ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide returns before expenses that closely correspond to the total returns of the NIFTY India Consumption Index subject to tracking errors. However, there is no assurance or guarantee that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity instruments covered by Nifty India Consumption Index - (95%-100%), Debt & Money Market Instruments - (0%-5%)",
+    "benchmark": "NIFTY India Consumption TRI Index",
+    "fund_managers": "Mr. Karthik Kumar",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "N/A",
+    "amfi_codes": [
+      "149156"
+    ],
+    "isins": [
+      "INF846K016C7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T02:23:16.993238+00:00"
+}

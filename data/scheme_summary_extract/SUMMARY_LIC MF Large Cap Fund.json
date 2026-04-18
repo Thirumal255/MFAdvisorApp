@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "LIC MF Large Cap Fund",
+  "source_file": "SUMMARY_LIC MF Large Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "LIC MF Large Cap Fund",
+    "fund_type": "An open ended equity scheme predominantly investing in large cap stocks.",
+    "fund_options": [
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-IDCW Reinv",
+      "Regular Plan-Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCWReinv",
+      "Direct Plan-Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To achieve long term capital appreciation by investing in diversiﬁed portfolio predominantly consisting of equity and equityrelated securities of Large Cap companies including derivatives. There is no assurance that the investment objective of theScheme will be achieved.",
+    "asset_allocation": "Equity and equity related instruments : 80-100%, Debt and debt related instruments, G-Secs, Money market instruments andcash:0-20%.Please refer the Scheme Information Document for complete details.",
+    "benchmark": "Nifty 100 TRI",
+    "fund_managers": "FM -1-Mr. Sumit Bhatnagar, FM -2-Mr. Mahesh Bendre",
+    "annual_expense": {
+      "Regular": "2.16",
+      "Direct": "1.10"
+    },
+    "exit_load": "12% of the units allotted shall be redeemed or switched out without any exit load, on or before completion of 3 months fromthe date of allotment of units., 1% on remaining units if redeemed or switched out on or before completion of 3 monthsfrom the date of allotment of units. ;Nil, if redeemed or switched out after completion of 3 months from the date ofallotment of units.",
+    "amfi_codes": [
+      "100332",
+      "100332",
+      "106871",
+      "120268",
+      "120268",
+      "120267"
+    ],
+    "isins": [
+      "INF767K01097",
+      "INF767K01089",
+      "INF767K01105",
+      "INF767K01EI9",
+      "INF767K01EK5",
+      "INF767K01EJ7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-IDCW Reinv",
+    "Regular Plan-Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCWReinv",
+    "Direct Plan-Growth"
+  ],
+  "extracted_at": "2026-04-18T04:45:57.912771+00:00"
+}

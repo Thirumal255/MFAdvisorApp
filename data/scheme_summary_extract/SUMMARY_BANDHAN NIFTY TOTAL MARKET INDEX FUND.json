@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Bandhan Nifty Total Market Index Fund",
+  "source_file": "SUMMARY_BANDHAN NIFTY TOTAL MARKET INDEX FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Nifty Total Market Index Fund",
+    "fund_type": "An open-ended scheme tracking Nifty Total Market Index",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Regular Plan - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to replicate the Nifty Total Market Index by investing in securities of the Nifty Total Market Index in the same proportion / weightage with an aim to provide returns before expenses that tracks the total return of Nifty Total Market Index, subject to tracking errors. However, there is no assurance or guarantee that the objectives of the scheme will be realized and the scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Securities belonging to the Nifty Total Market Index (including stock & index derivatives) - 95% - 100% Debt & Money Market instruments- 0%- 5%",
+    "benchmark": "Nifty Total Market TRI",
+    "fund_managers": "FM 1 - Mr. Abhishek Jain",
+    "annual_expense": {
+      "Regular": "1.05",
+      "Direct": "0.40"
+    },
+    "exit_load": "0.25% if redeemed on or before 15 days from the allotment date.",
+    "amfi_codes": [
+      "152716",
+      "152717"
+    ],
+    "isins": [
+      "INF194KB1IK9",
+      "INF194KB1IH5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T02:51:54.950588+00:00"
+}

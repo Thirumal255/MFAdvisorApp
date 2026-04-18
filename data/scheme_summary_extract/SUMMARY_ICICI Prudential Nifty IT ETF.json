@@ -1,0 +1,35 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty IT ETF",
+  "source_file": "SUMMARY_ICICI Prudential Nifty IT ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty IT ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Actual expenses as on October 31, 2025 : 0.20%",
+    "investment_objective": "The  investment  objective  of  the  scheme  is  to  provide  returns before expenses that closely correspond to the total return of the underlying index subject to tracking errors. However,  there  can  be  no  assurance  or  guarantee  that  the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Equity and Equity related  securities of companies constituting the underlying index (Nifty  IT Index) = 95%-100%\n• Units of debt schemes, TREPs, Repo and Reverse Repo, cash & cash equivalents = 0%-5% \n• Units of Debt ETFs = 0%-5%",
+    "benchmark": "NIFTY IT TRI",
+    "fund_managers": [
+      "Venus Ahuja",
+      "Nishit Patel",
+      "Ashwini Bharucha"
+    ],
+    "annual_expense": {
+      "Direct": "0.20"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "148466"
+    ],
+    "isins": [
+      "INF109KC1N67"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:12:40.765457+00:00"
+}

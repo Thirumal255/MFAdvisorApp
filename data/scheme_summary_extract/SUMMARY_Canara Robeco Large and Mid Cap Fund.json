@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Canara Robeco Large and Mid Cap Fund",
+  "source_file": "SUMMARY_Canara Robeco Large and Mid Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Canara Robeco Large and Mid Cap Fund",
+    "fund_type": "An open ended equity scheme investing in both large cap and mid cap stocks",
+    "fund_options": [
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular - Growth"
+    ],
+    "isins": [
+      "INF760K01EG8",
+      "INF760K01EH6",
+      "INF760K01EI4",
+      "INF760K01175",
+      "INF760K01183",
+      "INF760K01167"
+    ],
+    "amfi_codes": [
+      "118277",
+      "118277",
+      "118278",
+      "102921",
+      "102921",
+      "102920"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate capital appreciation by investing in a diversiﬁed portfolio of large and mid-cap stocks. However, there can be noassurance that the investment objective of the scheme will be realized.",
+    "asset_allocation": "Large Cap equity and equity related instruments* - 35% to 65%. (Risk- High) Mid Cap equity and equity related instruments* -35% to 65% (Risk- High) Other equity and equity related instruments, debt and money market instruments - 0% to 30% (Risk-Low to Medium) Invits- 0% to 10%.(Risk- Medium to High) *As deﬁned by SEBI Circular No. SEBI / HO / IMD / DF3 / CIR / P / 2017/ 114 dated October 06, 2017 and SEBI/HO/IMD/DF3/CIR/P/2017/126 dated December 04, 2017 as amended from time to time.(Currently it deﬁnes Large Cap Companies as those which are ranked from 1 to 100 and Mid Cap Companies as those which areranked from 101 to 250 based on their full market capitalization.)Pursuant to SEBI Circular dated November 28, 2025, AMFI shallinclude REITs in the list of classiﬁcation of scrips as per their market capitalization.",
+    "benchmark": "NIFTY Large Midcap 250 TRI",
+    "fund_managers": "Mr. Amit Nadekar, Mr. Shridatta Bhandwaldar",
+    "annual_expense": {
+      "Regular": "1.62",
+      "Direct": "0.60"
+    },
+    "exit_load": "1% - If redeemed/switched out within 1 year from the date of allotment, Nil - if redeemed/switched out after 1 year from thedate of allotment"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular - Growth"
+  ],
+  "extracted_at": "2026-04-18T03:06:29.306378+00:00"
+}

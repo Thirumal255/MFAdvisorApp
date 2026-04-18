@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "JM Midcap Fund",
+  "source_file": "SUMMARY_JM Midcap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "JM Midcap Fund",
+    "fund_type": "An open ended Equity Scheme predominantly investing in mid cap stocks",
+    "fund_options": [
+      "Regular - Growth",
+      "Regular - IDCW Payout",
+      "Regular - IDCW Reinvestment",
+      "Direct - Growth",
+      "Direct - IDCW Payout",
+      "Direct - IDCW Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies. There is no assurance that the investment objective of the Scheme will be realized",
+    "asset_allocation": "Equity and Equity Related Instruments of Mid Cap companies** - 65%-100% - High, Equity and Equity Related Instruments other than above - 0%-35% - High, Debt Securities and money market instruments (including TREPS) - 0%-35% - Low to Medium, Units issued by InvITs - 0%-10% - Medium to High ** Investment universe of \"Mid Cap\": • The investment universe of “Mid Cap” shall comprise companies as defined by SEBI from time to time. • In terms of para no 2.6 of SEBI Master Circular, the universe of “MidCap” shall consist of 101st to 250th company in terms of full market capitalization and that the Scheme will be required to adhere the following: - The list of stocks of Mid Cap companies prepared by AMFI in this regard will be adopted. - The said list would be uploaded on the AMFI website and would be updated every six months based on the data as on the end of June and December of each year or periodically as specified by SEBI. - Subsequent to any updation in the said list as uploaded by AMFI, the portfolio of the Scheme will be rebalanced within a period of one month.",
+    "benchmark": "NIFTY MIDCAP 150 (Total Return Index)",
+    "fund_managers": "Mr. Satish Ramanathan, Mr. Asit Bhandarkar, Mr. Deepak Gupta, Ms. Ruchi Fozdar",
+    "annual_expense": {
+      "Regular": "2.16",
+      "Direct": "0.66"
+    },
+    "exit_load": "In respect of each purchase / switch-in of Units, an Exit Load of 1.00% is payable if Units are redeemed/ switched-out within 180 days from the date of allotment, No Exit Load is payable if Units are redeemed / switched-out after 180 days from the date of allotment, No Entry / Exit Load shall be levied on units allotted on Reinvestment of Income Distribution cum Capital Withdrawal Option, In respect of Systematic Transactions such as SIP, STP, SWP, Exit Load, if any, prevailing on the date of registration / enrolment for SIP/STP/SWP shall be levied for all the opted Installments.",
+    "amfi_codes": [
+      "150812",
+      "150813",
+      "150813",
+      "150815",
+      "150814",
+      "150814"
+    ],
+    "isins": [
+      "INF192K01MS2",
+      "INF192K01MT0",
+      "INF192K01MU8",
+      "INF192K01MV6",
+      "INF192K01MW4",
+      "INF192K01MX2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Regular - IDCW Payout",
+    "Regular - IDCW Reinvestment",
+    "Direct - Growth",
+    "Direct - IDCW Payout",
+    "Direct - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T04:30:59.118658+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Invesco India Infrastructure Fund",
+  "source_file": "SUMMARY_Invesco India Infrastructure Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India Infrastructure Fund",
+    "fund_type": "An open ended equity scheme following Infrastructure theme",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate capital appreciation by investing in a portfolio that is predominantly constituted of Equity and Equity Related Instruments of infrastructure companies. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Equity and Equity Related Instruments of Infrastructure Companies: Min. 80% Max. 100% Equity and Equity Related Instruments other than Infrastructure Companies: Min. 0% and Max. 20%. Debt and Money Market Instruments: Min. 0% and Max. 20%.",
+    "benchmark": "BSE India Infrastructure TRI",
+    "fund_managers": "Mr. Sagar Gandhi",
+    "annual_expense": {
+      "Regular": "2.36",
+      "Direct": "0.95"
+    },
+    "exit_load": "If upto 10% of Units allotted are redeemed / switched-out within 1 year from the date of allotment -Nil. For any redemption /switchout in excess of 10% of units allotted within one year from the date of allotment - 1%. If units are redeemed or switched-out after 1 year from the date of allotment -Nil.",
+    "amfi_codes": [
+      "120405",
+      "120404",
+      "120404",
+      "106654",
+      "106653",
+      "106653"
+    ],
+    "isins": [
+      "INF205K01MD4",
+      "INF205K01MB8",
+      "INF205K01MC6",
+      "INF205K01CD5",
+      "INF205K01CE3",
+      "INF205K01CF0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T04:22:48.089810+00:00"
+}

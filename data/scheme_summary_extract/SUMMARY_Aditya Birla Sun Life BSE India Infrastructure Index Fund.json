@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Aditya Birla Sun Life BSE India Infrastructure Index Fund",
+  "source_file": "SUMMARY_Aditya Birla Sun Life BSE India Infrastructure Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Aditya Birla Sun Life BSE India Infrastructure Index Fund",
+    "fund_type": "An open ended Index Fund replicating the BSE India Infrastructure Total Return Index",
+    "fund_options": [
+      "Direct Growth",
+      "Direct IDCW Payout",
+      "Regular IDCW Payout",
+      "Regular-Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to provide returns that, before expenses, correspond to the total returns of securities as represented by the BSE India Infrastructure Total Return Index, subject to tracking errors. The Scheme does not guarantee/indicate any returns. There is no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related securities constituting the BSE India Infrastructure Index - 95% to 100% Debt and Money Market Instruments (including Cash and Cash Equivalent) - 0% to 5%",
+    "benchmark": "BSE India Infrastructure Total Return Index",
+    "fund_managers": "Ms. Priya Sridhar",
+    "annual_expense": {
+      "Regular": "1.00",
+      "Direct": "0.30"
+    },
+    "exit_load": "0.05",
+    "amfi_codes": [
+      "153081",
+      "153078",
+      "153079",
+      "153080"
+    ],
+    "isins": [
+      "INF209KC1332",
+      "INF209KC1340",
+      "INF209KC1365",
+      "INF209KC1357"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Direct IDCW Payout",
+    "Regular IDCW Payout",
+    "Regular-Growth"
+  ],
+  "extracted_at": "2026-04-18T02:07:30.053845+00:00"
+}

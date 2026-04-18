@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Kotak Nifty G-Sec July 2033 Index Fund",
+  "source_file": "SUMMARY_Kotak Nifty G-Sec July 2033 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Nifty G-Sec July 2033 Index Fund",
+    "fund_type": "An open-ended Target Maturity Index Fund investing in constituents of Nifty G-Sec July 2033 Index. A relatively high interest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCW Re-investment",
+      "Regular Plan-Growth",
+      "Regular Plan- IDCW Payout",
+      "Regular Plan-IDCW Re-investment"
+    ],
+    "isins": [
+      "INF174KA1PJ1",
+      "INF174KA1PK9",
+      "INF174KA1PL7",
+      "INF174KA1PG7",
+      "INF174KA1PH5",
+      "INF174KA1PI3"
+    ],
+    "amfi_codes": [
+      "152099",
+      "152098",
+      null,
+      "152100",
+      "152101",
+      null
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to generate returns that are commensurate (before fees and expenses) with the performance of the Nifty G-Sec July 2033 Index, subject to tracking errors. However, there can be no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Replication of Securities covered by Nifty G-Sec July 2033 Index - 95% - 100% - Medium to Low Cash & Debt/Money Market Instruments - 0% - 5% - Low",
+    "benchmark": "Nifty G-Sec July 2033 Index",
+    "fund_managers": "Mr. Abhishek Bisen",
+    "annual_expense": {
+      "Regular": "0.39",
+      "Direct": "0.14"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCW Re-investment",
+    "Regular Plan-Growth",
+    "Regular Plan- IDCW Payout",
+    "Regular Plan-IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-18T04:39:07.629021+00:00"
+}

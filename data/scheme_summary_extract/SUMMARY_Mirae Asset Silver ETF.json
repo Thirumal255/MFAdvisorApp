@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Mirae Asset Silver ETF",
+  "source_file": "SUMMARY_Mirae Asset Silver ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Silver ETF",
+    "fund_type": "Other ETFs",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate returns that are in line with the performance of physical silver in domestic prices, subject to tracking error. The Scheme does not guarantee or assure any returns.",
+    "asset_allocation": "Silver*- 95% to 100%; Money market instruments including Tri Party REPO/ debt securities, Instruments and/or units of debt/liquid schemes of domestic Mutual Funds 0-5%",
+    "benchmark": "Domestic Price of Physical Silver (based on London Bullion Market association (LBMA) Silver daily spot ﬁxing price.)",
+    "fund_managers": "Mr. Ritesh Patel & Mr. Akshay Udeshi",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "151779"
+    ],
+    "isins": [
+      "INF769K01KG6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T05:03:04.884597+00:00"
+}

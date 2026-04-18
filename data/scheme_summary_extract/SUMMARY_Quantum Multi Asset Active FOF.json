@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Quantum Multi Asset Active FOF",
+  "source_file": "SUMMARY_Quantum Multi Asset Active FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Quantum Multi Asset Active FOF",
+    "fund_type": "An Open-Ended Fund of Funds scheme investing in Equity-oriented schemes, Debt oriented schemes and Gold basedschemes.",
+    "fund_options": [
+      "Direct Plan Growth Option",
+      "Regular Plan Growth Option"
+    ],
+    "riskometer": "High Risk",
+    "investment_objective": "The investment objective of the Scheme is to generate long term capital appreciation and income by investing in Equityoriented schemes, Debt oriented schemes and Gold based schemes of Quantum Mutual Fund. There is no assurance thatthe investment objective of the scheme will be achieved.",
+    "asset_allocation": "Units of Equity Oriented Schemes-25 to 65%, Units of Debt Oriented Schemes-25 to 65%, Units of Gold Based Schemes-10to 20%-, Money Market instruments, Short-term Corporate debt securities, Tri - Party Repo, Repo / Reverse Repo ingovernment securities and treasury bills only-0 to 5%.",
+    "benchmark": "CRISIL Dynamic Bond A-III Index (20%) + CRISIL Liquid Debt A-I Index (25%) + Nifty 50 TRI (40%) + Domestic price of Gold(15%)",
+    "fund_managers": "Mr. Chirag Mehta, Ms. Sneha Pandey, Ms. Mansi Vasa",
+    "annual_expense": {
+      "Regular": "0.47",
+      "Direct": "0.10"
+    },
+    "exit_load": "1% - If redeemed or switch out on or before 90 days from the date of allotment of units, NIL - If redeemed or switch outafter 90 days from the date of allotment of units.",
+    "amfi_codes": [
+      "117608",
+      "141072"
+    ],
+    "isins": [
+      "INF082J01168",
+      "INF082J01341"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth Option",
+    "Regular Plan Growth Option"
+  ],
+  "extracted_at": "2026-04-18T05:32:15.573707+00:00"
+}

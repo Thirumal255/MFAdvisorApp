@@ -1,0 +1,39 @@
+{
+  "parent_scheme_name": "Edelweiss ASEAN Equity Off-shore Fund",
+  "source_file": "SUMMARY_Edelweiss ASEAN Equity Off-shore Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss ASEAN Equity Off-shore Fund",
+    "fund_type": "Fund of Funds Investing Overseas",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Regular Plan Growth"
+    ],
+    "isins": [
+      "INF843K01AW7",
+      "INF843K01609"
+    ],
+    "amfi_codes": [
+      "140256",
+      "140255"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The primary investment objective of the Scheme is to provide long term capital growth by investing predominantly in JPMorgan Funds – ASEAN Equity Fund, an equity fund which invests primarily in companies of countries which are members of the Association of South East Asian Nations (ASEAN). However, there can be no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "1. Units / shares of JPMorgan Funds – ASEAN Equity Fund - 95-100%\n2. Money market instruments and / or units of liquid schemes - 0-5%",
+    "benchmark": "MSCI AC ASEAN 10/40 Index (Total Return Net)",
+    "fund_managers": [
+      "Mr. Bhavesh Jain",
+      "Mr. Bharat Lahoti"
+    ],
+    "annual_expense": {
+      "Regular": "1.45",
+      "Direct": "0.74"
+    },
+    "exit_load": "• If the units are redeemed / switched out on or before 90 days from the date of allotment – 1.00%\n• If the units are redeemed / switched out after 90 days from the date of allotment – Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T03:19:19.921754+00:00"
+}

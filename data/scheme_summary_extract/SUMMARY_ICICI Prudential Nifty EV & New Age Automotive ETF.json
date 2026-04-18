@@ -1,0 +1,34 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty EV & New Age Automotive ETF",
+  "source_file": "SUMMARY_ICICI Prudential Nifty EV & New Age Automotive ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty EV & New Age Automotive ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to provide returns before expenses that correspond to the total return of the underlying index subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (Nifty EV & New Age Automotive Index) = 95%-100% \n• Money market instruments including TREPs*# = 0%-5%\n*Or similar instruments as may be permitted by SEBI/RBI from time to time, subject to requi-\nsite approvals from SEBI/RBI, as applicable.\n# Excluding subscription money in transit before deployment/payout",
+    "benchmark": "Nifty EV & New Age Auto-motive TRI",
+    "fund_managers": [
+      "Nishit Patel",
+      "Ashwini Bharucha"
+    ],
+    "annual_expense": {
+      "Regular": "0.44"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153397"
+    ],
+    "isins": [
+      "INF109K1A153"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:12:00.173216+00:00"
+}

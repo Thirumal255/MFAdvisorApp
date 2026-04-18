@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "LIC MF SmallCap Fund",
+  "source_file": "SUMMARY_LIC MF Small Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "LIC MF SmallCap Fund",
+    "fund_type": "Small Cap Fund - An open-ended equity scheme predominantly investing in small cap stocks",
+    "fund_options": [
+      "Direct Plan - IDCW-Payout",
+      "Direct Plan - IDCW-Reinvestment",
+      "Direct Plan - IDCW-Transfer",
+      "Regular Plan - IDCW-Payout",
+      "RegularPlan - IDCW-Reinvestment",
+      "Regular Plan - IDCW-Transfer",
+      "Direct Plan - Growth-Growth",
+      "Regular Plan - Growth-Growth"
+    ],
+    "isins": [
+      "INF397L01JP7",
+      "INF397L01JQ5",
+      "INF397L01JR3",
+      "INF397L01JT9",
+      "INF397L01JU7",
+      "INF397L01JV5",
+      "INF397L01JS1",
+      "INF397L01JW3"
+    ],
+    "amfi_codes": [
+      "152005",
+      "152005",
+      "152005",
+      "152006",
+      "152006",
+      "152006",
+      "152004",
+      "152003"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Investment objective of the scheme is to provide investors with the opportunities for long-term capital appreciation by investing predominantly in Equity and Equity related instruments of Small Cap Companies. There can be no assurance that the investment objective under the Scheme will be realized.",
+    "asset_allocation": "Instrument: - Equity & Equity related instruments of Small Cap Companies Indicative allocation (% to total Assets): Minimum:65% Maximum: 100%; Instrument: - Equity & Equity related instruments of Companies other than Small Cap Companies Indicative allocation (% to total Assets): Minimum: 0% Maximum: 35% Instrument: - Debt and Money Market instruments and Tri-party Repo Indicative allocation (% to total Assets): Minimum: 0% Maximum: 35%; Instrument : - Units issued by Infrastructure Investment trusts (InvITs) Indicative allocation (% to total Assets): Minimum: 0% Maximum: 10%. Please refer the Scheme Information Document for complete details.",
+    "benchmark": "NIFTY Smallcap 250 - TRI",
+    "fund_managers": "FM 1: Mr. Dikshit Mittal; FM 2: Mr. Yogesh Patil; FM 3: Mr. Mahesh Bendre",
+    "annual_expense": {
+      "Regular": "2.40",
+      "Direct": "1.05"
+    },
+    "exit_load": "Nil, If units of the Scheme are redeemed or switched out up to 12% of the units (the limit) within 12 months from the date of allotment. 1% of the applicable NAV, If units of the scheme are redeemed or switched out in excess of the limit within 12 months from the date of allotment. Nil, If units of scheme are redeemed or switched out after 12 months from the date of allotment."
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW-Payout",
+    "Direct Plan - IDCW-Reinvestment",
+    "Direct Plan - IDCW-Transfer",
+    "Regular Plan - IDCW-Payout",
+    "RegularPlan - IDCW-Reinvestment",
+    "Regular Plan - IDCW-Transfer",
+    "Direct Plan - Growth-Growth",
+    "Regular Plan - Growth-Growth"
+  ],
+  "extracted_at": "2026-04-18T04:48:02.272643+00:00"
+}

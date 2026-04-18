@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "Tata Multi Asset Allocation Fund",
+  "source_file": "SUMMARY_Tata Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Multi Asset Allocation Fund",
+    "fund_type": "An Open Ended Scheme investing in equity, debt & exchange traded commodity derivatives",
+    "fund_options": [
+      "Tata Multi Asset Opportunities Fund - Regular Plan - IDCW",
+      "Tata Multi Asset Opportunities Fund - Direct Plan - IDCW",
+      "Tata MultiAsset Opportunities Fund - Regular Plan - Growth",
+      "Tata Multi Asset Opportunities Fund - Direct Plan - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation.However, there is no assurance orguarantee that the investment objective of the Scheme will be achieved.The scheme does not assure or guarantee anyreturns.",
+    "asset_allocation": "Equity and equity related instruments 65-80, Debt and money market instruments 10-25, Commodity ETFs, Exchange TradedCommodity Derivatives (ETCDs) & any other mode of investment in commodities as permitted by SEBI from time to time 10-25, Units of REITs & InvITs 0-10.",
+    "benchmark": "Composite Benchmark of 65% BSE 200 + 15% CRISIL Short Term Bond Index + 20% iComdex Composite Index (Total Returnvariant of the index (TRI) will be used for performance comparison).",
+    "fund_managers": [
+      "Rahul Singh",
+      "Murthy Nagarajan",
+      "Sailesh Jain",
+      "Tapan Patel"
+    ],
+    "annual_expense": {
+      "Regular": "1.83",
+      "Direct": "0.40"
+    },
+    "exit_load": "1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL.",
+    "amfi_codes": [
+      "148051",
+      "148052",
+      "148050",
+      "148053"
+    ],
+    "isins": [
+      "INF277K013Z3",
+      "INF277K010Z9",
+      "INF277K012Z5",
+      "INF277K019Y3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Multi Asset Opportunities Fund - Regular Plan - IDCW",
+    "Tata Multi Asset Opportunities Fund - Direct Plan - IDCW",
+    "Tata MultiAsset Opportunities Fund - Regular Plan - Growth",
+    "Tata Multi Asset Opportunities Fund - Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:54:20.352841+00:00"
+}

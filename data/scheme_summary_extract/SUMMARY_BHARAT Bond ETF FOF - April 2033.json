@@ -1,0 +1,58 @@
+{
+  "parent_scheme_name": "BHARAT Bond ETF FOF - April 2033",
+  "source_file": "SUMMARY_BHARAT Bond ETF FOF - April 2033.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "BHARAT Bond ETF FOF - April 2033",
+    "fund_type": "Fund of Fund - Domestic",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Regular Plan Growth",
+      "Regular Plan IDCW payout",
+      "Regular Plan IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF754K01RC2",
+      "INF754K01RD0",
+      "INF754K01RE8",
+      "INF754K01QY8",
+      "INF754K01QZ5",
+      "INF754K01RA6"
+    ],
+    "amfi_codes": [
+      "150989",
+      "150990",
+      "150990",
+      "150991",
+      "150988",
+      "150988"
+    ],
+    "riskometer": "Moderately Risk",
+    "investment_objective": "BHARAT Bond ETF FOF - April 2033 is a fund of funds scheme with the primary objective to generate returns by investing in units of BHARAT Bond ETF – April 2033.\nHowever, there is no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "1. Units of BHARAT Bond ETF – April 2033 - 95-100%\n2. Government Securities maturing on or before maturity date of the Scheme, TREPS and REPO in government bonds - 0-5%",
+    "benchmark": "Nifty BHARAT Bond Index – April 2033",
+    "fund_managers": [
+      {
+        "name": "Ms. Pranavi Kulkarni",
+        "type": "Co-Manage",
+        "from_date": "22/Sep/2025"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "0.06",
+      "Direct": "0.06"
+    },
+    "exit_load": "• If redeemed or switched out on or before \ncompletion of 30 days from the date of allotment \nof units –0.10%\n• If redeemed or switched out after completion of \n30 days from the date of allotment of units –NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Regular Plan Growth",
+    "Regular Plan IDCW payout",
+    "Regular Plan IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T03:03:30.218873+00:00"
+}

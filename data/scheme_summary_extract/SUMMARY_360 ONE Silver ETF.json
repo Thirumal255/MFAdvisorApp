@@ -1,0 +1,32 @@
+{
+  "parent_scheme_name": "360 ONE Silver ETF",
+  "source_file": "SUMMARY_360 ONE Silver ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "360 ONE Silver ETF",
+    "fund_type": "An open-ended exchange traded fund replicating/tracking domestic prices of Silver",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate returns that are in line with the performance of physical Silver in domestic prices, subject to tracking error. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Silver & Silver Related Instruments - 95%-100%, Debt and money market instruments - 0%-05%",
+    "benchmark": "Domestic Prices of Silver",
+    "fund_managers": "Mr. Rahul Khetawat",
+    "annual_expense": {
+      "Regular": "0.41",
+      "Direct": "0.00"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153415"
+    ],
+    "isins": [
+      "INF579M01BC3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T02:05:55.640634+00:00"
+}

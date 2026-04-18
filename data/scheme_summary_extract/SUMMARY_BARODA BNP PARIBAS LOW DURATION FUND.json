@@ -1,0 +1,76 @@
+{
+  "parent_scheme_name": "BARODA BNP PARIBAS LOW DURATION FUND",
+  "source_file": "SUMMARY_BARODA BNP PARIBAS LOW DURATION FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "BARODA BNP PARIBAS LOW DURATION FUND",
+    "fund_type": "An Open ended Low Duration Debt Scheme investing in instruments such that Macaulay duration of portfolio is between 6months and 12 months. A relatively high interest rate risk and moderate credit risk scheme.",
+    "fund_options": [
+      "REGULAR DAILY IDCW COMPULSORY REINVESTREINVESTMENT",
+      "REGULAR PLAN- GROWTH",
+      "REGULAR MONTHLY IDCW COMPULSORY REINVESTREINVESTMENT",
+      "REGULAR MONTHLY IDCW PAYOUT",
+      "REGULAR WEEKLY IDCW COMPULSORY REINVESTREINVESTMENT",
+      "REGULAR WEEKLY IDCW COMPULSORY REINVESTREINVESTMENT",
+      "DIRECT PLAN - WEEKLY IDCW REINVESTMENT",
+      "DIRECT PLAN - WEEKLY IDCW PAYOUT",
+      "DIRECT PLAN - MONTHLY IDCW REINVESTMENT",
+      "DIRECT PLAN - MONTHLY IDCW PAYOUT",
+      "DIRECT PLAN - GROWTH",
+      "DIRECT PLAN - DAILY IDCW REINVESTMENT"
+    ],
+    "isins": [
+      "INF251K01DR7",
+      "INF251K01DQ9",
+      "INF251K01DV9",
+      "INF251K01DU1",
+      "INF251K01DT3",
+      "INF251K01DS5",
+      "INF251K01GM1",
+      "INF251K01GL3",
+      "INF251K01GO7",
+      "INF251K01GN9",
+      "INF251K01GJ7",
+      "INF251K01GK5"
+    ],
+    "amfi_codes": [
+      "150164",
+      "150165",
+      "150167",
+      "150166",
+      null,
+      null,
+      "150168",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The primary objective of the Scheme is to provide income consistent with the prudent risk from a portfolio comprisinginvestment in Debt & Money Market instruments such that the Macaulay duration of the portfolio is between 6 months - 12months.",
+    "asset_allocation": "Investment in Debt & Money Market instruments such that the Macaulay duration of the portfolio is between 6 months - 12months 0% - 100%",
+    "benchmark": "CRISIL Low Duration Debt A-I Index",
+    "fund_managers": "Mr. Vikram Pamnani (Primary Fund Manager), Mr. Gurvinder Singh Wasan (Primary Fund Manager)",
+    "annual_expense": {
+      "Regular": "1.04",
+      "Direct": "0.27"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "REGULAR DAILY IDCW COMPULSORY REINVESTREINVESTMENT",
+    "REGULAR PLAN- GROWTH",
+    "REGULAR MONTHLY IDCW COMPULSORY REINVESTREINVESTMENT",
+    "REGULAR MONTHLY IDCW PAYOUT",
+    "REGULAR WEEKLY IDCW COMPULSORY REINVESTREINVESTMENT",
+    "REGULAR WEEKLY IDCW COMPULSORY REINVESTREINVESTMENT",
+    "DIRECT PLAN - WEEKLY IDCW REINVESTMENT",
+    "DIRECT PLAN - WEEKLY IDCW PAYOUT",
+    "DIRECT PLAN - MONTHLY IDCW REINVESTMENT",
+    "DIRECT PLAN - MONTHLY IDCW PAYOUT",
+    "DIRECT PLAN - GROWTH",
+    "DIRECT PLAN - DAILY IDCW REINVESTMENT"
+  ],
+  "extracted_at": "2026-04-18T03:00:29.945835+00:00"
+}

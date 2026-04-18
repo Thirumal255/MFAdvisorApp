@@ -1,0 +1,54 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty50 Equal weight Index Fund",
+  "source_file": "SUMMARY_ICICI Prudential Nifty50 Equal Weight Index Fund-.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty50 Equal weight Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Nifty50 Equal Weight Index Fund - Growth",
+      "ICICI Prudential Nifty50 Equal Weight Index Fund - IDCW",
+      "ICICI Prudential Nifty50 Equal Weight Index Fund - IDCW Payout",
+      "ICICI Prudential Nifty50 Equal Weight Index Fund - Direct Plan - Growth",
+      "ICICI Prudential Nifty50 Equal Weight Index Fund - Direct Plan - IDCW",
+      "ICICI Prudential Nifty50 Equal Weight Index Fund - Direct Plan - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The objective of the Scheme is to invest in companies whose securities are included in Nifty50 Equal Weight Index and subject to tracking errors, to endeavor to achieve the returns of the above index. This would be done by investing in all the stocks comprising the Nifty50 Equal Weight Index in the same weightage that they represent in Nifty50 Equal Weight Index. However, there is no assurance or guarantee that the investment objective of the scheme shall be achieved.",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (Nifty50 Equal Weight Index)= 95-100\n• Money Market instruments including TREPs* and Units of debt schemes# = 0-5",
+    "benchmark": "Nifty50 Equal Weight TRI",
+    "fund_managers": [
+      "Nishit Patel"
+    ],
+    "annual_expense": {
+      "Regular": "1.00",
+      "Direct": "0.40"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "3499",
+      "3500",
+      "3500P",
+      "9701",
+      "9702",
+      "9702P"
+    ],
+    "isins": [
+      "INF109KC17I4",
+      "INF109KC19I0",
+      "INF109KC18I2",
+      "INF109KC10J7",
+      "INF109KC12J3",
+      "INF109KC11J5"
+    ]
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Nifty50 Equal Weight Index Fund - Growth",
+    "ICICI Prudential Nifty50 Equal Weight Index Fund - IDCW",
+    "ICICI Prudential Nifty50 Equal Weight Index Fund - IDCW Payout",
+    "ICICI Prudential Nifty50 Equal Weight Index Fund - Direct Plan - Growth",
+    "ICICI Prudential Nifty50 Equal Weight Index Fund - Direct Plan - IDCW",
+    "ICICI Prudential Nifty50 Equal Weight Index Fund - Direct Plan - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T04:15:05.851686+00:00"
+}

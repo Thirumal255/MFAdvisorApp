@@ -1,0 +1,80 @@
+{
+  "parent_scheme_name": "HSBC Liquid Fund",
+  "source_file": "SUMMARY_HSBC Liquid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Liquid Fund",
+    "fund_type": "An open-ended liquid scheme",
+    "fund_options": [
+      "HSBC Liquid Fund - Growth Direct",
+      "HSBC Liquid Fund - Direct Daily IDCW Reinvest",
+      "HSBC Liquid Fund- Direct Monthly IDCW Payout",
+      "HSBC Liquid Fund - Direct Monthly IDCW Reinvest",
+      "HSBC Liquid Fund- Direct Weekly IDCW Payout",
+      "HSBC Liquid Fund - Direct Weekly IDCW Reinvest",
+      "HSBC Liquid Fund -Growth",
+      "HSBC Liquid Fund - IDCW",
+      "HSBC Liquid Fund - Institutional Daily IDCW Reinvest",
+      "HSBC Liquid Fund - Regular Daily IDCW Reinvesr",
+      "HSBC Liquid Fund - Regular Growth",
+      "HSBC Liquid Fund - Regular Monthly IDCW Payout",
+      "HSBC Liquid Fund - Regular Monthly IDCW Reinvest",
+      "HSBC Liquid Fund - Regular Weekly IDCW Payout",
+      "HSBC Liquid Fund - Regular Weekly IDCW Reinvest",
+      "HSBC Liquid Fund - Weekly IDCW"
+    ],
+    "isins": [
+      "INF336L01CC8",
+      "INF336L01CB0",
+      "INF336L01BZ1",
+      "INF336L01CA2",
+      "INF336L01LK2",
+      "INF336L01CD6",
+      "INF336L01BL1",
+      "INF336L01BK3",
+      "INF336L01BS6",
+      "INF336L01BM9",
+      "INF336L01BN7",
+      "INF336L01BP2",
+      "INF336L01BO5",
+      "INF336L01LJ4",
+      "INF336L01BQ0",
+      "INF336L01BR8"
+    ],
+    "amfi_codes": [
+      "120038"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "To provide reasonable returns, commensurate with low risk while providing a high level of liquidity, through a portfolio of money market and debt securities. However, there can be no assurance that the Scheme objective can be realised.",
+    "asset_allocation": "Under normal circumstances, it is anticipated that the asset allocation of the Scheme will be as follows: - Debt Instruments and Money Market instruments (including cash and money at call) with residual maturity upto 91 days: 0% - 100% (Risk profile - Low to Medium)",
+    "benchmark": "NIFTY Liquid Index A-I",
+    "fund_managers": [
+      "Abhishek Iyer",
+      "Mr. Rahul Totla"
+    ],
+    "annual_expense": {
+      "Regular": "0.20",
+      "Direct": "0.12"
+    },
+    "exit_load": "Following exit load shall be applicable for investors who exit (by way of redemption / switch-out / transfer) within 7 calendar days from the date of investment. Day 1 - 0.0070%, Day 2 - 0.0065%, Day 3 - 0.0060%, Day 4 - 0.0055%, Day 5 - 0.0050%, Day 6 - 0.0045%, Day 7 onwards - 0.0000% The holding period of 7 calendar days, for determination of applicability of exit load, shall be calculated from the value date [i.e., applicable Net Asset Value (NAV) date] of investment and not from the date of transaction. It may be noted that purchase transactions under systematic transactions registered prior to October 20, 2019 (Effective Date), shall also be subject to exit load as above."
+  },
+  "fund_options_inferred": [
+    "HSBC Liquid Fund - Growth Direct",
+    "HSBC Liquid Fund - Direct Daily IDCW Reinvest",
+    "HSBC Liquid Fund- Direct Monthly IDCW Payout",
+    "HSBC Liquid Fund - Direct Monthly IDCW Reinvest",
+    "HSBC Liquid Fund- Direct Weekly IDCW Payout",
+    "HSBC Liquid Fund - Direct Weekly IDCW Reinvest",
+    "HSBC Liquid Fund -Growth",
+    "HSBC Liquid Fund - IDCW",
+    "HSBC Liquid Fund - Institutional Daily IDCW Reinvest",
+    "HSBC Liquid Fund - Regular Daily IDCW Reinvesr",
+    "HSBC Liquid Fund - Regular Growth",
+    "HSBC Liquid Fund - Regular Monthly IDCW Payout",
+    "HSBC Liquid Fund - Regular Monthly IDCW Reinvest",
+    "HSBC Liquid Fund - Regular Weekly IDCW Payout",
+    "HSBC Liquid Fund - Regular Weekly IDCW Reinvest",
+    "HSBC Liquid Fund - Weekly IDCW"
+  ],
+  "extracted_at": "2026-04-18T03:57:44.105414+00:00"
+}

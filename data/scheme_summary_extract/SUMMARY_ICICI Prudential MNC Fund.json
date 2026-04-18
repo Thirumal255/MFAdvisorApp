@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "ICICI Prudential MNC Fund",
+  "source_file": "SUMMARY_ICICI Prudential MNC Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential MNC Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW"
+    ],
+    "riskometer": "High",
+    "investment_objective": "The primary objective of the scheme is to generate long term capital appreciation by investing predominantly in equity and equity related securities within MNC space. However there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "• Equity and equity related securities within MNC space - 80%-100% \n• Other equity and equity related instruments - 0%-20%  \n• Debt,  Units  of debt  Mutual Fund  schemes and Money market instruments - 0%-20% \n• Gold   ETF/Units   issued   by   InvITs such other asset classes as may be permitted   by   SEBI   from   time   to   time (subject to applicable SEBI limits) - 0%-20%",
+    "benchmark": "Nifty MNC TRI",
+    "fund_managers": [
+      "Roshan Chutkey"
+    ],
+    "annual_expense": {
+      "Regular": "2.13",
+      "Direct": "1.08"
+    },
+    "exit_load": "1 % of applicable Net Asset Value If the amount sought to be redeemed or switch out within 12 months from allotment. Nil If the amount sought to be redeemed or switched out more than 12 months.",
+    "amfi_codes": [
+      "147346",
+      "147347",
+      "147345",
+      "147348"
+    ],
+    "isins": [
+      "INF109KC1D93",
+      "INF109KC1E01",
+      "INF109KC1D69",
+      "INF109KC1D77"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-18T04:08:57.814848+00:00"
+}

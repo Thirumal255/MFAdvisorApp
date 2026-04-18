@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Franklin India Aggressive Hybrid Fund",
+  "source_file": "SUMMARY_Franklin India Aggressive Hybrid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Franklin India Aggressive Hybrid Fund",
+    "fund_type": "An open ended hybrid scheme investing predominantly in equity and equity related instruments",
+    "fund_options": [
+      "Regular - Growth",
+      "Direct - IDCW Reinv.",
+      "Regular - IDCW Payout",
+      "Direct - Growth",
+      "Regular - IDCW Reinv.",
+      "Direct - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide long-term growth of capital and current income by investing in equityand equity related securities and ﬁxed income instruments.",
+    "asset_allocation": "Equity and Equity related securities: 65%-80% Fixed Income and Money market instruments and Units issued by InfrastructureInvestment Trust (InvIT): 20%-35%",
+    "benchmark": "CRISIL Hybrid 35+65 - Aggressive Index",
+    "fund_managers": "Equity: Rajasa Kakulavarapu & Ajay Argal Debt: Chandni Gupta & Anuj Tagra , Sandeep Manam (dedicated for makinginvestments for Foreign Securities for Equity portfolio)",
+    "annual_expense": {
+      "Regular": "2.04",
+      "Direct": "0.93"
+    },
+    "exit_load": "In respect of each purchase of Units • Upto 10% of the Units may be redeemed without any exit load within 1 year from thedate of allotment. • Any redemption in excess of the above limit shall be subject to the following exit load: o 1.00% - ifredeemed on or before 1 year from the date of allotment o Nil - if redeemed after 1 year from the date of allotment",
+    "amfi_codes": [
+      "100550",
+      "118547",
+      "100549",
+      "118546",
+      "100550",
+      "118547"
+    ],
+    "isins": [
+      "INF090I01817",
+      "INF090I01GB0",
+      "INF090I01825",
+      "INF090I01FZ1",
+      "INF090I01833",
+      "INF090I01GA22"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Direct - IDCW Reinv.",
+    "Regular - IDCW Payout",
+    "Direct - Growth",
+    "Regular - IDCW Reinv.",
+    "Direct - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T03:29:02.224570+00:00"
+}

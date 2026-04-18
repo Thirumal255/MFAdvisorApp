@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Aditya Birla Sun Life Aggressive Hybrid Omni FOF",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Aggressive Hybrid Omni FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Aditya Birla Sun Life Aggressive Hybrid Omni FOF",
+    "fund_type": "An open ended fund of funds scheme investing in a portfolio of mutual fund schemes (predominantly in Equity Schemes with exposure to debt schemes.)",
+    "fund_options": [
+      "Direct Plan - Growth Option",
+      "Direct - IDCW",
+      "Regular Plan - Growth Option",
+      "Regular - IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary objective of the Scheme is to generate returns by investing in portfolio of schemes predominantly in equity schemes with secondary objective of generating regular income as per the risk-return profile of investors. The Scheme has a strategic asset allocation which is based on satisfying the needs of aggressive risk-return profile of investors. The Scheme does not guarantee/indicate any returns. There is no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Under normal circumstances, the asset allocation is as follows:\nActive and Passive Equity Schemes - 65- 80 % \nActive and Passive Debt Schemes - 20- 35 % \nCash, Money Market & Debt instruments - 0- 5 %",
+    "benchmark": "CRISIL Hybrid 35+65 Aggressive Index",
+    "fund_managers": "Mr. Vinod Bhat",
+    "annual_expense": {
+      "Regular": "1.02",
+      "Direct": "0.36"
+    },
+    "exit_load": "For redemption/switch out of units within 365 days from the date of allotment: 1.00% of applicable NAV. For redemption/switch out of units after 365 days from the date of allotment: Nil",
+    "amfi_codes": [
+      "132185",
+      "132189",
+      "132174",
+      "132175"
+    ],
+    "isins": [
+      "INF084M01ET2",
+      "INF084M01EU0",
+      "INF084M01077",
+      "INF084M01085"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth Option",
+    "Direct - IDCW",
+    "Regular Plan - Growth Option",
+    "Regular - IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:06:17.186752+00:00"
+}

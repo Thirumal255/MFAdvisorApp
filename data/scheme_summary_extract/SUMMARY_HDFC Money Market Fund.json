@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "HDFC Money Market Fund",
+  "source_file": "SUMMARY_HDFC Money Market Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Money Market Fund",
+    "fund_type": "An open ended debt scheme investing in money market instruments. A scheme with Relatively Low Interest Rate Risk andModerate Credit Risk",
+    "fund_options": [
+      "DIRECT PLAN - GROWTH",
+      "REGULAR PLAN - GROWTH"
+    ],
+    "riskometer": "Moderate Risk",
+    "investment_objective": "To generate income/capital appreciation by investing in money market instruments.There is no assurance that the investmentobjective of the Scheme will be achieved.",
+    "asset_allocation": "Money Market Instruments^ : Upto 100% ^having maturity of upto 1 year. For detailed asset allocation, refer Scheme InformationDocument (SID) available on the website.",
+    "benchmark": "CRISIL Money Market A-I Index",
+    "fund_managers": "FM 1 - Mr. Praveen Jain, FM 2 - Mr. Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "0.41",
+      "Direct": "0.23"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "119092",
+      "INF179KB1HU9"
+    ],
+    "isins": [
+      "INF179KB1HU9",
+      "INF179KB1HR5"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN - GROWTH",
+    "REGULAR PLAN - GROWTH"
+  ],
+  "extracted_at": "2026-04-18T03:45:31.271018+00:00"
+}

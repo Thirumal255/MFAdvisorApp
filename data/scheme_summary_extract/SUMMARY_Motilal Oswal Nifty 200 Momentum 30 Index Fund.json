@@ -1,0 +1,42 @@
+{
+  "parent_scheme_name": "Motilal Oswal Nifty 200 Momentum 30 Index Fund",
+  "source_file": "SUMMARY_Motilal Oswal Nifty 200 Momentum 30 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal Nifty 200 Momentum 30 Index Fund",
+    "fund_type": "Equity Fund",
+    "fund_options": [
+      "Regular Growth",
+      "Direct Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, closely correspond to the total returns of the securities as represented by the Nifty 200 Momentum 30 Total Return Index, subject to tracking error.",
+    "asset_allocation": "Constituents of Nifty 200 Momentum 30 Total return 95%-100%, Units of Liquid schemes / debt schemes, debt and Money Market Instrument 0-5%",
+    "benchmark": "Nifty 200 Momentum 30 Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "Domestic Equity",
+        "from_date": "10-02-2022 (Since Inception)"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "Debt Component",
+        "from_date": "22/11/2022"
+      }
+    ],
+    "annual_expense": {},
+    "exit_load": null,
+    "amfi_codes": [
+      "127"
+    ],
+    "isins": [
+      "INF247L01AV1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth"
+  ],
+  "extracted_at": "2026-04-18T05:06:09.843079+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Mirae Asset Nifty 8-13 yr G-Sec ETF",
+  "source_file": "SUMMARY_Mirae Asset Nifty 8-13 yr G-Sec ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Nifty 8-13 yr G-Sec ETF",
+    "fund_type": "An Open-Ended Index Exchange Traded Fund tracking Nifty 8-13 yr G-Sec Index. Relatively High interest rate risk andRelatively Low Credit Risk",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the Scheme is to provide returns before expenses that correspond to the returns of Nifty 8-13yr G-Sec Index, subject to tracking errors. However, there is no assurance that the investment objective of the Scheme willbe realized and the Scheme does not assure or guarantee any returns",
+    "asset_allocation": "Government securities, TREPS on Government Securities, Treasury bills - 95- 100 %; Money Market instruments (TreasuryBills, Government Securities and Tri-party Repo on government securities or T-bills Only) - 0-5 %",
+    "benchmark": "Nifty 8-13 yr G-Sec Index",
+    "fund_managers": "Mr. Basant Bafna",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "151695"
+    ],
+    "isins": [
+      "INF769K01KF8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:59:57.668349+00:00"
+}

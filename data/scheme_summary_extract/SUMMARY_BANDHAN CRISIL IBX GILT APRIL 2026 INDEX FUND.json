@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bandhan CRISIL IBX Gilt April 2026 Index Fund",
+  "source_file": "SUMMARY_BANDHAN CRISIL IBX GILT APRIL 2026 INDEX FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan CRISIL IBX Gilt April 2026 Index Fund",
+    "fund_type": "An open-ended Target Maturity Index Fund investing in constituents of Crisil IBX Gilt Index - April 2026 with Relatively Highinterest rate risk and Relatively Low Credit Risk",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW",
+      "Regular Plan-IDCW (Re-inv)",
+      "Direct Plan-Growth",
+      "Direct Plan-IDCW",
+      "Direct Plan-IDCW (Re-inv)"
+    ],
+    "isins": [
+      "INF194KB1EK8",
+      "INF194KB1EL6",
+      "INF194KB1EM4",
+      "INF194KB1EH4",
+      "INF194KB1EI2",
+      "INF194KB1EJ0"
+    ],
+    "amfi_codes": [
+      "150744",
+      "150745",
+      "150745",
+      "150746",
+      "150747",
+      null
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns corresponding to the total returns of the securities as represented by the Crisil IBX Gilt Index - April 2026 before expenses, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "GSecs forming part of the CRISIL IBX Gilt Index – April 2026-95% - 100%, Cash & Money Market instruments - 0%- 5%",
+    "benchmark": "Crisil IBX Gilt Index - April 2026",
+    "fund_managers": "Mr. Gautam Kaul",
+    "annual_expense": {
+      "Regular": "0.41",
+      "Direct": "0.16"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW",
+    "Regular Plan-IDCW (Re-inv)",
+    "Direct Plan-Growth",
+    "Direct Plan-IDCW",
+    "Direct Plan-IDCW (Re-inv)"
+  ],
+  "extracted_at": "2026-04-18T02:47:42.601578+00:00"
+}

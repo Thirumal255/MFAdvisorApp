@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "Canara Robeco Short Duration Fund",
+  "source_file": "SUMMARY_Canara Robeco Short Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Canara Robeco Short Duration Fund",
+    "fund_type": "An open ended short term debt scheme investing in debt & money market instruments such that the Macaulay duration of the portfolio is between 1 year and 3 years. A moderate interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Direct-Growth",
+      "Direct Plan - Monthly IDCW Payout",
+      "Direct Plan - Monthly IDCW Reinvestment",
+      "Regular Plan - Monthly IDCW Payout",
+      "Regular Plan - Monthly IDCW Reinvestment",
+      "Regular-Growth",
+      "Direct Plan - Quarterly IDCW Payout",
+      "Direct Plan - Quarterly IDCW Reinvestment",
+      "Regular Plan - Quarterly IDCW Payout",
+      "Regular Plan - Quarterly IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF760K01DX5",
+      "INF760K01DV9",
+      "INF760K01DW7",
+      "INF760K01BO8",
+      "INF760K01BN0",
+      "INF760K01BM2",
+      "INF760K01DY3",
+      "INF760K01DZ0",
+      "INF760K01BQ3",
+      "INF760K01BP5"
+    ],
+    "amfi_codes": [
+      null,
+      "118321",
+      null,
+      null,
+      null,
+      "115077",
+      null,
+      null,
+      "115079",
+      null
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "To generate returns by investing in a wide range of debt securities and money market instruments of various maturities and risk proﬁle. However, there is no assurance that the objective of the Fund will be realised.",
+    "asset_allocation": "Debt and Money Market instruments- 0% to 100% (Risk- Low to Medium) Invits- 0% to 10% (Risk- Medium to High)",
+    "benchmark": "CRISIL Short Duration Debt A-II Index",
+    "fund_managers": "Ms. Suman Prasad / Mr Avnish Jain",
+    "annual_expense": {
+      "Regular": "1.01",
+      "Direct": "0.35"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct-Growth",
+    "Direct Plan - Monthly IDCW Payout",
+    "Direct Plan - Monthly IDCW Reinvestment",
+    "Regular Plan - Monthly IDCW Payout",
+    "Regular Plan - Monthly IDCW Reinvestment",
+    "Regular-Growth",
+    "Direct Plan - Quarterly IDCW Payout",
+    "Direct Plan - Quarterly IDCW Reinvestment",
+    "Regular Plan - Quarterly IDCW Payout",
+    "Regular Plan - Quarterly IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T03:07:51.904723+00:00"
+}

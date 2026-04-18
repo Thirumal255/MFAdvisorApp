@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "PGIM India Corporate Bond Fund",
+  "source_file": "SUMMARY_PGIM India Corporate Bond Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "PGIM India Corporate Bond Fund",
+    "fund_type": "An open ended debt scheme predominantly investing in AA+ and above rated corporate bonds. A relatively high interestrate risk and moderate credit risk scheme.",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the Scheme is to seek to generate income and capital appreciation by predominantly investing in AA+ and above rated corporate bonds. However, there can be no assurance that the investment objective of the Scheme will be achieved. The Scheme does not guarantee/indicate any returns.",
+    "asset_allocation": "Corporate Debt instruments (AA+ and above rated)- Min 80% and Max 100% Other debt (including Government securities) and Money Market Instruments- Min 0% and Max 20%",
+    "benchmark": "CRISIL Corporate Debt A-II Index",
+    "fund_managers": "Mr. Puneet Pal and Mr. Bhupesh Kalyani",
+    "annual_expense": {
+      "Regular": "1.00",
+      "Direct": "0.24"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "138315",
+      "138316",
+      "138317",
+      "138318",
+      "138323",
+      "138329",
+      "138330",
+      "138323"
+    ],
+    "isins": [
+      "INF223J01OO2",
+      "INF223J01OP9",
+      "INF223J01OQ7",
+      "INF223J01OR5",
+      "INF223J01OS3",
+      "INF223J01OM6",
+      "INF223J01OL8",
+      "INF223J01CZ3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T05:24:22.124916+00:00"
+}

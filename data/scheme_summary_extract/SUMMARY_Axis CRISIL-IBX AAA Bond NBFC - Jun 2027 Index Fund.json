@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis CRISIL-IBX AAA Bond NBFC – Jun 2027 Index Fund",
+  "source_file": "SUMMARY_Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis CRISIL-IBX AAA Bond NBFC – Jun 2027 Index Fund",
+    "fund_type": "An open-ended Target Maturity Index Fund investing in constituents of CRISIL-IBX AAA NBFC Index – Jun 2027. A moderateinterest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns before fees and expenses that closely correspondsto the total returns of the securities as represented by the CRISIL-IBX AAA NBFC Index – Jun 2027, subject to tracking errors.There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Fixed Income Instruments replicating CRISIL-IBX AAA NBFC Index – Jun 2027 - 95%-100%, Debt and Money MarketInstruments - 0%-5%",
+    "benchmark": "CRISIL-IBX AAA NBFC Index – Jun 2027",
+    "fund_managers": "Mr. Aditya Pagaria",
+    "annual_expense": {
+      "Regular": "0.47",
+      "Direct": "0.15"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "152887",
+      "152888",
+      "152886",
+      "152885"
+    ],
+    "isins": [
+      "INF846K017X1",
+      "INF846K019X7",
+      "INF846K011Y2",
+      "INF846K016X3",
+      "INF846K018X9",
+      "INF846K010Y4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T02:20:09.304792+00:00"
+}

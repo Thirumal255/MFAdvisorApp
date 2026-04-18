@@ -1,0 +1,63 @@
+{
+  "parent_scheme_name": "Mirae Asset Short Term Fund",
+  "source_file": "SUMMARY_Mirae Asset Short Term Bond Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Short Term Fund",
+    "fund_type": "An open ended short term debt scheme investing in instruments such that the Macaulay duration* of the portfolio is between 1 year to 3 years (please refer to page no. 34 of SID) A relatively high interest rate risk and moderate credit risk",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular PlanIDCW - Payout",
+      "Regular PlanIDCW - Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "isins": [
+      "INF769K01DU2",
+      "INF769K01DV0",
+      "INF769K01DW8",
+      "INF769K01DX6",
+      "INF769K01DY4",
+      "INF769K01DZ1"
+    ],
+    "amfi_codes": [
+      "142640",
+      "142641",
+      "142642",
+      "142643",
+      null,
+      null
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to seek to generate returns through an actively managed diversified portfolio of debt and money market instruments with Macaulay duration of the portfolio is between 1 year to 3 years. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Money market instruments & Debt instrument with macaulay duration of the portfolio between 1 year to 3 years -  0% to 100% (Low to Medium) Units issued by REITs & InvITs - 0% to 10% (Medium to High)",
+    "benchmark": "CRISIL Short Duration Debt B-II Index, CRISIL 10 Year Gilt Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Basant Bafna",
+        "type": "Primary",
+        "from_date": "January 16, 2023"
+      },
+      {
+        "name": "Mr. Amit Modani",
+        "type": "Primary",
+        "from_date": "June 30, 2021"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1.15",
+      "Direct": "0.33"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular PlanIDCW - Payout",
+    "Regular PlanIDCW - Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T05:02:59.204638+00:00"
+}

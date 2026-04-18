@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Union Large & Midcap Fund",
+  "source_file": "SUMMARY_Union Large & Midcap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Union Large & Midcap Fund",
+    "fund_type": "Large & Mid Cap Fund - An open ended equity scheme investing in both large cap and mid cap stocks.",
+    "fund_options": [
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Transfer",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Transfer"
+    ],
+    "isins": [
+      "INF582M01GC6",
+      "INF582M01GB8",
+      "INF582M01GA0",
+      "INF582M01GE2",
+      "INF582M01GG7",
+      "INF582M01GF9",
+      "INF582M01GD4",
+      "INF582M01GH5"
+    ],
+    "amfi_codes": [
+      "147751",
+      "147751",
+      "147750",
+      null,
+      "147749",
+      "147749",
+      "147748",
+      null
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to seek to generate capital appreciation by investing predominantly in a portfolio of equity and equity linked securities of large cap and mid cap companies. However, there can be no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments of large cap companies#: 35% - 65% of net assets, Equity & Equity related instruments of mid cap companies#: 35% - 65% of net assets, Equity & Equity related instruments of other than large & mid cap companies#: 0% - 30% of net assets, Debt and Money Market instruments: 0%-30% of net assets, Units issued by InvITs: 0% - 10% of net assets.",
+    "benchmark": "NIFTY LargeMidcap 250 Index (TRI)",
+    "fund_managers": "FM 1 - Mr. Vinod Malviya, FM 2 - Mr. Pratik Dharmshi",
+    "annual_expense": {
+      "Regular": "2.27",
+      "Direct": "1.02"
+    },
+    "exit_load": "1% if units are redeemed or switched out on or before completion of 15 days from the date of allotment. Nil thereafter."
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Transfer",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Transfer"
+  ],
+  "extracted_at": "2026-04-18T06:02:51.721082+00:00"
+}

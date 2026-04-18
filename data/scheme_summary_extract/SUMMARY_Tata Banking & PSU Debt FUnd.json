@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Tata Banking & PSU Debt Fund",
+  "source_file": "SUMMARY_Tata Banking & PSU Debt FUnd.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Banking & PSU Debt Fund",
+    "fund_type": "An open ended debt scheme predominantly investing in debt instruments of Banks, Public Sector Undertakings, Public FinancialInstitutions and Municipal Bonds. A Relatively High Interest Rate Risk and Moderate Credit Risk.",
+    "fund_options": [
+      "Tata Banking and PSU Debt Fund Regular Plan IDCW",
+      "Tata Banking and PSU Debt Fund Direct Plan IDCW",
+      "Tata Banking and PSU Debt Fund Regular Plan Growth",
+      "Tata Banking and PSU Debt Fund Direct Plan Growth"
+    ],
+    "isins": [
+      "INF277K012X0",
+      "INF277K014X6",
+      "INF277K011X2",
+      "INF277K015X3"
+    ],
+    "amfi_codes": [
+      "147633",
+      "147638",
+      "147635",
+      "147636"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to generate reasonable income, with low risk and high level of liquidity from a portfolio of predominantly debt & money market securities issued by Banks, Public Sector Undertakings (PSUs), Public FinancialInstitutions (PFIs) and Municipal Bonds.However, there is no assurance or guarantee that the investment objective of the Scheme will be achieved. The scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Debt & Money Market Instruments issued by Banks, Public Financial Institutions (PFIs), Public Sector Undertakings (PSUs) and Municipal Bonds 80-100, Debt (including government securities) and Money Market Instruments issued by entities other than Banks, PFIs and PSUs 0-20, Units of REITs and InvITs 0-10.",
+    "benchmark": "CRISIL Banking and PSU Debt A-II Index",
+    "fund_managers": "Amit Somani",
+    "annual_expense": {
+      "Regular": "0.72",
+      "Direct": "0.26"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Tata Banking and PSU Debt Fund Regular Plan IDCW",
+    "Tata Banking and PSU Debt Fund Direct Plan IDCW",
+    "Tata Banking and PSU Debt Fund Regular Plan Growth",
+    "Tata Banking and PSU Debt Fund Direct Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T05:50:56.873685+00:00"
+}

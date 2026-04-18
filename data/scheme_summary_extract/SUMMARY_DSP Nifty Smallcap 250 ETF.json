@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "DSP Nifty Smallcap 250 ETF",
+  "source_file": "SUMMARY_DSP Nifty Smallcap 250 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP Nifty Smallcap 250 ETF",
+    "fund_type": "Exchange Traded Fund (ETF)",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate returns that are commensurate with the performance of the Nifty Smallcap 250 Index, subject to tracking error. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "A. Equity and Equity Related Securities of companies constituting Nifty Smallcap 250 Index, the Underlying Index : 95% -100%, B. Cash and Cash Equivalents : 0% – 5%",
+    "benchmark": "Nifty Smallcap 250 TRI",
+    "fund_managers": "Mr. Anil Ghelani - Primary, Mr. Diipesh Shah - Comanage",
+    "annual_expense": {
+      "Direct": "0.20"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "154024"
+    ],
+    "isins": [
+      "INF740KA1WX3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T03:16:09.211296+00:00"
+}

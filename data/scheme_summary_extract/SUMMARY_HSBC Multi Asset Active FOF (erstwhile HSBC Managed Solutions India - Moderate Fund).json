@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "HSBC Multi Asset Active FOF",
+  "source_file": "SUMMARY_HSBC Multi Asset Active FOF (erstwhile HSBC Managed Solutions India - Moderate Fund).pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Multi Asset Active FOF",
+    "fund_type": "An open-ended multi asset Fund of Fund scheme investing in equity, debt, commodity-based schemes (including Gold and SilverETFs)",
+    "fund_options": [
+      "HSBC Multi Asset Active FOF IDCW",
+      "HSBC Multi Asset Active FOF IDCW Payout",
+      "HSBC Multi Asset Active FOF Growth",
+      "HSBC Multi Asset Active FOF Dir IDCW Pay",
+      "HSBC Multi Asset Active FOF Direct IDCW",
+      "HSBC Multi Asset Active FOF Direct Growth"
+    ],
+    "isins": [
+      "INF336L01IF8",
+      "INF336L01IE1",
+      "INF336L01IG6",
+      "INF336L01IH4",
+      "INF336L01II2",
+      "INF336L01IJ0"
+    ],
+    "amfi_codes": [
+      "129193"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The aim of the fund is to generate long-term capital growth and generate income by investing in Equity, Debt & commodity-based schemes (including Gold /Silver ETFs) and money market instruments.",
+    "asset_allocation": "Under normal circumstances, it is anticipated that the asset allocation of the Scheme will be as follows: - Units of mutual fundschemes out of which: 95% to 100% - (a)Investments in underlying Equity Oriented schemes: 65% to 80% - (b) Investments inunderlying Debt Oriented schemes: 10% to 25% - (c) Investments in commodity-based schemes (including Gold ETFs and SilverETFs): 10% to 25% - Money Market Instruments : 0% to 5%",
+    "benchmark": "BSE 200 TRI (65%) + NIFTY Short Duration Debt Index (20%) +Domestic Price of Gold (10%) +Domestic Price of Silver (5%)",
+    "fund_managers": "FM 1 - Gautam Bhupal",
+    "annual_expense": {
+      "Regular": "1.51",
+      "Direct": "0.55"
+    },
+    "exit_load": "Exit Load :(i) In respect of each purchase / switch-in of Units, an Exit Load of 1% is payable if Units are redeemed / switched-outwithin 1 year from the date of allotment. (ii) No Exit Load will be charged, if Units are redeemed/switched-out after 1 year fromthe date of allotment. The exit loads set forth above is subject to change at the discretion of the AMC and such changes shall beimplemented prospectively"
+  },
+  "fund_options_inferred": [
+    "HSBC Multi Asset Active FOF IDCW",
+    "HSBC Multi Asset Active FOF IDCW Payout",
+    "HSBC Multi Asset Active FOF Growth",
+    "HSBC Multi Asset Active FOF Dir IDCW Pay",
+    "HSBC Multi Asset Active FOF Direct IDCW",
+    "HSBC Multi Asset Active FOF Direct Growth"
+  ],
+  "extracted_at": "2026-04-18T03:58:55.600081+00:00"
+}

@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "HDFC Income Fund",
+  "source_file": "SUMMARY_HDFC Income Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Income Fund",
+    "fund_type": "An open ended medium term debt scheme investing in instruments such that the Macaulay Duration of the Portfolio is between 4years and 7 years . A Relatively High Interest Rate Risk and Moderate Credit Risk.",
+    "fund_options": [
+      "REGULAR PLAN - QUARTERLY IDCW PAYOUT",
+      "REGULAR PLAN - QUARTERLY IDCW REINVESTMENT",
+      "GROWTH OPTION",
+      "DIRECT PLAN - QUARTERLY IDCW REINVESTMENT",
+      "DIRECT PLAN - QUARTERLY IDCW PAYOUT",
+      "DIRECT PLAN - GROWTH OPTION",
+      "DIRECT PLAN - NORMAL IDCW PAYOUT",
+      "DIRECT PLAN - NORMAL IDCW REINVESTMENT",
+      "NORMAL IDCW PAYOUT",
+      "NORMAL IDCW REINVESTMENT"
+    ],
+    "isins": [
+      "INF179K01947",
+      "INF179K01954",
+      "INF179K01962",
+      "INF179K01WK5",
+      "INF179K01WJ7",
+      "INF179K01WL3",
+      "INF179KA1Q12",
+      "INF179KA1Q04",
+      "INF179KA1Q38",
+      "INF179KA1Q20"
+    ],
+    "amfi_codes": [
+      "100123",
+      "119068",
+      "100124",
+      "119069",
+      "119069",
+      "119069",
+      "133365",
+      "133365",
+      "133366",
+      "133366"
+    ],
+    "riskometer": "Moderate Risk",
+    "investment_objective": "To generate income/capital appreciation through investments in debt and money market instruments. There is no assurance thatthe investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Debt (including securitised debt) and Money Market Instruments^ : Upto 100%; Units issued by InvITs : 0% - 10% ^PortfolioMacaulay Duration shall be between 4 years to 7 years in normal circumstances and 1 year to 7 years in anticipated adversesituation. For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
+    "benchmark": "CRISIL Medium To Long Duration Debt A-III Index",
+    "fund_managers": "FM 1 - Mr.Shobhit Mehrotra, FM 2 - Mr.Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "1.44",
+      "Direct": "0.80"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN - QUARTERLY IDCW PAYOUT",
+    "REGULAR PLAN - QUARTERLY IDCW REINVESTMENT",
+    "GROWTH OPTION",
+    "DIRECT PLAN - QUARTERLY IDCW REINVESTMENT",
+    "DIRECT PLAN - QUARTERLY IDCW PAYOUT",
+    "DIRECT PLAN - GROWTH OPTION",
+    "DIRECT PLAN - NORMAL IDCW PAYOUT",
+    "DIRECT PLAN - NORMAL IDCW REINVESTMENT",
+    "NORMAL IDCW PAYOUT",
+    "NORMAL IDCW REINVESTMENT"
+  ],
+  "extracted_at": "2026-04-18T03:43:55.960196+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "HSBC Mid Cap Fund (Erstwhile L&T Midcap Fund)",
+  "source_file": "SUMMARY_HSBC Midcap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Mid Cap Fund (Erstwhile L&T Midcap Fund)",
+    "fund_type": "An open ended equity scheme predominantly investing in mid cap stocks",
+    "fund_options": [
+      "HSBC Midcap Fund - Direct Growth Payout",
+      "HSBC Midcap Fund - Direct IDCW Payout",
+      "HSBC Midcap Fund - Direct IDCW Reinvestment",
+      "HSBC Midcap Fund - Regular Growth Payout",
+      "HSBC Midcap Fund - Regular IDCW Payout",
+      "HSBC Midcap Fund - Regular IDCW Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme to generate long-term capital growth from an actively managed portfolio of equityand equity related securities of predominantly mid cap companies. However, there can be no assurance or guarantee thatthe investment objective of the scheme would be achieved.",
+    "asset_allocation": "Equity and Equity related securities midcap companies 65% -100% Equity and Equity related Instruments of companies otherthan midcap companies 0% -35% Debt securities & Money Market instruments (including cash & cash equivalents) 0% -35%Units issued by REITs / InvITs 0%-10%",
+    "benchmark": "NIFTY Midcap 150 TRI",
+    "fund_managers": "Cheenu Gupta, Sonal Gupta",
+    "annual_expense": {
+      "Regular": "1.72",
+      "Direct": "0.65"
+    },
+    "exit_load": "If the units redeemed or switched out are upto 10% of the units purchased or switched in (“the limit”) within 1 year from thedate of allotment – Nil. If units redeemed or switched out are over and above the limit within 1 year from the date ofallotment – 1%. If units are redeemed or switched out on or after 1 year from the date of allotment – Nil.",
+    "amfi_codes": [
+      "151036",
+      "151035",
+      "151035",
+      "151034",
+      "151033",
+      "151033"
+    ],
+    "isins": [
+      "INF917K01FZ1",
+      "INF917K01E78",
+      "INF917K01FX6",
+      "INF917K01254",
+      "INF917K01239",
+      "INF917K01247"
+    ]
+  },
+  "fund_options_inferred": [
+    "HSBC Midcap Fund - Direct Growth Payout",
+    "HSBC Midcap Fund - Direct IDCW Payout",
+    "HSBC Midcap Fund - Direct IDCW Reinvestment",
+    "HSBC Midcap Fund - Regular Growth Payout",
+    "HSBC Midcap Fund - Regular IDCW Payout",
+    "HSBC Midcap Fund - Regular IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T03:58:41.791885+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "Sundaram Balanced Advantage Fund",
+  "source_file": "SUMMARY_Sundaram Balanced Advantage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Sundaram Balanced Advantage Fund",
+    "fund_type": "An open ended dynamic asset allocation fund",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan- IDCW Payout",
+      "Direct Plan- IDCW Reinvestment",
+      "Regular Plan- Growth",
+      "Regular Plan -IDCW Payout",
+      "Regular Plan- IDCW Reinvestment"
+    ],
+    "riskometer": "Moderately High Risk",
+    "investment_objective": "An open ended dynamic asset allocation fund, The investment objective of the Scheme is to provide accrual income andcapital appreciation by investing in a mix of equity, debt, REITs/InvITs and equity derivatives that are managed dynamically.",
+    "asset_allocation": "Equity and equity related instruments – 0-100 %, Risk Proﬁle – High Fixed Income, Money Market Instruction – 0-100 %, RiskProﬁle - Low to Medium Units issued by REITs and InvITs – 0-10%, Risk Proﬁle - Medium to High",
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
+    "fund_managers": "FM 1 -Mr. S. Bharath, FM 2 -Mr. Ravi Gopalakrishnan, FM 3 -Mr. Dwijendra Srivastava (Fixed Income)",
+    "annual_expense": {
+      "Regular": "2.25"
+    },
+    "exit_load": "Nil – upto 25%, 1% of NAV- above 25% by way of SWP or transferred by way of STP and exit load will be waived on Intra-scheme and Inter-scheme Switch-outs",
+    "amfi_codes": [
+      "149715",
+      "149716",
+      "149717",
+      "149718"
+    ],
+    "isins": [
+      "INF173K01FI7",
+      "INF173K01FF3",
+      "INF173K01FG1",
+      "INF173K01585",
+      "INF173K01551",
+      "INF173K01569"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan- IDCW Payout",
+    "Direct Plan- IDCW Reinvestment",
+    "Regular Plan- Growth",
+    "Regular Plan -IDCW Payout",
+    "Regular Plan- IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T05:46:04.493804+00:00"
+}

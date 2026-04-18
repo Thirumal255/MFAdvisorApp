@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Sundaram Equity Savings Fund",
+  "source_file": "SUMMARY_Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund).pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Sundaram Equity Savings Fund",
+    "fund_type": "An open ended scheme investing in equity,arbitrage and debt.",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW Payout",
+      "Direct Plan IDCW Reinvestment",
+      "Regular Plan Growth",
+      "Regular Plan IDCW Payout",
+      "Regular Plan IDCW Reinvestment"
+    ],
+    "riskometer": "Moderatley Risk",
+    "investment_objective": "An open ended scheme investing in equity, arbitrage and debt.The investment objective of the Scheme is to provide capitalappreciation and income distribution to the investors by using equity and equity related instruments, arbitrageopportunities, and investments in debt and money market instruments",
+    "asset_allocation": "Equity & Equity related instruments (Including Derivatives) 65-90% Derivatives includes Index Futures, Stock Futures, IndexOptions, Stock Options, etc., backed by underlying equity 15-75% Unhedged Equity position 15-50% Fixed Income andmoney market 10-35% Units issued by REITs/InvITs 0-10%",
+    "benchmark": "Nifty Equity Savings Index",
+    "fund_managers": "FM1 - Mr. Clyton Richard Fernandes; FM2 - Mr. Rohit Seksaria; FM3 - Mr. Dwijendra Srivastava",
+    "annual_expense": {
+      "Regular": "2.16",
+      "Direct": "0.72"
+    },
+    "exit_load": "0.5% - For redemption, withdrawn by way of SWP or transfer by way of Switch/STP within 07 days from the date ofallotment. NIL - For redemption or withdrawn by way of SWP or transfer by way of Switch/STP after 07 days from the dateof allotment.",
+    "amfi_codes": [
+      "149674",
+      "149675",
+      "149676",
+      "149677",
+      "149678",
+      "149679"
+    ],
+    "isins": [
+      "INF173K01GZ9",
+      "INF173K01HC6",
+      "INF173K01HD4",
+      "INF173K01213",
+      "INF173K01247",
+      "INF173K01254"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW Payout",
+    "Direct Plan IDCW Reinvestment",
+    "Regular Plan Growth",
+    "Regular Plan IDCW Payout",
+    "Regular Plan IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T05:47:15.929906+00:00"
+}

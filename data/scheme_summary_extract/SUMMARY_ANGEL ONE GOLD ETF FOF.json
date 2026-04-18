@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Angel One Gold ETF FOF",
+  "source_file": "SUMMARY_ANGEL ONE GOLD ETF FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Angel One Gold ETF FOF",
+    "fund_type": "An open-ended fund of fund scheme investing in units of Angel One Gold ETF",
+    "fund_options": [
+      "Regular Growth",
+      "Direct Growth"
+    ],
+    "riskometer": "High Risk. Investors understand that their principal will be at High Risk.",
+    "investment_objective": "The investment objective of the Scheme is to seek to generate returns by investing in units of Angel One Gold ETF. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Units of Angel One Gold ETF - 95 - 100%\nCash & Cash Equivalents and Money Market instruments, Reverse Repo and / or Tri-Party Repo on Government Securities and / or Treasury bills and/or units of money market / liquid schemes - 0-5%",
+    "benchmark": "Domestic price of gold",
+    "fund_managers": "FM1 - Mr. Mehul Dama; FM2 - Mr. Kewal Shah",
+    "annual_expense": {
+      "Regular": "1",
+      "Direct": "1"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153827",
+      "153828"
+    ],
+    "isins": [
+      "INF1J2R01098",
+      "INF1J2R01106"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth"
+  ],
+  "extracted_at": "2026-04-18T02:18:10.273583+00:00"
+}

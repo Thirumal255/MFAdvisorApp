@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "UTI - Unit Linked Insurance Plan",
+  "source_file": "SUMMARY_UTI - Unit Linked Insurance Plan.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "UTI - Unit Linked Insurance Plan",
+    "fund_type": "An Open-ended tax saving cum insurance scheme",
+    "fund_options": [
+      "Regular Plan-10 Years Plan",
+      "Regular Plan-15 Years Plan",
+      "Direct Plan-10 Years Plan",
+      "Direct Plan-15 Years Plan"
+    ],
+    "riskometer": "High",
+    "investment_objective": "Investment objective of the scheme is primarily to provide return through growth in the NAV or through dividend distribution(IDCW) and reinvestment thereof. Amounts collected under the scheme shall generally be invested as follows: (a) Not lessthan 60% of the funds in debt instruments with low to medium risk proﬁle. (b) Not more than 40% of the funds in equitiesand equity related instruments",
+    "asset_allocation": "Debt: 60-100% (Low to Medium) Equity: 0-40% (Medium to High)",
+    "benchmark": "Nifty 50 Hybrid Composite Debt 50:50 Index",
+    "fund_managers": "Mr. Sunil Patil FM 1,Mr. Anurag Mittal FM 2,Mr. Ajay Tyagi FM 3,Mr. Kamal Gada FM 4, Mr. Akash Shah FM 5",
+    "annual_expense": {
+      "Regular": "1.66",
+      "Direct": "1.06"
+    },
+    "exit_load": "2% of NAV for premature withdrawal.",
+    "amfi_codes": [
+      "100646",
+      "100646",
+      "120784",
+      "120784"
+    ],
+    "isins": [
+      "INF789F1AA15",
+      "INF789F1AA31",
+      "INF789F1AA23",
+      "INF789F1AA49"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-10 Years Plan",
+    "Regular Plan-15 Years Plan",
+    "Direct Plan-10 Years Plan",
+    "Direct Plan-15 Years Plan"
+  ],
+  "extracted_at": "2026-04-18T06:07:58.472202+00:00"
+}

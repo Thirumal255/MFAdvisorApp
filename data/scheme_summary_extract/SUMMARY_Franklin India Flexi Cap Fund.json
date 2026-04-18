@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Franklin India Flexi Cap Fund",
+  "source_file": "SUMMARY_Franklin India Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Franklin India Flexi Cap Fund",
+    "fund_type": "Flexi cap Fund- An open-ended dynamic equity scheme investing across large, mid and small cap stocks",
+    "fund_options": [
+      "Regular - Growth",
+      "Direct - IDCW Reinv.",
+      "Regular - IDCW Payout",
+      "Direct - Growth",
+      "Regular - IDCW Reinv.",
+      "Direct - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide growth of capital plus regular IDCW through a diversiﬁed portfolio ofequities, ﬁxed income securities and money market instruments.",
+    "asset_allocation": "Equity and Equity related instruments: 65%-100% Treasury bills, Government securities, call or notice money, repos / reverserepos, TREPs, CROMS with G Secs as underlying: 0%-35%",
+    "benchmark": "NIFTY 500",
+    "fund_managers": "R. Janakiraman, Rajasa Kakulavarapu, Sandeep Manam (dedicated for making investments for Foreign Securities)",
+    "annual_expense": {
+      "Regular": "1.69",
+      "Direct": "0.89"
+    },
+    "exit_load": "In respect of each purchase of Units - 1% if the Units are redeemed/switched-out within one year of allotment",
+    "amfi_codes": [
+      "100520",
+      "118534",
+      "100519",
+      "118535",
+      "100520",
+      "118534"
+    ],
+    "isins": [
+      "INF090I01239",
+      "INF090I01FM9",
+      "INF090I01213",
+      "INF090I01FK3",
+      "INF090I01221",
+      "INF090I01FL12"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Direct - IDCW Reinv.",
+    "Regular - IDCW Payout",
+    "Direct - Growth",
+    "Regular - IDCW Reinv.",
+    "Direct - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T03:31:02.284991+00:00"
+}

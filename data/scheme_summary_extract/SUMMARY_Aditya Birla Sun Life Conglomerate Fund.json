@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "Aditya Birla Sun Life Conglomerate Fund",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Conglomerate Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Aditya Birla Sun Life Conglomerate Fund",
+    "fund_type": "An open ended diversified equity scheme following conglomerate theme",
+    "fund_options": [
+      "Direct Growth",
+      "Direct IDCW Payout",
+      "Regular IDCW Payout",
+      "Regular-Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to achieve long term capital appreciation by investing in equity and equity related securities of companies that follow conglomerate theme. The Scheme does not guarantee/indicate any returns. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme will be as follows: Equity & Equity related instruments of companies forming part of conglomerate theme*$- 80%- 100% Equity & Equity related instruments# of companies other than that forming part of conglomerate theme-  0%- 20% Debt and Money Market Instruments^- 0% 20 Units issued by INVITs- 0%- 10% # including equity ETFs ^ including debt ETFs $ including stocks that are part of the benchmark of the fund",
+    "benchmark": "BSE Select Business Groups Index",
+    "fund_managers": [
+      "Mr. Harish Krishnan",
+      "Mr. Kunal Sangoi"
+    ],
+    "annual_expense": {
+      "Regular": "2.25",
+      "Direct": "0.70"
+    },
+    "exit_load": "For redemption / switch-out of units on or before 90 days from the date of allotment: 0.50% of applicable NAV. For redemption / switch-out of units after 90 days from the date of allotment: Nil.",
+    "amfi_codes": [
+      "153124",
+      "153125",
+      "153126",
+      "153127"
+    ],
+    "isins": [
+      "INF209KC1373",
+      "INF209KC1381",
+      "INF209KC1407",
+      "INF209KC1399"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Direct IDCW Payout",
+    "Regular IDCW Payout",
+    "Regular-Growth"
+  ],
+  "extracted_at": "2026-04-18T02:07:52.386597+00:00"
+}

@@ -1,0 +1,63 @@
+{
+  "parent_scheme_name": "BHARAT Bond FOF - April 2031",
+  "source_file": "SUMMARY_BHARAT Bond FOF- April 2031.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "BHARAT Bond FOF - April 2031",
+    "fund_type": "Fund of Funds",
+    "fund_options": [
+      "Direct Plan - Growth - Growth",
+      "Direct Plan - IDCW Option - Payout",
+      "Direct Plan - IDCW Option - Reinvestment",
+      "Regular Plan - Growth - Growth",
+      "Regular Plan - IDCW Option - Payout",
+      "Regular Plan - IDCW Option - Reinvestment"
+    ],
+    "isins": [
+      "INF754K01LO0",
+      "INF754K01LP7",
+      "INF754K01LQ5",
+      "INF754K01LL6",
+      "INF754K01LM4",
+      "INF754K01LN2"
+    ],
+    "amfi_codes": [
+      "O1D1",
+      "O1D2",
+      "O1D2",
+      "O1RG",
+      "O1RD",
+      "O1RD"
+    ],
+    "riskometer": "Moderate Risk",
+    "investment_objective": "BHARAT Bond FOF – April 2031 is a fund of funds scheme with the primary objective to generate returns by investing in units of BHARAT Bond ETF – April 2031. However, there is no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "1. Units of BHARAT Bond ETF – April 2031 - 95-100%\n2. Government Securities maturing on or before maturity date of the Scheme, TREPS and REPO in government bonds - 0-5%",
+    "benchmark": "Nifty BHARAT Bond Index – April 2031",
+    "fund_managers": [
+      {
+        "name": "Ms. Pranavi Kulkarni",
+        "type": "Co-Manage",
+        "from_date": "23/Nov/2021"
+      },
+      {
+        "name": "Mr. Hetul Raval",
+        "type": "Fund of Fund - Domestic",
+        "from_date": "23/Jul/2020"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "0.06",
+      "Direct": "0.06"
+    },
+    "exit_load": "• If redeemed or switched out on or before completion of 30 days from the date of allotment of units –0.10%\n• If redeemed or switched out after completion of 30 days from the date of allotment of units –NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth - Growth",
+    "Direct Plan - IDCW Option - Payout",
+    "Direct Plan - IDCW Option - Reinvestment",
+    "Regular Plan - Growth - Growth",
+    "Regular Plan - IDCW Option - Payout",
+    "Regular Plan - IDCW Option - Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T03:04:18.324912+00:00"
+}

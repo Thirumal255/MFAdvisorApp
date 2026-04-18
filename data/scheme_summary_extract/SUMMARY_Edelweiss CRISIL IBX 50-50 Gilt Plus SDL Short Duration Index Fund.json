@@ -1,0 +1,63 @@
+{
+  "parent_scheme_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index Fund",
+  "source_file": "SUMMARY_Edelweiss CRISIL IBX 50-50 Gilt Plus SDL Short Duration Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index Fund",
+    "fund_type": "Index Funds",
+    "fund_options": [
+      "Direct Plan Growth - Growth",
+      "Direct Plan IDCW- Payout",
+      "Direct Plan IDCW- Reinvestment",
+      "Direct Plan IDCW- Transfer",
+      "Regular Plan Growth - Growth",
+      "Regular Plan IDCW - Payout",
+      "Regular Plan IDCW - Reinvestment",
+      "Regular Plan IDCW - Transfer"
+    ],
+    "isins": [
+      "INF754K01RK5",
+      "INF754K01RL3",
+      "INF754K01RM1",
+      "INF754K01RN9",
+      "INF754K01RG3",
+      "INF754K01RH1",
+      "INF754K01RI9",
+      "INF754K01RJ7"
+    ],
+    "amfi_codes": [
+      "151365",
+      "151397",
+      "151397",
+      "151397",
+      "151398",
+      "151399",
+      "151399",
+      "151399"
+    ],
+    "riskometer": "Low to Moderate Risk",
+    "investment_objective": "The investment objective of the scheme is to replicate CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index by investing in a diversified portfolio of Indian Government Bonds and SDLs, subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be realized, and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "1. # Indian Government Bonds and SDLs representing CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index - 95-100%\n2. Money Market Instruments - 0-5%",
+    "benchmark": "CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index",
+    "fund_managers": [
+      "Ms. Pranavi Kulkarni",
+      "Mr. Dhawal Dalal"
+    ],
+    "annual_expense": {
+      "Regular": "0.39",
+      "Direct": "0.15"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth - Growth",
+    "Direct Plan IDCW- Payout",
+    "Direct Plan IDCW- Reinvestment",
+    "Direct Plan IDCW- Transfer",
+    "Regular Plan Growth - Growth",
+    "Regular Plan IDCW - Payout",
+    "Regular Plan IDCW - Reinvestment",
+    "Regular Plan IDCW - Transfer"
+  ],
+  "extracted_at": "2026-04-18T03:21:05.619140+00:00"
+}

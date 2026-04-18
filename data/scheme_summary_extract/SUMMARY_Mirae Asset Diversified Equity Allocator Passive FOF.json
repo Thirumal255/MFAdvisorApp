@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Mirae Asset Diversiﬁed Equity Allocator Passive FOF",
+  "source_file": "SUMMARY_Mirae Asset Diversified Equity Allocator Passive FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Diversiﬁed Equity Allocator Passive FOF",
+    "fund_type": "Fund of Fund - Domestic (FOF) - An open ended fund of fund scheme predominantly investing in units of domestic equityETFs",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular PlanIDCW - Payout",
+      "RegularPlanIDCW - Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation from a portfolio investing predominantly in units of domestic equity ETFs. There is no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "Units of domestic Equity Exchange Traded Funds (ETFs) - 95% to 100% (High) Money market instruments / debt securities,Instruments and/or units of debt/liquid schemes of domestic Mutual Funds - 0% to 5% (Low to Medium)",
+    "benchmark": "Nifty 200 Index (TRI)",
+    "fund_managers": "Mr. Siddharth Srivastava",
+    "annual_expense": {
+      "Regular": "0.12",
+      "Direct": "0.06"
+    },
+    "exit_load": "Exit Load: if redeemed or switched out within 5 calendar days from the date of allotment: 0.05% if redeemed or switched out after 5 days from date of allotment: Nil",
+    "amfi_codes": [
+      "148500",
+      "148501",
+      "148502",
+      "148503"
+    ],
+    "isins": [
+      "INF769K01GA7",
+      "INF769K01GB5",
+      "INF769K01GC3",
+      "INF769K01GD1",
+      "INF769K01GE9",
+      "INF769K01GF6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular PlanIDCW - Payout",
+    "RegularPlanIDCW - Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T04:54:14.393448+00:00"
+}

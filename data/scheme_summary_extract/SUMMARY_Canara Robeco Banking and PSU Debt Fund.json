@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Canara Robeco Banking and PSU Debt Fund",
+  "source_file": "SUMMARY_Canara Robeco Banking and PSU Debt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Canara Robeco Banking and PSU Debt Fund",
+    "fund_type": "An open-ended debt scheme predominantly investing in debt instruments of banks, public sector undertakings, publicﬁnancial institutions and municipal bonds. A relatively high interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular - Growth"
+    ],
+    "isins": [
+      "INF760K01KE0",
+      "INF760K01KD2",
+      "INF760K01KC4",
+      "INF760K01KH3",
+      "INF760K01KG5",
+      "INF760K01KF7"
+    ],
+    "amfi_codes": [
+      "150507",
+      "150507",
+      "150505",
+      "150504",
+      "150504",
+      "150503"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The Scheme seeks to generate income and/or capital appreciation through a portfolio of high quality debt and money marketinstruments issued by entities such as Banks, Public Sector Undertakings (PSUs), Public Financial Institutions (PFIs) andMunicipal Bonds. However, there is no assurance that the objective of the fund will be realised.",
+    "asset_allocation": "Debt and Money Market Instruments issued by Banks, Public Financial Institutions (PFIs), Public Sector Undertakings (PSUs)and Municipal Bonds - 80% to 100% Debt (including securities issued by Central and State Governments) and Money MarketInstruments issued by entities other than Banks, PFIs, PSUs and Municipal Bonds - 0% to 20% Units issued by InvITs- 0% to10%",
+    "benchmark": "CRISIL Banking and PSU Debt A-II Index",
+    "fund_managers": "Mr. Avnish Jain",
+    "annual_expense": {
+      "Regular": "0.72",
+      "Direct": "0.42"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular - Growth"
+  ],
+  "extracted_at": "2026-04-18T03:04:57.367690+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "SBI Banking and PSU Fund",
+  "source_file": "SUMMARY_SBI BANKING & PSU FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Banking and PSU Fund",
+    "fund_type": "An open-ended debt scheme predominantly investing in debt instruments of banks, Public Sector Undertakings, Public Financial Institutions and Municipal Bodies",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Direct Plan - IDCW"
+    ],
+    "riskometer": "MODERATE",
+    "investment_objective": "The scheme seeks to generate regular income through a judicious mix of portfolio comprising predominantly debt and money market securities of Banks, Public Sector Undertakings, Public Financial Institutions and Municipal bodies.",
+    "asset_allocation": {
+      "Debt and money market instrumetns issued by Banks, PSUs, PFIs and Municipal bodies": "80%-100%",
+      "Debt Instruments (including Central and State Government securities) and money market instruments other than above": "0%-20%"
+    },
+    "benchmark": "NIFTY Banking and PSU Debt Index",
+    "fund_managers": [
+      "Mr. Rajeev Radhakrishnan",
+      "Mr. Ardhendu Bhattacharya"
+    ],
+    "annual_expense": {
+      "Regular": "0.76"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "125503",
+      "125500",
+      "125498",
+      "125505"
+    ],
+    "isins": [
+      "INF200K01V08",
+      "INF200K01U66",
+      "INF200K01U41",
+      "INF200K01V57"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Direct Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-18T05:34:53.504964+00:00"
+}

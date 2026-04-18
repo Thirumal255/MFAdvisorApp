@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "HSBC Global Equity Climate Change Fund of Fund",
+  "source_file": "SUMMARY_HSBC Global Equity Climate Change Fund of Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Global Equity Climate Change Fund of Fund",
+    "fund_type": "An open ended fund of fund scheme investing in HSBC Global Investment Funds – Global Equity Climate Change",
+    "fund_options": [
+      "Global Equity FoF Direct Growth",
+      "Global Equity FoF IDCW",
+      "Global Equity FoF Direct IDCW Pay",
+      "Global Equity FoF Growth",
+      "Global Equity FoF IDCW Payout",
+      "Global Equity FoF Direct IDCW"
+    ],
+    "isins": [
+      "INF336L01PV0",
+      "INF336L01QA2",
+      "INF336L01PW8",
+      "INF336L01PY4",
+      "INF336L01PZ1",
+      "INF336L01PX6"
+    ],
+    "amfi_codes": [
+      "148737"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide long term capital appreciation by investing predominantly in units of HSBC Global Investment Funds – Global Equity Climate Change (HGECC). The Scheme may also invest a certain proportion of its corpus in money market instruments and / or units of overnight / liquid mutual fund schemes, in order to meet liquidity requirements from time to time. However, there is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Units issued by HSBC Global Investment Funds - Global Equity Climate Change (HGECC)- 95%- 100% Money Market instruments(including TREPS & reverse repo in government securities) and units of domestic overnight / liquid mutual funds- 0%-5%",
+    "benchmark": "MSCI AC World TRI",
+    "fund_managers": [
+      "Sonal Gupta",
+      "Mahesh Chhabria"
+    ],
+    "annual_expense": {
+      "Regular": "1.43",
+      "Direct": "0.91"
+    },
+    "exit_load": "Exit Load : (i) Any redemption / switch-out of units within 1 year from the date of allotment shall be subject to 1% exit load. (ii)No Exit Load will be charged, if units are redeemed / switched-out after 1 year from the date of allotment. The exit loads setforth above is subject to change at the discretion of the AMC and such changes shall be implemented prospectively. In terms of SEBI circular no. SEBI/IMD/CIR No.4/168230/09 dated June 30, 2009, no entry load will be charged by the Scheme to the investor eﬀective August 1, 2009."
+  },
+  "fund_options_inferred": [
+    "Global Equity FoF Direct Growth",
+    "Global Equity FoF IDCW",
+    "Global Equity FoF Direct IDCW Pay",
+    "Global Equity FoF Growth",
+    "Global Equity FoF IDCW Payout",
+    "Global Equity FoF Direct IDCW"
+  ],
+  "extracted_at": "2026-04-18T03:56:41.234256+00:00"
+}

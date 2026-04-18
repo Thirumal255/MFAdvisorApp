@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Tata Corporate Bond Fund",
+  "source_file": "SUMMARY_Tata Corporate Bond Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Corporate Bond Fund",
+    "fund_type": "An open-ended debt scheme predominantly investing in AA+ and above rated corporate bonds, with ﬂexibility of any MacaulayDuration and relatively high interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Tata Corporate Bond Fund Regular Plan Growth",
+      "Tata Corporate Bond Fund Direct Plan Growth",
+      "Tata Corporate Bond Fund RegularPlan - IDCW Monthly",
+      "Tata Corporate Bond Fund Direct Plan - IDCW Monthly",
+      "Tata Corporate Bond Fund Regular Plan - IDCWPeriodic",
+      "Tata Corporate Bond Fund Direct Plan - IDCW Periodic",
+      "Tata Corporate Bond Fund Regular Plan - IDCW Quarterly",
+      "TataCorporate Bond Fund Direct Plan - IDCW Quarterly"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to generate returns over short to medium term by investing predominantly in corporatedebt instruments. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved. Thescheme doesn’t assure or guarantee any returns.",
+    "asset_allocation": "Corporate Debt instruments (including securitised debt) across maturities and ratings 80-100, Other Debt & Money MarketInstruments 0-20, Units issued by REITs & InvITs 0-10.",
+    "benchmark": "CRISIL Corporate Bond A-II Index",
+    "fund_managers": "Murthy Nagarajan",
+    "annual_expense": {
+      "Regular": "0.86",
+      "Direct": "0.31"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "149351",
+      "149361",
+      "149363",
+      "149357",
+      "149352",
+      "149356",
+      "149359",
+      "149358"
+    ],
+    "isins": [
+      "INF277KA1299",
+      "INF277KA1224",
+      "INF277KA1349",
+      "INF277KA1273",
+      "INF277KA1331",
+      "INF277KA1265",
+      "INF277KA1356",
+      "INF277KA1281"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Corporate Bond Fund Regular Plan Growth",
+    "Tata Corporate Bond Fund Direct Plan Growth",
+    "Tata Corporate Bond Fund RegularPlan - IDCW Monthly",
+    "Tata Corporate Bond Fund Direct Plan - IDCW Monthly",
+    "Tata Corporate Bond Fund Regular Plan - IDCWPeriodic",
+    "Tata Corporate Bond Fund Direct Plan - IDCW Periodic",
+    "Tata Corporate Bond Fund Regular Plan - IDCW Quarterly",
+    "TataCorporate Bond Fund Direct Plan - IDCW Quarterly"
+  ],
+  "extracted_at": "2026-04-18T05:51:39.744041+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "TATA NIFTY G-SEC DEC 2029 INDEX FUND",
+  "source_file": "SUMMARY_Tata Nifty G-Sec Dec 2029 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "TATA NIFTY G-SEC DEC 2029 INDEX FUND",
+    "fund_type": "An open-ended Target Maturity Index Fund predominately investing in constituents of Nifty G-Sec Dec 2029 Index. A Schemewith Relatively High Interest Rate Risk and Relatively Low Credit Risk.",
+    "fund_options": [
+      "Tata Nifty G-Sec Dec 2029 Index Fund - Regular Plan - IDCW",
+      "Tata Nifty G-Sec Dec 2029 Index Fund - Regular Plan - IDCWPayout",
+      "Tata Nifty G-Sec Dec 2029 Index Fund - Direct Plan - IDCW Payout",
+      "Tata Nifty G-Sec Dec 2029 Index Fund - Direct Plan -IDCW",
+      "Tata Nifty G-Sec Dec 2029 Index Fund - Regular Plan - Growth",
+      "Tata Nifty G-Sec Dec 2029 Index Fund - Direct Plan - Growth"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide returns that correspond to the total returns of the securities asrepresented by the underlying index, subject to tracking error.There is no guarantee or assurance that the investment objectiveof the scheme will be achieved. The scheme doesn’t assure or guarantee any returns.",
+    "asset_allocation": "Securities covered by Nifty G-Sec Dec 2029 Index 95-100,Government Securities maturing on or before maturity date of theScheme, Money Market Instruments and units of debt oriented mutual fund schemes. 0-5.",
+    "benchmark": "Nifty G-Sec Dec 2029 Index (TRI)",
+    "fund_managers": "Amit Somani",
+    "annual_expense": {
+      "Regular": "0.46",
+      "Direct": "0.14"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "151276",
+      "151277",
+      "151274",
+      "151278",
+      "151275",
+      "151273"
+    ],
+    "isins": [
+      "INF277KA1778",
+      "INF277KA1786",
+      "INF277KA1752",
+      "INF277KA1745",
+      "INF277KA1760",
+      "INF277KA1737"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Nifty G-Sec Dec 2029 Index Fund - Regular Plan - IDCW",
+    "Tata Nifty G-Sec Dec 2029 Index Fund - Regular Plan - IDCWPayout",
+    "Tata Nifty G-Sec Dec 2029 Index Fund - Direct Plan - IDCW Payout",
+    "Tata Nifty G-Sec Dec 2029 Index Fund - Direct Plan -IDCW",
+    "Tata Nifty G-Sec Dec 2029 Index Fund - Regular Plan - Growth",
+    "Tata Nifty G-Sec Dec 2029 Index Fund - Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:55:03.652151+00:00"
+}

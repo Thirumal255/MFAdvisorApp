@@ -1,0 +1,48 @@
+{
+  "parent_scheme_name": "ICICI Prudential Retirement Fund - Hybrid Conservative Plan",
+  "source_file": "SUMMARY_ICICI Prudential Retirement Fund Hybrid Conservative Plan.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Retirement Fund - Hybrid Conservative Plan",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW"
+    ],
+    "isins": [
+      "INF109KC1UA8",
+      "INF109KC1UB6",
+      "INF109KC1TY0",
+      "INF109KC1TZ7"
+    ],
+    "amfi_codes": [
+      "146716",
+      "146718",
+      "146717",
+      "146719"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "To generate regular income through investments predominantly in debt and money market instruments. The Scheme also seeks to generate long term capital appreciation from the portion of equity investments under the Scheme. However, there is no assurance or guarantee that the investment objective of the plan would be achieved.",
+    "asset_allocation": "• Debt Securities, money market instruments = 70% - 95% \n• Equity & Equity related instruments = 5% - 30% \n• Units issued by InvITs = 0% - 10%",
+    "benchmark": "Nifty 50 Hybrid Composite Debt 15:85 Conservative Index",
+    "fund_managers": [
+      "Darshil Dedhia",
+      "Rohit Lakhotia",
+      "Manasvi Shah"
+    ],
+    "annual_expense": {
+      "Regular": "2.12",
+      "Direct": "0.94"
+    },
+    "exit_load": null
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-18T04:16:38.476450+00:00"
+}

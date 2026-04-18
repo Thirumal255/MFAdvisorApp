@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE GLOBAL EMERGING OPPORTUNITIES FUND",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Global Emerging Opportunities Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE GLOBAL EMERGING OPPORTUNITIES FUND",
+    "fund_type": "An open ended fund of fund scheme investing primarily in units of Julius Baer Equity Next Generation Fund",
+    "fund_options": [
+      "Regular Plan - Growth Option",
+      "Regular - IDCW",
+      "Direct plan - Growth Option",
+      "Direct - IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary objective of the Scheme is to achieve long-term capital growth by investing primarily in units of Julius Baer Equity Next Generation Fund. The Scheme does not guarantee/indicate any returns. There can be no assurance that the schemes’ objectives will be achieved.",
+    "asset_allocation": "Units of Julius Baer Equity Next Generation Fund- 95-100% - High\nMoney Market Instruments- 0-5% - Low",
+    "benchmark": "MSCI AC World TR Index",
+    "fund_managers": "Mr. Dhaval Joshi",
+    "annual_expense": {
+      "Regular": "1.13",
+      "Direct": "0.58"
+    },
+    "exit_load": "For redemption/switch out of units within 28 days from the date of allotment: 0.25% of applicable NAV. For redemption/switch out of units after 28 days from the date of allotment: NIL",
+    "amfi_codes": [
+      "132138",
+      "132139",
+      "132140",
+      "132141"
+    ],
+    "isins": [
+      "INF084M01AT0",
+      "INF084M01AU8",
+      "INF084M01EB0",
+      "INF084M01EC8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth Option",
+    "Regular - IDCW",
+    "Direct plan - Growth Option",
+    "Direct - IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:12:13.274013+00:00"
+}

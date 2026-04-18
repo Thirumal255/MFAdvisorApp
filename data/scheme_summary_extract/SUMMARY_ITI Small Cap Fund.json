@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "ITI Small Cap Fund",
+  "source_file": "SUMMARY_ITI Small Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ITI Small Cap Fund",
+    "fund_type": "An open ended equity scheme predominantly investing in small cap stocks",
+    "fund_options": [
+      "ITI SMALL CAP FUND DIRECT PLAN-IDCW - PAYOUT",
+      "ITI SMALL CAP FUND DIRECT PLAN-IDCW - REINVESTMENT",
+      "ITI SMALL CAP FUND REGULAR PLAN-IDCW - PAYOUT",
+      "ITI SMALL CAP FUND REGULAR PLAN-IDCW - REINVESTMENT",
+      "ITI SMALL CAP FUND DIRECT PLAN-GROWTH",
+      "ITI SMALL CAP FUND REGULAR PLAN-GROWTH"
+    ],
+    "riskometer": "Very High risk",
+    "investment_objective": "The investment objective of the Scheme is to generate capital appreciation by predominantly investing in equity and equityrelated securities of small cap companies. However, there can be no assurance that the investment objective of the schemewould be achieved.",
+    "asset_allocation": "Equity, Units issued by REITs and Equity related instruments of small cap companies 65%-100%, Equity and Equity RelatedInstruments of other than small cap companies 0%-35%, Debt and Money Market Instruments - 0%-35%, Units issued by InvITs0%-10%",
+    "benchmark": "Nifty Smallcap 250 Total Return Index",
+    "fund_managers": "Mr. Rohan Korde, Mr. Dhimant Shah, Mr. Rajesh Bhatia",
+    "annual_expense": {
+      "Regular": "1.87",
+      "Direct": "0.39"
+    },
+    "exit_load": "If redeemed/Switched out on or before 3 Months from the date of allotment; Exit Load is 0.50% Exit Load after completion of3 months - NIL",
+    "amfi_codes": [
+      "147917",
+      "147917",
+      "147918",
+      "147918",
+      "147919",
+      "147920"
+    ],
+    "isins": [
+      "INF00XX01754",
+      "INF00XX01762",
+      "INF00XX01721",
+      "INF00XX01739",
+      "INF00XX01747",
+      "INF00XX01713"
+    ]
+  },
+  "fund_options_inferred": [
+    "ITI SMALL CAP FUND DIRECT PLAN-IDCW - PAYOUT",
+    "ITI SMALL CAP FUND DIRECT PLAN-IDCW - REINVESTMENT",
+    "ITI SMALL CAP FUND REGULAR PLAN-IDCW - PAYOUT",
+    "ITI SMALL CAP FUND REGULAR PLAN-IDCW - REINVESTMENT",
+    "ITI SMALL CAP FUND DIRECT PLAN-GROWTH",
+    "ITI SMALL CAP FUND REGULAR PLAN-GROWTH"
+  ],
+  "extracted_at": "2026-04-18T04:27:39.990542+00:00"
+}

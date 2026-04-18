@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Mirae Asset Equity Savings Fund",
+  "source_file": "SUMMARY_Mirae Asset Equity Savings Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Equity Savings Fund",
+    "fund_type": "Equity Savings Fund - An open ended scheme investing in equity, arbitrage and debt",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular PlanIDCW - Payout",
+      "Regular PlanIDCW -Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The investment objective of the scheme is to provide capital appreciation and income distribution to the investors by usingequity and equity related instruments, arbitrage opportunities, and investments in debt and money market instruments. TheScheme does not assure or guarantee any returns.",
+    "asset_allocation": "Indian Equities and Equity Related Securities - 65% to 90% (Medium to High) i) Equities & equity related instruments(unhedged)- 20% to 45% (High) ii) Equities, equity related instruments and derivatives including index options & stock optionetc. as part of hedged / arbirage exposure. - 20% to 70% (Low to Medium) Money market instruments / debt securities,Instruments and/or units of debt / liquid schemes of domestic Mutual Funds - 10% to 35% (Low to Medium) / Units issued byREITs and InvITs - 0% to 10%",
+    "benchmark": "Nifty Equity Savings Index",
+    "fund_managers": "Mr. Harshad Borawake, Mr.Vrijesh Kasera, Ms. Bharti Sawant, Mr. Basant Bafna",
+    "annual_expense": {
+      "Regular": "1.36",
+      "Direct": "0.34"
+    },
+    "exit_load": "I. For investors who have opted for SWP under the plan: a) 15% of the units allotted (including Switch-in/STP-in) on or beforecompletion of 90 days from the date of allotment of units: Nil. b)Any redemption in excess of suchlimits in the ﬁrst 90 days fromthe date ofallotment shall be subject to the followingexit load: (Redemption of units would bedone on First in First Out Basis(FIFO): - If redeemed within 90 days from the date of allotment: 1% -If redeemed after 90 days from the dateof allotment: NILII.Other Redemptions: For Investors whohave not opted for SWP under the plan(including Switch out, STP out): -If redeemedwithin 90 days from the dateof allotment: 1% -If redeemed after 90 days from the dateof allotment: NIL",
+    "amfi_codes": [
+      "145693",
+      "145694",
+      "145695",
+      "145696"
+    ],
+    "isins": [
+      "INF769K01EH7",
+      "INF769K01EI5",
+      "INF769K01EJ3",
+      "INF769K01EK1",
+      "INF769K01EL9",
+      "INF769K01EM7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular PlanIDCW - Payout",
+    "Regular PlanIDCW -Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T04:54:42.339638+00:00"
+}

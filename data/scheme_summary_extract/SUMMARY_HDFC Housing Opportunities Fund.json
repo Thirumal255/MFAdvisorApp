@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "HDFC Housing Opportunities Fund",
+  "source_file": "SUMMARY_HDFC Housing Opportunities Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Housing Opportunities Fund",
+    "fund_type": "An open ended equity scheme following housing and allied activities theme",
+    "fund_options": [
+      "DIRECT PLAN - GROWTH OPTION",
+      "DIRECT PLAN - IDCW PAYOUT OPTION",
+      "DIRECT PLAN - IDCW REINVESTMENT OPTION",
+      "REGULAR PLAN - GROWTH OPTION",
+      "REGULAR PLAN - IDCW PAYOUT OPTION",
+      "REGULAR PLAN - IDCW REINVESTMENT OPTION"
+    ],
+    "isins": [
+      "INF179KC1AU3",
+      "INF179KC1AV1",
+      "INF179KC1AW9",
+      "INF179KC1AX7",
+      "INF179KC1AY5",
+      "INF179KC1AZ2"
+    ],
+    "amfi_codes": [
+      "141921",
+      "141921",
+      "141921",
+      "141923",
+      "141922",
+      "141922"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide long-term capital appreciation by investing predominantly in equity and equity related instruments of entities engagedin and/or expected to beneﬁt from the growth in housing and its allied business activities. There is no assurance that theinvestment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related instruments of entities in Housing and its Allied Business activities: 80% - 100%; Equity and Equityrelated instruments of entities other than in Housing and its Allied Business activities : 0% -20%; Debt and money marketinstruments: 0% -20%; Units of INvITs: 0% - 10%. For detailed asset allocation, refer Scheme Information Document (SID) availableon the website.",
+    "benchmark": "NIFTY Housing Index (Total Returns Index)",
+    "fund_managers": "FM 1 - Mr. Srinivasan Ramamurthy, FM 2 - Mr. Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "2.23",
+      "Direct": "1.19"
+    },
+    "exit_load": "In respect of each purchase/switch in of units- an Exit load of 1% is payable if units are redeemed/switched out within 30 daysfrom the date of allotment. No Exit Load is payable if units are redeemed/switched-out after 30 days from the date of allotment."
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN - GROWTH OPTION",
+    "DIRECT PLAN - IDCW PAYOUT OPTION",
+    "DIRECT PLAN - IDCW REINVESTMENT OPTION",
+    "REGULAR PLAN - GROWTH OPTION",
+    "REGULAR PLAN - IDCW PAYOUT OPTION",
+    "REGULAR PLAN - IDCW REINVESTMENT OPTION"
+  ],
+  "extracted_at": "2026-04-18T03:43:30.577962+00:00"
+}

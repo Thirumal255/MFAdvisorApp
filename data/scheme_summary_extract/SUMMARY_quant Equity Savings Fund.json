@@ -1,0 +1,59 @@
+{
+  "parent_scheme_name": "quant Equity Savings Fund",
+  "source_file": "SUMMARY_quant Equity Savings Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "quant Equity Savings Fund",
+    "fund_type": "An Open ended scheme investing equity, arbitrage and debt",
+    "fund_options": [
+      "Growth Option - Regular Plan",
+      "Growth Option - Direct Plan",
+      "IDCW Payout Option - Regular Plan",
+      "IDCW Payout Option - Direct Plan",
+      "IDCW Re-investment Option - Regular Plan",
+      "IDCW Re-investment Option - Direct Plan"
+    ],
+    "riskometer": "Low Risk",
+    "investment_objective": "The investment objective of the Scheme is to generate regular income by predominantly investing in arbitrage opportunities in the cash and derivatives segments of the equity markets and debt and money market instruments and to generate long-term capital appreciation through unhedged exposure to equity and equity related instruments. There is no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "A. Equity and Equity related instruments, of which (including Units issued by REITs) :- 65-90%\n  -    Hedge-Equity & Equity Derivatives:  25-80%\n  -    Unhedged – Equity & Equity related instruments: 10-40%\nB. Debt Securities and Money Market Instruments and Government Securities: 10-35%\nC. Exchange Traded Commodity Derivatives: 0-10%\nD. Units issued by InvITs: 0-10%",
+    "benchmark": "NIFTY Equity Savings TRI",
+    "fund_managers": [
+      "Mr. Ankit Pande",
+      "Mr. Harshvardhan Bharatia",
+      "Mr. Sanjeev Sharma",
+      "Mr. Varun Pattani",
+      "Ms. Ayusha Kumbhat",
+      "Mr. Sameer Kate"
+    ],
+    "annual_expense": {
+      "Regular": "2.33",
+      "Direct": "0.57"
+    },
+    "exit_load": "For redemptions / switch outs (including SIP/STP) within 15 days from the date of allotment of units, irrespective of the amount of investment: \n1%\nNo exit load shall be applicable on switches from Regular Plan to Direct Plan and vice versa, under the same scheme.",
+    "amfi_codes": [
+      "153707",
+      "153705",
+      "153708",
+      "153706",
+      null,
+      null
+    ],
+    "isins": [
+      "INF966L01EF1",
+      "INF966L01EC8",
+      "INF966L01EG9",
+      "INF966L01ED6",
+      "INF966L01EH7",
+      "INF966L01EE4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth Option - Regular Plan",
+    "Growth Option - Direct Plan",
+    "IDCW Payout Option - Regular Plan",
+    "IDCW Payout Option - Direct Plan",
+    "IDCW Re-investment Option - Regular Plan",
+    "IDCW Re-investment Option - Direct Plan"
+  ],
+  "extracted_at": "2026-04-18T05:28:15.929660+00:00"
+}

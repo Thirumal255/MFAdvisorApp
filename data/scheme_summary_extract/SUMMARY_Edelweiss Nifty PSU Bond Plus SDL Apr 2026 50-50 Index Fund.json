@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Edelweiss Nifty PSU Bond Plus SDL Apr 2026 50:50 Index Fund",
+  "source_file": "SUMMARY_Edelweiss Nifty PSU Bond Plus SDL Apr 2026 50-50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss Nifty PSU Bond Plus SDL Apr 2026 50:50 Index Fund",
+    "fund_type": "An open-ended target maturity Index Fund",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Option - Payout"
+    ],
+    "riskometer": "Low Risk",
+    "investment_objective": "The investment objective of the scheme is to track the Nifty PSU Bond Plus SDL Apr 2026 50:50 Index by investing in AAA rated PSU Bonds and SDLs, maturing",
+    "asset_allocation": "1. Bonds issued by PSUs forming part of the bonds portion of Nifty PSU Bond Plus SDL Apr 2026 50:50 Index - 95-100%",
+    "benchmark": "Nifty PSU Bond Plus SDL Apr 2026 50:50 Index",
+    "fund_managers": [
+      {
+        "name": "Ms. Pranavi Kulkarni",
+        "type": "Co-Manage",
+        "from_date": "22/Sep/2025"
+      },
+      {
+        "name": "Mr. Dhawal Dalal",
+        "type": "Co-Manage",
+        "from_date": "18/Mar/2021"
+      }
+    ],
+    "annual_expense": {
+      "Direct": "0.16"
+    },
+    "exit_load": "0.10% upto 30 days Nil after 30 days",
+    "amfi_codes": [
+      "148795",
+      "148796"
+    ],
+    "isins": [
+      "INF754K01MD1",
+      "INF754K01ME9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Option - Payout"
+  ],
+  "extracted_at": "2026-04-18T03:26:53.099058+00:00"
+}

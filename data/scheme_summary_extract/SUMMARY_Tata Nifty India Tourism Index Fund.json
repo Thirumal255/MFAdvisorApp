@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Tata Nifty India Tourism Index Fund",
+  "source_file": "SUMMARY_Tata Nifty India Tourism Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Nifty India Tourism Index Fund",
+    "fund_type": "Index Fund",
+    "fund_options": [
+      "Regular Plan IDCW Reinvestment",
+      "Regular Plan IDCW Payout",
+      "Direct Plan IDCW Reinvestment",
+      "Direct Plan IDCW Payout",
+      "Regular Plan Growth",
+      "Direct Plan Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns, before expenses, that commensurate with the performance ofNifty India Tourism Index (TRI), subject to tracking error. However, there is no assurance or guarantee that the investmentobjective of the scheme will be achieved. The scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Securities covered by Nifty India Tourism Index (95-100),Debt & Money Market Instruments^ including units of Mutual Funds(0-5).",
+    "benchmark": "Nifty India Tourism Index (TRI).",
+    "fund_managers": "1. Nitin Sharma , 2. Rakesh Prajapati",
+    "annual_expense": {
+      "Regular": "1.10",
+      "Direct": "0.46"
+    },
+    "exit_load": "0.25% of the applicable NAV, if redeemed on or before 15 days from the date of allotment.",
+    "amfi_codes": [
+      "152746",
+      "152745",
+      "152747",
+      "152742",
+      "152744",
+      "152743"
+    ],
+    "isins": [
+      "INF277KA1BZ3",
+      "INF277KA1CA4",
+      "INF277KA1CB2",
+      "INF277KA1CC0",
+      "INF277KA1CD8",
+      "INF277KA1CE6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan IDCW Reinvestment",
+    "Regular Plan IDCW Payout",
+    "Direct Plan IDCW Reinvestment",
+    "Direct Plan IDCW Payout",
+    "Regular Plan Growth",
+    "Direct Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T05:55:20.155279+00:00"
+}

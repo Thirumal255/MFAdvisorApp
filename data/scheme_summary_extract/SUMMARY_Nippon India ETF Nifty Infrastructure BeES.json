@@ -1,0 +1,32 @@
+{
+  "parent_scheme_name": "Nippon India ETF Nifty Infrastructure BeES",
+  "source_file": "SUMMARY_Nippon India ETF Nifty Infrastructure BeES.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India ETF Nifty Infrastructure BeES",
+    "fund_type": "An open ended index scheme listed on the Exchange in the form of an Exchange Traded Fund (ETF) tracking the NiftyInfrastructure Index.",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of Nippon India ETF Nifty Infrastructure BeES is to provide returns that, before expenses, closelycorrespond to the total returns of the Securities as represented by the Nifty Infrastructure Index by investing in the Securitiesin the same proportion as in the Index.There can be no assurance or guarantee that the investment objective of the Schemewill be achieved.",
+    "asset_allocation": "Securities covered by the Nifty infrastucture Index - 95% to 100%, Money Market Instruments - 0% to 5%. (with maturity notexceeding 91 days), including Tri-party repo on G-sec or T-bills, cash & cash equivalents.",
+    "benchmark": "Nifty Infrastructure TRI",
+    "fund_managers": "Jitendra Tolani",
+    "annual_expense": {
+      "Regular": "0.00",
+      "Direct": "0.50"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "140102"
+    ],
+    "isins": [
+      "INF732E01268"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T05:13:25.854207+00:00"
+}

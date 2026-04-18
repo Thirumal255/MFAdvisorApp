@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "360 ONE Focused Fund",
+  "source_file": "SUMMARY_360 ONE Focused Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "360 ONE Focused Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Direct Plan-Growth",
+      "Direct Plan - IDCWPayout",
+      "Direct Plan - IDCW Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long term capital appreciation for investors from a portfolio of equity and equity related securities. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "Equity or Equity Related Instruments - 75-100% Debt and money market instruments - 0-25%",
+    "benchmark": "BSE 500 TRI",
+    "fund_managers": "Mr. Mayur Patel, Mr. Ashish Ongari",
+    "annual_expense": {
+      "Regular": "1.79",
+      "Direct": "0.80"
+    },
+    "exit_load": "1% if redeemed/switched out, on or before 12 months from the date of allotment",
+    "amfi_codes": [
+      "131581",
+      "131581",
+      "131580",
+      "131579",
+      "131579",
+      "131578"
+    ],
+    "isins": [
+      "INF579M01910",
+      "INF579M01928",
+      "INF579M01902",
+      "INF579M01886",
+      "INF579M01894",
+      "INF579M01878"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Direct Plan-Growth",
+    "Direct Plan - IDCWPayout",
+    "Direct Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T02:05:20.549396+00:00"
+}

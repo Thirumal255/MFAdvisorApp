@@ -1,0 +1,48 @@
+{
+  "parent_scheme_name": "SBI Dividend Yield Fund",
+  "source_file": "SUMMARY_SBI Dividend Yield Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Dividend Yield Fund",
+    "fund_type": "An open-ended equity scheme investing predominantly in dividend yielding stocks",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW"
+    ],
+    "riskometer": "VERY HIGH",
+    "investment_objective": "The investment objective of the scheme is to provide investors with opportunities for capital appreciation and/or dividend distribution by investing predominantly in a well-diversified portfolio of equity and equity related instruments of dividend yielding companies. However, there can be no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": {
+      "Other equity & equity related instruments": "0%-35%",
+      "Debt securities (including securitized debt^ & debt derivatives) and money market instruments": "0%-35%",
+      "Units issued by REITs and InvITs*": "0%-10%",
+      "Equity and equity related instruments of dividend yielding companies (including equity derivatives)": "65%-100%"
+    },
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Rohit Shimpi",
+    "annual_expense": {
+      "Direct": "0.66"
+    },
+    "exit_load": null,
+    "amfi_codes": [
+      "151477",
+      "151476",
+      "151478",
+      "151475"
+    ],
+    "isins": [
+      "INF200KA12W7",
+      "INF200KA11W9",
+      "INF200KA14W3",
+      "INF200KA15W0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-18T05:36:59.932472+00:00"
+}

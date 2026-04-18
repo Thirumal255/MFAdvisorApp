@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "Bank of India Overnight Fund",
+  "source_file": "SUMMARY_BANK OF INDIA OVERNIGHT FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bank of India Overnight Fund",
+    "fund_type": "An open ended debt scheme investing in overnight securities.A Relatively Low Interest Rate Risk and A Relatively Low CreditRisk.",
+    "fund_options": [
+      "Direct Plan - Daily IDCW Reinvestment",
+      "Direct Plan - Growth Growth",
+      "Direct Plan - Monthly IDCW Reinvestment",
+      "Direct Plan - Monthly IDCW Payout",
+      "Direct Plan - Weekly IDCW Reinvestment",
+      "Regular Plan - Daily IDCW Reinvestment",
+      "Regular Plan - Growth Growth",
+      "Regular Plan - Monthly IDCW Payout",
+      "Regular Plan - Monthly IDCW Reinvestment",
+      "Regular Plan - Weekly IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF761K01EV5",
+      "INF761K01EU7",
+      "INF761K01EX1",
+      "INF761K01EY9",
+      "INF761K01EW3",
+      "INF761K01FA6",
+      "INF761K01EZ6",
+      "INF761K01FD0",
+      "INF761K01FC2",
+      "INF761K01FB4"
+    ],
+    "amfi_codes": [
+      "OVRD-147953",
+      "OVDW-147950",
+      "OVDD-147952",
+      "OVDM-147948",
+      "OVDG-147951",
+      "OVRM-147949",
+      "OVRW-147947",
+      "OVRG-147936",
+      "OVRZ-149413",
+      "OVZR-149415"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the scheme is to generate income commensurate with low risk and high liquidity by investing inovernight securities having residual maturity of 1 business day. However, there can be no assurance that the investmentobjectives of the Scheme will be realized. The Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Debt and Money Market Instruments with residual maturity of 1 business day- 0 -100%-Low",
+    "benchmark": "CRISIL Liquid Overnight Index (AI)",
+    "fund_managers": "Mr.Mithraem Bharucha",
+    "annual_expense": {
+      "Regular": "0.10",
+      "Direct": "0.08"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Daily IDCW Reinvestment",
+    "Direct Plan - Growth Growth",
+    "Direct Plan - Monthly IDCW Reinvestment",
+    "Direct Plan - Monthly IDCW Payout",
+    "Direct Plan - Weekly IDCW Reinvestment",
+    "Regular Plan - Daily IDCW Reinvestment",
+    "Regular Plan - Growth Growth",
+    "Regular Plan - Monthly IDCW Payout",
+    "Regular Plan - Monthly IDCW Reinvestment",
+    "Regular Plan - Weekly IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T02:55:47.418313+00:00"
+}

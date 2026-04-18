@@ -1,0 +1,43 @@
+{
+  "parent_scheme_name": "SBI Low Duration Fund (Formerly known as SBI Magnum Low Duration Fund)",
+  "source_file": "SUMMARY_SBI LOW DURATION FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Low Duration Fund (Formerly known as SBI Magnum Low Duration Fund)",
+    "fund_type": "An open-ended low duration debt scheme investing in instruments such that the Macaulay duration of the portfolio is between 6 months and 12 months.",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth"
+    ],
+    "isins": [
+      "INF200K01MD5",
+      "INF200K01MO2",
+      "INF200K01VJ3",
+      "INF200K01VM7"
+    ],
+    "amfi_codes": [
+      "106221",
+      "106212",
+      "119810",
+      "119812"
+    ],
+    "riskometer": "MODERATE",
+    "investment_objective": "To provide investors with an opportunity togenerate regular income with high degree ofliquidity through investments in a portfoliocomprising predominantly of moneymarket instruments with maturity / residualmaturity up to one year and debtinstruments which are rated not belowinvestment grade by a credit rating agency.",
+    "asset_allocation": "Debt instruments (including Central and State Government(s) securities, Debt derivatives), and Money Market instruments 0%-100% Low to Medium",
+    "benchmark": "Nifty Low duration Debt Index",
+    "fund_managers": "Mr. Rajeev Radhakrishnan",
+    "annual_expense": {
+      "Regular": "0.89"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:39:42.546082+00:00"
+}

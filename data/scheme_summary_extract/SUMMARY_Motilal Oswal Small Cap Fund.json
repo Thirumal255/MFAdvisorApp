@@ -1,0 +1,61 @@
+{
+  "parent_scheme_name": "MOTILAL OSWAL SMALL CAP FUND",
+  "source_file": "SUMMARY_Motilal Oswal Small Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "MOTILAL OSWAL SMALL CAP FUND",
+    "fund_type": "An open ended equity scheme predominantly investing in small cap stocks",
+    "fund_options": null,
+    "riskometer": "Very High",
+    "investment_objective": "To generate capital appreciation by investing predominantly in Small Cap stocks. However, there can be no assurance that the investment objective of the scheme will be realized.",
+    "asset_allocation": "Equity and Equity related instruments of small cap companies, Equity and Equity-related Instruments of companies other than Small cap companies including foreign companies, Debt and Money Market instruments (including cash and cash equivalents), Liquid and Debt Schemes of Mutual Fund, Units issued by REITs and InvITs",
+    "benchmark": "Nifty Smallcap 250 TRI",
+    "fund_managers": [
+      {
+        "name": "Mr. Ajay Khandelwal",
+        "type": "For Equity Component",
+        "from_date": "26/12/2023"
+      },
+      {
+        "name": "Mr. Niket Shah",
+        "type": "For Equity Component",
+        "from_date": "26/12/2023"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt and Gold Component",
+        "from_date": "26/12/2023"
+      },
+      {
+        "name": "Mr. Ankush Sood",
+        "type": "For International Equity",
+        "from_date": "26/12/2023"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.25"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "152237",
+      "152235",
+      "152232",
+      "152234"
+    ],
+    "isins": [
+      "INF247L01BY3",
+      "INF247L01BZ0",
+      "INF247L01CA1",
+      "INF247L01BV9",
+      "INF247L01BW7",
+      "INF247L01BX5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth",
+    "Regular Payout of IDCW",
+    "Direct Payout of IDCW"
+  ],
+  "extracted_at": "2026-04-18T05:08:22.832033+00:00"
+}

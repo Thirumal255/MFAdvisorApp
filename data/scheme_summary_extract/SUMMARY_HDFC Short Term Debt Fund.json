@@ -1,0 +1,58 @@
+{
+  "parent_scheme_name": "HDFC Short Term Debt Fund",
+  "source_file": "SUMMARY_HDFC Short Term Debt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Short Term Debt Fund",
+    "fund_type": "An open ended short term debt scheme investing in instruments such that the Macaulay Duration of the portfolio is between 1year and 3 years.A scheme with Relatively High Interest Rate Risk and Moderate Credit Risk.",
+    "fund_options": [
+      "REGULAR PLAN - FORTNIGHTLY IDCW OPTION",
+      "REGULAR PLAN - GROWTH OPTION",
+      "DIRECT PLAN - GROWTH OPTION",
+      "DIRECT PLAN - NORMAL IDCW OPTION",
+      "DIRECT NORMAL IDCW REINVESTMENT OPTION",
+      "REGULAR PLAN - NORMAL IDCW OPTION",
+      "REGULAR PLAN - NORMAL IDCW REINVESTMENT OPTION",
+      "REGULAR PLAN - FORTNIGHTLY IDCW REINVESTMENT OPTION"
+    ],
+    "isins": [
+      "INF179K01CV4",
+      "INF179K01CU6",
+      "INF179K01YM7",
+      "INF179KA1Q53",
+      "INF179KA1Q46",
+      "INF179KA1Q79",
+      "INF179KA1Q61",
+      "INF179K01CW2"
+    ],
+    "amfi_codes": [
+      "113048",
+      "119015",
+      "113047",
+      "119016",
+      "133368",
+      "133367"
+    ],
+    "riskometer": "Moderate Risk",
+    "investment_objective": "To generate income/capital appreciation through investments in Debt and Money Market Instruments. There is no assurance thatthe investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Debt (including securitised debt) and Money Market Instruments^ : Upto 100%; Units issued by InvITs : 0% - 10%; ^PortfolioMacaulay Duration shall be between 1 year and 3 years. For detailed asset allocation, refer Scheme Information Document (SID)available on the website.",
+    "benchmark": "CRISIL Short Duration Debt A-II Index",
+    "fund_managers": "FM - 1 - Mr.Anil Bamboli, FM -2 Mr.Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "0.70",
+      "Direct": "0.40"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN - FORTNIGHTLY IDCW OPTION",
+    "REGULAR PLAN - GROWTH OPTION",
+    "DIRECT PLAN - GROWTH OPTION",
+    "DIRECT PLAN - NORMAL IDCW OPTION",
+    "DIRECT NORMAL IDCW REINVESTMENT OPTION",
+    "REGULAR PLAN - NORMAL IDCW OPTION",
+    "REGULAR PLAN - NORMAL IDCW REINVESTMENT OPTION",
+    "REGULAR PLAN - FORTNIGHTLY IDCW REINVESTMENT OPTION"
+  ],
+  "extracted_at": "2026-04-18T03:50:22.524390+00:00"
+}

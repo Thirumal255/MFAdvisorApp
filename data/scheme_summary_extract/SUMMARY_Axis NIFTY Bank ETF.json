@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Axis NIFTY Bank ETF",
+  "source_file": "SUMMARY_Axis NIFTY Bank ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis NIFTY Bank ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to provide returns before expenses that closely correspond to the total returns of the NIFTY Bank Index subject to tracking errors. However, there is no assurance or guarantee that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity instruments covered by Nifty Bank Index - (95%-100%), Debt & Money Market Instruments - (0%-5%)",
+    "benchmark": "NIFTY Bank TRI",
+    "fund_managers": "Mr. Karthik Kumar - Primary/Domestic Equities",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "N/A",
+    "amfi_codes": [
+      "148559"
+    ],
+    "isins": [
+      "INF846K01X6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T02:23:06.954420+00:00"
+}

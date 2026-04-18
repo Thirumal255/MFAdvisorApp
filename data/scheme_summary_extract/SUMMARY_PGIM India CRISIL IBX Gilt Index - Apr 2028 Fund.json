@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "PGIM India CRISIL IBX Gilt Index – Apr 2028",
+  "source_file": "SUMMARY_PGIM India CRISIL IBX Gilt Index - Apr 2028 Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "PGIM India CRISIL IBX Gilt Index – Apr 2028",
+    "fund_type": "An open-ended Target Maturity Index Fund investing in constituents of the CRISIL-IBX Gilt Index - April 2028. A relatively highinterest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to generate returns that corresponds to the total returns of the securities asrepresented by the CRISIL-IBX Gilt Index-April 2028 (before fees and expenses), subject to tracking errors. However, there canbe no assurance that the investment objective of the Scheme will be achieved. The Scheme does not guarantee/ indicate anyreturns.",
+    "asset_allocation": "Securities comprising the CRISILIBX Gilt Index - April 2028 - Min 95% and Max 100% Money Market Instruments, Governmentsecurities, T- Bills, including Triparty Repo, cash and cash equivalents and units of liquid mutual fund- Min 0% and Max 5%",
+    "benchmark": "CRISIL-IBX Gilt Index - April 2028",
+    "fund_managers": "Mr. Puneet Pal and Mr. Bhupesh Kalyani",
+    "annual_expense": {
+      "Regular": "0.47",
+      "Direct": "0.33"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "151404",
+      "151405",
+      "151406",
+      "151407"
+    ],
+    "isins": [
+      "INF663L01X21",
+      "INF663L01X39",
+      "INF663L01X47",
+      "INF663L01X54",
+      "INF663L01X62",
+      "INF663L01X70"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T05:24:28.790672+00:00"
+}

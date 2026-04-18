@@ -1,0 +1,66 @@
+{
+  "parent_scheme_name": "Edelweiss Multi Asset Allocation Fund",
+  "source_file": "SUMMARY_Edelweiss Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss Multi Asset Allocation Fund",
+    "fund_type": "Multi Asset Allocation Fund",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW- Payout",
+      "Direct Plan IDCW- Reinvestment",
+      "Direct Plan IDCW- Transfer",
+      "Regular Plan Growth",
+      "Regular Plan IDCW - Payout",
+      "Regular Plan IDCW - Reinvestment",
+      "Regular Plan IDCW - Transfer"
+    ],
+    "isins": [
+      "INF754K01RS8",
+      "INF754K01RT6",
+      "INF754K01RU4",
+      "INF754K01RV2",
+      "INF754K01RO7",
+      "INF754K01RP4",
+      "INF754K01RQ2",
+      "INF754K01RR0"
+    ],
+    "amfi_codes": [
+      "151792",
+      "151793",
+      "151793",
+      "151793",
+      "151795",
+      "151794",
+      "151794",
+      "151794"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "To provide the investors an opportunity to invest in an actively managed portfolio of multiple asset classes. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns. An open-ended scheme investing in Equity, Debt, Commodities and in units of REITs & InvITs.",
+    "asset_allocation": "1. Equity & Equity related instruments - 10% to 80% 2. Debt and money market instruments - 10% to 80% 3. Commodity ETFs, Exchange Traded Commodity Derivatives (ETCDs) & any other mode of investment in commodities as permitted by SEBI from time to time. - 10% to 30% 4. Units issued by REITs and InvITs - 0% to 10%",
+    "benchmark": "Nifty 500 TRI (40%) + CRISIL Short Term Bond Fund Index (50%) + Domestic Gold Prices (5%) + Domestic Silver Prices (5%)",
+    "fund_managers": [
+      "Mr. Bhavesh Jain",
+      "Mr. Bharat Lahoti",
+      "Mr. Rahul Dedhia",
+      "Mr. Dhawal Dalal",
+      "Ms. Pranavi Kulkarni",
+      "Mr. Amit Vora"
+    ],
+    "annual_expense": {
+      "Regular": "2.00"
+    },
+    "exit_load": "If the units are redeemed / switched out on or before 30 days from the date of allotment – 0.10% If the units are redeemed / switched out after 30 days from the date of allotment – Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW- Payout",
+    "Direct Plan IDCW- Reinvestment",
+    "Direct Plan IDCW- Transfer",
+    "Regular Plan Growth",
+    "Regular Plan IDCW - Payout",
+    "Regular Plan IDCW - Reinvestment",
+    "Regular Plan IDCW - Transfer"
+  ],
+  "extracted_at": "2026-04-18T03:25:05.619317+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis Mid Cap Fund",
+  "source_file": "SUMMARY_Axis Midcap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Mid Cap Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To achieve long term capital appreciation by investing predominantly in equity & equity related instruments of Mid Cap companies.",
+    "asset_allocation": "Equity and Equity Related Instruments of Midcap companies - (65%-100%), Equity and Equity Related Instruments of nonMid-cap Companies - (0%-35%), Debt and Money Market Instruments - (0%-35%), Units issued by REITs & InvITs -(0%-10%)",
+    "benchmark": "BSE 150 MidCap TRI",
+    "fund_managers": "Mr. Shreyash Devalkar, Ms. Krishnaa N, Mr. Nitin Arora",
+    "annual_expense": {
+      "Regular": "1.58",
+      "Direct": "0.57"
+    },
+    "exit_load": "If redeemed / switched-out within 12 months from the date of allotment,- For 10% of investments: Nil FIFO basis,Forremaining investments: 1% w.e.f., 25/09/2017.",
+    "amfi_codes": [
+      "120505",
+      "120504",
+      "114564",
+      "114565"
+    ],
+    "isins": [
+      "INF846K01EH3",
+      "INF846K01EF7",
+      "INF846K01EG5",
+      "INF846K01859",
+      "INF846K01867",
+      "INF846K01875"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T02:22:22.070941+00:00"
+}

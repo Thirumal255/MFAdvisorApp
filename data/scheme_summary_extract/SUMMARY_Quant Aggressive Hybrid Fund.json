@@ -1,0 +1,91 @@
+{
+  "parent_scheme_name": "quant Aggressive Hybrid Fund",
+  "source_file": "SUMMARY_Quant Aggressive Hybrid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "quant Aggressive Hybrid Fund",
+    "fund_type": "An open ended hybrid scheme investing predominantly in equity and equity related instruments",
+    "fund_options": [
+      "Growth Option - Regular Plan",
+      "Growth Option - Direct Plan",
+      "IDCW Payout Option - Regular Plan",
+      "IDCW Payout Option - Direct Plan",
+      "IDCW Re-investment Option - Regular Plan",
+      "IDCW Re-investment Option - Direct Plan"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate income/capital appreciation by investing primarily in equity and equity related instruments with a moderate exposure to debt securities & money market instruments. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and equity related instruments(including units issued by REITs):- 65-80%\nDebt and money market instruments:- 20-35%\nUnits issued by InvITS:- 0-10%",
+    "benchmark": "NIFTY 50 HYBRID COMPOSITE DEBT 65:35 INDEX",
+    "fund_managers": [
+      {
+        "name": "Sandeep Tandon",
+        "type": "Primary",
+        "from_date": "3-Feb-25"
+      },
+      {
+        "name": "Ankit Pande",
+        "type": "Co manage",
+        "from_date": "10-May-20"
+      },
+      {
+        "name": "Sanjeev Sharma",
+        "type": "Co manage",
+        "from_date": "3-Oct-19"
+      },
+      {
+        "name": "Lokesh Garg",
+        "type": "Co manage",
+        "from_date": "3-Feb-25"
+      },
+      {
+        "name": "Varun Pattani",
+        "type": "Co manage",
+        "from_date": "19-Feb-25"
+      },
+      {
+        "name": "Ayusha Kumbhat",
+        "type": "Co manage",
+        "from_date": "19-Feb-25"
+      },
+      {
+        "name": "Sameer Kate",
+        "type": "Co manage",
+        "from_date": "6-Mar-25"
+      },
+      {
+        "name": "Yug Tibrewal",
+        "type": "Co manage",
+        "from_date": "6-Mar-25"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.06",
+      "Direct": "0.79"
+    },
+    "exit_load": "For redemptions / switch outs (including SIP/STP) within 15 days from the date of allotment of units, irrespective of the amount of investment: 1%\nNo exit load shall be applicable on switches from Regular Plan to Direct Plan and vice versa, under the same scheme",
+    "amfi_codes": [
+      "101070",
+      "120819",
+      "101069",
+      "120818"
+    ],
+    "isins": [
+      "INF966L01267",
+      "INF966L01556",
+      "INF966L01242",
+      "INF966L01531",
+      "INF966L01259",
+      "INF966L01549"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth Option - Regular Plan",
+    "Growth Option - Direct Plan",
+    "IDCW Payout Option - Regular Plan",
+    "IDCW Payout Option - Direct Plan",
+    "IDCW Re-investment Option - Regular Plan",
+    "IDCW Re-investment Option - Direct Plan"
+  ],
+  "extracted_at": "2026-04-18T05:26:51.050931+00:00"
+}

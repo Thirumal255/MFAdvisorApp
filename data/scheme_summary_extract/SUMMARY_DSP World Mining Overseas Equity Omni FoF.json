@@ -1,0 +1,53 @@
+{
+  "parent_scheme_name": "DSP World Mining Overseas Equity Omni FoF",
+  "source_file": "SUMMARY_DSP World Mining Overseas Equity Omni FoF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP World Mining Overseas Equity Omni FoF",
+    "fund_type": "An open ended fund of fund scheme investing in overseas funds and/or ETFs investing in securities of companies involved in mining and metals whose predominant economic activity is the production of metals and industrial minerals",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - IDCW - Reinvest",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW - Reinvest"
+    ],
+    "isins": [
+      "INF740K01PF8",
+      "INF740K01PG6",
+      "INF740K01PH4",
+      "INF740K01730",
+      "INF740K01748",
+      "INF740K01AL8"
+    ],
+    "amfi_codes": [
+      "119279",
+      "119280",
+      "119280",
+      "341",
+      "112293",
+      "112347",
+      "112347"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the Scheme is to seek capital appreciation by investing in units of overseas funds and/or ETFs investing in securities of companies involved in mining and metals whose predominant economic activity is the production of metals and industrial minerals. The Scheme may also invest a certain portion of its corpus in cash & cash equivalents, in order to meet liquidity requirements from time to time. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "1. Unit of overseas funds and/or ETFs investing in securities of companies involved in mining and metals whose predominant economic activity is the production of metals and industrial minerals: 95% to 100% 2. Cash and Cash Equivalents: 0% to 5%. Fordetailed asset allocation pattern, please refer to the Scheme Information Document",
+    "benchmark": "MSCI ACWI Metals and Mining 30% Buﬀer 10/40 (1994) Net Total Return Index",
+    "fund_managers": "Ms. Kaivalya Nadkarni",
+    "annual_expense": {
+      "Regular": "2.32",
+      "Direct": "1.67"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - IDCW - Reinvest",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW - Reinvest"
+  ],
+  "extracted_at": "2026-04-18T03:18:51.308699+00:00"
+}

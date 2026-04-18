@@ -1,0 +1,42 @@
+{
+  "parent_scheme_name": "Motilal Oswal Nifty Realty ETF",
+  "source_file": "SUMMARY_Motilal Oswal Nifty Realty ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal Nifty Realty ETF",
+    "fund_type": "An open-ended scheme replicating/tracking the Nifty Realty TR Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, closely correspond to the total returns of the securities as represented by Nifty Realty Total Return Index, subject to tracking error. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Constituents of Nifty Realty Index and Units of Liquid Schemes and Money Market Instruments",
+    "benchmark": "Nifty Realty TR Index",
+    "fund_managers": [
+      {
+        "name": "Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt Component",
+        "from_date": "Since Inception"
+      }
+    ],
+    "annual_expense": {
+      "Direct": "1.00"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "152541"
+    ],
+    "isins": [
+      "INF247L01CI4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T05:07:54.150949+00:00"
+}

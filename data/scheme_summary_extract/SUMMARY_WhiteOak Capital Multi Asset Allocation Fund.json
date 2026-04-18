@@ -1,0 +1,62 @@
+{
+  "parent_scheme_name": "WhiteOak Capital Multi Asset Allocation Fund",
+  "source_file": "SUMMARY_WhiteOak Capital Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "WhiteOak Capital Multi Asset Allocation Fund",
+    "fund_type": "An open ended scheme investing in Equity & Equity Related Instruments, Debt & Money Market Securities and Gold/silver related instruments.",
+    "fund_options": [
+      "Regular-Growth",
+      "Direct-Growth"
+    ],
+    "riskometer": "High risk",
+    "investment_objective": "To provide long term capital appreciation and generate income by investing in instruments across multiple asset classes viz. Equity, Debt and Gold/silver related instruments. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity Related Instruments (including REITs) Min -10% Max - 80% Debt Securities and Money Market Instruments Min -10% Max - 80% Gold/silver related instruments (including ETFs, Sovereign gold deposit schemes) & Exchange Traded Commodity Derivatives (ETCDs) as permitted by SEBI from time to time. Min -10% Max - 50% Units issued by InvITs Min -0% Max - 10%",
+    "benchmark": "BSE 500 TRI (35%) + CRISIL Short Term Bond Index (45%) + Domestic prices of Gold (19%) + Domestic prices of Silver (1%)",
+    "fund_managers": [
+      {
+        "name": "Mr. Ramesh Mantri",
+        "type": "Comanage/Equity",
+        "from_date": "19-05-2023"
+      },
+      {
+        "name": "Mr. Piyush Baranwal",
+        "type": "Comanage/Debt",
+        "from_date": "19-05-2023"
+      },
+      {
+        "name": "Mr. Dheeresh Pathak",
+        "type": "Assistant Fund Manager – Equity",
+        "from_date": "01-04-2024"
+      },
+      {
+        "name": "Mr. Ashish Agrawal",
+        "type": "Fund Manager - Arbitrage Transactions",
+        "from_date": "06-01-2025"
+      },
+      {
+        "name": "Ms. Trupti Agarwal",
+        "type": "Assistant Fund Manager – Equity",
+        "from_date": "20-05-2025"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1.54",
+      "Direct": "0.37"
+    },
+    "exit_load": "Nil Exit load – for 10% of the units purchased or switched-in on or before 30 days from the date of allotment. All units redeemed /switched out in excess of the 10% load free units will be subject to the below mentioned exit load. - 1.00% - if Units are redeemed/switched-out on or before 30 days from the date of allotment - Nil - if redeemed after 30 days from the date of allotment",
+    "amfi_codes": [
+      "151746",
+      "151745"
+    ],
+    "isins": [
+      "INF03VN01779",
+      "INF03VN01761"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular-Growth",
+    "Direct-Growth"
+  ],
+  "extracted_at": "2026-04-18T06:14:23.675845+00:00"
+}

@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "SBI Multi Asset Allocation Fund",
+  "source_file": "SUMMARY_SBI MULTI ASSET ALLOCATION FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Multi Asset Allocation Fund",
+    "fund_type": "An open-ended scheme investing in equity, debt, and Gold & gold related instruments including ETFs and such other asset classes as SEBI may prescribe from time to time",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - IDCW"
+    ],
+    "isins": [
+      "INF200K01792",
+      "INF200K01800",
+      "INF200K01826",
+      "INF200K01842",
+      "INF200K01TY6",
+      "INF200K01TZ3",
+      "INF200K01UB2",
+      "INF200K01UD8"
+    ],
+    "amfi_codes": [
+      "103409",
+      "103408",
+      "103400",
+      "103401",
+      "119840",
+      "119843",
+      "119841",
+      "119842"
+    ],
+    "riskometer": "VERY HIGH",
+    "investment_objective": "To provide the investors an opportunity to invest in an actively managed portfolio of multiple asset classes. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved. The scheme doesn't assure or guarantee any returns.",
+    "asset_allocation": {
+      "Equity and Equity related Instruments (including derivatives and equity ETFs*)": "10%-80%",
+      "Debt and debt related instruments (including Central and State Government securities, debt derivatives and debt ETFs*) and Money market instruments": "10%-80%",
+      "Gold related instruments^^/ Gold ETF*": "10%-80%",
+      "Units of REITs and InvITs and such other asset classes as SEBI may prescribe from time to time.": "0%-10%"
+    },
+    "benchmark": "45% CRISIL 10 Year Gilt Index + 40% Nifty 50 + 15% Price of Gold",
+    "fund_managers": [
+      "Ms. Mansi Sajeja",
+      "Mr. Dinesh Balachandran",
+      "Ms. Vandna Soni"
+    ],
+    "annual_expense": {
+      "Direct": "0.48"
+    },
+    "exit_load": "For units allotted upto 28th Sep 2023 – Nil till 30th Oct 2023 For units allotted from 29th Sep 2023 - For exit within 12 months from the date of allotment –For 10% of investments – NIL, For remaining investments – 1%; For exit after 12 months from the date of allotment –NIL From 31th Oct 2023 for all units - For exit within 12 months from the date of allotment –For 10% of investments – NIL, For remaining investments – 1%; For exit after 12 months from the date of allotment –NIL"
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-18T05:40:23.581494+00:00"
+}

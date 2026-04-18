@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "SBI Midcap Fund",
+  "source_file": "SUMMARY_SBI MIDCAP FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Midcap Fund",
+    "fund_type": "An open ended equity scheme predominantly investing in mid cap stocks",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth"
+    ],
+    "riskometer": "VERY HIGH",
+    "investment_objective": "To provide investors with opportunities forlong-term growth in capital along with theliquidity of an open-ended scheme byinvesting predominantly in a well diversifiedbasket of equity stocks of Midcapcompanies.",
+    "asset_allocation": {
+      "Equity and equity related instruments of midcap* companies (including derivatives)": "65%-100%",
+      "Other equities and equity related instruments": "0%-35%",
+      "Units issued by REIT/InVIT^": "0%-10%",
+      "Debt Instruments (including securitized debt)": "0%-35%",
+      "Money Market Instruments": "0%-35%"
+    },
+    "benchmark": "Nifty Midcap 150",
+    "fund_managers": "Bhavin Vithlani",
+    "annual_expense": {
+      "Direct": "0.67"
+    },
+    "exit_load": "For exit within 30 days from the date of allotment - 0.25%; For exit after 30 days and within 90 days from the date of allotment - 0.10%; For exit after 90 days from the date of allotment - Nil.",
+    "amfi_codes": [
+      "102942",
+      "102941",
+      "119715",
+      "119716"
+    ],
+    "isins": [
+      "INF200K01586",
+      "INF200K01560",
+      "INF200K01TO7",
+      "INF200K01TP4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:40:02.703535+00:00"
+}

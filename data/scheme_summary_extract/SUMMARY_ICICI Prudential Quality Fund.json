@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "ICICI Prudential Quality Fund",
+  "source_file": "SUMMARY_ICICI Prudential Quality Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Quality Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Quality Fund - Direct Plan - Growth",
+      "ICICI Prudential Quality Fund - Direct Plan - IDCW",
+      "ICICI Prudential Quality Fund - Direct Plan - IDCW Payout",
+      "ICICI Prudential Quality Fund - Growth",
+      "ICICI Prudential Quality Fund - IDCW",
+      "ICICI Prudential Quality Fund - IDCW Payout"
+    ],
+    "isins": [
+      "INF109K1A187",
+      "INF109K1A195",
+      "INF109K1A203",
+      "INF109K1A211",
+      "INF109K1A161",
+      "INF109K1A179"
+    ],
+    "amfi_codes": [
+      "153458",
+      "153460",
+      "null",
+      "153459",
+      "153457",
+      "null"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long-term capital appreciation by investing in Equity & Equity related instruments of companies identified based on the Quality Factor. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "•Equity & Equity related instruments of Companies identified based on the Quality Factor = 80% - 100% •Other Equity and Equity related instruments = 0%- 20% •Debt & Money market instruments =0% - 20% • InvITs=0%- 10%",
+    "benchmark": "Nifty200 Quality 30 TRI",
+    "fund_managers": [
+      "Mr. Ihab Dalwai",
+      "Ms. Masoomi Jhurmarvala"
+    ],
+    "annual_expense": {
+      "Regular": "2.03",
+      "Direct": "0.85"
+    },
+    "exit_load": "• 1% of applicable Net Asset Value - If the amount sought to be redeemed or switched out within 12 months from allotment. • NIL - If the amount sought to be redeemed or switched out more than 12 months."
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Quality Fund - Direct Plan - Growth",
+    "ICICI Prudential Quality Fund - Direct Plan - IDCW",
+    "ICICI Prudential Quality Fund - Direct Plan - IDCW Payout",
+    "ICICI Prudential Quality Fund - Growth",
+    "ICICI Prudential Quality Fund - IDCW",
+    "ICICI Prudential Quality Fund - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T04:16:03.086303+00:00"
+}

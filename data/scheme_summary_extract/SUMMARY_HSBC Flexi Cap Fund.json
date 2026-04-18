@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "HSBC Flexi Cap Fund",
+  "source_file": "SUMMARY_HSBC Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Flexi Cap Fund",
+    "fund_type": "Flexi Cap Fund",
+    "fund_options": [
+      "Flexi Cap Fund-IDCW Pay",
+      "Flexi Cap Fund-Growth",
+      "Flexi Cap Fund-Growth Dir",
+      "Flexi Cap Fund-IDCW",
+      "Flexi Cap Fund-IDCW Dir",
+      "Flexi Cap Fund-IDCW Pay Dir"
+    ],
+    "isins": [
+      "INF336L01AE8",
+      "INF336L01AF5",
+      "INF336L01DH5",
+      "INF336L01AD0",
+      "INF336L01DG7",
+      "INF336L01DF9"
+    ],
+    "amfi_codes": [
+      "120046",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To seek long term capital growth through investments made dynamically across market capitalization (i.e., Large, Mid,and SmallCaps). The investment couldbe in any one, two or all three types of market capitalization. The Scheme aims to predominantlyinvest in equity and equity related securities. However, in line with the asset allocation pattern of the Scheme, it could move itsassets between equity and ﬁxed income securities depending on its view on these markets.However, there can be no assuranceor guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Equity and Equity related securities- 65%-100% (Risk Proﬁle - High) Debt Securities & Money Market Instruments (includingCash & Cash equivalents)-0%-35% (Risk Proﬁle - Low to Medium) Units issued by REITs and InvITs-0%- 10% (Medium to High)",
+    "benchmark": "NIFTY 500 TRI",
+    "fund_managers": "FM 1 - Abhishek Gupta, FM 2- Sonal Gupta (For Overseas Investment)",
+    "annual_expense": {
+      "Regular": "1.93",
+      "Direct": "1.20"
+    },
+    "exit_load": "If the units redeemed or switched out are upto 10% of the units purchased or switched in (‘‘the limit”) within 1 year from thedate of allotment - Nil If units redeemed or switched out are over and above the limit within 1 year from the date of allotment -1% If units are redeemed or switched out on or after 1 year from the date of allotment - Nil"
+  },
+  "fund_options_inferred": [
+    "Flexi Cap Fund-IDCW Pay",
+    "Flexi Cap Fund-Growth",
+    "Flexi Cap Fund-Growth Dir",
+    "Flexi Cap Fund-IDCW",
+    "Flexi Cap Fund-IDCW Dir",
+    "Flexi Cap Fund-IDCW Pay Dir"
+  ],
+  "extracted_at": "2026-04-18T03:56:00.532123+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Nippon India Silver ETF FOF",
+  "source_file": "SUMMARY_Nippon India Silver ETF FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India Silver ETF FOF",
+    "fund_type": "An Open Ended Fund of Fund scheme investing in units of Nippon India Silver ETF",
+    "fund_options": [
+      "Direct Plan IDCW Plan Payout",
+      "Direct Plan IDCW Plan Reinvestment",
+      "Direct Growth Plan Growth Option Growth",
+      "IDCW PlanPayout",
+      "IDCW Plan Reinvestment",
+      "Growth Plan Growth Option Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to seek to provide returns that closely correspond to returns provided by NipponIndia Silver ETF by investing in units of Nippon India Silver ETF. However, there can be no assurance or guarantee that theinvestment objective of the Scheme will be achieved.",
+    "asset_allocation": "Units of Nippon India Silver ETF - 95% to 100%; Money Market Instruments* including Tri-Party Repo on Government securitiesor Treasury bills, cash & cash equivalents - 0% to 5% *Money Market Instruments include commercial papers, commercial bills,treasury bills, and Government securities having an unexpired maturity upto one year, call or notice money, certiﬁcate ofdeposit, usance bills, BRDS, Tri-Party Repos and any other like instruments as speciﬁed by Reserve Bank of India from time totime.",
+    "benchmark": "Domestic Price of Silver (based on LBMA Silver daily spot ﬁxing price)",
+    "fund_managers": "FM 1 - Jitendra Tolani",
+    "annual_expense": {
+      "Regular": "0.59",
+      "Direct": "0.27"
+    },
+    "exit_load": "Not Applicable",
+    "amfi_codes": [
+      "149760",
+      "149759",
+      "149762",
+      "149762",
+      "149761",
+      "149761"
+    ],
+    "isins": [
+      "INF204KC1378",
+      "INF204KC1345",
+      "INF204KC1386",
+      "INF204KC1394",
+      "INF204KC1352",
+      "INF204KC1360"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan IDCW Plan Payout",
+    "Direct Plan IDCW Plan Reinvestment",
+    "Direct Growth Plan Growth Option Growth",
+    "IDCW PlanPayout",
+    "IDCW Plan Reinvestment",
+    "Growth Plan Growth Option Growth"
+  ],
+  "extracted_at": "2026-04-18T05:21:27.842833+00:00"
+}

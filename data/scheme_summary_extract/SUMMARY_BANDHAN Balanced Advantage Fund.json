@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bandhan Balanced Advantage Fund",
+  "source_file": "SUMMARY_BANDHAN Balanced Advantage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Balanced Advantage Fund",
+    "fund_type": "An open ended dynamic asset allocation fund",
+    "fund_options": [
+      "DIRECT PLAN - IDCW Payout",
+      "REGULAR PLAN - IDCW Payout",
+      "REGULAR PLAN - Growth",
+      "REGULAR PLAN - IDCW Reinvestment",
+      "DIRECT PLAN - IDCW Reinvestment",
+      "DIRECT PLAN - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary objective of the scheme is to seek to generate long term capital appreciation with relatively lower volatility through systematic allocation of funds into equity and equity related instruments; and for defensive purposes in equity derivatives. The secondary objective of the scheme will be to generate income and capital appreciation through investment in Debt & Money Market instruments. There is no assurance or guarantee that the objectives of the scheme will be realised.",
+    "asset_allocation": "Equities & Equity related instruments - 20%-90%, Debt securities & Money Market Instruments (including Cash & Cash equivalent) - 10%-80%",
+    "benchmark": "NIFTY 50 Hybrid Composite debt 50:50 Index",
+    "fund_managers": "Mr. Manish Gunwani (equity portfolio), Mr. Vishal Biraia (equity portfolio). and Mr. Brijesh Shah (debt portfolio)",
+    "annual_expense": {
+      "Regular": "2.01",
+      "Direct": "0.76"
+    },
+    "exit_load": "Entry Load Nil. Exit load w.e.f 10-Feb-2025:(for each purchase including SIP/STP-in registered) -If redeemed/switched out on/within 90 days from the date of allotment - 0.50% of the applicable NAV. If redeemed/switched out after 90 days from the date of allotment - Nil.",
+    "amfi_codes": [
+      "131356",
+      "300",
+      "299",
+      "300R",
+      "D300R",
+      "D299"
+    ],
+    "isins": [
+      "INF194KA1UI9",
+      "INF194KA1UF5",
+      "INF194KA1UE8",
+      "INF194KA1UG3",
+      "INF194KA1UJ7",
+      "INF194KA1UH1"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN - IDCW Payout",
+    "REGULAR PLAN - IDCW Payout",
+    "REGULAR PLAN - Growth",
+    "REGULAR PLAN - IDCW Reinvestment",
+    "DIRECT PLAN - IDCW Reinvestment",
+    "DIRECT PLAN - Growth"
+  ],
+  "extracted_at": "2026-04-18T02:27:12.145851+00:00"
+}

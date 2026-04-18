@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Mirae Asset Multicap Fund",
+  "source_file": "SUMMARY_Mirae Asset Multicap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Multicap Fund",
+    "fund_type": "Multi Cap - An open-ended equity scheme investing across large cap, mid cap and small cap stocks",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular Plan Growth",
+      "Regular PlanIDCW - Payout",
+      "Regular PlanIDCW - Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation from a portfolio investing predominantly in Indian equity and equity related securities of large cap, mid cap and small cap companies.",
+    "asset_allocation": "*Equity and Equity related instruments including equity linked derivatives in the following manner: 75 100 High Large Cap Companies** 25 50 High Mid Cap Companies** 25 50 High Small Cap Companies** 25 50 High Debt securities (including securitized debt & debt derivatives) and money market instruments$ 0 25 Low to Medium Units issued by REITs and InvITs 0 10 Medium to High $The Scheme may invest in units of mutual funds upto 20% of the net assets of the scheme. *Equity and Equity related instruments include convertible debentures, equity warrants, convertible preference shares and equity derivatives. Debt instruments include securitized debt upto 25% of debt portfolio. Exposure to equity derivatives (including writing covered call options in line with SEBI guidelines) may be to the extent of 35% of the equity net assets of the Scheme. The scheme may invest in debt derivatives to the extent 20% of the debt net assets of the scheme.",
+    "benchmark": "NIFTY 500 Multicap 50:25:25 TRI",
+    "fund_managers": "Ankit Jain",
+    "annual_expense": {
+      "Regular": "1.83",
+      "Direct": "0.41"
+    },
+    "exit_load": "For investors who have opted for SWP under the plan: a) 15% of the units allotted (including Switch-in/STP - in) on or before completion of 365 days from the date of allotment of units: Nil. b) Any redemption in excess of such limits in the ﬁrst 365 days from the date of allotment shall be subject to the following exit load: (Redemption of units would be done on First In First Out Basis (FIFO): - If redeemed within 1 year (365 days) from the date of allotment: 1% of the applicable NAV -If redeemed after 1 year (365 days) from the date of allotment: NIL. II. Other Redemptions: For Investors who have not opted for SWP under the plan (including Switch out, STP out) : - If redeemed within 1 year (365 days) from the date of allotment: 1% If redeemed after 1 year (365 days) from the date of allotment: NIL.",
+    "amfi_codes": [
+      "151810",
+      "151811",
+      "151812",
+      "151813"
+    ],
+    "isins": [
+      "INF769K01KK8",
+      "INF769K01KL6",
+      "INF769K01KM4",
+      "INF769K01KH4",
+      "INF769K01KI2",
+      "INF769K01KJ0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular Plan Growth",
+    "Regular PlanIDCW - Payout",
+    "Regular PlanIDCW - Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T04:59:06.786768+00:00"
+}

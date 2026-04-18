@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Invesco India Balanced Advantage Fund",
+  "source_file": "SUMMARY_Invesco India Balanced Advantage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India Balanced Advantage Fund",
+    "fund_type": "An open ended dynamic asset allocation fund",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate capital appreciation/income from a mix of equity and debt securities which are managed dynamically. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Equity and Equity Related Instruments: Min. 0% Max. 100% Debt and Money Market Instruments: Min.0% Max. 100%",
+    "benchmark": "Nifty 50 Hybrid Composite Debt 50:50 Index",
+    "fund_managers": "For Equity :Mr. Amey Sathe, For Arbitrage: Mr. Manish Kalani , For Debt :Mr. Krishna Cheemalapati",
+    "annual_expense": {
+      "Regular": "2.3200",
+      "Direct": "0.9500"
+    },
+    "exit_load": "If upto 10% of Units allotted are redeemed / switched-out within 1 year 3 months from the date of allotment - Nil. For any redemption / switchout in excess of 10% of units allotted within 3 months from the date of allotment - 0.25%. If units are redeemed or switched-out after 3 months from the date of allotment - Nil.",
+    "amfi_codes": [
+      "120333",
+      "120332",
+      "120332",
+      "106317",
+      "106316",
+      "106316"
+    ],
+    "isins": [
+      "INF205K01213",
+      "INF205K01LL9",
+      "INF205K01LM7",
+      "INF205K01239",
+      "INF205K01221",
+      "INF205K01LN5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T04:20:04.176425+00:00"
+}

@@ -1,0 +1,56 @@
+{
+  "parent_scheme_name": "Union Focused Fund",
+  "source_file": "SUMMARY_Union Focused Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Union Focused Fund",
+    "fund_type": "An open ended equity scheme investing in maximum 30 stocks across market caps (i.e. Multi Cap).",
+    "fund_options": [
+      "IDCW Payout - Regular Plan",
+      "IDCW Reinvestment - Regular Plan",
+      "Growth-Direct Plan",
+      "Growth - Regular Plan",
+      "IDCW Payout-Direct Plan",
+      "IDCW Reinvestment-Direct Plan",
+      "IDCW Transfer - Regular Plan",
+      "IDCW Transfer - Direct Plan"
+    ],
+    "isins": [
+      "INF582M01FY2",
+      "INF582M01FX4",
+      "INF582M01FS4",
+      "INF582M01FW6",
+      "INF582M01FU0",
+      "INF582M01FT2",
+      "INF582M01FZ9",
+      "INF582M01FV8"
+    ],
+    "amfi_codes": [
+      "147490",
+      "147493",
+      "147492",
+      "147491"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to seek to generate capital appreciation by investing in a portfolio of select equityand equity linked securities across market caps. However, there can be no assurance that the investment objective of thescheme will be achieved.",
+    "asset_allocation": "Equity and Equity related instruments across market cap*: 65%- 100% of net assets, Debt and Money Market instruments:0%-35% of net assets, (*Investment in maximum 30 stocks across market capitalisation.) Please refer the Scheme InformationDocument for complete details.",
+    "benchmark": "BSE 500 Index (TRI)",
+    "fund_managers": "FM 1 Mr. Pratik Dharmshi, FM 2 Mr. Vinod Malviya",
+    "annual_expense": {
+      "Regular": "2.51",
+      "Direct": "1.53"
+    },
+    "exit_load": "1% if units are redeemed or switched out on or before completion of 15 days from the date of allotment. Nil thereafter."
+  },
+  "fund_options_inferred": [
+    "IDCW Payout - Regular Plan",
+    "IDCW Reinvestment - Regular Plan",
+    "Growth-Direct Plan",
+    "Growth - Regular Plan",
+    "IDCW Payout-Direct Plan",
+    "IDCW Reinvestment-Direct Plan",
+    "IDCW Transfer - Regular Plan",
+    "IDCW Transfer - Direct Plan"
+  ],
+  "extracted_at": "2026-04-18T06:02:07.922503+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Baroda BNP Paribas Business Conglomerates Fund (BBNPC)",
+  "source_file": "SUMMARY_Baroda BNP Paribas Business Conglomerates Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Baroda BNP Paribas Business Conglomerates Fund (BBNPC)",
+    "fund_type": "An open ended equity scheme investing in equity and equity related securities of companies that are part of businessconglomerates in India",
+    "fund_options": [
+      "Direct Plan - Growth Option",
+      "Direct Plan - IDCW Payout Option",
+      "Direct Plan - IDCW Option Dividend Reinvestment",
+      "Regular Plan - Growth Option",
+      "Regular Plan - IDCW Payout Option",
+      "Regular Plan - IDCW Option - Dividend Reinvestment Option"
+    ],
+    "isins": [
+      "INF251K01VJ6",
+      "INF251K01VK4",
+      "INF251K01VL21",
+      "INF251K01VG2",
+      "INF251K01VH0",
+      "INF251K01VI8"
+    ],
+    "amfi_codes": [
+      "153847",
+      "153845",
+      "153845",
+      "153844",
+      "153846",
+      "153846"
+    ],
+    "riskometer": "Very high",
+    "investment_objective": "The investment objective of the Scheme is to achieve long term capital appreciation by investing in equity and equity relatedsecurities of companies that are part of business conglomerates in India. The Scheme does not guarantee/indicate anyreturns. However, there can be no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "Equity and equity related instruments of companies that are part of business conglomerates in India- 80-100% Equity andequity related instruments of companies other than above- 0-20% Debt & Money Market instruments - 0-20% Units ofMutual Fund( domestic schemes)- 0-10% Units issued by REITs & InvITs - 0-10%",
+    "benchmark": "Nifty Conglomerate 50 Index",
+    "fund_managers": "Jitendra Sriram; Kushant Arora",
+    "annual_expense": {
+      "Regular": "2.28",
+      "Direct": "0.60"
+    },
+    "exit_load": "Redemption/ switch out of units upto 10% of the units allotted before 1 year from date of allotment- Exit load -NIL Forredemption/switch out of units above 10% of units allotted within 1 year from the date of allotment- 1.00% of applicableNAV For redemption/switch out of units after 1 year from the date of allotment-Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth Option",
+    "Direct Plan - IDCW Payout Option",
+    "Direct Plan - IDCW Option Dividend Reinvestment",
+    "Regular Plan - Growth Option",
+    "Regular Plan - IDCW Payout Option",
+    "Regular Plan - IDCW Option - Dividend Reinvestment Option"
+  ],
+  "extracted_at": "2026-04-18T02:57:13.214844+00:00"
+}

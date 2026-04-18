@@ -1,0 +1,39 @@
+{
+  "parent_scheme_name": "Motilal Oswal Nifty Microcap 250 Index Fund",
+  "source_file": "SUMMARY_Motilal Oswal Nifty Microcap 250 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal Nifty Microcap 250 Index Fund",
+    "fund_type": "An open-ended fund replicating / tracking the Nifty Microcap 250 Total Return Index",
+    "fund_options": [
+      "Regular Growth Option",
+      "Direct Growth Option"
+    ],
+    "riskometer": "Very high",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, correspond to the total returns of the securities as represented by Nifty Microcap 250 Total Return Index, subject to tracking error. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "Constituents of Nifty Microcap 250 Index  95% - 100%, Units of liquid schemes and/or money market instruments  0%-5%",
+    "benchmark": "Nifty Microcap 250 Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "05/06/2023"
+      }
+    ],
+    "annual_expense": {},
+    "exit_load": "2.25",
+    "amfi_codes": [
+      "151815",
+      "151814"
+    ],
+    "isins": [
+      "INF247L01BR7",
+      "INF247L01BQ9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth Option",
+    "Direct Growth Option"
+  ],
+  "extracted_at": "2026-04-18T05:07:15.755783+00:00"
+}

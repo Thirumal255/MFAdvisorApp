@@ -1,0 +1,32 @@
+{
+  "parent_scheme_name": "JioBlackRock Nifty 8-13 yr G-Sec Index Fund",
+  "source_file": "SUMMARY_JioBlackRock Nifty 8-13 yr G-Sec Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "JioBlackRock Nifty 8-13 yr G-Sec Index Fund",
+    "fund_type": "An open-ended scheme replicating/ tracking the Nifty 8-13 yr G-Sec Index. A relatively high interest rate risk and relativelylow credit risk.",
+    "fund_options": [
+      "Direct Plan Growth"
+    ],
+    "riskometer": "Moderate Risk",
+    "investment_objective": "Passive investment in gilt securities replicating the composition of Nifty 8-13 yr G-Sec Index, subject to tracking errors.There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities comprising the Nifty 8-13 yr G-Sec Index: 95%-100% Debt and Money Market Instruments: 0%-5%",
+    "benchmark": "Nifty 8-13 yr G-Sec",
+    "fund_managers": "Mr. Vikrant Mehta, Mr. Siddharth Deb, Mr. Arun Ramachandran",
+    "annual_expense": {
+      "Regular": "0.00",
+      "Direct": "0.10"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153791"
+    ],
+    "isins": [
+      "INF22M001069"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T04:28:32.440615+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Groww Nifty 500 Low Volatility 50 ETF",
+  "source_file": "SUMMARY_Groww Nifty 500 Low Volatility 50 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Groww Nifty 500 Low Volatility 50 ETF",
+    "fund_type": "ETF",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the  Scheme is to generate long-term capital growth by investing in securities of the Nifty 500 Low Volatility 50 Index in the same proportion/weightage with an aim to provide returns before expenses that track the total return of Nifty 500 Low Volatility 50 Index, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Constituents of Nifty 500 Low Volatility 50 Index - 95% to 100% Money  market  instruments  /  debt  securities,  Instruments  and/or units of debt/liquid schemes of domestic Mutual Funds. - 0% to 5%",
+    "benchmark": "Nifty 500 Low Volatility 50 Index - TRI",
+    "fund_managers": "Mr. Nikhil Satam, Mr. Aakash chauhan & Mr. Shashi Kumar",
+    "annual_expense": {
+      "Direct": "0.32"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153583"
+    ],
+    "isins": [
+      "INF666M01LB9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T03:37:21.032260+00:00"
+}

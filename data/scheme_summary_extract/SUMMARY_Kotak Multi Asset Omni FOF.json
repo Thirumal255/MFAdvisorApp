@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Kotak Multi Asset Omni FOF",
+  "source_file": "SUMMARY_Kotak Multi Asset Omni FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Multi Asset Omni FOF",
+    "fund_type": "An open-ended fund of fund scheme investing in units of equity-oriented schemes, debt-oriented schemes and commodity-based schemes.",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan-Daily - IDCW Re-investment",
+      "Direct Plan-Growth",
+      "Direct Plan - Daily IDCW",
+      "Direct Plan - IDCW - Reinvestment"
+    ],
+    "isins": [
+      "INF174K01468",
+      "INF174K01484",
+      "INF174K01476",
+      "INF174K01LN3",
+      "INF174K01LO1",
+      "INF174K01LP8"
+    ],
+    "amfi_codes": [
+      "I102574",
+      "102573",
+      null,
+      "119777",
+      "119776",
+      null
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long term capital appreciation from a portfolio created by investing in units of Equity oriented schemes, Debt oriented schemes and commoditybased schemes. However,there is no assurance that the objective of the scheme will beachieved.",
+    "asset_allocation": "A. Units of Equity oriented schemes, Debt oriented schemes and Commodity based schemes. - 95 - 100% A(i) Equity Schemesincluding Equity ETFs/Index Schemes - 10- 80% A(ii) Debt Schemes including Debt ETFs/ Index schemes - 10 - 60% A(iii)Commodity Based Schemes (ETFs) - 10 - 30% B. Money Market Instruments #, cash and cash equivalent - 0 - 5% #Money Marketinstruments include commercial papers, commercial bills, treasury bills, Tri-party repo, Government securities having anunexpired maturity up to one year, call or notice money, certiﬁcate of deposit, usance bills, and any other like instruments asspeciﬁed by the Reserve Bank of India from time to time.",
+    "benchmark": "55% Nifty 50 TRI + 30 % Nifty Short Duration Debt Index + 7.5% Domestic Price of Gold + 7.5% Domestic Price of Silver",
+    "fund_managers": "FM 1 Mr. Devender Singhal, FM 2 Mr. Abhishek Bisen",
+    "annual_expense": {
+      "Regular": "1.07",
+      "Direct": "0.39"
+    },
+    "exit_load": "8% of the units allotted shall be redeemed without any Exit Load on or before completion of 1 Year from the date of allotmentof units. Any redemption in excess of such limit within 1 year from the date of allotment shall be subject to the following ExitLoad: If redeemed or switched out on or before completion of 1 year from the date of allotment of units – 1.00% If redeemedor switched out after completion of 1 Year from the date of allotment of units – NIL"
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan-Daily - IDCW Re-investment",
+    "Direct Plan-Growth",
+    "Direct Plan - Daily IDCW",
+    "Direct Plan - IDCW - Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T04:37:13.207421+00:00"
+}

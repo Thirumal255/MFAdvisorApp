@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Aditya Birla Sun Life Quant Fund",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Quant Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Aditya Birla Sun Life Quant Fund",
+    "fund_type": "An open ended equity scheme following Quant based investment theme",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "REGULAR - IDCW",
+      "Direct Plan - Growth",
+      "DIRECT - IDCW"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the Scheme is to generate long term capital appreciation by investing in equity and equity related securities based on quant model theme. The Scheme does not guarantee/indicate any returns. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related instruments based on quant model theme  - 80 to 100% Equity and Equity related instruments other than quant model theme - 0 to 20% Debt and Money Market Instruments- 0 to 20% Units issued by InvITs -0 to 10%",
+    "benchmark": "Nifty 200 TRI",
+    "fund_managers": "Mr. Harish Krishnan",
+    "annual_expense": {
+      "Regular": "2.25",
+      "Direct": "0.70"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "152686",
+      "152687",
+      "152684",
+      "152685"
+    ],
+    "isins": [
+      "INF209KC1092",
+      "INF209KC1100",
+      "INF209KC1118",
+      "INF209KC1126"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "REGULAR - IDCW",
+    "Direct Plan - Growth",
+    "DIRECT - IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:16:36.014786+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Canara Robeco Flexi Cap Fund",
+  "source_file": "SUMMARY_Canara Robeco Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Canara Robeco Flexi Cap Fund",
+    "fund_type": "An open-ended equity scheme investing across large cap, mid cap, small cap stocks",
+    "fund_options": [
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct -Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular -Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate capital appreciation by investing in equity and equity related securities. However, there can be no assurance that the investment objective of the scheme will be realized.",
+    "asset_allocation": "Equity & Equity Related Instruments - 65% to 100% (Risk- High) Debt and money- market instruments - 0% to 35% (Risk- Low to medium) Invits- 0% to 10% (Risk- Medium to High) Pursuant to SEBI Circular dated November 28, 2025, AMFI shall include REITs in the list of classification of scrips as per their market capitalization.",
+    "benchmark": "BSE 500 TRI",
+    "fund_managers": "Mr. Shridatta Bhandwaldar / Mr. Pranav Gokhale",
+    "annual_expense": {
+      "Regular": "1.69",
+      "Direct": "0.56"
+    },
+    "exit_load": "1% - if redeemed/switched out within 1 year from the date of allotment. Nil – if redeemed / switched out after 1 year from the date of allotment.",
+    "amfi_codes": [
+      "118276",
+      "118276",
+      "118275",
+      "101923",
+      "101923",
+      "101922"
+    ],
+    "isins": [
+      "INF760K01ED5",
+      "INF760K01EE3",
+      "INF760K01EF0",
+      "INF760K01027",
+      "INF760K01035",
+      "INF760K01019"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct -Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular -Growth"
+  ],
+  "extracted_at": "2026-04-18T03:05:49.068536+00:00"
+}

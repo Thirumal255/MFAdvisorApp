@@ -1,0 +1,56 @@
+{
+  "parent_scheme_name": "HDFC Hybrid Equity Fund",
+  "source_file": "SUMMARY_HDFC Hybrid Equity Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Hybrid Equity Fund",
+    "fund_type": "An open ended hybrid scheme investing predominantly in equity and equity related instruments.",
+    "fund_options": [
+      "REGULAR PLAN - IDCW PAYOUT OPTION",
+      "REGULAR PLAN - IDCW REINVESTMENT OPTION",
+      "REGULAR PLAN - GROWTH OPTION",
+      "DIRECT PLAN – IDCW PAYOUT OPTION",
+      "DIRECT PLAN - GROWTH OPTION",
+      "DIRECT PLAN - IDCW REINVESTMENT OPTION"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the Scheme is to generate capital appreciation / income from a portfolio,predominantly of equity &equity related instruments.The Scheme will also invest in debt and money market instruments.There is no assurance that theinvestment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity Related Instruments: 65%- 80%; Debt Securities (including securitised debt) and money market instruments:20%- 35%; Units issued by InvITs: 0%- 10%; Non-convertible preference shares: 0%- 10%",
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 65:35 Index (Total Returns Index)",
+    "fund_managers": [
+      "Mr. Srinivasan Ramamurthy",
+      "Mr. Dhruv Muchhal",
+      "Mr. Anupam Joshi"
+    ],
+    "annual_expense": {
+      "Regular": "1.69",
+      "Direct": "1.02"
+    },
+    "exit_load": "Exit load of 1.00% is payable if Units are redeemed / switched-out within 1 year from the date of allotment of units.No Exit Load is payable if Units are redeemed/ switched-out after 1 year from the date of allotment.",
+    "amfi_codes": [
+      "102947",
+      "119061",
+      "102948",
+      "119061",
+      "119062",
+      "119061"
+    ],
+    "isins": [
+      "INF179K01AQ8",
+      "INF179K01AR6",
+      "INF179K01AS4",
+      "INF179K01XX6",
+      "INF179K01XZ1",
+      "INF179K01XY4"
+    ]
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN - IDCW PAYOUT OPTION",
+    "REGULAR PLAN - IDCW REINVESTMENT OPTION",
+    "REGULAR PLAN - GROWTH OPTION",
+    "DIRECT PLAN – IDCW PAYOUT OPTION",
+    "DIRECT PLAN - GROWTH OPTION",
+    "DIRECT PLAN - IDCW REINVESTMENT OPTION"
+  ],
+  "extracted_at": "2026-04-18T03:43:47.901614+00:00"
+}

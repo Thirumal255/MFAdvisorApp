@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Franklin India Multi Asset Allocation Fund",
+  "source_file": "SUMMARY_Franklin India Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Franklin India Multi Asset Allocation Fund",
+    "fund_type": "An open-ended fund investing in equity, debt and commodities.",
+    "fund_options": [
+      "Regular - Growth",
+      "Regular - IDCW Payout",
+      "Regular - IDCW Reinv.",
+      "Direct - Growth",
+      "Direct - IDCW Payout",
+      "Direct - IDCW Reinv."
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The objective of the scheme is to generate long term capital appreciation by investing in equity and equity related instruments,debt & money market instruments and commodities. However, there is no assurance that the investment objective of thescheme will be realized.",
+    "asset_allocation": "Under normal circumstances, the investment range would be as follows: Equity and Equity related instruments: 65% - 80%,Debt & Money Market Instruments, cash & cash equivalent@: 10% - 25%, Commodities^: 10% - 25%, Units issued byInfrastructure Investment Trust (InvITs): 0% to 10% @includes mutual fund units; ^Includes Gold ETF, Silver ETF, ExchangeTraded Commodity Derivatives (ETCDs) & any other mode of investment in commodities as permitted by SEBI from time to time",
+    "benchmark": "65% Nifty 500+ 20% Nifty Short Duration Index+ 5% Domestic price of gold+ 5% Domestic price of silver+ 5% iCOMDEX",
+    "fund_managers": "Equity: R. Janakiraman, Rajasa Kakulavarapu; Debt: Rohan Maru, Pallab Roy; Sandeep Manam (Dedicated Foreign FundManager)",
+    "annual_expense": {
+      "Regular": "1.87",
+      "Direct": "0.23"
+    },
+    "exit_load": "In respect of each purchase of Units • Upto 10% of the Units may be redeemed without any exit load within 1 year from thedate of allotment*. • Any redemption in excess of the above limit shall be subject to the following exit load: o 0.50 % - ifredeemed on or before 1 year from the date of allotment o Nil - if redeemed after 1 year from the date of allotment * Thiscondition is applicable on a yearly basis. In case of multiple transactions, Units will be redeemed on First In First Out (FIFO)basis the date of allotment of such units. If the limit is not availed during a year, it shall not be clubbed or carried forward to thenext year.",
+    "amfi_codes": [
+      "153733",
+      "153730",
+      "153730",
+      "153731",
+      "153732",
+      "153732"
+    ],
+    "isins": [
+      "INF090I01YM0",
+      "INF090I01YL2",
+      "INF090I01YK4",
+      "INF090I01YH0",
+      "INF090I01YJ6",
+      "INF090I01YI8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Regular - IDCW Payout",
+    "Regular - IDCW Reinv.",
+    "Direct - Growth",
+    "Direct - IDCW Payout",
+    "Direct - IDCW Reinv."
+  ],
+  "extracted_at": "2026-04-18T03:33:44.492019+00:00"
+}

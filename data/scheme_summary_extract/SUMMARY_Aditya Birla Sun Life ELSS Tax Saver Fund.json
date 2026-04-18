@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "Aditya Birla Sun Life ELSS Tax Saver Fund",
+  "source_file": "SUMMARY_Aditya Birla Sun Life ELSS Tax Saver Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Aditya Birla Sun Life ELSS Tax Saver Fund",
+    "fund_type": "An open ended Equity linked Saving Scheme (ELSS) with a statutory lock-in of 3 years and tax benefit",
+    "fund_options": [
+      "DIRECT - IDCW",
+      "Growth - Direct Plan",
+      "Regular - IDCW",
+      "Growth Option"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "An open-ended equity linked savings scheme (ELSS) with the objective of long term growth of capital through a portfolio with a target allocation of 80% equity, 20% debt and money market securities.",
+    "asset_allocation": {
+      "Equity & Equity Related Instruments": "80% - 80%-100%",
+      "Debt & Money Market instruments (including securitised debt)": "20% - 0%-20%"
+    },
+    "benchmark": "NIFTY 500 TRI",
+    "fund_managers": "Mr. Dhaval Shah",
+    "annual_expense": {
+      "Regular": "1.69",
+      "Direct": "0.95"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "119543",
+      "119544",
+      "103164",
+      "107745"
+    ],
+    "isins": [
+      "INF209K01P23",
+      "INF209K01UN8",
+      "INF209K01090",
+      "INF209K01108"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT - IDCW",
+    "Growth - Direct Plan",
+    "Regular - IDCW",
+    "Growth Option"
+  ],
+  "extracted_at": "2026-04-18T02:11:13.743281+00:00"
+}

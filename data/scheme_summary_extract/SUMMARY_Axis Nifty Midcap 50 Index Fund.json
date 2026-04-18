@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis Nifty Midcap 50 Index Fund",
+  "source_file": "SUMMARY_Axis Nifty Midcap 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Nifty Midcap 50 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide returns before expenses that closely corresponds to the total returns of the NIFTY MIDCAP 50 subject totracking errors. However, there can be no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities covered by Nifty Midcap 50 Index (95%-100%), Debt & Money Market Instruments (0%-5%)",
+    "benchmark": "Nifty Midcap 50 Index TRI",
+    "fund_managers": "Mr. Karthik Kumar",
+    "annual_expense": {
+      "Regular": "1.02",
+      "Direct": "0.25"
+    },
+    "exit_load": "0.25% if redeemed / switched out within 7 days from the date of allotment/ Investment w.e.f., 24/03/2022",
+    "amfi_codes": [
+      "149936",
+      "149935",
+      "149938",
+      "149937"
+    ],
+    "isins": [
+      "INF846K019H0",
+      "INF846K010I7",
+      "INF846K012I3",
+      "INF846K013I1",
+      "INF846K011I5",
+      "INF846K014I9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T02:23:29.111507+00:00"
+}

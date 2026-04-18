@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Sundaram Multi Cap Fund",
+  "source_file": "SUMMARY_Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund).pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Sundaram Multi Cap Fund",
+    "fund_type": "An open ended equity scheme investing across large cap, mid cap, small cap stocks",
+    "fund_options": [
+      "Direct Plan -IDCW Payout",
+      "Direct Plan -IDCW Reinvestment",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Regular Plan - Growth"
+    ],
+    "riskometer": "very High Risk",
+    "investment_objective": "The investment objective of the scheme is to generate capital appreciation by investing in a diversiﬁed portfolio of equity &equity related instruments across market capitalisation",
+    "asset_allocation": "Equity & Equity related securities of Large Cap Companies: 25-50%; Equity & Equity related securities of Mid Cap companies:25-50%; Equity & Equity related securities of Small Cap companies: 25-50%; Fixed Income and Money Market Instruments /Cash & Cash equivalents : 0-25%",
+    "benchmark": "Nifty 500 Multi Cap 50:25:25 TRI",
+    "fund_managers": "FM1 - Mr. Ratish B. Varier, FM2 - Mr. Shalav Saket(Overseas Securities)",
+    "annual_expense": {
+      "Regular": "1.99",
+      "Direct": "0.89"
+    },
+    "exit_load": "Nil - If up to 25% of the units invested are redeemed or withdrawn by way of SWP within 365 days from the date of allotment.Any redemptions or withdrawals by way of SWP in excess of the above mentioned limit would be subject to an exit load of 1 %of the applicable NAV will be charged, if the units are redeemed within 365 days from the date of allotment of units Forredemption or withdrawal by way of SWP after 365 days from the date of allotment - Nil. Further, exit load will be waived onIntra-scheme and Inter scheme Switchouts/STP. Generally, the exit load will be calculated on First in First out (FIFO) basis.",
+    "amfi_codes": [
+      "149666",
+      "149667",
+      "149668",
+      "149669"
+    ],
+    "isins": [
+      "INF173K01FN7",
+      "INF173K01FO5",
+      "INF173K01957",
+      "INF173K01965",
+      "INF173K01FQ0",
+      "INF173K01940"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan -IDCW Payout",
+    "Direct Plan -IDCW Reinvestment",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:49:15.793559+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Nippon India Nifty 500 Momentum 50 Index Fund",
+  "source_file": "SUMMARY_Nippon India Nifty 500 Momentum 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India Nifty 500 Momentum 50 Index Fund",
+    "fund_type": "An open-ended scheme replicating/tracking Nifty 500 Momentum 50 Index",
+    "fund_options": [
+      "DIRECT GROWTH PLAN GROWTH",
+      "GROWTH PLAN GROWTH",
+      "DIRECT IDCW PLAN PAYOUT",
+      "DIRECT IDCW PLAN REINVESTMENT",
+      "IDCW PLAN PAYOUT",
+      "IDCW PLAN REINVESTMENT"
+    ],
+    "isins": [
+      "INF204KC1DG5",
+      "INF204KC1DD2",
+      "INF204KC1DH3",
+      "INF204KC1DI1",
+      "INF204KC1DE0",
+      "INF204KC1DF7"
+    ],
+    "amfi_codes": [
+      "MTAGG",
+      "MTGPG",
+      "MTADD",
+      "MTADR",
+      "MTDPD",
+      "MTDPR"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns that commensurate to the total returns of the securities as represented by the Nifty 500 Momentum 50 Index before expenses, subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities constituting Nifty 500 Momentum 50 Index - 95%- 100%, Cash & cash equivalents and Money Market instruments and/ or Schemes which invest in the money market securities or Liquid Schemes",
+    "benchmark": "Nifty 500 Momentum 50 TRI",
+    "fund_managers": "Jitendra Tolani",
+    "annual_expense": {
+      "Regular": "0.88",
+      "Direct": "0.25"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "DIRECT GROWTH PLAN GROWTH",
+    "GROWTH PLAN GROWTH",
+    "DIRECT IDCW PLAN PAYOUT",
+    "DIRECT IDCW PLAN REINVESTMENT",
+    "IDCW PLAN PAYOUT",
+    "IDCW PLAN REINVESTMENT"
+  ],
+  "extracted_at": "2026-04-18T05:18:03.525120+00:00"
+}

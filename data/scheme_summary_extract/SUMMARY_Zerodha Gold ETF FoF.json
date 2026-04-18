@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Zerodha Gold ETF FoF",
+  "source_file": "SUMMARY_Zerodha Gold ETF FoF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Zerodha Gold ETF FoF",
+    "fund_type": "An open ended fund of fund scheme investing in units of Gold ETF",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "High",
+    "investment_objective": "The investment objective of the scheme is to seek capital appreciation by investing in units of Gold ETF. There is no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Units of Gold Exchange Traded Fund : 95 to 100% Debt and Money Market Instruments : 0 to 5%",
+    "benchmark": "Domestic price of physical gold",
+    "fund_managers": "Shyam Agarwal, Kedarnath Mirajkar",
+    "annual_expense": {
+      "Direct": "0.23"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153011"
+    ],
+    "isins": [
+      "INF0R8F01083"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T06:15:10.433691+00:00"
+}

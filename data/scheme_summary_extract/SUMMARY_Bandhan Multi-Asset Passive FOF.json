@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Bandhan Multi-Asset Passive FOF",
+  "source_file": "SUMMARY_Bandhan Multi-Asset Passive FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Multi-Asset Passive FOF",
+    "fund_type": "An open-ended fund of funds scheme investing in passive equity schemes and debt schemes of Bandhan Mutual Fund, andcommodity-based schemes, as permitted by SEBI from time to time",
+    "fund_options": [
+      "Bandhan Multi-Asset Passive FOF - DIRECT PLAN - Growth",
+      "Bandhan Multi-Asset Passive FOF - DIRECT PLAN - IDCW Payout",
+      "Bandhan Multi-Asset Passive FOF - REGULAR PLAN - IDCW Payout",
+      "Bandhan Multi-Asset Passive FOF - REGULAR PLAN - Growth"
+    ],
+    "isins": [
+      "INF194K019A3",
+      "INF194K010B0",
+      "INF194K01AC7",
+      "INF194K01AB9"
+    ],
+    "amfi_codes": [
+      "118486",
+      "118487",
+      "112328",
+      "112327"
+    ],
+    "riskometer": "High",
+    "investment_objective": "The investment objective of the scheme is to provide diversiﬁcation across asset classes and generate a mix of capitalappreciation and income predominantly through investment in equity funds and debt funds of IDFC Mutual Fund based on adeﬁned asset allocation model.",
+    "asset_allocation": "Investment in the underlying mutual fund/s, where in: 95%-100% - Passive Equity Oriented Schemes (Including Oﬀshoreequity)35% - 80% - Passive Debt Oriented Schemes 10% - 65% Commodity based schemes* (and any other asset class basedscheme as permissible by SEBI from time to time) 10% - 30% Debt and Money Market Securities 0% - 5%",
+    "benchmark": "65% Nifty 500 TRI + 25% NIFTY Short Duration Debt Index + 5% Domestic prices of gold + 5% Domestic prices of silver",
+    "fund_managers": "Mr. Viraj Kulkarni",
+    "annual_expense": {
+      "Regular": "0.36",
+      "Direct": "0.11"
+    },
+    "exit_load": "Entry Load: Nil. Exit Load (w.e.f 08-May-2020) If redeemed / Switched Out within 365 days from the date of allotment - Up to10% of Investment Nil & For remaining Investment: 1.00%. If redeemed / switched out after 365 days from the date ofallotment: Nil"
+  },
+  "fund_options_inferred": [
+    "Bandhan Multi-Asset Passive FOF - DIRECT PLAN - Growth",
+    "Bandhan Multi-Asset Passive FOF - DIRECT PLAN - IDCW Payout",
+    "Bandhan Multi-Asset Passive FOF - REGULAR PLAN - IDCW Payout",
+    "Bandhan Multi-Asset Passive FOF - REGULAR PLAN - Growth"
+  ],
+  "extracted_at": "2026-04-18T02:50:42.356302+00:00"
+}

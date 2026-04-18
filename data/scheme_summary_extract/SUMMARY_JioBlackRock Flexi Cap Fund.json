@@ -1,0 +1,32 @@
+{
+  "parent_scheme_name": "JioBlackRock Flexicap Fund",
+  "source_file": "SUMMARY_JioBlackRock Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "JioBlackRock Flexicap Fund",
+    "fund_type": "Flexicap Fund - An open ended dynamic equity scheme investing across large cap, mid cap, small cap stocks",
+    "fund_options": [
+      "Direct Plan-Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate long term capital appreciation by investing in equity and equityrelated instruments across market capitalization. There is no assurance that the investment objective of the Scheme willbe achieved.",
+    "asset_allocation": "Equity and Equity-related instruments of large cap, mid cap and small cap companies - 65% to 100% Debt & Money MarketInstruments - 0% to 35% Units issued by REITs & InvITs - 0-10%",
+    "benchmark": "NIFTY 500 TRI",
+    "fund_managers": "Mr. Sahil Chaudhary, Mrs. Tanvi Kacheria",
+    "annual_expense": {
+      "Regular": "0.00",
+      "Direct": "0.50"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153859"
+    ],
+    "isins": [
+      "INF22M001093"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth"
+  ],
+  "extracted_at": "2026-04-18T04:28:08.160611+00:00"
+}

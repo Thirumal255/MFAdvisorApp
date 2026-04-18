@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis BSE Sensex Index Fund",
+  "source_file": "SUMMARY_Axis BSE Sensex Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis BSE Sensex Index Fund",
+    "fund_type": "An Open Ended Index Fund tracking the BSE Sensex TRI",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide returns before expenses that corresponds to the total returns of the BSE Sensex TRI subject to tracking errors.However, there is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities covered by S&P BSE Sensex TRI - 95%-100%, Debt and Money market instruments: 0%-5%",
+    "benchmark": "BSE Sensex TRI",
+    "fund_managers": "Mr. Karthik Kumar",
+    "annual_expense": {
+      "Regular": "0.70",
+      "Direct": "0.10"
+    },
+    "exit_load": "If redeemed/switched out within 7 days from the date of investment/allotment: 0.25%. If redeemed/switched out after 7 daysfrom the date of investment/allotment: Nil",
+    "amfi_codes": [
+      "152421",
+      "152423",
+      "152422",
+      "152424"
+    ],
+    "isins": [
+      "INF846K014V2",
+      "INF846K010V0",
+      "INF846K012V6",
+      "INF846K013V4",
+      "INF846K011V8",
+      "INF846K015V9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T02:19:07.125752+00:00"
+}

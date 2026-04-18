@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Old Bridge Arbitrage Fund",
+  "source_file": "SUMMARY_Old Bridge Arbitrage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Old Bridge Arbitrage Fund",
+    "fund_type": "An open ended scheme investing in arbitrage opportunities",
+    "fund_options": [
+      "Old Bridge Arbitrage Fund-Direct- IDCW Payout",
+      "Old Bridge Arbitrage Fund-Direct-IDCW Reinvestment",
+      "Old Bridge Arbitrage Fund-Regular Growth",
+      "Old Bridge Arbitrage Fund-Regular- IDCW Payout",
+      "Old Bridge Arbitrage Fund-Regular-IDCW Reinvestment",
+      "Old Bridge Arbitrage Fund-Direct-Growth"
+    ],
+    "isins": [
+      "INF0S5R01075",
+      "INF0S5R01083",
+      "INF0S5R01091",
+      "INF0S5R01109",
+      "INF0S5R01117",
+      "INF0S5R01125"
+    ],
+    "amfi_codes": [
+      "153981",
+      "153976",
+      "153977",
+      "153980",
+      "153978",
+      "153979"
+    ],
+    "riskometer": "Low Risk",
+    "investment_objective": "To generate income by investing in arbitrage opportunities between cash and derivative segments of the equity markets andby investing the balance in debt and money market instruments. *Disclaimer: There is no assurance or guarantee that theobjectives of the scheme will be achieved.",
+    "asset_allocation": "Equity and Equity Related Instruments *: 65%- 100%: Very High; Debt Securities (including securitised debt) and money marketinstruments: 0%- 35% : Low to Medium; Units issued by REITs and InvITs: 0%- 10%: Very High; * In the event of adequatearbitrage opportunities not being available in the equity and derivative markets, then 100% of the portfolio can be allocated toDebt and Money Market Instruments",
+    "benchmark": "Nifty 50 Arbitrage TRI",
+    "fund_managers": "Mr. Kenneth Joseph Andrade",
+    "annual_expense": {
+      "Regular": "0.99",
+      "Direct": "0.14"
+    },
+    "exit_load": "If redeemed/switched out within 7 days from the date of allotment: 0.25% If redeemed/switched out after 7 days from thedate of allotment – Nil"
+  },
+  "fund_options_inferred": [
+    "Old Bridge Arbitrage Fund-Direct- IDCW Payout",
+    "Old Bridge Arbitrage Fund-Direct-IDCW Reinvestment",
+    "Old Bridge Arbitrage Fund-Regular Growth",
+    "Old Bridge Arbitrage Fund-Regular- IDCW Payout",
+    "Old Bridge Arbitrage Fund-Regular-IDCW Reinvestment",
+    "Old Bridge Arbitrage Fund-Direct-Growth"
+  ],
+  "extracted_at": "2026-04-18T05:22:56.695486+00:00"
+}

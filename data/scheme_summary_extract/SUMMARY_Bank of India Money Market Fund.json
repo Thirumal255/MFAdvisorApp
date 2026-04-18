@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "Bank of India Money Market Fund",
+  "source_file": "SUMMARY_Bank of India Money Market Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bank of India Money Market Fund",
+    "fund_type": "An open ended debt scheme investing in money market instruments. A Relatively Low interest rate risk and Moderate Credit Risk",
+    "fund_options": [
+      "DIRECT-DAILY IDCW REINVESTMENT",
+      "DIRECT-GROWTH",
+      "DIRECT-MONTHLY IDCW PAYOUT",
+      "DIRECT-MONTHLY IDCW REINVESTMENT",
+      "DIRECT-WEEKLY IDCW REINVESTMENT",
+      "REGULAR-DAILY IDCW REINVESTMENT",
+      "REGULAR-GROWTH",
+      "REGULAR-MONTHLY IDCW REINVESTMENT",
+      "REGULAR-MONTHLY IDCW PAYOUT",
+      "REGULAR-WEEKLY IDCW REINVESTMENT"
+    ],
+    "isins": [
+      "INF761K01GP2",
+      "INF761K01GO5",
+      "INF761K01GR8",
+      "INF761K01GX6",
+      "INF761K01GQ0",
+      "INF761K01GT4",
+      "INF761K01GS6",
+      "INF761K01GV0",
+      "INF761K01GW8",
+      "INF761K01GU2"
+    ],
+    "amfi_codes": [
+      "153292",
+      "153293",
+      "153294",
+      "153295",
+      "153296",
+      "153298",
+      "153299",
+      "153301",
+      null,
+      null
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective is to generate returns with reasonable liquidity to the unitholders by investing in money market instruments. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Money Market Instruments having residual maturity upto 1 year* - 0% to 100% - Low to Moderate",
+    "benchmark": "CRISIL Money Market A-1 Index",
+    "fund_managers": "Mr. Mithraem Bharucha",
+    "annual_expense": {
+      "Regular": "0.62",
+      "Direct": "0.11"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "DIRECT-DAILY IDCW REINVESTMENT",
+    "DIRECT-GROWTH",
+    "DIRECT-MONTHLY IDCW PAYOUT",
+    "DIRECT-MONTHLY IDCW REINVESTMENT",
+    "DIRECT-WEEKLY IDCW REINVESTMENT",
+    "REGULAR-DAILY IDCW REINVESTMENT",
+    "REGULAR-GROWTH",
+    "REGULAR-MONTHLY IDCW REINVESTMENT",
+    "REGULAR-MONTHLY IDCW PAYOUT",
+    "REGULAR-WEEKLY IDCW REINVESTMENT"
+  ],
+  "extracted_at": "2026-04-18T02:55:23.905250+00:00"
+}

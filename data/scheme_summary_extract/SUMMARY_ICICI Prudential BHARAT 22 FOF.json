@@ -1,0 +1,39 @@
+{
+  "parent_scheme_name": "ICICI Prudential BHARAT 22 FOF",
+  "source_file": "SUMMARY_ICICI Prudential BHARAT 22 FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential BHARAT 22 FOF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential BHARAT 22 FOF - Direct Plan - Growth",
+      "ICICI Prudential BHARAT 22 FOF - Growth"
+    ],
+    "isins": [
+      "INF109KC1FX1",
+      "INF109KC1FW3"
+    ],
+    "amfi_codes": [
+      "143903",
+      "143904"
+    ],
+    "riskometer": "Very High\nAs on November 30, 2024",
+    "investment_objective": "ICICI Prudential BHARAT 22 FOF (the Scheme) is a fund of funds scheme with the primary objective to generate returns by investing in units of BHARAT 22 ETF. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Units of BHARAT 22 ETF = 95% - 100%\n• Units of Liquid schemes, Money Market Instruments (with maturity not exceeding 91 days), including TREPS, cash & cash equivalents = 0% - 5%",
+    "benchmark": "BSE Bharat 22 TRI",
+    "fund_managers": [
+      "Ajaykumar Solanki",
+      "Ashwini Bharucha"
+    ],
+    "annual_expense": {
+      "Regular": "0.13",
+      "Direct": "0.12"
+    },
+    "exit_load": null
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential BHARAT 22 FOF - Direct Plan - Growth",
+    "ICICI Prudential BHARAT 22 FOF - Growth"
+  ],
+  "extracted_at": "2026-04-18T04:01:11.097365+00:00"
+}

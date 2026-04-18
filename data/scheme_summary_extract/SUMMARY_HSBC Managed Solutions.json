@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "HSBC Aggressive Hybrid Active FOF",
+  "source_file": "SUMMARY_HSBC Managed Solutions.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Aggressive Hybrid Active FOF",
+    "fund_type": "An open-ended Aggressive Hybrid Active Fund of Fund scheme",
+    "fund_options": [
+      "HSBC Aggressive Hybrid Active FOF Growth",
+      "HSBC Aggressive Hybrid Active FOF IDCW",
+      "HSBC Aggressive Hybrid Active FOF Direct IDCW",
+      "HSBC Aggressive Hybrid Active FOF Direct Growth",
+      "HSBC Aggressive Hybrid Active FOF Dir IDCW Payout",
+      "HSBC Aggressive Hybrid Active FOF IDCW Payout"
+    ],
+    "isins": [
+      "INF336L01IA9",
+      "INF336L01HZ8",
+      "INF336L01IC5",
+      "INF336L01ID3",
+      "INF336L01IB7",
+      "INF336L01HY1"
+    ],
+    "amfi_codes": [
+      "129200",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective is to provide long term total return primarily by seeking capital appreciation through an active asset allocation by investing in a basket of equity and debt mutual fund schemes and money market instruments.",
+    "asset_allocation": "Under normal circumstances, it is anticipated that the asset allocation of the Scheme will be as follows: - Units of mutual fund schemes out of which: 95% to 100% - (a)Investments in underlying Equity Oriented schemes: 65% to 80% - (b)Investments in underlying Debt Oriented schemes: 20% to 35% - Money Market instruments 0% to 5%",
+    "benchmark": "CRISIL Hybrid 35+65-Aggressive Index - TRI",
+    "fund_managers": "FM 1 - Gautam Bhupal",
+    "annual_expense": {
+      "Regular": "1.34",
+      "Direct": "0.09"
+    },
+    "exit_load": "Exit Load :(i) In respect of each purchase / switch-in of Units, an Exit Load of 1% is payable if Units are redeemed / switched-out within 1 year from the date of allotment. (ii) No Exit Load will be charged, if Units are redeemed/switched-out after 1 year from the date of allotment. The exit loads set forth above is subject to change at the discretion of the AMC and such changes shall be implemented prospectively"
+  },
+  "fund_options_inferred": [
+    "HSBC Aggressive Hybrid Active FOF Growth",
+    "HSBC Aggressive Hybrid Active FOF IDCW",
+    "HSBC Aggressive Hybrid Active FOF Direct IDCW",
+    "HSBC Aggressive Hybrid Active FOF Direct Growth",
+    "HSBC Aggressive Hybrid Active FOF Dir IDCW Payout",
+    "HSBC Aggressive Hybrid Active FOF IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T03:58:10.249914+00:00"
+}

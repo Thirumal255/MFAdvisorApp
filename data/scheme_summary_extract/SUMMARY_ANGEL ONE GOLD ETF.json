@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Angel One Gold ETF",
+  "source_file": "SUMMARY_ANGEL ONE GOLD ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Angel One Gold ETF",
+    "fund_type": "An open-ended scheme replicating/tracking domestic price of Gold",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "High Risk. Investors understand that their principal will be at High Risk.",
+    "investment_objective": "The investment objective of the Scheme is to generate returns corresponding to the domestic price of gold before expenses, subject to tracking errors by investing in physical gold and gold related instruments. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Physical gold and gold related instruments as may be specified by SEBI - 95 - 100%\nCash & Cash Equivalents and Money Market instruments, Reverse Repo and / or Tri-Party Repo on Government Securities and / or Treasury bills and/or units of money market / liquid schemes - 0-5%",
+    "benchmark": "Domestic price of gold",
+    "fund_managers": "FM1 - Mr. Mehul Dama; FM2 - Mr. Kewal Shah",
+    "annual_expense": {
+      "Direct": "1"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153826"
+    ],
+    "isins": [
+      "INF1J2R01114"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T02:18:13.895184+00:00"
+}

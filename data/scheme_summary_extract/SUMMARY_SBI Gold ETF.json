@@ -1,0 +1,34 @@
+{
+  "parent_scheme_name": "SBI Gold ETF",
+  "source_file": "SUMMARY_SBI Gold ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Gold ETF",
+    "fund_type": "An open ended Gold Exchange Traded Scheme",
+    "fund_options": [
+      "Direct Plan - IDCW"
+    ],
+    "riskometer": "HIGH",
+    "investment_objective": "The investment objective of the fund is to seek to provide returns that closely correspond to returns provided by price of gold through investment in physical Gold. However the performance of the scheme may differ from that of the underlying asset due to tracking error.",
+    "asset_allocation": {
+      "Gold, gold bullion and gold related securities / instruments#": "95%-100%",
+      "Debt & Money Market Instruments": "0%-5%"
+    },
+    "benchmark": "Price of Gold",
+    "fund_managers": "Ms. Vandna Soni",
+    "annual_expense": {
+      "Direct": "0.62"
+    },
+    "exit_load": "NA",
+    "amfi_codes": [
+      "111954"
+    ],
+    "isins": [
+      "INF200KA16D8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-18T05:38:25.401026+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "The Wealth Company Flexi Cap Fund",
+  "source_file": "SUMMARY_The Wealth Company Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "The Wealth Company Flexi Cap Fund",
+    "fund_type": "An open-ended dynamic equity scheme investing across large cap, mid cap, small cap Stocks",
+    "fund_options": [
+      "THE WEALTH COMPANY FLEXICAP FUND -REGULAR-GROWTH",
+      "THE WEALTH COMPANY FLEXICAP FUND -REGULAR-IDCW-PAYOUT",
+      "THE WEALTH COMPANY FLEXICAP FUND -REGULAR-IDCW-REINVESTMENT",
+      "THE WEALTH COMPANY FLEXICAP FUND -DIRECT-GROWTH",
+      "THE WEALTH COMPANY FLEXICAP FUND -DIRECT-IDCW-PAYOUT",
+      "THE WEALTH COMPANY FLEXICAP FUND -DIRECT-IDCW-REINVESTMENT"
+    ],
+    "isins": [
+      "INF2F0001016",
+      "INF2F0001024",
+      "INF2F0001032",
+      "INF2F0001040",
+      "INF2F0001057",
+      "INF2F0001065"
+    ],
+    "amfi_codes": [
+      "153870",
+      "153871",
+      "153872",
+      "153873",
+      null,
+      null
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide long-term growth in capital and income to investors, through active management of investments in a diversified portfolio of equity and equity-related securities. There is no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity Related Instruments: 65% - 100% Debt Securities and money market instruments and Fixed Income Derivatives: 0% -35% Units issued by REITs and InvITs: 0% - 10%.",
+    "benchmark": "NIFTY 500 Index (Total Returns Index)",
+    "fund_managers": "FM 1 - Ms.Aparna Shanker, FM 2 - Mr. Umesh Sharma, FM3- Mr. Neeraj Jain",
+    "annual_expense": {
+      "Regular": "2.34",
+      "Direct": "0.39"
+    },
+    "exit_load": "1% - If redeemed/switched out within 30 days from the date of allotment. Nil - if redeemed/switched out after 30 days from the date of allotm"
+  },
+  "fund_options_inferred": [
+    "THE WEALTH COMPANY FLEXICAP FUND -REGULAR-GROWTH",
+    "THE WEALTH COMPANY FLEXICAP FUND -REGULAR-IDCW-PAYOUT",
+    "THE WEALTH COMPANY FLEXICAP FUND -REGULAR-IDCW-REINVESTMENT",
+    "THE WEALTH COMPANY FLEXICAP FUND -DIRECT-GROWTH",
+    "THE WEALTH COMPANY FLEXICAP FUND -DIRECT-IDCW-PAYOUT",
+    "THE WEALTH COMPANY FLEXICAP FUND -DIRECT-IDCW-REINVESTMENT"
+  ],
+  "extracted_at": "2026-04-18T05:58:28.985525+00:00"
+}

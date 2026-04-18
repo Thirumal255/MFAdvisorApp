@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "NAVI BSE SENSEX INDIA INDEX FUND",
+  "source_file": "SUMMARY_NAVI BSE SENSEX INDEX FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "NAVI BSE SENSEX INDIA INDEX FUND",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Regular Plan-Growth"
+    ],
+    "riskometer": "VERY HIGH RISK",
+    "investment_objective": "An index fund that seeks to track returns by investing in a basket of  BSE SENSEX Index stocks and aims to achieve returns of the stated index, subject to tracking error.",
+    "asset_allocation": "Equity & Equity related securities constituting the underlying index  BSE Sensex Index -95 to 100%; Debt &",
+    "benchmark": "BSE SENSEX INDEX TRI",
+    "fund_managers": [
+      {
+        "name": "Mr. Aditya Mulki",
+        "type": "Equity",
+        "from_date": "8/21/2023"
+      },
+      {
+        "name": "Ashutosh Shirwaikar",
+        "type": "Equity",
+        "from_date": "8/21/2023"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1",
+      "Direct": "1"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "152062",
+      "152061"
+    ],
+    "isins": [
+      "INF959L01HK9",
+      "INF959L01HJ1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Regular Plan-Growth"
+  ],
+  "extracted_at": "2026-04-18T05:08:44.438647+00:00"
+}

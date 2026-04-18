@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "UTI Large Cap Fund",
+  "source_file": "SUMMARY_UTI - Large Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "UTI Large Cap Fund",
+    "fund_type": "Large Cap Fund - An open ended equity scheme predominantly investing in large cap stocks.",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Regular Plan-Reinvestment of IDCW",
+      "Regular Plan-Payout of IDCW",
+      "Direct Plan-Growth",
+      "Direct Plan-Reinvestment of IDCW",
+      "Direct Plan-Payout of IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The objective of the scheme is to generate long term capital appreciation by investing predominantly in equity and equityrelated securities of large cap companies. However, there can be no assurance or guarantee that the investment objective ofthe scheme would be achieved.",
+    "asset_allocation": "Equity & equity related instruments (minimum 80% of the total assets would be in equity and equity related instruments oflarge cap companies) (Including units of REITS): 80-100% (Medium to High) Debt and Money Market instruments includingsecuritized debt#: 0-20% (Low to Medium) Units issued by & InvITs: 0-10% (Medium to High) # The fund may invest upto 50%of its debt portfolio in securitized debt.",
+    "benchmark": "BSE 100 TRI",
+    "fund_managers": "Mr. Karthikraj Lakshmanan",
+    "annual_expense": {
+      "Regular": "1.74",
+      "Direct": "0.91"
+    },
+    "exit_load": "For subscriptions received w.e.f. June 4th, 2018, applicable Exit load: Redemption/Switch out within 1 year from the date ofallotment : (i) Upto 10% of the allotted Units - NIL (ii) Beyond 10% of the allotted Units- 1%.",
+    "amfi_codes": [
+      "100651",
+      null,
+      null,
+      "120656",
+      "120657",
+      null
+    ],
+    "isins": [
+      "INF789F01976",
+      "INF789F01950",
+      "INF189A01038",
+      "INF789F01US8",
+      "INF789F01UR0",
+      "INF789F01UQ2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Regular Plan-Reinvestment of IDCW",
+    "Regular Plan-Payout of IDCW",
+    "Direct Plan-Growth",
+    "Direct Plan-Reinvestment of IDCW",
+    "Direct Plan-Payout of IDCW"
+  ],
+  "extracted_at": "2026-04-18T06:06:53.935473+00:00"
+}

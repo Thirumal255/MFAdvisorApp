@@ -1,0 +1,41 @@
+{
+  "parent_scheme_name": "Unifi Flexi Cap Fund",
+  "source_file": "SUMMARY_UNIFI FLEXI CAP FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Unifi Flexi Cap Fund",
+    "fund_type": "An open-ended dynamic equity scheme investing across large cap, mid cap, small cap stocks",
+    "fund_options": [
+      "Direct Growth",
+      "Regular Growth"
+    ],
+    "riskometer": "Not Applicable",
+    "investment_objective": "To generate long term capital appreciation by pursuing active management and bottom-up investing, primarily in equity and equity related instruments across sectors and market cap spectrum. The scheme will anchor to investing in growth businesses and is best suited for investors with long term investment horizon. However, there is no assurance that the investment objective of the scheme will be achieved. The scheme does not guarantee or assure any returns",
+    "asset_allocation": "Equity & Equity Related Instruments- 65 to 100%, Debt Securities and Money Market Instruments- 0 to 35% Units issued by REITs and InvITs - 0-10%",
+    "benchmark": "Tier 1- Nifty 500 TRI",
+    "fund_managers": [
+      "Mr. Saravanan VN ( CIO & Fund Manager)",
+      "Mr. Aejas Lakhani (Equity Fund Manager)",
+      "Mr. Karthik Srinivas (Debt Fund Manager)",
+      "Mr. Aman Reddy Kakani ( Overseas Securities)"
+    ],
+    "annual_expense": {
+      "Regular": "2.25",
+      "Direct": "2.25"
+    },
+    "exit_load": "In respect of each purchase of units via Lumpsum /Switch In/ Systematic Investment Plan (SIP) and Systematic Transfer Plan (STP-in), Exit Load on redemption/ switch out will be determined as follows: • In case units are redeemed/switched out within 12 months from the date of allotment: 1% of applicable NAV will be charged as Exit Load. • In case units are redeemed/switched out after 12 months from the date of allotment, no Exit Load is applicable.",
+    "amfi_codes": [
+      "153543",
+      "153542"
+    ],
+    "isins": [
+      "INF1MIY01031",
+      "INF1MIY01049"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T06:00:05.701309+00:00"
+}

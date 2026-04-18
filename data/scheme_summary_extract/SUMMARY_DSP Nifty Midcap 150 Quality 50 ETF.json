@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "DSP Nifty Midcap 150 Quality 50 ETF",
+  "source_file": "SUMMARY_DSP Nifty Midcap 150 Quality 50 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP Nifty Midcap 150 Quality 50 ETF",
+    "fund_type": "ETF",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme seeks to provide returns that, before expenses, closely correspond to the total return of the underlying index(Nifty Midcap 150 Quality 50 Index), subject to tracking errors. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "1. Equity and Equity Related Securities of companies constituting Nifty Midcap 150 Quality 50, the Underlying Index : 95% -100% 2. Cash and Cash Equivalents /Money Market Instruments with residual maturity not exceeding 91 days: 0% - 5%",
+    "benchmark": "Nifty Midcap 150 Quality 50 TRI",
+    "fund_managers": "Mr. Anil Ghelani, Mr. Diipesh Shah",
+    "annual_expense": {
+      "Direct": "0.3000"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "149403"
+    ],
+    "isins": [
+      "INF740KA1QL"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T03:15:13.192402+00:00"
+}

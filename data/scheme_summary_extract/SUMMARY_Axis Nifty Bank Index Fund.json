@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Axis Nifty Bank Index Fund",
+  "source_file": "SUMMARY_Axis Nifty Bank Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Nifty Bank Index Fund",
+    "fund_type": "An Open Ended Index Fund tracking the Nifty Bank TRI",
+    "fund_options": [
+      "Direct IDCW-Payout",
+      "Direct IDCW-Reinvestment",
+      "Direct Growth",
+      "Regular IDCW-Payout",
+      "Regular IDCW-Reinvestment",
+      "RegularGrowth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide returns before expenses that corresponds to the total returns of the Nifty Bank TRI subject to tracking errors.However, there is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities covered by Nifty Bank TRI - 95%-100%, Debt and Money market instruments: 0%-5%",
+    "benchmark": "Nifty Bank TRI",
+    "fund_managers": "Mr. Karthik Kumar",
+    "annual_expense": {
+      "Regular": "1.00",
+      "Direct": "0.17"
+    },
+    "exit_load": "if redeemed/ switched out within 7 days from the date of allotment/ Investment – 0.25% if redeemed/ switched out after 7days from the date of allotment/ Investment - Nil",
+    "amfi_codes": [
+      "152629",
+      "152631",
+      "152632",
+      "152630"
+    ],
+    "isins": [
+      "INF846K015W7",
+      "INF846K016W5",
+      "INF846K017W3",
+      "INF846K012W4",
+      "INF846K013W2",
+      "INF846K014W0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW-Payout",
+    "Direct IDCW-Reinvestment",
+    "Direct Growth",
+    "Regular IDCW-Payout",
+    "Regular IDCW-Reinvestment",
+    "RegularGrowth"
+  ],
+  "extracted_at": "2026-04-18T02:23:10.844740+00:00"
+}

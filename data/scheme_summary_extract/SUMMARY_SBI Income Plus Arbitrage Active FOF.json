@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "SBI Income Plus Arbitrage Active FOF",
+  "source_file": "SUMMARY_SBI Income Plus Arbitrage Active FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Income Plus Arbitrage Active FOF",
+    "fund_type": "An open-ended fund of fund (FOF) scheme investing in units of actively managed debt-oriented schemes and actively managed arbitrage mutual fund schemes.",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth"
+    ],
+    "isins": [
+      "INF200KB1746",
+      "INF200KB1720",
+      "INF200KB1779",
+      "INF200KB1753"
+    ],
+    "amfi_codes": [
+      "153499",
+      "153500",
+      "153501",
+      "153498"
+    ],
+    "riskometer": "MODERATE",
+    "investment_objective": "The investment objective of the scheme shall be to generate regular income and capital appreciation by investing in a mix of units of actively managed debt-oriented schemes and actively managed Arbitrage mutual fund schemes. However, there is no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": {
+      "Units of actively managed Arbitrage Mutual Fund schemes": "35%-50%",
+      "Units of actively managed debt-oriented schemes": "50%-65%",
+      "Money market instruments, Triparty Repo, reverse Repo, cash and cash equivalents": "0%-5%"
+    },
+    "benchmark": "65% Nifty Composite Debt Index + 35% Nifty 50 Arbitrage Index",
+    "fund_managers": "Mr. Ardhendu Bhattacharya",
+    "annual_expense": {
+      "Regular": "0.25"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:38:44.037340+00:00"
+}

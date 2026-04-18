@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "PGIM India Healthcare Fund",
+  "source_file": "SUMMARY_PGIM India Healthcare Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "PGIM India Healthcare Fund",
+    "fund_type": "An open ended equity scheme investing in healthcare and pharmaceutical sector",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the scheme is to seek to generate consistent returns by predominantly investing inequity and equity related securities of pharmaceutical and healthcare companies. However, there is no assurance that theinvestment objective of the scheme will be achieved. The Scheme does not guarantee/ indicate any returns.",
+    "asset_allocation": "Equity and equity related securities of pharmaceutical and healthcare companies- Min 80% and Max 100% Equity & EquityRelated Securities of other companies- Min 0% and Max 20% Debt and Money Market Securities (including TREPS (Tri-PartyRepo), Reverse Repo)- Min 0% and Max 20% Units issued by InvITs - Min 0% and Max 10% Foreign securities includingoverseas ETFs - Min 0% and Max 20%",
+    "benchmark": "BSE Healthcare TRI",
+    "fund_managers": "Mr. Anandha Padmanabhan, Mr. Utsav Mehta, Mr. Vivek Sharma and Mr. Puneet Pal",
+    "annual_expense": {
+      "Regular": "2.37",
+      "Direct": "0.65"
+    },
+    "exit_load": "For Exits within 90 days from date of allotment of units: 0.50%; For Exits beyond 90 days from date of allotment of units: NIL.",
+    "amfi_codes": [
+      "153037",
+      "153038",
+      "153039",
+      "153040"
+    ],
+    "isins": [
+      "INF663L01Z45",
+      "INF663L01Z60",
+      "INF663L01Z78",
+      "INF663L01Z52",
+      "INF663L01Z86",
+      "INF663L01Z94"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T05:25:02.328303+00:00"
+}

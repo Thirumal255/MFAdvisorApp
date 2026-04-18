@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Tata Floating Rate Fund",
+  "source_file": "SUMMARY_Tata Floating Rate Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Floating Rate Fund",
+    "fund_type": "An open ended debt scheme investing predominantly in ﬂoating rate instruments (including ﬁxed rate instruments converted toﬂoating rate exposures using swaps/ derivatives), A Relatively High Interest Rate Risk and Moderate Credit Risk.",
+    "fund_options": [
+      "Tata Floating Rate Fund Regular Plan - Growth",
+      "Tata Floating Rate Fund Direct Plan - Growth",
+      "Tata Floating Rate Fund Regular Plan -IDCW Monthly",
+      "Tata Floating Rate Fund Direct Plan - IDCW Monthly",
+      "Tata Floating Rate Fund Regular Plan - IDCW Periodic",
+      "TataFloating Rate Fund Direct Plan - IDCW Periodic",
+      "Tata Floating Rate Fund Regular Plan - IDCW Quarterly",
+      "Tata Floating Rate FundDirect Plan - IDCW Quarterly"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The objective of the scheme is to generate income through investment primarily in ﬂoating rate debt instruments, ﬁxed rate debtinstruments swapped for ﬂoating rate returns and money market instruments. However, there is no assurance or guarantee thatthe investment objective of the Scheme will be achieved. The scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Floating rate securities (including ﬁxed rate securities converted to ﬂoating rate exposures using swaps / derivatives)65-100, Fixedrate debt securities, securitized debt, money market instruments 0-35, Units issued by REITs & InvITs 0-10.10 Face Value 10",
+    "benchmark": "CRISIL Short Duration Debt A-II Index",
+    "fund_managers": "Akhil Mittal",
+    "annual_expense": {
+      "Regular": "0.72",
+      "Direct": "0.30"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "149003",
+      "149007",
+      "149004",
+      "149000",
+      "149006",
+      "149002",
+      "149005",
+      "149001"
+    ],
+    "isins": [
+      "INF277KA1091",
+      "INF277KA1026",
+      "INF277KA1141",
+      "INF277KA1075",
+      "INF277KA1133",
+      "INF277KA1067",
+      "INF277KA1158",
+      "INF277KA1083"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Floating Rate Fund Regular Plan - Growth",
+    "Tata Floating Rate Fund Direct Plan - Growth",
+    "Tata Floating Rate Fund Regular Plan -IDCW Monthly",
+    "Tata Floating Rate Fund Direct Plan - IDCW Monthly",
+    "Tata Floating Rate Fund Regular Plan - IDCW Periodic",
+    "TataFloating Rate Fund Direct Plan - IDCW Periodic",
+    "Tata Floating Rate Fund Regular Plan - IDCW Quarterly",
+    "Tata Floating Rate FundDirect Plan - IDCW Quarterly"
+  ],
+  "extracted_at": "2026-04-18T05:52:33.324545+00:00"
+}

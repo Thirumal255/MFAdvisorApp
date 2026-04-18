@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Kotak Global Innovation Overseas Equity Omni FOF",
+  "source_file": "SUMMARY_Kotak Global Innovation Overseas Equity Omni FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Global Innovation Overseas Equity Omni FOF",
+    "fund_type": "An open ended fund of fund investing in units of Wellington Global Innovation Fund or any other similar overseas mutual fund schemes/ETFs.",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Regular Plan - Daily IDCW",
+      "Regular Plan - Daily - IDCW Re-investment",
+      "Direct Plan - Growth",
+      "Direct Plan - Daily IDCW",
+      "Direct Plan - Daily - IDCW Re-investment"
+    ],
+    "isins": [
+      "INF174KA1HD1",
+      "INF174KA1HE9",
+      "INF174KA1HF6",
+      "INF174KA1HG4",
+      "INF174KA1HH2",
+      "INF174KA1HI0"
+    ],
+    "amfi_codes": [
+      "149056",
+      "149058",
+      null,
+      "149058",
+      null,
+      "149060"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation by investing in units of Wellington Global Innovation Fund or any other similar overseas mutual fund schemes/ETFs. The Scheme may, at the discretion of the Investment Manager, also invest in the units/ shares of any other similar overseas mutual fund schemes/ETFs. It shall be noted ‘similar overseas mutual fund schemes/ETFs’ shall have investment objective, investment strategy, asset allocation and risk profile/consideration similar to those of Wellington Global Innovation Fund. However, there is no assurance that the objective of the scheme will be achieved.",
+    "asset_allocation": "Units of Wellington Global Innovation Fund and/or any other similar overseas mutual fund schemes/ ETF - 95%-100% - High(Risk Profile) Debt and Money market Securities - 0% to 5% - Low to Medium(Risk Profile)",
+    "benchmark": "MSCI AC World Index TRI",
+    "fund_managers": "Mr. Arjun Khanna",
+    "annual_expense": {
+      "Regular": "1.59",
+      "Direct": "0.49"
+    },
+    "exit_load": "For redemptions / switch outs (including SIP/STP) within 1 year from the date of allotment of units, irrespective of the amount of investment – 1% For redemptions / switch outs (including SIP/STP) after 1 year from the date of allotment of units, irrespective of the amount of investment – NIL"
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Regular Plan - Daily IDCW",
+    "Regular Plan - Daily - IDCW Re-investment",
+    "Direct Plan - Growth",
+    "Direct Plan - Daily IDCW",
+    "Direct Plan - Daily - IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-18T04:35:00.183364+00:00"
+}

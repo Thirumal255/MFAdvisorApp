@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "HDFC Developed World Overseas Equity Passive FOF",
+  "source_file": "SUMMARY_HDFC Developed World Overseas Equity Passive FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Developed World Overseas Equity Passive FOF",
+    "fund_type": "An open ended fund of funds scheme investing in units/shares of overseas Index Funds and/or ETFs which will in aggregate track the MSCI World Index",
+    "fund_options": [
+      "REGULAR PLAN - GROWTH OPTION",
+      "DIRECT PLAN - GROWTH OPTION"
+    ],
+    "isins": [
+      "INF179KC1BP1",
+      "INF179KC1BO4"
+    ],
+    "amfi_codes": [
+      "149181",
+      "149180"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the Scheme is to provide long-term capital appreciation by passively investing in units/shares of overseas Index Funds and/or ETFs which will in aggregate closely correspond to the MSCI World Index, subject to tracking errors. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Units/Shares of overseas Index Funds and/or ETFs# : 95% - 100%; Debt schemes*, Debt & Money Market Instruments, including Tri Party Repo^, Government Securities and Cash : 0% -5%; *Domestic Debt Schemes including Liquid & Overnight schemes ^or similar instruments as may be permitted by RBI/SEBI. # The Scheme will invest in Units/Shares of Index Funds and/or ETFs (“Underlying Schemes”) such that in aggregate it will endeavor to track the MSCI World Index (“the Benchmark Index”). Currently, the proposed Underlying Schemes viz. Index Funds/ETFs are as follows: a) UBS (Irl) ETF plc – MSCI USA NSL UCITS ETF A-acc USD b) UBS MSCI Europe Index Fund USD I-W-SSP acc c) UBS MSCI Canada Index Fund USD I-W-SSP acc d) UBS MSCI Pacific ex Japan Index Fund USD I-W-SSP acc For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
+    "benchmark": "MSCI World Index",
+    "fund_managers": "FM 1 -Ms. Nandita Menezes , FM 2 - Mr. Arun Agarwal",
+    "annual_expense": {
+      "Regular": "0.63",
+      "Direct": "0.22"
+    },
+    "exit_load": "Exit Load of 1.00% is payable if Units are redeemed/switched-out within 30 days from the date of allotment of units. No Exit Load is payable if Units are redeemed/switched-out after 30 days from the date of allotment."
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN - GROWTH OPTION",
+    "DIRECT PLAN - GROWTH OPTION"
+  ],
+  "extracted_at": "2026-04-18T03:41:56.265136+00:00"
+}

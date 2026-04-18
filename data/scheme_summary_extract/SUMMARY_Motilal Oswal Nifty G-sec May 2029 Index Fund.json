@@ -1,0 +1,42 @@
+{
+  "parent_scheme_name": "Motilal Oswal Nifty G Sec May 2029 Index Fund",
+  "source_file": "SUMMARY_Motilal Oswal Nifty G-sec May 2029 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal Nifty G Sec May 2029 Index Fund",
+    "fund_type": "An open-ended target maturity index fund replicating / tracking the Nifty G-sec May 2029 Index. (A Relatively High Interest Rate Risk and Relatively Low Credit Risk).",
+    "fund_options": [
+      "Regular",
+      "Direct"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to seek returns corresponding to total returns of securities as represented by the Nifty G-sec May 2029 Index, subject to tracking error. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "Constituents of Nifty G-sec May 2029 Index 95% - 100%, Liquid schemes/ debt schemes, debt and/or money market instruments 0%-5%",
+    "benchmark": "Tier 1 Nifty G-sec May 2029 Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt Component",
+        "from_date": "08/03/2023"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1.00",
+      "Direct": "1.00"
+    },
+    "exit_load": "2.25",
+    "amfi_codes": [
+      "151550",
+      "151551"
+    ],
+    "isins": [
+      "INF247L01BP1",
+      "INF247L01BO4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular",
+    "Direct"
+  ],
+  "extracted_at": "2026-04-18T05:06:55.543148+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bandhan Focused Fund",
+  "source_file": "SUMMARY_Bandhan Focused Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Focused Fund",
+    "fund_type": "An open ended equity scheme investing in maximum 30 stocks with multi cap focus",
+    "fund_options": [
+      "Bandhan Focused Fund - DIRECT PLAN - IDCW Payout",
+      "Bandhan Focused Fund - DIRECT PLAN - IDCW Reinvestment",
+      "BandhanFocused Fund - REGULAR PLAN - IDCW Payout",
+      "Bandhan Focused Fund - REGULAR PLAN - IDCW Reinvestment",
+      "Bandhan Focused Fund - REGULAR PLAN - Growth",
+      "Bandhan Focused Fund - DIRECT PLAN - Growth"
+    ],
+    "isins": [
+      "INF194K01W39",
+      "INF194K01W47",
+      "INF194K01474",
+      "INF194K01482",
+      "INF194K01466",
+      "INF194K01W21"
+    ],
+    "amfi_codes": [
+      "118422",
+      "118421",
+      "108593",
+      "108592",
+      "205",
+      "D205"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is seek to generate capital appreciation by investing in a concentrated portfolio ofequity and equity related instruments up to 30 companies. There is no assurance or guarantee that the objectives of thescheme will be realized.",
+    "asset_allocation": "Equities & Equity related instruments - 65%-100%, Debt & Money Market instruments - 0%-35%, Securitised debt instruments- 0%-35%",
+    "benchmark": "BSE 500 TRI",
+    "fund_managers": "FM -1 Mr. Manish Gunwani, FM-2 Mr. Kirthi Jain, FM-3 Mr. Rahul Agarwal",
+    "annual_expense": {
+      "Regular": "2.05",
+      "Direct": "0.78"
+    },
+    "exit_load": "Entry Load: Nil. Exit Load (w.e.f 08-May-2020) If redeemed / Switched Out within 365 days from the date of allotment - Up to10% of Investment Nil & For remaining Investment: 1.00%. If redeemed / switched out after 365 days from the date ofallotment: Nil"
+  },
+  "fund_options_inferred": [
+    "Bandhan Focused Fund - DIRECT PLAN - IDCW Payout",
+    "Bandhan Focused Fund - DIRECT PLAN - IDCW Reinvestment",
+    "BandhanFocused Fund - REGULAR PLAN - IDCW Payout",
+    "Bandhan Focused Fund - REGULAR PLAN - IDCW Reinvestment",
+    "Bandhan Focused Fund - REGULAR PLAN - Growth",
+    "Bandhan Focused Fund - DIRECT PLAN - Growth"
+  ],
+  "extracted_at": "2026-04-18T02:48:36.556314+00:00"
+}

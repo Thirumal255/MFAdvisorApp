@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Nippon India Nifty Next 50 Junior BeES FoF",
+  "source_file": "SUMMARY_Nippon India Nifty Next 50 Junior BeES FoF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India Nifty Next 50 Junior BeES FoF",
+    "fund_type": "Open",
+    "fund_options": [
+      "Direct IDCW Plan Payout",
+      "Direct IDCW Plan Reinvestment",
+      "Direct Growth Plan Growth",
+      "IDCW Plan Payout",
+      "IDCW Plan Reinvestment",
+      "Growth Plan Growth"
+    ],
+    "isins": [
+      "INF204KB1X41",
+      "INF204KB1X33",
+      "INF204KB1X25",
+      "INF204KB1X17",
+      "INF204KB1X09",
+      "INF204KB1W91"
+    ],
+    "amfi_codes": [
+      "146515",
+      "146515",
+      "146513",
+      "146512",
+      "146512",
+      "146514"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to seek to provide returns that closely correspond to returns provided by NipponIndia ETF Junior BeES by investing in units of Nippon India ETF Junior BeES. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Units of Nippon India ETF Junior BeES 95-100% Reverse repo and /or Tri-Party Repo on government securities or T-bills and/or shortterm ﬁxed deposits and/or Schemes which invest predominantly in the money market securities or Liquid Schemes* 0-5%*The Fund Manager may invest in Liquid Schemes of Nippon India Mutual Fund. However, the Fund Manager may invest in any other scheme of a mutual fund registered with SEBI, which invest predominantly in the money market securities.",
+    "benchmark": "Nifty Next 50 TRI",
+    "fund_managers": "Himanshu Mange",
+    "annual_expense": {
+      "Regular": "0.29",
+      "Direct": "0.12"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct IDCW Plan Payout",
+    "Direct IDCW Plan Reinvestment",
+    "Direct Growth Plan Growth",
+    "IDCW Plan Payout",
+    "IDCW Plan Reinvestment",
+    "Growth Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T05:19:33.836123+00:00"
+}

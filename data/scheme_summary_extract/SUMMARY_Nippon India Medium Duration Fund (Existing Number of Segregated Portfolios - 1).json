@@ -1,0 +1,72 @@
+{
+  "parent_scheme_name": "Nippon India Medium Duration Fund",
+  "source_file": "SUMMARY_Nippon India Medium Duration Fund (Existing Number of Segregated Portfolios - 1).pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India Medium Duration Fund",
+    "fund_type": "Debt: Medium Duration Fund",
+    "fund_options": [
+      "Direct Bonus Planbonus",
+      "Direct IDCW Plan Payout",
+      "Direct IDCW Plan Reinvestment",
+      "Direct Growth Plan Growth",
+      "Direct Quarterly IDCW Plan Payout",
+      "Direct Quarterly IDCW Plan Reinvestment",
+      "IDCW Plan Payout",
+      "IDCW Plan Reinvestment",
+      "Growth Plan Growth",
+      "Quarterly IDCW Plan Payout",
+      "Quarterly IDCW Plan Reinvestment"
+    ],
+    "isins": [
+      "INF204KA1QG9",
+      "INF204KA1QH7",
+      "INF204KA1QJ3",
+      "INF204KA1QF1",
+      "INF204KA1QI5",
+      "INF204KA1QK1",
+      "INF204KA1QB0",
+      "INF204KA1QD6",
+      "INF204KA1PZ1",
+      "INF204KA1QC8",
+      "INF204KA1QE4"
+    ],
+    "amfi_codes": [
+      "130052",
+      "130054",
+      "130054",
+      "130050",
+      "130055",
+      "130055",
+      "130053",
+      "130053",
+      "130037",
+      "130056",
+      "130056"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate income through investments in a range of debt and money market instruments of various maturities with a view to maximizing income while maintaining the optimum balance of yield, safety and liquidity. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Debt & Money Market Instruments; Maximum 100, Minimum 0. Units issued by REITs and InvITs; Maximum 10, Minimum 0.",
+    "benchmark": "CRISIL Medium Duration Debt A-III Index",
+    "fund_managers": "Sushil Budhia",
+    "annual_expense": {
+      "Regular": "1.05",
+      "Direct": "0.50"
+    },
+    "exit_load": "1%, if redeemed or switched out on or before completion of 12 months from the date of allotment of units.Nil thereafter. Not applicable for Segregated Portfolio"
+  },
+  "fund_options_inferred": [
+    "Direct Bonus Planbonus",
+    "Direct IDCW Plan Payout",
+    "Direct IDCW Plan Reinvestment",
+    "Direct Growth Plan Growth",
+    "Direct Quarterly IDCW Plan Payout",
+    "Direct Quarterly IDCW Plan Reinvestment",
+    "IDCW Plan Payout",
+    "IDCW Plan Reinvestment",
+    "Growth Plan Growth",
+    "Quarterly IDCW Plan Payout",
+    "Quarterly IDCW Plan Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T05:16:24.550167+00:00"
+}

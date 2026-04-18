@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "TRUSTMF Overnight Fund",
+  "source_file": "SUMMARY_TRUSTMF Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "TRUSTMF Overnight Fund",
+    "fund_type": "An open-ended debt scheme investing in overnight securities. A relatively low interest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "Direct Plan - Daily IDCW-Reinvestment",
+      "Direct Plan - Growth",
+      "Regular Plan - Daily IDCW-Reinvestment",
+      "Regular Plan - Growth"
+    ],
+    "isins": [
+      "INF0GCD01461",
+      "INF0GCD01453",
+      "INF0GCD01446",
+      "INF0GCD01438"
+    ],
+    "amfi_codes": [
+      "149796",
+      "149797",
+      "149798",
+      "149795"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the Scheme is to provide reasonable returns commensurating with overnight call rates and providing a high level of liquidity, through investments in overnight securities having maturity / unexpired maturity of 1 business day. However, there can be no assurance that the investment objective of the scheme will be realised",
+    "asset_allocation": "Overnight Instruments / Debt Securities - 0% to 100%",
+    "benchmark": "CRISIL Liquid Overnight Index",
+    "fund_managers": "Mr. Jalpan Shah & Mr. Neeraj Jain",
+    "annual_expense": {
+      "Regular": "0.12",
+      "Direct": "0.07"
+    },
+    "exit_load": "N.A"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Daily IDCW-Reinvestment",
+    "Direct Plan - Growth",
+    "Regular Plan - Daily IDCW-Reinvestment",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:59:40.940494+00:00"
+}

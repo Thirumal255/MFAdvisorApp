@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Tata Gilt Securities Fund",
+  "source_file": "SUMMARY_Tata Gilt Securities Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Gilt Securities Fund",
+    "fund_type": "An open ended debt scheme investing predominantly in government securities across maturity. A Relatively High InterestRate Risk and Relatively Low Credit Risk.",
+    "fund_options": [
+      "Tata Gilt Securities Fund Regular Plan - IDCW",
+      "Tata Gilt Securities Fund Direct Plan - IDCW",
+      "Tata Gilt Securities Fund RegularPlan - Growth",
+      "Tata Gilt Securities Fund Direct Plan - Growth"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the Scheme is to generate medium to long term capital appreciation and income distributionby investing predominantly in Government Securities.",
+    "asset_allocation": "Government Securities 80-100, Money Market Instruments 0-20.",
+    "benchmark": "CRISIL Dynamic Gilt Index (AIII)",
+    "fund_managers": "Akhil Mittal",
+    "annual_expense": {
+      "Regular": "1.37",
+      "Direct": "0.27"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "101049",
+      "119954",
+      "101042",
+      "119953"
+    ],
+    "isins": [
+      "INF277K01535",
+      "INF277K01OW9",
+      "INF277K01519",
+      "INF277K01OX7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Gilt Securities Fund Regular Plan - IDCW",
+    "Tata Gilt Securities Fund Direct Plan - IDCW",
+    "Tata Gilt Securities Fund RegularPlan - Growth",
+    "Tata Gilt Securities Fund Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:52:43.939172+00:00"
+}

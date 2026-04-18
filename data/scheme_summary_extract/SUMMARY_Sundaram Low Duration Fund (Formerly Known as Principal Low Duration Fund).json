@@ -1,0 +1,56 @@
+{
+  "parent_scheme_name": "Sundaram Low Duration Fund",
+  "source_file": "SUMMARY_Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund).pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Sundaram Low Duration Fund",
+    "fund_type": "An open ended low duration debt scheme investing in instruments such that the Macaulay duration of the portfolio isbetween 6 months and 12 months. A relatively high interest rate risk and relatively high credit risk. * The Macaulay duration isthe weighted average term to maturity of the cash ﬂows from a bond. The weight of each cash ﬂow is determined by dividingthe present value of the cash ﬂow by the price",
+    "fund_options": [
+      "Regular Principal Units IDCW Reinvestment",
+      "Direct Plan - Growth Option",
+      "Direct Plan - IDCWReinvestment",
+      "Direct Plan - IDCW Payout",
+      "Growth Option",
+      "IDCW Payout",
+      "IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF903JA1JW8",
+      "INF173K01FS6",
+      "INF173K01FU2",
+      "INF173K01FT4",
+      "INF173K01DG6",
+      "INF173K01DJ0",
+      "INF173K01DK8"
+    ],
+    "amfi_codes": [
+      "149747",
+      "149526",
+      "149525",
+      "149752",
+      "149519",
+      "149521",
+      "149750"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "To generate regular income & capital appreciation through investments in debt securities and money market instruments. NoGuarantee: Investors are neither being oﬀered any guaranteed/indicated returns nor any guarantee on repayment of capitalby the Scheme. There is also no guarantee of capital or return either by the mutual fund or by the sponsor or Trustees by theAsset management Company.",
+    "asset_allocation": "Debt securities / Money Market 0 - 100%, instruments and Cash & Cash equivalents*",
+    "benchmark": "NIFTY Low Duration Debt Index A-I",
+    "fund_managers": "FM1 - Mr. Sandeep Agarwal, FM2 - Mr. Dwijendra Srivastava",
+    "annual_expense": {
+      "Regular": "1.21",
+      "Direct": "0.40"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "Regular Principal Units IDCW Reinvestment",
+    "Direct Plan - Growth Option",
+    "Direct Plan - IDCWReinvestment",
+    "Direct Plan - IDCW Payout",
+    "Growth Option",
+    "IDCW Payout",
+    "IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T05:48:34.774504+00:00"
+}

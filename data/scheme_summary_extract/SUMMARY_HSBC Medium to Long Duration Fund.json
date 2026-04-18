@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "HSBC Medium to Long Duration Fund",
+  "source_file": "SUMMARY_HSBC Medium to Long Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Medium to Long Duration Fund",
+    "fund_type": "An open-ended medium to long term debt scheme investing in instruments such that the Macaulay duration of the portfolio is between 4 years to 7 years. A relatively high interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Direct Quarterly IDCW Payout",
+      "Direct Quarterly IDCW Reinvestment",
+      "Direct Growth- Payout",
+      "Regular Growth -Payout",
+      "Regular Quarterly IDCW Payout",
+      "Regular Quarterly IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF336L01EO9",
+      "INF336L01EP6",
+      "INF336L01DE2",
+      "INF336L01776",
+      "INF336L01784",
+      "INF336L01792"
+    ],
+    "amfi_codes": [
+      "120059"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To provide a reasonable income through a diversiﬁed portfolio of ﬁxed income securities such that the Macaulay duration of the portfolio is between 4 years to 7 years.",
+    "asset_allocation": "Under normal circumstances, it is anticipated that the asset allocation of the Scheme will be as follows: - Debt & Money market instruments such that Macaulay duration* of the portfolio is between 4 years# to 7 years- 0%- 100% (Risk Proﬁle-Low to Medium) Asset allocation under anticipated adverse situation - Debt & Money market instruments such that Macaulay duration* of the portfolio is between 1 year# to 7 years :0%- 100% (Risk Proﬁle-Low to Medium)",
+    "benchmark": "NIFTY Medium to Long Duration Debt Index A-III",
+    "fund_managers": "FM 1 - Mohd. Asif Rizwi, FM 2 - Shriram Ramanathan",
+    "annual_expense": {
+      "Regular": "1.17",
+      "Direct": "0.66"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Quarterly IDCW Payout",
+    "Direct Quarterly IDCW Reinvestment",
+    "Direct Growth- Payout",
+    "Regular Growth -Payout",
+    "Regular Quarterly IDCW Payout",
+    "Regular Quarterly IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T03:58:25.209335+00:00"
+}

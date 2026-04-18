@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Angel One Nifty 50 ETF",
+  "source_file": "SUMMARY_ANGEL ONE NIFTY 50 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Angel One Nifty 50 ETF",
+    "fund_type": "An open-ended scheme replicating/tracking Nifty 50 Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High Risk. Investors understand that their principal will be at Very High Risk.",
+    "investment_objective": "The investment objective of the Scheme is to replicate Nifty 50 Index with an aim to provide returns before expenses that track the total return of Nifty 50 Index, subject to Tracking Errors. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equities and equity related securities constituting Nifty 50 Index (including stock and index derivatives) - 95 - 100% Cash & Cash Equivalents and Money Market instruments, Reverse Repo and / or Tri-Party Repo on Government Securities and / or Treasury bills and/or units of money market / liquid schemes - 0-5%",
+    "benchmark": "Nifty 50 TRI (Total Return Index)",
+    "fund_managers": "FM1 - Mr. Mehul Dama; FM2 - Mr. Kewal Shah",
+    "annual_expense": {
+      "Direct": "1"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153531"
+    ],
+    "isins": [
+      "INF1J2R01064"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T02:18:22.801002+00:00"
+}

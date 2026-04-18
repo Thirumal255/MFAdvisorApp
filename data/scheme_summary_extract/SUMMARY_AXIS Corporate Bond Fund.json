@@ -1,0 +1,70 @@
+{
+  "parent_scheme_name": "Axis Corporate Bond Fund",
+  "source_file": "SUMMARY_AXIS Corporate Bond Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Corporate Bond Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Growth",
+      "Direct Monthly IDCW",
+      "Direct Daily IDCW",
+      "Direct Weekly IDCW",
+      "Regular Growth",
+      "Regular Daily IDCW",
+      "RegularWeekly IDCW",
+      "Regular Monthly IDCW"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The Scheme seeks to provide steady income and capital appreciation by investing in corporate debt. There is no assuranceor guarantee that the objectives of the Scheme will be realized.",
+    "asset_allocation": "Corporate Debt rated AA+ and above - (80%-100%), Other Debt & Money Market Instruments - (0%-20%), Units issued byREITs & InvITs - (0%-10%)",
+    "benchmark": "NIFTY Corporate Bond Index A-II",
+    "fund_managers": "Mr. Devang Shah, Mr. Hardik Shah",
+    "annual_expense": {
+      "Regular": "0.95",
+      "Direct": "0.36"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "141586",
+      "141590",
+      "141591",
+      "141587",
+      "141588",
+      "141589",
+      "141594",
+      "141595",
+      "141592",
+      "141593"
+    ],
+    "isins": [
+      "INF846K01ZN6",
+      "INF846K01ZQ9",
+      "INF846K01ZS5",
+      "INF846K01ZO4",
+      "INF846K01ZM8",
+      "INF846K01ZV9",
+      "INF846K01ZY3",
+      "INF846K01A03",
+      "INF846K01ZW7",
+      "INF846K01ZU1",
+      "INF846K01ZR7",
+      "INF846K01ZT3",
+      "INF846K01ZP1",
+      "INF846K01ZZ0",
+      "INF846K01A11",
+      "INF846K01ZX5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Direct Monthly IDCW",
+    "Direct Daily IDCW",
+    "Direct Weekly IDCW",
+    "Regular Growth",
+    "Regular Daily IDCW",
+    "RegularWeekly IDCW",
+    "Regular Monthly IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:19:31.256259+00:00"
+}

@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "Kotak Debt Hybrid Fund",
+  "source_file": "SUMMARY_Kotak Debt Hybrid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Debt Hybrid Fund",
+    "fund_type": "An open ended hybrid scheme investing predominantly in debt instruments",
+    "fund_options": [
+      "Kotak Debt Hybrid - Growth- Regular",
+      "Kotak Debt Hybrid - Growth - Direct",
+      "Kotak Debt Hybrid -Regular-Monthly Payout of IDCW",
+      "Kotak Debt Hybrid -Regular- Monthly Payout of IDCW Reinvestment",
+      "Kotak Debt Hybrid - Direct - Monthly Payout of IDCW Direct",
+      "Kotak Debt Hybrid - Direct -Monthly Payout of IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF174K01393",
+      "INF174K01JZ1",
+      "INF174K01419",
+      "INF174K01401",
+      "INF174K01KA2",
+      "INF174K01KB0"
+    ],
+    "amfi_codes": [
+      "114859",
+      "120154",
+      "114858",
+      "114858",
+      "120155",
+      null
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The investment objective of the Scheme is to enhance returns over a portfolio of debt instruments with a moderate exposurein equity and equity related instruments. By investing in debt securities, the Scheme will aim at generating regular returns,while enhancement of return is intended through investing in equity and equity related securities. The Scheme may also usevarious derivative and hedging products from time to time, in the manner permitted by SEBI. There is no assurance that theinvestment objective of the Schemes will be realised.",
+    "asset_allocation": "Debt and money market instruments including government securities- 75-90% (Low to Medium) Equity and equity relatedinstruments- 10-25% (Medium to High) Units issued by REITs &InvITs- 0-10% (Medium to High)",
+    "benchmark": "CRISIL Hybrid 85+15 - Conservative Index",
+    "fund_managers": [
+      "Ms. Shibani Sircar Kurian",
+      "Mr. Abhishek Bisen"
+    ],
+    "annual_expense": {
+      "Regular": "1.66",
+      "Direct": "0.48"
+    },
+    "exit_load": "For redemption / switch out of upto 8% of the initial investment amount (limit) purchased or switched in within 1 year fromthe date of allotment: Nil. If units redeemed or switched out are in excess of the limit within 1 year months from the date ofallotment: 1% If units are redeemed or switched out on or after 1 year from the date of allotment: NIL"
+  },
+  "fund_options_inferred": [
+    "Kotak Debt Hybrid - Growth- Regular",
+    "Kotak Debt Hybrid - Growth - Direct",
+    "Kotak Debt Hybrid -Regular-Monthly Payout of IDCW",
+    "Kotak Debt Hybrid -Regular- Monthly Payout of IDCW Reinvestment",
+    "Kotak Debt Hybrid - Direct - Monthly Payout of IDCW Direct",
+    "Kotak Debt Hybrid - Direct -Monthly Payout of IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T04:33:49.861543+00:00"
+}

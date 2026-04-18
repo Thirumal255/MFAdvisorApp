@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "HDFC Retirement Savings Fund - Hybrid-Debt Plan",
+  "source_file": "SUMMARY_HDFC Retirement Savings Fund - Hybrid-Debt Plan.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Retirement Savings Fund - Hybrid-Debt Plan",
+    "fund_type": "An open ended retirement solution oriented scheme having a lock-in of 5 years or till retirement age (whichever is earlier)",
+    "fund_options": [
+      "DIRECT PLAN",
+      "REGULAR PLAN"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The investment objective of the Investment Plans under the Scheme is to provide long-term capital appreciation / income by investing in a mix of equity and debt instruments to help investors meet their retirement goals. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Debt Securities (including securitised debt) and money market instruments : 55% - 90%; Equity and Equity related Instruments: 10% - 45%; Of which net long through equity and equity related instruments*: 5% - 30%; Of which Derivatives Including index futures, stock futures, index options, stock options etc: 5% - 40%; Units issued by InvITs : 0% - 10% * This net long equity exposure is aimed to gain from potential capital appreciation and thus is a directional equity exposure which will not be hedged. For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 15:85 Index",
+    "fund_managers": "FM 1 - Mr.Srinivasan Ramamurthy, FM 2 - Mr.Shobhit Mehrotra, FM 3 - Ms. Nandita Menezes, FM 4 - Mr. Arun Agarwal , FM 5 -Mr. Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "2.16",
+      "Direct": "1.13"
+    },
+    "exit_load": "Fresh investments by investors including SIP / STP registrations, etc effective June 2, 2018: Exit Load (Upon completion of lock-in period): Nil Existing investments by investors including SIP / STP registrations, etc until June 1, 2018: Exit Load (Upon completion of lock-in period of 5 years) In respect of each purchase/switch-in of units offered under the respective Investment Plan(s) • An Exit Load of 1% is payable if Units are redeemed/ switched-out before completion of 60 years of age • No Exit Load is payable if Units are redeemed / switched-out on or after attainment of 60 years of age.",
+    "amfi_codes": [
+      "136466",
+      "136465"
+    ],
+    "isins": [
+      "INF179KB1MJ2",
+      "INF179KB1MK0"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN",
+    "REGULAR PLAN"
+  ],
+  "extracted_at": "2026-04-18T03:50:07.758282+00:00"
+}

@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "Kotak Rural Opportunities Fund",
+  "source_file": "SUMMARY_Kotak Rural Opportunities Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Rural Opportunities Fund",
+    "fund_type": "An open-ended equity scheme following Rural and allied theme",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCW Re-investment",
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-IDCW Re-investment"
+    ],
+    "isins": [
+      "INF174KA1XW8",
+      "INF174KA1XX6",
+      "INF174KA1XY4",
+      "INF174KA1XZ1",
+      "INF174KA1YA2",
+      "INF174KA1YB0"
+    ],
+    "amfi_codes": [
+      "153970",
+      "153967",
+      "153967",
+      "153969",
+      "153968",
+      "153968"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate long-term capital appreciation from a portfolio that is invested predominantly in equity and equity related securities of companies engaged in Rural & allied theme. However, there can be no assurance that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Equity & Equity related instruments based on Rural & allied theme - 80% - 100% Equity and Equity Related Securities Other than Rural & allied theme - 0-20% Debt and Money Market Securities - 0-20% Units of InvITs - 0-10%",
+    "benchmark": "Nifty Rural Index TRI (Total Return Index)",
+    "fund_managers": [
+      "Mr. Arjun Khanna",
+      "Mr. Abhishek Bisen"
+    ],
+    "annual_expense": {
+      "Regular": "2.27",
+      "Direct": "0.71"
+    },
+    "exit_load": "For redemption / switch out within 90 days from the date of allotment: 0.5% • If units are redeemed or switched out on or after 90 days from the date of allotment -Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCW Re-investment",
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-18T04:41:56.722072+00:00"
+}

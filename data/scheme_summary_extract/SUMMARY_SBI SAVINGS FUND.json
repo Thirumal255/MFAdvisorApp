@@ -1,0 +1,63 @@
+{
+  "parent_scheme_name": "SBI Savings Fund",
+  "source_file": "SUMMARY_SBI SAVINGS FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Savings Fund",
+    "fund_type": "An open-ended debt scheme investing in money market instruments",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW",
+      "Direct Plan - IDCW",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW"
+    ],
+    "isins": [
+      "INF200K01651",
+      "INF200K01636",
+      "INF200K01677",
+      null,
+      "INF200KA1K20",
+      "INF200K01SW2",
+      "INF200K01SY8",
+      "INF200K01SZ5",
+      "INF200K01TB4"
+    ],
+    "amfi_codes": [
+      "102504",
+      "102503",
+      "102860",
+      "F114348",
+      "114348",
+      "119822",
+      "119820",
+      "119821",
+      "119823"
+    ],
+    "riskometer": "MODERATE",
+    "investment_objective": "To provide the investors an opportunity to invest in money market instrumentsHowever, there is no guarantee or assurance that the investment objective of the scheme will be achieved. The scheme doesn’t assure or guarantee any returns",
+    "asset_allocation": "Money market instruments including CPs, CDs, Commercial Bills, T-Bills, Government(s) securities having an unexpired maturity up to one year, call or notice money, Usance bills, and Non-Convertible Debentures (NCDs) of orignal or initial maturity up to one year. 0%-100% Low",
+    "benchmark": "NIFTY Money Market Index",
+    "fund_managers": "Mr. Rajeev Radhakrishnan",
+    "annual_expense": {
+      "Regular": "0.62"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW",
+    "Direct Plan - IDCW",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-18T05:43:52.685028+00:00"
+}

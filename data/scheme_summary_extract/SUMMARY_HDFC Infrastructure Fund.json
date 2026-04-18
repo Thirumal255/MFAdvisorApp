@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "HDFC Infrastructure Fund",
+  "source_file": "SUMMARY_HDFC Infrastructure Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Infrastructure Fund",
+    "fund_type": "An Open-Ended Equity Scheme Following Infrastructure Theme",
+    "fund_options": [
+      "DIVIDEND REINVESTMENT OPTION",
+      "DIVIDEND PAYOUT OPTION",
+      "GROWTH OPTION",
+      "DIRECT PLAN - DIVIDEND PAYOUT OPTION",
+      "DIRECT PLAN - GROWTH OPTION",
+      "DIRECT PLAN - DIVIDEND REINVESTMENT OPTION"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "To seek long-term capital appreciation by investing predominantly in equity and equity related securities of companies engaged inor expected to beneﬁt from the growth and development of infrastructure.There is no assurance that the investment objective ofthe Scheme will be achieved.",
+    "asset_allocation": "Equities & Equity related Instruments of infrastructure/ infrastructure related companies: 80%- 100% Equities & Equity relatedInstruments of companies other than mentioned above: 0%-20% Debt securities (including securitised debt) and money marketinstruments and Fixed Income Derivatives: 0%- 20% Units issued by InvITs: 0%- 10% Non-convertible preference shares: 0%- 10%For detailed asset allocation, refer Scheme Information Document (SID) available on the website",
+    "benchmark": "BSE India Infrastructure Index (TRI)",
+    "fund_managers": "FM 1 - Mr. Ashish Shah, FM 2 - Mr. Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "2.08",
+      "Direct": "1.16"
+    },
+    "exit_load": "In respect of each purchase/switch in of units- an Exit load of 1% is payable if units are redeemed/switched out within 30 daysfrom the date of allotment. No Exit Load is payable if units are redeemed/switched-out after 30 days from the date of allotment.",
+    "amfi_codes": [
+      "107525",
+      "118978",
+      "107524",
+      "118979"
+    ],
+    "isins": [
+      "INF179K01GG6",
+      "INF179K01GE1",
+      "INF179K01GF8",
+      "INF179K01WP4",
+      "INF179K01WQ2",
+      "INF179K01WR0"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIVIDEND REINVESTMENT OPTION",
+    "DIVIDEND PAYOUT OPTION",
+    "GROWTH OPTION",
+    "DIRECT PLAN - DIVIDEND PAYOUT OPTION",
+    "DIRECT PLAN - GROWTH OPTION",
+    "DIRECT PLAN - DIVIDEND REINVESTMENT OPTION"
+  ],
+  "extracted_at": "2026-04-18T03:44:09.259253+00:00"
+}

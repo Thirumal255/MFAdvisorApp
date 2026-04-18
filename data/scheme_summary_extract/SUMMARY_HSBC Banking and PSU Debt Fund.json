@@ -1,0 +1,40 @@
+{
+  "parent_scheme_name": "HSBC Banking and PSU Debt Fund",
+  "source_file": "SUMMARY_HSBC Banking and PSU Debt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Banking and PSU Debt Fund",
+    "fund_type": "An open ended debt scheme predominantly investing in debt instruments of banks, public sector undertakings, public financial institutions and municipal bonds. A relatively high interest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "HSBC Banking and PSU Debt Fund - Direct Daily IDCW Reinvestment",
+      "HSBC Banking and PSU Debt Fund - Direct Growth",
+      "HSBC Banking and PSU Debt Fund - Direct Monthly IDCW Payout"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the Scheme is to generate reasonable returns by primarily investing in debt and money market securities that are issued by Banks, Public Sector Undertakings (PSUs) and Public Financial Institutions (PFIs) in India. There is no assurance that the objective of the Scheme will be realised and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Debt and money market instruments/securities issued by Banks, Public Sector Undertakings (PSUs) and Public Financial Institutions (PFIs) and Municipal Bonds : 80% -100%\nDebt and money market instruments/securities issued by other entities : 0%-20%",
+    "benchmark": "Nifty Banking & PSU Debt Index A-II",
+    "fund_managers": "FM 1 - Mahesh Chhabria, FM 2 - Mohd. Asif Rizwi",
+    "annual_expense": {
+      "Regular": "0.58",
+      "Direct": "0.24"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "151108",
+      "151107",
+      "151106"
+    ],
+    "isins": [
+      "INF917K01HL7",
+      "INF917K01HH5",
+      "INF917K01HJ1"
+    ]
+  },
+  "fund_options_inferred": [
+    "HSBC Banking and PSU Debt Fund - Direct Daily IDCW Reinvestment",
+    "HSBC Banking and PSU Debt Fund - Direct Growth",
+    "HSBC Banking and PSU Debt Fund - Direct Monthly IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T03:53:42.426518+00:00"
+}

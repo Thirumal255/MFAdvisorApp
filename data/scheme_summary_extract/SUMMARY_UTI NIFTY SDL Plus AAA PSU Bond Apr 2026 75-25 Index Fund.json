@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "UTI Nifty SDL Plus AAA PSU Bond Apr 2026 75:25 Index Fund",
+  "source_file": "SUMMARY_UTI NIFTY SDL Plus AAA PSU Bond Apr 2026 75-25 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "UTI Nifty SDL Plus AAA PSU Bond Apr 2026 75:25 Index Fund",
+    "fund_type": "An open-ended Target Maturity Index Fund investing in constituents of Nifty SDL Plus AAA PSU Bond Apr 2026 75:25 Index",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Regular Plan-Growth"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the scheme is to track the Nifty SDL Plus AAA PSU Bond Apr 2026 75:25 Index by investing in AAA-rated PSU Bonds and SDLs, maturing on or before April 2026, subject to tracking errors. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "State Development Loans (SDLs) representing the SDL portion of Nifty SDL Plus AAA PSU Bond Apr 2026 75:25 Index or Bonds issued by PSU* and other Government organizations representing the bonds portion of Nifty SDL Plus AAA PSU Bond Apr 2026 75:25 Index: 95% - 100% (Medium to High) Money Market instruments including Triparty Repo, G-Sec/SDLs^, T-Bills and units of Overnight & Liquid Mutual Fund Schemes: 0% to 5% (Low) *PSU Bond includes CPSE -Central Public Sector Enterprises; CPSU –Central Public Sector Unit; CPFI – Central Public Financial Institution and bonds issued by other government owned entities. ^G-sec/SDLs having a residual maturity upto one year",
+    "benchmark": "Nifty SDL Plus AAA PSU Bond Apr 2026 75:25 Index",
+    "fund_managers": "Mr. Sunil Patil FM1, Mr. Jaydeep Bhowal FM2",
+    "annual_expense": {
+      "Regular": "0.41",
+      "Direct": "0.15"
+    },
+    "exit_load": "Not Applicable",
+    "amfi_codes": [
+      "151363",
+      "151364"
+    ],
+    "isins": [
+      "INF789F1AXK8",
+      "INF789F1AXL6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Regular Plan-Growth"
+  ],
+  "extracted_at": "2026-04-18T06:11:57.735529+00:00"
+}

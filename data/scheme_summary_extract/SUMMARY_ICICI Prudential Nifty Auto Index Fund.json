@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty Auto Index Fund",
+  "source_file": "SUMMARY_ICICI Prudential Nifty Auto Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty Auto Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Nifty Auto Index Fund  - Growth",
+      "ICICI Prudential Nifty Auto Index Fund  - IDCW",
+      "ICICI Prudential Nifty Auto Index Fund  - IDCW Payout",
+      "ICICI Prudential Nifty Auto Index Fund  - Direct Plan - Growth",
+      "ICICI Prudential Nifty Auto Index Fund  - Direct Plan - IDCW",
+      "ICICI Prudential Nifty Auto Index Fund  - Direct Plan - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The objective of the Scheme is to invest in companies whose securities are included in Nifty Auto Index and subject to tracking errors, to endeavor to achieve the returns of the above index. This would be done by investing in all the stocks comprising the Nifty Auto Index in the same weightage that they represent in Nifty Auto Index. However, there is no assurance or guarantee that the investment objective of the scheme shall be achieved.",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (Nifty Auto Index)= 95-100\n• Money Market instruments including TREPs* and Units of debt schemes# = 0-5",
+    "benchmark": "Nifty Auto TRI",
+    "fund_managers": [
+      "Ashwini Bharucha",
+      "Venus Ahuja"
+    ],
+    "annual_expense": {
+      "Regular": "0.94",
+      "Direct": "0.40"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "3501",
+      "3502",
+      "3502P",
+      "9703",
+      "9704",
+      "9704P"
+    ],
+    "isins": [
+      "INF109KC13J1",
+      "INF109KC15J6",
+      "INF109KC14J9",
+      "INF109KC16J4",
+      "INF109KC18J0",
+      "INF109KC17J2"
+    ]
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Nifty Auto Index Fund  - Growth",
+    "ICICI Prudential Nifty Auto Index Fund  - IDCW",
+    "ICICI Prudential Nifty Auto Index Fund  - IDCW Payout",
+    "ICICI Prudential Nifty Auto Index Fund  - Direct Plan - Growth",
+    "ICICI Prudential Nifty Auto Index Fund  - Direct Plan - IDCW",
+    "ICICI Prudential Nifty Auto Index Fund  - Direct Plan - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T04:11:27.686569+00:00"
+}

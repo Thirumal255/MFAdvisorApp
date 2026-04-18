@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Tata Aggressive Hybrid Fund",
+  "source_file": "SUMMARY_Tata Aggressive Hybrid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Aggressive Hybrid Fund",
+    "fund_type": "An open ended hybrid scheme investing predominantly in equity & equity related instruments.",
+    "fund_options": [
+      "Tata Hybrid Equity Fund Regular Plan - IDCW Periodic",
+      "Tata Hybrid Equity Fund Direct Plan - IDCW Periodic",
+      "Tata Hybrid EquityFund Regular Plan - Growth",
+      "Tata Hybrid Equity Fund Direct Plan - Growth",
+      "Tata Hybrid Equity Fund Regular Plan - IDCW Monthly",
+      "Tata Hybrid Equity Fund Direct Plan - IDCW Monthly"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to provide income distribution and or capital appreciation over medium to longterm. However, there is no assurance or guarantee that the investment objective of the Scheme will be achieved. The schemedoes not assure or guarantee any returns.",
+    "asset_allocation": "Equity and Equity Related Instruments 65-80, Debt,Money Market and Cash 20-35, Units of REITs & InvITs 0-10.",
+    "benchmark": "CRISIL Hybrid 35+65 - Aggressive Index",
+    "fund_managers": "FM-1 Satish Chandra Mishra, FM-2 Murthy Nagarajan",
+    "annual_expense": {
+      "Regular": "1.92",
+      "Direct": "0.98"
+    },
+    "exit_load": "1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL.",
+    "amfi_codes": [
+      "101222",
+      "119058",
+      "100414",
+      "119053",
+      "113134",
+      "119057"
+    ],
+    "isins": [
+      "INF277K01295",
+      "INF277K01MM4",
+      "INF277K01303",
+      "INF277K01MN2",
+      "INF277K01CW4",
+      "INF277K01MP7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Hybrid Equity Fund Regular Plan - IDCW Periodic",
+    "Tata Hybrid Equity Fund Direct Plan - IDCW Periodic",
+    "Tata Hybrid EquityFund Regular Plan - Growth",
+    "Tata Hybrid Equity Fund Direct Plan - Growth",
+    "Tata Hybrid Equity Fund Regular Plan - IDCW Monthly",
+    "Tata Hybrid Equity Fund Direct Plan - IDCW Monthly"
+  ],
+  "extracted_at": "2026-04-18T05:50:34.938551+00:00"
+}

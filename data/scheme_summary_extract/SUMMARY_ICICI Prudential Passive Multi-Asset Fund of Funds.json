@@ -1,0 +1,54 @@
+{
+  "parent_scheme_name": "ICICI Prudential Passive Multi - Asset Fund of Funds",
+  "source_file": "SUMMARY_ICICI Prudential Passive Multi-Asset Fund of Funds.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Passive Multi - Asset Fund of Funds",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "ICICI Prudential Passive Multi-Asset Fund of Funds is a Fund of Funds scheme with the primary objective to generate returns by predominantly investing in passively managed funds launched in India and/or overseas. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Units of mutual fund schemes asstated below = 95%-100% \nA) Domestic Equity ETFs/Index Funds = 25% - 65% \nB) Domestic Debt ETFs/Index Funds = 25% -  65% \nC) ETFs/Index Funds investing in Overseas securities = 10% -  30% \nD) Domestic Gold ETFs = 0% - 15%                                                                                      \n• Reverse Repo, Tri-Party Repo, Units of Debt oriented mutual fund schemes = 0%- 5%",
+    "benchmark": "CRISIL Hybrid 50+50- Moderate Index (80% weightage) + S&P Global 1200 Index (15% weightage) + Domestic Gold Price (5% weightage)",
+    "fund_managers": [
+      "Dharmesh Kakkad",
+      "Manish Banthia",
+      "Nishit Patel",
+      "Sankaran Naren",
+      "Ritesh Lunawat",
+      "Masoomi Jhurmarvala",
+      "Sharmila Dmello"
+    ],
+    "annual_expense": {
+      "Regular": "0.62",
+      "Direct": "0.22"
+    },
+    "exit_load": "If the amount sought to be redeemed or switched out up to 12 months from allotment: 1.00% of applicable NAV . If the amount sought to be redeemed or switched out more than 12 months from allotment: Nil.",
+    "amfi_codes": [
+      "149441",
+      "149442",
+      "149439",
+      "149440"
+    ],
+    "isins": [
+      "INF109KC1Y15",
+      "INF109KC1Y23",
+      "INF109KC1Y31",
+      "INF109KC1X81",
+      "INF109KC1X99",
+      "INF109KC1Y07"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-18T04:15:37.022257+00:00"
+}

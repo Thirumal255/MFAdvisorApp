@@ -1,0 +1,41 @@
+{
+  "parent_scheme_name": "Samco ELSS Tax Saver Fund",
+  "source_file": "SUMMARY_Samco ELSS Tax Saver Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Samco ELSS Tax Saver Fund",
+    "fund_type": "An Open-ended Equity Linked Saving Scheme with a statutory lock-in of 3 years and tax benefit",
+    "fund_options": [
+      "Direct Growth",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High Risk(The Scheme risk-o-meter is based on evalution of the portfolio data as on November 30,2025)",
+    "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation through investments made predominantly in equity and equity related instruments. However, there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Equity and Equity related instruments – 80% to 100% Debt and Money Market instruments - 0% to 20%",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": [
+      "Mr. Umeshkumar Mehta",
+      "Mrs. Nirali Bhansali",
+      "Mr. Dhawal Dhanani",
+      "Ms. Komal Grover"
+    ],
+    "annual_expense": {
+      "Regular": "2.37",
+      "Direct": "0.97"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "150838",
+      "150839"
+    ],
+    "isins": [
+      "INF0K1H01065",
+      "INF0K1H01057"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T05:33:27.814892+00:00"
+}

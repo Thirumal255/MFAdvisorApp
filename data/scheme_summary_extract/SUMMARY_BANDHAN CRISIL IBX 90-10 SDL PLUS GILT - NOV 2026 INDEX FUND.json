@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bandhan CRISIL IBX 90:10 SDL Plus Gilt Nov 2026 Index Fund",
+  "source_file": "SUMMARY_BANDHAN CRISIL IBX 90-10 SDL PLUS GILT - NOV 2026 INDEX FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan CRISIL IBX 90:10 SDL Plus Gilt Nov 2026 Index Fund",
+    "fund_type": "An open-ended Target Maturity Index Fund investing in constituents of CRISIL IBX 90:10 SDL plus Gilt Index – November 2026with Relatively High Interest Rate Risk and Relatively Low Credit Risk",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW",
+      "Regular Plan-IDCW (Re-inv)",
+      "Direct Plan-Growth",
+      "Direct Plan-IDCW",
+      "Direct Plan-IDCW (Re-inv)"
+    ],
+    "isins": [
+      "INF194KB1EW3",
+      "INF194KB1EX1",
+      "INF194KB1EY9",
+      "INF194KB1ET9",
+      "INF194KB1EU7",
+      "INF194KB1EV5"
+    ],
+    "amfi_codes": [
+      "150869",
+      "150870",
+      null,
+      "150868",
+      "150867",
+      null
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns corresponding to the total returns of the securities asrepresented by the CRISIL IBX 90:10 SDL plus Gilt Index– November 2026 before expenses, subject to tracking errors. However,there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities belonging to the SDL portion of the CRISIL IBX 90:10 SDL plus Gilt Index – November 2026-95% - 100% Cash & MoneyMarket instruments - 0%- 5%",
+    "benchmark": "CRISIL IBX 90:10 SDL plus Gilt Index - November 2026",
+    "fund_managers": "Mr. Gautam Kaul Mr. Harshal Joshi",
+    "annual_expense": {
+      "Regular": "0.35",
+      "Direct": "0.10"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW",
+    "Regular Plan-IDCW (Re-inv)",
+    "Direct Plan-Growth",
+    "Direct Plan-IDCW",
+    "Direct Plan-IDCW (Re-inv)"
+  ],
+  "extracted_at": "2026-04-18T02:47:25.476855+00:00"
+}

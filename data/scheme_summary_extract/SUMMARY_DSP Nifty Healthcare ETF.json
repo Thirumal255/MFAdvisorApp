@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "DSP Nifty Healthcare ETF",
+  "source_file": "SUMMARY_DSP Nifty Healthcare ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP Nifty Healthcare ETF",
+    "fund_type": "Exchange Traded Fund (ETF)",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme seeks to provide returns that, before expenses, correspond to the total return of the underlying index (NiftyHealthcare TRI), subject to tracking errors. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "A. Equity and Equity Related Securities of companies constituting Nifty Healthcare Index, the Underlying Index : 95% -100%. B. Cash and Cash Equivalents : 0% - 5%",
+    "benchmark": "Nifty Healthcare TRI",
+    "fund_managers": "Mr. Anil Ghelani, Mr. Diipesh Shah",
+    "annual_expense": {
+      "Direct": "0.20"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "152306"
+    ],
+    "isins": [
+      "INF740KA1UF4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T03:14:39.364483+00:00"
+}

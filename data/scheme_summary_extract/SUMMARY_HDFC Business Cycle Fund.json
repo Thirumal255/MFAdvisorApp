@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "HDFC Business Cycle Fund",
+  "source_file": "SUMMARY_HDFC Business Cycle Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Business Cycle Fund",
+    "fund_type": "An open ended equity scheme following business cycle based investing theme",
+    "fund_options": [
+      "Regular Plan - Growth Option",
+      "Regular Plan - IDCW Payout Option",
+      "Regular Plan - IDCW Re-investment Option",
+      "Direct Plan - Growth Option",
+      "Direct Plan - IDCW Payout Option",
+      "Direct Plan - IDCW Re-investment Option"
+    ],
+    "isins": [
+      "INF179KC1EB5",
+      "INF179KC1EC3",
+      "INF179KC1ED1",
+      "INF179KC1DY9",
+      "INF179KC1DZ6",
+      "INF179KC1EA7"
+    ],
+    "amfi_codes": [
+      "150803",
+      "150806",
+      "150806",
+      "150805",
+      "150804",
+      "150804"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "To provide long-term capital appreciation by investing predominantly in equity and equity related securities with a focus on ridingbusiness cycles through dynamic allocation between various sectors and stocks at diﬀerent stages of business cycles.There is noassurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and equity related instruments of Business cycle based theme companies : 80%- 100% Equity and equity relatedinstruments of companies other than above: 0% - 20% Units issued by InvITs: 0% - 10% Debt Securities, money marketinstruments and Fixed Income Derivatives: 0% - 20% Units of Mutual Fund: 0% - 20% For detailed asset allocation, refer SchemeInformation Document (SID) available on the website.",
+    "benchmark": "Nifty 500 TRI (Total Returns Index)",
+    "fund_managers": "FM 1 - Mr.Rahul Baijal, FM 2 - Mr.Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "1.99",
+      "Direct": "0.90"
+    },
+    "exit_load": "In respect of each purchase/switch-in of units, an Exit Load of 1.00% is payable if Units are redeemed/switched-out within 1 yearfrom the date of allotment. No Exit Load is payable if Units are redeemed/ switched-out after 1 year from the date of allotment.In respect of Systematic Transactions such as SIP, Flex SIP, STP, Flex STP, Swing STP, Exit Load, if any, prevailing on the date ofregistration / enrolment shall be levied."
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth Option",
+    "Regular Plan - IDCW Payout Option",
+    "Regular Plan - IDCW Re-investment Option",
+    "Direct Plan - Growth Option",
+    "Direct Plan - IDCW Payout Option",
+    "Direct Plan - IDCW Re-investment Option"
+  ],
+  "extracted_at": "2026-04-18T03:41:06.659794+00:00"
+}

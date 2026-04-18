@@ -1,0 +1,56 @@
+{
+  "parent_scheme_name": "Canara Robeco Consumer Trends Fund",
+  "source_file": "SUMMARY_Canara Robeco Consumer Trends Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Canara Robeco Consumer Trends Fund",
+    "fund_type": "Consumption & Finance Theme - An open ended equity scheme following the consumption and ﬁnancial theme",
+    "fund_options": [
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Growth"
+    ],
+    "isins": [
+      "INF760K01DS5",
+      "INF760K01DT3",
+      "INF760K01DU1",
+      "INF760K01225",
+      "INF760K01233",
+      "INF760K01241"
+    ],
+    "amfi_codes": [
+      null,
+      null,
+      null,
+      "112152",
+      "112153",
+      null,
+      null,
+      null,
+      "118274",
+      "118273"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide long-term capital appreciation by primarily investing in equity and equity related securities of companies which directly or indirectly beneﬁt from the growing consumer demand in India. However, there can be no assurance that the investment objective of the scheme will be realized.",
+    "asset_allocation": "Equity and equity related instruments of companies which directly or indirectly beneﬁt from the growing consumer demand in India - 80% to 100%. Other Equity and equity related instruments - 0% to 20%. Debt and Money Market instruments - 0% to 20%. Invits- 0% to 10%",
+    "benchmark": "BSE 100 TRI",
+    "fund_managers": "Ms. Ennette Fernandes / Mr. Shridatta Bhandwaldar",
+    "annual_expense": {
+      "Regular": "2.06",
+      "Direct": "0.80"
+    },
+    "exit_load": "1% - If redeemed/switched out within 1 year from the date of allotment, Nil - if redeemed/switched out after 1 year from the date of allotment"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T03:05:13.662458+00:00"
+}

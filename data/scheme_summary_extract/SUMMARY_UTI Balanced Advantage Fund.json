@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "UTI Balanced Advantage Fund",
+  "source_file": "SUMMARY_UTI Balanced Advantage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "UTI Balanced Advantage Fund",
+    "fund_type": "An open-ended dynamic asset allocation fund",
+    "fund_options": [
+      "REGULAR PLAN-GROWTH",
+      "DIRECT PLAN-GROWTH",
+      "REGULAR PLAN-PAYOUT OF IDCW",
+      "DIRECT PLAN-PAYOUT OF IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The scheme intends to provide long-term capital appreciation and income by investing in a dynamically managed portfolio ofequity and debt instruments. However, there is no assurance or guarantee that the investment objective of the scheme will beachieved.",
+    "asset_allocation": "Equity & equity related instruments 30% - 90% (Risk Proﬁle - Very High) Debt and Money Market instruments (includingsecuritised debt)* 10% - 70% (Risk Proﬁle - Low to Moderate) *The scheme may invest up to 50% of its debt portfolio insecuritized debt.",
+    "benchmark": "Nifty 50 Hybrid Composite Debt 50:50 Index",
+    "fund_managers": "Equity - Mr. Sachin Trivedi; Debt - Mr. Anurag Mittal",
+    "annual_expense": {
+      "Regular": "1.91",
+      "Direct": "0.59"
+    },
+    "exit_load": "(A) Redemption / Switch out within 90 days from the date of allotment – 1.00% (B) Redemption / Switch out after 90 daysfrom the date of allotment – NIL Any redemption/ switch out of units would be done on a First in First Out (FIFO) basis. Theabove exit load is applicable for all redemptions/switch-out transactions including Systematic Investment Plan (SIP), SystematicWithdrawal Plan (SWP), Systematic Transfer Plan (STP) and Flexi Systematic Transfer Plan (Flexi STP) etc.",
+    "amfi_codes": [
+      "151882",
+      "151885",
+      "151884",
+      "151883"
+    ],
+    "isins": [
+      "INF789F1AYT7",
+      "INF789F1AYV3",
+      "INF789F1AYU5",
+      "INF789F1AYW1"
+    ]
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN-GROWTH",
+    "DIRECT PLAN-GROWTH",
+    "REGULAR PLAN-PAYOUT OF IDCW",
+    "DIRECT PLAN-PAYOUT OF IDCW"
+  ],
+  "extracted_at": "2026-04-18T06:08:10.203398+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty Bank ETF",
+  "source_file": "SUMMARY_ICICI Prudential Nifty Bank ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty Bank ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High\nAs on October 31, 2025",
+    "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely \ncorrespond to the total return of the underlying index subject to tracking errors.\nHowever, there can be no assurance or guarantee that the investment objective of the \nScheme would be achieved",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (Nifty \nBank Index) = 95 % - 100%\n• Units of Liquid schemes, Money Market Instruments (with maturity not exceeding 91 \ndays), including TREPS , cash & cash equivalents. = 0% - 5%",
+    "benchmark": "Nifty Bank TRI",
+    "fund_managers": [
+      "Nishit Patel",
+      "Ajaykumar Solanki",
+      "Venus Ahuja"
+    ],
+    "annual_expense": {
+      "Direct": "0.15"
+    },
+    "exit_load": null,
+    "amfi_codes": [
+      "147483"
+    ],
+    "isins": [
+      "INF109KC1E27"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:11:33.085255+00:00"
+}

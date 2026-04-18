@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Nippon India Nifty AAA CPSE Bond Plus SDL - Apr 2027 Maturity 60:40 Index Fund",
+  "source_file": "SUMMARY_Nippon India Nifty AAA CPSE Bond Plus SDL - Apr 2027 Maturity 60-40 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India Nifty AAA CPSE Bond Plus SDL - Apr 2027 Maturity 60:40 Index Fund",
+    "fund_type": "An open-ended Target Maturity Index Fund investing in constituents of Nifty AAA CPSE Bond Plus SDL Apr 2027 60:40 Index.",
+    "fund_options": [
+      "IDCW Plan Payout",
+      "IDCW Plan Reinvestment",
+      "Growth Plan Growth"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns closely corresponding to the total returns of the securities as represented by the Nifty AAA CPSE Bond Plus SDL Apr 2027 60:40 Index before expenses, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Bonds issued by CPSEs/PFIs and other Government organizations representing the bonds portion of Nifty AAA CPSE Bond Plus SDL Apr 2027 60:40 Index and State Development Loans (SDLs) representing the SDL portion of Nifty AAA CPSE Bond Plus SDL Apr 2027 60:40 Index - 95% - 100%. Cash and Cash Equivalents, Money Market instruments - 0% - 5%",
+    "benchmark": "Nifty AAA CPSE Bond Plus SDL Apr 2027 60:40 Index",
+    "fund_managers": "FM 1 - Vivek Sharma",
+    "annual_expense": {
+      "Regular": "0.32",
+      "Direct": "0.15"
+    },
+    "exit_load": "Not Applicable",
+    "amfi_codes": [
+      "150011",
+      "150012",
+      "150009",
+      "150009",
+      "150008",
+      "150008"
+    ],
+    "isins": [
+      "INF204KC1493",
+      "INF204KC1527",
+      "INF204KC1535",
+      "INF204KC1519",
+      "INF204KC1535",
+      "INF204KC1543"
+    ]
+  },
+  "fund_options_inferred": [
+    "IDCW Plan Payout",
+    "IDCW Plan Reinvestment",
+    "Growth Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T05:18:17.513470+00:00"
+}

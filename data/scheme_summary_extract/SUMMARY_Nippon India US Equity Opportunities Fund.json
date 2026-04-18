@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Nippon India US Equity Opportunites Fund",
+  "source_file": "SUMMARY_Nippon India US Equity Opportunities Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India US Equity Opportunites Fund",
+    "fund_type": "Open",
+    "fund_options": [
+      "Direct IDCW Plan Payout",
+      "Direct IDCW Plan Reinvestment",
+      "Direct Growth Plan Growth",
+      "IDCW Plan Payout",
+      "IDCW Plan Reinvestment",
+      "Growth Plan Growth"
+    ],
+    "isins": [
+      "INF204KA16G3",
+      "INF204KA17G1",
+      "INF204KA15G5",
+      "INF204KA13G0",
+      "INF204KA14G8",
+      "INF204KA12G2"
+    ],
+    "amfi_codes": [
+      "134925",
+      "134925",
+      "134923",
+      "134924",
+      "134924",
+      "134922"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of Nippon India US Equity Opportunities Fund is to provide long term capital appreciation to investors by primarily investing in equity and equity related securities of companies listed on recognized stock exchanges in the US and the secondary objective is to generate consistent returns by investing in debt and money market securities in India. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Under normal circumstances, the anticipated asset allocation would be: Equity and Equity related Instruments listed on the recognized stock exchanges of US – 80%-100%, Fixed income securities of India as well as U.S including money market instruments, cash and equivalent, Treasury bills and ﬁxed deposits- 0%-20%.",
+    "benchmark": "S&P 500 TRI",
+    "fund_managers": "Kinjal Desai",
+    "annual_expense": {
+      "Regular": "2.37",
+      "Direct": "1.24"
+    },
+    "exit_load": "1% if redeemed or switched out on or before completion of 1 month from the date of allotment of units. Nil, thereafter"
+  },
+  "fund_options_inferred": [
+    "Direct IDCW Plan Payout",
+    "Direct IDCW Plan Reinvestment",
+    "Direct Growth Plan Growth",
+    "IDCW Plan Payout",
+    "IDCW Plan Reinvestment",
+    "Growth Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T05:22:09.381645+00:00"
+}

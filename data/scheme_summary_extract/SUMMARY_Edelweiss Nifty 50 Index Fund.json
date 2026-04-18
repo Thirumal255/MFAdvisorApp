@@ -1,0 +1,71 @@
+{
+  "parent_scheme_name": "Edelweiss Nifty 50 Index Fund",
+  "source_file": "SUMMARY_Edelweiss Nifty 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss Nifty 50 Index Fund",
+    "fund_type": "Index Fund",
+    "fund_options": [
+      "DIRECT PLAN-GROWTH",
+      "DIRECT PLAN-IDCW PAYOUT",
+      "DIRECT PLAN-IDCW REINVESTMENT",
+      "DIRECT PLAN-IDCW TRANSFER",
+      "REGULAR PLAN-GROWTH",
+      "REGULAR PLAN-IDCW PAYOUT",
+      "REGULAR PLAN-IDCW REINVESTMENT",
+      "REGULAR PLAN-IDCW TRANSFER"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely correspond to the total returns of the Nifty 50 \nsubject to tracking errors.\nHowever, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee \nany returns.",
+    "asset_allocation": "1. Stocks constituting Nifty 50 Index - 95-100%\n2. Debt and money market instruments - 0-5%",
+    "benchmark": "Nifty 50 Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Bhavesh Jain",
+        "type": "Co-Manage",
+        "from_date": "07/Oct/2021"
+      },
+      {
+        "name": "Mr. Bharat Lahoti",
+        "type": "Co-Manage",
+        "from_date": "08/May/2015"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "0.77",
+      "Direct": "0.27"
+    },
+    "exit_load": "Not Applicable",
+    "amfi_codes": [
+      "149250",
+      "149251",
+      "149251",
+      "149251",
+      "149252",
+      "149253",
+      "149253",
+      "149253"
+    ],
+    "isins": [
+      "INF754K01NB3",
+      "INF754K01NC1",
+      "INF754K01ND9",
+      "INF754K01NE7",
+      "INF754K01MX9",
+      "INF754K01MY7",
+      "INF754K01MZ4",
+      "INF754K01NA5"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN-GROWTH",
+    "DIRECT PLAN-IDCW PAYOUT",
+    "DIRECT PLAN-IDCW REINVESTMENT",
+    "DIRECT PLAN-IDCW TRANSFER",
+    "REGULAR PLAN-GROWTH",
+    "REGULAR PLAN-IDCW PAYOUT",
+    "REGULAR PLAN-IDCW REINVESTMENT",
+    "REGULAR PLAN-IDCW TRANSFER"
+  ],
+  "extracted_at": "2026-04-18T03:26:00.611925+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Axis Short Duration Fund",
+  "source_file": "SUMMARY_Axis Short Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Short Duration Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Growth",
+      "Direct IDCW",
+      "Direct Monthly IDCW",
+      "Direct Weekly IDCW",
+      "Regular Growth",
+      "Regular IDCW",
+      "Regular Monthly IDCW",
+      "Regular Weekly IDCW"
+    ],
+    "isins": [
+      "INF846K01EI1",
+      "INF846K01EJ9",
+      "INF846K01RH5",
+      "INF846K01EL5",
+      "INF846K01644",
+      "INF846K01651",
+      "INF846K01RJ1",
+      "INF846K01677"
+    ],
+    "amfi_codes": [
+      "120510",
+      "120511",
+      "133894",
+      "120512",
+      "112354",
+      "112355",
+      "133895",
+      "112369"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate stable returns with a low risk strategy while maintaining liquidity through a portfolio comprising of debt and money market instruments. However, there can be no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Debt and Money Market instruments - (0%-100%), Units issued by REITs & InvITs - (0%-10%)",
+    "benchmark": "NIFTY Short Duration Debt Index A-II",
+    "fund_managers": "Mr. Devang Shah, Mr. Aditya Pagaria",
+    "annual_expense": {
+      "Regular": "0.91",
+      "Direct": "0.38"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Direct IDCW",
+    "Direct Monthly IDCW",
+    "Direct Weekly IDCW",
+    "Regular Growth",
+    "Regular IDCW",
+    "Regular Monthly IDCW",
+    "Regular Weekly IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:24:27.147062+00:00"
+}

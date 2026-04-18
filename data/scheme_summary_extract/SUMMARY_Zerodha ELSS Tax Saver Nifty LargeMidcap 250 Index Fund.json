@@ -1,0 +1,33 @@
+{
+  "parent_scheme_name": "Zerodha ELSS Tax Saver Nifty LargeMidcap 250 Index Fund",
+  "source_file": "SUMMARY_Zerodha ELSS Tax Saver Nifty LargeMidcap 250 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Zerodha ELSS Tax Saver Nifty LargeMidcap 250 Index Fund",
+    "fund_type": "An open-ended passive equity linked savings scheme with a statutory lock-in period of 3 years and tax beneﬁt replicating/tracking Nifty LargeMidcap 250 Index",
+    "fund_options": null,
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to invest in stocks comprising the Nifty LargeMidcap 250 Index in the sameproportion as in the index to achieve returns equivalent to the Total Return Index of Nifty LargeMidcap 250 Index (subject totracking error), while oﬀering deduction on such investment made in the scheme under Section 80C of the Income-tax Act,1961. There can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "Equities and equity related securities covered by Nifty LargeMidcap 250 Index : 95 to 100% Debt and Money MarketInstruments - 0 to 5%",
+    "benchmark": "Nifty LargeMidcap 250 Index Fund",
+    "fund_managers": "Mr. Kedarnath Mirajkar",
+    "annual_expense": {
+      "Regular": "0.00",
+      "Direct": "0.29"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "152157"
+    ],
+    "isins": [
+      "INF0R8F01026"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth",
+    "Regular Payout of IDCW",
+    "Direct Payout of IDCW"
+  ],
+  "extracted_at": "2026-04-18T06:15:01.949026+00:00"
+}

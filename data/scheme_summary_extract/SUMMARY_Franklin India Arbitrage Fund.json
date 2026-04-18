@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Franklin India Arbitrage Fund",
+  "source_file": "SUMMARY_Franklin India Arbitrage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Franklin India Arbitrage Fund",
+    "fund_type": "An open-ended scheme investing in arbitrage opportunities",
+    "fund_options": [
+      "Regular - Growth",
+      "Regular - IDCW Payout",
+      "Regular - IDCW Reinv.",
+      "Direct - Growth",
+      "Direct - IDCW Payout",
+      "Direct - IDCW Reinv."
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the scheme is to generate capital appreciation and income by predominantly investing in arbitrage opportunities in the cash and derivative segments of the equity markets and the arbitrage opportunities available within the derivative segment and by investing the balance in debt and money market instruments. There is no assurance or guarantee that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related securities$ : 65% - 100% Debt& Money Market Instruments, cash & cash equivalent: 0% - 35% ($ including equity derivative instruments)",
+    "benchmark": "Nifty 50 Arbitrage Index",
+    "fund_managers": "Equity: Mukesh Jain & Rajasa Kakulavarapu, Debt: Pallab Roy & Rohan Maru",
+    "annual_expense": {
+      "Regular": "1.01",
+      "Direct": "0.29"
+    },
+    "exit_load": "In respect of each purchase of Units – • NIL Exit load – for 10% of the units purchased or switched on or before 30 days from the date of allotment. o The “First In First Out (FIFO)” logic will be applied while selecting the units for redemption o Waiver of Exitload is calculated for each inﬂow transaction separately on FIFO basis and not on the total units through multiple inﬂows o Theload free units from purchases made subsequent to the initial purchase will be available only after redeeming all units from the initial purchase • All units redeemed /switched-out in excess of the 10% load free units will be subject to the below mentionedexit load. o 0.25% - if Units are redeemed/switched-out on or before 30 days from the date of allotment o Nil - if redeemed after30 days from the date of allotment *This no load redemption limit is applicable on a 30 day basis (from the date of allotment ofsuch units) and the limit not availed during said period, this shall not be clubbed or carried forward.",
+    "amfi_codes": [
+      "153042",
+      "153044",
+      "153044",
+      "153043",
+      "153041",
+      "153041"
+    ],
+    "isins": [
+      "INF090I01XP5",
+      "INF090I01XR1",
+      "INF090I01XQ3",
+      "INF090I01XS9",
+      "INF090I01XU5",
+      "INF090I01XT7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Regular - IDCW Payout",
+    "Regular - IDCW Reinv.",
+    "Direct - Growth",
+    "Direct - IDCW Payout",
+    "Direct - IDCW Reinv."
+  ],
+  "extracted_at": "2026-04-18T03:29:17.143765+00:00"
+}

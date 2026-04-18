@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Sundaram Mid Cap Fund",
+  "source_file": "SUMMARY_Sundaram Mid Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Sundaram Mid Cap Fund",
+    "fund_type": "An open ended equity scheme investing predominantly in mid cap stocks",
+    "fund_options": [
+      "Regular Plan IDCW Payout",
+      "Regular Plan IDCW Re-Investment",
+      "Regular Plan Growth",
+      "Direct Plan IDCW Payout",
+      "Direct Plan Growth",
+      "Direct Plan IDCW Reinvestment"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The objective of the scheme is to achieve capital appreciation by investing predominantly in stocks that are termed as mid-cap. No Guarantee: Investors are neither being oﬀered any guaranteed/indicated returns nor any guarantee on repayment ofcapital by the Scheme. There is also no guarantee of capital or return either by the mutual fund or by the sponsor or Trusteesby the Asset management Company.",
+    "asset_allocation": "Equity and equity-related instruments of mid instruments of mid cap companies@@ 65-100% high Other equities* 0-5%Fixed Income, Money Market instruments and Cash & Cash equivalents 0-35% Low to Medium Investment in ReITs & InvITs 0-10% Medium to high",
+    "benchmark": "Nifty Mid Cap 150 TRI",
+    "fund_managers": "FM1 - Mr. S Bharath, FM2- Mr. Ratish B Varier, FM3- Mr. Shalav Saket(Overseas Securities)",
+    "annual_expense": {
+      "Regular": "1.74",
+      "Direct": "0.87"
+    },
+    "exit_load": "Nil - If up to 25% of the units invested are redeemed or withdrawn by way of SWP within 365 days from the date of allotment.Any redemptions or withdrawals by way of SWP in excess of the above mentioned limit would be subject to an exit load of 1%, if the units are redeemed within 365 days from the date of allotment of units. Further, exit load will be waived on Intra-scheme and Inter scheme Switch-outs/STP.",
+    "amfi_codes": [
+      "101538",
+      "101539",
+      "119581",
+      "119582"
+    ],
+    "isins": [
+      "INF903J01181",
+      "INF903J01199",
+      "INF903J01173",
+      "INF903J01Mh7",
+      "INF903J01MJ3",
+      "INF903J01MI529"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan IDCW Payout",
+    "Regular Plan IDCW Re-Investment",
+    "Regular Plan Growth",
+    "Direct Plan IDCW Payout",
+    "Direct Plan Growth",
+    "Direct Plan IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T05:49:00.171118+00:00"
+}

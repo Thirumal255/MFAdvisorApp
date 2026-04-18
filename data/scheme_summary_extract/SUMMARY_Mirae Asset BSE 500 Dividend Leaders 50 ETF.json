@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Mirae Asset BSE 500 Dividend Leaders 50 ETF",
+  "source_file": "SUMMARY_Mirae Asset BSE 500 Dividend Leaders 50 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset BSE 500 Dividend Leaders 50 ETF",
+    "fund_type": "An open-ended scheme replicating/tracking BSE 500 Dividend Leaders 50 Total Return Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate returns, before expenses, that are commensurate with theperformance of the BSE 500 Dividend Leaders 50 Total Return Index, subject to tracking error. The Scheme does notguarantee or assure any returns. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities included in BSE 500 Dividend Leaders 50 Index- 95 to 100% ; Money market instruments* including Tri Party REPO/debt securities, Instruments and/or units of debt/liquid schemes of domestic Mutual Funds - 0 to 5 %",
+    "benchmark": "BSE 500 Dividend Leaders 50 TRI (Total Return Index)",
+    "fund_managers": "Ms. Ekta Gala (Primary) & Mr. Akshay Udeshi (Primary)",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "154061"
+    ],
+    "isins": [
+      "INF769K01PY8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:53:19.619046+00:00"
+}

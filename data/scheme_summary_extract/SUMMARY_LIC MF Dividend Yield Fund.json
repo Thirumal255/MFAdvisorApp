@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "LIC MF Dividend Yield Fund",
+  "source_file": "SUMMARY_LIC MF Dividend Yield Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "LIC MF Dividend Yield Fund",
+    "fund_type": "An open ended equity scheme predominantly investing in dividend yielding stocks",
+    "fund_options": [
+      "Direct Plan - IDCW-Payout",
+      "Direct Plan - IDCW-Reinvestment",
+      "Regular Plan - IDCW-Payout",
+      "Regular Plan - IDCW-Reinvestment",
+      "Direct Plan - Growth",
+      "Regular Plan-Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Investment objective of the Scheme is to provide long term capital appreciation and/or Income Distribution cum Capital Withdrawal (IDCW) distribution by investing predominantly in dividend yielding equity and equity related instruments. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme would be as follows: Equity and equity related instruments of dividend yielding companies- 65%-100% Equity and Equity related instruments of other than dividend yielding companies-0%-35% Debt and Money market instruments- 0%-35% Units issued by & Infrastructure Investment Trusts (InvITs)- 0%-10% Please refer Scheme Information Document for complete details.",
+    "benchmark": "NIFTY 500 - TRI",
+    "fund_managers": "FM 1: Mr. Dikshit Mittal ; FM 2: Mr. Karan Doshi",
+    "annual_expense": {
+      "Regular": "2.34",
+      "Direct": "0.77"
+    },
+    "exit_load": "Nil, If units of the Scheme are redeemed or switched out up to 12% of the units (the limit) within 12 months from the date of allotment. 1% of the applicable NAV, If units of the scheme are redeemed or switched out in excess of the limit within 12 months from the date of allotment. Nil, If units of scheme are redeemed or switched out after 12 months from the date of allotment.",
+    "amfi_codes": [
+      "152021",
+      "152021",
+      "152020",
+      "152020",
+      "152022",
+      "152019"
+    ],
+    "isins": [
+      "INF397L01KZ4",
+      "INF397L01LA5",
+      "INF397L01KV3",
+      "INF397L01KW1",
+      "INF397L01LC1",
+      "INF397L01KY7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW-Payout",
+    "Direct Plan - IDCW-Reinvestment",
+    "Regular Plan - IDCW-Payout",
+    "Regular Plan - IDCW-Reinvestment",
+    "Direct Plan - Growth",
+    "Regular Plan-Growth"
+  ],
+  "extracted_at": "2026-04-18T04:44:23.888273+00:00"
+}

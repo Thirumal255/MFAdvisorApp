@@ -1,0 +1,51 @@
+{
+  "parent_scheme_name": "Franklin India Balanced Advantage Fund",
+  "source_file": "SUMMARY_Franklin India Balanced Advantage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Franklin India Balanced Advantage Fund",
+    "fund_type": "An open-ended dynamic asset allocation fund",
+    "fund_options": [
+      "Regular - Growth",
+      "Direct - IDCW Reinv.",
+      "Regular - IDCW Payout",
+      "Direct - Growth",
+      "Regular - IDCW Reinv.",
+      "Direct - IDCW Payout"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme intends to generate long-term capital appreciation and income generation by investing in a dynamically managed portfolio of equity & equity related instruments and ﬁxed income and money market instruments. There can be no assurance that the investment objective of the scheme will be realized.",
+    "asset_allocation": "Equity and Equity related securities (including foreign securities): 0% - 100% Debt & Money Market Instruments (including foreign securities) including cash & cash equivalent^: 0% - 100% ^Investment in Securitized debt, if undertaken, would not exceed 20% of the net assets of the Scheme. The Scheme shall not invest in foreign securitized debt.",
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
+    "fund_managers": "Equity: Rajasa Kakulavarapu & Venkatesh Sanjeevi Debt: Chandni Gupta, Anuj Tagra, Rahul Goswami; Sandeep Manam(Dedicated Fund Manager for overseas investments)",
+    "annual_expense": {
+      "Regular": "1.93",
+      "Direct": "0.50"
+    },
+    "exit_load": "In respect of each purchase of Units • Upto 10% of the Units may be redeemed without any exit load within 1 year from the date of allotment*. • Any redemption in excess of the above limit shall be subject to the following exit load: o 1.00% - if redeemed on or before 1 year from the date of allotment o Nil - if redeemed after 1 year from the date of allotment * This condition is applicable on a yearly basis. In case of multiple transactions, Units will be redeemed on First In First Out (FIFO) basis the date of allotment of such units. If the limit is not availed during a year, it shall not be clubbed or carried forward to the next year.",
+    "amfi_codes": [
+      "150480",
+      "150481",
+      "150478",
+      "150481",
+      "150478"
+    ],
+    "isins": [
+      "INF090I01WN2",
+      "INF090I01WS1",
+      "INF090I01WO0",
+      "INF090I01WQ5",
+      "INF090I01WP7",
+      "INF090I01WR3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Direct - IDCW Reinv.",
+    "Regular - IDCW Payout",
+    "Direct - Growth",
+    "Regular - IDCW Reinv.",
+    "Direct - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T03:29:27.210746+00:00"
+}

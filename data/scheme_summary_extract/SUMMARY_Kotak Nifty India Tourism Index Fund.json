@@ -1,0 +1,56 @@
+{
+  "parent_scheme_name": "Kotak Nifty India Tourism Index Fund",
+  "source_file": "SUMMARY_Kotak Nifty India Tourism Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Nifty India Tourism Index Fund",
+    "fund_type": "An open ended scheme replicating / tracking the NIFTY India Tourism Index",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCW Re-investment",
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-IDCW Re-investment"
+    ],
+    "isins": [
+      "INF174KA1SZ1",
+      "INF174KA1TA2",
+      "INF174KA1TB0",
+      "INF174KA1TC8",
+      "INF174KA1TD6",
+      "INF174KA1TE4"
+    ],
+    "amfi_codes": [
+      "152870",
+      "152873",
+      "152873",
+      "152872",
+      "152871",
+      "152871"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, corresponding to the total returns of the securities as represented by the underlying index, subject to tracking errors. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Level of risk not provided",
+    "benchmark": "Nifty India Tourism Index (Total Return Index (TRI))",
+    "fund_managers": [
+      "Mr. Devender Singhal",
+      "Mr. Satish Dondapati",
+      "Mr. Abhishek Bisen"
+    ],
+    "annual_expense": {
+      "Regular": "0.96",
+      "Direct": "0.33"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCW Re-investment",
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-18T04:39:19.240293+00:00"
+}

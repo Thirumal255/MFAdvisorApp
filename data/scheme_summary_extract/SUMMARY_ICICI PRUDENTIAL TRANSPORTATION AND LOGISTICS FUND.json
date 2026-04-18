@@ -1,0 +1,63 @@
+{
+  "parent_scheme_name": "ICICI Prudential Transportation and Logistics Fund",
+  "source_file": "SUMMARY_ICICI PRUDENTIAL TRANSPORTATION AND LOGISTICS FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Transportation and Logistics Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential Transportation and Logistics Fund - Growth",
+      "ICICI Prudential Transportation and Logistics Fund - IDCW",
+      "ICICI Prudential Transportation and Logistics Fund - Direct Plan - Growth",
+      "ICICI Prudential Transportation and Logistics Fund - Direct Plan - IDCW",
+      "ICICI Prudential Transportation and Logistics Fund - Regular Plan - Growth"
+    ],
+    "isins": [
+      "INF109KC19J8",
+      "INF109KC11K3",
+      "INF109KC12K1"
+    ],
+    "amfi_codes": [
+      "3503",
+      "3504",
+      "9705",
+      "150685",
+      "150687",
+      "150684"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The objective of the scheme is to generate long term capital appreciation by investing predominantly in equity and equity related securities of companies engaged in transportation and logistics sectors. However, there can be no assurance or guarantee that",
+    "asset_allocation": "•Equity & Equity related securities of entities in the transportation and logistics theme = 80% - 100% \n•Other Equity & Equity related instruments = 0% - 20% \n•Debt instruments, Units of Debt Mutual Fund schemes, and Money market instruments and Preferenc",
+    "benchmark": "Nifty Transportation & Logistics TRI",
+    "fund_managers": [
+      {
+        "name": "Rajat Chandak",
+        "type": "Comanage",
+        "from_date": "18-Sep-23"
+      },
+      {
+        "name": "Priyanka Khandelwal",
+        "type": "Comanage",
+        "from_date": "18-Sep-23"
+      },
+      {
+        "name": "Sharmila D'silva",
+        "type": "Manages Overseas Investments",
+        "from_date": "28-Oct-22"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "0.96",
+      "Direct": "1.98"
+    },
+    "exit_load": "• 1% of the applicable NAV - If the amount sought to be redeemed or switched out is invested for a period of up to 1 month from the date of allotment.\n• NIL - If the amount sought to be redeemed or switched out is invested for a period of more than 1 mon"
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential Transportation and Logistics Fund - Growth",
+    "ICICI Prudential Transportation and Logistics Fund - IDCW",
+    "ICICI Prudential Transportation and Logistics Fund - Direct Plan - Growth",
+    "ICICI Prudential Transportation and Logistics Fund - Direct Plan - IDCW",
+    "ICICI Prudential Transportation and Logistics Fund - Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T04:18:39.960913+00:00"
+}

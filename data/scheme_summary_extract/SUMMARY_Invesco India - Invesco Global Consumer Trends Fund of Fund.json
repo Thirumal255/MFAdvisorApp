@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Invesco India - Invesco Global Consumer Trends Fund of Fund",
+  "source_file": "SUMMARY_Invesco India - Invesco Global Consumer Trends Fund of Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India - Invesco Global Consumer Trends Fund of Fund",
+    "fund_type": "An open ended fund of fund scheme investing in Invesco Global Consumer Trends Fund",
+    "fund_options": [
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Plan - Growth"
+    ],
+    "isins": [
+      "INF205KA1262",
+      "INF205KA1288",
+      "INF205KA1270",
+      "INF205KA1239",
+      "INF205KA1254",
+      "INF205KA1247"
+    ],
+    "amfi_codes": [
+      "148615",
+      "148615",
+      "148614",
+      "148612",
+      "148612",
+      "148613"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide long-term capital appreciation by investing predominantly in units of Invesco Global Consumer Trends Fund, an overseas fund which invests in an international portfolio of companies predominantly engaged in the design, production or distribution of products and services related to the discretionary consumer needs of individuals. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Shares of Invesco Global Consumer Trends Fund : Min 95% Max 100%, Debt and money market securities / Units of debt and liquid schemes of Invesco Mutual Fund: Min 0% Max 5%",
+    "benchmark": "MSCI World Consumer Discretionary Index - Net Total Return",
+    "fund_managers": "Mr. Sagar Gandhi - Primary",
+    "annual_expense": {
+      "Regular": "1.5400",
+      "Direct": "0.6000"
+    },
+    "exit_load": "If upto 10% of Units allotted are redeemed / switched-out within 1 year from the date of allotment - Nil . For any redemption /switchout in excess of 10% of units allotted within one year from the date of allotment - 1%. If units are redeemed or switched-out after 1 year from the date of allotment Nil ."
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T04:19:23.120083+00:00"
+}

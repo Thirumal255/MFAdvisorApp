@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Baroda BNP Paribas Multi Asset Active Funds of Funds",
+  "source_file": "SUMMARY_Baroda BNP Paribas Multi Asset Active Fund of Funds.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Baroda BNP Paribas Multi Asset Active Funds of Funds",
+    "fund_type": "An open-ended fund of fund scheme predominantly investing in debt, equity and gold oriented schemes of Baroda BNPParibas Mutual Fund",
+    "fund_options": [
+      "Direct Plan - Growth Option",
+      "Direct Plan - IDCW Payout Option",
+      "Direct Plan - IDCW Option Dividend Reinvestment",
+      "Regular Plan - Growth Option",
+      "Regular Plan - IDCW Payout Option",
+      "Regular Plan - IDCW Option - Dividend Reinvestment Option"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The primary objective of the Scheme is to oﬀer capital appreciation and income over long term through diversiﬁcation of investments across debt, equity and gold schemes. However, there is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Units of Debt oriented mutual fund schemes of Baroda BNP Paribas Mutual Fund: 55 to 65%; Units of Equity scheme of Baroda BNP Paribas Mutual Fund: 15 to 25% Units of Gold ETF of Baroda BNP Paribas Mutual Fund:15 to 25%, Money Market Instrument: 0 to 5%",
+    "benchmark": "60% of Nifty Composite Debt Index + 20% Nifty 500 TRI+ 20% of INR Price of Gold",
+    "fund_managers": "Mr. Gurvinder Singh Wasan (Primary Fund Manager) and Mr. Pratish Krishnan (Primary Fund Manager)",
+    "annual_expense": {
+      "Regular": "0.99",
+      "Direct": "0.09"
+    },
+    "exit_load": "For redemption/switch out of units within 1 year from the date of allotment: 1.00% of applicable NAV No Exit Load is payable if Units are redeemed / switched-out after 1 year from the date of allotment",
+    "amfi_codes": [
+      "153552",
+      "153550",
+      "153550",
+      "153548",
+      "153549",
+      "153549"
+    ],
+    "isins": [
+      "INF251K01UO8",
+      "INF251K01UP5",
+      "INF251K01UQ3",
+      "INF251K01UM2",
+      "INF251K01UN0",
+      "INF251K01UW1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth Option",
+    "Direct Plan - IDCW Payout Option",
+    "Direct Plan - IDCW Option Dividend Reinvestment",
+    "Regular Plan - Growth Option",
+    "Regular Plan - IDCW Payout Option",
+    "Regular Plan - IDCW Option - Dividend Reinvestment Option"
+  ],
+  "extracted_at": "2026-04-18T03:01:15.121719+00:00"
+}

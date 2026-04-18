@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "DSP Nifty Midcap 150 Index Fund",
+  "source_file": "SUMMARY_DSP Nifty Midcap 150 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "DSP Nifty Midcap 150 Index Fund",
+    "fund_type": "An open ended scheme replicating / tracking Nifty Midcap 150 Index",
+    "fund_options": [
+      "Regular - Growth",
+      "Regular - IDCW",
+      "Regular - IDCW Reinvest",
+      "Direct - Growth",
+      "Direct - IDCW",
+      "Direct - IDCW Reinvest"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to generate returns that are commensurate with the performance of the Nifty Midcap 150 Index, subject to tracking error. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "A. Equity and Equity Related Securities of companies constituting Nifty Midcap 150 Index, the Underlying Index : 95% - 100%, B. Cash and Cash Equivalents : 0% – 5%",
+    "benchmark": "Nifty Midcap 150 TRI",
+    "fund_managers": "Mr. Anil Ghelani, Mr. Diipesh Shah",
+    "annual_expense": {
+      "Regular": "0.95",
+      "Direct": "0.25"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "154012",
+      "154013",
+      "154013",
+      "154014",
+      "154015",
+      "154015"
+    ],
+    "isins": [
+      "INF740KA1WY1",
+      "INF740KA1WZ8",
+      "INF740KA1XA9",
+      "INF740KA1XB7",
+      "INF740KA1XC5",
+      "INF740KA1XD3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Regular - IDCW",
+    "Regular - IDCW Reinvest",
+    "Direct - Growth",
+    "Direct - IDCW",
+    "Direct - IDCW Reinvest"
+  ],
+  "extracted_at": "2026-04-18T03:15:07.849651+00:00"
+}

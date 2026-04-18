@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "NJ Arbitrage Fund",
+  "source_file": "SUMMARY_NJ Arbitrage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "NJ Arbitrage Fund",
+    "fund_type": "An open ended scheme investing in arbitrage opportunities",
+    "fund_options": [
+      "Direct Plan - Growth Option",
+      "Regular Plan - Growth Option"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the scheme is to generate capital appreciation and income by predominantly investing in arbitrage opportunities in the cash and derivatives segment of the equity market and by investing the balance in debt and money market instruments. However, there is no assurance or guarantee that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments : Minimum 65% - Maximum 100%, Debt and money market instruments* : Minimum 0% - Maximum 35%. Risk Profile Equity & Equity related instruments - High to Very High, Debt and money market instruments* - Low to Medium. *TREPS, Government Repo / Reverse Repo (in Government Securities), Treasury bills, Government securities (Issued by both Central and State governments) and any other like instruments as specified by the Reserve Bank of India from time to time and approved by SEBI from time to time. Please refer SID for Further details",
+    "benchmark": "Nifty 50 Arbitrage Index",
+    "fund_managers": "Mr. Viral Shah and Mr. Dhaval Patel",
+    "annual_expense": {
+      "Regular": "1.0000",
+      "Direct": "0.2600"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "150367",
+      "150366"
+    ],
+    "isins": [
+      "INF0J8L01065",
+      "INF0J8L01057"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth Option",
+    "Regular Plan - Growth Option"
+  ],
+  "extracted_at": "2026-04-18T05:22:23.416130+00:00"
+}

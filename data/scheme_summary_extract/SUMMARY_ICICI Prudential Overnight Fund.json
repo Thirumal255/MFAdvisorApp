@@ -1,0 +1,79 @@
+{
+  "parent_scheme_name": "ICICI Prudential Overnight Fund",
+  "source_file": "SUMMARY_ICICI Prudential Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Overnight Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW - Daily",
+      "Direct Plan - IDCW - Weekly",
+      "Direct Plan - Unclaimed IDCW Stable Scheme",
+      "Direct Plan - Unclaimed IDCW Transitory Scheme",
+      "Direct Plan - Unclaimed Redemption Stable Scheme",
+      "Direct Plan - Unclaimed Redemption Transitory Scheme",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW - Daily",
+      "Regular Plan - IDCW - Weekly"
+    ],
+    "isins": [
+      "INF109KC1OO2",
+      "INF109KC1OP9",
+      "INF109KC1OS3",
+      null,
+      null,
+      null,
+      null,
+      "INF109KC1OA1",
+      "INF109KC1OB9",
+      "INF109KC1OE3"
+    ],
+    "amfi_codes": [
+      "145536",
+      "145537",
+      "145539",
+      "149411",
+      "149408",
+      "149409",
+      "149410",
+      "145535",
+      "145547",
+      "145538"
+    ],
+    "riskometer": "Low\nAs on August 31, 2024",
+    "investment_objective": "The Scheme aims to provide reasonable returns commensurate with low risk and providing a high level of liquidity, \nthrough investments made primarily in overnight securities having maturity of 1 business day. However there can \nbe no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Overnight securities or debt instruments maturing on or before the next business day = 0% - 100%",
+    "benchmark": "CRISIL Liquid Overnight Index",
+    "fund_managers": [
+      {
+        "name": "Darshil Dedhia",
+        "type": "Comanage",
+        "from_date": "13-Sep-24"
+      },
+      {
+        "name": "Nikhil Kabra",
+        "type": "Comanage",
+        "from_date": "15-Nov-18"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "0.18",
+      "Direct": "0.10"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW - Daily",
+    "Direct Plan - IDCW - Weekly",
+    "Direct Plan - Unclaimed IDCW Stable Scheme",
+    "Direct Plan - Unclaimed IDCW Transitory Scheme",
+    "Direct Plan - Unclaimed Redemption Stable Scheme",
+    "Direct Plan - Unclaimed Redemption Transitory Scheme",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW - Daily",
+    "Regular Plan - IDCW - Weekly"
+  ],
+  "extracted_at": "2026-04-18T04:15:27.513603+00:00"
+}

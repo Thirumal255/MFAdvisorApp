@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "ICICI Prudential Regular Gold Savings Fund (FOF)",
+  "source_file": "SUMMARY_ICICI Prudential Gold ETF FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Regular Gold Savings Fund (FOF)",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Growth",
+      "IDCW"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "ICICI Prudential Regular Gold Savings Fund (FOF) (the Scheme) is a fund of funds scheme with the primary objective to generate \nreturns by investing in units of ICICI Prudential Gold ETF (IPru Gold ETF).\nThe investments into underlying funds under the Scheme would, inter alia, be governed by:\n- The investment management style of such scheme\n- The tolerance and the risk profile of such schemes \n- The asset allocation (such as equity or debt) of such Schemes\nHowever, there can be no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "Units of ICICI Prudential Gold ETF 95% - 100% \nDebt & Money Market Instruments (including cash & cash equivalent and Liquid/Debt Funds) 0% - 5%",
+    "benchmark": "LBMA AM Gold prices",
+    "fund_managers": [
+      "Manish Banthia",
+      "Nishit Patel"
+    ],
+    "annual_expense": {
+      "Regular": "0.43",
+      "Direct": "0.09"
+    },
+    "exit_load": "Upto 15 days from allotment - 1% of applicable NAV, More than 15 days - Nil",
+    "amfi_codes": [
+      "120685",
+      "120686",
+      "115833",
+      "115834"
+    ],
+    "isins": [
+      "INF109K01U92",
+      "INF109K01U76",
+      "INF109K01TK8",
+      "INF109K01TM4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Growth",
+    "IDCW"
+  ],
+  "extracted_at": "2026-04-18T04:06:39.541095+00:00"
+}

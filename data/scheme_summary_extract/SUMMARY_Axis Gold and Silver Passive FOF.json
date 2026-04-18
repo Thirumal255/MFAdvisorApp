@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Axis Gold and Silver Passive FoF",
+  "source_file": "SUMMARY_Axis Gold and Silver Passive FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Gold and Silver Passive FoF",
+    "fund_type": "An open ended fund of funds scheme investing in units of gold and silver exchange traded funds",
+    "fund_options": [
+      "Direct Growth",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate returns by investing in units of Gold ETFs and Silver ETFs. However, theperformance of the scheme may diﬀer from that of the underlying gold and silver ETFs due to tracking error in the underlyingexchange traded funds. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Units of Gold and Silver ETFs : 95%-100% Of which: Units of Gold ETFs : 35%-65%, Units of Silver ETFs: 35%-65%, Units ofcommodity ETFs: 10%-35%, Money Market Instruments: 0%-5%",
+    "benchmark": "Domestic Price of Gold and Domestic Price of Silver (50:50)",
+    "fund_managers": "Mr. Pratik Tibrewal, Mr. Aditya Pagaria",
+    "annual_expense": {
+      "Regular": "0.61",
+      "Direct": "0.16"
+    },
+    "exit_load": "a)If redeemed/ switched out within15 days from the date of allotment: 0.25%. b)If redeemed/ switched out after 15 daysfrom the date of allotment: Nil",
+    "amfi_codes": [
+      "154078",
+      "154077"
+    ],
+    "isins": [
+      "INF846KA1390",
+      "INF846KA1408"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Growth",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T02:21:17.056238+00:00"
+}

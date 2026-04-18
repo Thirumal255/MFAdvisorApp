@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "LIC MF Money Market Fund",
+  "source_file": "SUMMARY_LIC MF Money Market Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "LIC MF Money Market Fund",
+    "fund_type": "An open-ended debt scheme investing in money market instruments. A relatively low interest rate risk and moderate creditrisk.",
+    "fund_options": [
+      "Regular Plan-Daily IDCW payout",
+      "Regular Plan-Daily IDCW Reinv",
+      "Regular Plan-Growth",
+      "Direct Plan-Daily IDCW payout",
+      "Direct Plan-Daily IDCW Reinv",
+      "Direct Plan-Growth"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the Scheme is to generate income through investment in a portfolio comprising of moneymarket instruments. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Money Market Instruments having maturity upto 1 year : 0% to 100%. Please refer the Scheme Information Document forcomplete details.",
+    "benchmark": "NIFTY Money Market Index A-I",
+    "fund_managers": "FM 1 - Mr. Rahul Singh ,FM 2 - Pratik Harish Shroﬀ",
+    "annual_expense": {
+      "Regular": "0.44",
+      "Direct": "0.19"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "150394",
+      "150394",
+      "150393",
+      "150391",
+      "150391",
+      "150392"
+    ],
+    "isins": [
+      "INF767K01RC4",
+      "INF767K01RD2",
+      "INF767K01RB6",
+      "INF767K01RF7",
+      "INF767K01RG5",
+      "INF767K01RE0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Daily IDCW payout",
+    "Regular Plan-Daily IDCW Reinv",
+    "Regular Plan-Growth",
+    "Direct Plan-Daily IDCW payout",
+    "Direct Plan-Daily IDCW Reinv",
+    "Direct Plan-Growth"
+  ],
+  "extracted_at": "2026-04-18T04:46:41.912076+00:00"
+}

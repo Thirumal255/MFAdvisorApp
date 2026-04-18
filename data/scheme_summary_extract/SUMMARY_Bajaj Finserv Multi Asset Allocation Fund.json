@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bajaj Finserv Multi Asset Allocation Fund",
+  "source_file": "SUMMARY_Bajaj Finserv Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bajaj Finserv Multi Asset Allocation Fund",
+    "fund_type": "An open ended scheme investing in equity and equity related instruments, debt & debt derivatives and money marketinstruments, Gold ETFs, Silver ETFs, exchange traded commodity derivatives and in units of REITs and InvITs",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - IDCW Payout",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Plan - IDCW Payout"
+    ],
+    "isins": [
+      "INF0QA701821",
+      "INF0QA701847",
+      "INF0QA701839",
+      "INF0QA701797",
+      "INF0QA701813",
+      "INF0QA701805"
+    ],
+    "amfi_codes": [
+      "152639",
+      "152641",
+      "null",
+      "152642",
+      "152640",
+      "null"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate income from ﬁxed income instruments and generate capital appreciation for investors by investing in equity andequity related securities including derivatives, Gold ETFs, Silver ETFs, exchange traded commodity derivatives and in units ofREITs & InvITs. However, there is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and equity related instruments - 35% - 80%, Debt securities (including securitized debt & debt derivatives) and MoneyMarket Instruments* including Units of Debt oriented mutual fund schemes - 10% - 55% Gold ETFs, Silver ETFs, Exchange TradedCommodity Derivatives (ETCDs) & any other mode of investment in commodities as permitted by SEBI from time to time. - 10% -55% Units issued by REITs and InvITs - 0% - 10%",
+    "benchmark": "65% Nifty 50 TRI + 25% NIFTY Short Duration Debt Index + 10% Domestic Prices of Gold",
+    "fund_managers": "FM 1 - Mr. Sorbh Gupta (Equity Portion) , FM2 - Mr. Anup Kulkarni (Equity Portion) , FM-3- Mr. Siddharth Chaudhary (DebtPortion), Mr. Vinay Bafna (Commodity Investments Portion) (Primary)",
+    "annual_expense": {
+      "Regular": "1.92",
+      "Direct": "0.61"
+    },
+    "exit_load": "Entry load – not applicable Exit load – For each purchase of units through Lumpsum / switch-in / Systematic Investment Plan(SIP) and Systematic Transfer Plan (STP), exit load will be as follows: if units are redeemed / switched out within 1 year from thedate of allotment: • if up to 30% of units allotted are redeemed/switched out – Nil • any redemption / switch-out of units inexcess of 30% of units allotted - 1% of applicable NAV. If units purchased or switched in from another scheme of the Fund areredeemed or switched out after 1 year from the date of allotment, no exit load is payable. The Scheme will not levy exit load incase the timelines for rebalancing portfolio as stated in SEBI Master Circular for Mutual Funds dated May 19, 2023 is notcomplied with."
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - IDCW Payout",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Plan - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T02:26:21.761681+00:00"
+}

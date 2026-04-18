@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Kotak Nifty AAA Bond Jun 2025 HTM Index Fund",
+  "source_file": "SUMMARY_Kotak Nifty AAA Bond Jun 2025 HTM Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Nifty AAA Bond Jun 2025 HTM Index Fund",
+    "fund_type": "An open-ended Target Maturity Index Fund investing in constituents of Nifty AAA Bond Jun 2025 HTM index subject to tracking errors. A moderate interest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCW Re-investment",
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-IDCW Re-investment"
+    ],
+    "isins": [
+      "INF174KA1RN9",
+      "INF174KA1RL3",
+      "INF174KA1RM1",
+      "INF174KA1RI9",
+      "INF174KA1RJ7",
+      "INF174KA1RK5"
+    ],
+    "amfi_codes": [
+      "152549",
+      "152550",
+      "152550",
+      "152547",
+      "152548",
+      "152548"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to generate returns that are commensurate (before fees and expenses) with the performance of Nifty AAA Bond Jun 2025 HTM Index, which seeks to track the performance of AAA rated bond issued by Public Sector Undertakings (PSUs), Housing Finance Companies (HFCs), Non-Banking Financial Companies (NBFCs) and Banks maturing near target date of the index, subject to tracking errors. However, there can be no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Replication of Securities covered by Nifty AAA Bond Jun 2025 HTM Index^- 95%-100%-Low to Moderate Cash & Debt/Money Market Instruments -0%-5%-Low",
+    "benchmark": "Nifty AAA Bond Jun 2025 HTM Index Fund",
+    "fund_managers": "Mr. Abhishek Bisen",
+    "annual_expense": {
+      "Regular": "0.23",
+      "Direct": "0.08"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCW Re-investment",
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-IDCW Re-investment"
+  ],
+  "extracted_at": "2026-04-18T04:38:28.913737+00:00"
+}

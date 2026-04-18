@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Axis NIFTY IT ETF",
+  "source_file": "SUMMARY_Axis NIFTY IT ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis NIFTY IT ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide returns before expenses that closely correspond to the total returns of the NIFTY IT Index subject to tracking errors. However, there is no assurance or guarantee that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity instruments covered by Nifty IT Index - (95%-100%), Debt & Money Market Instruments - (0%-5%)",
+    "benchmark": "Nifty IT TRI",
+    "fund_managers": "Mr. Karthik Kumar - Primary/Domestic Equities",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "N/A",
+    "amfi_codes": [
+      "148799"
+    ],
+    "isins": [
+      "INF846K01Y9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T02:23:20.316947+00:00"
+}

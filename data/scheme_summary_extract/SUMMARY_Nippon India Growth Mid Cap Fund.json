@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "Nippon India Growth Mid Cap Fund",
+  "source_file": "SUMMARY_Nippon India Growth Mid Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India Growth Mid Cap Fund",
+    "fund_type": "Open",
+    "fund_options": [
+      "Direct Growth Plan Bonus Option Bonus",
+      "Direct Plan IDCW Plan Payout",
+      "Direct Plan IDCW Plan Reinvestment",
+      "Direct Growth Plan Growth Option Growth",
+      "Growth Plan Bonus Option Bonus",
+      "IDCW Plan Payout",
+      "IDCW Plan Reinvestment",
+      "Growth Plan Growth Option Growth",
+      "Institutional Plan - IDCW Plan Payout",
+      "Institutional Plan - IDCW Plan Reinvestment"
+    ],
+    "isins": [
+      "INF204K01E21",
+      "INF204K01E39",
+      "INF204K01E47",
+      "INF204K01E54",
+      "INF204K01315",
+      "INF204K01299",
+      "INF204K01307",
+      "INF204K01323",
+      "INF204K01257",
+      "INF204K01265"
+    ],
+    "amfi_codes": [
+      "118665",
+      "118666",
+      "118666",
+      "118668",
+      "100376",
+      "100375",
+      "100375",
+      "100377",
+      "106260",
+      "106260"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the Scheme is to achieve long-term growth of capital by investment in equity and equityrelated securities through a research based investment approach. However, there can be no assurance that the investmentobjective of the Scheme will be realized, as actual market movements may be at variance with anticipated trends.",
+    "asset_allocation": "Equity & Equity Related Instruments - 65%-100%, Debt Instruments & Money Market Instruments - 0%-35%",
+    "benchmark": "NIFTY Midcap 150 TRI",
+    "fund_managers": "Rupesh Patel",
+    "annual_expense": {
+      "Regular": "1.53",
+      "Direct": "0.73"
+    },
+    "exit_load": "1% if redeemed or switched out on or before completion of 1 month from the date of allotment of units.Nil, thereafter."
+  },
+  "fund_options_inferred": [
+    "Direct Growth Plan Bonus Option Bonus",
+    "Direct Plan IDCW Plan Payout",
+    "Direct Plan IDCW Plan Reinvestment",
+    "Direct Growth Plan Growth Option Growth",
+    "Growth Plan Bonus Option Bonus",
+    "IDCW Plan Payout",
+    "IDCW Plan Reinvestment",
+    "Growth Plan Growth Option Growth",
+    "Institutional Plan - IDCW Plan Payout",
+    "Institutional Plan - IDCW Plan Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T05:14:47.387546+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis Global Equity Alpha Fund of Fund",
+  "source_file": "SUMMARY_Axis Global Equity Alpha Fund of Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Global Equity Alpha Fund of Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide long term capital appreciation by predominantly investing in Schroder International Selection Fund Global EquityAlpha, a fund that aims to provide capital growth by investing in equity and equity related securities of companies worldwide.The Scheme may also invest a part of corpus in debt, money market instruments and / or units of liquid schemes in order tomeet liquidity requirements from time to time. However, there can be no assurance that the investment objective of theScheme will be realized",
+    "asset_allocation": "Units / shares of Schroder International Selection Fund Global Equity Alpha - (95%-100%), Debt, Money market instrumentsand / or units of liquid schemes - (0%-5%)",
+    "benchmark": "MSCI World Net Total Return Index (INR)",
+    "fund_managers": "Ms. Krishnaa N",
+    "annual_expense": {
+      "Regular": "1.62",
+      "Direct": "0.83"
+    },
+    "exit_load": "If redeemed/switched out on or before 12 months from the date of allotment: For 10% of investment: Nil on FIFO basis.Forremaining investment: 1% w.e.f., 04/09/2020",
+    "amfi_codes": [
+      "148485",
+      "148487",
+      "148486",
+      "148488"
+    ],
+    "isins": [
+      "INF846K01X06",
+      "INF846K01X14",
+      "INF846K01X30",
+      "INF846K01X48",
+      "INF846K01X22",
+      "INF846K01X55"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T02:21:07.009595+00:00"
+}

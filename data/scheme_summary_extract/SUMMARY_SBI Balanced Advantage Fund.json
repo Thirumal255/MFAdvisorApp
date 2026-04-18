@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "SBI Balanced Advantage Fund",
+  "source_file": "SUMMARY_SBI Balanced Advantage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Balanced Advantage Fund",
+    "fund_type": "An open-ended dynamic asset allocation fund",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth"
+    ],
+    "riskometer": "VERY HIGH",
+    "investment_objective": "The investment objective of the scheme is to provide long term capital appreciation / income from a dynamic mix of equity and debt investments. However, there can be no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": {
+      "Equity and Equity related instruments": "0%-100%",
+      "Debt securities (including securitized debt) and money market instruments (including TRIPARTY REPO, Reverse Repo and equivalent)": "0%-100%",
+      "Units issued by REITs and InVITs*": "0%-10%"
+    },
+    "benchmark": "Nifty 50 Hybrid composite debt 50:50 Index",
+    "fund_managers": [
+      "Mr. Dinesh Balachandran",
+      "Mr. Anup Upadhyay"
+    ],
+    "annual_expense": {
+      "Direct": "0.56"
+    },
+    "exit_load": "- NIL - If units purchased or switched in from another scheme of the Fund are redeemed or switched out upto 10% of the units (the limit) purchased or switched on or before 1 year from the date of allotment.\n- 1% of the applicable NAV - If units purchased or switched in from another scheme of the Fund are redeemed or switched out in excess of the limit on or before 1 year from the date of allotment\n- NIL - If units purchased or switched in from another scheme of the Fund are redeemed or switched out after 1 year from the date of allotment",
+    "amfi_codes": [
+      "149132",
+      "149133",
+      "149135",
+      "149134"
+    ],
+    "isins": [
+      "INF200KA1Y40",
+      "INF200KA1Y65",
+      "INF200KA1Y99",
+      "INF200KA1Y73"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:34:41.849942+00:00"
+}

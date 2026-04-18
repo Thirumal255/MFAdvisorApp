@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Franklin India Government Securities Fund",
+  "source_file": "SUMMARY_Franklin India Government Securities Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Franklin India Government Securities Fund",
+    "fund_type": "An open ended debt scheme investing in government securities across maturity",
+    "fund_options": [
+      "Regular - Growth",
+      "Direct - IDCW Reinv.",
+      "Regular - IDCW Payout",
+      "Direct - Growth",
+      "Regular - IDCW Reinv.",
+      "Direct - IDCW Payout"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The primary objective of the Scheme is to generate return through investments in sovereign securities issued by the CentralGovernment and / or a State Government and / or any security unconditionally guaranteed by the central Government and / orState Government for repayment of Principal and Interest.",
+    "asset_allocation": "Securities issued by the Central/State Government and/or securities unconditionally guaranteed by the Central/State : 80% -100% Debt & Money Market Instruments : 0-20%",
+    "benchmark": "NIFTY All Duration G-Sec Index",
+    "fund_managers": "Anuj Tagra, Rahul Goswami",
+    "annual_expense": {
+      "Regular": "1.21",
+      "Direct": "0.62"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "100493",
+      "118497",
+      "100494",
+      "118498",
+      null,
+      null
+    ],
+    "isins": [
+      "INF090I01CU9",
+      "INF090I01HR4",
+      "INF090I01CS3",
+      "INF090I01HS2",
+      "INF090I01CT1",
+      "INF090I01HQ6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - Growth",
+    "Direct - IDCW Reinv.",
+    "Regular - IDCW Payout",
+    "Direct - Growth",
+    "Regular - IDCW Reinv.",
+    "Direct - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T03:31:22.461672+00:00"
+}

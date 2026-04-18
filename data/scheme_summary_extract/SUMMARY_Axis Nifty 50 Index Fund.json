@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis Nifty 50 Index Fund",
+  "source_file": "SUMMARY_Axis Nifty 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Nifty 50 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "isins": [
+      "INF846K013D2",
+      "INF846K014D0",
+      "INF846K016D5",
+      "INF846K017D3",
+      "INF846K015D7",
+      "INF846K018D1"
+    ],
+    "amfi_codes": [
+      "149373",
+      "149374",
+      "149371",
+      "149372"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide returns before expenses that closely corresponds to the total returns of the NIFTY 50 subject to tracking errors.However, there can be no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities covered by Nifty 50 Index - (95%-100%), Debt & Money Market Instruments - (0%-5%)",
+    "benchmark": "Nifty 50 TRI",
+    "fund_managers": "Mr. Karthik Kumar",
+    "annual_expense": {
+      "Regular": "0.42",
+      "Direct": "0.10"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T02:22:53.956096+00:00"
+}

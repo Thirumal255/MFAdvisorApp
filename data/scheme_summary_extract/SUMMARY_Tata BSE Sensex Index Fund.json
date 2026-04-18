@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Tata BSE Sensex Index Fund",
+  "source_file": "SUMMARY_Tata BSE Sensex Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata BSE Sensex Index Fund",
+    "fund_type": "An open ended equity scheme tracking S & P BSE Sensex",
+    "fund_options": [
+      "TATA BSE Sensex Index Fund - Regular Plan",
+      "TATA BSE Sensex Index Fund - Direct Plan"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to reﬂect/mirror the market returns with a minimum tracking error. The schemedoes not assure or guarantee any returns.",
+    "asset_allocation": "Securities Covered by the S&P BSE Sensex 95-100, Money Market Instruments 0-5.",
+    "benchmark": "BSE Sensex TRI",
+    "fund_managers": "1. Nitin Sharma , 2. Rakesh Prajapati",
+    "annual_expense": {
+      "Regular": "0.58",
+      "Direct": "0.30"
+    },
+    "exit_load": "If redeemed between 0 Days to 7 Days; Exit Load is 0.25%",
+    "amfi_codes": [
+      "101746",
+      "119287"
+    ],
+    "isins": [
+      "INF277K01758",
+      "INF277K01PK1"
+    ]
+  },
+  "fund_options_inferred": [
+    "TATA BSE Sensex Index Fund - Regular Plan",
+    "TATA BSE Sensex Index Fund - Direct Plan"
+  ],
+  "extracted_at": "2026-04-18T05:51:22.334173+00:00"
+}

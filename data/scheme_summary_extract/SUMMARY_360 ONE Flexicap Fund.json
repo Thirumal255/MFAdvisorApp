@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "360 ONE Flexicap Fund",
+  "source_file": "SUMMARY_360 ONE Flexicap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "360 ONE Flexicap Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Direct Plan-Growth",
+      "Direct Plan - IDCWPayout",
+      "Direct Plan - IDCW Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate long-term capital appreciation by primarily investing in equity and equityrelated securities across the entire market capitalization range and investing the remaining portion in debt and money marketinstruments",
+    "asset_allocation": "Equity or Equity Related Instruments across market capitalization (including derivatives and covered call) - 65-100% ListedPreference - 0-10% Debt and money market instruments - 0-35% Units issued by InvITs - 0-10%",
+    "benchmark": "BSE 500 TRI",
+    "fund_managers": "Mr. Mayur Patel, Mr. Ashish Ongari",
+    "annual_expense": {
+      "Regular": "1.99",
+      "Direct": "0.48"
+    },
+    "exit_load": "For redemption/switched-out of units before 365 days from the date of allotment - 1% of the applicable NAV Forredemption/switch-out of units on or after 365 days from the date of allotment – NIL",
+    "amfi_codes": [
+      "151799",
+      "151797",
+      "151796",
+      "151798"
+    ],
+    "isins": [
+      "INF579M01AP7",
+      "INF579M01AQ5",
+      "INF579M01AR3",
+      "INF579M01AS1",
+      "INF579M01AT9",
+      "INF579M01AU7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Direct Plan-Growth",
+    "Direct Plan - IDCWPayout",
+    "Direct Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T02:05:13.256667+00:00"
+}

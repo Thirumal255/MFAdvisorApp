@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF",
+  "source_file": "SUMMARY_Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF",
+    "fund_type": "An open-ended fund of fund scheme investing in overseas equity Exchange Traded Funds which are based on companiesinvolved in development of Electric & Autonomous Vehicles and related technology, components and materials.",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Regular Plan Growth"
+    ],
+    "isins": [
+      "INF769K01IQ9",
+      "INF769K01IP1"
+    ],
+    "amfi_codes": [
+      "150595",
+      "150594"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation from a portfolio investing in units ofoverseas equity ETFs which are based on companies involved in development of Electric & Autonomous Vehicles and relatedtechnology, components and materials. There is no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "Units of overseas equity Exchange Traded Funds$ - 95 to 100% Money market instruments including Tri Party REPO/ debtsecurities, Units of debt/liquid schemes of domestic Mutual Funds* - 0 to 5% $ The scheme may invest in multiple ETFs whichare listed in diﬀerent countries and tracks various companies which are involved in development of Electric & AutonomousVehicles and related technology, components and materials across geographies.",
+    "benchmark": "Solactive Autonomous & Electric Vehicles Index (TRI) (INR)",
+    "fund_managers": "Siddharth Srivastava",
+    "annual_expense": {
+      "Regular": "0.51",
+      "Direct": "0.23"
+    },
+    "exit_load": "Entry Load: Nil and Exit Load 1% If redeemed within 1 year (365 Days) from the date of allotment Exit Load: Nil If redeemedafter 365 days from the date of allotment."
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T04:55:18.962262+00:00"
+}

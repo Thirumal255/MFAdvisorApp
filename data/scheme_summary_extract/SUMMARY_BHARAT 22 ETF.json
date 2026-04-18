@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "BHARAT 22 ETF",
+  "source_file": "SUMMARY_BHARAT 22 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "BHARAT 22 ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High\nAs on October 31, 2025",
+    "investment_objective": "The investment objective of the Scheme is to invest in constituents of the underlying Index in the same proportion as in the underlying Index, and endeavor to provide returns before expenses, which closely correspond to the total returns of the underlying Index. However, the performance of the Scheme may differ from that of underlying index due to tracking error. There can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Securities of companies constituting the underlying index$ = 95% - 100% \n• Units of Liquid/Money Market Mutual Fund schemes, Money Market Instruments (with maturity not exceeding 91 days), including TREPS, cash & cash equivalents = 0% - 5%",
+    "benchmark": "BSE Bharat 22 TRI",
+    "fund_managers": [
+      "Nishit Patel",
+      "Ashwini Bharucha",
+      "Ajaykumar Solanki",
+      "Venus Ahuja"
+    ],
+    "annual_expense": {
+      "Direct": "0.07"
+    },
+    "exit_load": null,
+    "amfi_codes": [
+      "141957"
+    ],
+    "isins": [
+      "INF109KB15Y7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T03:02:52.775901+00:00"
+}

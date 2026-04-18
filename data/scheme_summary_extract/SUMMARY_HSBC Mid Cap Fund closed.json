@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "HSBC Mid Cap Fund",
+  "source_file": "SUMMARY_HSBC Mid Cap Fund closed.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Mid Cap Fund",
+    "fund_type": "An open ended equity scheme predominantly investing in mid cap stocks",
+    "fund_options": [
+      "HSBC Mid Cap Fund-Direct Plan -IDCW Payout",
+      "HSBC Mid Cap Fund-Direct Plan -IDCW Reinvestment",
+      "HSBC Mid Cap Fund-Direct Plan-Growth",
+      "HSBC Mid Cap Fund-Regular Plan-Growth",
+      "HSBC Mid Cap Fund-Regular Plan-IDCW Payout",
+      "HSBC Mid Cap Fund-Regular Plan-IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF917K01FX6",
+      "INF917K01FZ1",
+      "INF917K01254",
+      "INF917K01239",
+      "INF917K01247"
+    ],
+    "amfi_codes": [
+      "151036",
+      "151035",
+      "151034",
+      "151033"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme to generate long-term capital growth from an actively managed portfolio of equity and equity related securities of predominantly mid cap companies. However, there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Equity and Equity related securities midcap companies 65% -100% Equity and Equity related Instruments of companies other than midcap companies 0% -35% Debt securities & Money Market instruments (including cash & cash equivalents) 0% -35% Units issued by REITs / InvITs 0%-10%",
+    "benchmark": "NIFTY Midcap 150 TRI",
+    "fund_managers": "Vihang Naik, Cheenu Gupta Sonal Gupta",
+    "annual_expense": {
+      "Regular": "2.2700",
+      "Direct": "0.8300"
+    },
+    "exit_load": "If the units redeemed or switched out are upto 10% of the units purchased or switched in (“the limit”) within 1 year from the date of allotment – Nil. If units redeemed or switched out are over and above the limit within 1 year from the date of allotment – 1%. If units are redeemed or switched out on or after 1 year from the date of allotment – Nil."
+  },
+  "fund_options_inferred": [
+    "HSBC Mid Cap Fund-Direct Plan -IDCW Payout",
+    "HSBC Mid Cap Fund-Direct Plan -IDCW Reinvestment",
+    "HSBC Mid Cap Fund-Direct Plan-Growth",
+    "HSBC Mid Cap Fund-Regular Plan-Growth",
+    "HSBC Mid Cap Fund-Regular Plan-IDCW Payout",
+    "HSBC Mid Cap Fund-Regular Plan-IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T03:58:34.606156+00:00"
+}

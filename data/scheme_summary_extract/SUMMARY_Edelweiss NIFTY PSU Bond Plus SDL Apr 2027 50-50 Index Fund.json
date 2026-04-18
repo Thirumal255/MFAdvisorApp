@@ -1,0 +1,62 @@
+{
+  "parent_scheme_name": "Edelweiss NIFTY PSU Bond Plus SDL Apr 2027 50:50 Index Fund",
+  "source_file": "SUMMARY_Edelweiss NIFTY PSU Bond Plus SDL Apr 2027 50-50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Edelweiss NIFTY PSU Bond Plus SDL Apr 2027 50:50 Index Fund",
+    "fund_type": "Index Fund",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan  - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
+      "Direct Plan - IDCW Transfer",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Regular Plan - IDCW Transfer"
+    ],
+    "riskometer": "Moderate Risk",
+    "investment_objective": "The investment objective of the scheme is to track the Nifty PSU Bond Plus SDL Apr 2027 50:50 Index by investing in AAA rated PSU Bonds and SDLs, maturing on or before April 2027, subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "1. Bonds issued by PSUs forming part of the bonds portion of Nifty PSU Bond Plus SDL Apr 2027 50:50 Index - 95-100%\n2.  State Development Loans (SDLs) forming part of the SDL portion of Nifty PSU Bond Plus SDL Apr 2027 50:50 Index - 95-100%\n3. Money Market Instruments including cash and cash equivalents - 0-5%",
+    "benchmark": "Nifty PSU Bond Plus SDL Apr 2027 50:50 Index",
+    "fund_managers": [
+      "Mr. Dhawal Dalal"
+    ],
+    "annual_expense": {
+      "Regular": "0.34",
+      "Direct": "0.16"
+    },
+    "exit_load": "0.15 upto 30 days\nNil after 30 days",
+    "amfi_codes": [
+      "149247",
+      "149246",
+      "149246",
+      "149246",
+      "149249",
+      "149248",
+      "149248",
+      "149248"
+    ],
+    "isins": [
+      "INF754K01MT7",
+      "INF754K01MU5",
+      "INF754K01MV3",
+      "INF754K01MW1",
+      "INF754K01MP5",
+      "INF754K01MQ3",
+      "INF754K01MR1",
+      "INF754K01MS9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan  - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
+    "Direct Plan - IDCW Transfer",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Regular Plan - IDCW Transfer"
+  ],
+  "extracted_at": "2026-04-18T03:27:03.185058+00:00"
+}

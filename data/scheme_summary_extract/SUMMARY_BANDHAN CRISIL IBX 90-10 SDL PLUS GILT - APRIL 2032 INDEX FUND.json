@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bandhan CRISIL IBX 90:10 SDL Plus Gilt April 2032 Index Fund",
+  "source_file": "SUMMARY_BANDHAN CRISIL IBX 90-10 SDL PLUS GILT - APRIL 2032 INDEX FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan CRISIL IBX 90:10 SDL Plus Gilt April 2032 Index Fund",
+    "fund_type": "An open-ended Target Maturity Index Fund investing in constituents of CRISIL IBX 90:10 SDL plus Gilt Index – April 2032",
+    "fund_options": [
+      "Bandhan CRISIL IBX 90:10 SDL Plus Apr 2032 GIF Reg-Growth",
+      "Bandhan CRISIL IBX 90:10 SDL Plus Apr 2032 GIF Reg-IDCW",
+      "Bandhan CRISIL IBX 90:10 SDL Plus Apr 2032 GIF Reg -IDCW (Re-inv)",
+      "Bandhan CRISIL IBX 90:10 SDL Plus Apr 2032 GIF Dir-Growth",
+      "Bandhan CRISIL IBX 90:10 SDL Plus Apr 2032 GIF Dir-IDCW",
+      "Bandhan CRISIL IBX 90:10 SDL Plus Apr 2032 GIF Dir-IDCW(Re-inv)"
+    ],
+    "isins": [
+      "INF194KB1EQ5",
+      "INF194KB1ER3",
+      "INF194KB1ES1",
+      "INF194KB1EN2",
+      "INF194KB1EO0",
+      "INF194KB1EP7"
+    ],
+    "amfi_codes": [
+      "150873",
+      "150874",
+      "150874R",
+      "150871",
+      "150872",
+      "150872R"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns corresponding to the total returns of the securities as represented by the CRISIL IBX 90:10 SDL plus Gilt Index – April 2032 before expenses, subject to tracking errors.",
+    "asset_allocation": "Securities belonging to the SDL portion of CRISIL IBX 90:10 SDL plus Gilt Index – April 2032 - 95%-100%, Cash & Money Market instruments - 0%- 5%",
+    "benchmark": "CRISIL IBX 90:10 SDL plus Gilt Index – April 2032",
+    "fund_managers": "Mr. Gautam Kaul Mr. Harshal Joshi",
+    "annual_expense": {
+      "Regular": "0.28",
+      "Direct": "0.10"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Bandhan CRISIL IBX 90:10 SDL Plus Apr 2032 GIF Reg-Growth",
+    "Bandhan CRISIL IBX 90:10 SDL Plus Apr 2032 GIF Reg-IDCW",
+    "Bandhan CRISIL IBX 90:10 SDL Plus Apr 2032 GIF Reg -IDCW (Re-inv)",
+    "Bandhan CRISIL IBX 90:10 SDL Plus Apr 2032 GIF Dir-Growth",
+    "Bandhan CRISIL IBX 90:10 SDL Plus Apr 2032 GIF Dir-IDCW",
+    "Bandhan CRISIL IBX 90:10 SDL Plus Apr 2032 GIF Dir-IDCW(Re-inv)"
+  ],
+  "extracted_at": "2026-04-18T02:47:19.468634+00:00"
+}

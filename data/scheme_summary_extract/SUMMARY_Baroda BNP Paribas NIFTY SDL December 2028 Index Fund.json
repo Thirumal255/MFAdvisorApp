@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Baroda BNP Paribas NIFTY SDL December 2028 Index Fund",
+  "source_file": "SUMMARY_Baroda BNP Paribas NIFTY SDL December 2028 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Baroda BNP Paribas NIFTY SDL December 2028 Index Fund",
+    "fund_type": "An open-ended Target Maturity Index Fund replicating / tracking the NIFTY SDL December 2028 Index. A Relatively HighInterest Rate Risk and Relatively Low Credit Risk.",
+    "fund_options": [
+      "Regular PLAN - GROWTH",
+      "Regular PLAN - IDCW Payout",
+      "Direct PLAN - GROWTH",
+      "Direct PLAN - IDCW Payout"
+    ],
+    "isins": [
+      "INF251K01RO4",
+      "INF251K01RP1",
+      "INF251K01RR7",
+      "INF251K01RS5"
+    ],
+    "amfi_codes": [
+      "151576",
+      "151573",
+      "151574",
+      "151575"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns closely corresponding to the total returns of the securities as represented by the Nifty SDL December 2028 Index before expenses, subject to tracking errors, fees and expenses. However, there is no assurance that the objective of the Scheme will be realised and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Debt Instruments comprising of Nifty SDL December 2028 Index: 95 - 100% Cash & Money Market Instruments and units of liquid and debt mutual fund schemes: 0 - 5%",
+    "benchmark": "Nifty SDL December 2028 index",
+    "fund_managers": "Mr. Gurvinder Singh Wasan and Mr. Vikram Pamnani",
+    "annual_expense": {
+      "Regular": "0.4900",
+      "Direct": "0.1900"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular PLAN - GROWTH",
+    "Regular PLAN - IDCW Payout",
+    "Direct PLAN - GROWTH",
+    "Direct PLAN - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T03:02:01.176350+00:00"
+}

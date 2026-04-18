@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Invesco India Focused Fund",
+  "source_file": "SUMMARY_Invesco India Focused Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India Focused Fund",
+    "fund_type": "An open ended equity scheme investing in maximum 20 stocks across market capitalization (i.e. Multicap)",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW Payout",
+      "Regular Plan - IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate capital appreciation by investing in upto 20 stocks across market capitalization. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Equity and Equity Related Instruments: Min. 65% Max. 100% Debt and Money Market Instruments: Min.0% Max. 35% Units issued by REITs and InvITs: Min.0% Max. 10%",
+    "benchmark": "BSE 500 TRI",
+    "fund_managers": "Mr. Taher Badshah, Mr. Hiten Jain",
+    "annual_expense": {
+      "Regular": "2.0700",
+      "Direct": "0.6900"
+    },
+    "exit_load": "If upto 10% of Units allotted are redeemed / switched-out within 1 year from the date of allotment - Nil . For any redemption /switchout in excess of 10% of units allotted within one year from the date of allotment - 1%. If units are redeemed or switched-out after 1 year from the date of allotment - Nil .",
+    "amfi_codes": [
+      "148483",
+      "148484",
+      "148484",
+      "148481",
+      "148482",
+      "148482"
+    ],
+    "isins": [
+      "INF205KA1189",
+      "INF205KA1171",
+      "INF205KA1197",
+      "INF205KA1213",
+      "INF205KA1205",
+      "INF205KA1221"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW Payout",
+    "Regular Plan - IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T04:22:13.016053+00:00"
+}

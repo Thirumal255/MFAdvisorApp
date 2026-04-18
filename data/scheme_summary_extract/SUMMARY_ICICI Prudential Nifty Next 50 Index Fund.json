@@ -1,0 +1,49 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty Next 50 Index Fund",
+  "source_file": "SUMMARY_ICICI Prudential Nifty Next 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty Next 50 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Growth",
+      "IDCW"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The investment objective of the Scheme is to invest in companies whose securities are included in Nifty Next 50 Index (the Index) and to endeavor to achieve the returns of the above index as closely as possible, though subject to tracking error. The Scheme will not seek to outperform the Nifty Next 50. The objective is that the performance of the NAV of the Scheme should closely track the performance of the Nifty Next 50 over the same period subject to tracking error. However, there is no assurance that the investment objective of the Scheme  will be realized.",
+    "asset_allocation": "• Equity & Equity related securities of companies constituting the Nifty Next 50 and exchange traded derivatives on the Nifty Next 50 Index $  95% - 100%  \n• Debt & Money Market Instruments (Including Securitised debt*) 0% - 5%",
+    "benchmark": "Nifty Next 50 TRI",
+    "fund_managers": [
+      "Ajaykumar Solanki",
+      "Nishit Patel",
+      "Ashwini Bharucha",
+      "Venus Ahuja"
+    ],
+    "annual_expense": {
+      "Regular": "0.68",
+      "Direct": "0.31"
+    },
+    "exit_load": "NA",
+    "amfi_codes": [
+      "120684",
+      "120683",
+      "112957",
+      "112958"
+    ],
+    "isins": [
+      "INF109K01Y80",
+      "INF109K01Y64",
+      "INF109K01IF1",
+      "INF109K01PR1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Growth",
+    "IDCW"
+  ],
+  "extracted_at": "2026-04-18T04:13:23.974702+00:00"
+}

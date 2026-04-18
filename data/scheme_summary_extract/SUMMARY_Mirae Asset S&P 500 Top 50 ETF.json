@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "MIRAE ASSET S&P 500 TOP 50 ETF",
+  "source_file": "SUMMARY_Mirae Asset S&P 500 Top 50 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "MIRAE ASSET S&P 500 TOP 50 ETF",
+    "fund_type": "Exchange Traded Fund (ETF) - An open-ended scheme replicating/tracking S&P 500 Top 50 Total Return Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate returns, before expenses, that are commensurate with theperformance of the S&P 500 Top 50 Total Return Index, subject to tracking error and forex movement. The Scheme doesnot guarantee or assure any returns.",
+    "asset_allocation": "Securities included in the S&P 500 Top 50 Index - 95% to 100% (High) Money market instruments / debt securities,Instruments and/or units of debt/liquid schemes of domestic Mutual Funds - 0% to 5% (Low to Medium)",
+    "benchmark": "S&P 500 TOP 50 (TRI) (INR)",
+    "fund_managers": "Mr. Siddharth Srivastava",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "149169"
+    ],
+    "isins": [
+      "INF769K01HP3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T05:02:45.581329+00:00"
+}

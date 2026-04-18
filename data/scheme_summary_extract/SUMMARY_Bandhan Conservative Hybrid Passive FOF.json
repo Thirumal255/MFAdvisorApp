@@ -1,0 +1,48 @@
+{
+  "parent_scheme_name": "Bandhan Conservative Hybrid Passive FOF",
+  "source_file": "SUMMARY_Bandhan Conservative Hybrid Passive FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Conservative Hybrid Passive FOF",
+    "fund_type": "An open-ended fund of funds scheme of Bandhan Mutual Fund investing in equity and debt passive schemes",
+    "fund_options": [
+      "DIRECT PLAN - IDCW Payout",
+      "DIRECT PLAN - Growth",
+      "REGULAR PLAN - IDCW Reinvestment",
+      "REGULAR PLAN - Growth",
+      "REGULAR PLAN - IDCW Payout"
+    ],
+    "isins": [
+      "INF194K017A7",
+      "INF194K016A9",
+      "INF194K01AA1",
+      "INF194K01987",
+      "INF194K01995"
+    ],
+    "amfi_codes": [
+      "118487",
+      "118486",
+      "238R",
+      "237",
+      "238"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The investment objective of the scheme is to provide diversiﬁcation across asset classes and generate a mix of capitalappreciation and income predominantly through investment in equity passive funds and debt passive funds of BandhanMutual Fund based on a deﬁned asset allocation model. Disclaimer: However, there can be no assurance that the investmentobjective of the scheme will be realized.",
+    "asset_allocation": "Investment in the underlying mutual fund/s, where in: 95%-100% - Passive Equity-Oriented Schemes10% - 25% - Passive Debt-Oriented Schemes Debt and Money Market Securities 0% - 5%",
+    "benchmark": "CRISIL Hybrid 85+15 Conservative Index",
+    "fund_managers": "Mr. Viraj Kulkarni",
+    "annual_expense": {
+      "Regular": "0.30",
+      "Direct": "0.10"
+    },
+    "exit_load": "Entry Load: Nil. Exit Load (w.e.f 08-May-2020) If redeemed / Switched Out within 365 days from the date of allotment - Up to10% of Investment Nil & For remaining Investment: 1.00%. If redeemed / switched out after 365 days from the date ofallotment: Nil"
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN - IDCW Payout",
+    "DIRECT PLAN - Growth",
+    "REGULAR PLAN - IDCW Reinvestment",
+    "REGULAR PLAN - Growth",
+    "REGULAR PLAN - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T02:27:46.678468+00:00"
+}

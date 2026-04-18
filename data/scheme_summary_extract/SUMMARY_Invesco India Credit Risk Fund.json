@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "Invesco India Credit Risk Fund",
+  "source_file": "SUMMARY_Invesco India Credit Risk Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India Credit Risk Fund",
+    "fund_type": "An open ended debt scheme predominantly investing in AA and below rated corporate bonds (excluding AA+ rated corporate bonds). A relatively high interest rate risk and moderate credit risk",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - Discretionary IDCW Payout",
+      "Regular Plan - Discretionary IDCW Reinvestment",
+      "Regular Plan - Monthly IDCW Payout",
+      "Regular Plan - Monthly IDCW Reinvestment",
+      "Direct Plan - Growth",
+      "Direct Plan - Discretionary IDCW Payout",
+      "Direct Plan - Discretionary IDCW Reinvestment",
+      "Direct Plan - Monthly IDCW Payout",
+      "Direct Plan - Monthly IDCW Reinvestment"
+    ],
+    "isins": [
+      "INF205K01I34",
+      "INF205K01I59",
+      "INF205K01I75",
+      "INF205K01I42",
+      "INF205K01I67",
+      "INF205K01I83",
+      "INF205K01J09",
+      "INF205K01J25",
+      "INF205K01I91",
+      "INF205K01J17"
+    ],
+    "amfi_codes": [
+      "130721",
+      "130726",
+      "130726",
+      "130723",
+      "130723",
+      "130722",
+      "130725",
+      "130725",
+      "130724",
+      "130724"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate accrual income and capital appreciation by investing in debt securities of varying maturities across the credit spectrum. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Corporate debts: Min 80% Max 100% Debt and Money Market Instruments: Min.0% Max. 35%",
+    "benchmark": "Nifty Credit Risk Bond Index B-II",
+    "fund_managers": "Vikas Garg, Krishna Cheemalapati",
+    "annual_expense": {
+      "Regular": "1.50",
+      "Direct": "0.28"
+    },
+    "exit_load": "If units are redeemed/ switched-out on or before 1 year from the date of allotment - 1%. If units are redeemed / switched-out after 1 year from the date of allotment - Nil."
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - Discretionary IDCW Payout",
+    "Regular Plan - Discretionary IDCW Reinvestment",
+    "Regular Plan - Monthly IDCW Payout",
+    "Regular Plan - Monthly IDCW Reinvestment",
+    "Direct Plan - Growth",
+    "Direct Plan - Discretionary IDCW Payout",
+    "Direct Plan - Discretionary IDCW Reinvestment",
+    "Direct Plan - Monthly IDCW Payout",
+    "Direct Plan - Monthly IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T04:21:21.382265+00:00"
+}

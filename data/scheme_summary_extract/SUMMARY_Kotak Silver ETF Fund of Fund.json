@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Kotak Silver ETF Fund of Fund",
+  "source_file": "SUMMARY_Kotak Silver ETF Fund of Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Silver ETF Fund of Fund",
+    "fund_type": "An open ended Fund of Fund scheme investing in units of Kotak Silver ETF",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Direct Plan - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate returns by investing in units of Kotak Silver ETF. However, there can be no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "Units of Kotak Silver ETF - 95 -100% - Very High Debt & Money Market Instruments including 0-5% -Low to Moderate",
+    "benchmark": "Price of silver (based on LBMA daily spot ﬁxing price)",
+    "fund_managers": "Mr. Abhishek Bisen and Mr. Jeetu Valechha Sonar",
+    "annual_expense": {
+      "Regular": "0.60",
+      "Direct": "0.14"
+    },
+    "exit_load": "For redemption/switch- out of units on or before 30 days from the date of allotment: 0.5% of applicable NAV. For redemption/switch- out of units after 30 days from the date of allotment: NIL",
+    "amfi_codes": [
+      "151602",
+      "151603"
+    ],
+    "isins": [
+      "INF174KA1MR1",
+      "INF174KA1MQ3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T04:42:06.816469+00:00"
+}

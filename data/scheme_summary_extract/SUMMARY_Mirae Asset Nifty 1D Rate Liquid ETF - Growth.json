@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Mirae Asset Nifty 1D Rate Liquid ETF – Growth",
+  "source_file": "SUMMARY_Mirae Asset Nifty 1D Rate Liquid ETF - Growth.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Nifty 1D Rate Liquid ETF – Growth",
+    "fund_type": "An open-ended listed liquid scheme in the form of an Exchange Traded Fund tracking Nifty 1D Rate Index, with growthoption. A relatively low interest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective is to seek to provide current income, commensurate with low risk while providing a high level ofliquidity through a portfolio of Tri-Party Repo on Government Securities or T-bills / Repo & Reverse Repo. The Schemeendeavors to provide returns that before expenses, closely correspond to the returns of Nifty 1D Rate Index subject totracking errors.",
+    "asset_allocation": "Securities included in the Nifty 1D Rate Index - 95 to 100% ; MUnits of Liquid schemes, Money Market Instruments (withmaturity not exceeding 91 days), cash & cash equivalent- 0 to 5 %",
+    "benchmark": "Nifty 1D Rate Index",
+    "fund_managers": "Mr. Krishnpal Yadav",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "140513"
+    ],
+    "isins": [
+      "INF769K01MY5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:59:34.360791+00:00"
+}

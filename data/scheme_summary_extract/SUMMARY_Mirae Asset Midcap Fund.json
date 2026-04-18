@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "Mirae Asset Midcap Fund",
+  "source_file": "SUMMARY_Mirae Asset Midcap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Midcap Fund",
+    "fund_type": "Midcap Fund - An open ended equity scheme predominantly investing in mid cap stocks",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular PlanIDCW - Payout",
+      "Regular PlanIDCW -Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation from a portfolio investing predominantly inIndian equity and equity related securities of midcap companies.From time to time, the fund manager may also participate inother Indian equities and equity related securities for optimal portfolio construction. There is no assurance that the investmentobjective of the Scheme will be realized.",
+    "asset_allocation": "Equities and equity related securities* of midcap companies - 65% to 100% (High) Equities and equity related securities otherthan above - 0% to 35% (High) Money market instruments / debt securities, Instruments and/or units of debt/liquid schemes ofdomestic Mutual Funds - 0% to 35% (Low to Medium) / Units issued by REITs and InvITs - 0% to 10%",
+    "benchmark": "Nifty Midcap 150 (TRI)",
+    "fund_managers": "Mr. Ankit Jain",
+    "annual_expense": {
+      "Regular": "1.66",
+      "Direct": "0.58"
+    },
+    "exit_load": "I.For investors who have optedfor SWP under the plan: a)15% of the units allotted(including Switch-in/STP - in)on or beforecompletion of 365days from the date of allotmentof units: Nil. b)Any redemption in excess ofsuch limits in the ﬁrst 365daysfrom the date of allotment shallbe subject to the following exitload: (Redemption of unitswould be done on First In FirstOutBasis (FIFO): -If redeemed within 1 year (365days) from the date of allotment:1% -If redeemed after 1 year (365days) from thedate of allotment:NIL II.Other Redemptions: ForInvestors who have not opted forSWP under the plan (includingSwitch out, STPout): -If redeemed within 1 year (365days) from the date of allotment:1% -If redeemed after 1 year (365days) from the date ofallotment:NIL",
+    "amfi_codes": [
+      "147445",
+      "147478",
+      "147479",
+      "147480"
+    ],
+    "isins": [
+      "INF769K01EX4",
+      "INF769K01EY2",
+      "INF769K01EZ9",
+      "INF769K01FA9",
+      "INF769K01FB7",
+      "INF769K01FC5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular PlanIDCW - Payout",
+    "Regular PlanIDCW -Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T04:58:12.258449+00:00"
+}

@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "ICICI Prudential Corporate Bond Fund",
+  "source_file": "SUMMARY_ICICI Prudential Corporate Bond Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Corporate Bond Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW - Monthly",
+      "Direct Plan - IDCW - Quarterly",
+      "Growth",
+      "IDCW - Monthly",
+      "IDCW - Quarterly"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "To generate income through investing predominantly in AA+ and above rated corporate bonds while maintaining the optimum balance of yield, safety and liquidity. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "Debt & money market instruments = 0% -100%",
+    "benchmark": "NIFTY Corporate Bond Index",
+    "fund_managers": [
+      "Manish Banthia",
+      "Ritesh Lunawat"
+    ],
+    "annual_expense": {
+      "Regular": "0.55",
+      "Direct": "0.32"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "120692",
+      "120697",
+      "120694",
+      "111987",
+      "111991",
+      "111992"
+    ],
+    "isins": [
+      "INF109K016B1",
+      "INF109K017B9",
+      "INF109K019B5",
+      "INF109K01CQ1",
+      "INF109K01SK0",
+      "INF109K01SN4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW - Monthly",
+    "Direct Plan - IDCW - Quarterly",
+    "Growth",
+    "IDCW - Monthly",
+    "IDCW - Quarterly"
+  ],
+  "extracted_at": "2026-04-18T04:02:52.928636+00:00"
+}

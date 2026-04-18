@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Kotak Gold Silver Passive FOF",
+  "source_file": "SUMMARY_Kotak Gold Silver Passive FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Gold Silver Passive FOF",
+    "fund_type": "An open-ended fund of fund scheme investing in units of Kotak Gold ETF and Kotak Silver ETF.",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Direct Plan - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long-term capital appreciation from a portfolio created by investing in units of Kotak Gold ETF & Kotak Silver ETF However, there is no assurance that the investment objective of the scheme will be realized.",
+    "asset_allocation": "Units of Kotak Gold ETF and Kotak Silver ETF - 95% - 100% Money Market Instrumentsand Units of debt-oriented schemes - 0% - 5%",
+    "benchmark": "The scheme would be benchmarked against Domestic Price of Gold and Silver.",
+    "fund_managers": "Mr. Rohit Tandon & Mr. Abhishek Bisen",
+    "annual_expense": {
+      "Regular": "0.45",
+      "Direct": "0.16"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "153922",
+      "153921"
+    ],
+    "isins": [
+      "INF174KA1XU2",
+      "INF174KA1XT4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T04:35:17.407004+00:00"
+}

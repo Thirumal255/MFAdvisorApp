@@ -1,0 +1,64 @@
+{
+  "parent_scheme_name": "Tata Treasury Advantage Fund",
+  "source_file": "SUMMARY_Tata Treasury Advantage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Treasury Advantage Fund",
+    "fund_type": "An open ended low duration debt scheme investing in instruments such that the Macaulay duration of portfolio is between 6months and 12 months. (Refer page 15 of the SID).A Moderate Interest Rate Risk and Moderate Credit Risk.",
+    "fund_options": [
+      "Tata Treasury Advantage Fund Regular Plan - Daily IDCW",
+      "Tata Treasury Advantage Fund Direct Plan - Daily IDCW",
+      "Tata TreasuryAdvantage Fund Regular Plan - Growth",
+      "Tata Treasury Advantage Fund Direct Plan - Growth",
+      "Tata Treasury Advantage Fund RegularPlan - IDCW Periodic",
+      "Tata Treasury Advantage Fund Direct Plan - IDCW Periodic",
+      "Tata Treasury Advantage Fund Regular Plan - IDCWWeekly",
+      "Tata Treasury Advantage Fund Direct Plan - IDCW Weekly"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the scheme is to generate regular income & capital appreciation by investing in a portfolio of debt &money market instruments with relatively lower interest rate risk. However, there is no assurance or guarantee that theinvestment objective of the Scheme will be achieved. The Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Debt and Money Market Instruments 0-100.",
+    "benchmark": "CRISIL Low Duration Debt A-I Index",
+    "fund_managers": "FM-1 Akhil Mittal",
+    "annual_expense": {
+      "Regular": "0.57",
+      "Direct": "0.24"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "002031",
+      "100011",
+      "103158",
+      "103159",
+      "103160",
+      "115464",
+      "119863",
+      "119864",
+      "119957",
+      "200512",
+      "200513",
+      "200514"
+    ],
+    "isins": [
+      "INF277K01LZ8",
+      "INF277K018B3",
+      "INF277K01MA9",
+      "INF277K01OK4",
+      "INF277K01ME1",
+      "INF277K01OM0",
+      "INF277K01MB7",
+      "INF277K010C8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Treasury Advantage Fund Regular Plan - Daily IDCW",
+    "Tata Treasury Advantage Fund Direct Plan - Daily IDCW",
+    "Tata TreasuryAdvantage Fund Regular Plan - Growth",
+    "Tata Treasury Advantage Fund Direct Plan - Growth",
+    "Tata Treasury Advantage Fund RegularPlan - IDCW Periodic",
+    "Tata Treasury Advantage Fund Direct Plan - IDCW Periodic",
+    "Tata Treasury Advantage Fund Regular Plan - IDCWWeekly",
+    "Tata Treasury Advantage Fund Direct Plan - IDCW Weekly"
+  ],
+  "extracted_at": "2026-04-18T05:57:30.387398+00:00"
+}

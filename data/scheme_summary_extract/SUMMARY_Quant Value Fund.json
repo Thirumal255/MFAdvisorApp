@@ -1,0 +1,86 @@
+{
+  "parent_scheme_name": "quant Value Fund",
+  "source_file": "SUMMARY_Quant Value Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "quant Value Fund",
+    "fund_type": "An open ended equity scheme investing in a well-diversified portfolio of value stocks.",
+    "fund_options": [
+      "Growth Option - Regular Plan",
+      "Growth Option - Direct Plan",
+      "IDCW Payout Option - Regular Plan",
+      "IDCW Payout Option - Direct Plan",
+      "IDCW Reinvestment - Direct Plan",
+      "IDCW Reinvestment - Regular Plan"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the scheme is to seek to achieve capital appreciation in the long-term by primarily investing in a well-diversified portfolio of value stocks. The AMC will have the discretion to completely or partially invest in any of the type of securities stated above with a view to maximize the returns or on defensive considerations. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and equity related instruments (including units issued by REITs):- 65-100%\nDebt & Money Market instruments:- 0-35%\nUnits issued by InvITs:- 0-10%",
+    "benchmark": "NIFTY 500 TRI",
+    "fund_managers": [
+      {
+        "name": "Sandeep Tandon",
+        "type": "Primary",
+        "from_date": "30-Nov-21"
+      },
+      {
+        "name": "Ankit Pande",
+        "type": "Co manage",
+        "from_date": "30-Nov-21"
+      },
+      {
+        "name": "Varun Pattani",
+        "type": "Co manage",
+        "from_date": "19-Feb-25"
+      },
+      {
+        "name": "Ayusha Kumbhat",
+        "type": "Co manage",
+        "from_date": "3-Feb-25"
+      },
+      {
+        "name": "Yug Tibrewal",
+        "type": "Co manage",
+        "from_date": "6-Mar-25"
+      },
+      {
+        "name": "Sameer Kate",
+        "type": "Co manage",
+        "from_date": "6-Mar-25"
+      },
+      {
+        "name": "Sanjeev Sharma",
+        "type": "Co manage",
+        "from_date": "30-Nov-21"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "2.06",
+      "Direct": "0.56"
+    },
+    "exit_load": "For redemptions / switch outs (including SIP/STP) within 15 days from the date of allotment of units, irrespective of the amount of investment: 1%\nNo exit load shall be applicable on switches from Regular Plan to Direct Plan and vice versa, under the same scheme.",
+    "amfi_codes": [
+      "149337",
+      "149335",
+      "149336",
+      "149338"
+    ],
+    "isins": [
+      "INF966L01AQ6",
+      "INF966L01AN3",
+      "INF966L01AR4",
+      "INF966L01AO1",
+      "INF966L01AP8",
+      "INF966L01AS2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth Option - Regular Plan",
+    "Growth Option - Direct Plan",
+    "IDCW Payout Option - Regular Plan",
+    "IDCW Payout Option - Direct Plan",
+    "IDCW Reinvestment - Direct Plan",
+    "IDCW Reinvestment - Regular Plan"
+  ],
+  "extracted_at": "2026-04-18T05:31:19.975184+00:00"
+}

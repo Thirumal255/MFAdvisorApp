@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "NIPPON INDIA GOLD SAVINGS FUND",
+  "source_file": "SUMMARY_Nippon India Gold Savings Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "NIPPON INDIA GOLD SAVINGS FUND",
+    "fund_type": "An Open Ended Fund of Fund Scheme",
+    "fund_options": [
+      "Direct Plan IDCW Plan Payout",
+      "Direct Plan IDCW Plan Reinvestment",
+      "Direct Growth Plan Growth Option Growth",
+      "IDCW PlanPayout",
+      "IDCW Plan Reinvestment",
+      "Growth Plan Growth Option Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to seek to provide returns that closely correspond to returns provided by NipponIndia ETF Gold BeES.",
+    "asset_allocation": "Units of Nippon India ETF Gold BeES 95-100% Reverse repo and /or Tri-Party Repo on Government Securities or T-bills and/orshort-term ﬁxed deposits and/or Schemes which invest predominantly in the money market securities or Liquid Schemes* 0-5% *The Fund Manager may invest in Liquid Schemes of Nippon India Mutual Fund. However, the Fund Manager may invest inany other scheme of a mutual fund registered with SEBI, which invest predominantly in the money market securities.",
+    "benchmark": "Domestic Price of Gold",
+    "fund_managers": "FM 1 - Himanshu Mange",
+    "annual_expense": {
+      "Regular": "0.35",
+      "Direct": "0.13"
+    },
+    "exit_load": "1% - If redeemed or switched out on or before completion of 15 days from the date of allotment of units, Nil - If redeemed orswitched out after the completion of 15 days from the date of allotment of units w.e.f October 01, 2012, exit load if charged tothe scheme shall be credited to the scheme immediately net of service tax, if any.",
+    "amfi_codes": [
+      "118662",
+      "118662",
+      "118663",
+      "114617",
+      "114617",
+      "114616"
+    ],
+    "isins": [
+      "INF204K01YD2",
+      "INF204K01YE0",
+      "INF204K01YC4",
+      "INF204K01KO8",
+      "INF204K01KP5",
+      "INF204K01KN0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan IDCW Plan Payout",
+    "Direct Plan IDCW Plan Reinvestment",
+    "Direct Growth Plan Growth Option Growth",
+    "IDCW PlanPayout",
+    "IDCW Plan Reinvestment",
+    "Growth Plan Growth Option Growth"
+  ],
+  "extracted_at": "2026-04-18T05:14:37.123926+00:00"
+}

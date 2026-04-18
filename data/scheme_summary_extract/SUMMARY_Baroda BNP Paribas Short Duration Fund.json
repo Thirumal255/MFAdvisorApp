@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "Baroda BNP Paribas Short Duration Fund",
+  "source_file": "SUMMARY_Baroda BNP Paribas Short Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Baroda BNP Paribas Short Duration Fund",
+    "fund_type": "An open-ended short term debt scheme investing in instruments such that the Macaulay duration of the portfolio is between 1year and 3 years (a Moderate Interest Rate Risk and Moderate Credit Risk scheme).",
+    "fund_options": [
+      "REGULAR PLAN MONTHLY IDCW PAYOUT",
+      "REGULAR PLAN MONTHLY IDCW Reinvestment",
+      "REGULAR PLAN QUARTERLY IDCW PAYOUT",
+      "REGULAR PLAN QUARTERLY IDCW REINVESTMENT",
+      "REGULAR PLAN GROWTH",
+      "REDIRECT PLAN QUARTERLY IDCW REINVESTMENT",
+      "DIRECT PLAN QUARTERLY IDCW PAYOUT",
+      "DIRECT PLAN GROWTH",
+      "DIRECT PLAN MONTHLY IDCW Reinvestment",
+      "DIRECT PLAN MONTHLY IDCW PAYOUT"
+    ],
+    "isins": [
+      "INF955L01138",
+      "INF955L01146",
+      "INF955L01GS2",
+      "INF955L01GT0",
+      "INF955L01153",
+      "INF955L01GV6",
+      "INF955L01GU8",
+      "INF955L01BD5",
+      "INF955L01BC7",
+      "INF955L01BB9"
+    ],
+    "amfi_codes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The primary objective of the Scheme is to generate income and capital gains through investments in a portfolio of debt andmoney market instruments.",
+    "asset_allocation": "Debt and Money Market Instruments such that the Macaulay duration of the portfolio is between 1 year and 3 years: Upto100%",
+    "benchmark": "CRISIL Short Duration Debt A-II Index",
+    "fund_managers": "Mr. Gurvinder Singh Wasan and Mr. Vikram Pamnani",
+    "annual_expense": {
+      "Regular": "1.08",
+      "Direct": "0.44"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN MONTHLY IDCW PAYOUT",
+    "REGULAR PLAN MONTHLY IDCW Reinvestment",
+    "REGULAR PLAN QUARTERLY IDCW PAYOUT",
+    "REGULAR PLAN QUARTERLY IDCW REINVESTMENT",
+    "REGULAR PLAN GROWTH",
+    "REDIRECT PLAN QUARTERLY IDCW REINVESTMENT",
+    "DIRECT PLAN QUARTERLY IDCW PAYOUT",
+    "DIRECT PLAN GROWTH",
+    "DIRECT PLAN MONTHLY IDCW Reinvestment",
+    "DIRECT PLAN MONTHLY IDCW PAYOUT"
+  ],
+  "extracted_at": "2026-04-18T03:02:27.126672+00:00"
+}

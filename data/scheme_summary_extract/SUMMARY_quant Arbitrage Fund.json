@@ -1,0 +1,54 @@
+{
+  "parent_scheme_name": "quant Arbitrage Fund",
+  "source_file": "SUMMARY_quant Arbitrage Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "quant Arbitrage Fund",
+    "fund_type": "Hybrid",
+    "fund_options": [
+      "Growth Option - Regualr Plan",
+      "Growth Option - Direct Plan",
+      "IDCW Payout Option - Regular Plan",
+      "IDCW Payout Option - Direct Plan",
+      "IDCW Re-investment Option - Regular Plan",
+      "IDCW Re-investment Option - Direct Plan"
+    ],
+    "isins": [
+      "INF966L01DZ1",
+      "INF966L01DW8",
+      "INF966L01EA2",
+      "INF966L01DX6",
+      "INF966L01EB0",
+      "INF966L01DY4"
+    ],
+    "amfi_codes": [
+      "153428",
+      "153426",
+      "153429",
+      "153427"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the scheme is to generate capital appreciation and \nincome by predominantly investing in arbitrage opportunities in the cash and the \nderivative segments of the equity markets and the arbitrage opportunities available \nwithin the derivative segment and by investing the balance in debt and money market \ninstruments. There is no assurance that the investment objective of the scheme will \nbe achieved.",
+    "asset_allocation": "Equity & Equity related instruments including derivatives (index futures, stock futures, \nindex options and stock options, etc) :- 65-100%\nDebt (including securitised debt) & Money Market instruments including the margin \nmoney deployed in derivative transactions*:- 0-35%\nUnits issued by REITs and InvITs:- 0-10%\n*Debt securities / instruments are deemed to include securitized debt and investment \nin securitized debt will not exceed 50% of the debt portion of the scheme in \naccordance with clause 1 of Seventh Schedule of SEBI (Mutual Funds) Regulations, \n1996.",
+    "benchmark": "Nifty 50 Arbitrage TRI",
+    "fund_managers": [
+      "Mr. Sameer Kate",
+      "Mr. Yug Tibrewal",
+      "Mr. Sanjeev Sharma"
+    ],
+    "annual_expense": {
+      "Regular": "0.9",
+      "Direct": "0.26"
+    },
+    "exit_load": "0.25% if redeemed/switched out on or before completion of 1 month from the date of \nallotment of units. No Exit Load is payable if Units are redeemed / switched-out after \n1 month from the date of allotment.\nNo exit load shall be applicable on switches from Regular Plan to Direct Plan and vice \nversa, under the same scheme."
+  },
+  "fund_options_inferred": [
+    "Growth Option - Regualr Plan",
+    "Growth Option - Direct Plan",
+    "IDCW Payout Option - Regular Plan",
+    "IDCW Payout Option - Direct Plan",
+    "IDCW Re-investment Option - Regular Plan",
+    "IDCW Re-investment Option - Direct Plan"
+  ],
+  "extracted_at": "2026-04-18T05:26:59.647133+00:00"
+}

@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "Invesco India Overnight Fund",
+  "source_file": "SUMMARY_Invesco India Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Invesco India Overnight Fund",
+    "fund_type": "An open ended debt scheme investing in overnight securities. A relatively low interest rate risk and relatively low credit risk",
+    "fund_options": [
+      "Regular Plan - Daily IDCW Reinvestment",
+      "Regular Plan - Weekly IDCW Reinvestment",
+      "Regular Plan - Monthly IDCW Reinvestment",
+      "Regular Plan - Monthly IDCW Payout",
+      "Regular Plan - Growth",
+      "Direct Plan - Daily IDCW Reinvestment",
+      "Direct Plan - Weekly IDCW Reinvestment",
+      "Direct Plan - Monthly IDCW Reinvestment",
+      "Direct Plan - Monthly IDCW Payout",
+      "Direct Plan - Growth"
+    ],
+    "isins": [
+      "INF205KA1072",
+      "INF205KA1080",
+      "INF205KA1098",
+      "INF205KA1106",
+      "INF205KA1114",
+      "INF205KA1122",
+      "INF205KA1130",
+      "INF205KA1148",
+      "INF205KA1155",
+      "INF205KA1163"
+    ],
+    "amfi_codes": [
+      "147880",
+      "147881",
+      "147879",
+      "147879",
+      "147878",
+      "147884",
+      "147885",
+      "147886",
+      "147886",
+      "147883"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "To generate income commensurate with low risk and high liquidity by investing in overnight securities having residual maturity of 1 business day. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Debt and Money Market Instruments with maturity of 1 business day: Min.0% Max. 100%",
+    "benchmark": "NIFTY 1D Rate Index",
+    "fund_managers": "Krishna Cheemalapati",
+    "annual_expense": {
+      "Regular": "0.1200",
+      "Direct": "0.0600"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Daily IDCW Reinvestment",
+    "Regular Plan - Weekly IDCW Reinvestment",
+    "Regular Plan - Monthly IDCW Reinvestment",
+    "Regular Plan - Monthly IDCW Payout",
+    "Regular Plan - Growth",
+    "Direct Plan - Daily IDCW Reinvestment",
+    "Direct Plan - Weekly IDCW Reinvestment",
+    "Direct Plan - Monthly IDCW Reinvestment",
+    "Direct Plan - Monthly IDCW Payout",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T04:24:40.895709+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty FMCG ETF",
+  "source_file": "SUMMARY_ICICI Prudential Nifty FMCG ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty FMCG ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High\nAs on October 31, 2025",
+    "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely \ncorrespond to the total return of the underlying index subject to tracking errors. However, there \ncan be no assurance or guarantee that the investment objective of the Scheme would be \nachieved.",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (Nifty FMCG \nIndex) = 95% - 100%\n• Money Market Instruments including TREPs, Units of debt schemes = 0% - 5%\n• Units of Debt ETFs = 0% - 5%",
+    "benchmark": "Nifty FMCG TRI",
+    "fund_managers": [
+      "Nishit Patel",
+      "Ajaykumar Solanki"
+    ],
+    "annual_expense": {
+      "Direct": "0.20"
+    },
+    "exit_load": null,
+    "amfi_codes": [
+      "149072"
+    ],
+    "isins": [
+      "INF109KC1R48"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:12:12.045714+00:00"
+}

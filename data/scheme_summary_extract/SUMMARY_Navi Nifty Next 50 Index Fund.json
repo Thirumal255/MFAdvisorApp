@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Navi Nifty Next 50 Index Fund",
+  "source_file": "SUMMARY_Navi Nifty Next 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Navi Nifty Next 50 Index Fund",
+    "fund_type": "Equity",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Regular Plan Growth"
+    ],
+    "riskometer": "VERY HIGH RISK",
+    "investment_objective": "To achieve return equivalent to Nifty Next 50 Index by investing in stocks of companies comprising Nifty Next 50 Index, subject to tracking error",
+    "asset_allocation": "Equity & Equity related securities covered by Nifty Next 50– 95 to 100%; Debt & Money Market Instruments– 0 to 5%",
+    "benchmark": "Nifty Next 50 Index TRI",
+    "fund_managers": [
+      "Mr. Aditya Mulki",
+      "Mr. Ashutosh Shirwaikar"
+    ],
+    "annual_expense": {},
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "149448",
+      "149447"
+    ],
+    "isins": [
+      "INF959L01FR8",
+      "INF959L01FS6"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T05:09:38.617430+00:00"
+}

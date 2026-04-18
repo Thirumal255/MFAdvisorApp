@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "TRUSTMF Multi Cap Fund",
+  "source_file": "SUMMARY_TRUSTMF MULTI CAP FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "TRUSTMF Multi Cap Fund",
+    "fund_type": "An open ended equity scheme investing in large cap, mid cap and small cap stocks.",
+    "fund_options": [
+      "TRUSTMF MULTI CAP FUND-DIRECT-GROWTH",
+      "TRUSTMF MULTI CAP FUND-REGULAR-GROWTH"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate long-term capital appreciation by predominantly investing in a diversified portfolio of equity & equity related instruments across large cap, mid cap and small cap stocks. There is no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related instruments including derivatives of Large, Mid & small cap companies - 75 to 100; Debt & Money Market Instruments - 0 to 35; Units issued by REITs & InvITs - 0 to 10",
+    "benchmark": "NIFTY 500 Multi Cap 50:25:25 TRI",
+    "fund_managers": "Mr. Mihir Vora and Mr. Aakash Manghani",
+    "annual_expense": {
+      "Regular": "2.35",
+      "Direct": "0.50"
+    },
+    "exit_load": "1% - If redeemed/switched out within 180 days from the date of allotment. Nil - if redeemed/switched out after 180 days from the date of allotment.",
+    "amfi_codes": [
+      "153644",
+      "153645"
+    ],
+    "isins": [
+      "INF0GCD01834",
+      "INF0GCD01842"
+    ]
+  },
+  "fund_options_inferred": [
+    "TRUSTMF MULTI CAP FUND-DIRECT-GROWTH",
+    "TRUSTMF MULTI CAP FUND-REGULAR-GROWTH"
+  ],
+  "extracted_at": "2026-04-18T05:59:36.358515+00:00"
+}

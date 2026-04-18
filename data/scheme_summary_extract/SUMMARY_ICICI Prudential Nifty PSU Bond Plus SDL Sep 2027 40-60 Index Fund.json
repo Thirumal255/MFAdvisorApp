@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty PSU Bond Plus SDL Sep 2027 40:60 Index Fund",
+  "source_file": "SUMMARY_ICICI Prudential Nifty PSU Bond Plus SDL Sep 2027 40-60 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty PSU Bond Plus SDL Sep 2027 40:60 Index Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - IDCW - Annual",
+      "Direct Plan - Growth",
+      "Regular Plan - IDCW - Annual",
+      "Regular Plan - Growth"
+    ],
+    "isins": [
+      "INF109KC1T46",
+      "INF109KC1S88",
+      "INF109KC1S62",
+      "INF109KC1S13"
+    ],
+    "amfi_codes": [
+      "149227",
+      "149210",
+      "149224",
+      "149208"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to track the Nifty PSU Bond Plus SDL Sep 2027 40:60 Index by investing in AAA rated PSU bonds and SDLs, maturing on or before Sep 2027, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved and the scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Bonds issued by Public Sector Undertakings (PSUs) forming part of the Bonds portion of Nifty PSU Bond Plus SDL Sep 2027 40:60 Index 95% = 100%\nState Development Loans (SDLs) of State Government/UTs forming part of SDL portion of Nifty PSU Bond Plus SDL Sep 2027 40:60 Index 95% = 100%\nMoney Market instruments including cash and cash equivalents (Treasury Bills, Government Securities with residual maturity of upto 1 year and Tri-Party Repos) 0% = 5%\nUnits of Debt schemes including ETFs 0% = 5%",
+    "benchmark": "Nifty PSU Bond Plus SDL Sep 2027 40:60 Index",
+    "fund_managers": [
+      {
+        "name": "Rohit Lakhotia",
+        "type": "Comanage",
+        "from_date": "12-Jun-23"
+      },
+      {
+        "name": "Darshil Dedhia",
+        "type": "Comanage",
+        "from_date": null
+      }
+    ],
+    "annual_expense": {
+      "Regular": "0.38",
+      "Direct": "0.19"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - IDCW - Annual",
+    "Direct Plan - Growth",
+    "Regular Plan - IDCW - Annual",
+    "Regular Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T04:14:01.968897+00:00"
+}

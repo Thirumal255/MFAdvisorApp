@@ -1,0 +1,53 @@
+{
+  "parent_scheme_name": "quant Gilt Fund",
+  "source_file": "SUMMARY_quant Gilt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "quant Gilt Fund",
+    "fund_type": "An open ended debt scheme investing in government securities across maturity. A Relatively High interest rate risk and Relatively Low Credit Risk.",
+    "fund_options": [
+      "Growth Option - Regular Plan",
+      "Growth Option - Direct Plan",
+      "IDCW Payout Option - Regular Plan",
+      "IDCW Payout Option - Direct Plan",
+      "IDCW Re-investment Option - Regular Plan",
+      "IDCW Re-investment Option - Direct Plan"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate returns through investments in sovereign securities issued by the Central Government and/or State Government. There can be no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Government securities across maturities:- 80-100%                                     G-\nSec ETF across maturity:- 0-20%                                                                             \nOther Debt Securities and Money Market Instruments:- 0-20%",
+    "benchmark": "CRISIL Dynamic Gilt Index",
+    "fund_managers": [
+      "Mr. Sanjeev Sharma",
+      "Mr. Harshvardhan Bharatia"
+    ],
+    "annual_expense": {
+      "Regular": "1.41",
+      "Direct": "0.34"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "151230",
+      "151228",
+      "151231",
+      "151229"
+    ],
+    "isins": [
+      "INF966L01BI1",
+      "INF966L01BF7",
+      "INF966L01BJ9",
+      "INF966L01BG5",
+      "INF966L01BK7",
+      "INF966L01BH3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth Option - Regular Plan",
+    "Growth Option - Direct Plan",
+    "IDCW Payout Option - Regular Plan",
+    "IDCW Payout Option - Direct Plan",
+    "IDCW Re-investment Option - Regular Plan",
+    "IDCW Re-investment Option - Direct Plan"
+  ],
+  "extracted_at": "2026-04-18T05:28:46.739669+00:00"
+}

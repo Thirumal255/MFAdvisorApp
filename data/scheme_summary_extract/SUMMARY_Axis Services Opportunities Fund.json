@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis Services Opportunities Fund",
+  "source_file": "SUMMARY_Axis Services Opportunities Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Services Opportunities Fund",
+    "fund_type": "An open ended equity scheme following services theme",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To provide long term capital appreciation from an actively managed portfolio of equity and equity related securities of companies belonging to the services industry. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments of companies engaged in Services theme : 80% to 100%; Other Equity & Equity Related Instruments other than above theme: 0% to 20%, Debt & Money Market Instruments : 0% to 20%, Units issued by REITs & InVITs: 0% to 10%",
+    "benchmark": "Nifty Services Sector TRI",
+    "fund_managers": "Mr. Sachin Relekar, Mr. Shreyash Devalkar and Ms. Krishnaa Narayan (For Foreign Securities)",
+    "annual_expense": {
+      "Regular": "2.08",
+      "Direct": "0.72"
+    },
+    "exit_load": "a). If redeemed / switched-out within 12 months from the date of allotment: For 10% of investments: NIL For remaining investments: 1% b). If redeemed / switched-out after 12 months from the date of allotment: NIL",
+    "amfi_codes": [
+      "153622",
+      "153624",
+      "153623",
+      "153621"
+    ],
+    "isins": [
+      "INF846KA1176",
+      "INF846KA1184",
+      "INF846KA1168",
+      "INF846KA1143",
+      "INF846KA1150",
+      "INF846KA1135"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T02:24:22.546683+00:00"
+}

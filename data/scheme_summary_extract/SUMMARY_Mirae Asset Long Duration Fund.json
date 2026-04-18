@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Mirae Asset Long Duration Fund",
+  "source_file": "SUMMARY_Mirae Asset Long Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Long Duration Fund",
+    "fund_type": "An open ended debt scheme investing in instruments such that the Macaulay duration of the portfolio is greater than 7 years(please refer to page no. 12 for details on Macaulay’s Duration). A relatively high interest rate risk and relatively low creditrisk",
+    "fund_options": [
+      "Direct Plan Growth",
+      "Direct Plan IDCW - Payout",
+      "Direct PlanIDCW - Reinvestment",
+      "Regular PlanIDCW - Payout",
+      "Regular PlanIDCW- Reinvestment",
+      "Regular Plan Growth"
+    ],
+    "isins": [
+      "INF769K01NC9",
+      "INF769K01ND7",
+      "INF769K01NF2",
+      "INF769K01MZ2",
+      "INF769K01NA3",
+      "INF769K01NB1"
+    ],
+    "amfi_codes": [
+      "153105",
+      "153106",
+      "153107",
+      "153108",
+      null,
+      null
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The investment objective of the scheme is to seek to generate returns through an actively managed diversiﬁed portfolio ofdebt and money market instruments such that the Macaulay duration of the portfolio is greater than 7 years. However, thereis no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guaranteeany returns.",
+    "asset_allocation": "Money Market Instruments and Debt instruments - 0- 100 %",
+    "benchmark": "CRISIL Long Duration Debt A-III Index.",
+    "fund_managers": "Ms. Kruti Chheta",
+    "annual_expense": {
+      "Regular": "0.71",
+      "Direct": "0.16"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth",
+    "Direct Plan IDCW - Payout",
+    "Direct PlanIDCW - Reinvestment",
+    "Regular PlanIDCW - Payout",
+    "Regular PlanIDCW- Reinvestment",
+    "Regular Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T04:57:47.887667+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Motilal Oswal Nifty Midcap 150 Index Fund",
+  "source_file": "SUMMARY_Motilal Oswal Nifty Midcap 150 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal Nifty Midcap 150 Index Fund",
+    "fund_type": "Index fund",
+    "fund_options": [
+      "Regular Growth",
+      "Direct Growth"
+    ],
+    "riskometer": "Very high",
+    "investment_objective": "The schemes seeks investment return that corresponds generally to the performance of Nifty Mid cap 150 Index Subject to tracking error.",
+    "asset_allocation": {
+      "Equity and equity related securities covered by Nifty Midcap 150 Index": "95-100%",
+      "Debt, Money Market Instruments, G-Secs, Cash and Cash at call, etc": "0-5%"
+    },
+    "benchmark": "Nifty Midcap 150 TRI",
+    "fund_managers": [
+      {
+        "name": "Mr. Swapnil Mayekar",
+        "type": "For Equity Component",
+        "from_date": "6-Sep-19"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1",
+      "Direct": "1"
+    },
+    "exit_load": "Yes",
+    "amfi_codes": [
+      "147621",
+      "147622"
+    ],
+    "isins": [
+      "INF247L01916"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Growth",
+    "Direct Growth"
+  ],
+  "extracted_at": "2026-04-18T05:07:27.750080+00:00"
+}

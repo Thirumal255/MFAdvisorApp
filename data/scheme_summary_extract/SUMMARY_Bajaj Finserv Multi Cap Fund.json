@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bajaj Finserv Multi Cap Fund",
+  "source_file": "SUMMARY_Bajaj Finserv Multi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bajaj Finserv Multi Cap Fund",
+    "fund_type": "An open ended equity scheme investing across large cap, mid cap, small cap stocks",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - Reinvestment IDCW",
+      "Direct Plan - Payout IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - Reinvestment IDCW",
+      "Regular - Payout IDCW"
+    ],
+    "isins": [
+      "INF0QA701AV7",
+      "INF0QA701AX3",
+      "INF0QA701AW5",
+      "INF0QA701AS3",
+      "INF0QA701AU9",
+      "INF0QA701AT1"
+    ],
+    "amfi_codes": [
+      "153309",
+      "153306",
+      null,
+      "153307",
+      "153308",
+      null
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The objective of the Scheme is to generate long term capital appreciation by investing in equity and equity related securities of large cap, mid cap and small cap companies. However, there is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity Related Securities of following - 75% - 100% • Large Cap Companies - 25% - 50% • Mid Cap Companies - 25% -50% • Small Cap Companies - 25% - 50% Debt and Money Market Instruments* and units of mutual fund schemes - 0% - 25% Units issued by REITs and InvITs - 0% - 10% *Debt instruments shall be deemed to include securitized debts (excluding foreign securitized debt). Money market instruments will include commercial papers, commercial bills, Triparty REPO, Reverse Repo and equivalent and any other like instruments as specified by SEBI and Reserve Bank of India from time to time.",
+    "benchmark": "Nifty 500 Multicap 50:25:25 TRI",
+    "fund_managers": "FM 1 - Mr. Nimesh Chandan (Equity Portion) , FM 2 - Mr. Sorbh Gupta (Equity Portion) , FM-3- Mr. Siddharth Chaudhary (Debt Portion)",
+    "annual_expense": {
+      "Regular": "2.19",
+      "Direct": "0.81"
+    },
+    "exit_load": "Entry load – Nil Exit load: • if units redeemed / switched out within 6 months from allotment date: - Upto 10% of units held - Nil- Remaining 90% of units held - 1% of applicable NAV • if units redeemed/switched out after 6 months from allotment date - Nil Exit load is applicable for each purchase of units through Lumpsum / switch-in / Systematic Investment Plan (SIP) and Systematic Transfer Plan (STP). The Scheme will not levy exit load in case the timelines for rebalancing portfolio as stated in SEBI Master Circular for Mutual Funds dated June 27, 2024, is not complied with. The Trustee / AMC reserves the right to change the load structure any time in the future if they so deem fit on a prospective basis. The investor is requested to check the prevailing load structure of the scheme before investing."
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - Reinvestment IDCW",
+    "Direct Plan - Payout IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - Reinvestment IDCW",
+    "Regular - Payout IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:26:29.497504+00:00"
+}

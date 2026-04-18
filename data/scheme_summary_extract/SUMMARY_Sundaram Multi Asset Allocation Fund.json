@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Sundaram Multi Asset Allocation Fund",
+  "source_file": "SUMMARY_Sundaram Multi Asset Allocation Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Sundaram Multi Asset Allocation Fund",
+    "fund_type": "An Open Ended Scheme investing in Equity, Debt & Money Market Instruments and Gold ETFs",
+    "fund_options": [
+      "Regular IDCW Payout",
+      "Regular IDCW Re-Investment",
+      "Regular Growth",
+      "Direct Plan IDCW Payout",
+      "Direct Plan Growth",
+      "Direct Plan IDCW Reinvestment"
+    ],
+    "riskometer": "High Risk",
+    "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation by investing in Equity & Equity related Securities, Debt & Money Market Instruments and Gold ETFs. No Guarantee: There is no guarantee or assurance that the investment objective of the scheme will be achieved. Investors are neither being offered any guaranteed / indicated returns nor any guarantee on repayment of capital by the Schemes. There is also no guarantee of capital or return either by the mutual fund or by the sponsor or by the Asset management Company or by the Trustees.",
+    "asset_allocation": "Equity and equity-related instruments 65-80%; Very High Debt and Money Market Securities#^ 10-25%; Low to Medium and Gold ETFs as permitted by SEBI from time to time.^ 10-25%; Very High.",
+    "benchmark": "NIFTY 500 TRI (65%) + NIFTY Short Duration Debt Index (10%) + Domestic Prices of Gold (25%)",
+    "fund_managers": "FM1 - Mr. Rohit Seksaria; FM2 - Mr. Clyton Richard Fernandes; FM3 - Mr. Dwijendra Srivastava; FM4 - Mr. Sandeep Agarwal; FM5 - Mr. Arjun Nagarajan, FM6- Mr. Shalav Saket(Overseas Securities)",
+    "annual_expense": {
+      "Regular": "1.80",
+      "Direct": "0.39"
+    },
+    "exit_load": "Nil - If up to 30% of the units invested are redeemed, withdrawn by way of SWP within 365 days from the date of allotment. If more than 30% of the units are redeemed, withdrawn by way of SWP within 365 days from the date of allotment - Exit load of 1% of the applicable NAV will be charged. For redemption or withdrawal by way of SWP after 365 days from the date of allotment - Nil. Further, exit load will be waived on Intra-scheme and Inter scheme Switch-outs/STP",
+    "amfi_codes": [
+      "152314",
+      "152316",
+      "152312",
+      "152311",
+      "152315",
+      "152313"
+    ],
+    "isins": [
+      "INF903JA1LI3",
+      "INF903JA1LJ1",
+      "INF903JA1LH5",
+      "INF903JA1LL7",
+      "INF903JA1LK9",
+      "INF903JA1LM5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular IDCW Payout",
+    "Regular IDCW Re-Investment",
+    "Regular Growth",
+    "Direct Plan IDCW Payout",
+    "Direct Plan Growth",
+    "Direct Plan IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T05:49:08.086292+00:00"
+}

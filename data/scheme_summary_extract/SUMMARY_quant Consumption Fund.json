@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "quant Consumption Fund",
+  "source_file": "SUMMARY_quant Consumption Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "quant Consumption Fund",
+    "fund_type": "An open ended equity scheme following consumption theme",
+    "fund_options": [
+      "Growth Option - Regular Plan",
+      "Growth Option - Direct Plan",
+      "IDCW Payout Option - Regular Plan",
+      "IDCW Payout Option - Direct Plan",
+      "IDCW Re-investment Option - Regular Plan",
+      "IDCW Re-investment Option - Direct Plan"
+    ],
+    "isins": [
+      "INF966L01DI7",
+      "INF966L01DN7",
+      "INF966L01DL1",
+      "INF966L01DO5",
+      "INF966L01DM9",
+      "INF966L01DP2"
+    ],
+    "amfi_codes": [
+      "152338",
+      "152336",
+      "152337",
+      "152339",
+      null,
+      null
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the scheme is to generate capital appreciation & provide long-term growth opportunities by investing in a portfolio of Consumption driven companies. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments of Consumption and consumption related sectors (including units issued by REITs) :- 80-100% Equity and equity related instruments other than companies of Consumption and consumption related sectors (including units issued by REITs) :- 0-20% Debt and money market instruments:- 0-20% Foreign Equity and Equity related instruments and Overseas ETFs:- 0-20% Units issued by  InvITs :- 0-10%",
+    "benchmark": "NIFTY India Consumption TRI",
+    "fund_managers": [
+      "Sandeep Tandon",
+      "Ankit Pande",
+      "Mr. Varun Pattani",
+      "Ayusha Kumbhat",
+      "Yug Tibrewal",
+      "Sameer Kate",
+      "Sanjeev Sharma"
+    ],
+    "annual_expense": {
+      "Regular": "2.44",
+      "Direct": "0.96"
+    },
+    "exit_load": "For redemptions / switch outs (including SIP/STP) within 15 days from the date of allotment of units, irrespective of the amount of investment: 1% No exit load shall be applicable on switches from Regular Plan to Direct Plan and vice versa, under the same scheme."
+  },
+  "fund_options_inferred": [
+    "Growth Option - Regular Plan",
+    "Growth Option - Direct Plan",
+    "IDCW Payout Option - Regular Plan",
+    "IDCW Payout Option - Direct Plan",
+    "IDCW Re-investment Option - Regular Plan",
+    "IDCW Re-investment Option - Direct Plan"
+  ],
+  "extracted_at": "2026-04-18T05:27:45.960987+00:00"
+}

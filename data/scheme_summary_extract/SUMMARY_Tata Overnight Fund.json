@@ -1,0 +1,41 @@
+{
+  "parent_scheme_name": "Tata Overnight Fund",
+  "source_file": "SUMMARY_Tata Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Overnight Fund",
+    "fund_type": "An open ended Debt scheme investing in Overnight Securities. A Relatively Low Interest Rate Risk and Relatively Low CreditRisk.",
+    "fund_options": [
+      "Tata Overnight Fund - Regular Plan - IDCW",
+      "Tata Overnight Fund - Direct Plan- IDCW",
+      "Tata Overnight Fund - Regular Plan -Growth",
+      "Tata Overnight Fund - Direct Plan- Growth"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The objective of the scheme is to seek to generate returns commensurate with low risk and providing high level of liquidity,through investments made primarily in overnight securities having maturity of 1 business day. However, there is no assuranceor guarantee that the investment objective of the Scheme will be achieved. The scheme does not assure or guarantee anyreturns.",
+    "asset_allocation": "Debt and Money Market securities with maturity upto 1 business day 0-100.",
+    "benchmark": "CRISIL Liquid Overnight Index (AI)",
+    "fund_managers": "Amit Somani",
+    "annual_expense": {
+      "Regular": "0.1800",
+      "Direct": "0.0600"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "030"
+    ],
+    "isins": [
+      "INF277K017T7",
+      "INF277K019T3",
+      "INF277K016T9",
+      "INF277K018T5"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Overnight Fund - Regular Plan - IDCW",
+    "Tata Overnight Fund - Direct Plan- IDCW",
+    "Tata Overnight Fund - Regular Plan -Growth",
+    "Tata Overnight Fund - Direct Plan- Growth"
+  ],
+  "extracted_at": "2026-04-18T05:56:37.378731+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Baroda BNP Paribas Equity Savings Fund",
+  "source_file": "SUMMARY_Baroda BNP Paribas Equity Savings Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Baroda BNP Paribas Equity Savings Fund",
+    "fund_type": "An open ended scheme investing in equity, arbitrage and debt instruments.",
+    "fund_options": [
+      "REGULAR PLAN - IDCW PAYOUT",
+      "REGULAR PLAN - IDCW REINVESTMENT",
+      "DIRECT PLAN -GROWTH",
+      "DIRECT PLAN - IDCW REINVESTMENT",
+      "DIRECT PLAN - IDCW PAYOUT",
+      "REGULAR PLAN - GROWTH"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The primary objective of the Scheme is to generate capital appreciation and income by using arbitrage opportunities,investment in equity / equity related instruments and debt/ money market instruments.",
+    "asset_allocation": "Equity & Equity related securities of which: 65% - 90% (i) Equity and equity related securities (unhedged); 0% - 50% (ii)Equities, equity related securities and derivatives including index futures, stock futures, index options and stock options, etcas part of hedged/arbitrage exposure (hedged) 15% - 90% Debt and Money Market instruments 10% - 35% Investments inREITs & InvITs 0% - 10%",
+    "benchmark": "Nifty Equity Savings Index TRI",
+    "fund_managers": "Mr. Pratish Krishnan (Equity Portfolio), Mr. Neeraj Saxena (Equity Portfolio),Mr. Ankeet Pandya (Equity Portfolio) andMr.Gurvinder Singh Wasan (Fixed Income Portfolio)",
+    "annual_expense": {
+      "Regular": "2.50",
+      "Direct": "1.40"
+    },
+    "exit_load": "• If units of the Scheme are redeemed or switched out within 30 days of the date of allotment - 1% of the applicable NetAsset Value (NAV) • If units of the Scheme are redeemed or switched out after 30 days of allotment - Nil",
+    "amfi_codes": [
+      "147495",
+      null,
+      "147498",
+      null,
+      null,
+      "147494"
+    ],
+    "isins": [
+      "INF955L01IJ7",
+      "INF955L01IK5",
+      "INF955L01IL3",
+      "INF955L01IN9",
+      "INF955L01IM1",
+      "INF955L01II9"
+    ]
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN - IDCW PAYOUT",
+    "REGULAR PLAN - IDCW REINVESTMENT",
+    "DIRECT PLAN -GROWTH",
+    "DIRECT PLAN - IDCW REINVESTMENT",
+    "DIRECT PLAN - IDCW PAYOUT",
+    "REGULAR PLAN - GROWTH"
+  ],
+  "extracted_at": "2026-04-18T02:58:44.034275+00:00"
+}

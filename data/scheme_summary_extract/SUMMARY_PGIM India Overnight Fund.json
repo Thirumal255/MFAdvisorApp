@@ -1,0 +1,47 @@
+{
+  "parent_scheme_name": "PGIM India Overnight Fund",
+  "source_file": "SUMMARY_PGIM India Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "PGIM India Overnight Fund",
+    "fund_type": "An open ended debt scheme investing in overnight securities. A relatively low interest rate risk and relatively low credit riskscheme",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The Scheme aims to provide reasonable returns commensurate with low risk and providing a high level of liquidity, through investments made primarily in overnight securities having maturity of 1 business day. However, there can be no assurance that the investment objective of the Scheme will be achieved. The Scheme does not guarantee/indicate any returns.",
+    "asset_allocation": "Treasury bills, government securities, (Tri Party Repo), Debt (Only PSU, PFI and other quasi government bodies) and money market instruments with maturity on or before the next business day - Min 0% and Max 100%",
+    "benchmark": "NIFTY 1D Rate Index",
+    "fund_managers": "Mr. Bhupesh Kalyani and Mr. Puneet Pal",
+    "annual_expense": {
+      "Regular": "0.17",
+      "Direct": "0.14"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "147600",
+      "147605",
+      "147609"
+    ],
+    "isins": [
+      "INF663L01T01",
+      "INF663L01T35",
+      "INF663L01T27",
+      "INF663L01T19",
+      "INF663L01T76",
+      "INF663L01T43",
+      "INF663L01T68",
+      "INF663L01T50"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T05:26:06.744996+00:00"
+}

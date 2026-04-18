@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Tata Dividend Yield Fund",
+  "source_file": "SUMMARY_Tata Dividend Yield Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Dividend Yield Fund",
+    "fund_type": "An open ended equity scheme that aims for growth by primarily investing in equity and equity related instruments of dividendyielding companies.",
+    "fund_options": [
+      "Tata Dividend Yield Fund Regular Plan - IDCW",
+      "Tata Dividend Yield Fund Direct Plan - IDCW",
+      "Tata Dividend Yield Fund Regular Plan- Growth",
+      "Tata Dividend Yield Fund Direct Plan - Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective is to provide capital appreciation and/or dividend distribution by predominantly investing in a well-diversiﬁed portfolio of equity and equity related instruments of dividend yielding companies. However, there is no assuranceor guarantee that the investment objective of the Scheme will be achieved. The scheme does not assure or guarantee anyreturns.",
+    "asset_allocation": "Equity and equity related instruments of Dividend Yielding Companies65-100, Other Equity & Equity related Instruments ofCompanies other than above0-35, Debt and money market instruments0-35, Units issued by REITs & InvITs0-10.",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "FM-1 Murthy Nagarajan, FM-2 Sailesh Jain, FM-3 Hasmukh Vishariya",
+    "annual_expense": {
+      "Regular": "2.16",
+      "Direct": "0.53"
+    },
+    "exit_load": "Redemption/Switch-out/SWP/STP: 1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date ofallotment: NIL.",
+    "amfi_codes": [
+      "148949",
+      "148951",
+      "148948",
+      "148947"
+    ],
+    "isins": [
+      "INF277K019Z0",
+      "INF277K016Z6",
+      "INF277K018Z2",
+      "INF277K015Z8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Tata Dividend Yield Fund Regular Plan - IDCW",
+    "Tata Dividend Yield Fund Direct Plan - IDCW",
+    "Tata Dividend Yield Fund Regular Plan- Growth",
+    "Tata Dividend Yield Fund Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:51:58.948286+00:00"
+}

@@ -1,0 +1,55 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE EQUITY HYBRID '95 FUND",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Equity Hybrid '95 Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE EQUITY HYBRID '95 FUND",
+    "fund_type": "An open ended hybrid scheme investing predominantly in equity and equity related instruments.",
+    "fund_options": [
+      "Regular - IDCW",
+      "Regular Plan-Growth",
+      "Direct Plan-Growth",
+      "DIRECT - IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The objective of the scheme is to generate long term growth of capital and current income, through a portfolio investing in equity, debt and money market securities. The secondary objective is income generation and distribution of IDCW.",
+    "asset_allocation": "Equity & Equity Related Instruments - 65% - 80%\nDebt & Money Market instruments (including securitised debt) - 20% - 35%\nUnits issued by InvITs -  0%-10%",
+    "benchmark": "CRISIL Hybrid 35+65 - Aggressive Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Chanchal Khandelwal",
+        "type": "Comanage",
+        "from_date": "17-Feb-23"
+      },
+      {
+        "name": "Mr. Harshil Suvarnkar",
+        "type": "Comanage",
+        "from_date": "23-Nov-16"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1.86",
+      "Direct": "1.16"
+    },
+    "exit_load": "For redemption /switch-out of units on or before 90 days from the date of allotment: 1.00% of applicable NAV. For redemption / switch-out of units after 90 days from the date of allotment: Nil.",
+    "amfi_codes": [
+      "103154",
+      "103155",
+      "120517",
+      "120518"
+    ],
+    "isins": [
+      "INF209K01BS7",
+      "INF209K01BT5",
+      "INF209K01ZC0",
+      "INF209KA1LH3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular - IDCW",
+    "Regular Plan-Growth",
+    "Direct Plan-Growth",
+    "DIRECT - IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:11:19.489576+00:00"
+}

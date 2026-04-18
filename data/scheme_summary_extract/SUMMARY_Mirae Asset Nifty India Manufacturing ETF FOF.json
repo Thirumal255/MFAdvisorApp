@@ -1,0 +1,41 @@
+{
+  "parent_scheme_name": "Mirae Asset Nifty India Manufacturing ETF Fund of Fund",
+  "source_file": "SUMMARY_Mirae Asset Nifty India Manufacturing ETF FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mirae Asset Nifty India Manufacturing ETF Fund of Fund",
+    "fund_type": "Fund of Fund - An open-ended fund of fund scheme investing in units of Mirae Asset Nifty India Manufacturing ETF",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation from a portfolio investing predominantly in units of Mirae Asset Nifty India Manufacturing ETF. There is no assurance that the investment objective of the Scheme will be realized.",
+    "asset_allocation": "Units of Mirae Asset Nifty India Manufacturing ETF - 95% to 100% (High) Money market instruments / debt securities, Instruments and/or units of debt/liquid schemes of domestic Mutual Funds - 0% to 5% (Low to Medium)",
+    "benchmark": "Nifty India Manufacturing Total Return Index (INR)",
+    "fund_managers": "Ms. Ekta Gala & Mr. Akshay Udeshi",
+    "annual_expense": {
+      "Direct": "0.09"
+    },
+    "exit_load": "If redeemed or switched out within 15 days from the date of allotment: 0.05%, If redeemed or switched out after 15 days from date of allotment: Nil",
+    "amfi_codes": [
+      "149789",
+      "149788",
+      "149789",
+      "149787",
+      "149790",
+      "149787"
+    ],
+    "isins": [
+      "INF769K01HV1",
+      "INF769K01HW9",
+      "INF769K01HX7",
+      "INF769K01HY5",
+      "INF769K01HZ2",
+      "INF769K01IA3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T05:00:34.630251+00:00"
+}

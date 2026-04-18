@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "LIC MF Nifty 50 Index Fund",
+  "source_file": "SUMMARY_LIC MF Nifty 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "LIC MF Nifty 50 Index Fund",
+    "fund_type": "An open ended scheme replicating/tracking Nifty 50 Index",
+    "fund_options": [
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-IDCW Reinv",
+      "Regular Plan-Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCW Reinv",
+      "Direct Plan-Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The main investment objective of the fund is to generate returns commensurate with the performance of the index Nifty based on the plans by investing in the respective index stocks subject to tracking errors. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity / Equity Futures (in Nifty 50): 95-100%, Money market instruments and cash: 0-5%. Please refer the Scheme Information Document for complete details.",
+    "benchmark": "Nifty 50 TRI",
+    "fund_managers": "Mr. Sumit Bhatnagar",
+    "annual_expense": {
+      "Regular": "1.08",
+      "Direct": "0.64"
+    },
+    "exit_load": "0.25% if redeemed or switch out on or before completion of 7 Days from the date of allotment of units, Nil after 7 days",
+    "amfi_codes": [
+      "101200",
+      "101200",
+      "101201",
+      "120309",
+      "120309",
+      "120307"
+    ],
+    "isins": [
+      "INF767K01154",
+      "INF767K01147",
+      "INF767K01162",
+      "INF767K01FG0",
+      "INF767K01FH8",
+      "INF767K01FF2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-IDCW Reinv",
+    "Regular Plan-Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCW Reinv",
+    "Direct Plan-Growth"
+  ],
+  "extracted_at": "2026-04-18T04:47:17.669529+00:00"
+}

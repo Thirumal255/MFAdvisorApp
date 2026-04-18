@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE NIFTY NEXT 50 INDEX FUND",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Nifty Next 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE NIFTY NEXT 50 INDEX FUND",
+    "fund_type": "An open-ended scheme tracking the Nifty Next 50 Index",
+    "fund_options": [
+      "Aditya Birla Sun Life Nifty Next 50 Index Fund-Regular IDCW",
+      "Aditya Birla Sun Life Nifty Next 50 Index Fund-Regular Growth",
+      "Aditya Birla Sun Life Nifty Next 50 Index Fund-Direct Growth",
+      "Aditya Birla Sun Life Nifty Next 50 Index Fund-Direct IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the Scheme is to provide returns that closely track the total returns of securities as represented by Nifty Next 50 Index,subject to tracking errors. The Scheme does not guarantee/indicate any returns. There can be no assurance that the objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity & Equity related instruments constituting the Nifty Next 50 Index* - Moderate - 95% - 100% Debt and Money Market Instruments - Low - 0% - 5% * Investment in Derivatives instruments shall be to the extent of 15% of the Net Assets as permitted by the Regulations. Such exposure to equity derivatives of constituents of the underlying Index would be taken for short duration when securities of the Index are unavailable, insufficient, for rebalancing at the time of change in the constituents of Index or in case of corporate actions. In case of deviation of the above limit, the fund manager shall endeavor to rebalance the portfolio within 7 business days or follow processes specified w.r.t rebalancing.",
+    "benchmark": "Nifty Next 50 TRI",
+    "fund_managers": "Ms. Priya Sridhar",
+    "annual_expense": {
+      "Regular": "0.92",
+      "Direct": "0.35"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "149836",
+      "149837",
+      "149838",
+      "149839"
+    ],
+    "isins": [
+      "INF209KB13G7",
+      "INF209KB12G9",
+      "INF209KB10G3",
+      "INF209KB11G1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Aditya Birla Sun Life Nifty Next 50 Index Fund-Regular IDCW",
+    "Aditya Birla Sun Life Nifty Next 50 Index Fund-Regular Growth",
+    "Aditya Birla Sun Life Nifty Next 50 Index Fund-Direct Growth",
+    "Aditya Birla Sun Life Nifty Next 50 Index Fund-Direct IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:15:40.618030+00:00"
+}

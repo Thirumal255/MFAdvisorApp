@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Motilal Oswal Developed Market Ex US ETFs Fund of Funds",
+  "source_file": "SUMMARY_Motilal Oswal Developed Market Ex US ETFs Overseas Equity Passive FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Motilal Oswal Developed Market Ex US ETFs Fund of Funds",
+    "fund_type": "An open ended fund of funds scheme investing in units of global ETFs which track the performance of Developed Markets excluding US",
+    "fund_options": [
+      "Regular",
+      "Direct"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective is to generate long term capital appreciation by investing in units of global ETFs which track the performance of Developed Markets excluding US, subject to tracking error, if any.  However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "Units of Developed market Ex US  ETF schemes* Min-95%  Max 100%, Units of liquid Scheme and / or Money Market Instruments Min 0%  Max 5%",
+    "benchmark": "Tier 1 S&P Developed Ex-U.S. BMI Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Ankush Sood",
+        "type": "For Foreign Securities",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt Securities",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": null,
+        "type": null,
+        "from_date": null
+      }
+    ],
+    "annual_expense": {
+      "Regular": "1.00",
+      "Direct": "1.00"
+    },
+    "exit_load": "1%- If redeemed on or before 15 days from the date of allotment. Nil- If redeemed after 15 days from the date of allotment.",
+    "amfi_codes": [
+      "152091",
+      "152090"
+    ],
+    "isins": [
+      "INF247L01BS5",
+      "INF247L01BT3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular",
+    "Direct"
+  ],
+  "extracted_at": "2026-04-18T05:04:31.126753+00:00"
+}

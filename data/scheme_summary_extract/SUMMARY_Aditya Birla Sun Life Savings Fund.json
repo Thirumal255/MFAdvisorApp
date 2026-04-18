@@ -1,0 +1,72 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE SAVINGS FUND",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Savings Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE SAVINGS FUND",
+    "fund_type": "An open ended ultra-short term debt scheme investing in instruments such that Macaulay  duration of the portfolio is between 3 months and 6 months . A moderate interest rate risk and moderate credit risk.",
+    "fund_options": [
+      "Aditya Birla Sun Life Savings Fund-Retail Growth",
+      "Aditya Birla Sun Life Savings Fund - Growth - Regular Plan",
+      "Aditya Birla Sun Life Savings Fund - Discipline Advantage Plan",
+      "Aditya Birla Sun Life Savings Fund-Retail - Daily IDCW",
+      "Aditya Birla Sun Life Savings Fund-Weekly - retail IDCW",
+      "Aditya Birla Sun Life Savings Fund-Regular - weekly IDCW",
+      "Aditya Birla Sun Life Savings Fund-Regular - DAILY IDCW",
+      "Aditya Birla Sun Life Savings Fund-DIRECT - WEEKLY IDCW",
+      "Aditya Birla Sun Life Savings Fund-DIRECT - DAILY IDCW",
+      "Aditya Birla Sun Life Savings Fund - Growth - Direct Plan"
+    ],
+    "isins": [
+      "INF209K01MC8",
+      "INF209K01LZ1",
+      "INF209K01JT8",
+      "INF209K01MB0",
+      "INF209K01MD6",
+      "INF209K01MA2",
+      "INF209K01LY4",
+      "INF209K01US7",
+      "INF209K01UQ1",
+      "INF209K01UR9"
+    ],
+    "amfi_codes": [
+      "101316",
+      "101317",
+      "112016",
+      "109108",
+      "105881",
+      "105887",
+      "105888",
+      "119499",
+      "119500",
+      "119501"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The primary objective is to generate regular income through investments in debt and money market instruments. Income may be generatedthrough the receipt of coupon payments or the purchase and sale of securities in the underlying portfolio. The scheme will under normal market conditions, invest its net assets in fixed income securities, money market instruments, cash and cash equivalents",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme will be as follows: Instruments - Risk Profile - Range Debt & Money Market Instruments -  Low to Medium - 100%",
+    "benchmark": "NIFTY Ultra Short Duration Debt Index A-I",
+    "fund_managers": [
+      "Mr. Kaustubh Gupta",
+      "Ms. Sunaina Da Cunha",
+      "Ms. Monika Gandhi"
+    ],
+    "annual_expense": {
+      "Regular": "0.55",
+      "Direct": "0.34"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Aditya Birla Sun Life Savings Fund-Retail Growth",
+    "Aditya Birla Sun Life Savings Fund - Growth - Regular Plan",
+    "Aditya Birla Sun Life Savings Fund - Discipline Advantage Plan",
+    "Aditya Birla Sun Life Savings Fund-Retail - Daily IDCW",
+    "Aditya Birla Sun Life Savings Fund-Weekly - retail IDCW",
+    "Aditya Birla Sun Life Savings Fund-Regular - weekly IDCW",
+    "Aditya Birla Sun Life Savings Fund-Regular - DAILY IDCW",
+    "Aditya Birla Sun Life Savings Fund-DIRECT - WEEKLY IDCW",
+    "Aditya Birla Sun Life Savings Fund-DIRECT - DAILY IDCW",
+    "Aditya Birla Sun Life Savings Fund - Growth - Direct Plan"
+  ],
+  "extracted_at": "2026-04-18T02:17:08.436522+00:00"
+}

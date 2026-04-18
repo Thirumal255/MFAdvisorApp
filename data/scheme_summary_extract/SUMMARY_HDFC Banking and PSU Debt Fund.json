@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "HDFC Banking and PSU Debt Fund",
+  "source_file": "SUMMARY_HDFC Banking and PSU Debt Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Banking and PSU Debt Fund",
+    "fund_type": "An open ended debt scheme predominantly investing in debt instruments of banks, Public Sector Undertakings, Public FinancialInstitutions and Municipal Bonds.A Relatively High Interest Rate Risk and Moderate Credit Risk.",
+    "fund_options": [
+      "REGULAR IDCW PAYOUT OPTION",
+      "REGULAR IDCW REINVESTMENT OPTION",
+      "REGULAR GROWTH OPTION",
+      "DIRECT PLAN IDCW PAYOUT OPTION",
+      "DIRECT PLAN GROWTH OPTION",
+      "DIRECT PLAN IDCW REINVESTMENT OPTION"
+    ],
+    "isins": [
+      "INF179KA1JD2",
+      "INF179KA1JE0",
+      "INF179KA1JC4",
+      "INF179KA1JA8",
+      "INF179KA1IZ7",
+      "INF179KA1JB6"
+    ],
+    "amfi_codes": [
+      "128627",
+      "128627",
+      "128628",
+      "128626",
+      "128629",
+      "128626"
+    ],
+    "riskometer": "Moderate Risk",
+    "investment_objective": "To generate income/capital appreciation through investments in debt and money market instruments consisting predominantly ofsecurities issued by entities such as Scheduled Commercial Banks (SCBs), Public Sector undertakings (PSUs), Public FinancialInstitutions (PFIs), Municipal Corporations and such other bodies.There is no assurance that the investment objective of theScheme will be achieved.",
+    "asset_allocation": "Debt (including securitised debt) and Money Market Instruments issued by Scheduled Commercial Banks,Public SectorUndertakings (PSU), Public Financial Institutions, Municipal Corporations and such other bodies@: 80% -100% ; Debt (includinggovernment securities) and Money Market Instruments issued by entities other than the Above@ : 0% -20%; Units issued byInvITs: 0% -10%; @ As required under SEBI circulars dated November 06, 2020 and June 25, 2021, the Scheme shall hold at least10% of its net assets in liquid assets (‘liquid assets’ shall include Cash, Government Securities, T-bills and Repo on GovernmentSecurities). Thus, the asset allocation limits shown above will be calculated after excluding this 10% limit. The Scheme may investin the schemes of Mutual Funds in accordance with the applicable extant SEBI (Mutual Funds) Regulations as amended from timeto time.The Scheme may invest upto a maximum 20% of the total assets in Foreign Debt Securities and upto100% of its totalassets in Derivatives.",
+    "benchmark": "Nifty Banking & PSU Debt Index A-II",
+    "fund_managers": "FM 1 - Mr.Anil Bamboli, FM 2 - Mr.Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "0.78",
+      "Direct": "0.39"
+    },
+    "exit_load": "NIL"
+  },
+  "fund_options_inferred": [
+    "REGULAR IDCW PAYOUT OPTION",
+    "REGULAR IDCW REINVESTMENT OPTION",
+    "REGULAR GROWTH OPTION",
+    "DIRECT PLAN IDCW PAYOUT OPTION",
+    "DIRECT PLAN GROWTH OPTION",
+    "DIRECT PLAN IDCW REINVESTMENT OPTION"
+  ],
+  "extracted_at": "2026-04-18T03:40:32.197657+00:00"
+}

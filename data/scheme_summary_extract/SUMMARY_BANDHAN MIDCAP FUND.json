@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bandhan Midcap Fund",
+  "source_file": "SUMMARY_BANDHAN MIDCAP FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Midcap Fund",
+    "fund_type": "An open ended equity scheme predominantly investing in mid cap stocks",
+    "fund_options": [
+      "Direct Plan-Growth",
+      "Direct Plan-IDCW PAYOUT",
+      "Direct Plan-IDCW REINVESTMENT",
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW PAYOUT",
+      "Regular Plan-IDCW REINVESTMENT"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Fund seeks to generate long term capital appreciation by investing predominantly in equities and equity linked securities of mid cap segment.",
+    "asset_allocation": "Equity and equity related instruments of Mid Cap companies^ - 65%-100%, Equity and equity related instruments of other than Mid Cap companies - 0%-35%, Overseas securities - 0%-25%, Debt Securities and Money Market Instruments (including Government securities, securitised debt) - 0%-35%",
+    "benchmark": "BSE 150 Midcap Index",
+    "fund_managers": "Ms. Ritu Modi (equity portion),Mr. Harshal Joshi (debt portion).",
+    "annual_expense": {
+      "Regular": "2.04",
+      "Direct": "0.62"
+    },
+    "exit_load": "If redeemed/switched out within 1 year from the date of allotment - 1% of applicable NAV; If redeemed/switched out after 1 year from the date of allotment – Nil",
+    "amfi_codes": [
+      "150404",
+      "150401",
+      "150404",
+      "150402",
+      "150403",
+      "150403"
+    ],
+    "isins": [
+      "INF194KB1DJ2",
+      "INF194KB1DK0",
+      "INF194KB1DL8",
+      "INF194KB1DM6",
+      "INF194KB1DN4",
+      "INF194KB1DO2"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan-Growth",
+    "Direct Plan-IDCW PAYOUT",
+    "Direct Plan-IDCW REINVESTMENT",
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW PAYOUT",
+    "Regular Plan-IDCW REINVESTMENT"
+  ],
+  "extracted_at": "2026-04-18T02:50:17.287030+00:00"
+}

@@ -1,0 +1,65 @@
+{
+  "parent_scheme_name": "HSBC Conservative Hybrid Fund",
+  "source_file": "SUMMARY_HSBC Conservative Hybrid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC Conservative Hybrid Fund",
+    "fund_type": "An open ended hybrid scheme investing predominantly in debt instruments.",
+    "fund_options": [
+      "Direct Growth Payout",
+      "Direct Monthly IDCW Payout",
+      "Direct Monthly IDCW Reinvestment",
+      "Direct Quarterly IDCW Payout",
+      "Direct Quarterly IDCW Reinvestment",
+      "Regular Growth Payout",
+      "Regular Monthly IDCW Payout",
+      "Regular Monthly IDCW Reinvestment",
+      "Regular Quarterly IDCW Payout",
+      "Regular Quarterly IDCW Reinvestment"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "To seek generation of reasonable returns through investments in Debt and Money Market Instruments. The secondary objective of the scheme is to invest in equity and equity related instruments to seek capital appreciation. However, there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Under normal circumstances, it is anticipated that the asset allocation of the Scheme will be as follows: - Debt Instruments and Money Market Instruments (including cash, money at call and reverse repos): 75% to 90% (Risk Proﬁle-Low to Medium) - Equities and Equity related instruments : 10% to 25% (Risk Proﬁle-High) - Units issued by REITs and InvITs: 0% - 10% (Risk Proﬁle-Medium to Low)",
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 15:85 Index",
+    "fund_managers": [
+      "Mahesh Chhabria",
+      "Mohd. Asif Rizwi",
+      "Cheenu Gupta",
+      "Abhishek Gupta",
+      "Sonal Gupta"
+    ],
+    "annual_expense": {
+      "Regular": "2.14",
+      "Direct": "1.05"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "120073"
+    ],
+    "isins": [
+      "INF336L01DW4",
+      "INF336L01DX2",
+      "INF336L01DY0",
+      "INF336L01DZ7",
+      "INF336L01EA8",
+      "INF336L01099",
+      "INF336L01107",
+      "INF336L01115",
+      "INF336L01123",
+      "INF336L01131"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Growth Payout",
+    "Direct Monthly IDCW Payout",
+    "Direct Monthly IDCW Reinvestment",
+    "Direct Quarterly IDCW Payout",
+    "Direct Quarterly IDCW Reinvestment",
+    "Regular Growth Payout",
+    "Regular Monthly IDCW Payout",
+    "Regular Monthly IDCW Reinvestment",
+    "Regular Quarterly IDCW Payout",
+    "Regular Quarterly IDCW Reinvestment"
+  ],
+  "extracted_at": "2026-04-18T03:54:17.792448+00:00"
+}

@@ -1,0 +1,59 @@
+{
+  "parent_scheme_name": "quant Flexi Cap Fund",
+  "source_file": "SUMMARY_Quant Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "quant Flexi Cap Fund",
+    "fund_type": "An open-ended dynamic equity investing across large cap, mid cap, small cap stocks",
+    "fund_options": [
+      "Growth Option - Regular Plan",
+      "Growth Option - Direct Plan",
+      "IDCW Payout Option - Regular Plan",
+      "IDCW Payout Option - Direct Plan",
+      "IDCW Re-investment Option - Regular Plan",
+      "IDCW Re-investment Option - Direct Plan"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the scheme is to generate consistent returns by investing in a portfolio of Large Cap, Mid Cap andSmall Cap companies. The AMC will have the discretion to completely or partially invest in any of the type of securities stated above with a view to maximize the returns or on defensive considerations. The actual market movements may be at variance with anticipated trends.There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and equity related instruments (including units issued by REITs)  :- 65 - 100% Debt & Money Market instruments:- 0-35% Foreign Equity and Equity related instruments and Overseas ETFs:- 0- 35% Units issued by InvITs:- 0-10%",
+    "benchmark": "NIFTY 500 TRI",
+    "fund_managers": [
+      "Sandeep Tandon",
+      "Ankit Pande",
+      "Sanjeev Sharma",
+      "Lokesh Garg",
+      "Varun Pattani",
+      "Ayusha Kumbhat",
+      "Mr. Yug Tibrewal",
+      "Sameer Kate"
+    ],
+    "annual_expense": {
+      "Regular": "1.81",
+      "Direct": "0.70"
+    },
+    "exit_load": "For redemptions / switch outs (including SIP/STP) within 15 days from the date of allotment of units, irrespective of the amount of investment: 1%. No exit load shall be applicable on switches from Regular Plan to Direct Plan and vice versa, under the same scheme.",
+    "amfi_codes": [
+      "109830",
+      "120843",
+      "109831",
+      "120842"
+    ],
+    "isins": [
+      "INF966L01457",
+      "INF966L01911",
+      "INF966L01432",
+      "INF966L01895",
+      "INF966L01440",
+      "INF966L01903"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth Option - Regular Plan",
+    "Growth Option - Direct Plan",
+    "IDCW Payout Option - Regular Plan",
+    "IDCW Payout Option - Direct Plan",
+    "IDCW Re-investment Option - Regular Plan",
+    "IDCW Re-investment Option - Direct Plan"
+  ],
+  "extracted_at": "2026-04-18T05:28:34.286699+00:00"
+}

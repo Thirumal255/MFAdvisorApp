@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bandhan Transportation and Logistics Fund",
+  "source_file": "SUMMARY_BANDHAN TRANSPORTATION AND LOGISTICS FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Transportation and Logistics Fund",
+    "fund_type": "Sector Fund - An open-ended equity scheme investing in transportation and logistics sector",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW",
+      "Regular Plan-IDCW (Reinvestment)",
+      "Direct Plan-Growth",
+      "Direct Plan-IDCW",
+      "Direct Plan-IDCW (Reinvestment)"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme seeks to generate long-term capital growth by investing predominantly in equity and equity related securities of companies engaged in the transportation and logistics sector. Disclaimer: There is no assurance or guarantee that the objectives of the scheme will be realised.",
+    "asset_allocation": "Securities belonging to the Transportation and Logistics Sector - 80%-100%, Equities & Equity related securities other than above and overseas securities - 0%- 20% Debt & Money Market instruments - 0%- 20%",
+    "benchmark": "Nifty Transportation & Logistics Index",
+    "fund_managers": "Mr. Daylynn Pinto (equity portion) Mr. Harshal Joshi (debt portion)",
+    "annual_expense": {
+      "Regular": "2.35",
+      "Direct": "0.83"
+    },
+    "exit_load": "* If redeemed/switched out within 1 year from the date of allotment - 1% of applicable NAV; * If redeemed/switched out after1 year from the date of allotment – Nil",
+    "amfi_codes": [
+      "150717",
+      "150718",
+      "150718R",
+      "150716",
+      "150719",
+      "150719R"
+    ],
+    "isins": [
+      "INF194KB1EE1",
+      "INF194KB1EF8",
+      "INF194KB1EG6",
+      "INF194KB1EB7",
+      "INF194KB1EC5",
+      "INF194KB1ED3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW",
+    "Regular Plan-IDCW (Reinvestment)",
+    "Direct Plan-Growth",
+    "Direct Plan-IDCW",
+    "Direct Plan-IDCW (Reinvestment)"
+  ],
+  "extracted_at": "2026-04-18T02:52:42.290412+00:00"
+}

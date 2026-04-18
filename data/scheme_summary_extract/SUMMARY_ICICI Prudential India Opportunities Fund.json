@@ -1,0 +1,48 @@
+{
+  "parent_scheme_name": "ICICI Prudential India Opportunities Fund",
+  "source_file": "SUMMARY_ICICI Prudential India Opportunities Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential India Opportunities Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "ICICI Prudential India Opportunities Fund - Direct Plan - Growth",
+      "ICICI Prudential India Opportunities Fund - Direct Plan - IDCW",
+      "ICICI Prudential India Opportunities Fund - Growth",
+      "ICICI Prudential India Opportunities Fund - IDCW"
+    ],
+    "isins": [
+      "INF109KC1RH9",
+      "INF109KC1RI7",
+      "INF109KC1RE6",
+      "INF109KC1RF3"
+    ],
+    "amfi_codes": [
+      "P9453",
+      "P9454",
+      "P3251",
+      "P3252"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate long-term capital appreciation by investing in opportunities presented by special \nsituations such as corporate restructuring, Government policy and/or regulatory changes, \ncompanies going through temporary unique challenges and other similar instances.\nHowever there can be no assurance or guarantee that the investment objectives of the \nscheme would be achieved.",
+    "asset_allocation": "• Equity & Equity related instruments of special situations theme = 80%-100%\n• Other equity and equity related instruments = 0%-20%\n• Debt, Units of Mutual Fund schemes, Money market instruments,Cash & Cash Equivalents = \n0%-20%",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": [
+      "Sankaran Naren",
+      "Roshan Chutkey",
+      "Divya Jain"
+    ],
+    "annual_expense": {
+      "Regular": "1.58",
+      "Direct": "0.63"
+    },
+    "exit_load": "1 % of applicable Net Asset Value If the amount sought to be redeemed or switch out within \n12 months from allotment.\nNil If the amount sought to be redeemed or switched out more than 12 months."
+  },
+  "fund_options_inferred": [
+    "ICICI Prudential India Opportunities Fund - Direct Plan - Growth",
+    "ICICI Prudential India Opportunities Fund - Direct Plan - IDCW",
+    "ICICI Prudential India Opportunities Fund - Growth",
+    "ICICI Prudential India Opportunities Fund - IDCW"
+  ],
+  "extracted_at": "2026-04-18T04:07:16.714946+00:00"
+}

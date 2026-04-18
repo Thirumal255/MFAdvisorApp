@@ -1,0 +1,60 @@
+{
+  "parent_scheme_name": "Mahindra Manulife Low Duration Fund",
+  "source_file": "SUMMARY_Mahindra Manulife Low Duration Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Mahindra Manulife Low Duration Fund",
+    "fund_type": "An open ended low duration debt scheme investing in instruments such that the Macaulay duration of the Portfolio isbetween 6 months and 12 months (please refer to page no. 33 of SID). A relatively low interest rate risk and moderate creditrisk.",
+    "fund_options": [
+      "Regular Plan - Growth",
+      "Regular Plan - Daily IDCW Payout",
+      "Regular Plan - Weekly IDCW Payout",
+      "Regular Plan - Monthly IDCW Payout",
+      "Direct Plan - Growth",
+      "Direct Plan - Daily IDCW Payout",
+      "Direct Plan - Weekly IDCW Payout",
+      "Direct Plan - Monthly IDCW Payout"
+    ],
+    "isins": [
+      "INF174V01218",
+      "INF174V01226",
+      "INF174V01234",
+      "INF174V01242",
+      "INF174V01267",
+      "INF174V01275",
+      "INF174V01283",
+      "INF174V01291"
+    ],
+    "amfi_codes": [
+      "140620",
+      "140614",
+      "140615",
+      "140616",
+      "140613",
+      "140617",
+      "140618",
+      "140619"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the Scheme is to provide reasonable returns, commensurate with a low to moderate level of riskand high degree of liquidity, through a portfolio constituted of money market and debt instruments. However, there is noassurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee anyreturns",
+    "asset_allocation": "Money Market & Debt instruments: 0% - 100%, Units issued by REITs & InvITs: 0% - 10% *Includes securitized debt up to 30%of the net assets of the Scheme. Note: For detailed Asset Allocation please refer Scheme Information Document of theScheme available on our website www.mahindramanulife.com",
+    "benchmark": "CRISIL Low Duration Debt A-I Index",
+    "fund_managers": "FM-1 Mr. Rahul Pal, FM-2 Mr. Amit Garg",
+    "annual_expense": {
+      "Regular": "1.09",
+      "Direct": "0.30"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Plan - Growth",
+    "Regular Plan - Daily IDCW Payout",
+    "Regular Plan - Weekly IDCW Payout",
+    "Regular Plan - Monthly IDCW Payout",
+    "Direct Plan - Growth",
+    "Direct Plan - Daily IDCW Payout",
+    "Direct Plan - Weekly IDCW Payout",
+    "Direct Plan - Monthly IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T04:51:00.427784+00:00"
+}

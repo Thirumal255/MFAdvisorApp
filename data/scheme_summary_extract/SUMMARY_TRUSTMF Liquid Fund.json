@@ -1,0 +1,76 @@
+{
+  "parent_scheme_name": "TRUSTMF Liquid Fund",
+  "source_file": "SUMMARY_TRUSTMF Liquid Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "TRUSTMF Liquid Fund",
+    "fund_type": "An open-ended Liquid Scheme. A relatively low interest rate risk and relatively low credit risk.",
+    "fund_options": [
+      "Direct Plan - Daily IDCW-Reinvestment",
+      "Direct Plan - Growth",
+      "Direct Plan - Monthly IDCW-Reinvestment",
+      "Direct Plan - Monthly IDCW-Payout",
+      "Direct Plan - Weekly IDCW-Reinvestment",
+      "Direct Plan - Weekly IDCW-Payout",
+      "Regular Plan - Daily IDCW-Reinvestment",
+      "Regular Plan - Growth",
+      "Regular Plan - Monthly IDCW-Reinvestment",
+      "Regular Plan - Monthly IDCW-Payout",
+      "Regular Plan - Weekly IDCW-Reinvestment",
+      "Regular Plan - Weekly IDCW-Payout"
+    ],
+    "isins": [
+      "INF0GCD01263",
+      "INF0GCD01255",
+      "INF0GCD01297",
+      "INF0GCD01305",
+      "INF0GCD01289",
+      "INF0GCD01271",
+      "INF0GCD01206",
+      "INF0GCD01198",
+      "INF0GCD01230",
+      "INF0GCD01248",
+      "INF0GCD01222",
+      "INF0GCD01214"
+    ],
+    "amfi_codes": [
+      "148842",
+      "148841",
+      "148839",
+      "148839",
+      "148837",
+      "148837",
+      "148834",
+      "148833",
+      "148843",
+      "148843",
+      "148836",
+      "148836"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The objective of the scheme is to provide reasonable returns at a high level of safety and liquidity through investments in high quality debt and money market instruments.  However, there can be no assurance that the investment objective of the scheme will be realised",
+    "asset_allocation": "Debt & Money Market instruments having maturity upto 91 days - 0% - 100%.",
+    "benchmark": "CRISIL Liquid Debt A-I Index",
+    "fund_managers": "Mr. Jalpan Shah & Mr. Neeraj Jain",
+    "annual_expense": {
+      "Regular": "0.25",
+      "Direct": "0.10"
+    },
+    "exit_load": "If redeemed before 1 Day - Exit Load is 0.007%; 2 Days - Exit Load is 0.0065%; 3 Days - Exit Load is 0.006%; 4 Days - Exit Load is 0.0055%; 5 Days - Exit Load is 0.005%; 6 Days - Exit Load is 0.0045%; 7 Days - Exit Load is Nil"
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Daily IDCW-Reinvestment",
+    "Direct Plan - Growth",
+    "Direct Plan - Monthly IDCW-Reinvestment",
+    "Direct Plan - Monthly IDCW-Payout",
+    "Direct Plan - Weekly IDCW-Reinvestment",
+    "Direct Plan - Weekly IDCW-Payout",
+    "Regular Plan - Daily IDCW-Reinvestment",
+    "Regular Plan - Growth",
+    "Regular Plan - Monthly IDCW-Reinvestment",
+    "Regular Plan - Monthly IDCW-Payout",
+    "Regular Plan - Weekly IDCW-Reinvestment",
+    "Regular Plan - Weekly IDCW-Payout"
+  ],
+  "extracted_at": "2026-04-18T05:59:26.512183+00:00"
+}

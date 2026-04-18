@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE NIFTY 50 ETF",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Nifty 50 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE NIFTY 50 ETF",
+    "fund_type": "An open ended scheme replicating NIFTY 50 TRI Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide returns that closely correspond to the \ntotal returns of securities as represented by Nifty 50 TRI, subject to tracking errors.\nThe Scheme does not guarantee/indicate any returns. There can be no assurance that the \nscheme objectives will be achieved.",
+    "asset_allocation": "Securities comprising of underlying benchmark Index - 95% (Minimum) - 100% (Maximum) - \nMedium\nDebt & Money market instruments* - 0% (Minimum) - 5% (Maximum) - Low to Medium\n*Money Market Instruments include commercial papers, commercial bills, treasury bills, and \nGovernment securities having an unexpired maturity upto one year, call or notice money, \ncertificate of deposit, usance bills, Tri-party Repo on Government securities or treasury bills \nand any other like instruments as specified by the Reserve Bank of India from time to time.",
+    "benchmark": "Nifty 50 TRI",
+    "fund_managers": "Ms. Priya Sridhar",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "115512"
+    ],
+    "isins": [
+      "INF209KB19D1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T02:15:02.096997+00:00"
+}

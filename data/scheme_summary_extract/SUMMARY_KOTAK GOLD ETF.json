@@ -1,0 +1,35 @@
+{
+  "parent_scheme_name": "Kotak Gold ETF",
+  "source_file": "SUMMARY_KOTAK GOLD ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Gold ETF",
+    "fund_type": "An open ended scheme replicating/ tracking physical gold prices (BSE Scrip Code-590097 and NSE Symbol-GOLD1)",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "High",
+    "investment_objective": "The investment objective of the scheme is to generate returns that are in line with the performance of physical gold in domestic prices, subject to tracking error. The Scheme may also participate in gold related instruments. Exchange Traded Commodity Derivatives (ETCDs) having gold as the underlying shall be considered as gold related instrument for gold ETFs. There is no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Gold and instruments with gold as underlying that may be specified by SEBI# 95% to 100%* - Medium Risk. Debt and money market instruments - 0% to 5% Low Risk *As the scheme invests 95% to 100% of the net assets into Gold, the scheme will, by and large, be passively managed fund.",
+    "benchmark": "Prices of Gold",
+    "fund_managers": [
+      "FM 1 Mr. Abhishek Bisen",
+      "FM 2 Mr. Jeetu Valeccha Sonar"
+    ],
+    "annual_expense": {
+      "Regular": "0.55",
+      "Direct": "0"
+    },
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "106193"
+    ],
+    "isins": [
+      "INF174KA1HJ8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:35:06.224178+00:00"
+}

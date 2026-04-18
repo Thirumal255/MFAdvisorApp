@@ -1,0 +1,33 @@
+{
+  "parent_scheme_name": "ICICI Prudential Nifty Commodities ETF",
+  "source_file": "SUMMARY_ICICI Prudential Nifty Commodities ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Nifty Commodities ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High\n(as on September 30, 2025)",
+    "investment_objective": "The investment objective of the scheme is to provide returns before expenses that correspond to the total return of the underlying index subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (Nifty Commodities Index) = 95 % - 100%\n• Money market instruments including TREPs = 0% - 5%",
+    "benchmark": "Nifty Commodities TRI",
+    "fund_managers": [
+      "Venus Ahuja"
+    ],
+    "annual_expense": {
+      "Direct": "0.30"
+    },
+    "exit_load": null,
+    "amfi_codes": [
+      "5024"
+    ],
+    "isins": [
+      "INF109KC19O8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:11:44.951881+00:00"
+}

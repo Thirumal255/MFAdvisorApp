@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Tata Income Plus Arbitrage Active FOF",
+  "source_file": "SUMMARY_Tata Income Plus Arbitrage Active FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Tata Income Plus Arbitrage Active FOF",
+    "fund_type": "An open-ended fund of fund investing in domestic mutual funds including debt oriented mutual fund schemes & arbitrage-based equity mutual fund schemes",
+    "fund_options": [
+      "TATA INCOME PLUS ARBITRAGE ACTIVE FOF REGULAR PLAN IDCW",
+      "TATA INCOME PLUS ARBITRAGE ACTIVE FOF DIRECT PLAN IDCW",
+      "TATA INCOME PLUS ARBITRAGE ACTIVE FOF REGULAR PLAN GROWTH",
+      "TATA INCOME PLUS ARBITRAGE ACTIVE FOF DIRECT PLAN GROWTH",
+      "TATA INCOME PLUS ARBITRAGE ACTIVE FOF REGULAR PLAN IDCW PAYOUT",
+      "TATA INCOME PLUS ARBITRAGE ACTIVE FOF DIRECT PLAN IDCW PAYOUT"
+    ],
+    "isins": [
+      "INF277KA1DR6",
+      "INF277KA1DU0",
+      "INF277KA1DQ8",
+      "INF277KA1DT2",
+      "INF277KA1DS4",
+      "INF277KA1DV8"
+    ],
+    "amfi_codes": [
+      "153514",
+      "153509",
+      "153511",
+      "153513",
+      "153510",
+      "153512"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To provide long-term capital appreciation by investing in domestic mutual funds including debt oriented mutual fund schemes & arbitrage-based equity mutual fund schemes. However, there is no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Units of Debt-Oriented mutual fund schemes 55-65, Units of arbitrage-based equity mutual fund schemes 35-40, Debt & Money Market Instruments 0-5.",
+    "benchmark": "Crisil Composite Bond Fund Index (60%) + Nifty 50 Arbitrage Index (40%) (TRI)",
+    "fund_managers": "Sailesh Jain, Murthy Nagarajan",
+    "annual_expense": {
+      "Regular": "0.60",
+      "Direct": "0.07"
+    },
+    "exit_load": "0.25"
+  },
+  "fund_options_inferred": [
+    "TATA INCOME PLUS ARBITRAGE ACTIVE FOF REGULAR PLAN IDCW",
+    "TATA INCOME PLUS ARBITRAGE ACTIVE FOF DIRECT PLAN IDCW",
+    "TATA INCOME PLUS ARBITRAGE ACTIVE FOF REGULAR PLAN GROWTH",
+    "TATA INCOME PLUS ARBITRAGE ACTIVE FOF DIRECT PLAN GROWTH",
+    "TATA INCOME PLUS ARBITRAGE ACTIVE FOF REGULAR PLAN IDCW PAYOUT",
+    "TATA INCOME PLUS ARBITRAGE ACTIVE FOF DIRECT PLAN IDCW PAYOUT"
+  ],
+  "extracted_at": "2026-04-18T05:53:16.493052+00:00"
+}

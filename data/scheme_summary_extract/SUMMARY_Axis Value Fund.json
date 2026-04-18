@@ -1,0 +1,46 @@
+{
+  "parent_scheme_name": "Axis Value Fund",
+  "source_file": "SUMMARY_Axis Value Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Value Fund",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct IDCW",
+      "Direct Growth",
+      "Regular IDCW",
+      "Regular Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "To generate consistent long-term capital appreciation by investing predominantly in equity and equity related securities by following value investing strategy. However, there can be no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related instruments - (80%-100%), Debt & Money Market Instruments - (0%-20%), Units issued by REITs & InvITs - (0%-10%)",
+    "benchmark": "NIFTY 500 TRI",
+    "fund_managers": "Mr. Nitin Arora, Ms. Krishnaa N",
+    "annual_expense": {
+      "Regular": "2.12",
+      "Direct": "0.70"
+    },
+    "exit_load": "If redeemed / switched-out within 12 months from the date of allotment: a) For 20% of investments: Nil. b) For remaining investments: 1%. If redeemed / switched - out after 12 months from the date of allotment: Nil",
+    "amfi_codes": [
+      "149166",
+      "149168",
+      "149167",
+      "149165"
+    ],
+    "isins": [
+      "INF846K010C0",
+      "INF846K011C8",
+      "INF846K012C6",
+      "INF846K013C4",
+      "INF846K014C2",
+      "INF846K015C9"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct IDCW",
+    "Direct Growth",
+    "Regular IDCW",
+    "Regular Growth"
+  ],
+  "extracted_at": "2026-04-18T02:25:09.458162+00:00"
+}

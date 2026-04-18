@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "UTI - Mid Cap Fund",
+  "source_file": "SUMMARY_UTI - Mid Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "UTI - Mid Cap Fund",
+    "fund_type": "Mid Cap Fund- An open ended equity scheme predominantly investing in mid cap stocks.",
+    "fund_options": [
+      "Regular Plan-Growth",
+      "Regular Plan-Reinvestment of IDCW",
+      "Regular Plan-Payout of IDCW",
+      "Direct Plan-Growth",
+      "Direct Plan-Reinvestment of IDCW",
+      "Direct Plan-Payout of IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The objective of the scheme is to generate long term capital appreciation by investing predominantly in equity and equityrelated securities of mid cap companies. However, there can be no assurance or guarantee that the investment objective ofthe scheme would be achieved.",
+    "asset_allocation": "Equity and equity related instruments (minimum 65% of the total assets would be in equity and equity related instruments ofmid cap companies) (Including units of REITS): 65-100% (Medium to High) Debt and Money Market instruments includingsecuritized debt#: 0-35% (Low to Medium) Units issued by InvITs: 0-10% (Medium to High) #The fund may invest up to 50% ofits debt portfolio in securitized debt",
+    "benchmark": "Nifty Midcap 150 TRI",
+    "fund_managers": "Mr. Vishal Chopda",
+    "annual_expense": {
+      "Regular": "1.76",
+      "Direct": "0.92"
+    },
+    "exit_load": "Less than 1 year - 1.00%, Greater than or equal to one year - Nil",
+    "amfi_codes": [
+      "102394",
+      "102393",
+      null,
+      "120726",
+      "120727",
+      null
+    ],
+    "isins": [
+      "INF789F01810",
+      "INF789F01802",
+      "INF789F01794",
+      "INF789F01UA6",
+      "INF789F01TZ5",
+      "INF789F01TY8"
+    ]
+  },
+  "fund_options_inferred": [
+    "Regular Plan-Growth",
+    "Regular Plan-Reinvestment of IDCW",
+    "Regular Plan-Payout of IDCW",
+    "Direct Plan-Growth",
+    "Direct Plan-Reinvestment of IDCW",
+    "Direct Plan-Payout of IDCW"
+  ],
+  "extracted_at": "2026-04-18T06:07:14.303169+00:00"
+}

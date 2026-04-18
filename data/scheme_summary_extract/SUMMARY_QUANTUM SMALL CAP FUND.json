@@ -1,0 +1,36 @@
+{
+  "parent_scheme_name": "Quantum Small Cap Fund",
+  "source_file": "SUMMARY_QUANTUM SMALL CAP FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Quantum Small Cap Fund",
+    "fund_type": "An Open Ended Equity Scheme Predominantly Investing In Small Cap Stocks",
+    "fund_options": [
+      "Direct Plan Growth Option",
+      "Regular Plan Growth Option"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The Investment Objective of the Scheme is to generate capital appreciation by investing predominantly in Small Cap Stocks.There is no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Equity and Equity Related Instruments of Small Cap Companies-65 to 100%, Equity and Equity Related Instruments ofCompanies other than Small Cap Companies-0 to 35%, Debt and Money Market Instruments-0 to 35 %",
+    "benchmark": "BSE 250 SmallCap TRI",
+    "fund_managers": "Mr. Chirag Mehta, Ms.Abhilasha Satale",
+    "annual_expense": {
+      "Regular": "2.17",
+      "Direct": "0.70"
+    },
+    "exit_load": "10% of units If redeemed or switched out on or before 365 days from the date of allotment – Nil, Remaining 90% of units ifredeemed or switched out on or before 365 days from the date of allotment – 1, If redeemed or switched out after 365days from the date of allotment – Nil",
+    "amfi_codes": [
+      "152107",
+      "152108"
+    ],
+    "isins": [
+      "INF082J01432",
+      "INF082J01440"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth Option",
+    "Regular Plan Growth Option"
+  ],
+  "extracted_at": "2026-04-18T05:32:36.886023+00:00"
+}

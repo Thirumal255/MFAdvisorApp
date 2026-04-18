@@ -1,0 +1,50 @@
+{
+  "parent_scheme_name": "SBI PSU Fund",
+  "source_file": "SUMMARY_SBI PSU FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI PSU Fund",
+    "fund_type": "An open-ended Equity scheme investing in PSU/PSU subsidiaries sector",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth"
+    ],
+    "isins": [
+      "INF200K01BE6",
+      "INF200K01BC0",
+      "INF200K01UX6",
+      "INF200K01UY4"
+    ],
+    "amfi_codes": [
+      "112923",
+      "113099",
+      "119733",
+      "119732"
+    ],
+    "riskometer": "VERY HIGH",
+    "investment_objective": "The objective of the scheme would be toprovide investors with opportunities forlong-term growth in capital along with theliquidity of an open-ended scheme throughan active management of investments in adiversified basket of equity stocks ofdomestic Public Sector Under takings and indebt and money market instruments issuedby PSUs and others.",
+    "asset_allocation": {
+      "Equities of PSU companes and their subsidiaries (including derivatives)": "80%-100%",
+      "Other equities and equity related instruments": "0%-20%",
+      "Units issued by REIT/InVIT*": "0%-10%",
+      "Debt Instruments (including securitized debt)": "0%-20%",
+      "Money Market Instruments": "0%-20%"
+    },
+    "benchmark": "S&P BSE PSU Index",
+    "fund_managers": "Rohit Shimpi",
+    "annual_expense": {
+      "Regular": "0.67",
+      "Direct": "0.67"
+    },
+    "exit_load": "For exit on or before 30 days from the date of allotment - 0.50%; For exit after 30 days from the date of allotment - Nil."
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:43:18.981546+00:00"
+}

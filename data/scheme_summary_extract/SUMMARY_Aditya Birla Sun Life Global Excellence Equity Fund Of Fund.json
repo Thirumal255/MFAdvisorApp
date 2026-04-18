@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "ADITYA BIRLA SUN LIFE GLOBAL EXCELLENCE EQUITY FUND OF FUND",
+  "source_file": "SUMMARY_Aditya Birla Sun Life Global Excellence Equity Fund Of Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ADITYA BIRLA SUN LIFE GLOBAL EXCELLENCE EQUITY FUND OF FUND",
+    "fund_type": "An open-ended fund of fund scheme investing primarily in units of Julius Baer Global Excellence Equity Fund",
+    "fund_options": [
+      "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW",
+      "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option",
+      "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option",
+      "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW"
+    ],
+    "isins": [
+      "INF084M01BA8",
+      "INF084M01AZ7",
+      "INF084M01EH7",
+      "INF084M01EI5"
+    ],
+    "amfi_codes": [
+      "132003",
+      "132005",
+      "132009",
+      "132010"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The primary objective of the Scheme is to achieve long-term capital growth by investing primarily in units of Julius Baer Global Excellence Equity Fund. The Scheme does not guarantee/indicate any returns. There can be no assurance that the schemes' objectives will be achieved.",
+    "asset_allocation": "Units of Julius Baer Global Excellence Equity Fund- 95-100% - High\nMoney Market Instruments/ Liquid Funds/ Money Market Mutual Funds- 0-5% - Low to Medium",
+    "benchmark": "MSCI World Index",
+    "fund_managers": "Mr. Dhaval Joshi",
+    "annual_expense": {
+      "Regular": "1.28",
+      "Direct": "0.68"
+    },
+    "exit_load": "For redemption/switch out of units within 28 days from the date of allotment: 0.25% of applicable NAV. For redemption/switch out of units after 28 days from the date of allotment: NIL"
+  },
+  "fund_options_inferred": [
+    "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW",
+    "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option",
+    "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option",
+    "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:12:21.969023+00:00"
+}

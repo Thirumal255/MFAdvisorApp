@@ -1,0 +1,42 @@
+{
+  "parent_scheme_name": "Kotak Nifty 50 Value 20 ETF",
+  "source_file": "SUMMARY_Kotak Nifty 50 Value 20 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Kotak Nifty 50 Value 20 ETF",
+    "fund_type": "An open ended scheme replicating/ tracking Nifty 50 Value 20 index(NSE Symbol-NV20)",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely correspond to the total returns ofstocks as represented by the Nifty 50 Value 20 Index, subject to tracking errors. There is no assurance or guarantee that theinvestment objective of the scheme will be achieved.",
+    "asset_allocation": "Stocks comprising Nifty 50 Value 20 Index - 95 - 100% - Medium - High Cash and debt/money market instruments - 0 - 5% - Low –Medium",
+    "benchmark": "Nifty 50 Value 20 TRI",
+    "fund_managers": [
+      {
+        "name": "Mr. Devender Singhal",
+        "type": "Primary",
+        "from_date": "09/05/2019"
+      },
+      {
+        "name": "Mr. Satish Dondapati",
+        "type": "Primary",
+        "from_date": "09/05/2019"
+      }
+    ],
+    "annual_expense": {
+      "Direct": "0.14"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "135744"
+    ],
+    "isins": [
+      "INF174K01Z7"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T04:38:21.954524+00:00"
+}

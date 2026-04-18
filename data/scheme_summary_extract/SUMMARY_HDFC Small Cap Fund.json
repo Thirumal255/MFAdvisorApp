@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "HDFC Small Cap Fund",
+  "source_file": "SUMMARY_HDFC Small Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HDFC Small Cap Fund",
+    "fund_type": "An open ended equity scheme predominantly investing in small cap stocks",
+    "fund_options": [
+      "REGULAR PLAN - GROWTH OPTION",
+      "REGULAR PLAN - IDCWPAYOUT OPTION",
+      "REGULAR PLAN – IDCW REINVESTMENT OPTION",
+      "DIRECT PLAN - GROWTH OPTION",
+      "DIRECT PLAN - IDCWPAYOUT OPTION",
+      "DIRECT PLAN - IDCW REINVESTMENT OPTION"
+    ],
+    "isins": [
+      "INF179KA1RZ8",
+      "INF179KA1SA9",
+      "INF179KA1SB7",
+      "INF179KA1RW5",
+      "INF179KA1RX3",
+      "INF179KA1RY1"
+    ],
+    "amfi_codes": [
+      "130502",
+      "130501",
+      "130501",
+      "130503",
+      "130504",
+      "130504"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "To provide long-term capital appreciation /income by investing predominantly in Small-Cap companies. There is no assurance thatthe investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and equity related instruments of Small Cap companies** : 65%- 100% Equity and equity related instruments other thanSmall Cap companies: 0% - 35%; Debt Securities (including securitised debt) and money market instruments: 0% - 35%; Unitsissued by InvITs: 0% - 10%; Non-convertible preference shares: 0% - 10%. ** Investment universe of “Small Cap” will be as perclause 2.7.1 of SEBI Master Circular and as deﬁned by SEBI/AMFI from time to time. shall comprise companies as deﬁned by SEBIfrom time to time. The list of stocks of Small Cap companies prepared by AMFI in this regard will be adopted. For detailed assetallocation, refer Scheme Information Document (SID) available on the website.",
+    "benchmark": "BSE 250 SmallCap (Total Returns Index)",
+    "fund_managers": "FM 1 - Mr.Chirag Setalvad, FM 2 - Mr. Dhruv Muchhal",
+    "annual_expense": {
+      "Regular": "1.54",
+      "Direct": "0.67"
+    },
+    "exit_load": "In respect of each purchase/ switch-in of units, an Exit Load of 1.00% is payable if Units are redeemed/switched-out within 1 yearfrom the date of allotment. No Exit Load is payable if Units are redeemed/ switched-out after 1 year from the date of allotment."
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN - GROWTH OPTION",
+    "REGULAR PLAN - IDCWPAYOUT OPTION",
+    "REGULAR PLAN – IDCW REINVESTMENT OPTION",
+    "DIRECT PLAN - GROWTH OPTION",
+    "DIRECT PLAN - IDCWPAYOUT OPTION",
+    "DIRECT PLAN - IDCW REINVESTMENT OPTION"
+  ],
+  "extracted_at": "2026-04-18T03:50:44.433116+00:00"
+}

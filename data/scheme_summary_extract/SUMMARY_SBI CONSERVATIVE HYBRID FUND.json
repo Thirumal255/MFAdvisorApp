@@ -1,0 +1,67 @@
+{
+  "parent_scheme_name": "SBI Conservative Hybrid Fund",
+  "source_file": "SUMMARY_SBI CONSERVATIVE HYBRID FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "SBI Conservative Hybrid Fund",
+    "fund_type": "An open ended hybrid scheme investing predominantly in debt instruments",
+    "fund_options": [
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW",
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Direct Plan - IDCW",
+      "Direct Plan - IDCW",
+      "Direct Plan - IDCW",
+      "Direct Plan - Growth"
+    ],
+    "isins": [
+      "INF200K01875",
+      "INF200K01891",
+      "INF200K01917",
+      "INF200K01859",
+      "INF200K01TU4",
+      "INF200K01TW0",
+      "INF200K01TR0",
+      "INF200K01TS8"
+    ],
+    "amfi_codes": [
+      "100927",
+      "100928",
+      "100929",
+      "100968",
+      "119838",
+      "119836",
+      "119837",
+      "119839"
+    ],
+    "riskometer": "HIGH",
+    "investment_objective": "To provide the investors an opportunity to invest primarily in debt and money market instruments and secondarily in equity and equity related instruments.",
+    "asset_allocation": {
+      "Equity and Equity related Instruments (including derivatives)": "10%-25%",
+      "Debt instruments (including debt derivatives) and Money Market instruments (including triparty repo, Reverse repo and equivalent)": "75%-90%",
+      "Units issued by REITs and InVITs": "0%-10%"
+    },
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 15:85 Index",
+    "fund_managers": [
+      "Ms. Mansi Sajeja",
+      "Mr. Saurabh Pant",
+      "Milind Agrawal"
+    ],
+    "annual_expense": {
+      "Direct": "0.85"
+    },
+    "exit_load": "For exit within 1 year from the date of allotment - For 10% of investment - Nil - For remaining investments - 1% For exit after 1 year from the date of allotment - Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW",
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Direct Plan - IDCW",
+    "Direct Plan - IDCW",
+    "Direct Plan - IDCW",
+    "Direct Plan - Growth"
+  ],
+  "extracted_at": "2026-04-18T05:35:54.818289+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund",
+  "source_file": "SUMMARY_HSBC CRISIL IBX 50-50 Gilt Plus SDL Apr 2028 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund",
+    "fund_type": "An open-ended Target Maturity Index Fund tracking CRISIL IBX 50:50 Gilt Plus SDL Index – April 2028. Relatively high interestrate risk and relatively low credit risk",
+    "fund_options": [
+      "CRISIL IBX Fund Dir IDCW",
+      "CRISIL IBX Fund Dir Gr",
+      "CRISIL IBX Fund Dir IDCW Pay",
+      "CRISIL IBX Fund IDCW Payout",
+      "CRISIL IBX Fund Growth",
+      "CRISIL IBX Fund IDCW"
+    ],
+    "isins": [
+      "INF336L01QJ3",
+      "INF336L01QH7",
+      "INF336L01QI5",
+      "INF336L01QL9",
+      "INF336L01QK1",
+      "INF336L01QM7"
+    ],
+    "amfi_codes": [
+      "149966",
+      "149966",
+      "149966",
+      "149966",
+      "149966",
+      "149966"
+    ],
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the Scheme is to provide returns corresponding to the total returns of the securities as representedby the CRISIL IBX 50:50 Gilt Plus SDL Index – April 2028 before expenses, subject to tracking errors. However, there is noassurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Under normal circumstances, it is anticipated that the asset allocation of the Scheme will be as follows: GSecs securities formingpart of the GSec portion of CRISIL IBX 50:50 Gilt Plus SDL Index – April 2028 AND SDLs securities forming part of the SDL portionCRISIL IBX 50:50 Gilt Plus SDL Index – April 2028: 95%-100% Money Market instruments including cash and cash equivalents(Treasury Bills, Government Securities with residual maturity of upto 1 year and Tri-Party Repos): 0%-5%",
+    "benchmark": "CRISIL IBX 50:50 Gilt Plus SDL Index – April 2028",
+    "fund_managers": "FM 1 - Mohd. Asif Rizwi, FM 2 - Mahesh Chhabria",
+    "annual_expense": {
+      "Regular": "0.33",
+      "Direct": "0.22"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "CRISIL IBX Fund Dir IDCW",
+    "CRISIL IBX Fund Dir Gr",
+    "CRISIL IBX Fund Dir IDCW Pay",
+    "CRISIL IBX Fund IDCW Payout",
+    "CRISIL IBX Fund Growth",
+    "CRISIL IBX Fund IDCW"
+  ],
+  "extracted_at": "2026-04-18T03:54:49.050137+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF",
+  "source_file": "SUMMARY_Axis Nifty AAA Bond Plus SDL Apr 2026 50-50 ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "To replicate Nifty AAA Bond Plus SDL Apr 2026 50:50 Index by investing in bonds of issuers rated AAA and state development loans (SDL), subject to tracking errors. However, there is no assurance or guarantee that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Debt Instruments comprising of Nifty AAA Bond Plus SDL Apr 2026 50:50 Index - (95%-100%), Money Market Instruments -(0%-5%)",
+    "benchmark": "Nifty AAA Bond Plus SDL Apr 2026 50:50 Index",
+    "fund_managers": "Mr. Aditya Pagaria, Mr. Sachin Jain",
+    "annual_expense": {
+      "Direct": "0.00"
+    },
+    "exit_load": "N/A",
+    "amfi_codes": [
+      "148926"
+    ],
+    "isins": [
+      "INF846K01Z0"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T02:23:03.984928+00:00"
+}

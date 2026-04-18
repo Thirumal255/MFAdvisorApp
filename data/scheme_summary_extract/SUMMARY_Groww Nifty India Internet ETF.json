@@ -1,0 +1,29 @@
+{
+  "parent_scheme_name": "Groww Nifty India Internet ETF",
+  "source_file": "SUMMARY_Groww Nifty India Internet ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Groww Nifty India Internet ETF",
+    "fund_type": "ETF",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the  Scheme is to generate long-term capital growth by investing in securities of the Nifty India Internet Index in the same proportion/weightage with an aim to provide returns before expenses that track the total return of Nifty India Internet Index, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Constituents of Nifty India Internet Index - 95% to 100% Money  market  instruments  /  debt  securities,  Instruments  and/or units of debt/liquid schemes of domestic Mutual Funds. - 0% to 5%",
+    "benchmark": "Nifty India Internet Index - TRI",
+    "fund_managers": "Mr. Nikhil Satam, Mr. Aakash chauhan & Mr. Shashi Kumar",
+    "annual_expense": {},
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153625"
+    ],
+    "isins": [
+      "INF666M01LI4"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T03:38:14.256754+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "parent_scheme_name": "ICICI Prudential Dynamic Asset Allocation Active FOF",
+  "source_file": "SUMMARY_ICICI Prudential Dynamic Asset Allocation Active FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "ICICI Prudential Dynamic Asset Allocation Active FOF",
+    "fund_type": "Open Ended",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Growth",
+      "IDCW"
+    ],
+    "riskometer": "Moderately High",
+    "investment_objective": "The primary objective of the Scheme is to generate capital appreciation by investing dynamically in units of active equity and debt oriented mutual fund schemes.  However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "Units of Active Mutual Fund Schemes - 95-100%\n  • Active Equity oriented schemes - 0-100%\n  • Active Debt-oriented schemes - 0-100%\nMoney Market Instruments (with maturity not exceeding 91 days), including Tri-Party Repo*  - 0-5%",
+    "benchmark": [
+      "CRISIL Hybrid 50+50 - Moderate Index",
+      "Nifty 50 TRI"
+    ],
+    "fund_managers": [
+      "Dharmesh Kakkad",
+      "Manish Banthia",
+      "Ritesh Lunawat",
+      "Sharmila D'Silva"
+    ],
+    "annual_expense": {
+      "Regular": "1.27",
+      "Direct": "0.22"
+    },
+    "exit_load": "If units purchased or switched in from another scheme of the Fund are redeemed or switched out up to 30% of the units (the limit) purchased or switched within 1 year from the date of allotment – Nil\nIf units purchased or switched in from another scheme of the Fund are redeemed or switched out in excess of the limit within 1 Year from the date of allotment - 1% of the applicable NAV\nIf units purchased or switched in from another scheme of the Fund are\nredeemed or switched out after 1 Year from the date of allotment - Nil.",
+    "amfi_codes": [
+      "120679",
+      "120680",
+      "102137",
+      "102138"
+    ],
+    "isins": [
+      "INF109K01X16",
+      "INF109K01W90",
+      "INF109K01X08",
+      "INF109K01837",
+      "INF109K01FJ9",
+      "INF109K01845"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Growth",
+    "IDCW"
+  ],
+  "extracted_at": "2026-04-18T04:04:14.119983+00:00"
+}

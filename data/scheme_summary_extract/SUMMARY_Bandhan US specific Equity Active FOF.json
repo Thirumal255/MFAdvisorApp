@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Bandhan US specific Equity Active FOF",
+  "source_file": "SUMMARY_Bandhan US specific Equity Active FOF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan US specific Equity Active FOF",
+    "fund_type": "An open-ended fund of fund scheme investing in units of overseas Mutual Fund Scheme(s) investing in US Equity securities.",
+    "fund_options": [
+      "REGULAR PLAN - IDCW Reinvestment",
+      "DIRECT PLAN - Growth",
+      "DIRECT PLAN - IDCW Reinvestment",
+      "REGULAR PLAN - IDCW Payout",
+      "DIRECT PLAN - IDCW Payout",
+      "REGULAR PLAN - Growth"
+    ],
+    "isins": [
+      "INF194KB1CE5",
+      "INF194KB1CF2",
+      "INF194KB1CH8",
+      "INF194KB1CD7",
+      "INF194KB1CG0",
+      "INF194KB1CC9"
+    ],
+    "amfi_codes": [
+      "149097",
+      "149098",
+      "149099",
+      "149097",
+      "149099",
+      "149100"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Fund seeks to generate long term capital appreciation by investing in units of overseas Mutual Fund Scheme(s) investing in US Equity securities.",
+    "asset_allocation": "Units of overseas Mutual Fund Scheme(s) investing in US Equity securities - 95% - 100%, Debt and Money Market Instruments -0% - 5%",
+    "benchmark": "Russell 1000 Growth Index (Total Return Net of 30% withholding tax)",
+    "fund_managers": "FM 1 - Ms. Ritika Behera, FM 2 - Mr. Gaurav Satra",
+    "annual_expense": {
+      "Regular": "1.60",
+      "Direct": "0.65"
+    },
+    "exit_load": "1% of applicable NAV - if the units are redeemed/switched out within 1 year from the date of allotment Nil – if the units are redeemed / switched-out after 1 year from the date of allotment"
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN - IDCW Reinvestment",
+    "DIRECT PLAN - Growth",
+    "DIRECT PLAN - IDCW Reinvestment",
+    "REGULAR PLAN - IDCW Payout",
+    "DIRECT PLAN - IDCW Payout",
+    "REGULAR PLAN - Growth"
+  ],
+  "extracted_at": "2026-04-18T02:53:00.044982+00:00"
+}

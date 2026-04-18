@@ -1,0 +1,68 @@
+{
+  "parent_scheme_name": "LIC MF Overnight Fund",
+  "source_file": "SUMMARY_LIC MF Overnight Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "LIC MF Overnight Fund",
+    "fund_type": "An open-ended debt scheme investing in overnight securities. A Relatively Low Interest Rate Risk and Relatively Low CreditRisk",
+    "fund_options": [
+      "Regular Plan-IDCW payout",
+      "Regular Plan-IDCW Reinv",
+      "Regular Plan-Daily IDCW Reinv",
+      "Regular Plan-Weekly IDCWReinv",
+      "Regular Plan-Growth",
+      "Direct Plan-IDCW payout",
+      "Direct Plan-IDCW Reinv",
+      "Direct Plan-Daily IDCW Reinv",
+      "Direct Plan-Weekly IDCW Reinv",
+      "Direct Plan-Growth"
+    ],
+    "isins": [
+      "INF767K01PZ9",
+      "INF767K01QA0",
+      "INF767K01QB8",
+      "INF767K01QC6",
+      "INF767K01QD4",
+      "INF767K01QE2",
+      "INF767K01QF9",
+      "INF767K01QG7",
+      "INF767K01QH5",
+      "INF767K01QI3"
+    ],
+    "amfi_codes": [
+      "147512",
+      "147512",
+      "147517",
+      "147518",
+      "147519",
+      "147513",
+      "147513",
+      "147516",
+      "147514",
+      "147515"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The Scheme aims to provide reasonable returns commensurate with low risk and providing a high level of liquidity, throughinvestments made primarily in overnight securities having maturity/residual maturity of 1 business day. There is no assurancethat the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Overnight securities or debt instruments maturing on or before the next business day : 0-100%. Please refer the SchemeInformation Document for complete details.",
+    "benchmark": "NIFTY 1D Rate Index",
+    "fund_managers": "FM1 - Mr. Rahul Singh , FM2- Mr. Aakash Dhulia",
+    "annual_expense": {
+      "Regular": "0.15",
+      "Direct": "0.07"
+    },
+    "exit_load": "Nil"
+  },
+  "fund_options_inferred": [
+    "Regular Plan-IDCW payout",
+    "Regular Plan-IDCW Reinv",
+    "Regular Plan-Daily IDCW Reinv",
+    "Regular Plan-Weekly IDCWReinv",
+    "Regular Plan-Growth",
+    "Direct Plan-IDCW payout",
+    "Direct Plan-IDCW Reinv",
+    "Direct Plan-Daily IDCW Reinv",
+    "Direct Plan-Weekly IDCW Reinv",
+    "Direct Plan-Growth"
+  ],
+  "extracted_at": "2026-04-18T04:47:44.321200+00:00"
+}

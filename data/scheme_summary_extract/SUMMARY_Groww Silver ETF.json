@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Groww Silver ETF",
+  "source_file": "SUMMARY_Groww Silver ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Groww Silver ETF",
+    "fund_type": "ETF",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to generate returns corresponding to the Domestic Price of Physical Silver before expenses, subject to tracking errors, fees and expenses by investing in Physical Silver. There is no assurance or guarantee that the investment objective of the scheme would be achieved..",
+    "asset_allocation": "Silver (Includes Physical Silver and other Silver related instruments as permitted by SEBI from time to time)   - 95% to 100% k\nDebt^ & Money Market Instruments^^ including units of Mutual Funds   - 0% to 05%",
+    "benchmark": "Domestic Price of Physical Silver",
+    "fund_managers": "Mr. Wilfred Gonsalves",
+    "annual_expense": {
+      "Direct": "0.43"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153524"
+    ],
+    "isins": [
+      "INF666M01LA1"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T03:39:43.607965+00:00"
+}

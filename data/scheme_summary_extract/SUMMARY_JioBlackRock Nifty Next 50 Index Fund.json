@@ -1,0 +1,32 @@
+{
+  "parent_scheme_name": "JioBlackRock Nifty Next 50 Index Fund",
+  "source_file": "SUMMARY_JioBlackRock Nifty Next 50 Index Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "JioBlackRock Nifty Next 50 Index Fund",
+    "fund_type": "An open ended scheme replicating/ tracking the Nifty Next 50 Index",
+    "fund_options": [
+      "Direct Plan Growth"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "Passive investment in equity and equity related securities replicating the composition of Nifty Next 50 Index, subject to tracking errors. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and equity related securities of companies comprising the Nifty Next 50 Index: 95%-100% Debt and Money Market Instruments: 0%-5%",
+    "benchmark": "Nifty Next 50 Index (TRI)",
+    "fund_managers": "Ms. Tanvi Kacheria, Mr. Anand Shah, Mr. Haresh Mehta",
+    "annual_expense": {
+      "Regular": "0.00",
+      "Direct": "0.15"
+    },
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153789"
+    ],
+    "isins": [
+      "INF22M00108"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan Growth"
+  ],
+  "extracted_at": "2026-04-18T04:28:41.350265+00:00"
+}

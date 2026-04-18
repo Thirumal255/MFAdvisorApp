@@ -1,0 +1,31 @@
+{
+  "parent_scheme_name": "Nippon India Nifty Pharma ETF",
+  "source_file": "SUMMARY_Nippon India Nifty Pharma ETF.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Nippon India Nifty Pharma ETF",
+    "fund_type": "An open ended scheme replicating/ tracking NIFTY Pharma Index",
+    "fund_options": [
+      "Growth"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The investment objective of the scheme is to provide investment returns closely corresponding to the total returns of the securities as represented by the NIFTY Pharma Index before expenses, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities constituting securities constituting Nifty Pharma Index - 95% to 100%, Money Market Instruments including TriParty Repo on governement securities or T-Bills, cash & cash equivalents or Liquid Schemes - 0% to 5%.",
+    "benchmark": "Nifty Pharma TRI",
+    "fund_managers": "Jitendra Tolani",
+    "annual_expense": {
+      "Direct": "0.2100"
+    },
+    "exit_load": "Not Applicable",
+    "amfi_codes": [
+      "149008"
+    ],
+    "isins": [
+      "INF204KC1089"
+    ]
+  },
+  "fund_options_inferred": [
+    "Growth"
+  ],
+  "extracted_at": "2026-04-18T05:19:38.742575+00:00"
+}

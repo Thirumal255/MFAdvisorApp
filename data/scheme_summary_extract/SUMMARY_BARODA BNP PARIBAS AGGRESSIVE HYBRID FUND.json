@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND",
+  "source_file": "SUMMARY_BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND",
+    "fund_type": "An Open ended Hybrid Scheme investing predominantly in equity and equity related instruments",
+    "fund_options": [
+      "DIRECT PLAN - IDCW REINVESTMENT",
+      "DIRECT PLAN - IDCW PAYOUT",
+      "REGULAR PLAN - IDCW REINVESTMENT",
+      "REGULAR PLAN - IDCW PAYOUT",
+      "REGULAR PLAN - GROWTH",
+      "DIRECT PLAN - GROWTH"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme seeks to generate income and capital appreciation by investing in a diversiﬁed portfolio of equity and equityrelated instruments and ﬁxed income instruments.",
+    "asset_allocation": "Debt Instruments & Money Market Instruments (including cash / call money) 20% - 35%, Equity & Equity related securities 65% - 80%, Units issued by REITs & InvITs 0% - 10%",
+    "benchmark": "CRISIL Hybrid 35+65-Aggressive Index",
+    "fund_managers": "Mr. Jitendra Sriram (Equity Portfolio), Mr. Pratish Krishnan (Equity Portfolio) & Mr. Gurvinder Singh Wasan (Fixed IncomePortfolio)",
+    "annual_expense": {
+      "Regular": "2.11",
+      "Direct": "0.52"
+    },
+    "exit_load": "If units of the Scheme are redeemed or switched out up to 10% of the units (the limit) within 12 months from the date ofallotment - Nil. If units of the scheme are redeemed or switched out in excess of the limit within 12 months from the date ofallotment - 1% of the applicable NAV. If units of scheme are redeemed or switched out after 12 months from the date ofallotment - Nil.",
+    "amfi_codes": [
+      "150259",
+      "150260",
+      "150261",
+      "150261",
+      "150258",
+      "150260"
+    ],
+    "isins": [
+      "INF251K01PA7",
+      "INF251K01PB5",
+      "INF251K01OX2",
+      "INF251K01OY0",
+      "INF251K01OW4",
+      "INF251K01OZ7"
+    ]
+  },
+  "fund_options_inferred": [
+    "DIRECT PLAN - IDCW REINVESTMENT",
+    "DIRECT PLAN - IDCW PAYOUT",
+    "REGULAR PLAN - IDCW REINVESTMENT",
+    "REGULAR PLAN - IDCW PAYOUT",
+    "REGULAR PLAN - GROWTH",
+    "DIRECT PLAN - GROWTH"
+  ],
+  "extracted_at": "2026-04-18T02:56:24.206597+00:00"
+}

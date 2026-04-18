@@ -1,0 +1,52 @@
+{
+  "parent_scheme_name": "Baroda BNP Paribas Flexi Cap Fund",
+  "source_file": "SUMMARY_Baroda BNP Paribas Flexi Cap Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Baroda BNP Paribas Flexi Cap Fund",
+    "fund_type": "An Open-ended dynamic equity scheme investing across large cap, mid cap, small cap companies",
+    "fund_options": [
+      "REGULAR PLAN - GROWTH",
+      "REGULAR PLAN - IDCW Re-investment",
+      "REGULAR PLAN - IDCW Payout",
+      "DIRECT PLAN - GROWTH",
+      "DIRECT PLAN - IDCW Re-investment",
+      "DIRECT PLAN - IDCW Payout"
+    ],
+    "isins": [
+      "INF251K01QW9",
+      "INF251K01QY5",
+      "INF251K01QX7",
+      "INF251K01QZ2",
+      "INF251K01RB1",
+      "INF251K01RA3"
+    ],
+    "amfi_codes": [
+      "150385",
+      "150386",
+      "null",
+      "150387",
+      "150388",
+      "null"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme seeks to generate long term capital appreciation by investing in a dynamic mix of equity and equity related instruments across market capitalizations. However, there can be no assurance that the investment objectives of the Scheme will be realized. The Scheme does not guarantee/indicate any returns.",
+    "asset_allocation": "Equity and equity related instruments: 65% - 100% Debt & Money Market instruments and/or units of Mutual Fund: 0% -35% Units issued by REITs & InvITs: 0% - 10%",
+    "benchmark": "Nifty 500 Total Return Index",
+    "fund_managers": "Mr. Sanjay Chawla and Mr. Kirtan Mehta",
+    "annual_expense": {
+      "Regular": "2.18",
+      "Direct": "1.01"
+    },
+    "exit_load": "If units of the Scheme are redeemed or switched out up to 10% of the units (the limit) within 12 months from the date of allotment - Nil. If units of the scheme are redeemed or switched out in excess of the limit within 12 months from the date of allotment - 1% of the applicable NAV. If units of scheme are redeemed or switched out after 12 months from the date of allotment - Nil"
+  },
+  "fund_options_inferred": [
+    "REGULAR PLAN - GROWTH",
+    "REGULAR PLAN - IDCW Re-investment",
+    "REGULAR PLAN - IDCW Payout",
+    "DIRECT PLAN - GROWTH",
+    "DIRECT PLAN - IDCW Re-investment",
+    "DIRECT PLAN - IDCW Payout"
+  ],
+  "extracted_at": "2026-04-18T02:58:51.231587+00:00"
+}

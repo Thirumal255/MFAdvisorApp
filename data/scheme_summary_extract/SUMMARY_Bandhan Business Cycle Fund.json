@@ -1,0 +1,44 @@
+{
+  "parent_scheme_name": "Bandhan Business Cycle Fund",
+  "source_file": "SUMMARY_Bandhan Business Cycle Fund.pdf",
+  "source": "summary_pdf",
+  "data": {
+    "fund_name": "Bandhan Business Cycle Fund",
+    "fund_type": "An open-ended equity scheme following a business cycle based investing theme",
+    "fund_options": [
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The scheme seeks to generate long-term capital appreciation by investing predominantly in equity and equity-related instruments with a focus on riding business cycles through dynamic allocation between various sectors and stocks at different stages of business cycles in the economy.",
+    "asset_allocation": "Equity & equity related instruments selected based on the business cycle - 80%-100%, Equities & equity related overseas securities* - 0% - 20% Debt Securities and Money Market Instruments (including Government securities, Securitised debt) -0% - 20% Units issued by InvITs - 0% - 10%",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Mr. Vishal Biraia, Ms. Ritika Behera, Mr. Brijesh Shah",
+    "annual_expense": {
+      "Regular": "2.09",
+      "Direct": "0.60"
+    },
+    "exit_load": "0.0005",
+    "amfi_codes": [
+      "152879",
+      "152878",
+      "152877",
+      "152880"
+    ],
+    "isins": [
+      "INF194KB1IL7",
+      "INF194KB1IQ6",
+      "INF194KB1IP8",
+      "INF194KB1II3"
+    ]
+  },
+  "fund_options_inferred": [
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW"
+  ],
+  "extracted_at": "2026-04-18T02:27:34.403516+00:00"
+}
