@@ -11,31 +11,39 @@
       "Aditya Birla Sun Life CRISIL IBX AAA Mar 2024 Index Fund-Regular Growth",
       "Aditya Birla Sun Life CRISIL IBX AAA Mar 2024 Index Fund-Regular IDCW"
     ],
-    "riskometer": "Low to Moderate",
-    "investment_objective": "The investment objective of the Scheme is to generate returns corresponding to the total returns of the securities as represented by the CRISIL IBX AAA Index – March 2024 before expenses, subject to tracking errors. The Scheme does not guarantee/indicate any returns. There can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Instruments forming part of the CRISIL IBX AAA Index – March 2024  - 95 to 100%- Moderate Cash and Debt/Money Market Instruments - 0 to 5% - Low",
-    "benchmark": "CRISIL IBX AAA Mar 2024 Index",
-    "fund_managers": [
-      "Mr. Mohit Sharma",
-      "Mr. Sanjay Godambe"
+    "isins": [
+      "INF209KB10S8",
+      "INF209KB11S6",
+      "INF209KB18R3",
+      "INF209KB19R1"
     ],
-    "annual_expense": {
-      "Regular": "0.31",
-      "Direct": "0.10"
-    },
-    "exit_load": "NIL",
     "amfi_codes": [
       "151396",
       "151394",
       "151393",
       "151395"
     ],
-    "isins": [
-      "INF209KB10S8",
-      "INF209KB11S6",
-      "INF209KB18R3",
-      "INF209KB19R1"
-    ]
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the Scheme is to generate returns corresponding to the total returns of the securities as represented by the CRISIL IBX AAA Index – March 2024 before expenses, subject to tracking errors. The Scheme does not guarantee/indicate any returns. There can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Instruments forming part of the CRISIL IBX AAA Index – March 2024  - 95 to 100%- Moderate Cash and Debt/Money Market Instruments - 0 to 5% - Low",
+    "benchmark": "CRISIL IBX AAA Mar 2024 Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Mohit Sharma",
+        "type": "Comanage",
+        "from_date": "03-Feb-23"
+      },
+      {
+        "name": "Mr. Sanjay Godambe",
+        "type": "Comanage",
+        "from_date": "03-Feb-23"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "0.31",
+      "Direct": "0.10"
+    },
+    "exit_load": "NIL"
   },
   "fund_options_inferred": [
     "Aditya Birla Sun Life CRISIL IBX AAA Mar 2024 Index Fund-Direct Growth",
@@ -43,5 +51,5 @@
     "Aditya Birla Sun Life CRISIL IBX AAA Mar 2024 Index Fund-Regular Growth",
     "Aditya Birla Sun Life CRISIL IBX AAA Mar 2024 Index Fund-Regular IDCW"
   ],
-  "extracted_at": "2026-04-18T02:09:08.320452+00:00"
+  "extracted_at": "2026-04-19T01:57:02.830025+00:00"
 }

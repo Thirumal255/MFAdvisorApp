@@ -10,19 +10,19 @@
       "Bandhan Value Fund - DIRECT PLAN - IDCW Reinvestment",
       "Bandhan ValueFund - REGULAR PLAN - Growth",
       "Bandhan Value Fund - REGULAR PLAN - IDCW Payout",
-      "Bandhan Value Fund - DIRECT PLAN - Growth",
+      "Bandhan Value Fund - DIRECT PLAN -Growth",
       "Bandhan Value Fund - REGULAR PLAN - IDCW Reinvestment"
     ],
     "riskometer": "Very High",
-    "investment_objective": "The investment objective of the Scheme is to seek to generate capital appreciation from a diversiﬁed portfolio of equity and equity related instruments by following a value investment strategy.",
-    "asset_allocation": "Equity and equity related instruments - 65%-100%, Debt Securities and Money Market Instruments (including Government securities, Securitised debt, Margin money/FD) and Units issued by InvITs, within which - 0%-35%, Units issued by InvITs - 0% -10%",
+    "investment_objective": "The investment objective of the Scheme is to seek to generate capital appreciation from a diversiﬁed portfolio of equity andequity related instruments by following a value investment strategy.",
+    "asset_allocation": "Equity and equity related instruments - 65%-100%, Debt Securities and Money Market Instruments (including Governmentsecurities, Securitised debt, Margin money/FD) and Units issued by InvITs, within which - 0%-35%, Units issued by InvITs - 0% -10%",
     "benchmark": "BSE 500 TRI",
     "fund_managers": "FM 1 - Mr. Daylynn Pinto",
     "annual_expense": {
       "Regular": "1.75",
       "Direct": "0.69"
     },
-    "exit_load": "Entry Load: Nil. Exit Load (w.e.f 08-May-2020) If redeemed / Switched Out within 365 days from the date of allotment - Up to10% of Investment Nil & For remaining Investment: 1.00%. If redeemed / switched out after 365 days from the date of allotment: Nil",
+    "exit_load": "Entry Load: Nil. Exit Load (w.e.f 08-May-2020) If redeemed / Switched Out within 365 days from the date of allotment - Up to10% of Investment Nil & For remaining Investment: 1.00%. If redeemed / switched out after 365 days from the date ofallotment: Nil",
     "amfi_codes": [
       "118480",
       "118481",
@@ -45,8 +45,8 @@
     "Bandhan Value Fund - DIRECT PLAN - IDCW Reinvestment",
     "Bandhan ValueFund - REGULAR PLAN - Growth",
     "Bandhan Value Fund - REGULAR PLAN - IDCW Payout",
-    "Bandhan Value Fund - DIRECT PLAN - Growth",
+    "Bandhan Value Fund - DIRECT PLAN -Growth",
     "Bandhan Value Fund - REGULAR PLAN - IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T02:53:16.036189+00:00"
+  "extracted_at": "2026-04-19T02:17:44.993979+00:00"
 }

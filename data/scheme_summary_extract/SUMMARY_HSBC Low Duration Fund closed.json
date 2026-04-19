@@ -30,10 +30,13 @@
     "amfi_codes": [
       "151118",
       "151117",
-      "151116",
       "151119",
+      "null",
+      "151116",
+      "null",
       "151114",
-      "151115"
+      "151115",
+      "null"
     ],
     "riskometer": "Low to Moderate",
     "investment_objective": "To provide liquidity and reasonable returns by investing primarily in a mix of short term debt and money market instrumentssuch that the Macaulay duration of the portfolio is between 6 months to 12 months. However, there can be no assurance orguarantee that the investment objective of the scheme would be achieved.",
@@ -57,5 +60,5 @@
     "HSBC Low Duration Fund-Regular Plan - Monthly IDCW Payout",
     "HSBC Low Duration Fund-Regular Plan - Monthly IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T03:57:52.355857+00:00"
+  "extracted_at": "2026-04-19T02:58:37.564405+00:00"
 }

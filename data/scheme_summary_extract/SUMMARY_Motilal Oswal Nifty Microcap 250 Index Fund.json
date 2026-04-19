@@ -6,8 +6,8 @@
     "fund_name": "Motilal Oswal Nifty Microcap 250 Index Fund",
     "fund_type": "An open-ended fund replicating / tracking the Nifty Microcap 250 Total Return Index",
     "fund_options": [
-      "Regular Growth Option",
-      "Direct Growth Option"
+      "Regular Growth",
+      "Direct Growth"
     ],
     "riskometer": "Very high",
     "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, correspond to the total returns of the securities as represented by Nifty Microcap 250 Total Return Index, subject to tracking error. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
@@ -32,8 +32,8 @@
     ]
   },
   "fund_options_inferred": [
-    "Regular Growth Option",
-    "Direct Growth Option"
+    "Regular Growth",
+    "Direct Growth"
   ],
-  "extracted_at": "2026-04-18T05:07:15.755783+00:00"
+  "extracted_at": "2026-04-19T03:43:09.014351+00:00"
 }

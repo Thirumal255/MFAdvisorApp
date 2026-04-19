@@ -41,7 +41,7 @@
       "Regular": "1.66",
       "Direct": "0.48"
     },
-    "exit_load": "For redemption / switch out of upto 8% of the initial investment amount (limit) purchased or switched in within 1 year fromthe date of allotment: Nil. If units redeemed or switched out are in excess of the limit within 1 year months from the date ofallotment: 1% If units are redeemed or switched out on or after 1 year from the date of allotment: NIL"
+    "exit_load": "• For redemption / switch out of upto 8% of the initial investment amount (limit) purchased or switched in within 1 year fromthe date of allotment: Nil. • If units redeemed or switched out are in excess of the limit within 1 year months from the date ofallotment: 1% • If units are redeemed or switched out on or after 1 year from the date of allotment: NIL"
   },
   "fund_options_inferred": [
     "Kotak Debt Hybrid - Growth- Regular",
@@ -51,5 +51,5 @@
     "Kotak Debt Hybrid - Direct - Monthly Payout of IDCW Direct",
     "Kotak Debt Hybrid - Direct -Monthly Payout of IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:33:49.861543+00:00"
+  "extracted_at": "2026-04-19T03:21:33.867808+00:00"
 }

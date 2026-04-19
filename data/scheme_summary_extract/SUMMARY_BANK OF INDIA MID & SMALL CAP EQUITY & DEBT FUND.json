@@ -22,12 +22,14 @@
       "Regular": "2.13",
       "Direct": "0.81"
     },
-    "exit_load": "• For redemption/switch out of initial units allotted within 3 months from the date of allotment : 1% Exit Load • Any redemption/switch out from the date of allotment of units after 3 months: NIL",
+    "exit_load": "For redemption/switch out of initial units allotted within 3 months from the date of allotment : 1% Exit Load • Any redemption/switch out from the date of allotment of units after 3 months: NIL",
     "amfi_codes": [
       "MCDD-139530",
       "MCDG-139527",
       "MCRD-139528",
-      "MCRG-139529"
+      "MCRG-139529",
+      null,
+      null
     ],
     "isins": [
       "INF761K01DN4",
@@ -46,5 +48,5 @@
     "Regular - IDCW Reinvestment",
     "Regular Plan - Growth Growth"
   ],
-  "extracted_at": "2026-04-18T02:55:10.100534+00:00"
+  "extracted_at": "2026-04-19T02:18:57.816586+00:00"
 }

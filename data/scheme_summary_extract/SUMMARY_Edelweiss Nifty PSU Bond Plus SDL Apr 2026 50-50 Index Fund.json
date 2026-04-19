@@ -6,7 +6,7 @@
     "fund_name": "Edelweiss Nifty PSU Bond Plus SDL Apr 2026 50:50 Index Fund",
     "fund_type": "An open-ended target maturity Index Fund",
     "fund_options": [
-      "Direct Plan - Growth",
+      "Direct Plan - Growth - Growth",
       "Direct Plan - IDCW Option - Payout"
     ],
     "riskometer": "Low Risk",
@@ -39,8 +39,8 @@
     ]
   },
   "fund_options_inferred": [
-    "Direct Plan - Growth",
+    "Direct Plan - Growth - Growth",
     "Direct Plan - IDCW Option - Payout"
   ],
-  "extracted_at": "2026-04-18T03:26:53.099058+00:00"
+  "extracted_at": "2026-04-19T02:37:49.578229+00:00"
 }

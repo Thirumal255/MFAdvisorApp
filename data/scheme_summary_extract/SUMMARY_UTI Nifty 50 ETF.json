@@ -15,7 +15,7 @@
     "fund_managers": "Mr. Sharwan Kumar Goyal FM 1,Mr. Ayush Jain FM 2,Not Applicable FM 3,Not Applicable FM 4",
     "annual_expense": {
       "Regular": "0.0500",
-      "Direct": "0.000022"
+      "Direct": "0.0000"
     },
     "exit_load": "Not Applicable",
     "amfi_codes": [
@@ -28,5 +28,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T06:11:04.723805+00:00"
+  "extracted_at": "2026-04-19T04:27:34.677786+00:00"
 }

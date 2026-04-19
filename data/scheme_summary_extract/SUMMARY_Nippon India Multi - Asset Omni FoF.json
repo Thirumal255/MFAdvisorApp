@@ -30,15 +30,15 @@
       "148663"
     ],
     "riskometer": "Very High",
-    "investment_objective": "The primary investment objective of the Scheme is to seek long term capital growth by investing in units of equity-oriented schemes, debt oriented schemes, gold ETF, Silver ETF and units of ETFs/ Index Funds of Nippon India Mutual Fund or any other Mutual Fund(s).",
-    "asset_allocation": "Equity oriented schemes /units of ETFs/ Index Funds - 0-100%; Debt oriented schemes / units of ETFs/ Index Funds - 0-100%; Gold ETF /Silver ETF- 0-25%; Money Market Instruments - 0-5%. At all points of time, the scheme will remain invested at least 95% (minimum allocation) in the underlying schemes. The Scheme can invest in the schemes managed by Nippon India Mutual Fund or any other Mutual Fund(s) as per the above stated asset allocation.",
+    "investment_objective": "The primary investment objective of the Scheme is to seek long term capital growth by investing in units of equity-orientedschemes, debt oriented schemes, gold ETF, Silver ETF and units of ETFs/ Index Funds of Nippon India Mutual Fund or any otherMutual Fund(s).",
+    "asset_allocation": "Equity oriented schemes /units of ETFs/ Index Funds - 0-100%; Debt oriented schemes / units of ETFs/ Index Funds - 0-100%;Gold ETF /Silver ETF- 0-25%; Money Market Instruments - 0-5%. At all points of time, the scheme will remain invested at least95% (minimum allocation) in the underlying schemes. The Scheme can invest in the schemes managed by Nippon IndiaMutual Fund or any other Mutual Fund(s) as per the above stated asset allocation.",
     "benchmark": "45% of Nifty 500, 45% of Crisil Short Term Bond Index & 7% of Domestic prices of Gold and 3% of Domestic prices of Silver.",
     "fund_managers": "FM 1 Ashutosh Bhargava, FM 2 Sushil Hari Prasad Budhia",
     "annual_expense": {
       "Regular": "1.10",
       "Direct": "0.12"
     },
-    "exit_load": "10% of the units allotted shall be redeemed without any exit load, on or before completion of 12 months from the date of allotment of units. Any redemption in excess of such limit in the first 12 months from the date of allotment shall be subject to the following exit load. Redemption of units would be done on First in First out Basis (FIFO): 1% if redeemed or switched out on or before completion of 12 months from the date of allotment of units. Nil, thereafter."
+    "exit_load": "10% of the units allotted shall be redeemed without any exit load, on or before completion of 12 months from the date ofallotment of units. Any redemption in excess of such limit in the ﬁrst 12 months from the date of allotment shall be subject tothe following exit load. Redemption of units would be done on First in First out Basis (FIFO): 1% if redeemed or switched outon or before completion of 12 months from the date of allotment of units. Nil, thereafter."
   },
   "fund_options_inferred": [
     "Direct IDCW Plan Payout",
@@ -48,5 +48,5 @@
     "IDCW Plan Reinvestment",
     "Growth Plan Growth"
   ],
-  "extracted_at": "2026-04-18T05:17:06.786174+00:00"
+  "extracted_at": "2026-04-19T03:49:53.570102+00:00"
 }

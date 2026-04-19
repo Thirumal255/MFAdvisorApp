@@ -13,7 +13,7 @@
       "ICICI Prudential Nifty IT Index Fund - Direct Plan - IDCW",
       "ICICI Prudential Nifty IT Index Fund - Direct Plan - IDCW Payout"
     ],
-    "riskometer": "Very High\nAs on September 30, 2025",
+    "riskometer": "Very High",
     "investment_objective": "The objective of the Scheme is to invest in companies whose securities are included in Nifty IT Index and subject to \ntracking errors, to endeavor to achieve the returns of the above index. This would be done by investing in all the \nstocks comprising the Nifty IT Index in the same weightage that they represent in Nifty IT Index. \nHowever, there is no assurance or guarantee that the investment objective of the scheme shall be achieved.",
     "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (Nifty IT Index) 95% - 100%  \n• Money Market instruments including TREPs* and Units of debt mutual fund schemes 0% - 5%  ",
     "benchmark": "Nifty IT TRI",
@@ -28,20 +28,20 @@
     },
     "exit_load": null,
     "amfi_codes": [
-      "3487",
-      "3488",
-      "3488P",
-      "9689",
-      "9690",
-      "9690P"
-    ],
-    "isins": [
       "INF109KC10E8",
       "INF109KC12E4",
       "INF109KC11E6",
       "INF109KC13E2",
       "INF109KC15E7",
       "INF109KC14E0"
+    ],
+    "isins": [
+      "ICICI Prudential Nifty IT Index Fund - Growth - INF109KC10E8",
+      "ICICI Prudential Nifty IT Index Fund - IDCW - INF109KC12E4",
+      "ICICI Prudential Nifty IT Index Fund - IDCW Payout - INF109KC11E6",
+      "ICICI Prudential Nifty IT Index Fund - Direct Plan - Growth - INF109KC13E2",
+      "ICICI Prudential Nifty IT Index Fund - Direct Plan - IDCW - INF109KC15E7",
+      "ICICI Prudential Nifty IT Index Fund - Direct Plan - IDCW Payout - INF109KC14E0"
     ]
   },
   "fund_options_inferred": [
@@ -52,5 +52,5 @@
     "ICICI Prudential Nifty IT Index Fund - Direct Plan - IDCW",
     "ICICI Prudential Nifty IT Index Fund - Direct Plan - IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T04:12:47.790886+00:00"
+  "extracted_at": "2026-04-19T03:08:22.349530+00:00"
 }

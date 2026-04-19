@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "Mirae Asset Nifty 200 Alpha 30 ETF",
-    "fund_type": "Exchange Traded Fund (ETF) - An open-ended scheme replicating/tracking Nifty 200 Alpha 30 Total Return Index",
+    "fund_type": "Exchange Traded Fund (ETF)",
     "fund_options": [
       "Growth"
     ],
@@ -18,7 +18,7 @@
     },
     "exit_load": "NIL",
     "amfi_codes": [
-      "15213430"
+      "152134"
     ],
     "isins": [
       "INF769K01KU7"
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:59:41.523246+00:00"
+  "extracted_at": "2026-04-19T03:37:46.545889+00:00"
 }

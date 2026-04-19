@@ -5,18 +5,11 @@
   "data": {
     "fund_name": "MOTILAL OSWAL QUANT FUND",
     "fund_type": "An open-ended equity scheme investing based on a quant investment framework",
-    "fund_options": [
-      "Regular IDCW Payout",
-      "Direct IDCW Payout",
-      "Regular IDCW Reinvestment",
-      "Direct IDCW Reinvestment",
-      "Regular Growth",
-      "Direct Growth"
-    ],
+    "fund_options": null,
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the scheme is to generate medium to long-term capital appreciation by investing in equity and equity related instruments selected based on a proprietary quantitative investment framework. However, there can be no assurance that the investment objective of the scheme will be realized.",
     "asset_allocation": "Equity and Equity related instruments, Units of Liquid fund and Money Market instruments (including cash and cash equivalents)",
-    "benchmark": "Tier 1 NIFTY 200 Index TR",
+    "benchmark": "NIFTY 200 Index TR",
     "fund_managers": [
       {
         "name": "Mr. Ajay Khandelwal",
@@ -50,12 +43,10 @@
     ]
   },
   "fund_options_inferred": [
-    "Regular IDCW Payout",
-    "Direct IDCW Payout",
-    "Regular IDCW Reinvestment",
-    "Direct IDCW Reinvestment",
     "Regular Growth",
-    "Direct Growth"
+    "Direct Growth",
+    "Regular Payout of IDCW",
+    "Direct Payout of IDCW"
   ],
-  "extracted_at": "2026-04-18T05:08:08.893230+00:00"
+  "extracted_at": "2026-04-19T03:43:43.914733+00:00"
 }

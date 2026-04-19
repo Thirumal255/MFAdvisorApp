@@ -13,19 +13,14 @@
       "Direct-Monthly IDCW Reinvestment",
       "Direct Plan-Monthly IDCW Payout"
     ],
-    "riskometer": "Low to Moderate",
-    "investment_objective": "To generate optimal returns by investing predominantly in AA+ and above rated corporate bonds.  There can be no assurance that the investment objective of the scheme will be realised",
-    "asset_allocation": "Corporate Debt instruments (including securitised debt) across maturities and ratings - 80% to 100%, Other Debt & Money Market Instruments - 0% to 20%, Units of REITs and InvITs - 0% to 10%.",
-    "benchmark": [
-      "CRISIL Corporate Debt A-II Index",
-      "CRISIL Select AAA Corporate Bond Fund Index"
+    "isins": [
+      "INF0GCD01537",
+      "INF0GCD01545",
+      "INF0GCD01552",
+      "INF0GCD01560",
+      "INF0GCD01578",
+      "INF0GCD01586"
     ],
-    "fund_managers": "Mr. Jalpan Shah & Ms. Shradhanjali Panda",
-    "annual_expense": {
-      "Regular": "0.65",
-      "Direct": "0.25"
-    },
-    "exit_load": "N.A",
     "amfi_codes": [
       "151322",
       "151319",
@@ -34,14 +29,16 @@
       "151321",
       "151321"
     ],
-    "isins": [
-      "INF0GCD01537",
-      "INF0GCD01545",
-      "INF0GCD01552",
-      "INF0GCD01560",
-      "INF0GCD01578",
-      "INF0GCD01586"
-    ]
+    "riskometer": "Low to Moderate",
+    "investment_objective": "To generate optimal returns by investing predominantly in AA+ and above rated corporate bonds.  There can be no assurance that the investment objective of the scheme will be realised",
+    "asset_allocation": "Corporate Debt instruments (including securitised debt) across maturities and ratings - 80% to 100%, Other Debt & Money Market Instruments - 0% to 20%, Units of REITs and InvITs - 0% to 10%.",
+    "benchmark": "CRISIL Corporate Debt A-II Index, CRISIL Select AAA Corporate Bond Fund Index",
+    "fund_managers": "Mr. Jalpan Shah & Ms. Shradhanjali Panda",
+    "annual_expense": {
+      "Regular": "0.65",
+      "Direct": "0.25"
+    },
+    "exit_load": "N.A"
   },
   "fund_options_inferred": [
     "Regular Plan-Growth",
@@ -51,5 +48,5 @@
     "Direct-Monthly IDCW Reinvestment",
     "Direct Plan-Monthly IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T05:59:13.232375+00:00"
+  "extracted_at": "2026-04-19T04:18:05.489060+00:00"
 }

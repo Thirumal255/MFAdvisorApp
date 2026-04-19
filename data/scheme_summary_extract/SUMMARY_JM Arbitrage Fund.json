@@ -17,7 +17,7 @@
       "JM Arbitrage Fund - (Regular) - Annual Bonus Option - Principal Units",
       "JM Arbitrage Fund - (Direct) - Annual Bonus Option - Principal Units",
       "JM Arbitrage Fund - (Direct) - Annual Bonus Option - Bonus Units",
-      "JM Arbitrage Fund - (Regular) - Half Yearly Bonus Option-Principal Units",
+      "JM Arbitrage Fund - (Regular) - Half Yearly Bonus Option- Principal Units",
       "JM Arbitrage Fund - (DIRECT) - Half Yearly Bonus Option Principal Units",
       "JM Arbitrage Fund - (Regular)- Quarterly Bonus Option Principal Units",
       "JM Arbitrage Fund - (DIRECT) - Quarterly Bonus Option Principal Units",
@@ -37,20 +37,20 @@
       "INF192K01GL9",
       "INF192K01GK1",
       "INF192K01KM9",
+      "INF192K01KY4",
       "INF192K01KZ1",
-      "INF192K01KR8",
-      "INF192K01IB6",
+      "INF192K01IF7",
       "INF192K01KW8",
-      "INF192K01KL1",
-      "INF192K01KP2",
+      "INF192K01KK3",
+      "INF192K01KO5",
       "INF192K01KS6",
-      "INF192K01KV0",
+      "INF192K01KU2",
       "INF192K01ID2",
       "INF192K01GV8",
       "INF192K01GX4",
-      "INF192K01IF7",
       "INF192K01IH3",
-      "INF192K01GM7"
+      "INF192K01IH3",
+      "INF192K01KR8"
     ],
     "amfi_codes": [
       "120481",
@@ -83,7 +83,7 @@
       "Regular": "1.08",
       "Direct": "0.41"
     },
-    "exit_load": "0.5% of NAV on all investment (including SIP/STP/SWP) transactions, if redeemed / switched - out within 30 days of transfer /allotment of units in normal transactions / allotment of units of respective installments in SIP/STP/SWP transactions."
+    "exit_load": "0.5"
   },
   "fund_options_inferred": [
     "JM Arbitrage Fund - (Regular) - IDCW Option",
@@ -97,7 +97,7 @@
     "JM Arbitrage Fund - (Regular) - Annual Bonus Option - Principal Units",
     "JM Arbitrage Fund - (Direct) - Annual Bonus Option - Principal Units",
     "JM Arbitrage Fund - (Direct) - Annual Bonus Option - Bonus Units",
-    "JM Arbitrage Fund - (Regular) - Half Yearly Bonus Option-Principal Units",
+    "JM Arbitrage Fund - (Regular) - Half Yearly Bonus Option- Principal Units",
     "JM Arbitrage Fund - (DIRECT) - Half Yearly Bonus Option Principal Units",
     "JM Arbitrage Fund - (Regular)- Quarterly Bonus Option Principal Units",
     "JM Arbitrage Fund - (DIRECT) - Quarterly Bonus Option Principal Units",
@@ -110,5 +110,5 @@
     "JM Arbitrage Fund -(Regular) - Annual IDCW Option",
     "JM Arbitrage Fund - (Direct) - Annual IDCW Option"
   ],
-  "extracted_at": "2026-04-18T04:29:19.477312+00:00"
+  "extracted_at": "2026-04-19T03:18:29.335847+00:00"
 }

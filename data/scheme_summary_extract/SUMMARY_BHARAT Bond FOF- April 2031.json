@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "BHARAT Bond FOF - April 2031",
-    "fund_type": "Fund of Funds",
+    "fund_type": "Fund of Fund - Domestic",
     "fund_options": [
       "Direct Plan - Growth - Growth",
       "Direct Plan - IDCW Option - Payout",
@@ -22,12 +22,12 @@
       "INF754K01LN2"
     ],
     "amfi_codes": [
-      "O1D1",
-      "O1D2",
-      "O1D2",
-      "O1RG",
-      "O1RD",
-      "O1RD"
+      "148450",
+      "148453",
+      "148453",
+      "148452",
+      "148451",
+      "148451"
     ],
     "riskometer": "Moderate Risk",
     "investment_objective": "BHARAT Bond FOF – April 2031 is a fund of funds scheme with the primary objective to generate returns by investing in units of BHARAT Bond ETF – April 2031. However, there is no assurance that the investment objective of the Scheme will be realized.",
@@ -42,14 +42,14 @@
       {
         "name": "Mr. Hetul Raval",
         "type": "Fund of Fund - Domestic",
-        "from_date": "23/Jul/2020"
+        "from_date": null
       }
     ],
     "annual_expense": {
       "Regular": "0.06",
       "Direct": "0.06"
     },
-    "exit_load": "• If redeemed or switched out on or before completion of 30 days from the date of allotment of units –0.10%\n• If redeemed or switched out after completion of 30 days from the date of allotment of units –NIL"
+    "exit_load": "• If redeemed or switched out on or before \ncompletion of 30 days from the date of allotment \nof units –0.10%\n• If redeemed or switched out after completion of \n30 days from the date of allotment of units –NIL"
   },
   "fund_options_inferred": [
     "Direct Plan - Growth - Growth",
@@ -59,5 +59,5 @@
     "Regular Plan - IDCW Option - Payout",
     "Regular Plan - IDCW Option - Reinvestment"
   ],
-  "extracted_at": "2026-04-18T03:04:18.324912+00:00"
+  "extracted_at": "2026-04-19T02:24:36.522453+00:00"
 }

@@ -44,7 +44,7 @@
       "Regular": "1.77",
       "Direct": "0.47"
     },
-    "exit_load": "If redeemed or switched out on or before completion of 90 days from the date of allotment of units - 1.00%, If redeemed or switched out after completion of 90 days from the date of allotment of units - NIL"
+    "exit_load": "1.00"
   },
   "fund_options_inferred": [
     "Direct Plan - Quarterly IDCW",
@@ -54,5 +54,5 @@
     "Direct Plan – Monthly IDCW",
     "Regular Plan - Monthly IDCW"
   ],
-  "extracted_at": "2026-04-18T03:19:30.614300+00:00"
+  "extracted_at": "2026-04-19T02:33:46.373556+00:00"
 }

@@ -38,7 +38,7 @@
       "Regular": "1.39",
       "Direct": "0.29"
     },
-    "exit_load": "10% of the units allotted shall be redeemed without any exit load, on or before completion of 12 months from the date of allotment of units. Any redemption in excess of such limit in the first 12 months from the date of allotment shall be subject to the following exit load. Redemption of units would be done on First in First out Basis (FIFO): • 1% if redeemed or switched out on or before completion of 12 months from the date of allotment of units. • Nil, if redeemed or switched out after completion of 12 months from the date of allotment of units."
+    "exit_load": "10% of the units allotted shall be redeemed without any exit load, on or before completion of 12 months from the date of allotment of units. Any redemption in excess of such limit in the ﬁrst 12 months from the date of allotment shall be subject to the following exit load. Redemption of units would be done on First in First out Basis (FIFO): • 1% if redeemed or switched out on or before completion of 12 months from the date of allotment of units. • Nil, if redeemed or switched out after completion of 12 months from the date of allotment of units."
   },
   "fund_options_inferred": [
     "Direct IDCW Plan Payout",
@@ -48,5 +48,5 @@
     "IDCW Plan Reinvestment",
     "Growth Plan Growth"
   ],
-  "extracted_at": "2026-04-18T05:17:16.524177+00:00"
+  "extracted_at": "2026-04-19T03:50:00.425597+00:00"
 }

@@ -11,6 +11,18 @@
       "Regular Plan - IDCW Option",
       "Regular Plan - Growth Option"
     ],
+    "isins": [
+      "INF204KC1EB4",
+      "INF204KC1EF5",
+      "INF204KC1EG3",
+      "INF204KC1EC2"
+    ],
+    "amfi_codes": [
+      "153474",
+      "153473",
+      "153476",
+      "153475"
+    ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the scheme is to provide investment returns that commensurate to the total returns of the securities as represented by the Nifty 500 Low Volatility 50 Index before expenses, subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Securities constituting Nifty 500 Low Volatility 50 Index - 95%- 100%, Cash & cash equivalents and Money Market instruments and/ or Schemes which invest in the money market securities or Liquid Schemes",
@@ -20,19 +32,7 @@
       "Regular": "0.91",
       "Direct": "0.35"
     },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "153475",
-      "153474",
-      "153476",
-      "153473"
-    ],
-    "isins": [
-      "INF204KC1EC2",
-      "INF204KC1EB4",
-      "INF204KC1ED0",
-      "INF204KC1EF5"
-    ]
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "Direct Plan - Growth Option",
@@ -40,5 +40,5 @@
     "Regular Plan - IDCW Option",
     "Regular Plan - Growth Option"
   ],
-  "extracted_at": "2026-04-18T05:17:55.494965+00:00"
+  "extracted_at": "2026-04-19T03:50:25.716508+00:00"
 }

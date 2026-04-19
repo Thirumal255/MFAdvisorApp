@@ -13,6 +13,22 @@
       "Regular Plan-IDCW Payout",
       "Regular Plan-IDCW Re-investment"
     ],
+    "isins": [
+      "INF174KA1VE0",
+      "INF174KA1VF7",
+      "INF174KA1VG5",
+      "INF174KA1VH3",
+      "INF174KA1VI1",
+      "INF174KA1VJ9"
+    ],
+    "amfi_codes": [
+      "153353",
+      "153354",
+      "153354",
+      "153351",
+      "153352",
+      "153352"
+    ],
     "riskometer": "Very High Risk",
     "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, corresponding to the total returns of the securities as represented by the underlying index, subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Equity & Equity related Securities covered by Nifty Commodities Index - 95% - 100%, Debt/Money Market Instruments - 0% - 5%",
@@ -26,23 +42,7 @@
       "Regular": "0.47",
       "Direct": "0.20"
     },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "153353",
-      "153354",
-      "153354",
-      "153351",
-      "153352",
-      "153352"
-    ],
-    "isins": [
-      "INF174KA1VE0",
-      "INF174KA1VF7",
-      "INF174KA1VG5",
-      "INF174KA1VH3",
-      "INF174KA1VI1",
-      "INF174KA1VJ9"
-    ]
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "Direct Plan-Growth",
@@ -52,5 +52,5 @@
     "Regular Plan-IDCW Payout",
     "Regular Plan-IDCW Re-investment"
   ],
-  "extracted_at": "2026-04-18T04:38:56.513721+00:00"
+  "extracted_at": "2026-04-19T03:25:00.811726+00:00"
 }

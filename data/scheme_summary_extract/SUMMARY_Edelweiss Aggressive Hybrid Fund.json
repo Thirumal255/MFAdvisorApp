@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "Edelweiss Aggressive Hybrid Fund",
-    "fund_type": "Aggressive Hybrid Fund",
+    "fund_type": "Hybrid Fund",
     "fund_options": [
       "Direct Plan Growth - Growth",
       "Direct Plan - IDCW Option - Payout",
@@ -62,5 +62,5 @@
     "Regular Plan - IDCW Option - Reinvestment",
     "Regular Plan - IDCW Option - Transfer"
   ],
-  "extracted_at": "2026-04-18T03:19:01.248208+00:00"
+  "extracted_at": "2026-04-19T02:33:30.169383+00:00"
 }

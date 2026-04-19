@@ -13,22 +13,6 @@
       "Tata Income Fund Regular Plan - IDCW Half Yearly",
       "Tata Income Fund Direct Plan - IDCW Half Yearly"
     ],
-    "isins": [
-      "INF277K01667",
-      "INF277K01PD6",
-      "INF277K01659",
-      "INF277K01OY5",
-      "INF277K01675",
-      "INF277K01PB0"
-    ],
-    "amfi_codes": [
-      "101186",
-      "119875",
-      "100418",
-      "119876",
-      "100417",
-      "119877"
-    ],
     "riskometer": "Moderate",
     "investment_objective": "The investment objective of the Scheme is to provide income distribution/capital appreciation over medium to long term.",
     "asset_allocation": "Debt & Money Market Instruments 0-100.",
@@ -38,7 +22,23 @@
       "Regular": "1.94",
       "Direct": "1.14"
     },
-    "exit_load": "NIL"
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "101186",
+      "119875",
+      "100418",
+      "119876",
+      "100417",
+      "119877"
+    ],
+    "isins": [
+      "INF277K01667",
+      "INF277K01PD6",
+      "INF277K01659",
+      "INF277K01OY5",
+      "INF277K01675",
+      "INF277K01PB0"
+    ]
   },
   "fund_options_inferred": [
     "Tata Income Fund Regular Plan -IDCW Periodic",
@@ -48,5 +48,5 @@
     "Tata Income Fund Regular Plan - IDCW Half Yearly",
     "Tata Income Fund Direct Plan - IDCW Half Yearly"
   ],
-  "extracted_at": "2026-04-18T05:53:08.362230+00:00"
+  "extracted_at": "2026-04-19T04:13:16.489580+00:00"
 }

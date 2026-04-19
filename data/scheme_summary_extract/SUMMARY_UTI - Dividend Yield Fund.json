@@ -13,22 +13,6 @@
       "Regular Plan-Reinvestment of IDCW",
       "Regular Plan-Growth"
     ],
-    "isins": [
-      "INF789F01SU8",
-      "INF789F01SV6",
-      "INF789F01SW4",
-      "INF789F01448",
-      "INF789F01455",
-      "INF789F01463"
-    ],
-    "amfi_codes": [
-      null,
-      null,
-      "120749",
-      null,
-      null,
-      "103026"
-    ],
     "riskometer": "Very High",
     "investment_objective": "The objective of the scheme is to generate long term capital appreciation and income by investing predominantly in dividendyielding equity and equity related securities. However, there can be no assurance or guarantee that the investment objectiveof the scheme would be achieved.",
     "asset_allocation": "Equity and equity related instruments (minimum 65% of the total assets would be in equity and equity related instruments ofdividend yielding companies) (Including units of REITS): 65-100% (Medium to High) Debt and Money Market instrumentsincluding securitized debt#: 0-35% (Low to Medium) Units issued by InvITs: 0-10% (Medium to High) # The fund may invest upto 50% of its debt portfolio in securitized debt.",
@@ -38,7 +22,23 @@
       "Regular": "2.01",
       "Direct": "1.44"
     },
-    "exit_load": "1% if redeemed before 1 year from the date of investment."
+    "exit_load": "1% if redeemed before 1 year from the date of investment.",
+    "amfi_codes": [
+      "120749",
+      null,
+      "120750",
+      "103026",
+      null,
+      "103025"
+    ],
+    "isins": [
+      "INF789F01SU8",
+      "INF789F01SV6",
+      "INF789F01SW4",
+      "INF789F01448",
+      "INF789F01455",
+      "INF789F01463"
+    ]
   },
   "fund_options_inferred": [
     "Direct Plan-Payout of IDCW",
@@ -48,5 +48,5 @@
     "Regular Plan-Reinvestment of IDCW",
     "Regular Plan-Growth"
   ],
-  "extracted_at": "2026-04-18T06:06:01.408475+00:00"
+  "extracted_at": "2026-04-19T04:23:37.306199+00:00"
 }

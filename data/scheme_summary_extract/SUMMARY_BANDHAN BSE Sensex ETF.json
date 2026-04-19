@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "Bandhan S&P BSE Sensex ETF",
-    "fund_type": "Exchange Traded Fund",
+    "fund_type": "An open ended scheme tracking S&P BSE Sensex Index",
     "fund_options": [
       "Growth"
     ],
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T02:27:30.826166+00:00"
+  "extracted_at": "2026-04-19T02:12:52.711220+00:00"
 }

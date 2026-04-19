@@ -37,11 +37,7 @@
       "INF846K01DG7",
       "INF846K01AX8",
       "INF846K01AZ3",
-      "INF846K01CK1",
-      "INF846K01DE2",
-      "INF846K01DH5",
-      "INF846K01BB2",
-      "INF846K01CL9"
+      "INF846K01CK1"
     ]
   },
   "fund_options_inferred": [
@@ -52,5 +48,5 @@
     "Regular IDCW",
     "Regular Half Yearly IDCW"
   ],
-  "extracted_at": "2026-04-18T02:21:01.429186+00:00"
+  "extracted_at": "2026-04-19T02:06:58.682304+00:00"
 }

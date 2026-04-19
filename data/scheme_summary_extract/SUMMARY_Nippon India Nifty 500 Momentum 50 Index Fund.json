@@ -13,22 +13,6 @@
       "IDCW PLAN PAYOUT",
       "IDCW PLAN REINVESTMENT"
     ],
-    "isins": [
-      "INF204KC1DG5",
-      "INF204KC1DD2",
-      "INF204KC1DH3",
-      "INF204KC1DI1",
-      "INF204KC1DE0",
-      "INF204KC1DF7"
-    ],
-    "amfi_codes": [
-      "MTAGG",
-      "MTGPG",
-      "MTADD",
-      "MTADR",
-      "MTDPD",
-      "MTDPR"
-    ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the scheme is to provide investment returns that commensurate to the total returns of the securities as represented by the Nifty 500 Momentum 50 Index before expenses, subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Securities constituting Nifty 500 Momentum 50 Index - 95%- 100%, Cash & cash equivalents and Money Market instruments and/ or Schemes which invest in the money market securities or Liquid Schemes",
@@ -38,7 +22,23 @@
       "Regular": "0.88",
       "Direct": "0.25"
     },
-    "exit_load": "Nil"
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "MTAGG",
+      "MTGPG",
+      "MTADD",
+      "MTADR",
+      "MTDPD",
+      "MTDPR"
+    ],
+    "isins": [
+      "INF204KC1DG5",
+      "INF204KC1DD2",
+      "INF204KC1DH3",
+      "INF204KC1DI1",
+      "INF204KC1DE0",
+      "INF204KC1DF7"
+    ]
   },
   "fund_options_inferred": [
     "DIRECT GROWTH PLAN GROWTH",
@@ -48,5 +48,5 @@
     "IDCW PLAN PAYOUT",
     "IDCW PLAN REINVESTMENT"
   ],
-  "extracted_at": "2026-04-18T05:18:03.525120+00:00"
+  "extracted_at": "2026-04-19T03:50:30.248678+00:00"
 }

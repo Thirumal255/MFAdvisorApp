@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "The Wealth Company Multi Asset Alocation Fund",
-    "fund_type": "An open ended Multi Asset Allocation scheme investing across equity/equity related securities, debt/ money marketinstruments, commodity ETFs, exchange traded commodity derivatives)",
+    "fund_type": "An open ended Multi Asset Allocation scheme investing across equity/equity related securities, debt/ money marketinstruments, commodity ETFs, exchange traded commodity derivatives",
     "fund_options": [
       "REGULAR-GROWTH",
       "REGULAR-IDCW-PAYOUT",
@@ -25,7 +25,7 @@
       "154002",
       "154001",
       null,
-      null,
+      "153898",
       "154000",
       null
     ],
@@ -48,5 +48,5 @@
     "DIRECT-IDCW-PAYOUT",
     "DIRECT-IDCW-REINVESTMENT"
   ],
-  "extracted_at": "2026-04-18T05:58:51.817004+00:00"
+  "extracted_at": "2026-04-19T04:17:48.373767+00:00"
 }

@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "Edelweiss Flexi Cap Fund",
-    "fund_type": "An open ended dynamic equity scheme investing across large cap, mid cap, small cap stocks",
+    "fund_type": "Flexi Cap Fund",
     "fund_options": [
       "Direct Plan Growth",
       "Direct Plan - IDCW Payout",
@@ -39,12 +39,12 @@
       {
         "name": "Mr. Trideep Bhattacharya",
         "type": "Co-Manage",
-        "from_date": "15/Jun/2022"
+        "from_date": "01/Oct/2021"
       },
       {
         "name": "Mr. Ashwani Agarwalla",
         "type": "Co-Manage",
-        "from_date": "01/Oct/2021"
+        "from_date": "03/Feb/2015"
       }
     ],
     "annual_expense": {
@@ -60,5 +60,5 @@
     "Regular Plan Growth",
     "Regular IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T03:22:35.613404+00:00"
+  "extracted_at": "2026-04-19T02:35:26.753830+00:00"
 }

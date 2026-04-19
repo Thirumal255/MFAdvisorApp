@@ -6,8 +6,8 @@
     "fund_name": "Samco Arbitrage Fund",
     "fund_type": "An open ended scheme investing in arbitrage opportunities)",
     "fund_options": [
-      "Direct Plan - Growth Option",
-      "Regular Plan - Growth Option"
+      "Samco Arbitrage Fund - Direct Plan - Growth Option",
+      "Samco Arbitrage Fund - Regular Plan - Growth Option"
     ],
     "riskometer": "Low (The Scheme risk-o-meter is based on evalution of the portfolio data as on November 30, 2025)",
     "investment_objective": "The investment objective of the Scheme is to generate capital appreciation and income by predominantly investing in arbitrage opportunities in the cash and the derivative segments of the equity markets and the arbitrage opportunities available within the derivative segment and by investing the balance in debt and money market instruments.There is no assurance that the investment objective of the scheme will be achieved.",
@@ -34,8 +34,8 @@
     ]
   },
   "fund_options_inferred": [
-    "Direct Plan - Growth Option",
-    "Regular Plan - Growth Option"
+    "Samco Arbitrage Fund - Direct Plan - Growth Option",
+    "Samco Arbitrage Fund - Regular Plan - Growth Option"
   ],
-  "extracted_at": "2026-04-18T05:32:57.136036+00:00"
+  "extracted_at": "2026-04-19T04:00:24.446489+00:00"
 }

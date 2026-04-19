@@ -18,7 +18,7 @@
     "annual_expense": {},
     "exit_load": "NIL",
     "amfi_codes": [
-      "NBRG"
+      "152857"
     ],
     "isins": [
       "INF754K01TE4"
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T03:26:15.612176+00:00"
+  "extracted_at": "2026-04-19T02:37:28.074884+00:00"
 }

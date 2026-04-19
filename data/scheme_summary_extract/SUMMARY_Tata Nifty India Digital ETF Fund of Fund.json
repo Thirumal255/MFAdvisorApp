@@ -11,6 +11,18 @@
       "Tata Nifty IndiaDigital ETF Fund of Fund - Reg - Growth",
       "Tata Nifty India Digital ETF Fund of Fund - Reg - IDCW"
     ],
+    "isins": [
+      "INF277KA1430",
+      "INF277KA1455",
+      "INF277KA1463",
+      "INF277KA1489"
+    ],
+    "amfi_codes": [
+      "150344",
+      "150341",
+      "150345",
+      "150343"
+    ],
     "riskometer": "Very High",
     "investment_objective": "To provide long-term capital appreciation by investing in Tata Nifty India Digital Exchange Traded Fund.However, there is noassurance or guarantee that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Units of Tata Nifty India Digital Exchange Traded Fund 95-100,Debt & Money Market Instruments 0-5.",
@@ -20,19 +32,7 @@
       "Regular": "0.49",
       "Direct": "0.11"
     },
-    "exit_load": "Redemption/Switch-out/SWP/STP on or before expiry of 365 days from the date of allotment: If the withdrawal amount orswitched out amount is not more than 12% of the original cost of investment- Nil, Redemption/Switch-out/SWP/STP on orbefore expiry of 365 days from the date of allotment: If the withdrawal amount or switched out amount is more than 12% ofthe original cost of investment-1%, Redemption/Switch-out/SWP/STP after expiry of 365 days from the date of allotment-Nil",
-    "amfi_codes": [
-      "150344",
-      "150341",
-      "150345",
-      "150343"
-    ],
-    "isins": [
-      "INF277KA1430",
-      "INF277KA1455",
-      "INF277KA1463",
-      "INF277KA1489"
-    ]
+    "exit_load": "Redemption/Switch-out/SWP/STP on or before expiry of 365 days from the date of allotment: If the withdrawal amount orswitched out amount is not more than 12% of the original cost of investment- Nil, Redemption/Switch-out/SWP/STP on orbefore expiry of 365 days from the date of allotment: If the withdrawal amount or switched out amount is more than 12% ofthe original cost of investment-1%, Redemption/Switch-out/SWP/STP after expiry of 365 days from the date of allotment-Nil"
   },
   "fund_options_inferred": [
     "Tata Nifty India Digital ETF Fund of Fund - Dir - Growth",
@@ -40,5 +40,5 @@
     "Tata Nifty IndiaDigital ETF Fund of Fund - Reg - Growth",
     "Tata Nifty India Digital ETF Fund of Fund - Reg - IDCW"
   ],
-  "extracted_at": "2026-04-18T05:55:10.295689+00:00"
+  "extracted_at": "2026-04-19T04:14:51.759838+00:00"
 }

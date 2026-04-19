@@ -22,7 +22,7 @@
     "annual_expense": {
       "Regular": "0.69"
     },
-    "exit_load": "For exit on or before 15 days from the date of allotment – 0.25%, For exit after 15 days from the date of allotment – Nil",
+    "exit_load": "For exit on or before 15 days from the date of allotment – 0.25% For exit after 15 days from the date of allotment – Nil",
     "amfi_codes": [
       "153556",
       "153554",
@@ -42,5 +42,5 @@
     "Direct Plan - IDCW",
     "Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:42:52.067595+00:00"
+  "extracted_at": "2026-04-19T04:06:38.349234+00:00"
 }

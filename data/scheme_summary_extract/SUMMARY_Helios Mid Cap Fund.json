@@ -26,10 +26,10 @@
     "amfi_codes": [
       "155326",
       "155324",
-      null,
+      "155324",
       "155327",
       "155325",
-      null
+      "155325"
     ],
     "isins": [
       "INF0R8701327",
@@ -48,5 +48,5 @@
     "Regular Plan - IDCW Option (Payout)",
     "Regular Plan - IDCW Option (Reinvestment)"
   ],
-  "extracted_at": "2026-04-18T03:51:52.314447+00:00"
+  "extracted_at": "2026-04-19T02:54:59.080908+00:00"
 }

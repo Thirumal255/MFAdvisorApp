@@ -28,12 +28,12 @@
       "152818"
     ],
     "isins": [
-      "INF663L01Z1",
-      "INF663L01Z2",
-      "INF663L01Z3",
-      "INF663L01Y9",
-      "INF663L01Z3",
-      "INF663L01Y8"
+      "INF663L01Z11",
+      "INF663L01Z29",
+      "INF663L01Z03",
+      "INF663L01Y95",
+      "INF663L01Z37",
+      "INF663L01Y87"
     ]
   },
   "fund_options_inferred": [
@@ -42,5 +42,5 @@
     "Regular IDCW",
     "Regular Growth"
   ],
-  "extracted_at": "2026-04-18T05:26:00.813508+00:00"
+  "extracted_at": "2026-04-19T03:55:48.851321+00:00"
 }

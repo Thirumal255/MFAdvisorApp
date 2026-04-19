@@ -18,9 +18,7 @@
       "Nifty 500 TRI",
       "Nifty 100 TRI"
     ],
-    "fund_managers": [
-      "Mr. Kunal Sangoi"
-    ],
+    "fund_managers": "Mr. Kunal Sangoi",
     "annual_expense": {
       "Regular": "1.83",
       "Direct": "0.90"
@@ -45,5 +43,5 @@
     "Direct - IDCW",
     "Growth - Direct Plan"
   ],
-  "extracted_at": "2026-04-18T02:12:07.778204+00:00"
+  "extracted_at": "2026-04-19T01:59:02.024639+00:00"
 }

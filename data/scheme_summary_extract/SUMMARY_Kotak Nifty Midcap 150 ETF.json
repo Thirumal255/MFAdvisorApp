@@ -10,7 +10,7 @@
     ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the scheme is to replicate the composition of the Nifty Midcap 150 Index and to generate returns that are commensurate with the performance of the Nifty Midcap 150 Index, subject to tracking errors. However, there is no assurance that the objective of the scheme will be realized.",
-    "asset_allocation": "Equity and Equity related securities covered by the Nifty Midcap 150 Index* - 95% - 100% Debt & Money Market Instruments - 0% - 5%",
+    "asset_allocation": "Equity and Equity related securities covered by the Nifty Midcap 150 Index* - 95% - 100% Debt& Money Market Instruments - 0% - 5%",
     "benchmark": "Nifty Midcap 150 Index (Total Return Index (TRI))",
     "fund_managers": "Mr. Devender Singhal, Mr. Satish Dondapati & Mr. Abhishek Bisen",
     "annual_expense": {
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:39:31.927682+00:00"
+  "extracted_at": "2026-04-19T03:25:25.659278+00:00"
 }

@@ -13,22 +13,6 @@
       "Direct-IDCW Reinvestment",
       "Direct-IDCW Payout"
     ],
-    "isins": [
-      "INF03VN01563",
-      "INF03VN01589",
-      "INF03VN01571",
-      "INF03VN01597",
-      "INF03VN01613",
-      "INF03VN01605"
-    ],
-    "amfi_codes": [
-      "150583",
-      "150582",
-      "150585",
-      "150584",
-      null,
-      null
-    ],
     "riskometer": "Very High risk",
     "investment_objective": "To seek to generate capital appreciation by actively investing in and managing a diversified portfolio primarily composed of mid-cap stocks. There is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Equity and Equity Related Instruments of Mid- Cap Companies (including REITs) Min -65% Max - 100% Equity and Equity Related Instruments other than above (including REITs) Min -0% Max - 35% Debt Securities and Money Market Instruments Min -0% Max - 35% Units issued by InvITs Min -0% Max - 10%",
@@ -44,7 +28,23 @@
       "Regular": "1.85",
       "Direct": "0.53"
     },
-    "exit_load": "1.00% (of applicable NAV); if Units are redeemed/ switched-out within 1 month from the date of allotment., Nil thereafter"
+    "exit_load": "1.00% (of applicable NAV); if Units are redeemed/ switched-out within 1 month from the date of allotment., Nil thereafter",
+    "amfi_codes": [
+      "150583",
+      "150582",
+      "150585",
+      "150584",
+      "150582",
+      "150582"
+    ],
+    "isins": [
+      "INF03VN01563",
+      "INF03VN01589",
+      "INF03VN01571",
+      "INF03VN01597",
+      "INF03VN01613",
+      "INF03VN01605"
+    ]
   },
   "fund_options_inferred": [
     "Regular-Growth",
@@ -54,5 +54,5 @@
     "Direct-IDCW Reinvestment",
     "Direct-IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T06:14:16.262337+00:00"
+  "extracted_at": "2026-04-19T04:30:08.715247+00:00"
 }

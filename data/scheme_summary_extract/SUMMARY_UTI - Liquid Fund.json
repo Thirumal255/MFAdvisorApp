@@ -92,20 +92,23 @@
       "null",
       "null",
       "141768",
-      "140913",
+      "null",
       "134427",
       "140504",
+      "null",
       "null",
       "140024",
       "null",
       "null",
-      "null",
-      "null",
+      "120777",
       "120794",
-      "null",
+      "120558",
       "120304",
       "120558",
+      "140913",
       "null",
+      "null",
+      "135721",
       "null"
     ],
     "riskometer": "Moderate",
@@ -155,5 +158,5 @@
     "Regular Plan-Weekly Payout of IDCW",
     "Direct Plan-Weekly Payout of IDCW"
   ],
-  "extracted_at": "2026-04-18T06:07:08.895400+00:00"
+  "extracted_at": "2026-04-19T04:24:35.302737+00:00"
 }

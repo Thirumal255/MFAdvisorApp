@@ -38,7 +38,7 @@
       "Regular": "0.40",
       "Direct": "0.11"
     },
-    "exit_load": "Entry Load :- NIL Exit Load :- NIL"
+    "exit_load": "NIL"
   },
   "fund_options_inferred": [
     "Direct Plan Growth",
@@ -48,5 +48,5 @@
     "Regular PlanIDCW -Reinvestment",
     "Regular Plan Growth"
   ],
-  "extracted_at": "2026-04-18T04:53:57.184372+00:00"
+  "extracted_at": "2026-04-19T03:34:51.976576+00:00"
 }

@@ -27,7 +27,9 @@
       "153700",
       "153701",
       "153702",
-      "153703"
+      "153703",
+      null,
+      null
     ],
     "isins": [
       "INF579M01BD1",
@@ -46,5 +48,5 @@
     "Direct Plan - IDCW Payout",
     "Direct Plan - IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T02:05:45.331495+00:00"
+  "extracted_at": "2026-04-19T01:54:42.210563+00:00"
 }

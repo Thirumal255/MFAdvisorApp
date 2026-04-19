@@ -22,16 +22,16 @@
     },
     "exit_load": "• If redeemed/switched out on or within 30 days from the date of allotment: 0.50% of the applicable NAV • Ifredeemed/switched out after 30 days from date of allotment – Nil",
     "amfi_codes": [
-      "153720",
       "153722",
-      "153723",
-      "153721"
+      "153720",
+      "153721",
+      "153723"
     ],
     "isins": [
-      "INF194KB1JY8",
       "INF194KB1JX0",
-      "INF194KB1JV4",
-      "INF194KB1JU6"
+      "INF194KB1JY8",
+      "INF194KB1JU6",
+      "INF194KB1JV4"
     ]
   },
   "fund_options_inferred": [
@@ -40,5 +40,5 @@
     "Regular Plan - Growth",
     "Regular Plan - IDCW"
   ],
-  "extracted_at": "2026-04-18T02:50:48.159135+00:00"
+  "extracted_at": "2026-04-19T02:16:06.807418+00:00"
 }

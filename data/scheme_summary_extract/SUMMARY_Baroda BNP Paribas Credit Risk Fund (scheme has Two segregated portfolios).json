@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "Baroda BNP Paribas Credit Risk Fund (scheme has two segregated portfolios)",
-    "fund_type": "An open-ended debt scheme predominantly investing in AA and below rated corporate bonds (excluding AA+ rated corporatebonds). A Relatively High Interest Rate Risk and High Credit Risk.",
+    "fund_type": "An open-ended debt scheme predominantly investing in AA and below rated corporate bonds (excluding AA+ rated corporate bonds). A Relatively High Interest Rate Risk and High Credit Risk.",
     "fund_options": [
       "REGULAR PLAN - QUARTERLY IDCW REINVESTMENT",
       "REGULAR PLAN - QUARTERLY IDCW PAYOUT",
@@ -30,27 +30,27 @@
       "INF955L01FZ9"
     ],
     "amfi_codes": [
-      "133517",
+      "133518",
       "133518",
       "133517",
-      "133518",
+      "133517",
       "133486",
-      "133520",
+      "133524",
       "133524",
       "133488",
       "133520",
-      "133524"
+      "133520"
     ],
     "riskometer": "Moderately High",
-    "investment_objective": "The primary objective of the Scheme is to generate returns by investing in debt and money market instruments across thecredit spectrum.",
-    "asset_allocation": "Corporate bonds (only in AA and below rated corporate bonds) 65% - 100%, Debt and money Market instruments, other thanthe above 0% - 35%, REITs and InvITs 0% - 10%",
+    "investment_objective": "The primary objective of the Scheme is to generate returns by investing in debt and money market instruments across the credit spectrum.",
+    "asset_allocation": "Corporate bonds (only in AA and below rated corporate bonds) 65% - 100%, Debt and money Market instruments, other than the above 0% - 35%, REITs and InvITs 0% - 10%",
     "benchmark": "CRISIL Credit Risk Debt B-II Index",
-    "fund_managers": "Mr. Gurvinder Singh Wasan (Primary Fund Manager), Mr. Vikram Pamnani (Primary Fund Manager)",
+    "fund_managers": "Mr. Gurvinder Singh Wasan, Mr. Vikram Pamnani",
     "annual_expense": {
       "Regular": "1.61",
       "Direct": "0.85"
     },
-    "exit_load": "If units are redeemed upto 10% of the units, on or before one year from the date of allotment: Nil, If units are redeemed overand above the 10% limit, on or before one year from the date of allotment: 1% of the applicable Net Asset Value (NAV) If unitsare redeemed after one year from the date of allotment: Nil."
+    "exit_load": "If units are redeemed upto 10% of the units, on or before one year from the date of allotment: Nil, If units are redeemed over and above the 10% limit, on or before one year from the date of allotment: 1% of the applicable Net Asset Value (NAV) If units are redeemed after one year from the date of allotment: Nil."
   },
   "fund_options_inferred": [
     "REGULAR PLAN - QUARTERLY IDCW REINVESTMENT",
@@ -64,5 +64,5 @@
     "DIRECT PLAN - MONTHLY IDCW REINVESTMENT",
     "DIRECT PLAN - MONTHLY IDCW PAYOUT"
   ],
-  "extracted_at": "2026-04-18T02:57:56.982652+00:00"
+  "extracted_at": "2026-04-19T02:20:45.198531+00:00"
 }

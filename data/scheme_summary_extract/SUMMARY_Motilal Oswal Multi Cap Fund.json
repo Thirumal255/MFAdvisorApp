@@ -18,12 +18,36 @@
     "asset_allocation": "Equity & Equity related instruments of Large Cap, Mid Cap, Small Cap companies, Debt and Money Market instruments, Units of REITs & InvITs",
     "benchmark": "Nifty 500 Multicap 50:25:25 Index TR",
     "fund_managers": [
-      "Mr. Ajay Khandelwal",
-      "Mr. Rakesh Shetty",
-      "Mr. Niket Shah",
-      "Mr. Santosh Singh",
-      "Mr. Atul Mehra",
-      "Mr. Sunil Sawant"
+      {
+        "name": "Mr. Ajay Khandelwal",
+        "type": "For Equity Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Mr. Rakesh Shetty",
+        "type": "For Debt and Gold Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Mr. Niket Shah",
+        "type": "For Equity Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Mr. Santosh Singh",
+        "type": "For Equity Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Mr. Atul Mehra",
+        "type": "For Equity Component",
+        "from_date": "Since Inception"
+      },
+      {
+        "name": "Mr. Sunil Sawant",
+        "type": "For Overseas Security",
+        "from_date": "Since Inception"
+      }
     ],
     "annual_expense": {
       "Regular": "2.25",
@@ -53,5 +77,5 @@
     "Regular Growth",
     "Direct Growth"
   ],
-  "extracted_at": "2026-04-18T05:05:48.642182+00:00"
+  "extracted_at": "2026-04-19T03:42:18.547280+00:00"
 }

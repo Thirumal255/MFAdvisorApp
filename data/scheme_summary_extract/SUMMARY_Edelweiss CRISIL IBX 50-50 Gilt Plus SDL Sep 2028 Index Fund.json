@@ -50,7 +50,7 @@
       "Regular": "0.39",
       "Direct": "0.15"
     },
-    "exit_load": "0.10 up to 30 days, Nil after 30 days"
+    "exit_load": "0.10 up to 30 days; Nil after 30 days"
   },
   "fund_options_inferred": [
     "Direct Plan Growth - Growth",
@@ -62,5 +62,5 @@
     "Regular Plan IDCW - Reinvestment",
     "Regular Plan IDCW - Transfer"
   ],
-  "extracted_at": "2026-04-18T03:20:55.256529+00:00"
+  "extracted_at": "2026-04-19T02:34:32.274695+00:00"
 }

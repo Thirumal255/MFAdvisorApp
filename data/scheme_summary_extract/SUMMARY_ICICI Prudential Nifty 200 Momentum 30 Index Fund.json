@@ -34,8 +34,8 @@
       "9685P"
     ],
     "riskometer": "Very High\nAs on 18-Dec-24",
-    "investment_objective": "The objective of the Scheme is to invest in companies whose securities are included in Nifty200 Momentum 30 Index and subject to tracking errors, to endeavour to achieve the returns of the above index as closely as possible. This would be done by investing in all the stocks comprising the Nifty200 Momentum 30 Index in the same weightage that they represent in Nifty200 Momentum 30 Index. However, there is no assurance or guarantee that the investment objective of the scheme shall be achieved.",
-    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (NIFTY200 Momentum 30 Index) 95% - 100%  \n• Money Market instruments including TREPs 0% - 5%",
+    "investment_objective": "The objective of the Scheme is to invest in companies whose securities are included in Nifty200 Momentum 30 Index \nand subject to tracking errors, to endeavour to achieve the returns of the above index as closely as possible. This \nwould be done by investing in all the stocks comprising the Nifty200 Momentum 30 Index in the same weightage that \nthey represent in Nifty200 Momentum 30 Index. \nHowever, there is no assurance or guarantee that the investment objective of the scheme shall be achieved.",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (NIFTY200 Momentum 30 Index) \n95% - 100%  \n• Money Market instruments including TREPs 0% - 5%",
     "benchmark": "Nifty200 Momentum 30 TRI",
     "fund_managers": [
       "Nishit Patel",
@@ -56,5 +56,5 @@
     "ICICI Prudential Nifty 200 Momentum 30 Index Fund - Direct Plan - IDCW",
     "ICICI Prudential Nifty 200 Momentum 30 Index Fund - Direct Plan - IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T04:10:24.608050+00:00"
+  "extracted_at": "2026-04-19T03:06:49.792036+00:00"
 }

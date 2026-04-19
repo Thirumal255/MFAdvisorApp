@@ -30,7 +30,9 @@
       "151230",
       "151228",
       "151231",
-      "151229"
+      "151229",
+      null,
+      null
     ],
     "isins": [
       "INF966L01BI1",
@@ -49,5 +51,5 @@
     "IDCW Re-investment Option - Regular Plan",
     "IDCW Re-investment Option - Direct Plan"
   ],
-  "extracted_at": "2026-04-18T05:28:46.739669+00:00"
+  "extracted_at": "2026-04-19T03:57:38.618072+00:00"
 }

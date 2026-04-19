@@ -6,39 +6,39 @@
     "fund_name": "ADITYA BIRLA SUN LIFE MNC FUND",
     "fund_type": "An open ended equity scheme following the MNC theme in its investments",
     "fund_options": [
-      "Aditya Birla Sun Life MNC Fund - Regular - IDCW",
-      "Aditya Birla Sun Life MNC Fund - Growth - Regular Plan",
-      "Aditya Birla Sun Life MNC Fund - Growth - Direct Plan",
-      "Aditya Birla Sun Life MNC Fund - DIRECT - IDCW"
-    ],
-    "isins": [
-      "INF209K01314",
-      "INF209K01322",
-      "INF209K01VT3",
-      "INF209K01Q06"
-    ],
-    "amfi_codes": [
-      "100063",
-      "100064",
-      "119646",
-      "119647"
+      "Regular - IDCW",
+      "Growth - Regular Plan",
+      "Growth - Direct Plan",
+      "DIRECT - IDCW"
     ],
     "riskometer": "Very High",
     "investment_objective": "The objective of the scheme is to achieve long-term growth of capital at relatively moderate levels of risk by making investments in securities of multinational companies through a research based investment approach.",
-    "asset_allocation": "Under normal circumstances, the asset allocation pattern shall be as under: Equity & Equity Related Instruments - Upto 100% - Medium to High Debt Securities and Money Market instruments - Upto 20% - Low to Medium",
+    "asset_allocation": "Equity & Equity Related Instruments - Upto 100% - Medium to High\nDebt Securities and Money Market instruments - Upto 20% - Low to Medium",
     "benchmark": "Nifty MNC TRI",
     "fund_managers": "Mr. Chanchal Khandelwal",
     "annual_expense": {
       "Regular": "2.01",
       "Direct": "1.29"
     },
-    "exit_load": "For redemption /switch-out of units on or before 90 days from the date of allotment: 1.00% of applicable NAV. For redemption / switch-out of units after 90 days from the date of allotment: Nil."
+    "exit_load": "For redemption /switch-out of units on or before 90 days from the date of allotment: 1.00% of applicable NAV. For redemption / switch-out of units after 90 days from the date of allotment: Nil.",
+    "amfi_codes": [
+      "100063",
+      "100064",
+      "119646",
+      "119647"
+    ],
+    "isins": [
+      "INF209K01314",
+      "INF209K01322",
+      "INF209K01VT3",
+      "INF209K01Q06"
+    ]
   },
   "fund_options_inferred": [
-    "Aditya Birla Sun Life MNC Fund - Regular - IDCW",
-    "Aditya Birla Sun Life MNC Fund - Growth - Regular Plan",
-    "Aditya Birla Sun Life MNC Fund - Growth - Direct Plan",
-    "Aditya Birla Sun Life MNC Fund - DIRECT - IDCW"
+    "Regular - IDCW",
+    "Growth - Regular Plan",
+    "Growth - Direct Plan",
+    "DIRECT - IDCW"
   ],
-  "extracted_at": "2026-04-18T02:14:14.782117+00:00"
+  "extracted_at": "2026-04-19T02:00:44.711123+00:00"
 }

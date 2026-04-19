@@ -22,7 +22,7 @@
       "Regular": "0.12",
       "Direct": "0.06"
     },
-    "exit_load": "Exit Load: if redeemed or switched out within 5 calendar days from the date of allotment: 0.05% if redeemed or switched out after 5 days from date of allotment: Nil",
+    "exit_load": "if redeemed or switched out within 5 calendar days from the date of allotment: 0.05% if redeemed or switched out after 5 days from date of allotment: Nil",
     "amfi_codes": [
       "148500",
       "148501",
@@ -46,5 +46,5 @@
     "RegularPlanIDCW - Reinvestment",
     "Regular Plan Growth"
   ],
-  "extracted_at": "2026-04-18T04:54:14.393448+00:00"
+  "extracted_at": "2026-04-19T03:35:01.201983+00:00"
 }

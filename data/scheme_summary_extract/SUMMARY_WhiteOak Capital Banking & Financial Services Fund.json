@@ -6,8 +6,8 @@
     "fund_name": "WhiteOak Capital Banking & Financial Services Fund",
     "fund_type": "An open ended equity scheme investing in banking & financial services sector.",
     "fund_options": [
-      "Regular Growth",
-      "Direct Growth"
+      "Regular-Growth",
+      "Direct-Growth"
     ],
     "riskometer": "Very High risk",
     "investment_objective": "The primary objective of the Scheme is to provide long-term capital appreciation by investing predominantly in equity and equity related instruments of banks & companies engaged in Financial Services Sector. There is no assurance that the investment objective of the Scheme will be achieved",
@@ -35,8 +35,8 @@
     ]
   },
   "fund_options_inferred": [
-    "Regular Growth",
-    "Direct Growth"
+    "Regular-Growth",
+    "Direct-Growth"
   ],
-  "extracted_at": "2026-04-18T06:13:12.151668+00:00"
+  "extracted_at": "2026-04-19T04:29:23.207876+00:00"
 }

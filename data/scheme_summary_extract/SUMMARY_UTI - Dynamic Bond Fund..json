@@ -50,20 +50,20 @@
       "133852",
       "113077",
       "135336",
-      "133180",
+      null,
       "113078",
-      "139181",
+      null,
       "133180",
-      "135536",
+      null,
       "134788",
-      "134788",
-      "135536",
+      null,
+      null,
       "135536",
       "120762",
       "120763",
-      "120763",
-      "133852",
-      "133852"
+      null,
+      null,
+      null
     ],
     "riskometer": "Moderate",
     "investment_objective": "The investment objective of the scheme is to generate optimal returns with adequate liquidity through active management of the portfolio, by investing in debt and money market instruments across duration. However, there can be no assurance that the investment objective of the scheme will be realized. The Scheme does not guarantee / indicate any returns.",
@@ -96,5 +96,5 @@
     "Regular Plan-Annual Reinvestment of IDCW",
     "Regular Plan-Annual Payout of IDCW"
   ],
-  "extracted_at": "2026-04-18T06:06:10.561173+00:00"
+  "extracted_at": "2026-04-19T04:23:43.853834+00:00"
 }

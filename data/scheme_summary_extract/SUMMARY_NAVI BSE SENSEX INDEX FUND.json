@@ -26,8 +26,8 @@
       }
     ],
     "annual_expense": {
-      "Regular": "1",
-      "Direct": "1"
+      "Regular": "1.0",
+      "Direct": "0.1"
     },
     "exit_load": "NIL",
     "amfi_codes": [
@@ -43,5 +43,5 @@
     "Direct Plan-Growth",
     "Regular Plan-Growth"
   ],
-  "extracted_at": "2026-04-18T05:08:44.438647+00:00"
+  "extracted_at": "2026-04-19T03:44:09.275079+00:00"
 }

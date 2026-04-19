@@ -4,16 +4,16 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "HDFC Floating Rate Debt Fund",
-    "fund_type": "An open ended debt scheme predominantly investing in floating rate instruments (including fixed rate instruments converted to floating rate exposures using swaps/derivatives).A scheme with Relatively High Interest Rate Risk and Moderate Credit Risk.",
+    "fund_type": "An open ended debt scheme predominantly investing in ﬂoating rate instruments (including ﬁxed rate instruments converted toﬂoating rate exposures using swaps/derivatives).A scheme with Relatively High Interest Rate Risk and Moderate Credit Risk.",
     "fund_options": [
       "WHOLESALE OPTION - REGULAR PLAN -IDCW MONTHLY OPTION",
       "RETAIL OPTION-REGULAR PLAN - IDCW WEEKLY OPTION",
       "RETAIL OPTION - REGULAR PLAN - IDCW REINVESTMENT OPTION",
       "RETAIL OPTION-REGULAR PLAN -IDCW - MONTHLY OPTION",
       "RETAIL OPTION -REGULAR PLAN - MONTHLY IDCW OPTION",
-      "WHOLESALE OPTION - REGULAR PLAN - IDCW MONTHLY OPTION",
+      "WHOLESALE OPTION - REGULARPLAN - IDCW MONTHLY OPTION",
       "RETAIL OPTION-REGULAR PLAN - WEEKLYIDCW REINVESTMENT OPTION",
-      "RETAIL OPTION- REGULAR PLAN - GROWTH OPTION",
+      "RETAIL OPTION- REGULAR PLAN - GROWTHOPTION",
       "WHOLESALE OPTION - REGULAR PLAN - GROWTH OPTION",
       "DIRECT PLAN - WHOLESALE OPTION - MONTHLY IDCW OPTION",
       "DIRECT PLAN - WHOLESALE - MONTHLY IDCW REINVESTMENT OPTION",
@@ -34,18 +34,22 @@
       "INF179K01VQ4"
     ],
     "amfi_codes": [
+      "106841",
+      "106840",
       "118959",
-      "118962",
+      "106839",
       "118960",
       "118961",
+      "118962",
       "106838",
-      "106840",
-      "106839",
-      "106841"
+      "118959",
+      "118960",
+      "118961",
+      "118962"
     ],
     "riskometer": "Moderate Risk",
-    "investment_objective": "To generate income/capital appreciation through investment in a portfolio comprising substantially of floating rate debt, fixed rate debt instruments swapped for floating rate returns and money market instruments. There is no assurance that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Floating rate Securities* (including fixed rate Securities converted to floating rate exposures using swaps/derivatives)@ : 65% -100%; Fixed rate debt securities (including securitized debt, money market instruments & floating rate debt securities swapped for fixed rate returns)@ : 0% - 35%; Units issued by InvITs : 0% - 10%; *Floating rate Securities include Floating rate Money Market Securities. @ As required under clause 4.6. of Master Circular, the Scheme shall hold at least 10% of its net assets in liquid assets(‘liquid assets’ shall include Cash, Government Securities, T-bills and Repo on Government Securities). In case of reduction in exposure to such liquid assets / securities below 10%, the AMC shall ensure that the above requirement is complied with before making any further investments. Further, the asset allocation limits shown above will be calculated after excluding this 10% limit.For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
+    "investment_objective": "To generate income/capital appreciation through investment in a portfolio comprising substantially of ﬂoating rate debt, ﬁxed ratedebt instruments swapped for ﬂoating rate returns and money market instruments. There is no assurance that the investmentobjective of the Scheme will be achieved.",
+    "asset_allocation": "Floating rate Securities* (including ﬁxed rate Securities converted to ﬂoating rate exposures using swaps/derivatives)@ : 65% -100%; Fixed rate debt securities (including securitized debt,money market instruments & ﬂoating rate debt securities swapped forﬁxed rate returns)@ : 0% - 35%; Units issued by InvITs : 0% - 10%; *Floating rate Securities include Floating rate Money MarketSecurities. @ As required under clause 4.6. of Master Circular, the Scheme shall hold at least 10% of its net assets in liquid assets(‘liquid assets’ shall include Cash, Government Securities, T-bills and Repo on Government Securities). In case of reduction inexposure to such liquid assets / securities below 10%, the AMC shall ensure that the above requirement is complied with beforemaking any further investments. Further, the asset allocation limits shown above will be calculated after excluding this 10% limit.For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
     "benchmark": "CRISIL Short Duration Debt A-II Index",
     "fund_managers": "FM 1 - Mr.Shobhit Mehrotra, FM 2 - Mr.Dhruv Muchhal",
     "annual_expense": {
@@ -60,13 +64,13 @@
     "RETAIL OPTION - REGULAR PLAN - IDCW REINVESTMENT OPTION",
     "RETAIL OPTION-REGULAR PLAN -IDCW - MONTHLY OPTION",
     "RETAIL OPTION -REGULAR PLAN - MONTHLY IDCW OPTION",
-    "WHOLESALE OPTION - REGULAR PLAN - IDCW MONTHLY OPTION",
+    "WHOLESALE OPTION - REGULARPLAN - IDCW MONTHLY OPTION",
     "RETAIL OPTION-REGULAR PLAN - WEEKLYIDCW REINVESTMENT OPTION",
-    "RETAIL OPTION- REGULAR PLAN - GROWTH OPTION",
+    "RETAIL OPTION- REGULAR PLAN - GROWTHOPTION",
     "WHOLESALE OPTION - REGULAR PLAN - GROWTH OPTION",
     "DIRECT PLAN - WHOLESALE OPTION - MONTHLY IDCW OPTION",
     "DIRECT PLAN - WHOLESALE - MONTHLY IDCW REINVESTMENT OPTION",
     "DIRECT PLAN - WHOLESALE OPTION - GROWTH OPTION"
   ],
-  "extracted_at": "2026-04-18T03:42:57.500355+00:00"
+  "extracted_at": "2026-04-19T02:48:41.865986+00:00"
 }

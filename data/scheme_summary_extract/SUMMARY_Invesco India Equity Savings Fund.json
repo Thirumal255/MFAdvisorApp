@@ -17,7 +17,11 @@
     "investment_objective": "To generate capital appreciation and income by investing in equity and equity related instruments, arbitrage opportunities and fixed income instruments (including debt, government securities and money market instruments). There is no assurance that the investment objective of the Scheme will be achieved",
     "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme would be as follows: 1.Equity & Equity Related Instruments: Min. 65% Max. 90% 1.1. of which derivatives including index futures, stock futures, index options & stock options etc. (only arbitrage opportunities) : Min. 25% Max. 75% 1.2. of which unhedged equity portion: Min. 15% Max. 40% Debt* and Money Market Instruments: Min.10% Max. 35% * Debt includes Government Securities. Debt instruments may include securitized debt (including pass through certificates (PTC)) upto 35% of the net assets of the Scheme. Under defensive circumstances, the asset allocation of the Scheme would be as follows: 1.Equity & Equity Related Instruments: Min. 15% Max. 65% 1.1. of which derivatives including index futures, stock futures, index options & stock options etc. (only arbitrage opportunities) : Min. 0% Max. 50% 1.2. of which unhedged equity portion: Min. 15% Max. 40% Debt* and Money Market Instruments: Min. 35% Max. 85% *Debt includes Government Securities. Debt instruments may include securitized debt (including pass through certificates (PTC)) upto 50% of the net assets of the Scheme.",
     "benchmark": "NIFTY Equity Savings Index",
-    "fund_managers": "Mr. Amey Sathe - Primary (Equity Investments), Mr. Deepak Gupta - Comanage (Arbitrage Investments), Mr. Krishna Cheemalapati - Comanage (Debt Investments)",
+    "fund_managers": [
+      "Mr. Amey Sathe - Primary (Equity Investments)",
+      "Mr. Deepak Gupta - Comanage (Arbitrage Investments)",
+      "Mr. Krishna Cheemalapati - Comanage (Debt Investments)"
+    ],
     "annual_expense": {
       "Regular": "2.2900",
       "Direct": "0.7900"
@@ -48,5 +52,5 @@
     "Direct Plan - IDCW Payout",
     "Direct Plan - IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:21:39.663814+00:00"
+  "extracted_at": "2026-04-19T03:13:18.443784+00:00"
 }

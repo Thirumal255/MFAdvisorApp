@@ -6,10 +6,10 @@
     "fund_name": "ADITYA BIRLA SUN LIFE GLOBAL EXCELLENCE EQUITY FUND OF FUND",
     "fund_type": "An open-ended fund of fund scheme investing primarily in units of Julius Baer Global Excellence Equity Fund",
     "fund_options": [
-      "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW",
-      "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option",
-      "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option",
-      "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW"
+      "REGULAR - RETAIL - IDCW",
+      "Retail Plan - Regular Plan - Growth Option",
+      "Retail Plan - Direct Plan - Growth Option",
+      "DIRECT - RETAIL - IDCW"
     ],
     "isins": [
       "INF084M01BA8",
@@ -35,10 +35,10 @@
     "exit_load": "For redemption/switch out of units within 28 days from the date of allotment: 0.25% of applicable NAV. For redemption/switch out of units after 28 days from the date of allotment: NIL"
   },
   "fund_options_inferred": [
-    "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW",
-    "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option",
-    "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option",
-    "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW"
+    "REGULAR - RETAIL - IDCW",
+    "Retail Plan - Regular Plan - Growth Option",
+    "Retail Plan - Direct Plan - Growth Option",
+    "DIRECT - RETAIL - IDCW"
   ],
-  "extracted_at": "2026-04-18T02:12:21.969023+00:00"
+  "extracted_at": "2026-04-19T01:59:09.852937+00:00"
 }

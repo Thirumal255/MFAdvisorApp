@@ -24,16 +24,16 @@
     "amfi_codes": [
       "154041",
       "154042",
-      "154041",
+      null,
       "154043",
       "154045",
-      "154043"
+      null
     ],
     "riskometer": "Very High risk",
     "investment_objective": "The primary investment objective of the scheme is to generate capital appreciation & provide long-term growth opportunitiesthrough equity and equity related instruments by investing in a diversiﬁed portfolio of large cap, mid cap and small capsecurities and the secondary objective is to generate consistent returns by investing in debt and money market securities.“There is no assurance that the investment objective of the Scheme will be achieved.”",
     "asset_allocation": "Equity and Equity-related instruments of large cap, mid cap and small cap companies - 65% to 100% Debt & Money MarketInstruments - 0% to 35% Units issued by REITs & InvITs - 0-10% Units of mutual fund schemes- 0-5%",
     "benchmark": "BSE 500 Index (TRI)",
-    "fund_managers": "Mr. Sanjay Doshi",
+    "fund_managers": "Primary - Mr. Sanjay Doshi - Head of Investments and Research",
     "annual_expense": {
       "Regular": "1.95",
       "Direct": "0.47"
@@ -48,5 +48,5 @@
     "Abakkus Flexi Cap Fund - Direct Plan - IDCW",
     "Abakkus Flexi Cap Fund - Direct Plan - IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T02:06:03.125514+00:00"
+  "extracted_at": "2026-04-19T01:54:54.237820+00:00"
 }

@@ -52,27 +52,27 @@
       "INF194K01SF2"
     ],
     "amfi_codes": [
-      "118413",
+      "D52",
       "272",
-      "118408",
+      "D54",
       "278",
-      "118411",
-      "131398",
-      "108545",
-      "118412",
-      "118414",
-      "118409",
-      "118410",
-      "108544",
-      "108547",
-      "118409",
-      "108546",
-      "108544",
-      "108546",
-      "118410",
-      "117867",
-      "118411",
-      "108547"
+      "D53R",
+      "D298R",
+      "51",
+      "D279",
+      "D272",
+      "D298",
+      "D54R",
+      "52R",
+      "54",
+      "D63",
+      "D298",
+      "52",
+      "53",
+      "D51",
+      "279",
+      "D53",
+      "54R"
     ],
     "riskometer": "Low to Moderate",
     "investment_objective": "The Fund seeks to generate long-term capital appreciation from a portfolio created by investing in active debt oriented mutual fund schemes and arbitrage fund of Bandhan Mutual Fund.",
@@ -108,5 +108,5 @@
     "Bandhan Income Plus Arbitrage Active FOF - DIRECT PLAN - Half yearly IDCW Payout",
     "Bandhan Income Plus Arbitrage Active FOF - REGULAR PLAN - Annual IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T02:49:08.802959+00:00"
+  "extracted_at": "2026-04-19T02:14:48.933491+00:00"
 }

@@ -13,16 +13,14 @@
       "Regular - IDCW",
       "Regular - IDCW - Reinvest"
     ],
-    "riskometer": "Very High",
-    "investment_objective": "The primary investment objective of the scheme is to seek to generate consistent returns by predominantly investing in equity and equity related securities of pharmaceutical and healthcare companies. There is no assurance that the investment objective of the Scheme will be achieved",
-    "asset_allocation": "1. Equity and equity related securities of pharmaceutical and healthcare companies: 80% - 100% 2. Equity and Equity related securities of other Companies: 0% - 20% 3. Debt, securitized debt and Money Market Securities: 0% - 20% 4. Units issued by InvITs: 0% - 10%",
-    "benchmark": "BSE Healthcare TRI",
-    "fund_managers": "Mr. Chirag Dagli",
-    "annual_expense": {
-      "Regular": "1.94",
-      "Direct": "0.63"
-    },
-    "exit_load": "0.50% - Holding period from the date of allotment <= 1 month, Nil - Holding period from the date of allotment > 1 month (as a % of Applicable NAV)",
+    "isins": [
+      "INF740KA1LG1",
+      "INF740KA1LH9",
+      "INF740KA1LI7",
+      "INF740KA1LD8",
+      "INF740KA1LE6",
+      "INF740KA1LF3"
+    ],
     "amfi_codes": [
       "145454",
       "145455",
@@ -31,14 +29,16 @@
       "145453",
       "145453"
     ],
-    "isins": [
-      "INF740KA1LG1",
-      "INF740KA1LH9",
-      "INF740KA1LI7",
-      "INF740KA1LD8",
-      "INF740KA1LE6",
-      "INF740KA1LF3"
-    ]
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the scheme is to seek to generate consistent returns by predominantly investing in equityand equity related securities of pharmaceutical and healthcare companies. There is no assurance that the investment objectiveof the Scheme will be achieved",
+    "asset_allocation": "1. Equity and equity related securities of pharmaceutical and healthcare companies: 80% - 100% 2. Equity and Equity relatedsecurities of other Companies: 0% - 20% 3. Debt, securitized debt and Money Market Securities: 0% - 20% 4. Units issued byInvITs: 0% - 10%",
+    "benchmark": "BSE Healthcare TRI",
+    "fund_managers": "Mr. Chirag Dagli",
+    "annual_expense": {
+      "Regular": "1.94",
+      "Direct": "0.63"
+    },
+    "exit_load": "0.50% - Holding period from the date of allotment <= 1 month, Nil - Holding period from the date of allotment > 1 month (as a %of Applicable NAV)"
   },
   "fund_options_inferred": [
     "Direct - Growth",
@@ -48,5 +48,5 @@
     "Regular - IDCW",
     "Regular - IDCW - Reinvest"
   ],
-  "extracted_at": "2026-04-18T03:11:54.988855+00:00"
+  "extracted_at": "2026-04-19T02:29:14.483191+00:00"
 }

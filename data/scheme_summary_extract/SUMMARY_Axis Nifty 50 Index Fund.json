@@ -11,20 +11,6 @@
       "Regular IDCW",
       "Regular Growth"
     ],
-    "isins": [
-      "INF846K013D2",
-      "INF846K014D0",
-      "INF846K016D5",
-      "INF846K017D3",
-      "INF846K015D7",
-      "INF846K018D1"
-    ],
-    "amfi_codes": [
-      "149373",
-      "149374",
-      "149371",
-      "149372"
-    ],
     "riskometer": "Very High",
     "investment_objective": "To provide returns before expenses that closely corresponds to the total returns of the NIFTY 50 subject to tracking errors.However, there can be no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Securities covered by Nifty 50 Index - (95%-100%), Debt & Money Market Instruments - (0%-5%)",
@@ -34,7 +20,21 @@
       "Regular": "0.42",
       "Direct": "0.10"
     },
-    "exit_load": "Nil"
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "149373",
+      "149374",
+      "149371",
+      "149372"
+    ],
+    "isins": [
+      "INF846K013D2",
+      "INF846K014D0",
+      "INF846K016D5",
+      "INF846K017D3",
+      "INF846K015D7",
+      "INF846K018D1"
+    ]
   },
   "fund_options_inferred": [
     "Direct IDCW",
@@ -42,5 +42,5 @@
     "Regular IDCW",
     "Regular Growth"
   ],
-  "extracted_at": "2026-04-18T02:22:53.956096+00:00"
+  "extracted_at": "2026-04-19T02:08:38.326632+00:00"
 }

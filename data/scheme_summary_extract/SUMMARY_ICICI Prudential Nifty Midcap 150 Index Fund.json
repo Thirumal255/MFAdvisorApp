@@ -13,7 +13,7 @@
     ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the scheme is to provide investment returns closely corresponding to the total returns of the securities as represented by the Nifty Midcap 150 Index before expenses, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (NIFTY Midcap 150 Index) 95%-100% \n• Money Market instruments, Reverse repo and / or TREPS and/or Debt Mutual Funds Schemes * 0%-5% \n• Units of Debt ETFs 0%-5%",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (NIFTY Midcap 150 Index) 95%-100% • Money Market instruments, Reverse repo and / or TREPS and/or Debt Mutual Funds Schemes * 0%-5% • Units of Debt ETFs 0%-5%",
     "benchmark": "Nifty Midcap 150 TRI",
     "fund_managers": [
       "Nishit Patel",
@@ -45,5 +45,5 @@
     "Growth",
     "IDCW"
   ],
-  "extracted_at": "2026-04-18T04:13:12.038549+00:00"
+  "extracted_at": "2026-04-19T03:08:38.143539+00:00"
 }

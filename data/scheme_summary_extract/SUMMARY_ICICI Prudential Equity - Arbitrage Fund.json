@@ -13,9 +13,25 @@
       "IDCW - Payout",
       "IDCW - Reinvestment"
     ],
+    "isins": [
+      "INF109K016O4",
+      "INF109K017O2",
+      "INF109K015O6",
+      "INF109K01BF6",
+      "INF109K01EF0",
+      null
+    ],
+    "amfi_codes": [
+      "120364",
+      "120365",
+      null,
+      "104683",
+      "104681",
+      null
+    ],
     "riskometer": "Low",
     "investment_objective": "To generate low volatility returns by using arbitrage and other derivative strategies in equity markets and investments in debt and money market instruments. However there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
-    "asset_allocation": "• Equity & Equity Derivatives (equity hedged exposure) 65% – 90% Medium to High\n• Debt and Money Market Instruments, including Units of Debt oriented mutual fund schemes 10% – 35% Low to Medium\n• Units issued by InvITs. 0% – 10% Medium to High\n• Preference Shares or any other asset as may be permitted by SEBI from time to time 0% – 10% Medium to High",
+    "asset_allocation": "• Equity & Equity Derivatives (equity hedged exposure) 65% – 90% Medium to High\n• Debt and Money Market Instruments, including Units of Debt oriented mutual fund schemes 10% – 35% Low to Medium\n• Units issued by InvITs. 0% – 10% Medium to High\n• Preference Shares or any other asset as may be permitted by SEBI from time to time 0% – 10% Medium to High\nStated Asset Allocation",
     "benchmark": "Nifty 50 Arbitrage Index",
     "fund_managers": [
       "Archana Nair",
@@ -27,23 +43,7 @@
       "Regular": "0.93",
       "Direct": "0.4"
     },
-    "exit_load": "0.25",
-    "amfi_codes": [
-      "P8178",
-      "P8177",
-      "P8177",
-      "PEDIRG",
-      "PEDIRD",
-      "PEDIRD"
-    ],
-    "isins": [
-      "INF109K016O4",
-      "INF109K017O2",
-      "INF109K015O6",
-      "INF109K01BF6",
-      "INF109K01EF0",
-      "INF109K01EF0"
-    ]
+    "exit_load": "0.25"
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -53,5 +53,5 @@
     "IDCW - Payout",
     "IDCW - Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:04:45.607654+00:00"
+  "extracted_at": "2026-04-19T03:03:21.014959+00:00"
 }

@@ -32,7 +32,7 @@
       "Regular": "1.65",
       "Direct": "0.69"
     },
-    "exit_load": "1% if redeemed or switched out on or before completion of 1 year from the date of allotment of units. Nil, thereafter."
+    "exit_load": "1% if redeemed or switched out on or before completion of 1 year from the date of allotment of units.Nil, thereafter."
   },
   "fund_options_inferred": [
     "Direct Plan IDCW Option",
@@ -40,5 +40,5 @@
     "Regular Plan IDCW Option",
     "Regular Plan Growth"
   ],
-  "extracted_at": "2026-04-18T05:09:51.249995+00:00"
+  "extracted_at": "2026-04-19T03:45:00.060613+00:00"
 }

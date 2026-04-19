@@ -20,17 +20,17 @@
     },
     "exit_load": "NIL",
     "amfi_codes": [
-      "151729",
-      "151728"
+      "151728",
+      "151729"
     ],
     "isins": [
-      "INF179KC1GG9",
-      "INF179KC1GH7"
+      "INF179KC1GH7",
+      "INF179KC1GG9"
     ]
   },
   "fund_options_inferred": [
     "Direct Plan- Growth Option",
     "Regular Plan- Growth Option"
   ],
-  "extracted_at": "2026-04-18T03:40:41.489650+00:00"
+  "extracted_at": "2026-04-19T02:47:08.638941+00:00"
 }

@@ -13,6 +13,22 @@
       "HSBC Value Fund-Regular Plan-IDCW Payout",
       "HSBC Value Fund-Regular Plan-IDCW Reinvestment"
     ],
+    "isins": [
+      "INF917K01HD4",
+      "INF917K01HC6",
+      "INF917K01HB8",
+      "INF677K01023",
+      "INF677K01213",
+      "INF677K01015"
+    ],
+    "amfi_codes": [
+      "151113",
+      "151112",
+      null,
+      "151110",
+      "151111",
+      null
+    ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the Scheme is to generate long-term capital appreciation from a diversiﬁed portfolio ofpredominantly equity and equity related securities, in the Indian markets with higher focus on undervalued securities. TheScheme could also additionally invest in Foreign Securities in international markets.",
     "asset_allocation": "Equity & Equity related securities: 65% -100% Debt securities & Money Market instruments (including cash & cashequivalents): 0%-35% Units issued by REITs/ InvITs: 0%-10%",
@@ -22,23 +38,7 @@
       "Regular": "1.71",
       "Direct": "0.74"
     },
-    "exit_load": "If the units redeemed or switched out are upto 10% of the units purchased or switched in (“the limit”) within 1 year from thedate of allotment – Nil. If units redeemed or switched out are over and above the limit within 1 year from the date of allotment – 1%. If units are redeemed or switched out on or after 1 year from the date of allotment – Nil.",
-    "amfi_codes": [
-      "151113",
-      "151112",
-      null,
-      "151110",
-      "151111",
-      null
-    ],
-    "isins": [
-      "INF917K01HD4",
-      "INF917K01HC6",
-      "INF917K01HB8",
-      "INF677K01023",
-      "INF677K01213",
-      "INF677K01015"
-    ]
+    "exit_load": "If the units redeemed or switched out are upto 10% of the units purchased or switched in (“the limit”) within 1 year from thedate of allotment – Nil. If units redeemed or switched out are over and above the limit within 1 year from the date of allotment – 1%. If units are redeemed or switched out on or after 1 year from the date of allotment – Nil."
   },
   "fund_options_inferred": [
     "HSBC Value Fund-Direct Plan-Growth",
@@ -48,5 +48,5 @@
     "HSBC Value Fund-Regular Plan-IDCW Payout",
     "HSBC Value Fund-Regular Plan-IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:00:18.062308+00:00"
+  "extracted_at": "2026-04-19T03:00:11.719402+00:00"
 }

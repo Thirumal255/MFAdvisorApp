@@ -22,7 +22,7 @@
       "Regular": "2.44",
       "Direct": "1.01"
     },
-    "exit_load": "• For redemption/switch out of initial units allotted within 3 months from the date of allotment : 1% Exit Load • Any redemption/switch out from the date of allotment of units after 3 months: NIL",
+    "exit_load": "For redemption/switch out of initial units allotted within 3 months from the date of allotment : 1% Exit Load • Any redemption/switch out from the date of allotment of units after 3 months: NIL",
     "amfi_codes": [
       "BCDG-148980",
       "BCDD-148981",
@@ -46,5 +46,5 @@
     "Regular Plan - IDCW REINVESTMENT",
     "Regular Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T02:54:42.982512+00:00"
+  "extracted_at": "2026-04-19T02:18:40.024645+00:00"
 }

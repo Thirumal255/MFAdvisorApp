@@ -11,6 +11,18 @@
       "Regular Plan - Growth",
       "Regular Plan - IDCW"
     ],
+    "isins": [
+      "INF109KC1U50",
+      "INF109KC1U68",
+      "INF109KC1U27",
+      "INF109KC1U35"
+    ],
+    "amfi_codes": [
+      "149219",
+      "149221",
+      "149218",
+      "149220"
+    ],
     "riskometer": "Very High",
     "investment_objective": "The objective of the Scheme is to invest in companies whose securities are included in NASDAQ-100 Index® and subject to tracking errors, to endeavor to achieve the returns of the above index. However, there is no assurance or guarantee that the investment objective of the scheme shall be achieved.",
     "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (NASDAQ-100 Index®) 95% - 100% \n• Reverse Repo, Tri-party Repo* Units of debt schemes/ETFs # 0% - 5%",
@@ -23,19 +35,7 @@
       "Regular": "0.98",
       "Direct": "0.52"
     },
-    "exit_load": null,
-    "amfi_codes": [
-      "149219",
-      "149221",
-      "149218",
-      "149220"
-    ],
-    "isins": [
-      "INF109KC1U50",
-      "INF109KC1U68",
-      "INF109KC1U27",
-      "INF109KC1U35"
-    ]
+    "exit_load": null
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -43,5 +43,5 @@
     "Regular Plan - Growth",
     "Regular Plan - IDCW"
   ],
-  "extracted_at": "2026-04-18T04:09:50.537478+00:00"
+  "extracted_at": "2026-04-19T03:06:25.554879+00:00"
 }

@@ -17,22 +17,6 @@
       "Regular Plan-Quarterly IDCW",
       "Direct Plan-Quarterly IDCW"
     ],
-    "isins": [
-      "INF767K01907",
-      "INF767K01915",
-      "INF767K01923",
-      "INF767K01EV2",
-      "INF767K01EX8",
-      "INF767K01EW0"
-    ],
-    "amfi_codes": [
-      "100314",
-      "100314",
-      "100315",
-      "120278",
-      "120278",
-      "120279"
-    ],
     "riskometer": "Moderate",
     "investment_objective": "LIC MF Medium to Long Duration Bond Fund is an open-ended debt scheme which will endeavor to generate an attractivereturn for its investors by investing in a portfolio is between 4 years and 7 years. There is no assurance that the investmentobjective of the Scheme will be achieved.",
     "asset_allocation": "Debt :60-100%, Money Market :0-40%, Units issued by InvIT :0-10%. Please refer the Scheme Information Document forcomplete details.",
@@ -42,7 +26,23 @@
       "Regular": "0.50",
       "Direct": "0.21"
     },
-    "exit_load": "0.25% if redeemed or switched out on or before completion of 15 days from the date of allotment of units, No Exit Load ispayable if units are redeemed/switched-out after 15 days from the date of allotment."
+    "exit_load": "0.25% if redeemed or switched out on or before completion of 15 days from the date of allotment of units, No Exit Load ispayable if units are redeemed/switched-out after 15 days from the date of allotment.",
+    "amfi_codes": [
+      "100314",
+      "100314",
+      "100315",
+      "120278",
+      "120278",
+      "120279"
+    ],
+    "isins": [
+      "INF767K01907",
+      "INF767K01915",
+      "INF767K01923",
+      "INF767K01EV2",
+      "INF767K01EX8",
+      "INF767K01EW0"
+    ]
   },
   "fund_options_inferred": [
     "Regular Plan-IDCW Payout",
@@ -56,5 +56,5 @@
     "Regular Plan-Quarterly IDCW",
     "Direct Plan-Quarterly IDCW"
   ],
-  "extracted_at": "2026-04-18T04:46:35.537982+00:00"
+  "extracted_at": "2026-04-19T03:29:45.476927+00:00"
 }

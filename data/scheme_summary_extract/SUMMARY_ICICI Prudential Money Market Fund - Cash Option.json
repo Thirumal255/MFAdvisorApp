@@ -7,7 +7,7 @@
     "fund_type": "Open Ended",
     "fund_options": [
       "Direct Plan - Growth",
-      "Direct Plan - IDCW - Daily",
+      "Direct Plan - IDCW - Daily - Payout, Reinvestment",
       "Direct Plan - IDCW",
       "Direct Plan - IDCW - Weekly",
       "Growth",
@@ -51,7 +51,7 @@
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
-    "Direct Plan - IDCW - Daily",
+    "Direct Plan - IDCW - Daily - Payout, Reinvestment",
     "Direct Plan - IDCW",
     "Direct Plan - IDCW - Weekly",
     "Growth",
@@ -59,5 +59,5 @@
     "IDCW",
     "IDCW - Weekly"
   ],
-  "extracted_at": "2026-04-18T04:09:03.538688+00:00"
+  "extracted_at": "2026-04-19T03:06:00.314745+00:00"
 }

@@ -15,10 +15,7 @@
       "Equity Derivatives": "0%-5%",
       "Money Market Instruments* including Triparty repo and units of liquid mutual fund": "0%-5%"
     },
-    "benchmark": {
-      "Tier 1": "Nifty Private Bank TRI",
-      "Tier 2": "NA"
-    },
+    "benchmark": "Nifty Private Bank TRI",
     "fund_managers": "Mr. Harsh Sethi",
     "annual_expense": {
       "Direct": "0"
@@ -34,5 +31,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T05:42:26.418928+00:00"
+  "extracted_at": "2026-04-19T04:06:20.721767+00:00"
 }

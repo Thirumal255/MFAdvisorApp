@@ -11,20 +11,6 @@
       "Regular IDCW",
       "Regular Growth"
     ],
-    "isins": [
-      "INF846K01Z20",
-      "INF846K01Z38",
-      "INF846K01Z53",
-      "INF846K01Z61",
-      "INF846K01Z46",
-      "INF846K01Z79"
-    ],
-    "amfi_codes": [
-      "148954",
-      "148955",
-      "148953",
-      "148956"
-    ],
     "riskometer": "Very High",
     "investment_objective": "To provide long term capital appreciation by predominantly investing in units of Schroder International Selection Fund Globalinnovation, an equity fund that aims to provide capital growth by investing companies worldwide which beneﬁt fromdisruptive innovation and to invest a part of corpus in debt, money market instruments and / or units of liquid schemes inorder to meet liquidity requirements from time to time. There is no assurance that the investment objective of the Schemewill be achieved.",
     "asset_allocation": "Units / shares of Schroder International Selection Fund Global innovation - (95%-100%), Debt, Money market instruments and/ or units of liquid schemes - (0%-5%)",
@@ -34,7 +20,21 @@
       "Regular": "1.62",
       "Direct": "0.84"
     },
-    "exit_load": "If redeemed / switched-out within 12 months from the date of allotment - For 10% of investment: Nil For remaininginvestment: 1% w.e.f., 28/05/2021"
+    "exit_load": "If redeemed / switched-out within 12 months from the date of allotment - For 10% of investment: Nil For remaininginvestment: 1% w.e.f., 28/05/2021",
+    "amfi_codes": [
+      "148954",
+      "148955",
+      "148953",
+      "148956"
+    ],
+    "isins": [
+      "INF846K01Z20",
+      "INF846K01Z38",
+      "INF846K01Z53",
+      "INF846K01Z61",
+      "INF846K01Z46",
+      "INF846K01Z79"
+    ]
   },
   "fund_options_inferred": [
     "Direct IDCW",
@@ -42,5 +42,5 @@
     "Regular IDCW",
     "Regular Growth"
   ],
-  "extracted_at": "2026-04-18T02:21:12.428978+00:00"
+  "extracted_at": "2026-04-19T02:07:08.033815+00:00"
 }

@@ -33,7 +33,7 @@
     "investment_objective": "The investment objective of the scheme is to provide investment returns corresponding to the total returns of the securitiesas represented by the Nifty SDL Plus G-Sec Jun 2029 70:30 Index before expenses, subject to tracking errors. However, therecan be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "State Development Loans (SDLs) representing the SDL portion of Nifty SDL Plus G-Sec Jun 2029 70:30 Index, Government Securities representing the G-Sec portion of Nifty SDL Plus G-Sec Jun 2029 70:30 Index 95% 100% Money Market instruments& Cash and Cash Equivalents 0% 5%",
     "benchmark": "Nifty SDL Plus G-Sec Jun 2029 70:30 Index",
-    "fund_managers": "FM 1 - Vivek Sharma",
+    "fund_managers": "Vivek Sharma",
     "annual_expense": {
       "Regular": "0.39",
       "Direct": "0.20"
@@ -48,5 +48,5 @@
     "IDCW PLAN PAYOUT",
     "IDCW PLAN REINVESTMENT"
   ],
-  "extracted_at": "2026-04-18T05:19:58.792190+00:00"
+  "extracted_at": "2026-04-19T03:51:47.256367+00:00"
 }

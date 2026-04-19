@@ -14,6 +14,21 @@
       "IDCW Plan Reinvestment",
       "Growth Plan Growth Option Growth"
     ],
+    "isins": [
+      "INF204KC1EB4",
+      "INF204KC1EF5",
+      "INF204KC1EG3",
+      "INF204KC1EC2",
+      "INF204KC1ED0",
+      "INF204KC1EE8"
+    ],
+    "amfi_codes": [
+      "015331",
+      "202412",
+      "202413",
+      "202414",
+      "202521"
+    ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the scheme is to provide investment returns that commensurate to the total returns of the securities as represented by the Nifty Auto Index before expenses, subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Securities constituting Nifty Auto Index - 95%- 100%, Cash & cash equivalents and Money Market instruments and/ or Schemes which invest in the money market securities or Liquid Schemes",
@@ -23,22 +38,7 @@
       "Regular": "0.89",
       "Direct": "0.35"
     },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "015331",
-      "202412",
-      "202413",
-      "202414",
-      "202521"
-    ],
-    "isins": [
-      "INF204KC1EB4",
-      "INF204KC1EF5",
-      "INF204KC1EG3",
-      "INF204KC1EC2",
-      "INF204KC1ED0",
-      "INF204KC1EE8"
-    ]
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "Direct Plan IDCW Plan Payout",
@@ -49,5 +49,5 @@
     "IDCW Plan Reinvestment",
     "Growth Plan Growth Option Growth"
   ],
-  "extracted_at": "2026-04-18T05:18:41.782415+00:00"
+  "extracted_at": "2026-04-19T03:50:54.021061+00:00"
 }

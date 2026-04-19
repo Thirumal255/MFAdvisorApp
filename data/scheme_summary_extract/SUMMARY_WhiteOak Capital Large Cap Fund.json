@@ -18,31 +18,11 @@
     "asset_allocation": "Equity and Equity Related Instruments of Large Cap Companies (including REITs) Min -80% Max - 100% Equity and Equity Related Instruments other than above (including REITs) Min -0% Max - 20% Debt Securities and Money Market Instruments Min -0% Max - 20% Units issued by InvITs Min -0% Max - 10%",
     "benchmark": "BSE 100 TRI",
     "fund_managers": [
-      {
-        "name": "Mr. Ramesh Mantri",
-        "type": "Comanage/Equity",
-        "from_date": "01-12-2022"
-      },
-      {
-        "name": "Mr. Piyush Baranwal",
-        "type": "Comanage/Debt",
-        "from_date": "01-12-2022"
-      },
-      {
-        "name": "Ms. Trupti Agrawal",
-        "type": "Assistant Fund Manager – Equity",
-        "from_date": "01-12-2022"
-      },
-      {
-        "name": "Mr. Dheeresh Pathak",
-        "type": "Assistant Fund Manager – Equity",
-        "from_date": "01-04-2024"
-      },
-      {
-        "name": "Mr. Ashish Agrawal",
-        "type": "Fund Manager - Arbitrage Transactions",
-        "from_date": "06-01-2025"
-      }
+      "Mr. Ramesh Mantri",
+      "Mr. Piyush Baranwal",
+      "Ms. Trupti Agrawal",
+      "Mr. Dheeresh Pathak",
+      "Mr. Ashish Agrawal"
     ],
     "annual_expense": {
       "Regular": "2.14",
@@ -51,10 +31,10 @@
     "exit_load": "1.00% (of applicable NAV); if Units are redeemed/ switched-out within 1 month from the date of allotment., Nil thereafter",
     "amfi_codes": [
       "150799",
-      null,
+      "150800",
       "150800",
       "150797",
-      null,
+      "150798",
       "150798"
     ],
     "isins": [
@@ -74,5 +54,5 @@
     "Direct-IDCW Reinvestment",
     "Direct-IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T06:14:02.643924+00:00"
+  "extracted_at": "2026-04-19T04:29:56.259575+00:00"
 }

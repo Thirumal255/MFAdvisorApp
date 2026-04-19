@@ -27,9 +27,7 @@
       "140769",
       "140770",
       "140771",
-      "140772",
-      null,
-      null
+      "140772"
     ],
     "isins": [
       "INF769K01DO5",
@@ -48,5 +46,5 @@
     "RegularPlanIDCW - Reinvestment",
     "Regular Plan Growth"
   ],
-  "extracted_at": "2026-04-18T04:54:21.998286+00:00"
+  "extracted_at": "2026-04-19T03:35:05.102517+00:00"
 }

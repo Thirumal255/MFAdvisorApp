@@ -17,7 +17,7 @@
     "investment_objective": "The investment objective of the scheme is to track the CRISIL-IBX Financial Services 9-12 Months Debt Index by investing inCommercial Papers (CPs), Certiﬁcates of Deposit (CDs) and Corporate Bond Securities, maturing in 9-12 months and seeks togenerate returns that are commensurate (before fees and expenses) with the performance of the underlying Index, subject totracking error. There is no assurance that the investment objective of the Scheme would be achieved.",
     "asset_allocation": "Securities forming part of CRISIL-IBX Financial Services 9-12 Months Debt Index - 95 - 100% Cash and cash equivalents - 0-5%",
     "benchmark": "CRISIL-IBX Financial Services 9-12 Months Debt Index",
-    "fund_managers": "Mr. Basant Bafna",
+    "fund_managers": "Mr. Basant Bafna (Primary)",
     "annual_expense": {
       "Regular": "0.26",
       "Direct": "0.12"
@@ -46,5 +46,5 @@
     "Regular Plan IDCW- Reinvestment",
     "Regular Plan Growth"
   ],
-  "extracted_at": "2026-04-18T04:54:06.160461+00:00"
+  "extracted_at": "2026-04-19T03:34:56.727764+00:00"
 }

@@ -23,8 +23,10 @@
     "amfi_codes": [
       "153479",
       "153478",
+      "153478",
+      "153480",
       "153481",
-      "153480"
+      "153481"
     ],
     "isins": [
       "INF0QA701BG6",
@@ -43,5 +45,5 @@
     "Regular Plan - Reinvestment IDCW",
     "Regular - Payout IDCW"
   ],
-  "extracted_at": "2026-04-18T02:26:47.750605+00:00"
+  "extracted_at": "2026-04-19T02:12:14.538497+00:00"
 }

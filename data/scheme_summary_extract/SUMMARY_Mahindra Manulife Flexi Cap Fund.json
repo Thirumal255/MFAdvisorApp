@@ -23,7 +23,7 @@
       "Regular": "2.07",
       "Direct": "0.41"
     },
-    "exit_load": "1%",
+    "exit_load": "1%**An Exit Load of 1% is payable if Units are redeemed / switched-out upto 3 months from the date of allotment; Nil if Units are redeemed / switched-out after 3 months from the date of allotment.",
     "amfi_codes": [
       "149104",
       "149103",
@@ -43,5 +43,5 @@
     "Direct Plan - Growth",
     "Direct Plan - IDCW"
   ],
-  "extracted_at": "2026-04-18T04:50:11.115074+00:00"
+  "extracted_at": "2026-04-19T03:32:48.887754+00:00"
 }

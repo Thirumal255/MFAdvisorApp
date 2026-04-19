@@ -37,17 +37,29 @@
     ],
     "riskometer": "Very High Risk",
     "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation from a portfolio that predominantly invests in equity and equity related securities of small cap companies. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns.",
-    "asset_allocation": "1. Equity and Equity related securities of Small Cap companies - 65-100%\n2. Equity and Equity related securities of other companies - 0-35%\n3. Debt and money market instruments - 0-35%",
+    "asset_allocation": [
+      "Equity and Equity related securities of Small Cap companies - 65-100%",
+      "Equity and Equity related securities of other companies - 0-35%",
+      "Debt and money market instruments - 0-35%"
+    ],
     "benchmark": "Nifty Smallcap 250 TRI",
     "fund_managers": [
-      "Mr. Dhruv Bhatia",
-      "Mr. Trideep Bhattacharya"
+      {
+        "name": "Mr. Dhruv Bhatia",
+        "type": "Primary",
+        "from_date": "24/Dec/2021"
+      },
+      {
+        "name": "Mr. Trideep Bhattacharya",
+        "type": "Co-Fund Manager",
+        "from_date": "01/Aug/2021"
+      }
     ],
     "annual_expense": {
       "Regular": "2.16",
       "Direct": "0.50"
     },
-    "exit_load": "If the units are redeemed / switched out on or before 90 days from the date of allotment – 1.00%, If the units are redeemed / switched out after 90 days from the date of allotment – Nil"
+    "exit_load": "• If the units are redeemed / switched out on or before 90 days from the date of allotment – 1.00% • If the units are redeemed / switched out after 90 days from the date of allotment – Nil"
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -59,5 +71,5 @@
     "Regular Plan - IDCW Option - Reinvestment",
     "Regular Plan - IDCW Option - Transfer"
   ],
-  "extracted_at": "2026-04-18T03:28:12.176708+00:00"
+  "extracted_at": "2026-04-19T02:38:31.263428+00:00"
 }

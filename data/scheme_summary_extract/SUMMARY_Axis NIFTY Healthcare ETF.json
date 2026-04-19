@@ -9,7 +9,7 @@
       "Growth"
     ],
     "riskometer": "Very High",
-    "investment_objective": "The investment objective of the Scheme is to provide returns before expenses that closely correspond to the total returnsof the NIFTY Healthcare Index subject to tracking errors. However, there is no assurance or guarantee that the investmentobjective of the scheme will be achieved.",
+    "investment_objective": "The investment objective of the Scheme is to provide returns before expenses that closely correspond to the total returns of the NIFTY Healthcare Index subject to tracking errors. However, there is no assurance or guarantee that the investment objective of the scheme will be achieved.",
     "asset_allocation": "Equity instruments covered by NIFTY Healthcare Index - (95%-100%), Debt & Money Market Instruments - (0%-5%)",
     "benchmark": "NIFTY Healthcare TRI",
     "fund_managers": "Mr. Karthik Kumar - Primary/Domestic Equities",
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T02:23:14.057754+00:00"
+  "extracted_at": "2026-04-19T02:08:58.147812+00:00"
 }

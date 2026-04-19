@@ -12,10 +12,10 @@
       "Regular Growth"
     ],
     "riskometer": "Very High",
-    "investment_objective": "The investment objective of the Investment Plan(s) under the Scheme is to provide long-term capital appreciation / income by investing in a mix of equity, debt, and other instruments to help investors meet their retirement goals. However, there can be no assurance that the investment objective of the Scheme will be achieved. To generate capital appreciation by predominantly investing in equity and equity related instruments. The Investment Plan may also invest in debt and money market instruments, units of Gold ETF or units of REITs & InvITs for income generation / wealth creation.",
-    "asset_allocation": "Equity and Equity related instruments - (65%-80%), Debt & Money Market Instruments - (0%-35%), Gold ETF - (0%-10%), Units issued by REITs & InvITs - (0%-10%)",
+    "investment_objective": "The investment objective of the Investment Plan(s) under the Scheme is to provide long-term capital appreciation / income byinvesting in a mix of equity, debt, and other instruments to help investors meet their retirement goals. However, there can beno assurance that the investment objective of the Scheme will be achieved. To generate capital appreciation by predominantlyinvesting in equity and equity related instruments. The Investment Plan may also invest in debt and money market instruments,units of Gold ETF or units of REITs & InvITs for income generation / wealth creation.",
+    "asset_allocation": "Equity and Equity related instruments - (65%-80%), Debt & Money Market Instruments - (0%-35%), Gold ETF - (0%-10%), Unitsissued by REITs & InvITs - (0%-10%)",
     "benchmark": "CRISIL Hybrid 25+75 - Aggressive Index",
-    "fund_managers": "Mr. Jayesh Sundar - Comanage/Domestic Equities, Mr. Devang Shah - Comanage/Domestic Equities, Mr. Hardik Shah - Comanage/Fixed Income, Ms. Krishnaa N - Foreign Securities",
+    "fund_managers": "Mr. Jayesh Sundar - Comanage/Domestic Equities, Mr. Devang Shah - Comanage/Domestic Equities, Mr. Hardik Shah -Comanage/Fixed Income, Ms. Krishnaa N - Foreign Securities",
     "annual_expense": {
       "Regular": "2.32",
       "Direct": "1.08"
@@ -40,5 +40,5 @@
     "Regular IDCW",
     "Regular Growth"
   ],
-  "extracted_at": "2026-04-18T02:24:06.882330+00:00"
+  "extracted_at": "2026-04-19T02:09:48.832675+00:00"
 }

@@ -34,14 +34,14 @@
     "amfi_codes": [
       "151138",
       "151135",
-      "null",
+      "151135",
       "151136",
-      "null",
+      "151136",
       "151134",
       "151140",
-      "null",
+      "151140",
       "151137",
-      "null"
+      "151137"
     ],
     "isins": [
       "INF917K01QR5",
@@ -68,5 +68,5 @@
     "Regular Quarterly IDCW Payout",
     "Regular Quarterly IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T03:52:39.233577+00:00"
+  "extracted_at": "2026-04-19T02:55:28.969342+00:00"
 }

@@ -13,16 +13,8 @@
     "asset_allocation": "Stocks comprising Nifty 50 Value 20 Index - 95 - 100% - Medium - High Cash and debt/money market instruments - 0 - 5% - Low –Medium",
     "benchmark": "Nifty 50 Value 20 TRI",
     "fund_managers": [
-      {
-        "name": "Mr. Devender Singhal",
-        "type": "Primary",
-        "from_date": "09/05/2019"
-      },
-      {
-        "name": "Mr. Satish Dondapati",
-        "type": "Primary",
-        "from_date": "09/05/2019"
-      }
+      "FM 1 Mr. Devender Singhal",
+      "FM 2 Mr. Satish Dondapati"
     ],
     "annual_expense": {
       "Direct": "0.14"
@@ -38,5 +30,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:38:21.954524+00:00"
+  "extracted_at": "2026-04-19T03:24:38.252621+00:00"
 }

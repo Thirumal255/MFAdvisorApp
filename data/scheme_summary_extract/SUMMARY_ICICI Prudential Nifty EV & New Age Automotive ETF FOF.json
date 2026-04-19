@@ -6,28 +6,11 @@
     "fund_name": "ICICI Prudential Nifty EV & New Age Automotive ETF FOF",
     "fund_type": "Open Ended",
     "fund_options": [
-      "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Growth",
-      "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - IDCW",
-      "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - IDCW Payout",
       "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Direct Plan - Growth",
       "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Direct Plan - IDCW",
-      "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Direct Plan - IDCW Payout"
-    ],
-    "isins": [
-      "INF109K1A096",
-      "INF109K1A104",
-      "INF109K1A112",
-      "INF109K1A120",
-      "INF109K1A138",
-      "INF109K1A146"
-    ],
-    "amfi_codes": [
-      "153396",
-      "153393",
-      "null",
-      "153394",
-      "153395",
-      "null"
+      "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Direct Plan - IDCW Payout",
+      "ICICI Prudential Nifty EV & New Age Automotive ETF FOF- Growth",
+      "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - IDCW"
     ],
     "riskometer": "Very High",
     "investment_objective": "ICICI Prudential Nifty EV & New Age Automotive ETF FOF is a Fund of Funds scheme with the primary objective to generate returns by investing in units of ICICI Prudential Nifty EV & New Age Automotive ETF. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
@@ -42,15 +25,29 @@
       "Regular": "0.60",
       "Direct": "0.10"
     },
-    "exit_load": "Nil"
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "3563",
+      "3564",
+      "3564P",
+      "153396",
+      "153393"
+    ],
+    "isins": [
+      "INF109K1A096",
+      "INF109K1A104",
+      "INF109K1A112",
+      "INF109K1A120",
+      "INF109K1A138",
+      "INF109K1A146"
+    ]
   },
   "fund_options_inferred": [
-    "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Growth",
-    "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - IDCW",
-    "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - IDCW Payout",
     "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Direct Plan - Growth",
     "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Direct Plan - IDCW",
-    "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Direct Plan - IDCW Payout"
+    "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - Direct Plan - IDCW Payout",
+    "ICICI Prudential Nifty EV & New Age Automotive ETF FOF- Growth",
+    "ICICI Prudential Nifty EV & New Age Automotive ETF FOF - IDCW"
   ],
-  "extracted_at": "2026-04-18T04:11:53.347442+00:00"
+  "extracted_at": "2026-04-19T03:07:45.447822+00:00"
 }

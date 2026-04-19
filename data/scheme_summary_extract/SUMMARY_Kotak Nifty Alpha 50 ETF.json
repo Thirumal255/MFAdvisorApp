@@ -13,9 +13,9 @@
     "asset_allocation": "Equity and Equity related securities covered by the Nifty Alpha 50 Index - 95 - 100% - Medium - High Debt & Money MarketInstrument - 0 - 5% - Low – Medium",
     "benchmark": "NIFTY 50 Alpha Index TRI",
     "fund_managers": [
-      "Mr. Devender Singhal",
-      "Mr. Satish Dondapati",
-      "Mr. Abhishek Bisen"
+      "FM 1 Mr. Devender Singhal",
+      "FM 2 Mr. Satish Dondapati",
+      "FM 3 Mr. Abhishek Bisen"
     ],
     "annual_expense": {
       "Direct": "0.0000"
@@ -31,5 +31,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:38:34.032222+00:00"
+  "extracted_at": "2026-04-19T03:24:46.537250+00:00"
 }

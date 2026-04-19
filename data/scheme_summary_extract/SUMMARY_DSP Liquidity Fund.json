@@ -15,7 +15,11 @@
     "investment_objective": "The primary investment objective of the Scheme is to seek to generate a reasonable return commensurate with low risk and a high degree of liquidity, from a portfolio constituted of money market securities and high quality debt securities. There is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Money market securities and/or Debt securities with maturity of upto 91 days: 80% - 100%",
     "benchmark": "CRISIL Liquid Debt A-I Index",
-    "fund_managers": "Mr. Karan Mundhra, Ms. Shalini Vasanta, Mr. Kunal Khudania",
+    "fund_managers": [
+      "Mr. Karan Mundhra - Comanage",
+      "Ms. Shalini Vasanta - Comanage",
+      "Mr. Kunal Khudania - Comanage"
+    ],
     "annual_expense": {
       "Regular": "0.21",
       "Direct": "0.12"
@@ -29,9 +33,7 @@
     ],
     "isins": [
       "INF740K01QL4",
-      null,
-      "INF740K01FK9",
-      null
+      "INF740K01FK9"
     ]
   },
   "fund_options_inferred": [
@@ -40,5 +42,5 @@
     "Regular Plan - Growth",
     "Regular Plan - IDCW - Weekly"
   ],
-  "extracted_at": "2026-04-18T03:12:43.033088+00:00"
+  "extracted_at": "2026-04-19T02:29:48.096856+00:00"
 }

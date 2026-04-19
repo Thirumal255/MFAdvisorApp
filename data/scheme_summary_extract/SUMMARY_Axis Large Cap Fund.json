@@ -25,7 +25,10 @@
       "120465",
       "120466",
       "112277",
-      "112278"
+      "112278",
+      null,
+      null,
+      null
     ],
     "isins": [
       "INF846K01DP8",
@@ -33,7 +36,8 @@
       "INF846K01DO1",
       "INF846K01164",
       "INF846K01172",
-      "INF846K01180"
+      "INF846K01180",
+      null
     ]
   },
   "fund_options_inferred": [
@@ -42,5 +46,5 @@
     "Regular IDCW",
     "Regular Growth"
   ],
-  "extracted_at": "2026-04-18T02:22:05.898547+00:00"
+  "extracted_at": "2026-04-19T02:07:51.314259+00:00"
 }

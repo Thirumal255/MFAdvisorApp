@@ -28,8 +28,8 @@
     "asset_allocation": "Debt & money market instruments*having maturity of one business day (including Triparty repo on Government securities ortreasury bills, Reverse Repo and equivalent) - 0 - 100% - Low",
     "benchmark": "NIFTY 1D Rate Index",
     "fund_managers": [
-      "FM 1 Mr. Deepak Agrawal",
-      "FM2 Mr. Sunil Pandey"
+      "Mr. Deepak Agrawal",
+      "Mr. Sunil Pandey"
     ],
     "annual_expense": {
       "Regular": "0.16",
@@ -43,5 +43,5 @@
     "Regular Plan-Growth",
     "Regular Plan-Daily IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:41:33.658429+00:00"
+  "extracted_at": "2026-04-19T03:26:41.688407+00:00"
 }

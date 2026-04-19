@@ -24,13 +24,18 @@
     "amfi_codes": [
       "120591",
       "120870",
+      null,
       "106823",
-      "106822"
+      "106822",
+      null
     ],
-    "riskometer": "Very High",
+    "riskometer": "Very High (as on March 31, 2025)",
     "investment_objective": "The primary objective of the Scheme is to seek to generate capital appreciation by predominantly investing in equity and equity related securities of small cap stocks. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
     "asset_allocation": "•Equity & Equity related securities of Small Cap Companies = 65% - 100%\n•Equity & Equity related securities of other than Small Cap Companies = 0% - 35%\n•Debt & Money market instruments = 0% - 35%",
-    "benchmark": "Nifty Smallcap 250 TRI",
+    "benchmark": [
+      "Nifty Smallcap 250 TRI",
+      "Nifty 50 TRI"
+    ],
     "fund_managers": [
       "Aatur Shah",
       "Anish Tawakley",
@@ -50,5 +55,5 @@
     "Regular Plan - IDCW - Payout",
     "Regular Plan - IDCW - Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:17:52.594188+00:00"
+  "extracted_at": "2026-04-19T03:11:29.381287+00:00"
 }

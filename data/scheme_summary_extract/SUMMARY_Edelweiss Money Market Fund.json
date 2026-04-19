@@ -46,27 +46,15 @@
     "asset_allocation": "Money Market Instruments with Maturity up to 1 year - 100%",
     "benchmark": "CRISIL Money Market A-I Index",
     "fund_managers": [
-      {
-        "name": "Mr. Rahul Dedhia",
-        "type": "Co-Manage",
-        "from_date": "22/Sep/2025"
-      },
-      {
-        "name": "Ms. Pranavi Kulkarni",
-        "type": null,
-        "from_date": "June 27, 2008"
-      },
-      {
-        "name": "Mr. Hetul Raval",
-        "type": "Co-Manage",
-        "from_date": null
-      }
+      "Mr. Rahul Dedhia",
+      "Ms. Pranavi Kulkarni",
+      "Mr. Hetul Raval"
     ],
     "annual_expense": {
       "Regular": "0.98",
       "Direct": "0.25"
     },
-    "exit_load": "Nil"
+    "exit_load": null
   },
   "fund_options_inferred": [
     "Direct Plan Growth - Growth",
@@ -80,5 +68,5 @@
     "Regular Plan - Annual - IDCW Option - Payout",
     "Regular Plan - Annual - IDCW Option - Reinvestment"
   ],
-  "extracted_at": "2026-04-18T03:24:35.006358+00:00"
+  "extracted_at": "2026-04-19T02:36:40.800776+00:00"
 }

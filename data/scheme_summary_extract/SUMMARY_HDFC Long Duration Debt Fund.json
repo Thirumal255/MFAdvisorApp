@@ -13,6 +13,22 @@
       "Direct Plan - IDCW Payout Option",
       "Direct Plan - IDCW Re-investment Option"
     ],
+    "isins": [
+      "INF179KC1EW1",
+      "INF179KC1EX9",
+      "INF179KC1EY7",
+      "INF179KC1ET7",
+      "INF179KC1EU5",
+      "INF179KC1EV3"
+    ],
+    "amfi_codes": [
+      "151314",
+      "151311",
+      "151312",
+      "151313",
+      null,
+      null
+    ],
     "riskometer": "Moderately High",
     "investment_objective": "To generate income / capital appreciation through investments in debt and money market instruments.There is no assurance thatthe investment objective of the Scheme will be achieved.",
     "asset_allocation": "Debt (including securitized debt other Structured Obligations and Credit enhancements) and Money Market Instruments^: Up to100%: ^Portfolio Macaulay Duration shall be greater than 7 years For detailed asset allocation, refer Scheme InformationDocument (SID) available on the website.",
@@ -22,23 +38,7 @@
       "Regular": "0.62",
       "Direct": "0.30"
     },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "151314",
-      "151312",
-      "151311",
-      "151313",
-      null,
-      null
-    ],
-    "isins": [
-      "INF179KC1EW1",
-      "INF179KC1EX9",
-      "INF179KC1EY7",
-      "INF179KC1ET7",
-      "INF179KC1EU5",
-      "INF179KC1EV3"
-    ]
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "Regular Plan - Growth Option",
@@ -48,5 +48,5 @@
     "Direct Plan - IDCW Payout Option",
     "Direct Plan - IDCW Re-investment Option"
   ],
-  "extracted_at": "2026-04-18T03:44:48.942898+00:00"
+  "extracted_at": "2026-04-19T02:50:01.047710+00:00"
 }

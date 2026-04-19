@@ -26,9 +26,9 @@
     "amfi_codes": [
       "120730",
       "120730",
-      null,
-      null,
-      null,
+      "120731",
+      "102397",
+      "102397",
       "102398"
     ],
     "isins": [
@@ -48,5 +48,5 @@
     "Regular Plan-Reinvestment of IDCW",
     "Regular Plan-Growth"
   ],
-  "extracted_at": "2026-04-18T06:07:53.810881+00:00"
+  "extracted_at": "2026-04-19T04:25:17.140182+00:00"
 }

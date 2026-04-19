@@ -11,18 +11,6 @@
       "Direct Plan - Growth Option",
       "Direct - IDCW"
     ],
-    "isins": [
-      "INF084M01044",
-      "INF084M01051",
-      "INF084M01EQ8",
-      "INF084M01ER6"
-    ],
-    "amfi_codes": [
-      "132178",
-      "132179",
-      "132183",
-      "132184"
-    ],
     "riskometer": "Moderately High",
     "investment_objective": "The primary objective of the Scheme is to generate returns by investing in portfolio of \nschemes predominantly in Debt schemes with the secondary objective being growth \nof capital by investing in equity-oriented schemes. The Scheme has a strategic\nasset allocation which is based on satisfying the needs to a conservative risk-return \nprofile of investors. The Scheme does not guarantee/indicate any returns. There is no \nassurance or guarantee that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Under normal circumstances, the asset allocation is as follows:\nActive Equity Oriented Mutual Fund Schemes-10 -25 % \nActive Debt Oriented Mutual Fund Schemes -75 -90 % \nCash, Money Market & Debt instruments -0-5 %",
@@ -32,7 +20,19 @@
       "Regular": "0.50",
       "Direct": "0.34"
     },
-    "exit_load": "For redemption /switchout of units within 365 days from the date of allotment: 1.00% \nof applicable NAV For redemption/switch out of units after 365 days from the date of \nallotment: Nil"
+    "exit_load": "For redemption /switchout of units within 365 days from the date of allotment: 1.00% \nof applicable NAV For redemption/switch out of units after 365 days from the date of \nallotment: Nil",
+    "amfi_codes": [
+      "132178",
+      "132179",
+      "132183",
+      "132184"
+    ],
+    "isins": [
+      "INF084M01044",
+      "INF084M01051",
+      "INF084M01EQ8",
+      "INF084M01ER6"
+    ]
   },
   "fund_options_inferred": [
     "Regular Plan - Growth Option",
@@ -40,5 +40,5 @@
     "Direct Plan - Growth Option",
     "Direct - IDCW"
   ],
-  "extracted_at": "2026-04-18T02:07:57.672370+00:00"
+  "extracted_at": "2026-04-19T01:56:07.820238+00:00"
 }

@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "DSP Nifty Next 50 Index Fund",
-    "fund_type": "Index Fund",
+    "fund_type": "An open ended scheme replicating NIFTY Next 50 Index",
     "fund_options": [
       "Direct - Growth",
       "Direct - IDCW",
@@ -48,5 +48,5 @@
     "Regular - IDCW",
     "Regular - IDCW - Reinvest"
   ],
-  "extracted_at": "2026-04-18T03:15:31.075992+00:00"
+  "extracted_at": "2026-04-19T02:31:27.200919+00:00"
 }

@@ -13,22 +13,6 @@
       "Regular - IDCW",
       "Regular - IDCW Reinvest"
     ],
-    "isins": [
-      "INF740KA1MM7",
-      "INF740KA1MN5",
-      "INF740KA1MO3",
-      "INF740KA1MJ3",
-      "INF740KA1MK1",
-      "INF740KA1ML9"
-    ],
-    "amfi_codes": [
-      "146376",
-      "146377",
-      "146377",
-      "146379",
-      "146378",
-      "146378"
-    ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the Scheme is to invest in companies which are constituents of NIFTY 50 Index (underlying Index) in the same proportion as in the index and seeks to generate returns that are commensurate (before fees and expenses) with the performance of the underlying Index, subject to tracking error. However, there is no assurance that the investment objective of the Scheme will be achieved. The Scheme does not assure or guarantee any returns.",
     "asset_allocation": "1. Equity and equity related securities covered by Nifty 50 Index : 95% - 100% 2. Debt and Money Market Securities : 0% - 5%",
@@ -38,7 +22,23 @@
       "Regular": "0.40",
       "Direct": "0.18"
     },
-    "exit_load": "Nil"
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "146376",
+      "146377",
+      "146377",
+      "146379",
+      "146378",
+      "146378"
+    ],
+    "isins": [
+      "INF740KA1MM7",
+      "INF740KA1MN5",
+      "INF740KA1MO3",
+      "INF740KA1MJ3",
+      "INF740KA1MK1",
+      "INF740KA1ML9"
+    ]
   },
   "fund_options_inferred": [
     "Direct - Growth",
@@ -48,5 +48,5 @@
     "Regular - IDCW",
     "Regular - IDCW Reinvest"
   ],
-  "extracted_at": "2026-04-18T03:14:14.364920+00:00"
+  "extracted_at": "2026-04-19T02:30:38.356924+00:00"
 }

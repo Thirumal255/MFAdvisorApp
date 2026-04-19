@@ -9,8 +9,8 @@
       "Growth"
     ],
     "riskometer": "High",
-    "investment_objective": "The investment objective of the fund is to generate returns that are in line with the performance of physical gold in domestic prices, subject to tracking error. However, there is no assurance or guarantee that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Gold (Includes Physical Gold and other Gold related instruments as permitted by SEBI from time to time) 95-100, Debt & Money Market Instruments including units of Mutual Funds 0-5.",
+    "investment_objective": "The investment objective of the fund is to generate returns that are in line with the performance of physical gold indomestic prices, subject to tracking error. However, there is no assurance or guarantee that the investment objective of theScheme will be achieved.",
+    "asset_allocation": "Gold (Includes Physical Gold and other Gold related instruments as permitted by SEBI from time to time) 95-100, Debt &Money Market Instruments including units of Mutual Funds 0-5.",
     "benchmark": "Domestic Price of Gold",
     "fund_managers": "FM 1 - Tapan Patel, FM 2 - Nitin Sharma",
     "annual_expense": {
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T05:52:55.041985+00:00"
+  "extracted_at": "2026-04-19T04:13:07.162141+00:00"
 }

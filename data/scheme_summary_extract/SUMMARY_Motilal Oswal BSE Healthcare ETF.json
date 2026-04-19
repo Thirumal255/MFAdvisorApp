@@ -16,7 +16,9 @@
       "Mr. Swapnil Mayekar",
       "Mr. Rakesh Shetty"
     ],
-    "annual_expense": {},
+    "annual_expense": {
+      "Direct": "00"
+    },
     "exit_load": "Nil",
     "amfi_codes": [
       "150445"
@@ -28,5 +30,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T05:04:05.640040+00:00"
+  "extracted_at": "2026-04-19T03:40:56.691391+00:00"
 }

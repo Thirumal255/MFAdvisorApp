@@ -11,18 +11,6 @@
       "Direct Plan - IDCW",
       "Direct Plan - Growth"
     ],
-    "isins": [
-      "INF200K01AP4",
-      "INF200K01AN9",
-      "INF200K01SJ9",
-      "INF200K01SK7"
-    ],
-    "amfi_codes": [
-      "101003",
-      "101002",
-      "120136",
-      "120137"
-    ],
     "riskometer": "MODERATE",
     "investment_objective": "To provide returns to the investors generated through investments predominantly in Government securities issued by the Central Government and/or State Government such that the Average Maturity of the portfolio is around 10 years.",
     "asset_allocation": {
@@ -34,7 +22,19 @@
     "annual_expense": {
       "Regular": "0.59"
     },
-    "exit_load": "NIL"
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "101003",
+      "101002",
+      "120136",
+      "120137"
+    ],
+    "isins": [
+      "INF200K01AP4",
+      "INF200K01AN9",
+      "INF200K01SJ9",
+      "INF200K01SK7"
+    ]
   },
   "fund_options_inferred": [
     "Regular Plan - IDCW",
@@ -42,5 +42,5 @@
     "Direct Plan - IDCW",
     "Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:36:01.259411+00:00"
+  "extracted_at": "2026-04-19T04:02:19.092146+00:00"
 }

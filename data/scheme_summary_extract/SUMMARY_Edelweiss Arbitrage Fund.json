@@ -7,12 +7,12 @@
     "fund_type": "Arbitrage Fund",
     "fund_options": [
       "Direct Plan Growth",
-      "Direct Plan - IDCW Option - Payout",
-      "Direct Plan - IDCW Option - Reinvestment",
-      "Direct Plan - IDCW Option - Transfer",
-      "Direct Plan - Monthly IDCW Option - Payout",
-      "Direct Plan - Monthly IDCW Option - Reinvestment",
-      "Regular Plan Growth - Growth"
+      "Direct Plan IDCW Option - Payout",
+      "Direct Plan IDCW Option - Reinvestment",
+      "Direct Plan IDCW Option - Transfer",
+      "Direct Plan Monthly IDCW Option - Payout",
+      "Direct Plan Monthly IDCW Option - Reinvestment",
+      "Regular Plan Growth"
     ],
     "isins": [
       "INF754K01EA4",
@@ -50,12 +50,12 @@
   },
   "fund_options_inferred": [
     "Direct Plan Growth",
-    "Direct Plan - IDCW Option - Payout",
-    "Direct Plan - IDCW Option - Reinvestment",
-    "Direct Plan - IDCW Option - Transfer",
-    "Direct Plan - Monthly IDCW Option - Payout",
-    "Direct Plan - Monthly IDCW Option - Reinvestment",
-    "Regular Plan Growth - Growth"
+    "Direct Plan IDCW Option - Payout",
+    "Direct Plan IDCW Option - Reinvestment",
+    "Direct Plan IDCW Option - Transfer",
+    "Direct Plan Monthly IDCW Option - Payout",
+    "Direct Plan Monthly IDCW Option - Reinvestment",
+    "Regular Plan Growth"
   ],
-  "extracted_at": "2026-04-18T03:19:11.310268+00:00"
+  "extracted_at": "2026-04-19T02:33:35.978543+00:00"
 }

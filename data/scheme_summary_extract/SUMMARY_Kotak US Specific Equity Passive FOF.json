@@ -14,8 +14,8 @@
     "asset_allocation": "Units of overseas ETF’s and/or Index Fund based on NASDAQ 100 Index - 95% - 100% - High (Risk Proﬁle) Debt schemes,Debt & Money Market Instruments, including Tri Party Repo, G-Secs, Cash and Cash at call, etc. - 0% - 5% - Low to Medium(Risk Proﬁle)",
     "benchmark": "Nasdaq 100 TRI",
     "fund_managers": [
-      "FM 1 Mr. Abhishek Bisen",
-      "FM 2 Mr. Arjun Khanna"
+      "Mr. Abhishek Bisen",
+      "Mr. Arjun Khanna"
     ],
     "annual_expense": {
       "Regular": "0.61",
@@ -35,5 +35,5 @@
     "Regular Plan - Growth",
     "Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T04:42:51.857226+00:00"
+  "extracted_at": "2026-04-19T03:27:29.348390+00:00"
 }

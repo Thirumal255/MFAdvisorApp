@@ -22,10 +22,15 @@
     },
     "exit_load": "Redemption/Switch-out/SWP/STP: 1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the dateof allotment: NIL.",
     "amfi_codes": [
+      "004031",
       "147756",
       "147758",
       "147760",
-      "147757"
+      "201912",
+      "201913",
+      "201914",
+      "201915",
+      "202521"
     ],
     "isins": [
       "INF277K011Y0",
@@ -40,5 +45,5 @@
     "Tata Focused Equity Fund RegularPlan Growth",
     "Tata Focused Equity Fund Direct Plan Growth"
   ],
-  "extracted_at": "2026-04-18T05:52:39.223814+00:00"
+  "extracted_at": "2026-04-19T04:12:56.299697+00:00"
 }

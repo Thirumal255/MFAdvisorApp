@@ -14,7 +14,6 @@
     "benchmark": "Domestic Price of Physical Gold",
     "fund_managers": "FM - Mr. Vinod Malviya",
     "annual_expense": {
-      "Regular": "0.00",
       "Direct": "0.54"
     },
     "exit_load": "NIL",
@@ -22,11 +21,11 @@
       "153337"
     ],
     "isins": [
-      "INF582M01KS4"
+      "INF582M01KS"
     ]
   },
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T06:02:28.424179+00:00"
+  "extracted_at": "2026-04-19T04:20:29.464046+00:00"
 }

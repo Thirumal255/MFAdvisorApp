@@ -17,7 +17,11 @@
     "investment_objective": "The investment objective of the scheme is to generate long-term capital appreciation from a portfolio that is invested predominantly in equity and equity related securities of companies engaged in ﬁnancial services businesses. There is no assurance that the investment objective of the scheme will be achieved.",
     "asset_allocation": "Equities & Equity related securities of companies engaged in ﬁnancial services businesses:80% to 100% Other equity and equity related securities:0% to 20% Debt Securities & Money Market instruments (including Cash & cash equivalents, units of Liquid and Overnight mutual funds) : 0% to 20% Units issued by REITs/ InvITs: 0% to 10%",
     "benchmark": "BSE Financial Services TRI",
-    "fund_managers": "FM 1 - Gautam Bhupal , FM 2 - Mr. Harsh Shah , FM 3 - Mr. Sonal Gupta (Overseas Investments)",
+    "fund_managers": [
+      "FM 1 - Gautam Bhupal",
+      "FM 2 - Mr. Harsh Shah",
+      "FM 3 - Mr. Sonal Gupta (Overseas Investments)"
+    ],
     "annual_expense": {
       "Regular": "2.29",
       "Direct": "0.78"
@@ -48,5 +52,5 @@
     "Direct Plan - Idcw Payout",
     "Direct Plan - Idcw Reinvestment"
   ],
-  "extracted_at": "2026-04-18T03:55:52.811890+00:00"
+  "extracted_at": "2026-04-19T02:57:25.268788+00:00"
 }

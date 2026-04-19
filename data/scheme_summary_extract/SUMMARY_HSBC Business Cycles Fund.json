@@ -13,6 +13,22 @@
       "HSBC Business Cycles Fund - Regular Plan - IDCW Payout",
       "HSBC Business Cycles Fund - Regular Plan - IDCW Reinvestment"
     ],
+    "isins": [
+      "INF917K01RI2",
+      "INF917K01RK8",
+      "INF917K01RJ0",
+      "INF917K01RF8",
+      "INF917K01RH4",
+      "INF917K01RG6"
+    ],
+    "amfi_codes": [
+      "151142",
+      "151145",
+      null,
+      "151144",
+      "151143",
+      null
+    ],
     "riskometer": "Very High",
     "investment_objective": "To seek to generate long-term capital appreciation from a portfolio of predominantly equity and equity related securities,including equity derivatives, in the Indian market with focus on riding business cycles through dynamic allocation betweenvarious sectors and stocks at diﬀerent stages of business cycles in the economy. The Scheme could also additionally invest inForeign Securities. There is no assurance that the objective of the Scheme will be realised and the Scheme does not assure orguarantee any returns.",
     "asset_allocation": "Equity and Equity related securities: 80%-100% Debt securities & Money Market instruments (including cash & cashequivalents):0% to 20% Units issued by Reits/InvITs:0% to 10%",
@@ -22,23 +38,7 @@
       "Regular": "2.21",
       "Direct": "1.04"
     },
-    "exit_load": "If the units redeemed or switched out are upto 10% of the units purchased or switched in (“the limit”) within 1 year from thedate of allotment – Nil. If units redeemed or switched out are over and above the limit within 1 year from the date ofallotment – 1%. If units are redeemed or switched out on or after 1 year from the date of allotment – Nil.",
-    "amfi_codes": [
-      "151142",
-      "151145",
-      null,
-      "151144",
-      "151143",
-      null
-    ],
-    "isins": [
-      "INF917K01RI2",
-      "INF917K01RK8",
-      "INF917K01RJ0",
-      "INF917K01RF8",
-      "INF917K01RH4",
-      "INF917K01RG6"
-    ]
+    "exit_load": "If the units redeemed or switched out are upto 10% of the units purchased or switched in (“the limit”) within 1 year from thedate of allotment – Nil. If units redeemed or switched out are over and above the limit within 1 year from the date ofallotment – 1%. If units are redeemed or switched out on or after 1 year from the date of allotment – Nil."
   },
   "fund_options_inferred": [
     "HSBC Business Cycles Fund - Direct Plan - Growth",
@@ -48,5 +48,5 @@
     "HSBC Business Cycles Fund - Regular Plan - IDCW Payout",
     "HSBC Business Cycles Fund - Regular Plan - IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T03:54:02.650652+00:00"
+  "extracted_at": "2026-04-19T02:55:56.756936+00:00"
 }

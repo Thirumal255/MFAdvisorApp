@@ -63,7 +63,7 @@
     "investment_objective": "To generate income by investing in debt and Money Market Instruments. There is no assurance that the investment objective ofthe Scheme will be achieved",
     "asset_allocation": "Debt and Money Market Instruments: Min.0% Max. 100%",
     "benchmark": "NIFTY Low Duration Debt Index A-I",
-    "fund_managers": "Krishna Cheemalapati - Primary, Vikas Garg - Comanage",
+    "fund_managers": "Krishna Cheemalapati, Vikas Garg",
     "annual_expense": {
       "Regular": "0.65",
       "Direct": "0.32"
@@ -88,5 +88,5 @@
     "Invesco India Low Duration Fund - Direct Plan Discretionary IDCW Reinvestment",
     "Invesco India Low Duration Fund - Direct Plan Daily IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:23:23.637453+00:00"
+  "extracted_at": "2026-04-19T03:14:18.804329+00:00"
 }

@@ -19,7 +19,8 @@
       "HSBC Short Duration Fund - Regular Plan - Quarterly IDCW Payout",
       "HSBC Short Duration Fund - Regular Plan - Quarterly IDCW Reinvestment",
       "HSBC Short Duration Fund - Direct Plan - Monthly IDCW Payout",
-      "HSBC Short Duration Fund - Direct Plan - Monthly IDCW Reinvestment"
+      "HSBC Short Duration Fund - Direct Plan - Monthly IDCW Reinvestment",
+      "HSBC Short Duration Fund - Direct Plan - Growth"
     ],
     "isins": [
       "INF917K01VR5",
@@ -35,23 +36,25 @@
       "INF917K01CJ2",
       "INF917K01CK0",
       "INF917K01IP6",
-      "INF917K01IO9"
+      "INF917K01IO9",
+      "INF917K01IQ4"
     ],
     "amfi_codes": [
       "151070",
       "151067",
       "151069",
-      null,
+      "null",
       "151071",
-      "151065",
+      "null",
       "151062",
       "151065",
       "151063",
-      null,
+      "null",
       "151064",
-      null,
+      "null",
       "151068",
-      null
+      "null",
+      "null"
     ],
     "riskometer": "Moderate",
     "investment_objective": "To provide a reasonable income through a diversiﬁed portfolio of ﬁxed income securities such that the Macaulay duration of theportfolio is between 1 year to 3 years. However, there can be no assurance or guarantee that the investment objective of thescheme would be achieved.",
@@ -78,7 +81,8 @@
     "HSBC Short Duration Fund - Regular Plan - Quarterly IDCW Payout",
     "HSBC Short Duration Fund - Regular Plan - Quarterly IDCW Reinvestment",
     "HSBC Short Duration Fund - Direct Plan - Monthly IDCW Payout",
-    "HSBC Short Duration Fund - Direct Plan - Monthly IDCW Reinvestment"
+    "HSBC Short Duration Fund - Direct Plan - Monthly IDCW Reinvestment",
+    "HSBC Short Duration Fund - Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T03:59:47.986366+00:00"
+  "extracted_at": "2026-04-19T02:59:51.501041+00:00"
 }

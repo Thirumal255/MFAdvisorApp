@@ -14,6 +14,7 @@
     "benchmark": "Domestic Price of Gold",
     "fund_managers": "Mr. Aditya Pagaria , Mr. Pratik Tibrewal",
     "annual_expense": {
+      "Regular": "0.56",
       "Direct": "0.00"
     },
     "exit_load": "N/A",
@@ -27,5 +28,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T02:21:22.954993+00:00"
+  "extracted_at": "2026-04-19T02:07:15.567132+00:00"
 }

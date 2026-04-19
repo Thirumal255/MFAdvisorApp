@@ -28,7 +28,10 @@
     "investment_objective": "The investment objective is to generate income / long-term capital appreciation by investing in units of debt-oriented and arbitrage schemes and money market instruments.",
     "asset_allocation": "Under normal circumstances, it is anticipated that the asset allocation of the Scheme will be as follows: - Units of mutual fund schemes out of which: 95% to 100% - (a) Investments in underlying Arbitrage Fund: 35% to 80% - (b) Investments in underlying Debt Oriented schemes: 20% to 65% - Money Market Instruments : 0% to 5%",
     "benchmark": "65% NIFTY Short Duration Debt Index + 35% NIFTY 50 Arbitrage Index",
-    "fund_managers": "FM 1 - Mohd Asif Rizwi, FM 2 - Mahesh Chhabria",
+    "fund_managers": [
+      "Mohd Asif Rizwi",
+      "Mahesh Chhabria"
+    ],
     "annual_expense": {
       "Regular": "0.51",
       "Direct": "0.21"
@@ -43,5 +46,5 @@
     "HSBC Income Plus Arbitrage Active FOF Growth",
     "HSBC Income Plus Arbitrage Active FOF Direct IDCW"
   ],
-  "extracted_at": "2026-04-18T03:56:49.763705+00:00"
+  "extracted_at": "2026-04-19T02:58:01.560443+00:00"
 }

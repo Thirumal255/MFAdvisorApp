@@ -6,24 +6,10 @@
     "fund_name": "ICICI Prudential Gilt Fund",
     "fund_type": "Open Ended",
     "fund_options": [
-      "ICICI Prudential Gilt Fund - Direct Plan - Growth",
-      "ICICI Prudential Gilt Fund - Direct Plan - IDCW",
-      "ICICI Prudential Gilt Fund - Growth",
-      "ICICI Prudential Gilt Fund - IDCW"
-    ],
-    "isins": [
-      "INF109K018C5",
-      "INF109K016C9",
-      "INF109K017C7",
-      "INF109K01JR4",
-      "INF109K01JQ6",
-      "INF109K01JP8"
-    ],
-    "amfi_codes": [
-      "120590",
-      "120589",
-      "100369",
-      "100368"
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Growth",
+      "IDCW"
     ],
     "riskometer": "Moderate",
     "investment_objective": "To generate income primarily through investment in Gilts of various maturities. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
@@ -37,13 +23,25 @@
       "Regular": "1.09",
       "Direct": "0.56"
     },
-    "exit_load": "Nil"
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "120590",
+      "120589",
+      "100369",
+      "100368"
+    ],
+    "isins": [
+      "INF109K018C5",
+      "INF109K016C9",
+      "INF109K01JR4",
+      "INF109K01JQ6"
+    ]
   },
   "fund_options_inferred": [
-    "ICICI Prudential Gilt Fund - Direct Plan - Growth",
-    "ICICI Prudential Gilt Fund - Direct Plan - IDCW",
-    "ICICI Prudential Gilt Fund - Growth",
-    "ICICI Prudential Gilt Fund - IDCW"
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Growth",
+    "IDCW"
   ],
-  "extracted_at": "2026-04-18T04:06:15.230625+00:00"
+  "extracted_at": "2026-04-19T03:04:15.796659+00:00"
 }

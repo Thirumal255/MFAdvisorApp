@@ -13,22 +13,6 @@
       "Direct Growth",
       "Direct IDCW Reinvestment"
     ],
-    "isins": [
-      "InF903J01eX1",
-      "InF903J01eY9",
-      "InF903J01eZ6",
-      "InF903J01nZ7",
-      "InF903J01OB6",
-      "InF903J01OA8"
-    ],
-    "amfi_codes": [
-      "106369",
-      "106370",
-      "119601",
-      "119602",
-      null,
-      null
-    ],
     "riskometer": "Very High Risk",
     "investment_objective": "To achieve capital appreciation by investing in units of Sundaram Global Brand Fund - Master Class, Singapore as a feeder fund.No Guarantee: Investors are neither being oﬀered any guaranteed/indicated returns nor any guarantee on repayment of capitalby the Scheme. There is also no guarantee of capital or return either by the mutual fund or by the sponsor or by the Trustees orAsset management Company.",
     "asset_allocation": "Sundaram Global Brand Fund: Singapore 95-100% high Cash, domestic money market securities and/or money market/liquidschemes of domestic mutual funds including that of Sundaram Mutual Fund 0-5% Low to Medium",
@@ -38,7 +22,21 @@
       "Regular": "2.38",
       "Direct": "1.49"
     },
-    "exit_load": "Nil - If up to 25% of the units invested are redeemed or withdrawn by way of SWP within 365 days from the date of allotment.Any redemptions or withdrawals by way of SWP in excess of the above mentioned limit would be subject to an exit load of 1 %of the applicable NAV will be charged, if the units are redeemed within 365 days from the date of allotment of units Forredemption or withdrawal by way of SWP after 365 days from the date of allotment - Nil. Further, exit load will be waived onIntra-scheme and Inter scheme Switchouts/STP. Generally, the exit load will be calculated on First in First out (FIFO) basis."
+    "exit_load": "Nil - If up to 25% of the units invested are redeemed or withdrawn by way of SWP within 365 days from the date of allotment.Any redemptions or withdrawals by way of SWP in excess of the above mentioned limit would be subject to an exit load of 1 %of the applicable NAV will be charged, if the units are redeemed within 365 days from the date of allotment of units Forredemption or withdrawal by way of SWP after 365 days from the date of allotment - Nil. Further, exit load will be waived onIntra-scheme and Inter scheme Switchouts/STP. Generally, the exit load will be calculated on First in First out (FIFO) basis.",
+    "amfi_codes": [
+      "106369",
+      "106370",
+      "119601",
+      "119602"
+    ],
+    "isins": [
+      "InF903J01eX1",
+      "InF903J01eY9",
+      "InF903J01eZ6",
+      "InF903J01nZ7",
+      "InF903J01OB6",
+      "InF903J01OA8"
+    ]
   },
   "fund_options_inferred": [
     "Regular IDCW Payout",
@@ -48,5 +46,5 @@
     "Direct Growth",
     "Direct IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T05:47:53.608929+00:00"
+  "extracted_at": "2026-04-19T04:09:43.891669+00:00"
 }

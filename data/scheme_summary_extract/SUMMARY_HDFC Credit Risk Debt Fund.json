@@ -50,7 +50,10 @@
       "Regular": "1.61",
       "Direct": "1.06"
     },
-    "exit_load": "In respect of each purchase / switch-in of Units, upto 15% of the units (“the limit”) may be redeemed without any exit load from the date of allotment. However, please note that the Units will be redeemed on First In First Out (FIFO) basis. - Any redemption in excess of the above limit shall be subject to the following exit load: - - In respect of each purchase/switch-in of Units, an Exit Load of 1.00% is payable if Units are redeemed/switched-out within 12 months from the date of allotment. - In respect of each purchase/switch-in of Units, an Exit Load of 0.50% is payable if Units are redeemed/switched out after 12 months but within 18 months from the date of allotment. - No Exit Load is payable if Units are redeemed/switched out after 18 months from the date of allotment."
+    "exit_load": "In respect of each purchase / switch-in of Units, upto 15% of the units (“the limit”) may be redeemed without any exit load from the date of allotment. However, please note that the Units will be redeemed on First In First Out (FIFO) basis. - Any redemption in excess of the above limit shall be subject to the following exit load: - - In respect of each purchase/switch-in of Units, an Exit Load of 1.00% is payable if Units are redeemed/switched-out within 12 months from the date of allotment. - In respect of each purchase/switch-in of Units, an Exit Load of 0.50% is payable if Units are redeemed/switched out after 12 months but within 18 months from the date of allotment. - No Exit Load is payable if Units are redeemed/switched out after 18 months from the date of allotment.",
+    "isins_source": "ISIN/AMFI section",
+    "amfi_codes_source": "ISIN/AMFI section",
+    "fund_options_source": "ISIN/AMFI section"
   },
   "fund_options_inferred": [
     "REGULAR PLAN - NORMAL IDCW OPTION",
@@ -64,5 +67,5 @@
     "REGULAR PLAN - HALFYEARLY IDCW REINVESTMENT OPTION",
     "DIRECT - HALF YRLY IDCW REINVESTMENT OPTION"
   ],
-  "extracted_at": "2026-04-18T03:41:35.443459+00:00"
+  "extracted_at": "2026-04-19T02:47:45.782938+00:00"
 }

@@ -13,26 +13,13 @@
       "Regular PlanIDCW - Reinvestment",
       "Regular Plan Growth"
     ],
-    "isins": [
-      "INF769K01DU2",
-      "INF769K01DV0",
-      "INF769K01DW8",
-      "INF769K01DX6",
-      "INF769K01DY4",
-      "INF769K01DZ1"
-    ],
-    "amfi_codes": [
-      "142640",
-      "142641",
-      "142642",
-      "142643",
-      null,
-      null
-    ],
     "riskometer": "Moderate",
     "investment_objective": "The investment objective of the scheme is to seek to generate returns through an actively managed diversified portfolio of debt and money market instruments with Macaulay duration of the portfolio is between 1 year to 3 years. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns.",
     "asset_allocation": "Money market instruments & Debt instrument with macaulay duration of the portfolio between 1 year to 3 years -  0% to 100% (Low to Medium) Units issued by REITs & InvITs - 0% to 10% (Medium to High)",
-    "benchmark": "CRISIL Short Duration Debt B-II Index, CRISIL 10 Year Gilt Index",
+    "benchmark": [
+      "CRISIL Short Duration Debt B-II Index",
+      "CRISIL 10 Year Gilt Index"
+    ],
     "fund_managers": [
       {
         "name": "Mr. Basant Bafna",
@@ -49,7 +36,21 @@
       "Regular": "1.15",
       "Direct": "0.33"
     },
-    "exit_load": "Nil"
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "142640",
+      "142641",
+      "142642",
+      "142643"
+    ],
+    "isins": [
+      "INF769K01DU2",
+      "INF769K01DV0",
+      "INF769K01DW8",
+      "INF769K01DX6",
+      "INF769K01DY4",
+      "INF769K01DZ1"
+    ]
   },
   "fund_options_inferred": [
     "Direct Plan Growth",
@@ -59,5 +60,5 @@
     "Regular PlanIDCW - Reinvestment",
     "Regular Plan Growth"
   ],
-  "extracted_at": "2026-04-18T05:02:59.204638+00:00"
+  "extracted_at": "2026-04-19T03:40:14.103529+00:00"
 }

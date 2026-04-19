@@ -38,7 +38,7 @@
       "Regular": "1.11",
       "Direct": "0.49"
     },
-    "exit_load": "0.25"
+    "exit_load": "0.25% of the applicable NAV, if redeemed on or before 15 days from the date of allotment."
   },
   "fund_options_inferred": [
     "TATA NIFTY 200 ALPHA 30 INDEX FUND -REGULAR PLAN-GROWTH",
@@ -48,5 +48,5 @@
     "TATA NIFTY 200 ALPHA 30 INDEX FUND -DIRECT PLAN- IDCW PAYOUT",
     "TATA NIFTY 200 ALPHA 30INDEX FUND -DIRECT PLAN-IDCW REINVESTMENT"
   ],
-  "extracted_at": "2026-04-18T05:56:19.606315+00:00"
+  "extracted_at": "2026-04-19T04:15:36.960768+00:00"
 }

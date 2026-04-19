@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "Edelweiss Equity Savings Fund",
-    "fund_type": null,
+    "fund_type": "Equity Savings",
     "fund_options": [
       "Direct Plan Growth",
       "Direct Plan - IDCW Option - Payout",
@@ -56,7 +56,7 @@
       "Regular": "2.07",
       "Direct": "0.71"
     },
-    "exit_load": "If the units are redeemed / switched out on or before 30 days from the date of allotment - 0.25%, If the units are redeemed / switched out on after 30 days from the date of allotment - Nil"
+    "exit_load": "If the units are redeemed / switched out on or before 30 days from the date of allotment - 0.25%; If the units are redeemed / switched out on after 30 days from the date of allotment - Nil"
   },
   "fund_options_inferred": [
     "Direct Plan Growth",
@@ -70,5 +70,5 @@
     "Regular Plan - Monthly - IDCW Option - Payout",
     "Regular Plan - Monthly - IDCW Option - Reinvestment"
   ],
-  "extracted_at": "2026-04-18T03:22:14.169261+00:00"
+  "extracted_at": "2026-04-19T02:35:11.740261+00:00"
 }

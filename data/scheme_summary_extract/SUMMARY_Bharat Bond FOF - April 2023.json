@@ -7,7 +7,7 @@
     "fund_type": "Fund of Fund - Domestic",
     "fund_options": [
       "Direct Plan Growth",
-      "Direct Plan IDCW",
+      "Direct Plan - IDCW",
       "Regular Plan IDCW",
       "Regular Plan Growth"
     ],
@@ -23,7 +23,7 @@
       "147853",
       "147850"
     ],
-    "riskometer": "Low to Moderate Risk",
+    "riskometer": "Low Risk",
     "investment_objective": "BHARAT Bond FOF – April 2023 is a fund of funds scheme with the primary objective to generate returns by investing in units of BHARAT Bond ETF – April 2023. However, there is no assurance that the investment objective of the Scheme will be realized.",
     "asset_allocation": "1. Units of BHARAT Bond ETF – April 2023 - 95-100%\n2. Government Securities maturing on or before maturity date of the Scheme, TREPS and REPO in government bonds - 0-5%",
     "benchmark": "Nifty BHARAT Bond Index – April 2023",
@@ -39,9 +39,9 @@
   },
   "fund_options_inferred": [
     "Direct Plan Growth",
-    "Direct Plan IDCW",
+    "Direct Plan - IDCW",
     "Regular Plan IDCW",
     "Regular Plan Growth"
   ],
-  "extracted_at": "2026-04-18T03:03:49.054895+00:00"
+  "extracted_at": "2026-04-19T02:24:22.795627+00:00"
 }

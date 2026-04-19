@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "LIC MF Banking & PSU Fund (Erstwhile LIC MF Banking & PSU Debt Fund)",
-    "fund_type": "An open ended debt scheme predominantly investing in Debt instruments of banks, Public Sector Undertakings, Public Financial Institutions and Municipal Bonds. (A Relatively High interest rate risk and Relatively Low Credit Risk)",
+    "fund_type": "An open ended debt scheme predominantly investing in Debt instruments of banks, Public Sector Undertakings, Public FinancialInstitutions and Municipal Bonds. (A Relatively High interest rate risk and Relatively Low Credit Risk)",
     "fund_options": [
       "Regular Plan-Daily IDCW Payout",
       "Regular Plan-Daily IDCW Reinv",
@@ -54,10 +54,10 @@
       "120338"
     ],
     "riskometer": "Moderate",
-    "investment_objective": "The primary investment objective of the Scheme is to seek to generate income and capital appreciation by primarily investing in a portfolio of high quality debt and money market securities that are issued by banks, public sector undertakings, public financial institutions and Municipal Bonds. There is no assurance that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme would be as follows: Minimum Investment in debt instruments of banks, Public sector Undertakings, Public Financial Institutions and Municipal Bonds*: 80-100% of total assets, Other debt and money market securities*: 0-20% of total assets, Units issued by InvIT* :0-10% of total assets. *The Cumulative Gross Exposure to Debt, Money Market, Derivatives, InviTs, repo in corporate debt securities, Credit Default Swaps and such other securities as may permitted by SEBI from time to time, will not exceed 100% of the Net Assets of the Scheme. Please refer the Scheme Information Document for complete details.",
+    "investment_objective": "The primary investment objective of the Scheme is to seek to generate income and capital appreciation by primarily investing ina portfolio of high quality debt and money market securities that are issued by banks, public sector undertakings, publicﬁnancial institutions and Municipal Bonds. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme would be as follows: Minimum Investment in debt instrumentsof banks, Public sector Undertakings, Public Financial Institutions and Municipal Bonds*: 80-100% of total assets, Other debtand money market securities*: 0-20% of total assets, Units issued by InvIT* :0-10% of total assets. *The Cumulative GrossExposure to Debt, Money Market, Derivatives, InviTs, repo in corporate debt securities, Credit Default Swaps and such othersecurities as may permitted by SEBI from time to time, will not exceed 100% of the Net Assets of the Scheme. Please refer theScheme Information Document for complete details.",
     "benchmark": "NIFTY Banking & PSU Debt Index A-II",
-    "fund_managers": "FM -1-Pratik Harish Shroff , FM -2- Rahul Singh",
+    "fund_managers": "FM -1-Pratik Harish Shroﬀ , FM -2- Rahul Singh",
     "annual_expense": {
       "Regular": "0.68",
       "Direct": "0.28"
@@ -80,5 +80,5 @@
     "Direct Plan-Monthly IDCW Reinv",
     "Direct Plan-Growth"
   ],
-  "extracted_at": "2026-04-18T04:43:27.131311+00:00"
+  "extracted_at": "2026-04-19T03:27:52.273035+00:00"
 }

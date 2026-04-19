@@ -30,7 +30,7 @@
       "151780"
     ],
     "riskometer": "Very High",
-    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, corresponding to the total returns ofthe securities as represented by the underlying index, subject to tracking error. However, there is no assurance that theinvestment objective of the scheme will be achieved.",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, corresponding to the total returns of the securities as represented by the underlying index, subject to tracking error. However, there is no assurance that the investment objective of the scheme will be achieved.",
     "asset_allocation": "Equity and Equity related securities covered by the Nifty 200 Momentum 30 Index-95%-100%-Very High Debt and Money Market Instruments -0%-5%-Low to Moderate",
     "benchmark": "Nifty 200 Momentum 30 Index (Total Return Index).",
     "fund_managers": [
@@ -52,5 +52,5 @@
     "Regular Plan-IDCW Payout",
     "Regular Plan-IDCW Re-investment"
   ],
-  "extracted_at": "2026-04-18T04:37:54.745929+00:00"
+  "extracted_at": "2026-04-19T03:24:19.585329+00:00"
 }

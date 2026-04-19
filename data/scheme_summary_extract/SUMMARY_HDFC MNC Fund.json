@@ -25,11 +25,11 @@
     "exit_load": "In respect of each purchase / switch-in of Units, an Exit Load of 1.00% is payable if Units are redeemed/ switched-out within 1 year from the date of allotment. - No Exit Load is payable if Units are redeemed / switched-out after 1 year from the date of allotment.",
     "amfi_codes": [
       "151460",
-      null,
-      null,
-      null,
+      "151460",
+      "151460",
       "151459",
-      null
+      "151459",
+      "151459"
     ],
     "isins": [
       "INF179KC1FC0",
@@ -48,5 +48,5 @@
     "Regular Plan - IDCW Payout Option",
     "Regular Plan - IDCW Re-investment Option"
   ],
-  "extracted_at": "2026-04-18T03:45:25.797265+00:00"
+  "extracted_at": "2026-04-19T02:50:29.245860+00:00"
 }

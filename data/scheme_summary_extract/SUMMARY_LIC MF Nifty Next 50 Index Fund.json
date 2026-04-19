@@ -22,12 +22,12 @@
       "INF397L01174"
     ],
     "amfi_codes": [
+      "151938",
       null,
+      "151936",
       null,
-      null,
-      null,
-      null,
-      null
+      "151937",
+      "151935"
     ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the Scheme is to invest only in and all the stocks comprising the NIFTY Next 50 Index in the same weights of these stocks as in the Index with the objective to replicate the performance of the Total Returns Index of NIFTY Next 50 Index. The Scheme may also invest in derivatives instruments such as Futures and Options linked to stocks comprising the Index or linked to the NIFTY Next 50 Index. The Scheme will adopt a passive investment strategy and will seek to achieve the investment objective by minimizing the tracking error between the NIFTY Next 50 Index (Total Returns Index) and the Scheme. There is no assurance that the investment objective of the Scheme will be achieved.",
@@ -48,5 +48,5 @@
     "Direct Plan - Growth-Growth",
     "Regular Plan - Growth-Growth"
   ],
-  "extracted_at": "2026-04-18T04:47:36.637615+00:00"
+  "extracted_at": "2026-04-19T03:30:28.533297+00:00"
 }

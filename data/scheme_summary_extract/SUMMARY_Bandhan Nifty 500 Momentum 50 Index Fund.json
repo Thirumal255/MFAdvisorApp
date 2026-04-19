@@ -7,7 +7,7 @@
     "fund_type": "An open ended scheme tracking Nifty 500 Momentum 50 Index",
     "fund_options": [
       "Direct Plan - Growth",
-      "Regular Plan - Growth"
+      "Regular Plan- Growth"
     ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the Scheme is to replicate the Nifty 500 Momentum 50 Index by investing in securities of the Nifty 500 Momentum 50 Index in the same proportion / weightage with an aim to provide returns before expenses that tracks the total return of Nifty 500 Momentum 50 Index, subject to tracking errors.",
@@ -30,7 +30,7 @@
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
-    "Regular Plan - Growth"
+    "Regular Plan- Growth"
   ],
-  "extracted_at": "2026-04-18T02:51:17.205039+00:00"
+  "extracted_at": "2026-04-19T02:16:23.730261+00:00"
 }

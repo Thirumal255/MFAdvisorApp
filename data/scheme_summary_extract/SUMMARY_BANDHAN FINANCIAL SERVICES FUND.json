@@ -11,18 +11,6 @@
       "BANDHAN FINANCIAL SERVICES FUND Direct Plan-Growth",
       "BANDHAN FINANCIAL SERVICES FUND Direct Plan-IDCW"
     ],
-    "isins": [
-      "INF194KB1GE6",
-      "INF194KB1GF3",
-      "INF194KB1GB2",
-      "INF194KB1GC0"
-    ],
-    "amfi_codes": [
-      "151816",
-      "151817",
-      "151818",
-      "151819"
-    ],
     "riskometer": "Very High",
     "investment_objective": "The Scheme seeks to generate long-term capital appreciation by investing predominantly in equity and equity related instruments of companies engaged in ﬁnancial services sector.",
     "asset_allocation": "Securities belonging to the Equity and equity related instruments of companies engaged in ﬁnancial services sector -80%-100%, Equities & Equity related securities other than above and overseas securities* - 0% - 20% Debt Securities and Money Market Instruments (including Government securities, Securitised debt) - 0%- 20% Units issued by InvITs - 0% - 10%",
@@ -32,7 +20,19 @@
       "Regular": "2.15",
       "Direct": "0.61"
     },
-    "exit_load": "Nil (If redeemed/switched out within 1 year from the date of allotment - 1% of applicable NAV)"
+    "exit_load": "Nil (If redeemed/switched out within 1 year from the date of allotment - 1% of applicable NAV)",
+    "amfi_codes": [
+      "151816",
+      "151817",
+      "151818",
+      "151819"
+    ],
+    "isins": [
+      "INF194KB1GE6",
+      "INF194KB1GF3",
+      "INF194KB1GB2",
+      "INF194KB1GC0"
+    ]
   },
   "fund_options_inferred": [
     "BANDHAN FINANCIAL SERVICES FUND Regular Plan-Growth",
@@ -40,5 +40,5 @@
     "BANDHAN FINANCIAL SERVICES FUND Direct Plan-Growth",
     "BANDHAN FINANCIAL SERVICES FUND Direct Plan-IDCW"
   ],
-  "extracted_at": "2026-04-18T02:48:14.715355+00:00"
+  "extracted_at": "2026-04-19T02:14:05.696908+00:00"
 }

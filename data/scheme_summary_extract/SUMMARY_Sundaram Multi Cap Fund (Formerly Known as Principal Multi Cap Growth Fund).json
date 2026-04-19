@@ -6,8 +6,8 @@
     "fund_name": "Sundaram Multi Cap Fund",
     "fund_type": "An open ended equity scheme investing across large cap, mid cap, small cap stocks",
     "fund_options": [
-      "Direct Plan -IDCW Payout",
-      "Direct Plan -IDCW Reinvestment",
+      "Direct Plan - IDCW Payout",
+      "Direct Plan - IDCW Reinvestment",
       "Regular Plan - IDCW Payout",
       "Regular Plan - IDCW Reinvestment",
       "Direct Plan - Growth",
@@ -39,12 +39,12 @@
     ]
   },
   "fund_options_inferred": [
-    "Direct Plan -IDCW Payout",
-    "Direct Plan -IDCW Reinvestment",
+    "Direct Plan - IDCW Payout",
+    "Direct Plan - IDCW Reinvestment",
     "Regular Plan - IDCW Payout",
     "Regular Plan - IDCW Reinvestment",
     "Direct Plan - Growth",
     "Regular Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:49:15.793559+00:00"
+  "extracted_at": "2026-04-19T04:10:37.794936+00:00"
 }

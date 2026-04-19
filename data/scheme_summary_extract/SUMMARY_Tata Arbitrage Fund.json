@@ -8,12 +8,12 @@
     "fund_options": [
       "Tata Arbitrage Fund-Regular Plan-Growth",
       "Tata Arbitrage Fund-Direct Plan-Growth",
-      "Tata Arbitrage Fund-Regular Plan-IDCWMonthly",
+      "Tata Arbitrage Fund-Regular Plan-IDCW Monthly",
       "Tata Arbitrage Fund-Direct Plan-IDCW Monthly"
     ],
     "riskometer": "Low",
-    "investment_objective": "The investment objective of the Scheme is to seek to generate reasonable returns by investing predominantly in arbitrageopportunities in the cash and derivatives segments of the equity markets and by investing balance in debt and money marketinstruments. There is no assurance that the objective of the Scheme will be realised and the Scheme does not assure orguarantee any returns.",
-    "asset_allocation": "Equity and equity related securities and equity derivatives: 65- 100, Debt, Money market instruments and cash (including unitsof liquid schemes of Tata Mutual Fund) 0- 35.",
+    "investment_objective": "The investment objective of the Scheme is to seek to generate reasonable returns by investing predominantly in arbitrage opportunities in the cash and derivatives segments of the equity markets and by investing balance in debt and money market instruments. There is no assurance that the objective of the Scheme will be realised and the Scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Equity and equity related securities and equity derivatives: 65- 100, Debt, Money market instruments and cash (including units of liquid schemes of Tata Mutual Fund) 0- 35.",
     "benchmark": "Nifty 50 Arbitrage Index",
     "fund_managers": "Sailesh Jain",
     "annual_expense": {
@@ -37,8 +37,8 @@
   "fund_options_inferred": [
     "Tata Arbitrage Fund-Regular Plan-Growth",
     "Tata Arbitrage Fund-Direct Plan-Growth",
-    "Tata Arbitrage Fund-Regular Plan-IDCWMonthly",
+    "Tata Arbitrage Fund-Regular Plan-IDCW Monthly",
     "Tata Arbitrage Fund-Direct Plan-IDCW Monthly"
   ],
-  "extracted_at": "2026-04-18T05:50:40.501066+00:00"
+  "extracted_at": "2026-04-19T04:11:27.089452+00:00"
 }

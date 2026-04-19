@@ -35,7 +35,6 @@
     "benchmark": "Nifty MNC",
     "fund_managers": "Mr. Tanmaya Desai",
     "annual_expense": {
-      "Regular": "1.01",
       "Direct": "1.01"
     },
     "exit_load": "For exit within 30 days from the date of allotment - 1%; For exit after 30 days from the date of allotment - Nil."
@@ -46,5 +45,5 @@
     "Direct Plan - IDCW",
     "Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:40:10.433138+00:00"
+  "extracted_at": "2026-04-19T04:05:07.565749+00:00"
 }

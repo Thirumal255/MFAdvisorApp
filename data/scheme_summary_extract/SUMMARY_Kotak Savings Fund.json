@@ -27,7 +27,10 @@
     "investment_objective": "The investment objective of the Scheme is to generate returns through investments in debt and money market instrumentswith a view to reduce the interest rate risk. However, there is no assurance or guarantee that the investment objective ofthe scheme will be achieved.",
     "asset_allocation": "Debt & Money market instruments including government securities - 0 to 100% - Low to Medium",
     "benchmark": "Nifty Ultra Short Duration Debt Index A-I",
-    "fund_managers": "FM 1 Mr. Deepak Agrawal, FM2 Mr. Manu Sharma",
+    "fund_managers": [
+      "Mr. Deepak Agrawal",
+      "Mr. Manu Sharma"
+    ],
     "annual_expense": {
       "Regular": "0.82",
       "Direct": "0.36"
@@ -40,5 +43,5 @@
     "Regular Plan-Growth",
     "Regular Plan-Monthly IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:42:01.929746+00:00"
+  "extracted_at": "2026-04-19T03:26:58.613148+00:00"
 }

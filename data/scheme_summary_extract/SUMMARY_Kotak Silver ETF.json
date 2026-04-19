@@ -13,8 +13,8 @@
     "asset_allocation": "Silver and instruments with Silver as underlying that may be specified by SEBI - 95% to 100% - Medium to High (Risk Profile) Debt & Money Market Instruments including units of Debt oriented Mutual Funds- 0% to 5% - Low to Medium (Risk Profile)",
     "benchmark": "Price of silver (based on LBMA daily spot fixing price)",
     "fund_managers": [
-      "Mr. Jeetu Valecha",
-      "Mr. Abhishek Bisen"
+      "FM 1 Mr. Jeetu Valecha",
+      "FM 2 Mr. Abhishek Bisen"
     ],
     "annual_expense": {
       "Direct": "0.0000"
@@ -30,5 +30,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:42:12.044194+00:00"
+  "extracted_at": "2026-04-19T03:27:05.586489+00:00"
 }

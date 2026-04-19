@@ -13,6 +13,22 @@
       "Regular - IDCW Reinv.",
       "Direct - IDCW Payout"
     ],
+    "isins": [
+      "INF090I01718",
+      "INF090I01JN9",
+      "INF090I01692",
+      "INF090I01JO7",
+      "INF090I01700",
+      "INF090I01JM1"
+    ],
+    "amfi_codes": [
+      "102547",
+      "118520",
+      "102546",
+      "118519",
+      null,
+      null
+    ],
     "riskometer": "Moderate",
     "investment_objective": "The primary objective is to generate superior risk adjusted returns to investors in line with their chosen asset allocation.",
     "asset_allocation": "Equity - 20%; Debt - 80% However, depending on the assessment of the market based on parameters such as the prevailing market valuations etc., the portfolio manager may make a tactical change in asset allocation within the following range: Equity- 10% to 30%; Debt - 70% to 90% Details of Asset Allocation between equity and debt schemes are as follows: Equity: 20% -FIBCF: Up to 20%; TIVF: Up to 20%; Debt: 80% - FISF: Up to 80% The steady state asset allocation will be as shown below:FIBCF: 10%, TIVF: 10%, FISF: 80%",
@@ -22,23 +38,7 @@
       "Regular": "0.0000",
       "Direct": "0.0000"
     },
-    "exit_load": "1% if redeemed within 1 year of allotment",
-    "amfi_codes": [
-      "102547",
-      "118520",
-      "102546",
-      "118519",
-      null,
-      null
-    ],
-    "isins": [
-      "INF090I01718",
-      "INF090I01JN9",
-      "INF090I01692",
-      "INF090I01JO7",
-      "INF090I01700",
-      "INF090I01JM1"
-    ]
+    "exit_load": "1% if redeemed within 1 year of allotment"
   },
   "fund_options_inferred": [
     "Regular - Growth",
@@ -48,5 +48,5 @@
     "Regular - IDCW Reinv.",
     "Direct - IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T03:32:34.054769+00:00"
+  "extracted_at": "2026-04-19T02:40:49.290012+00:00"
 }

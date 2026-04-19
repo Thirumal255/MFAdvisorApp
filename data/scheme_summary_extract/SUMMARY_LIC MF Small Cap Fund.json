@@ -26,12 +26,12 @@
       "INF397L01JW3"
     ],
     "amfi_codes": [
-      "152005",
-      "152005",
-      "152005",
-      "152006",
-      "152006",
-      "152006",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
       "152004",
       "152003"
     ],
@@ -56,5 +56,5 @@
     "Direct Plan - Growth-Growth",
     "Regular Plan - Growth-Growth"
   ],
-  "extracted_at": "2026-04-18T04:48:02.272643+00:00"
+  "extracted_at": "2026-04-19T03:31:08.430069+00:00"
 }

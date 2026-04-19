@@ -26,28 +26,36 @@
       "INF754K01OF2"
     ],
     "amfi_codes": [
-      "149950",
-      "149945",
-      "149945",
-      "149951",
-      "149949",
-      "149947",
-      "149947",
-      "149948"
+      "P5D1",
+      "P5D2",
+      "P5D2",
+      "P5D2",
+      "P5RG",
+      "P5DP",
+      "P5DP",
+      "P5DP"
     ],
     "riskometer": "Moderate Risk",
     "investment_objective": "The investment objective of the scheme is to track the CRISIL [IBX] 50:50 PSU + SDL Index – October 2025 by investing in AAA rated PSU Bonds and SDLs, maturing on or before October 2025, subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns.",
     "asset_allocation": "1. AAA rated PSU Bonds forming part of the bonds portion of CRISIL [IBX] 50:50 PSU + SDL Index - October 2025 - 95-100%\n2. State Development Loans (SDLs) forming part of the SDL portion of CRISIL [IBX] 50:50 PSU + SDL Index - October 2025 - 95-100%\n3. Debt Securities and Money Market Instruments including cash and cash equivalents - 0-5%",
     "benchmark": "CRISIL [IBX] 50:50 PSU + SDL Index – October 2025",
     "fund_managers": [
-      "Mr. Dhawal Dalal",
-      "Mr. Rahul Dedhia"
+      {
+        "name": "Mr. Dhawal Dalal",
+        "type": "Co-Manage",
+        "from_date": "10/Mar/2022"
+      },
+      {
+        "name": "Mr. Rahul Dedhia",
+        "type": null,
+        "from_date": null
+      }
     ],
     "annual_expense": {
       "Regular": "0.36",
       "Direct": "0.17"
     },
-    "exit_load": "0.10 upto 30 days, Nil after 30 days"
+    "exit_load": "0.10"
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -59,5 +67,5 @@
     "Regular Plan - IDCW Reinvestment",
     "Regular Plan - IDCW Transfer"
   ],
-  "extracted_at": "2026-04-18T03:21:45.606090+00:00"
+  "extracted_at": "2026-04-19T02:34:55.317893+00:00"
 }

@@ -14,6 +14,7 @@
     "benchmark": "Domestic price of gold",
     "fund_managers": "FM1 - Mr. Rochan Pattnayak",
     "annual_expense": {
+      "Regular": "0.00",
       "Direct": "0.51"
     },
     "exit_load": "Nil",
@@ -27,5 +28,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T03:08:48.329687+00:00"
+  "extracted_at": "2026-04-19T02:27:12.457466+00:00"
 }

@@ -6,12 +6,12 @@
     "fund_name": "ITI Multi Cap Fund",
     "fund_type": "An open ended equity scheme investing across large cap, mid cap, small cap stocks",
     "fund_options": [
-      "ITI MULTI CAP FUND - DIRECT PLAN GROWTH",
-      "ITI MULTI CAP FUND - REGULAR PLAN GROWTH",
-      "ITI MULTI CAP FUND - REGULAR PLAN - IDCW - PAYOUT",
-      "ITI MULTI CAP FUND - REGULAR PLAN - IDCW - REINVESTMENT",
-      "ITI MULTI CAP FUND - DIRECT PLAN - IDCW - PAYOUT",
-      "ITI MULTI CAP FUND - DIRECT PLAN - IDCW - REINVESTMENT"
+      "DIRECT PLAN GROWTH",
+      "REGULAR PLAN GROWTH",
+      "REGULAR PLAN - IDCW - PAYOUT",
+      "REGULAR PLAN - IDCW - REINVESTMENT",
+      "DIRECT PLAN - IDCW - PAYOUT",
+      "DIRECT PLAN - IDCW - REINVESTMENT"
     ],
     "riskometer": "Very High risk",
     "investment_objective": "The investment objective of the Scheme is to generate long-term capital appreciation from a diversiﬁed portfolio that predominantly invests in equity and equity-related securities of companies across various market capitalisation. However, there can be no assurance that the investment objective of the Scheme would be achieved.",
@@ -41,12 +41,12 @@
     ]
   },
   "fund_options_inferred": [
-    "ITI MULTI CAP FUND - DIRECT PLAN GROWTH",
-    "ITI MULTI CAP FUND - REGULAR PLAN GROWTH",
-    "ITI MULTI CAP FUND - REGULAR PLAN - IDCW - PAYOUT",
-    "ITI MULTI CAP FUND - REGULAR PLAN - IDCW - REINVESTMENT",
-    "ITI MULTI CAP FUND - DIRECT PLAN - IDCW - PAYOUT",
-    "ITI MULTI CAP FUND - DIRECT PLAN - IDCW - REINVESTMENT"
+    "DIRECT PLAN GROWTH",
+    "REGULAR PLAN GROWTH",
+    "REGULAR PLAN - IDCW - PAYOUT",
+    "REGULAR PLAN - IDCW - REINVESTMENT",
+    "DIRECT PLAN - IDCW - PAYOUT",
+    "DIRECT PLAN - IDCW - REINVESTMENT"
   ],
-  "extracted_at": "2026-04-18T04:27:16.779173+00:00"
+  "extracted_at": "2026-04-19T03:16:58.648480+00:00"
 }

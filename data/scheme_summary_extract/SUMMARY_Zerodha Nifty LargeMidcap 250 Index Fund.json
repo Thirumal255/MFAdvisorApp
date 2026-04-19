@@ -10,8 +10,8 @@
       "Regular"
     ],
     "riskometer": "Very High",
-    "investment_objective": "The investment objective of the scheme is to invest in stocks comprising the Nifty LargeMidcap 250 Index in the same proportion as in the index to achieve returns equivalent to the Total Return Index of Nifty LargeMidcap 250 Index (subject to tracking error). There can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
-    "asset_allocation": "Equities and equity related securities covered by Nifty LargeMidcap 250 Index : 95 to 100% Debt and Money Market Instruments - 0 to 5%",
+    "investment_objective": "The investment objective of the scheme is to invest in stocks comprising the Nifty LargeMidcap 250 Index in the sameproportion as in the index to achieve returns equivalent to the Total Return Index of Nifty LargeMidcap 250 Index (subject totracking error). There can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "Equities and equity related securities covered by Nifty LargeMidcap 250 Index : 95 to 100% Debt and Money MarketInstruments - 0 to 5%",
     "benchmark": "Nifty LargeMidcap 250 Index Fund",
     "fund_managers": "Mr. Kedarnath Mirajkar",
     "annual_expense": {
@@ -30,5 +30,5 @@
     "Direct",
     "Regular"
   ],
-  "extracted_at": "2026-04-18T06:15:42.456916+00:00"
+  "extracted_at": "2026-04-19T04:31:23.510446+00:00"
 }

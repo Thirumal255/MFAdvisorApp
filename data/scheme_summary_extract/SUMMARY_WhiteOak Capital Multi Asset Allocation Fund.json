@@ -14,31 +14,11 @@
     "asset_allocation": "Equity and Equity Related Instruments (including REITs) Min -10% Max - 80% Debt Securities and Money Market Instruments Min -10% Max - 80% Gold/silver related instruments (including ETFs, Sovereign gold deposit schemes) & Exchange Traded Commodity Derivatives (ETCDs) as permitted by SEBI from time to time. Min -10% Max - 50% Units issued by InvITs Min -0% Max - 10%",
     "benchmark": "BSE 500 TRI (35%) + CRISIL Short Term Bond Index (45%) + Domestic prices of Gold (19%) + Domestic prices of Silver (1%)",
     "fund_managers": [
-      {
-        "name": "Mr. Ramesh Mantri",
-        "type": "Comanage/Equity",
-        "from_date": "19-05-2023"
-      },
-      {
-        "name": "Mr. Piyush Baranwal",
-        "type": "Comanage/Debt",
-        "from_date": "19-05-2023"
-      },
-      {
-        "name": "Mr. Dheeresh Pathak",
-        "type": "Assistant Fund Manager – Equity",
-        "from_date": "01-04-2024"
-      },
-      {
-        "name": "Mr. Ashish Agrawal",
-        "type": "Fund Manager - Arbitrage Transactions",
-        "from_date": "06-01-2025"
-      },
-      {
-        "name": "Ms. Trupti Agarwal",
-        "type": "Assistant Fund Manager – Equity",
-        "from_date": "20-05-2025"
-      }
+      "Mr. Ramesh Mantri",
+      "Mr. Piyush Baranwal",
+      "Mr. Dheeresh Pathak",
+      "Mr. Ashish Agrawal",
+      "Ms. Trupti Agarwal"
     ],
     "annual_expense": {
       "Regular": "1.54",
@@ -58,5 +38,5 @@
     "Regular-Growth",
     "Direct-Growth"
   ],
-  "extracted_at": "2026-04-18T06:14:23.675845+00:00"
+  "extracted_at": "2026-04-19T04:30:15.904082+00:00"
 }

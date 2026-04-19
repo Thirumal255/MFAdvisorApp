@@ -50,7 +50,7 @@
     "riskometer": "Moderate Risk",
     "investment_objective": "The investment objective of the Scheme is to generate returns commensurate with risks of investing in a portfolio of Debt Securities and Money Market Instruments issued by Banks, Public Sector Undertakings, Public Financial Institutions, entities majorly owned by Central and State Governments and Municipal Bonds. However, there can be no assurance that the investment objective of the scheme will be realized.",
     "asset_allocation": "1. Debt Securities and Money Market Instruments issued by Banks, Public Sector Undertakings, Public Financial Institutions, entities majorly owned by Central and State Governments and Municipal Bonds - 80-100%\n2. Debt Securities and Money Market Instruments including Treasury Bills, Tri-party Repo, Central and State Governments Securities, Units of Debt & Liquid Mutual Fund. - 0-20%",
-    "benchmark": "CRISIL Banking and PSU Debt, Nifty Banking & PSU Debt Index - A-III",
+    "benchmark": "CRISIL Banking and PSU Debt",
     "fund_managers": [
       "Mr. Dhawal Dalal",
       "Mr. Rahul Dedhia"
@@ -75,5 +75,5 @@
     "Regular Plan Growth",
     "Regular Plan Monthly - IDCW Option - Payout"
   ],
-  "extracted_at": "2026-04-18T03:19:43.883588+00:00"
+  "extracted_at": "2026-04-19T02:33:52.569471+00:00"
 }

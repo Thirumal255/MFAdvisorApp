@@ -15,7 +15,10 @@
       "Securities covered by Nifty50 Equal Weight TRI": "95%-100%",
       "Government. Securities* including Triparty Repo, and units of liquid mutual fund": "0%-5%"
     },
-    "benchmark": "Nifty50 Equal Weight TRI",
+    "benchmark": {
+      "Tier 1": "Nifty50 Equal Weight TRI",
+      "Tier 2": "NA"
+    },
     "fund_managers": "Mr. Viral Chhadva",
     "annual_expense": {},
     "exit_load": "Not Applicable",
@@ -32,5 +35,5 @@
     "Direct Plan - Growth",
     "Regular Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:42:58.157544+00:00"
+  "extracted_at": "2026-04-19T04:06:42.248685+00:00"
 }

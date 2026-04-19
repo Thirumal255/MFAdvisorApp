@@ -6,19 +6,19 @@
     "fund_name": "Navi 3 In 1 Fund",
     "fund_type": "Open Ended",
     "fund_options": [
-      "Navi 3 IN 1 FUND Regular Plan Normal IDCW Reinvestment",
-      "Navi 3 IN 1 FUND - Direct Plan Quarterly IDCW Payout",
-      "Navi 3 IN 1 FUND - Direct Plan Quarterly IDCW ReInvestment",
-      "Navi 3 IN 1 FUND - Direct Plan Growth",
-      "Navi 3 IN 1 FUND - Growth",
-      "Navi 3 IN 1 FUND Regular Plan Half Yearly IDCW Payout",
-      "Navi 3 IN 1 FUND Regular Plan Half Yearly IDCW Reinvestment",
-      "Navi 3 IN 1 FUND - MONTHLY IDCW Payout",
-      "Navi 3 IN 1 FUND - MONTHLY IDCW ReInvestment",
-      "Navi 3 IN 1 FUND Direct Plan Normal IDCW Payout",
-      "Navi 3 IN 1 FUND Direct Plan Normal IDCW Reinvestment",
-      "Navi 3 IN 1 FUND - QUARTERLY IDCW Payout",
-      "Navi 3 IN 1 FUND - QUARTERLY IDCW ReInvestment"
+      "Regular Plan Normal IDCW Reinvestment",
+      "Direct Plan Quarterly IDCW Payout",
+      "Direct Plan Quarterly IDCW ReInvestment",
+      "Direct Plan Growth",
+      "Growth",
+      "Regular Plan Half Yearly IDCW Payout",
+      "Regular Plan Half Yearly IDCW Reinvestment",
+      "MONTHLY IDCW Payout",
+      "MONTHLY IDCW ReInvestment",
+      "Direct Plan Normal IDCW Payout",
+      "Direct Plan Normal IDCW Reinvestment",
+      "QUARTERLY IDCW Payout",
+      "QUARTERLY IDCW ReInvestment"
     ],
     "isins": [
       "INF959L01FK3",
@@ -62,19 +62,19 @@
     "exit_load": "15% of the units allotted shall be redeemed without any Exit Load on or before completion of 365 days from the date of allotment of units. Any redemption in excess of such limit within 365 days from the date of allotment shall be subject to the following Exit Load:- • If redeemed or switched out on or before completion of 365 days from the date of allotment of units – 1.00%; • If redeemed or switched out after completion of 365 days from the date of allotment of units – NIL."
   },
   "fund_options_inferred": [
-    "Navi 3 IN 1 FUND Regular Plan Normal IDCW Reinvestment",
-    "Navi 3 IN 1 FUND - Direct Plan Quarterly IDCW Payout",
-    "Navi 3 IN 1 FUND - Direct Plan Quarterly IDCW ReInvestment",
-    "Navi 3 IN 1 FUND - Direct Plan Growth",
-    "Navi 3 IN 1 FUND - Growth",
-    "Navi 3 IN 1 FUND Regular Plan Half Yearly IDCW Payout",
-    "Navi 3 IN 1 FUND Regular Plan Half Yearly IDCW Reinvestment",
-    "Navi 3 IN 1 FUND - MONTHLY IDCW Payout",
-    "Navi 3 IN 1 FUND - MONTHLY IDCW ReInvestment",
-    "Navi 3 IN 1 FUND Direct Plan Normal IDCW Payout",
-    "Navi 3 IN 1 FUND Direct Plan Normal IDCW Reinvestment",
-    "Navi 3 IN 1 FUND - QUARTERLY IDCW Payout",
-    "Navi 3 IN 1 FUND - QUARTERLY IDCW ReInvestment"
+    "Regular Plan Normal IDCW Reinvestment",
+    "Direct Plan Quarterly IDCW Payout",
+    "Direct Plan Quarterly IDCW ReInvestment",
+    "Direct Plan Growth",
+    "Growth",
+    "Regular Plan Half Yearly IDCW Payout",
+    "Regular Plan Half Yearly IDCW Reinvestment",
+    "MONTHLY IDCW Payout",
+    "MONTHLY IDCW ReInvestment",
+    "Direct Plan Normal IDCW Payout",
+    "Direct Plan Normal IDCW Reinvestment",
+    "QUARTERLY IDCW Payout",
+    "QUARTERLY IDCW ReInvestment"
   ],
-  "extracted_at": "2026-04-18T05:08:39.434258+00:00"
+  "extracted_at": "2026-04-19T03:44:05.727658+00:00"
 }

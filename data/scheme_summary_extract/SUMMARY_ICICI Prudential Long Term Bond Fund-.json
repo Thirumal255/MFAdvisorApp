@@ -6,10 +6,24 @@
     "fund_name": "ICICI Prudential Long Term Bond Fund",
     "fund_type": "Open Ended",
     "fund_options": [
-      "ICICI Prudential Long Term Bond Fund - Direct Plan - Growth",
-      "ICICI Prudential Long Term Bond Fund - Direct Plan - IDCW - Quarterly",
-      "ICICI Prudential Long Term Bond Fund - Growth",
-      "ICICI Prudential Long Term Bond Fund - IDCW - Quarterly"
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW - Quarterly",
+      "Growth",
+      "IDCW - Quarterly"
+    ],
+    "isins": [
+      "INF109K017L8",
+      "INF109K010M1",
+      "INF109K011M9",
+      "INF109K01365",
+      "INF109K01EZ8",
+      "INF109K01399"
+    ],
+    "amfi_codes": [
+      "120743",
+      "120747",
+      "100365",
+      "100367"
     ],
     "riskometer": "Moderate",
     "investment_objective": "To generate income through investments in a range of debt and money market instruments while maintaining the optimum balance of yield, safety and liquidity. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
@@ -23,25 +37,13 @@
       "Regular": "0.90",
       "Direct": "0.40"
     },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "120743",
-      "120747",
-      "100365",
-      "100367"
-    ],
-    "isins": [
-      "INF109K017L8",
-      "INF109K010M1",
-      "INF109K01365",
-      "INF109K01EZ8"
-    ]
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
-    "ICICI Prudential Long Term Bond Fund - Direct Plan - Growth",
-    "ICICI Prudential Long Term Bond Fund - Direct Plan - IDCW - Quarterly",
-    "ICICI Prudential Long Term Bond Fund - Growth",
-    "ICICI Prudential Long Term Bond Fund - IDCW - Quarterly"
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW - Quarterly",
+    "Growth",
+    "IDCW - Quarterly"
   ],
-  "extracted_at": "2026-04-18T04:08:17.663198+00:00"
+  "extracted_at": "2026-04-19T03:05:33.397031+00:00"
 }

@@ -23,11 +23,11 @@
     ],
     "amfi_codes": [
       "129200",
-      null,
-      null,
-      null,
-      null,
-      null
+      "129200",
+      "129200",
+      "129200",
+      "129200",
+      "129200"
     ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective is to provide long term total return primarily by seeking capital appreciation through an active asset allocation by investing in a basket of equity and debt mutual fund schemes and money market instruments.",
@@ -48,5 +48,5 @@
     "HSBC Aggressive Hybrid Active FOF Dir IDCW Payout",
     "HSBC Aggressive Hybrid Active FOF IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T03:52:12.708923+00:00"
+  "extracted_at": "2026-04-19T02:55:13.072654+00:00"
 }

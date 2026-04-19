@@ -11,7 +11,7 @@
     ],
     "riskometer": "Very High Risk",
     "investment_objective": "To generate returns that are commensurate (before fees and expenses) with the performance of the NIFTY 100 Index TRI(Underlying Index), subject to tracking error.There is no assurance that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Securities covered by NIFTY 100 Index Total Returns Index (TRI) : 95% - 100%; Debt Securities & Money market instruments, units of debts schemes of mutual funds: 0% - 5% The above limits shall not apply to Subscription and Redemption Cash Flow. Subscription cash flow is the subscription money received for deployment and redemption cash flow is the money kept aside for meeting redemptions. For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
+    "asset_allocation": "Securities covered by NIFTY 100 Index Total Returns Index (TRI) : 95% - 100%; Debt Securities & Money market instruments, unitsof debts schemesof mutual funds: 0% - 5% The above limits shall not apply to Subscription and Redemption Cash Flow.Subscription cash ﬂow is the subscription money received for deployment and redemption cash ﬂow is the money kept aside formeeting redemptions. For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
     "benchmark": "NIFTY 100 (Total Returns Index)",
     "fund_managers": "FM 1 - Ms. Nandita Menezes, FM 2 - Mr.Arun Agarwal",
     "annual_expense": {
@@ -32,5 +32,5 @@
     "REGULAR PLAN - GROWTH OPTION",
     "DIRECT PLAN - GROWTH OPTION"
   ],
-  "extracted_at": "2026-04-18T03:46:19.695295+00:00"
+  "extracted_at": "2026-04-19T02:51:04.001101+00:00"
 }

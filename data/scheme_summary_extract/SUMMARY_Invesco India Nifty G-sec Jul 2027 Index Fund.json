@@ -7,8 +7,8 @@
     "fund_type": "An open-ended Target Maturity Index Fund tracking Nifty G-sec Jul 2027 Index. A relatively high interest rate risk and relativelylow credit risk.",
     "fund_options": [
       "Direct Plan - Growth",
-      "Direct plan - Payout of Income Distribution cum capital withdrawal option",
-      "Regular Plan - Payout of Income Distribution cum capital withdrawal option",
+      "Direct Plan - IDCW Payout",
+      "Regular Plan - IDCW Payout",
       "Regular Plan - Growth"
     ],
     "riskometer": "Low to Moderate",
@@ -36,9 +36,9 @@
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
-    "Direct plan - Payout of Income Distribution cum capital withdrawal option",
-    "Regular Plan - Payout of Income Distribution cum capital withdrawal option",
+    "Direct Plan - IDCW Payout",
+    "Regular Plan - IDCW Payout",
     "Regular Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T04:24:24.973584+00:00"
+  "extracted_at": "2026-04-19T03:14:58.490034+00:00"
 }

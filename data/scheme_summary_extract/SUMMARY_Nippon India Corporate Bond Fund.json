@@ -78,8 +78,8 @@
       "109473"
     ],
     "riskometer": "Moderate",
-    "investment_objective": "To generate income through investments predominantly in debt instruments of various maturities with a view to maximizing income while maintaining the optimum balance of yield, safety and liquidity. There is no assurance that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Corporate Bonds rated AA+ & above; Minimum 80%, Maximum 100%. Debt & Money Market Instruments (including corporate bonds rated below AA+, Government Securities issued by Central and/or State Government); Minimum 0%, Maximum 20%. Units issued by REITs and InvITs; Minimum 0%, Maximum 10%.",
+    "investment_objective": "To generate income through investments predominantly in debt instruments of various maturities with a view to maximizingincome while maintaining the optimum balance of yield, safety and liquidity. There is no assurance that the investment objectiveof the Scheme will be achieved.",
+    "asset_allocation": "Corporate Bonds rated AA+ & above; Minimum 80%, Maximum 100%. Debt & Money Market Instruments (including corporatebonds rated below AA+, Government Securities issued by Central and/or State Government); Minimum 0%, Maximum 20%. Unitsissued by REITs and InvITs; Minimum 0%, Maximum 10%.",
     "benchmark": "NIFTY Corporate Bond Index A-II",
     "fund_managers": "Vivek Sharma",
     "annual_expense": {
@@ -112,5 +112,5 @@
     "Weekly IDCW Plan Payout",
     "Weekly IDCW Plan Reinvestment"
   ],
-  "extracted_at": "2026-04-18T05:11:18.145248+00:00"
+  "extracted_at": "2026-04-19T03:46:01.798337+00:00"
 }

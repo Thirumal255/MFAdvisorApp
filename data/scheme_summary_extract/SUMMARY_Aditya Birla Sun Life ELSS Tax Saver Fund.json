@@ -11,6 +11,18 @@
       "Regular - IDCW",
       "Growth Option"
     ],
+    "isins": [
+      "INF209K01P23",
+      "INF209K01UN8",
+      "INF209K01090",
+      "INF209K01108"
+    ],
+    "amfi_codes": [
+      "119543",
+      "119544",
+      "103164",
+      "107745"
+    ],
     "riskometer": "Very High",
     "investment_objective": "An open-ended equity linked savings scheme (ELSS) with the objective of long term growth of capital through a portfolio with a target allocation of 80% equity, 20% debt and money market securities.",
     "asset_allocation": {
@@ -23,19 +35,7 @@
       "Regular": "1.69",
       "Direct": "0.95"
     },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "119543",
-      "119544",
-      "103164",
-      "107745"
-    ],
-    "isins": [
-      "INF209K01P23",
-      "INF209K01UN8",
-      "INF209K01090",
-      "INF209K01108"
-    ]
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "DIRECT - IDCW",
@@ -43,5 +43,5 @@
     "Regular - IDCW",
     "Growth Option"
   ],
-  "extracted_at": "2026-04-18T02:11:13.743281+00:00"
+  "extracted_at": "2026-04-19T01:58:33.728531+00:00"
 }

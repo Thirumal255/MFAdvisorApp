@@ -38,7 +38,7 @@
       "Regular": "1.68",
       "Direct": "0.50"
     },
-    "exit_load": "For redemption / switch out of upto 30% of the initial investment amount (limit) purchased or switched in within 1 year from the date of allotment: Nil. If units redeemed or switched out are in excess of the limit within 1 year from the date of allotment: 1% If units are redeemed or switched out on or after 1 year from the date of allotment: NIL"
+    "exit_load": "For redemption / switch out of upto 30% of the initial investment amount (limit) purchased or switched in within 1 year from the date of allotment: Nil. If units redeemed or switched out are in excess of the limit within 1 year from the date of allotment:1% If units are redeemed or switched out on or after 1 year from the date of allotment: NIL"
   },
   "fund_options_inferred": [
     "Direct Plan-Growth",
@@ -48,5 +48,5 @@
     "Regular Plan-Monthly - IDCW Payout",
     "Regular Plan-Monthly - IDCW Re-investment"
   ],
-  "extracted_at": "2026-04-18T04:37:03.380079+00:00"
+  "extracted_at": "2026-04-19T03:23:45.738249+00:00"
 }

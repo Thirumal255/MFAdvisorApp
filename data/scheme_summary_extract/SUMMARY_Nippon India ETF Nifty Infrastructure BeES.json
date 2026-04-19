@@ -9,12 +9,11 @@
       "Growth"
     ],
     "riskometer": "Very High",
-    "investment_objective": "The investment objective of Nippon India ETF Nifty Infrastructure BeES is to provide returns that, before expenses, closelycorrespond to the total returns of the Securities as represented by the Nifty Infrastructure Index by investing in the Securitiesin the same proportion as in the Index.There can be no assurance or guarantee that the investment objective of the Schemewill be achieved.",
-    "asset_allocation": "Securities covered by the Nifty infrastucture Index - 95% to 100%, Money Market Instruments - 0% to 5%. (with maturity notexceeding 91 days), including Tri-party repo on G-sec or T-bills, cash & cash equivalents.",
+    "investment_objective": "The investment objective of Nippon India ETF Nifty Infrastructure BeES is to provide returns that, before expenses, closely correspond to the total returns of the Securities as represented by the Nifty Infrastructure Index by investing in the Securities in the same proportion as in the Index.There can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities covered by the Nifty infrastucture Index - 95% to 100%, Money Market Instruments - 0% to 5%. (with maturity not exceeding 91 days), including Tri-party repo on G-sec or T-bills, cash & cash equivalents.",
     "benchmark": "Nifty Infrastructure TRI",
     "fund_managers": "Jitendra Tolani",
     "annual_expense": {
-      "Regular": "0.00",
       "Direct": "0.50"
     },
     "exit_load": "Nil",
@@ -28,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T05:13:25.854207+00:00"
+  "extracted_at": "2026-04-19T03:47:33.709341+00:00"
 }

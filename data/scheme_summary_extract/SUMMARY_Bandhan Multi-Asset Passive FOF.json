@@ -6,10 +6,10 @@
     "fund_name": "Bandhan Multi-Asset Passive FOF",
     "fund_type": "An open-ended fund of funds scheme investing in passive equity schemes and debt schemes of Bandhan Mutual Fund, andcommodity-based schemes, as permitted by SEBI from time to time",
     "fund_options": [
-      "Bandhan Multi-Asset Passive FOF - DIRECT PLAN - Growth",
-      "Bandhan Multi-Asset Passive FOF - DIRECT PLAN - IDCW Payout",
-      "Bandhan Multi-Asset Passive FOF - REGULAR PLAN - IDCW Payout",
-      "Bandhan Multi-Asset Passive FOF - REGULAR PLAN - Growth"
+      "DIRECT PLAN - Growth",
+      "DIRECT PLAN - IDCW Payout",
+      "REGULAR PLAN - IDCW Payout",
+      "REGULAR PLAN - Growth"
     ],
     "isins": [
       "INF194K019A3",
@@ -35,10 +35,10 @@
     "exit_load": "Entry Load: Nil. Exit Load (w.e.f 08-May-2020) If redeemed / Switched Out within 365 days from the date of allotment - Up to10% of Investment Nil & For remaining Investment: 1.00%. If redeemed / switched out after 365 days from the date ofallotment: Nil"
   },
   "fund_options_inferred": [
-    "Bandhan Multi-Asset Passive FOF - DIRECT PLAN - Growth",
-    "Bandhan Multi-Asset Passive FOF - DIRECT PLAN - IDCW Payout",
-    "Bandhan Multi-Asset Passive FOF - REGULAR PLAN - IDCW Payout",
-    "Bandhan Multi-Asset Passive FOF - REGULAR PLAN - Growth"
+    "DIRECT PLAN - Growth",
+    "DIRECT PLAN - IDCW Payout",
+    "REGULAR PLAN - IDCW Payout",
+    "REGULAR PLAN - Growth"
   ],
-  "extracted_at": "2026-04-18T02:50:42.356302+00:00"
+  "extracted_at": "2026-04-19T02:16:02.733544+00:00"
 }

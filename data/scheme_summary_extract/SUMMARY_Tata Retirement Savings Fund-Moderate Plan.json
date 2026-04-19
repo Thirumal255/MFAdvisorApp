@@ -14,8 +14,8 @@
     "asset_allocation": "Equity and Equity related instruments 65-85, Debt & Money Market instruments 15-35, Units of REITs & InvITs 0-10, OtherSecurities 0-10.",
     "benchmark": "CRISIL Hybrid 25+75-Aggressive Index",
     "fund_managers": [
-      "Murthy Nagarajan",
-      "Sonam Udasi"
+      "FM-1 Murthy Nagarajan",
+      "FM-2 Sonam Udasi"
     ],
     "annual_expense": {
       "Regular": "1.99",
@@ -35,5 +35,5 @@
     "Tata Retirement Savings Fund-Moderate Regular Plan - Growth",
     "Tata Retirement Savings Fund-Moderate DIRECT Plan -Growth"
   ],
-  "extracted_at": "2026-04-18T05:57:02.382373+00:00"
+  "extracted_at": "2026-04-19T04:16:17.070187+00:00"
 }

@@ -1,9 +1,9 @@
 {
-  "parent_scheme_name": "Mirae Asset Large and Midcap Fund(formerly known as Mirae Asset Emerging Bluechip Fund).",
+  "parent_scheme_name": "Mirae Asset Large and Midcap Fund(formerly known as Mirae Asset Emerging Bluechip Fund)",
   "source_file": "SUMMARY_Mirae Asset Large & Midcap Fund.pdf",
   "source": "summary_pdf",
   "data": {
-    "fund_name": "Mirae Asset Large and Midcap Fund(formerly known as Mirae Asset Emerging Bluechip Fund).",
+    "fund_name": "Mirae Asset Large and Midcap Fund(formerly known as Mirae Asset Emerging Bluechip Fund)",
     "fund_type": "Large & Mid Cap Fund - An open ended equity scheme investing in both large cap and mid cap stocks",
     "fund_options": [
       "Direct Plan Growth",
@@ -46,5 +46,5 @@
     "Regular PlanIDCW -Reinvestment",
     "Regular Plan Growth"
   ],
-  "extracted_at": "2026-04-18T04:57:10.191201+00:00"
+  "extracted_at": "2026-04-19T03:36:24.896127+00:00"
 }

@@ -6,8 +6,8 @@
     "fund_name": "HDFC Retirement Savings Fund - Equity Plan",
     "fund_type": "An open ended retirement solution oriented scheme having a lock-in of 5 years or till retirement age (whichever is earlier)",
     "fund_options": [
-      "DIRECT PLAN",
-      "REGULAR PLAN"
+      "DIRECT PLAN - GROWTH OPTION",
+      "REGULAR PLAN - GROWTH OPTION"
     ],
     "riskometer": "Very High Risk",
     "investment_objective": "The investment objective of the Investment Plans under the Scheme is to provide long-term capital appreciation / income by investing in a mix of equity and debt instruments to help investors meet their retirement goals. There is no assurance that the investment objective of the Scheme will be achieved.",
@@ -29,8 +29,8 @@
     ]
   },
   "fund_options_inferred": [
-    "DIRECT PLAN",
-    "REGULAR PLAN"
+    "DIRECT PLAN - GROWTH OPTION",
+    "REGULAR PLAN - GROWTH OPTION"
   ],
-  "extracted_at": "2026-04-18T03:49:59.550833+00:00"
+  "extracted_at": "2026-04-19T02:53:39.765291+00:00"
 }

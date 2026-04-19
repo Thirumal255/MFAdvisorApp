@@ -36,7 +36,7 @@
       "Direct": "0",
       "Retail": "0"
     },
-    "exit_load": "Upto 1 of the daily net assets"
+    "exit_load": "Upto 1"
   },
   "fund_options_inferred": [
     "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Growth",
@@ -44,5 +44,5 @@
     "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-DP-Growth",
     "ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-DP-Annual IDCW"
   ],
-  "extracted_at": "2026-04-18T04:03:18.143146+00:00"
+  "extracted_at": "2026-04-19T03:02:21.803818+00:00"
 }

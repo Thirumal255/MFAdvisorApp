@@ -38,7 +38,8 @@
     "annual_expense": {},
     "exit_load": null,
     "amfi_codes": [
-      "127"
+      "148454",
+      "148455"
     ],
     "isins": [
       "INF247L01AI8"
@@ -48,5 +49,5 @@
     "Regular Growth",
     "Direct Growth"
   ],
-  "extracted_at": "2026-04-18T05:05:41.295807+00:00"
+  "extracted_at": "2026-04-19T03:42:11.585407+00:00"
 }

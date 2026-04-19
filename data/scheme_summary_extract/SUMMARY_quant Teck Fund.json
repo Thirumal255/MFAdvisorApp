@@ -62,7 +62,8 @@
     "amfi_codes": [
       "152070",
       "152067",
-      "152069"
+      "152069",
+      "152068"
     ],
     "isins": [
       "IN966L01CQ2",
@@ -81,5 +82,5 @@
     "IDCW Re-investment Option - Regular Plan",
     "IDCW Re-investment Option - Direct Plan"
   ],
-  "extracted_at": "2026-04-18T05:31:08.893177+00:00"
+  "extracted_at": "2026-04-19T03:59:11.356152+00:00"
 }

@@ -8,9 +8,9 @@
     "fund_options": [
       "Growth"
     ],
-    "riskometer": "Very High\nAs on November 30, 2024",
+    "riskometer": "Very High",
     "investment_objective": "The investment objective of the scheme is to provide returns before expenses that correspond to the total return of the underlying index subject to tracking errors.  However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
-    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (Nifty Metal Index) = 95% - 100% \n• Money market instruments including TREPs*# = 0% - 5% \n*Or similar instruments as may be permitted by SEBI/RBI from time to time, subject to requisite approvals from SEBI/RBI, as applicable.\n# Excluding subscription money in transit before deployment/payout",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (Nifty Metal Index) = 95% - 100% \n• Money market instruments including TREPs*# = 0% - 5% \n*Or similar instruments as may be permitted by SEBI/RBI from time to time, subject to requi-\nsite approvals from SEBI/RBI, as applicable.\n# Excluding subscription money in transit before deployment/payout",
     "benchmark": "Nifty Metal TRI",
     "fund_managers": [
       "Ashwini Bharucha"
@@ -29,5 +29,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:13:00.704726+00:00"
+  "extracted_at": "2026-04-19T03:08:31.409082+00:00"
 }

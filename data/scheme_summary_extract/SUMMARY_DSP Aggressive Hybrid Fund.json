@@ -13,22 +13,6 @@
       "Regular Plan - IDCW",
       "Regular Plan - IDCW - Reinvest"
     ],
-    "isins": [
-      "INF740K01NY4",
-      "INF740K01NZ1",
-      "INF740K01OA2",
-      "INF740K01318",
-      "INF740K01326",
-      "INF740K01334"
-    ],
-    "amfi_codes": [
-      "119019",
-      "119020",
-      "119020",
-      "100081",
-      "100082",
-      "100082"
-    ],
     "riskometer": "Very High",
     "investment_objective": "The primary investment objective of the Scheme is to seek to generate long term capital appreciation and current income from a portfolio constituted of equity and equity related securities as well as ﬁxed income securities (debt and money market securities).There is no assurance that the investment objective of the scheme will be achieved.",
     "asset_allocation": "1. Equity and equity related Instruments : 65% - 80%, 2. Debt instruments: 20% - 35%",
@@ -38,7 +22,23 @@
       "Regular": "1.71",
       "Direct": "0.66"
     },
-    "exit_load": "1%~ - Holding period from the date of allotment < 12 months, Nil - Holding period from the date of allotment >= 12 months (as a% of Applicable NAV) ~If the units redeemed or switched out are upto 10% of the units (the limit) purchased or switched"
+    "exit_load": "1%~ - Holding period from the date of allotment < 12 months, Nil - Holding period from the date of allotment >= 12 months (as a% of Applicable NAV) ~If the units redeemed or switched out are upto 10% of the units (the limit) purchased or switched",
+    "amfi_codes": [
+      "119019",
+      "119020",
+      "119020",
+      "100081",
+      "100082",
+      "100082"
+    ],
+    "isins": [
+      "INF740K01NY4",
+      "INF740K01NZ1",
+      "INF740K01OA2",
+      "INF740K01318",
+      "INF740K01326",
+      "INF740K01334"
+    ]
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -48,5 +48,5 @@
     "Regular Plan - IDCW",
     "Regular Plan - IDCW - Reinvest"
   ],
-  "extracted_at": "2026-04-18T03:09:10.483587+00:00"
+  "extracted_at": "2026-04-19T02:27:23.959784+00:00"
 }

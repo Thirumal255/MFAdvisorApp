@@ -26,10 +26,10 @@
     "amfi_codes": [
       "148901",
       "148900",
-      "148900",
+      null,
       "148903",
       "148902",
-      "148902"
+      null
     ],
     "isins": [
       "INF179KC1BD7",
@@ -48,5 +48,5 @@
     "DIRECT PLAN - PAYOUT OF IDCW OPTION",
     "DIRECT PLAN - REINVESTMENT OF IDCW OPTION"
   ],
-  "extracted_at": "2026-04-18T03:45:49.907951+00:00"
+  "extracted_at": "2026-04-19T02:50:44.836002+00:00"
 }

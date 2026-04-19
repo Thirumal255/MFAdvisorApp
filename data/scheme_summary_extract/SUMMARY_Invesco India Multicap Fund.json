@@ -13,6 +13,22 @@
       "Direct Plan - IDCW Payout",
       "Direct Plan - IDCW Reinvestment"
     ],
+    "isins": [
+      "INF205K01DO0",
+      "INF205K01DP7",
+      "INF205K01DN2",
+      "INF205K01MS2",
+      "INF205K01MQ6",
+      "INF205K01MR4"
+    ],
+    "amfi_codes": [
+      "107353",
+      "107352",
+      "107352",
+      "120413",
+      "120412",
+      "120412"
+    ],
     "riskometer": "Very High",
     "investment_objective": "To generate capital appreciation by investing predominantly in Equity and Equity Related Instruments across market capitalization. There is no assurance that the investment objective of the Scheme will be achieved",
     "asset_allocation": "Equity and Equity Related Instruments (Min 75% Max. 100%) out of which: a. Large Cap: Min 25% Max. 50% b. Mid Cap: Min 25% Max. 50% c. Small Cap: Min 25% Max. 50% Debt and Money Market Instruments: Min 0% Max. 25%",
@@ -22,23 +38,7 @@
       "Regular": "1.95",
       "Direct": "0.68"
     },
-    "exit_load": "If upto 10% of Units allotted are redeemed / switched-out within 1 year from the date of allotment -Nil. For any redemption /switchout in excess of 10% of units allotted within one year from the date of allotment -1%. If units are redeemed or switched-out after 1 year from the date of allotment - Nil.",
-    "amfi_codes": [
-      "107353",
-      "107352",
-      "107352",
-      "120413",
-      "120412",
-      "120412"
-    ],
-    "isins": [
-      "INF205K01DO0",
-      "INF205K01DP7",
-      "INF205K01DN2",
-      "INF205K01MS2",
-      "INF205K01MQ6",
-      "INF205K01MR4"
-    ]
+    "exit_load": "If upto 10% of Units allotted are redeemed / switched-out within 1 year from the date of allotment -Nil. For any redemption /switchout in excess of 10% of units allotted within one year from the date of allotment -1%. If units are redeemed or switched-out after 1 year from the date of allotment - Nil."
   },
   "fund_options_inferred": [
     "Regular Plan - Growth",
@@ -48,5 +48,5 @@
     "Direct Plan - IDCW Payout",
     "Direct Plan - IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:24:10.907258+00:00"
+  "extracted_at": "2026-04-19T03:14:50.850191+00:00"
 }

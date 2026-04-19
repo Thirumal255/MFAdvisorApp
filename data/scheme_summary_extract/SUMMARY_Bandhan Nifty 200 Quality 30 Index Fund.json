@@ -18,7 +18,7 @@
       "Regular": "0.98",
       "Direct": "0.33"
     },
-    "exit_load": "Exit Load – 1. 0.25% if redeemed on or before 15 days from the allotment date. 2. Nil if redeemed after 15 days fromallotment date.",
+    "exit_load": "0.25% if redeemed on or before 15 days from the allotment date. Nil if redeemed after 15 days from allotment date.",
     "amfi_codes": [
       "153114",
       "153113"
@@ -32,5 +32,5 @@
     "Direct Plan - Growth",
     "Regular Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T02:50:58.732465+00:00"
+  "extracted_at": "2026-04-19T02:16:13.762873+00:00"
 }

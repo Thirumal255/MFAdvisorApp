@@ -11,6 +11,18 @@
       "Regular - Growth",
       "Regular - IDCW - Daily"
     ],
+    "isins": [
+      "INF740KA1MC8",
+      null,
+      "INF740KA1MB0",
+      null
+    ],
+    "amfi_codes": [
+      "146062",
+      "146065",
+      "146061",
+      "146066"
+    ],
     "riskometer": "Low",
     "investment_objective": "The primary objective of the scheme is to seek to generate returns commensurate with low risk and providing high level of liquidity, through investments made primarily in overnight securities having maturity of 1 business day. There is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Debt Securities and Money Market Instruments with maturity upto 1 business day: 0% to 100%",
@@ -20,17 +32,7 @@
       "Regular": "0.15",
       "Direct": "0.06"
     },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "146062",
-      "146065",
-      "146061",
-      "146066"
-    ],
-    "isins": [
-      "INF740KA1MC8",
-      "INF740KA1MB0"
-    ]
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "Direct - Growth",
@@ -38,5 +40,5 @@
     "Regular - Growth",
     "Regular - IDCW - Daily"
   ],
-  "extracted_at": "2026-04-18T03:16:52.312596+00:00"
+  "extracted_at": "2026-04-19T02:32:16.521132+00:00"
 }

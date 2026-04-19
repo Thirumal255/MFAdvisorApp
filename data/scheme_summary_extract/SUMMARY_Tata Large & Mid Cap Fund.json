@@ -8,7 +8,7 @@
     "fund_options": [
       "Tata Large and Mid Cap Fund Regular Plan - IDCW",
       "Tata Large and Mid Cap Fund Direct Plan - IDCW",
-      "Tata Large and Mid Cap Fund Regular Plan - Growth",
+      "Tata Large and Mid CapFund Regular Plan - Growth",
       "Tata Large and Mid Cap Fund Direct Plan - Growth"
     ],
     "riskometer": "Very High",
@@ -40,8 +40,8 @@
   "fund_options_inferred": [
     "Tata Large and Mid Cap Fund Regular Plan - IDCW",
     "Tata Large and Mid Cap Fund Direct Plan - IDCW",
-    "Tata Large and Mid Cap Fund Regular Plan - Growth",
+    "Tata Large and Mid CapFund Regular Plan - Growth",
     "Tata Large and Mid Cap Fund Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:53:47.270101+00:00"
+  "extracted_at": "2026-04-19T04:13:42.734225+00:00"
 }

@@ -6,18 +6,25 @@
     "fund_name": "HSBC Balanced Advantage Fund",
     "fund_type": "An open-ended dynamic asset allocation fund",
     "fund_options": [
-      "HSBC Balanced Advantage Fund-Direct Plan-Growth",
-      "HSBC Balanced Advantage Fund-Direct Plan-IDCW Payout",
-      "HSBC Balanced Advantage Fund-Direct Plan-IDCW Reinvestment",
-      "HSBC Balanced Advantage Fund-Regular Plan-Growth",
-      "HSBC Balanced Advantage Fund-Regular Plan-IDCW Payout",
-      "HSBC Balanced Advantage Fund-Regular Plan-IDCW Reinvestment"
+      "Direct Plan-Growth",
+      "Direct Plan-IDCW Payout",
+      "Direct Plan-IDCW Reinvestment",
+      "Regular Plan-Growth",
+      "Regular Plan-IDCW Payout",
+      "Regular Plan-IDCW Reinvestment"
     ],
     "riskometer": "Moderately High",
     "investment_objective": "To seek long term capital growth and income through investments in equity and equity related securities and ﬁxed incomeinstruments. There is no assurance that the objective of the Scheme will be realised and the Scheme does not assure orguarantee any returns.",
     "asset_allocation": "Equities and Equity related instruments: 0% to 100% Debt and Money Market Securities*: 0% to 100% * including TREPS (Tri-Party Repo), Reverse Repo",
     "benchmark": "NIFTY 50 Composite Hybrid Debt 50:50 Index",
-    "fund_managers": "FM 1 - Neelotpal Sahai, FM 2 - Ms. Prakriti Banka, FM 3 - Mr. Praveen Ayathan, FM 4 - Mr. Mahesh Chhabria, FM 5 - Mr. Mohd.Asif Rizwi , FM 6 - Mr. Mayank Chaturvedi",
+    "fund_managers": [
+      "Neelotpal Sahai",
+      "Ms. Prakriti Banka",
+      "Mr. Praveen Ayathan",
+      "Mr. Mahesh Chhabria",
+      "Mr. Mohd.Asif Rizwi",
+      "Mr. Mayank Chaturvedi"
+    ],
     "annual_expense": {
       "Regular": "2.11",
       "Direct": "0.81"
@@ -41,12 +48,12 @@
     ]
   },
   "fund_options_inferred": [
-    "HSBC Balanced Advantage Fund-Direct Plan-Growth",
-    "HSBC Balanced Advantage Fund-Direct Plan-IDCW Payout",
-    "HSBC Balanced Advantage Fund-Direct Plan-IDCW Reinvestment",
-    "HSBC Balanced Advantage Fund-Regular Plan-Growth",
-    "HSBC Balanced Advantage Fund-Regular Plan-IDCW Payout",
-    "HSBC Balanced Advantage Fund-Regular Plan-IDCW Reinvestment"
+    "Direct Plan-Growth",
+    "Direct Plan-IDCW Payout",
+    "Direct Plan-IDCW Reinvestment",
+    "Regular Plan-Growth",
+    "Regular Plan-IDCW Payout",
+    "Regular Plan-IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T03:52:55.433119+00:00"
+  "extracted_at": "2026-04-19T02:55:41.410120+00:00"
 }

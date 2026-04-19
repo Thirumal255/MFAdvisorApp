@@ -12,7 +12,7 @@
     "investment_objective": "The investment objective of the Scheme is to generate returns that are commensurate with the performance of the NiftyMidcap 150 Index, subject to tracking error. There is no assurance that the investment objective of the Scheme will beachieved.",
     "asset_allocation": "A. Equity and Equity Related Securities of companies constituting Nifty Midcap 150 Index, the Underlying Index : 95% -100%, B. Cash and Cash Equivalents : 0% – 5%",
     "benchmark": "Nifty Midcap 150 TRI",
-    "fund_managers": "Mr. Anil Ghelani, Mr. Diipesh Shah",
+    "fund_managers": "Mr. Anil Ghelani - Primary, Mr. Diipesh Shah - Comanage",
     "annual_expense": {
       "Direct": "0.20"
     },
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T03:15:00.034474+00:00"
+  "extracted_at": "2026-04-19T02:31:07.264884+00:00"
 }

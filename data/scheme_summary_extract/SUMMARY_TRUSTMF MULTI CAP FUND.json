@@ -9,6 +9,14 @@
       "TRUSTMF MULTI CAP FUND-DIRECT-GROWTH",
       "TRUSTMF MULTI CAP FUND-REGULAR-GROWTH"
     ],
+    "isins": [
+      "INF0GCD01834",
+      "INF0GCD01842"
+    ],
+    "amfi_codes": [
+      "153644",
+      "153645"
+    ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the scheme is to generate long-term capital appreciation by predominantly investing in a diversified portfolio of equity & equity related instruments across large cap, mid cap and small cap stocks. There is no assurance that the investment objective of the scheme will be achieved.",
     "asset_allocation": "Equity and Equity related instruments including derivatives of Large, Mid & small cap companies - 75 to 100; Debt & Money Market Instruments - 0 to 35; Units issued by REITs & InvITs - 0 to 10",
@@ -18,19 +26,11 @@
       "Regular": "2.35",
       "Direct": "0.50"
     },
-    "exit_load": "1% - If redeemed/switched out within 180 days from the date of allotment. Nil - if redeemed/switched out after 180 days from the date of allotment.",
-    "amfi_codes": [
-      "153644",
-      "153645"
-    ],
-    "isins": [
-      "INF0GCD01834",
-      "INF0GCD01842"
-    ]
+    "exit_load": "1% - If redeemed/switched out within 180 days from the date of allotment. Nil - if redeemed/switched out after 180 days from the date of allotment."
   },
   "fund_options_inferred": [
     "TRUSTMF MULTI CAP FUND-DIRECT-GROWTH",
     "TRUSTMF MULTI CAP FUND-REGULAR-GROWTH"
   ],
-  "extracted_at": "2026-04-18T05:59:36.358515+00:00"
+  "extracted_at": "2026-04-19T04:18:24.303008+00:00"
 }

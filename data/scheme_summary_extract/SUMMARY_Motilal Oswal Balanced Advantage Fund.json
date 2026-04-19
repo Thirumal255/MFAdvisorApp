@@ -15,6 +15,26 @@
       "Regular Growth",
       "Direct Growth"
     ],
+    "isins": [
+      "INF247L01601",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "amfi_codes": [
+      "127",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
     "riskometer": "Very high",
     "investment_objective": "The investment objective is to generate long term capital appreciation by investing in equity and equity related instruments including equity derivatives & International Stocks, debt, money market instruments.",
     "asset_allocation": "Equity & equity related instruments, Equity Derivatives & International Stocks* 0-100%; Debt Instruments, Money Market Instruments, G-Sec, Cash and Cash at Call, etc 0-100%; ##Units issued by REITs and InvITs 0-10% - *The Scheme may invest in foreign securities including ADRs/GDRs/Foreign equity and equity related instruments upto 15% of the total net assets of the Scheme. Such investments will be subject to SEBI (Mutual Funds) Regulations, 1996 and in compliance with SEBI Circular no. SEBI/HO/IMD/IMD-II/DOF3/P/CIR/2021/571 dated June 03, 2021 and such other regulations issued from time to time. ##The existing investment will be continued until its maturity and there shall be no new exposure under REITs and InvITs with effect from January 04, 2023.",
@@ -34,14 +54,7 @@
     "annual_expense": {
       "Regular": "2.25"
     },
-    "exit_load": null,
-    "amfi_codes": [
-      "139870",
-      "139872"
-    ],
-    "isins": [
-      "INF247L01601"
-    ]
+    "exit_load": null
   },
   "fund_options_inferred": [
     "Regular Annual IDCW",
@@ -53,5 +66,5 @@
     "Regular Growth",
     "Direct Growth"
   ],
-  "extracted_at": "2026-04-18T05:03:41.625949+00:00"
+  "extracted_at": "2026-04-19T03:40:41.717243+00:00"
 }

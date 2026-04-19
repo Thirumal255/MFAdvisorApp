@@ -11,24 +11,6 @@
       "Growth",
       "IDCW"
     ],
-    "isins": [
-      "INF109K013J1",
-      "INF109K011J5",
-      "INF109K012J3",
-      "INF109K01BU5",
-      "INF109K01DY3",
-      "INF109K01BV3"
-    ],
-    "amfi_codes": [
-      "120244",
-      "120245",
-      "109445",
-      "109446",
-      "P8044",
-      "P8045",
-      "P1233",
-      "P1234"
-    ],
     "riskometer": "Very High",
     "investment_objective": "To generate long-term capital appreciation to unit holders from a portfolio that is invested predominantly in equity and equity related securities of companies engaged in banking and financial services. However there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
     "asset_allocation": "• Equity & Equity related securities of companies engaged in Banking and Financial Services Sector = 80% - 100%\n• Other Equity & equity related Instruments  = 0% - 20%\n• Debt & Money market instruments = 0% - 20%",
@@ -44,7 +26,21 @@
       "Regular": "1.86",
       "Direct": "1.03"
     },
-    "exit_load": "1% of applicable Net Asset Value - If units purchased or switched in from another scheme of the Fund are redeemed or switched out within 15 days from the date of allotment Nil - If units purchased or switched in from another scheme of the Fund are redeemed or switched out after 15 days from the date of allotment."
+    "exit_load": "1% of applicable Net Asset Value - If units purchased or switched in from another scheme of the Fund are redeemed or switched out within 15 days from the date of allotment\nNil - If units purchased or switched in from another scheme of the Fund are redeemed or switched out after 15 days from the date of allotment.",
+    "amfi_codes": [
+      "120244",
+      "120245",
+      "109445",
+      "109446"
+    ],
+    "isins": [
+      "INF109K013J1",
+      "INF109K011J5",
+      "INF109K012J3",
+      "INF109K01BU5",
+      "INF109K01DY3",
+      "INF109K01BV3"
+    ]
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -52,5 +48,5 @@
     "Growth",
     "IDCW"
   ],
-  "extracted_at": "2026-04-18T04:00:59.102335+00:00"
+  "extracted_at": "2026-04-19T03:00:45.917462+00:00"
 }

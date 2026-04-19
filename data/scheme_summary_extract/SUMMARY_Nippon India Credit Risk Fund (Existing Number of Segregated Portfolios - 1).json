@@ -46,7 +46,7 @@
     ],
     "riskometer": "High",
     "investment_objective": "The primary investment objective of this option is to generate optimal returns consistent with moderate level of risk. This income may be complemented by capital appreciation of the portfolio. Accordingly investments shall predominantly be made in Debt & Money Market Instruments.",
-    "asset_allocation": "Corporate Bonds rated AA and below ; Maximum 100, Minimum 65. Debt & Money Market Instruments (including corporate bonds rated AA+ & above, government securities issued by Central and/or State Government); Maximum 35, Minimum 0. Units issued by REITs and InvITs; Maximum 10, Minimum 0.",
+    "asset_allocation": "Corporate Bonds rated AA and below ; Maximum 100, Minimum 65. Debt & Money Market Instruments (including corporate bonds rated AA+ & above, government securities issued by Central and/or State Government); Maximum 35, Minimum 0. Units issued by REITs and InvITs; Maximum 10, Minimum 0.10 Face Value 10",
     "benchmark": "CRISIL Credit Risk Debt B-II Index",
     "fund_managers": "Sushil Budhia",
     "annual_expense": {
@@ -68,5 +68,5 @@
     "Growth Plan Growth Option Growth",
     "Institutional Growth Plan Growth"
   ],
-  "extracted_at": "2026-04-18T05:11:26.433769+00:00"
+  "extracted_at": "2026-04-19T03:46:07.601172+00:00"
 }

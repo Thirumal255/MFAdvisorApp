@@ -13,22 +13,6 @@
       "Regular Plan - Reinvestment IDCW",
       "Regular - Payout IDCW"
     ],
-    "isins": [
-      "INF0QA701AV7",
-      "INF0QA701AX3",
-      "INF0QA701AW5",
-      "INF0QA701AS3",
-      "INF0QA701AU9",
-      "INF0QA701AT1"
-    ],
-    "amfi_codes": [
-      "153309",
-      "153306",
-      null,
-      "153307",
-      "153308",
-      null
-    ],
     "riskometer": "Very High",
     "investment_objective": "The objective of the Scheme is to generate long term capital appreciation by investing in equity and equity related securities of large cap, mid cap and small cap companies. However, there is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Equity and Equity Related Securities of following - 75% - 100% • Large Cap Companies - 25% - 50% • Mid Cap Companies - 25% -50% • Small Cap Companies - 25% - 50% Debt and Money Market Instruments* and units of mutual fund schemes - 0% - 25% Units issued by REITs and InvITs - 0% - 10% *Debt instruments shall be deemed to include securitized debts (excluding foreign securitized debt). Money market instruments will include commercial papers, commercial bills, Triparty REPO, Reverse Repo and equivalent and any other like instruments as specified by SEBI and Reserve Bank of India from time to time.",
@@ -38,7 +22,23 @@
       "Regular": "2.19",
       "Direct": "0.81"
     },
-    "exit_load": "Entry load – Nil Exit load: • if units redeemed / switched out within 6 months from allotment date: - Upto 10% of units held - Nil- Remaining 90% of units held - 1% of applicable NAV • if units redeemed/switched out after 6 months from allotment date - Nil Exit load is applicable for each purchase of units through Lumpsum / switch-in / Systematic Investment Plan (SIP) and Systematic Transfer Plan (STP). The Scheme will not levy exit load in case the timelines for rebalancing portfolio as stated in SEBI Master Circular for Mutual Funds dated June 27, 2024, is not complied with. The Trustee / AMC reserves the right to change the load structure any time in the future if they so deem fit on a prospective basis. The investor is requested to check the prevailing load structure of the scheme before investing."
+    "exit_load": "Entry load – Nil Exit load: • if units redeemed / switched out within 6 months from allotment date: - Upto 10% of units held - Nil- Remaining 90% of units held - 1% of applicable NAV • if units redeemed/switched out after 6 months from allotment date - Nil Exit load is applicable for each purchase of units through Lumpsum / switch-in / Systematic Investment Plan (SIP) and Systematic Transfer Plan (STP). The Scheme will not levy exit load in case the timelines for rebalancing portfolio as stated in SEBI Master Circular for Mutual Funds dated June 27, 2024, is not complied with. The Trustee / AMC reserves the right to change the load structure any time in the future if they so deem fit on a prospective basis. The investor is requested to check the prevailing load structure of the scheme before investing.",
+    "amfi_codes": [
+      "153309",
+      "153306",
+      "153306",
+      "153307",
+      "153308",
+      "153308"
+    ],
+    "isins": [
+      "INF0QA701AV7",
+      "INF0QA701AX3",
+      "INF0QA701AW5",
+      "INF0QA701AS3",
+      "INF0QA701AU9",
+      "INF0QA701AT1"
+    ]
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -48,5 +48,5 @@
     "Regular Plan - Reinvestment IDCW",
     "Regular - Payout IDCW"
   ],
-  "extracted_at": "2026-04-18T02:26:29.497504+00:00"
+  "extracted_at": "2026-04-19T02:11:59.068636+00:00"
 }

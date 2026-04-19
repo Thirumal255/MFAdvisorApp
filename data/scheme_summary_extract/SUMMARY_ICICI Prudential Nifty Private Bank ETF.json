@@ -8,15 +8,14 @@
     "fund_options": [
       "Growth"
     ],
-    "riskometer": "Very High\nActual expenses for the month ended October 31, 2025:\n 0.15%",
+    "riskometer": "Very High\nAs on October 31, 2025",
     "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely \ncorrespond to the total return of the underlying index subject to tracking errors.\nHowever, there can be no assurance or guarantee that the investment objective of the Scheme \nwould be achieved.",
     "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (Nifty Private \nBank Index) 95 = 100%\n• Units of Liquid schemes, Money Market Instruments (with maturity not exceeding 91 days), \nincluding TREPs , cash & cash equivalents. 0 = 5%",
     "benchmark": "NIFTY Private Bank TRI",
     "fund_managers": [
       "Ashwini Bharucha",
       "Nishit Patel",
-      "Ajaykumar Solanki",
-      "Venus Ahuja"
+      "Ajaykumar Solanki"
     ],
     "annual_expense": {
       "Direct": "0.15"
@@ -32,5 +31,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:13:43.549538+00:00"
+  "extracted_at": "2026-04-19T03:08:58.654995+00:00"
 }

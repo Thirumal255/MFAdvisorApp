@@ -10,7 +10,7 @@
     ],
     "riskometer": "Very High Risk",
     "investment_objective": "The investment objective of the Scheme is to provide investment returns that, before expenses, correspond to the total returns of the Securities as represented by the NIFTY100 Low Volatility 30 Index, subject to tracking errors.There is no assurance that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Securities covered by NIFTY100 Low Volatility 30 Index : 95% - 100%; Debt Securities & Money Market Instruments, units of Debt Schemes of Mutual Funds : 0% - 5% For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
+    "asset_allocation": "Securities covered by NIFTY100 Low Volatility 30 Index : 95% - 100%; Debt Securities & Money Market Instruments, units of Debt Schemes of Mutual Funds : 0% - 5%",
     "benchmark": "NIFTY100 Low Volatility 30 Index (TRI)",
     "fund_managers": "FM 1 - Mr. Abhishek Mor, FM 2 - Mr.Arun Agarwal",
     "annual_expense": {
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T03:48:43.705786+00:00"
+  "extracted_at": "2026-04-19T02:52:43.531434+00:00"
 }

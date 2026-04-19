@@ -16,16 +16,8 @@
     "asset_allocation": "Debt &Money Market Instruments 0-100.",
     "benchmark": "CRISIL Medium Duration Fund BIII Index",
     "fund_managers": [
-      {
-        "name": "Abhishek Sonthalia",
-        "type": "Primary",
-        "from_date": "06/02/2020"
-      },
-      {
-        "name": "Murthy Nagarajan",
-        "type": "Co Fund Manager",
-        "from_date": "06/02/2020"
-      }
+      "Abhishek Sonthalia",
+      "Murthy Nagarajan"
     ],
     "annual_expense": {
       "Regular": "1.39",
@@ -51,5 +43,5 @@
     "Tata Medium Term Fund Regular Plan - Growth",
     "Tata Medium Term Fund Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:54:03.523815+00:00"
+  "extracted_at": "2026-04-19T04:13:54.777110+00:00"
 }

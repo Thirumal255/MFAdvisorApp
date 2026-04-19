@@ -26,8 +26,8 @@
       "118511",
       "102108",
       "118512",
-      null,
-      null
+      "null",
+      "null"
     ],
     "riskometer": "Very High",
     "investment_objective": "The primary objective is to generate superior risk adjusted returns to investors in line with their chosen asset allocation.",
@@ -38,7 +38,7 @@
       "Regular": "0.0000",
       "Direct": "0.0000"
     },
-    "exit_load": "1"
+    "exit_load": "1% if redeemed within 1 year of allotment"
   },
   "fund_options_inferred": [
     "Regular - Growth",
@@ -48,5 +48,5 @@
     "Regular - IDCW Reinv.",
     "Direct - IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T03:31:55.614378+00:00"
+  "extracted_at": "2026-04-19T02:40:32.394627+00:00"
 }

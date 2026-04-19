@@ -14,21 +14,16 @@
     "benchmark": "Nifty MidSmallcap400 Momentum Quality 100 TRI (Total Return Index)",
     "fund_managers": "Ms. Ekta Gala & Mr. Akshay Udeshi",
     "annual_expense": {
+      "Regular": "0.65",
       "Direct": "0.06"
     },
     "exit_load": "If redeemed or switched out within 15 days from the date of allotment: 0.05%, If redeemed or switched out after 15 days from date of allotment: Nil",
     "amfi_codes": [
-      "006231",
-      "152634",
       "152645",
+      "152634",
       "152646",
       "152647",
-      "202412",
-      "202413",
-      "202414",
-      "202415",
-      "202521",
-      "500041"
+      "152648"
     ],
     "isins": [
       "INF769K01LN0",
@@ -43,5 +38,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T05:01:08.978691+00:00"
+  "extracted_at": "2026-04-19T03:38:50.527109+00:00"
 }

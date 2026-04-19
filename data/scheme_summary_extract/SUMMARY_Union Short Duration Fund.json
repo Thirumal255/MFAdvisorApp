@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "Union Short Duration Fund",
-    "fund_type": "An open-ended short-term debt scheme investing in instruments such that the Macaulay duration of the portfolio is between 1 Year to 3 Years. Please refer Page No. 20 of the SID for concept of Macaulay Duration. A high interest rate risk and moderate credit risk.",
+    "fund_type": "An open-ended short-term debt scheme investing in instruments such that the Macaulay duration of the portfolio is between 1Year to 3 Years. Please refer Page No. 20 of the SID for concept of Macaulay Duration. A high interest rate risk and moderatecredit risk.",
     "fund_options": [
       "Regular Plan - Growth Option",
       "Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal Option",
@@ -16,8 +16,8 @@
       "Direct Plan - Transfer of Income Distribution cum Capital Withdrawal Option"
     ],
     "riskometer": "Moderate Risk",
-    "investment_objective": "The Scheme is an actively managed Scheme with an investment objective to provide reasonable returns and liquidity by investing in a range of debt and money market instruments while maintaining the balance of safety, liquidity and returns. There is no assurance that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Debt and Money Market Instruments including Government Securities : 0%-100% of total assets Please refer the Scheme Information Document for more details.",
+    "investment_objective": "The Scheme is an actively managed Scheme with an investment objective to provide reasonable returns and liquidity byinvesting in a range of debt and money market instruments while maintaining the balance of safety, liquidity and returns. Thereis no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Debt and Money Market Instruments including Government Securities : 0%-100% of total assets Please refer the SchemeInformation Document for more details.",
     "benchmark": "CRISIL Short Duration Debt A-II Index",
     "fund_managers": [
       "Mr. Anindya Sarkar",
@@ -31,12 +31,8 @@
     "amfi_codes": [
       "153240",
       "153241",
-      null,
-      null,
       "153242",
-      "153243",
-      null,
-      null
+      "153243"
     ],
     "isins": [
       "INF582M01KK1",
@@ -59,5 +55,5 @@
     "Direct Plan - Payout of Income Distribution cum Capital Withdrawal Option",
     "Direct Plan - Transfer of Income Distribution cum Capital Withdrawal Option"
   ],
-  "extracted_at": "2026-04-18T06:04:25.087436+00:00"
+  "extracted_at": "2026-04-19T04:22:00.682570+00:00"
 }

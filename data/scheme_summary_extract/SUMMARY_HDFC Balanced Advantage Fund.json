@@ -17,7 +17,14 @@
     "investment_objective": "To provide long term capital appreciation / income from a dynamic mix of equity and debt investments. There is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Equity and Equity related instruments# : 65%-100%; Debt Securities (including securitized debt) and money market instruments :0% - 35%; Units issued by InvITs : 0% -10%; Non-convertible preference shares: 0% -10%. #Unhedged equity exposure shall be limited to 90% of the portfolio value. Unhedged equity exposure means exposure to equity shares alone without a corresponding equity derivative exposure. For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
     "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
-    "fund_managers": "FM 1 - Mr.Gopal Agrawal, FM 2 - Mr. Srinivasan Ramamurthy, FM 3 - Ms. Nandita Menezes , FM 4 – Mr. Arun Agarwal,FM 5 - AnilBamboli, FM 6 - Mr. Dhruv Muchhal",
+    "fund_managers": [
+      "Mr.Gopal Agrawal",
+      "Mr. Srinivasan Ramamurthy",
+      "Ms. Nandita Menezes",
+      "Mr. Arun Agarwal",
+      "Anil Bamboli",
+      "Mr. Dhruv Muchhal"
+    ],
     "annual_expense": {
       "Regular": "1.35",
       "Direct": "0.76"
@@ -46,5 +53,5 @@
     "DIRECT PLAN - IDCW REINVESTMENT OPTION",
     "DIRECT PLAN - GROWTH OPTION"
   ],
-  "extracted_at": "2026-04-18T03:40:15.807976+00:00"
+  "extracted_at": "2026-04-19T02:46:47.461512+00:00"
 }

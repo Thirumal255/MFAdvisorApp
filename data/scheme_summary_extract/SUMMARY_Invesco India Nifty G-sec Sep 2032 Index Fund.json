@@ -11,28 +11,28 @@
       "Regular Plan - IDCW Payout",
       "Regular Plan - Growth"
     ],
-    "riskometer": "Moderate",
-    "investment_objective": "To generate returns which correspond (before fees and expenses) to the performance of Nifty G-sec Sep 2032 Index, subject totracking diﬀerence. There is no assurance that the investment objective of the Scheme will be achieved",
-    "asset_allocation": "Government securities, TREPS on Government securities/Treasury Bills: Min 95% Max 100%. Money Market Instruments : Min0% Max 5%",
-    "benchmark": "Nifty G-sec Sep 2032 Index",
-    "fund_managers": "Krishna Cheemalapati, Vikas Garg",
-    "annual_expense": {
-      "Regular": "0.2900",
-      "Direct": "0.1400"
-    },
-    "exit_load": "If Units allotted are redeemed within 30 days from the date of allotment - 0.25%. For any redemption after 30days from thedate of allotment - Nil. If units are switched between the plans - Nil.",
+    "isins": [
+      "INF205KA1817",
+      "INF205KA1825",
+      "INF205KA1809",
+      "INF205KA1791"
+    ],
     "amfi_codes": [
       "151597",
       "151596",
       "151595",
       "151594"
     ],
-    "isins": [
-      "INF205KA1817",
-      "INF205KA1825",
-      "INF205KA1809",
-      "INF205KA1791"
-    ]
+    "riskometer": "Moderate",
+    "investment_objective": "To generate returns which correspond (before fees and expenses) to the performance of Nifty G-sec Sep 2032 Index, subject totracking diﬀerence. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Government securities, TREPS on Government securities/Treasury Bills: Min 95% Max 100%. Money Market Instruments : Min0% Max 5%",
+    "benchmark": "Nifty G-sec Sep 2032 Index",
+    "fund_managers": "Krishna Cheemalapati - Primary, Vikas Garg - Comanage",
+    "annual_expense": {
+      "Regular": "0.2900",
+      "Direct": "0.1400"
+    },
+    "exit_load": "If Units allotted are redeemed within 30 days from the date of allotment - 0.25%. For any redemption after 30days from thedate of allotment - Nil. If units are switched between the plans - Nil."
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -40,5 +40,5 @@
     "Regular Plan - IDCW Payout",
     "Regular Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T04:24:33.504182+00:00"
+  "extracted_at": "2026-04-19T03:15:03.431891+00:00"
 }

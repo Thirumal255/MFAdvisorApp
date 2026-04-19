@@ -51,13 +51,7 @@
       "145598",
       "145590",
       "145592",
-      "145594",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "145594"
     ],
     "riskometer": "Moderate Risk",
     "investment_objective": "To generate reasonable returns commensurate with the risk taken by active duration management of the portfolio. The Scheme would be investing in debt instruments including but not limited to bonds, debentures, government securities and money market instruments over various maturity periods",
@@ -88,5 +82,5 @@
     "Regular Plan - Weekly IDCW - Reinvestment",
     "Regular Plan - Weekly IDCW - Payout"
   ],
-  "extracted_at": "2026-04-18T03:35:41.687549+00:00"
+  "extracted_at": "2026-04-19T02:43:13.060722+00:00"
 }

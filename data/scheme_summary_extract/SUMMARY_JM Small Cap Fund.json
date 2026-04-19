@@ -22,7 +22,7 @@
       "Regular": "2.33",
       "Direct": "0.70"
     },
-    "exit_load": "In respect of each purchase / switch-in of Units, an Exit Load of 1.00% is payable if Units are redeemed/ switched-out within 180 days from the date of allotment, No Exit Load is payable if Units are redeemed / switched-out after 180 days from the date of allotment, No Entry / Exit Load shall be levied on units allotted on Reinvestment of Income Distribution cum Capital Withdrawal Option, In respect of Systematic Transactions such as SIP, STP, SWP, Exit Load, if any, prevailing on the date of registration / enrolment for SIP/STP/SWP shall be levied for all the opted Installments.",
+    "exit_load": "In respect of each purchase / switch-in of Units, an Exit Load of 1.00% is payable if Units are redeemed/ switched-out within 180 days from the date of allotment, No Exit Load is payable if Units are redeemed / switched-out after 180 days from the date of allotment, No Entry / Exit Load shall be levied on units allotted on Reinvestment of Income Distribution cum Capital Withdrawal Option, In respect of Systematic Transactions such as SIP,STP, SWP, Exit Load, if any, prevailing on the date of registration / enrolment for SIP/STP/SWP shall be levied for all the opted Installments.",
     "amfi_codes": [
       "152615",
       "152614",
@@ -48,5 +48,5 @@
     "Regular - IDCW Payout",
     "Regular - IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:31:25.341058+00:00"
+  "extracted_at": "2026-04-19T03:19:56.573905+00:00"
 }

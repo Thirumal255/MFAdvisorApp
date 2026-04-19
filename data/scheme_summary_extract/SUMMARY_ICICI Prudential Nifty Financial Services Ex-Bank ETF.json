@@ -8,7 +8,7 @@
     "fund_options": [
       "Growth"
     ],
-    "riskometer": "Very High\nAs on September 30, 2025",
+    "riskometer": "Very High As on September 30, 2025",
     "investment_objective": "The investment objective of the scheme is to provide returns before expenses that correspond to the total return of the underlying index subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved",
     "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (Nifty Financial Services Ex-Bank Index) = 95 % - 100%\n• Money market instruments including TREPs* = 0% - 5%",
     "benchmark": "Nifty Financial Services Ex-Bank TRI",
@@ -31,5 +31,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:12:06.843867+00:00"
+  "extracted_at": "2026-04-19T03:07:54.583148+00:00"
 }

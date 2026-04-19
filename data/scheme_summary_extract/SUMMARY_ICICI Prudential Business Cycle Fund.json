@@ -6,10 +6,10 @@
     "fund_name": "ICICI Prudential Business Cycle Fund",
     "fund_type": "Open Ended",
     "fund_options": [
-      "Direct Plan -  Growth",
-      "Direct Plan -  IDCW",
-      "Regular Plan -  Growth",
-      "Regular Plan -  IDCW"
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW"
     ],
     "isins": [
       "INF109KC1P24",
@@ -44,10 +44,10 @@
     "exit_load": "1 % of applicable Net Asset Value If the amount sought to be redeemed or switch out within 1 months from allotment. Nil If the amount sought to be redeemed or switched out more than 1 months."
   },
   "fund_options_inferred": [
-    "Direct Plan -  Growth",
-    "Direct Plan -  IDCW",
-    "Regular Plan -  Growth",
-    "Regular Plan -  IDCW"
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW"
   ],
-  "extracted_at": "2026-04-18T04:02:15.056510+00:00"
+  "extracted_at": "2026-04-19T03:01:36.700250+00:00"
 }

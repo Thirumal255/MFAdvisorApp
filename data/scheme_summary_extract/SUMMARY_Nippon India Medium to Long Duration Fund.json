@@ -80,7 +80,7 @@
       "Regular": "1.53",
       "Direct": "0.67"
     },
-    "exit_load": "0.25%, if redeemed or switched out on or before completion of 15 days from the date of allotment of units.Nil, thereafter."
+    "exit_load": "0.25, if redeemed or switched out on or before completion of 15 days from the date of allotment of units. Nil, thereafter."
   },
   "fund_options_inferred": [
     "Direct Plan Growth Plan-Bonus Option Bonus",
@@ -104,5 +104,5 @@
     "Quarterly IDCW Plan Payout",
     "Quarterly IDCW Plan Reinvestment"
   ],
-  "extracted_at": "2026-04-18T05:16:41.562474+00:00"
+  "extracted_at": "2026-04-19T03:49:37.177047+00:00"
 }

@@ -36,10 +36,10 @@
       "INF666M01493",
       "INF666M01071",
       "INF666M01055",
-      null,
-      null,
-      null,
-      null
+      "INF666M01477",
+      "INF666M01527",
+      "INF666M01030",
+      "INF666M01089"
     ],
     "amfi_codes": [
       "119136",
@@ -88,5 +88,5 @@
     "Existing Plan - Weekly IDCW - Reinvestment",
     "Existing Plan - Weekly IDCW - Payout"
   ],
-  "extracted_at": "2026-04-18T03:36:17.109680+00:00"
+  "extracted_at": "2026-04-19T02:43:44.191456+00:00"
 }

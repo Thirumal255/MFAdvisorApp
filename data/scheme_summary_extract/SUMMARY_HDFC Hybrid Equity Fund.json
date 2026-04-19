@@ -17,16 +17,12 @@
     "investment_objective": "The investment objective of the Scheme is to generate capital appreciation / income from a portfolio,predominantly of equity &equity related instruments.The Scheme will also invest in debt and money market instruments.There is no assurance that theinvestment objective of the Scheme will be achieved.",
     "asset_allocation": "Equity and Equity Related Instruments: 65%- 80%; Debt Securities (including securitised debt) and money market instruments:20%- 35%; Units issued by InvITs: 0%- 10%; Non-convertible preference shares: 0%- 10%",
     "benchmark": "NIFTY 50 Hybrid Composite Debt 65:35 Index (Total Returns Index)",
-    "fund_managers": [
-      "Mr. Srinivasan Ramamurthy",
-      "Mr. Dhruv Muchhal",
-      "Mr. Anupam Joshi"
-    ],
+    "fund_managers": "FM 1 - Mr. Srinivasan Ramamurthy, FM 2 - Mr. Dhruv Muchhal, FM 3 - Mr. Anupam Joshi",
     "annual_expense": {
       "Regular": "1.69",
       "Direct": "1.02"
     },
-    "exit_load": "Exit load of 1.00% is payable if Units are redeemed / switched-out within 1 year from the date of allotment of units.No Exit Load is payable if Units are redeemed/ switched-out after 1 year from the date of allotment.",
+    "exit_load": "In respect of each purchase / switch-in of Units, upto 15% of the units may be redeemed without any exit load from the date ofallotment. Any redemption in excess of the above limit shall be subject to the following exit load: Exit load of 1.00% is payable ifUnits are redeemed / switched-out within 1 year from the date of allotment of units.No Exit Load is payable if Units are redeemed/ switched-out after 1 year from the date of allotment.",
     "amfi_codes": [
       "102947",
       "119061",
@@ -52,5 +48,5 @@
     "DIRECT PLAN - GROWTH OPTION",
     "DIRECT PLAN - IDCW REINVESTMENT OPTION"
   ],
-  "extracted_at": "2026-04-18T03:43:47.901614+00:00"
+  "extracted_at": "2026-04-19T02:49:18.223706+00:00"
 }

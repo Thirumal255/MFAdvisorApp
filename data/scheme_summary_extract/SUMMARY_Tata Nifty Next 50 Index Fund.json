@@ -22,7 +22,7 @@
       "Regular": "1.07",
       "Direct": "0.22"
     },
-    "exit_load": "0.25% of the applicable NAV, if redeemed on or before 15 days from the date of allotment.",
+    "exit_load": "0.25",
     "amfi_codes": [
       "153855",
       "153856",
@@ -48,5 +48,5 @@
     "Regular Plan Growth",
     "Direct Plan Growth"
   ],
-  "extracted_at": "2026-04-18T05:55:49.333959+00:00"
+  "extracted_at": "2026-04-19T04:15:18.623255+00:00"
 }

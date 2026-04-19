@@ -25,10 +25,11 @@
     "exit_load": "In respect of each purchase of Units • Upto 10% of the Units may be redeemed without any exit load within 1 year from the date of allotment*. • Any redemption in excess of the above limit shall be subject to the following exit load: o 1.00% - if redeemed on or before 1 year from the date of allotment o Nil - if redeemed after 1 year from the date of allotment * This condition is applicable on a yearly basis. In case of multiple transactions, Units will be redeemed on First In First Out (FIFO) basis the date of allotment of such units. If the limit is not availed during a year, it shall not be clubbed or carried forward to the next year.",
     "amfi_codes": [
       "150480",
-      "150481",
+      "150479",
       "150478",
       "150481",
-      "150478"
+      "150478",
+      "150479"
     ],
     "isins": [
       "INF090I01WN2",
@@ -47,5 +48,5 @@
     "Regular - IDCW Reinv.",
     "Direct - IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T03:29:27.210746+00:00"
+  "extracted_at": "2026-04-19T02:39:09.704395+00:00"
 }

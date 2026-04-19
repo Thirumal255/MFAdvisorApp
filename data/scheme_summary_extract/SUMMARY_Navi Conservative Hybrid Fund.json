@@ -56,7 +56,7 @@
       "10",
       "1",
       "10",
-      "1",
+      "<=1",
       "NA",
       "NA",
       "999999999999999",
@@ -88,7 +88,7 @@
       }
     ],
     "annual_expense": {
-      "Regular": "2",
+      "Regular": "10",
       "Direct": "1",
       "Retail": "10"
     },
@@ -116,5 +116,5 @@
     "Navi Conservative Hybrid Fund - Quarterly IDCW",
     "Navi Conservative Hybrid Fund - Quarterly IDCW"
   ],
-  "extracted_at": "2026-04-18T05:08:52.035086+00:00"
+  "extracted_at": "2026-04-19T03:44:16.604303+00:00"
 }

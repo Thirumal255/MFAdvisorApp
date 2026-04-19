@@ -14,13 +14,10 @@
       "Direct Plan - IDCW Reinvestment"
     ],
     "riskometer": "Very High",
-    "investment_objective": "The investment objective of the scheme is to provide returns, before expenses, that are in line with the performance of Nifty500 Multicap Infrastructure 50:30:20 Index (TRI), subject to tracking error. However ,there is no assurance or guarantee that the investment objective of the scheme will be achieved. The scheme does not assure or guarantee any returns.",
-    "asset_allocation": "Securities covered by Nifty500 Multicap Infrastructure 50:30:20 Index(95-100),Debt & Money Market Instruments^ including units of Mutual Funds (0-5).",
+    "investment_objective": "The investment objective of the scheme is to provide returns, before expenses, that are in line with the performance ofNifty500 Multicap Infrastructure 50:30:20 Index (TRI), subject to tracking error. However ,there is no assurance or guaranteethat the investment objective of the scheme will be achieved. The scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Securities covered by Nifty500 Multicap Infrastructure 50:30:20 Index(95-100),Debt & Money Market Instruments^ includingunits of Mutual Funds (0-5).",
     "benchmark": "Nifty 500 Multicap Infrastructure 50:30:20 Index (TRI)",
-    "fund_managers": [
-      "Nitin Sharma - Primary",
-      "Rakesh Prajapati - Assistant Fund Manager"
-    ],
+    "fund_managers": "1. Nitin Sharma , 2. Rakesh Prajapati",
     "annual_expense": {
       "Regular": "1.11",
       "Direct": "0.48"
@@ -51,5 +48,5 @@
     "Direct Plan - IDCW Payout",
     "Direct Plan - IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T05:56:32.426146+00:00"
+  "extracted_at": "2026-04-19T04:15:45.867627+00:00"
 }

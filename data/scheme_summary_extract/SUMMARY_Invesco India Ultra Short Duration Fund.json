@@ -63,7 +63,7 @@
     "investment_objective": "To primarily generate accrual income by investing in a portfolio of short term Money Market and Debt Instruments. There is noassurance that the investment objective of the Scheme will be achieved",
     "asset_allocation": "Debt and Money Market Instruments: Min.0% Max. 100%",
     "benchmark": "Nifty Ultra Short Duration Debt Index A-I",
-    "fund_managers": "Krishna Cheemalapati, Vikas Garg",
+    "fund_managers": "Krishna Cheemalapati - Primary, Vikas Garg - Comanage",
     "annual_expense": {
       "Regular": "0.89",
       "Direct": "0.24"
@@ -88,5 +88,5 @@
     "Direct Plan - Annual IDCW Reinvestment",
     "Direct Plan - Daily IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:25:17.409799+00:00"
+  "extracted_at": "2026-04-19T03:15:35.458390+00:00"
 }

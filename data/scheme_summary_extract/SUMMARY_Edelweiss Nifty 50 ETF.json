@@ -9,12 +9,10 @@
       "Growth"
     ],
     "riskometer": "Very High",
-    "investment_objective": "The investment objective of the scheme is to generate returns that are in line with the performance of the Nifty 50 Total Return Index, subject to tracking errors. There is no assurance or guarantee that the investment objective of the scheme will be achieved.",
+    "investment_objective": "The investment objective of the scheme is to generate returns that are in line with the performance of the Nifty 50 Total Return Index, subject to tracking errors.\nThere is no assurance or guarantee that the investment objective of the scheme will be achieved.",
     "asset_allocation": "1. Securities covered by Nifty 50 index - 95 - 100%\n2. Money Market Instruments#, cash and cash equivalent and/or units of Liquid scheme - 0 - 5%",
     "benchmark": "Nifty 50 TRI",
-    "fund_managers": [
-      "Mr. Bhavesh Jain"
-    ],
+    "fund_managers": "Mr. Bhavesh Jain",
     "annual_expense": {
       "Direct": "1.00"
     },
@@ -29,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T03:25:51.979372+00:00"
+  "extracted_at": "2026-04-19T02:37:15.434615+00:00"
 }

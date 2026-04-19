@@ -31,9 +31,9 @@
     ],
     "riskometer": "Very High",
     "investment_objective": "To provide long-term capital appreciation by investing predominantly in units of Invesco Global Consumer Trends Fund, an overseas fund which invests in an international portfolio of companies predominantly engaged in the design, production or distribution of products and services related to the discretionary consumer needs of individuals. There is no assurance that the investment objective of the Scheme will be achieved",
-    "asset_allocation": "Shares of Invesco Global Consumer Trends Fund : Min 95% Max 100%, Debt and money market securities / Units of debt and liquid schemes of Invesco Mutual Fund: Min 0% Max 5%",
+    "asset_allocation": "Shares of Invesco Global Consumer Trends Fund : Min 95% Max 100% Debt and money market securities / Units of debt and liquid schemes of Invesco Mutual Fund: Min 0% Max 5%",
     "benchmark": "MSCI World Consumer Discretionary Index - Net Total Return",
-    "fund_managers": "Mr. Sagar Gandhi - Primary",
+    "fund_managers": "Mr. Sagar Gandhi",
     "annual_expense": {
       "Regular": "1.5400",
       "Direct": "0.6000"
@@ -48,5 +48,5 @@
     "Regular Plan - IDCW Reinvestment",
     "Regular Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T04:19:23.120083+00:00"
+  "extracted_at": "2026-04-19T03:12:16.832855+00:00"
 }

@@ -14,7 +14,6 @@
     "benchmark": "Domestic Price of Physical Gold",
     "fund_managers": "Mr. Sachin Wankhede",
     "annual_expense": {
-      "Regular": "0.54",
       "Direct": "0.00"
     },
     "exit_load": "Nil",
@@ -28,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T02:12:26.120614+00:00"
+  "extracted_at": "2026-04-19T01:59:12.390975+00:00"
 }

@@ -12,7 +12,7 @@
     "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, closely correspond to the total returns of the securities as represented by the underlying index, subject to tracking error. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
     "asset_allocation": "Securities covered by underlying index : 95-100% (Medium to High) Debt/Cash/Money Market instruments including Triparty Repo on Government Securities or treasury bill: 0-5% (Low)",
     "benchmark": "BSE Sensex Next 50 TRI",
-    "fund_managers": "Mr. Sharwan Kumar Goyal FM 1,Mr. Ayush Jain FM 2",
+    "fund_managers": "Mr. Sharwan Kumar Goyal FM 1,Mr. Ayush Jain FM 2,Not Applicable FM 3,Not Applicable FM 4",
     "annual_expense": {
       "Direct": "0.0022"
     },
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T06:04:57.145148+00:00"
+  "extracted_at": "2026-04-19T04:22:30.283303+00:00"
 }

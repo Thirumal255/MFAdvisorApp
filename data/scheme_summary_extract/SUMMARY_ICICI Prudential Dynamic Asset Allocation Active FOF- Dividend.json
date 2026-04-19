@@ -11,24 +11,6 @@
       "Growth",
       "IDCW"
     ],
-    "isins": [
-      "INF109K01X16",
-      "INF109K01W90",
-      "INF109K01X08",
-      "INF109K01837",
-      "INF109K01FJ9",
-      "INF109K01845"
-    ],
-    "amfi_codes": [
-      "120679",
-      "120680",
-      "102137",
-      "102138",
-      "P8157",
-      "P8158",
-      "PAMP",
-      "PAMPD"
-    ],
     "riskometer": "Moderately High",
     "investment_objective": "The primary objective of the Scheme is to generate capital appreciation primarily from a portfolio of equity, debt, and gold schemes accessed through the diversified investment styles of underlying schemes. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
     "asset_allocation": "• Equity oriented schemes 0% - 100% High\n• Debt-oriented schemes 0% - 100% Low To Medium\n• Gold ETFs/ schemes 0% - 50% Medium to High\n• Money Market Instruments (with maturity not exceeding 91 days), including Tri-Party Repo, cash & cash equivalents 0% - 5% Low To Medium.",
@@ -46,7 +28,21 @@
       "Regular": "1.32",
       "Direct": "0.21"
     },
-    "exit_load": "If units purchased or switched in from another scheme of the Fund are redeemed or switched out up to 10% of the units (the limit) purchased or switched within 1 year from the date of allotment – Nil\nIf units purchased or switched in from another scheme of the Fund are redeemed or switched out in excess of the limit within 1 Year from the date of allotment - 1% of the applicable NAV\nIf units purchased or switched in from another scheme of the Fund are redeemed or switched out after 1 Year from the date of allotment - Nil."
+    "exit_load": "If units purchased or switched in from another scheme of the Fund are redeemed or switched out up to 10% of the units (the limit) purchased or switched within 1 year from the date of allotment – Nil\nIf units purchased or switched in from another scheme of the Fund are redeemed or switched out in excess of the limit within 1 Year from the date of allotment - 1% of the applicable NAV\nIf units purchased or switched in from another scheme of the Fund are redeemed or switched out after 1 Year from the date of allotment - Nil.",
+    "amfi_codes": [
+      "120679",
+      "120680",
+      "102137",
+      "102138"
+    ],
+    "isins": [
+      "INF109K01X16",
+      "INF109K01W90",
+      "INF109K01X08",
+      "INF109K01837",
+      "INF109K01FJ9",
+      "INF109K01845"
+    ]
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -54,5 +50,5 @@
     "Growth",
     "IDCW"
   ],
-  "extracted_at": "2026-04-18T04:04:04.696220+00:00"
+  "extracted_at": "2026-04-19T03:02:52.930927+00:00"
 }

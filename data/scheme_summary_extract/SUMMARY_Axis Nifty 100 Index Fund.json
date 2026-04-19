@@ -15,7 +15,7 @@
     "investment_objective": "To provide returns before expenses that closely corresponds to the total returns of the NIFTY 100 subject to tracking errors.However, there can be no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Equity & Equity related instruments comprising Nifty 100 Index - (95%-100%), Debt & Money Market Instruments - (0%-5%)",
     "benchmark": "NIFTY 100 TRI",
-    "fund_managers": "Mr. Karthik Kumar - Comanage/Domestic Equities",
+    "fund_managers": "Mr. Karthik Kumar",
     "annual_expense": {
       "Regular": "0.92",
       "Direct": "0.21"
@@ -42,5 +42,5 @@
     "Regular IDCW",
     "Regular Growth"
   ],
-  "extracted_at": "2026-04-18T02:22:50.513351+00:00"
+  "extracted_at": "2026-04-19T02:08:33.913360+00:00"
 }

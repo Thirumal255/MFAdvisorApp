@@ -23,10 +23,10 @@
       "101144",
       "101143"
     ],
-    "riskometer": "Very High\nAs on August 31, 2025",
-    "investment_objective": "To generate capital appreciation for investors by investing predominantly in equity and \nequity related instruments and income by investing across other asset classes. \nHowever, there can be no assurance or guarantee that the investment objective of the \nScheme would be achieved.",
-    "asset_allocation": "• Equity & Equity related instruments 65%-100% \n• Debt and Money Market Instruments including Units of Debt oriented mutual fund \nschemes* 10%-35%\n• Units of Gold ETFs/Units of Silver ETFs/Exchange Traded Commodity Derivatives 10%-\n30% \n• Preference shares 0%-10% \n• Units issued by INVITs 0%-10%",
-    "benchmark": "Nifty 200 TRI (65%) + Nifty Composite Debt Index (25%) + Domestic Price of Gold (6%) + \nDomestic Price of Silver (1%) + iCOMDEX Composite Index (3%) (Benchmark)",
+    "riskometer": "Very High",
+    "investment_objective": "To generate capital appreciation for investors by investing predominantly in equity and equity related instruments and income by investing across other asset classes. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Equity & Equity related instruments 65%-100% \n• Debt and Money Market Instruments including Units of Debt oriented mutual fund schemes* 10%-35%\n• Units of Gold ETFs/Units of Silver ETFs/Exchange Traded Commodity Derivatives 10%-30% \n• Preference shares 0%-10% \n• Units issued by INVITs 0%-10%",
+    "benchmark": "Nifty 200 TRI (65%) + Nifty Composite Debt Index (25%) + Domestic Price of Gold (6%) + Domestic Price of Silver (1%) + iCOMDEX Composite Index (3%) (Benchmark)",
     "fund_managers": [
       "Sankaran Naren",
       "Manish Banthia",
@@ -41,7 +41,7 @@
       "Regular": "1.33",
       "Direct": "0.64"
     },
-    "exit_load": "Upto 30% of units within 1 Year from the date of allotment - Nil\nMore than 30% of units within 1 Year from the date of allotment - 1% of applicable Net \nAsset Value (NAV) After 1 Year from the date of allotment"
+    "exit_load": "Upto 30% of units within 1 Year from the date of allotment - Nil More than 30% of units within 1 Year from the date of allotment - 1% of applicable Net Asset Value (NAV) After 1 Year from the date of allotment"
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -49,5 +49,5 @@
     "Growth",
     "IDCW"
   ],
-  "extracted_at": "2026-04-18T04:09:43.111924+00:00"
+  "extracted_at": "2026-04-19T03:06:21.366574+00:00"
 }

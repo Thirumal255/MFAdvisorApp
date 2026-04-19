@@ -40,16 +40,8 @@
     "asset_allocation": "1. Stocks comprising the MSCI India Domestic IMI and World Healthcare Select Index - 95-100%\n2. Debt and Money Market Instruments/ units of Liquid Mutual Fund - 0-5%",
     "benchmark": "MSCI India Domestic & World Healthcare 45 Index",
     "fund_managers": [
-      {
-        "name": "Mr. Bhavesh Jain",
-        "type": "Co-Manage",
-        "from_date": "01/Oct/2021"
-      },
-      {
-        "name": "Mr. Amit Vora (for investments in foreign securities)",
-        "type": "Co-Manage",
-        "from_date": "26/Oct/2020"
-      }
+      "Mr. Bhavesh Jain",
+      "Mr. Amit Vora (for investments in foreign securities)"
     ],
     "annual_expense": {
       "Regular": "1.05",
@@ -67,5 +59,5 @@
     "Regular Plan - IDCW Option - Reinvestment",
     "Regular Plan - IDCW Option - Transfer"
   ],
-  "extracted_at": "2026-04-18T03:24:51.897140+00:00"
+  "extracted_at": "2026-04-19T02:36:46.827810+00:00"
 }

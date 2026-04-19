@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "DSP Nifty 50 Equal Weight ETF",
-    "fund_type": "An open ended scheme replicating/ tracking NIFTY50 Equal Weight Index",
+    "fund_type": "ETF",
     "fund_options": [
       "Growth"
     ],
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T03:13:47.683503+00:00"
+  "extracted_at": "2026-04-19T02:30:25.197242+00:00"
 }

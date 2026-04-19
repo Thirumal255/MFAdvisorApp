@@ -19,7 +19,7 @@
       "Venus Ahuja"
     ],
     "annual_expense": {
-      "Regular": "0.15"
+      "Direct": "0.15"
     },
     "exit_load": null,
     "amfi_codes": [
@@ -32,5 +32,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:01:52.266088+00:00"
+  "extracted_at": "2026-04-19T03:01:21.824885+00:00"
 }

@@ -8,7 +8,7 @@
     "fund_options": [
       "Growth"
     ],
-    "riskometer": "Very High\nAs on October 31, 2025",
+    "riskometer": "Very High",
     "investment_objective": "The investment objective of the Scheme is to provide investment returns that, before expenses, closely correspond to the total returns of the securities as represented by the BSE SENSEX. However, the performance of the Scheme may differ from that of the underlying index due to tracking error. There can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "• Securities comprising the BSE SENSEX 95% = 100%\n• Money Market Instruments having residual maturity upto 91 days 0% = 5%",
     "benchmark": "BSE SENSEX TRI",
@@ -32,5 +32,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:01:57.253782+00:00"
+  "extracted_at": "2026-04-19T03:01:25.109909+00:00"
 }

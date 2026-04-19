@@ -20,7 +20,10 @@
       "Darshil Dedhia",
       "Manasvi Shah"
     ],
-    "annual_expense": {},
+    "annual_expense": {
+      "Regular": "1",
+      "Direct": "0.86"
+    },
     "exit_load": "Nil",
     "amfi_codes": [
       "P9491"
@@ -35,5 +38,5 @@
     "Regular Plan - Growth",
     "Regular Plan - IDCW"
   ],
-  "extracted_at": "2026-04-18T04:16:30.175606+00:00"
+  "extracted_at": "2026-04-19T03:10:40.581476+00:00"
 }

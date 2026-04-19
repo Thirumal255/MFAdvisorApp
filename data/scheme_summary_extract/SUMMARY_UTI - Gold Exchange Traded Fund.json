@@ -12,7 +12,7 @@
     "investment_objective": "The investment objective of the fund is to endeavour to provide returns that, before expenses, closely track the performanceand yield of Gold. However, the performance of the scheme may diﬀer from that of the underlying asset due to trackingerror. There can be no assurance or guarantee that the investment objective of the UTI Gold ETF will be achieved.",
     "asset_allocation": "Gold bullion and Gold Related Instruments #: 95-100% (Medium) Money Market instruments and other debt securities: 0-5%(Low) #Gold related instruments that may be permitted by SEBI from time to time",
     "benchmark": "Price of Gold",
-    "fund_managers": "Mr. Sharwan Kumar Goyal FM 1, Mr. Ayush Jain FM 2",
+    "fund_managers": "Mr. Sharwan Kumar Goyal FM 1, Mr. Ayush Jain FM 2,Not Applicable FM 3,Not Applicable FM 4",
     "annual_expense": {
       "Direct": "0.00"
     },
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T06:06:38.702536+00:00"
+  "extracted_at": "2026-04-19T04:24:07.973153+00:00"
 }

@@ -28,12 +28,12 @@
     "amfi_codes": [
       "153573",
       "153574",
-      null,
-      null,
+      "153573",
+      "153574",
       "153575",
       "153576",
-      null,
-      null
+      "153575",
+      "153576"
     ],
     "riskometer": "Moderate Risk",
     "investment_objective": "The objective of the Scheme is to provide income over medium to long term by investing in units of Arbitrage Fund and Debt Funds. However, there is no assurance that the investment objective of the Scheme will be achieved.",
@@ -60,5 +60,5 @@
     "Direct Plan - Payout of Income Distribution cum Capital Withdrawal Option",
     "Direct Plan - Transfer of Income Distribution cum Capital Withdrawal Option"
   ],
-  "extracted_at": "2026-04-18T06:02:35.981096+00:00"
+  "extracted_at": "2026-04-19T04:20:35.099160+00:00"
 }

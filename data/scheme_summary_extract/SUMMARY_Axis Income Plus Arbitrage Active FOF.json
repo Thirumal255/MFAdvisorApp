@@ -17,32 +17,8 @@
       "Regular Growth",
       "Regular Half Yearly IDCW",
       "Regular Quarterly IDCW",
-      "RegularPlan",
+      "Regular Plan",
       "Regular IDCW"
-    ],
-    "riskometer": "Moderate",
-    "investment_objective": "To generate optimal returns over medium term by investing primarily in debt oriented mutual fund schemes and arbitragefunds. There can be no assurance that the investment objective of the Scheme will be achieved",
-    "asset_allocation": "Units of Mutual Fund Schemes - (95%-100%) Of which: Units of debt oriented mutual fund schemes - (50%-65%) Units ofarbitrage funds - (35%-50%) Money Market Instruments - (0%-5%)",
-    "benchmark": "65% NIFTY Composite Debt Index +35% Nifty 50 Arbitrage TRI",
-    "fund_managers": "Mr. Devang Shah, Mr. Hardik Shah, Mr. Anagha Darade and Mr. Karthik Kumar",
-    "annual_expense": {
-      "Regular": "0.45",
-      "Direct": "0.05"
-    },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "147905",
-      "147895",
-      "147889",
-      "147894",
-      "147891",
-      "147892",
-      "147893",
-      "147898",
-      "147890",
-      "147897",
-      "147888",
-      "147896"
     ],
     "isins": [
       "INF846K01V73",
@@ -67,7 +43,31 @@
       "INF846K01V99",
       "INF846K01W15",
       "INF846K01V40"
-    ]
+    ],
+    "amfi_codes": [
+      "147905",
+      "147895",
+      "147889",
+      "147894",
+      "147891",
+      "147892",
+      "147893",
+      "147898",
+      "147890",
+      "147897",
+      "147888",
+      "147896"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate optimal returns over medium term by investing primarily in debt oriented mutual fund schemes and arbitrage funds. There can be no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Units of Mutual Fund Schemes - (95%-100%) Of which: Units of debt oriented mutual fund schemes - (50%-65%) Units of arbitrage funds - (35%-50%) Money Market Instruments - (0%-5%)",
+    "benchmark": "65% NIFTY Composite Debt Index +35% Nifty 50 Arbitrage TRI",
+    "fund_managers": "Mr. Devang Shah, Mr. Hardik Shah, Mr. Anagha Darade and Mr. Karthik Kumar",
+    "annual_expense": {
+      "Regular": "0.45",
+      "Direct": "0.05"
+    },
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "Regular Annual IDCW",
@@ -81,8 +81,8 @@
     "Regular Growth",
     "Regular Half Yearly IDCW",
     "Regular Quarterly IDCW",
-    "RegularPlan",
+    "Regular Plan",
     "Regular IDCW"
   ],
-  "extracted_at": "2026-04-18T02:21:42.500158+00:00"
+  "extracted_at": "2026-04-19T02:07:29.581824+00:00"
 }

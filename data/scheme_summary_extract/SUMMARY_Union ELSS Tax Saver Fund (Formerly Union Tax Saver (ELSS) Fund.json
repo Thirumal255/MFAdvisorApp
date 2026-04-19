@@ -11,18 +11,6 @@
       "Direct Plan Growth",
       "Direct Plan IDCW Payout"
     ],
-    "isins": [
-      "INF582M01328",
-      "INF582M01302",
-      "INF582M01765",
-      "INF582M01781"
-    ],
-    "amfi_codes": [
-      "116052",
-      "116051",
-      "119307",
-      "119306"
-    ],
     "riskometer": "Very High Risk",
     "investment_objective": "To generate income and long-term capital appreciation by investing substantially in a portfolio consisting of equity and equityrelated securities. However there can be no assurance that the investment objective of the scheme will be achieved.",
     "asset_allocation": "Equity & Equity related instruments*: 80% - 100% of net assets, Debt and Money Market instruments: 0% - 20% of net assets,(*Equity and Equity related securities / instruments shall mean equities, cumulative convertible preference shares and fullyconvertible debentures and bonds of companies. Investment may be also be made in partly convertible issues of debenturesand bonds including those issued on rights basis subject to the condition that, as far as possible, the non - convertible portionof the debentures so acquired or subscribed, shall be disinvested within a period of 12 months.) Please refer the SchemeInformation Document for more details.",
@@ -32,7 +20,19 @@
       "Regular": "2.29",
       "Direct": "1.33"
     },
-    "exit_load": "Nil"
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "116052",
+      "116051",
+      "119307",
+      "119306"
+    ],
+    "isins": [
+      "INF582M01328",
+      "INF582M01302",
+      "INF582M01765",
+      "INF582M01781"
+    ]
   },
   "fund_options_inferred": [
     "Regular Plan IDCW Payout",
@@ -40,5 +40,5 @@
     "Direct Plan Growth",
     "Direct Plan IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T06:01:45.700267+00:00"
+  "extracted_at": "2026-04-19T04:19:56.370864+00:00"
 }

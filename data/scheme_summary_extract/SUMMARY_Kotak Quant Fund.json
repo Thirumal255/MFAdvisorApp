@@ -15,7 +15,13 @@
     ],
     "riskometer": "Very High",
     "investment_objective": "The scheme shall seek to generate long term capital appreciation by investing predominantly in equity and equity related securities selected based on quant model theme. However, there is no assurance that the objective of the scheme will be achieved .",
-    "asset_allocation": "Equity and Equity Related instruments based on quant model theme 80%-100% Very High(risk proﬁle) Equity and Equity Related Securities of companies other than quant model theme 0%-20% Very High(risk proﬁle) Overseas Mutual Funds schemes / ETFs / Foreign Securities 0%-20% Low to Moderate (risk proﬁle) Debt and Money Market Securities 0%-20% Low to Moderate (Risk Proﬁle) Units of InvITs 0%-10% Very High (risk proﬁle) $companies include units of REITs",
+    "asset_allocation": {
+      "Equity and Equity Related instruments based on quant model theme": "80%-100%",
+      "Equity and Equity Related Securities of companies other than quant model theme": "0%-20%",
+      "Overseas Mutual Funds schemes / ETFs / Foreign Securities": "0%-20%",
+      "Debt and Money Market Securities": "0%-20%",
+      "Units of InvITs": "0%-10%"
+    },
     "benchmark": "Nifty 200 Total Return Index",
     "fund_managers": [
       "Mr.Harsha Upadhyaya",
@@ -52,5 +58,5 @@
     "Regular Plan-IDCW Payout",
     "Regular Plan-IDCW Re-investment"
   ],
-  "extracted_at": "2026-04-18T04:41:49.646182+00:00"
+  "extracted_at": "2026-04-19T03:26:51.034629+00:00"
 }

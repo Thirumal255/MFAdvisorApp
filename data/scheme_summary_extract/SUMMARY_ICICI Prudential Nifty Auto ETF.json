@@ -20,7 +20,7 @@
     "annual_expense": {
       "Direct": "0.20"
     },
-    "exit_load": "NA",
+    "exit_load": null,
     "amfi_codes": [
       "P5016"
     ],
@@ -31,5 +31,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:11:19.777397+00:00"
+  "extracted_at": "2026-04-19T03:07:23.650445+00:00"
 }

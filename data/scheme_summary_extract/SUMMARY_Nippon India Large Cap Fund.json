@@ -16,7 +16,7 @@
       "Growth Plan Growth Option Growth"
     ],
     "isins": [
-      "INF204K01D30",
+      "INF204K01D3",
       "INF204K01XG7",
       "INF204K01XH5",
       "INF204K01XI3",
@@ -44,7 +44,7 @@
       "Regular": "1.48",
       "Direct": "0.66"
     },
-    "exit_load": "1% if redeemed or switched out on or before completion of 7 days from the date of allotment of units. Nil, thereafter."
+    "exit_load": "1% if redeemed or switched out on or before completion of 7 days from the date of allotment of units.Nil, thereafter."
   },
   "fund_options_inferred": [
     "Direct Growth Plan Bonus Option Bonus",
@@ -56,5 +56,5 @@
     "IDCW Plan Reinvestment",
     "Growth Plan Growth Option Growth"
   ],
-  "extracted_at": "2026-04-18T05:15:41.169765+00:00"
+  "extracted_at": "2026-04-19T03:49:04.199128+00:00"
 }

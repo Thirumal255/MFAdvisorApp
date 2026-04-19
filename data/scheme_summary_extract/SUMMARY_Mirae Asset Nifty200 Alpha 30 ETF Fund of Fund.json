@@ -19,16 +19,10 @@
     },
     "exit_load": "If redeemed or switched out within 15 days from the date of allotment: 0.05%, If redeemed or switched out after 15 days from date of allotment: Nil",
     "amfi_codes": [
-      "006431",
       "152718",
       "152719",
       "152721",
-      "202412",
-      "202413",
-      "202414",
-      "202415",
-      "202521",
-      "500041"
+      "152720"
     ],
     "isins": [
       "INF769K01LU5",
@@ -42,5 +36,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T05:02:07.903032+00:00"
+  "extracted_at": "2026-04-19T03:39:38.502960+00:00"
 }

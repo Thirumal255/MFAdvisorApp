@@ -35,7 +35,11 @@
       "102149",
       "119120",
       "102147",
-      "119118"
+      "119118",
+      null,
+      null,
+      null,
+      null
     ],
     "riskometer": "Moderately High Risk",
     "investment_objective": "To generate income/capital appreciation by investing primarily in debt securities, money market instruments and moderate exposure to equities.There is no assurance that the investment objective of the Scheme will be achieved.",
@@ -60,5 +64,5 @@
     "DIRECT PLAN - MONTHLY IDCW OPTION",
     "DIRECT PLAN - QUARTERLY IDCW OPTION"
   ],
-  "extracted_at": "2026-04-18T03:43:40.545706+00:00"
+  "extracted_at": "2026-04-19T02:49:12.683467+00:00"
 }

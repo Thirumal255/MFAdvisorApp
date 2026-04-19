@@ -22,7 +22,7 @@
       "Regular": "2.04",
       "Direct": "0.68"
     },
-    "exit_load": "I. For investors who have opted for SWP under the plan: a) 15% of the units allotted (including Switch-in/STP-in) on or before completion of 180 days from the date of allotment of units: Nil. b) Any redemption in excess of such limits in the ﬁrst 180 days from the date of allotment shall be subject to the following exit load: (Redemption of units would be done on First In First Out Basis (FIFO): -If redeemed within 6 months (180 days) from the date of allotment: 1% -If redeemed after 6 months (180 days) from the date of allotment: NIL II. Other Redemptions: For Investors who have not opted for SWP under the plan (including Switch out, STP out): -If redeemed within 6 months (180 days) from the date of allotment: 1% -If redeemed after 6 months (180 days) from the date of allotment: NIL",
+    "exit_load": "I. For investors who have opted for SWP under the plan: a) 15% of the units allotted (including Switch-in/STP-in) on or before completion of 180 days from the date of allotment of units: Nil. b) Any redemption in excess of such limits in the first 180 days from the date of allotment shall be subject to the following exit load: (Redemption of units would be done on First In First Out Basis (FIFO): -If redeemed within 6 months (180 days) from the date of allotment: 1% -If redeemed after 6 months (180 days) from the date of allotment: NIL II. Other Redemptions: For Investors who have not opted for SWP under the plan (including Switch out, STP out): -If redeemed within 6 months (180 days) from the date of allotment: 1% -If redeemed after 6 months (180 days) from the date of allotment: NIL",
     "amfi_codes": [
       "150470",
       "150471",
@@ -46,5 +46,5 @@
     "Regular Plan IDCW -Payout",
     "Regular Plan IDCW - Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:52:39.234314+00:00"
+  "extracted_at": "2026-04-19T03:34:06.960076+00:00"
 }

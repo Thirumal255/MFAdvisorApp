@@ -15,29 +15,6 @@
       "REGULAR PLAN-IDCW REINVESTMENT",
       "REGULAR PLAN-IDCW TRANSFER"
     ],
-    "riskometer": "Very High Risk",
-    "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely correspond to the total returns of the Nifty 100 Quality 30 Index subject to tracking errors. There is no assurance that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "1. Stocks constituting Nifty 100 Quality 30 Index - 95-100% 2. Debt & money market instruments (with unexpired maturity not exceeding 91 days) and Liquid Schemes - 0-5%",
-    "benchmark": "Nifty 100 Quality 30 Total Return Index",
-    "fund_managers": [
-      "Mr. Bhavesh Jain",
-      "Mr. Bharat Lahoti"
-    ],
-    "annual_expense": {
-      "Regular": "0.93",
-      "Direct": "0.34"
-    },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "QUD1",
-      "QUD2",
-      "QUD2",
-      "QUD2",
-      "QURG",
-      "QURD",
-      "QURD",
-      "QURD"
-    ],
     "isins": [
       "INF754K01NJ6",
       "INF754K01NK4",
@@ -47,7 +24,38 @@
       "INF754K01NG2",
       "INF754K01NH0",
       "INF754K01NI8"
-    ]
+    ],
+    "amfi_codes": [
+      "149254",
+      "149255",
+      "149255",
+      "149255",
+      "149256",
+      "149257",
+      "149257",
+      "149257"
+    ],
+    "riskometer": "Very High Risk",
+    "investment_objective": "The investment objective of the scheme is to provide returns before \nexpenses that closely correspond to the total returns of the Nifty 100 \nQuality 30 Index subject to tracking errors.\nThere is no assurance that the investment objective of the Scheme will \nbe achieved.",
+    "asset_allocation": "1. Stocks constituting Nifty 100 Quality 30 Index - 95-100%\n2. Debt & money market instruments (with unexpired maturity not exceeding 91 days) and Liquid Schemes - 0-5%",
+    "benchmark": "Nifty 100 Quality 30 Total Return Index",
+    "fund_managers": [
+      {
+        "name": "Mr. Bhavesh Jain",
+        "type": "Co-Manage",
+        "from_date": "25/May/2016"
+      },
+      {
+        "name": "Mr. Bharat Lahoti",
+        "type": "Co-Manage",
+        "from_date": "07/Oct/2021"
+      }
+    ],
+    "annual_expense": {
+      "Regular": "0.93",
+      "Direct": "0.34"
+    },
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "DIRECT PLAN-GROWTH",
@@ -59,5 +67,5 @@
     "REGULAR PLAN-IDCW REINVESTMENT",
     "REGULAR PLAN-IDCW TRANSFER"
   ],
-  "extracted_at": "2026-04-18T03:25:40.053432+00:00"
+  "extracted_at": "2026-04-19T02:37:08.941041+00:00"
 }

@@ -11,6 +11,18 @@
       "Direct Plan - IDCW",
       "Direct Plan - Growth"
     ],
+    "isins": [
+      "INF200K01321",
+      "INF200K01339",
+      "INF200K01SA8",
+      "INF200K01SB6"
+    ],
+    "amfi_codes": [
+      "103146",
+      "103145",
+      "119613",
+      "119705"
+    ],
     "riskometer": "VERY HIGH",
     "investment_objective": "To generate opportunities for growth along with possibility of consistent returns by investing predominantly in a portfolio of stocks of companies engaged in the commodity and commodity related businesses.",
     "asset_allocation": {
@@ -26,19 +38,7 @@
       "Regular": "2.12",
       "Direct": "1.34"
     },
-    "exit_load": "For exit on or before 30 days from the date of allotment - 0.50%; For exit after 30 days from the date of allotment - Nil.",
-    "amfi_codes": [
-      "103146",
-      "103145",
-      "119613",
-      "119705"
-    ],
-    "isins": [
-      "INF200K01321",
-      "INF200K01339",
-      "INF200K01SA8",
-      "INF200K01SB6"
-    ]
+    "exit_load": "For exit on or before 30 days from the date of allotment - 0.50%; For exit after 30 days from the date of allotment - Nil."
   },
   "fund_options_inferred": [
     "Regular Plan - IDCW",
@@ -46,5 +46,5 @@
     "Direct Plan - IDCW",
     "Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:35:46.781732+00:00"
+  "extracted_at": "2026-04-19T04:02:09.845047+00:00"
 }

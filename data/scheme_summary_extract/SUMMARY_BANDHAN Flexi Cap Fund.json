@@ -20,7 +20,7 @@
       "Regular": "1.85",
       "Direct": "1.12"
     },
-    "exit_load": "If redeemed / Switched Out within 365 days from the date of allotment - Up to 10% of Investment Nil & For remaining Investment: 1.00%. If redeemed / switched out after 365 days from the date of allotment: Nil.",
+    "exit_load": "Entry Load: Nil. Exit Load (w.e.f 08-May-2020) If redeemed / Switched Out within 365 days from the date of allotment - Up to10% of Investment Nil & For remaining Investment: 1.00%. If redeemed / switched out after 365 days from the date of allotment: Nil.",
     "amfi_codes": [
       "118424",
       "118423",
@@ -40,5 +40,5 @@
     "Regular - Growth",
     "Regular - IDCW"
   ],
-  "extracted_at": "2026-04-18T02:48:20.277675+00:00"
+  "extracted_at": "2026-04-19T02:14:10.085015+00:00"
 }

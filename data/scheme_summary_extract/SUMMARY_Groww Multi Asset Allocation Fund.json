@@ -27,7 +27,9 @@
       "153821",
       "153852",
       "153851",
-      "153850"
+      "153850",
+      null,
+      null
     ],
     "isins": [
       "INF666M01MA9",
@@ -46,5 +48,5 @@
     "REGULAR PLAN-IDCW PAYOUT OPTION",
     "REGULAR PLAN-IDCW REINVESTMENT OPTION"
   ],
-  "extracted_at": "2026-04-18T03:36:30.670396+00:00"
+  "extracted_at": "2026-04-19T02:43:53.282391+00:00"
 }

@@ -20,11 +20,6 @@
         "name": "Mr. Rakesh Shetty",
         "type": "Debt Component",
         "from_date": "22/11/2022"
-      },
-      {
-        "name": null,
-        "type": null,
-        "from_date": null
       }
     ],
     "annual_expense": {},
@@ -40,5 +35,5 @@
     "Regular Payout of IDCW",
     "Direct Payout of IDCW"
   ],
-  "extracted_at": "2026-04-18T05:03:27.472038+00:00"
+  "extracted_at": "2026-04-19T03:40:32.528049+00:00"
 }

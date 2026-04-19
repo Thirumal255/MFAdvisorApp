@@ -13,6 +13,22 @@
       "Direct - IDCW",
       "Direct - IDCW Reinvest"
     ],
+    "isins": [
+      "INF740KA1UG2",
+      "INF740KA1UH0",
+      "INF740KA1UI8",
+      "INF740KA1UJ6",
+      "INF740KA1UK4",
+      "INF740KA1UL2"
+    ],
+    "amfi_codes": [
+      "152527",
+      "152530",
+      "152530",
+      "152528",
+      "152529",
+      "152529"
+    ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the scheme is to generate income & long term capital appreciation by investing in units of ETFs and/or Funds focused on US Treasury Bonds. There is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "A. Units of ETFs and/or Funds focused on US Treasury Bonds : 95% - 100% B. Cash and Cash Equivalents : 0% – 5%",
@@ -22,23 +38,7 @@
       "Regular": "0.26",
       "Direct": "0.21"
     },
-    "exit_load": "Holding period from the date of allotment: < 7 days: 0.1% >= 7 days: Nil (as a % of Applicable NAV)",
-    "amfi_codes": [
-      "152527",
-      "152530",
-      "152530",
-      "152528",
-      "152529",
-      "152529"
-    ],
-    "isins": [
-      "INF740KA1UG2",
-      "INF740KA1UH0",
-      "INF740KA1UI8",
-      "INF740KA1UJ6",
-      "INF740KA1UK4",
-      "INF740KA1UL2"
-    ]
+    "exit_load": "Holding period from the date of allotment: < 7 days: 0.1% >= 7 days: Nil (as a % of Applicable NAV)"
   },
   "fund_options_inferred": [
     "Regular - Growth",
@@ -48,5 +48,5 @@
     "Direct - IDCW",
     "Direct - IDCW Reinvest"
   ],
-  "extracted_at": "2026-04-18T03:17:56.662870+00:00"
+  "extracted_at": "2026-04-19T02:32:58.369861+00:00"
 }

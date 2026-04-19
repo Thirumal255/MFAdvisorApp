@@ -42,8 +42,8 @@
       "149012"
     ],
     "riskometer": "Moderate",
-    "investment_objective": "To generate income by investing in a portfolio of Debt and Money Market Instruments such that the Macaulay duration of the portfolio is between 3 years and 4 years. There is no assurance that the investment objective of the Scheme will be achieved",
-    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme would be as follows: Debt (including G-Secs) and Money Market Instruments*: Min.0% Max. 100% Units issues by REITs and InvITs Min.0% Max. 10% *The portfolio shall have Macaulay duration between 3 years to 4 years However, the Fund Manager, in the interest of investors, may reduce the portfolio duration of the Scheme upto 1 year in case he has views on the interest rate movements in the light of anticipated adverse situation. Under anticipated adverse circumstances, the asset allocation of the Scheme would be as follows: Debt (including G-Secs) and Money Market Instruments*: Min.0% Max. 100% Units issues by REITs and InvITs Min.0% Max. 10% *The portfolio shall have Macaulay duration between 1 years to 4 years",
+    "investment_objective": "To generate income by investing in a portfolio of Debt and Money Market Instruments such that the Macaulay duration of theportfolio is between 3 years and 4 years. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme would be as follows: Debt (including G-Secs) and Money MarketInstruments*: Min.0% Max. 100% Units issues by REITsand InvITs Min.0% Max. 10% *The portfolio shall have Macaulay durationbetween 3 years to 4 years However, the Fund Manager, in the interest of investors, may reduce the portfolio duration of theScheme upto 1 year in case he has views on the interest rate movements in the light of anticipated adverse situation. Underanticipated adverse circumstances, the asset allocation of the Scheme would be as follows: Debt (including G-Secs) and MoneyMarket Instruments*: Min.0% Max. 100% Units issues by REITsand InvITs Min.0% Max. 10% *The portfolio shall have Macaulayduration between 1 years to 4 years",
     "benchmark": "Nifty Medium Duration Debt Index A-III",
     "fund_managers": "Vikas Garg - Primary, Krishna Cheemalapati - Comanage",
     "annual_expense": {
@@ -64,5 +64,5 @@
     "Regular Plan - Quarterly IDCW Reinvestment",
     "Regular Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T04:23:40.288962+00:00"
+  "extracted_at": "2026-04-19T03:14:29.939612+00:00"
 }

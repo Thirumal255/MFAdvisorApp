@@ -44,7 +44,7 @@
       "Mr. Bhavesh Jain"
     ],
     "annual_expense": {
-      "Regular": "0.001",
+      "Regular": "1.00",
       "Direct": "0.001"
     },
     "exit_load": "If the units are redeemed/switched out on or before 30 days from the date of allotment – 0.10%. If the units are redeemed/switched out after 30 days from the date of allotment – Nil."
@@ -59,5 +59,5 @@
     "Regular Plan IDCW Reinvestment",
     "Regular Plan IDCW Transfer"
   ],
-  "extracted_at": "2026-04-18T03:27:33.230466+00:00"
+  "extracted_at": "2026-04-19T02:38:08.335056+00:00"
 }

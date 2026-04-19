@@ -12,28 +12,8 @@
       "Regular Monthly IDCW",
       "Direct Daily IDCW",
       "Direct Weekly IDCW",
-      "Regular Growth",
-      "Regular Weekly IDCW"
-    ],
-    "isins": [
-      "INF846K01CU0",
-      "INF846K01CR6",
-      "INF846K01CT2",
-      "INF846K01CV8",
-      "INF846K01CS4",
-      "INF846K01CB0",
-      "INF846K01CF1",
-      "INF846K01CD6"
-    ],
-    "amfi_codes": [
-      "120437",
-      "120438",
-      "120439",
-      "120436",
-      "117447",
-      "117446",
-      "117449",
-      "117448"
+      "Regular Weekly IDCW",
+      "Regular Growth"
     ],
     "riskometer": "Moderate",
     "investment_objective": "To generate stable returns by investing predominantly in debt & money market instruments issued by Banks, Public Sector Units (PSUs) & Public Financial Institutions (PFIs). The scheme shall endeavor to generate optimum returns with low credit risk.",
@@ -44,7 +24,31 @@
       "Regular": "0.61",
       "Direct": "0.33"
     },
-    "exit_load": "Nil"
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "120437",
+      "120438",
+      "120439",
+      "120436",
+      "117447",
+      "117446",
+      "117449",
+      "117448"
+    ],
+    "isins": [
+      "INF846K01CU0",
+      "INF846K01CR6",
+      "INF846K01CT2",
+      "INF846K01CV8",
+      "INF846K01CS4",
+      "INF846K01CB0",
+      "INF846K01CF1",
+      "INF846K01CD6",
+      "INF846K01CW6",
+      "INF846K01CC8",
+      "INF846K01CG9",
+      "INF846K01CE4"
+    ]
   },
   "fund_options_inferred": [
     "Regular Daily IDCW",
@@ -53,8 +57,8 @@
     "Regular Monthly IDCW",
     "Direct Daily IDCW",
     "Direct Weekly IDCW",
-    "Regular Growth",
-    "Regular Weekly IDCW"
+    "Regular Weekly IDCW",
+    "Regular Growth"
   ],
-  "extracted_at": "2026-04-18T02:18:59.758438+00:00"
+  "extracted_at": "2026-04-19T02:04:58.802115+00:00"
 }

@@ -13,6 +13,22 @@
       "Regular Plan - IDCW Payout Option",
       "Regular Plan - IDCW Option - Dividend Reinvestment Option"
     ],
+    "isins": [
+      "INF251K01VA5",
+      "INF251K01VB3",
+      "INF251K01VC1",
+      "INF251K01UY7",
+      "INF251K01VD9",
+      "INF251K01UZ4"
+    ],
+    "amfi_codes": [
+      "153604",
+      "153605",
+      "153605",
+      "153602",
+      "153607",
+      "153607"
+    ],
     "riskometer": "Very high",
     "investment_objective": "The primary objective of the Scheme is to provide long-term capital appreciation by investing predominantly in equity and equity related instruments of Pharma and Healthcare companies. The Scheme does not guarantee/indicate any returns. However, there can be no assurance that the investment objective of the Scheme will be realized.",
     "asset_allocation": "Equity & equity related instruments of companies in the Pharma & Healthcare and allied sector- 80-100% Equity and equity related instruments of companies other than above- 0-20% Debt & Money Market instruments - 0-20% Units of Mutual Fund( domestic schemes)- 0-10% Units issued by REITs & InvITs - 0-10%",
@@ -22,23 +38,7 @@
       "Regular": "2.33",
       "Direct": "0.60"
     },
-    "exit_load": "Redemption/ switch out of units upto 10% of the units allotted before 1 year from date of allotment- Exit load -NIL For redemption/switch out of units above 10% of units allotted within 1 year from the date of allotment- 1.00% of applicable NAV For redemption/switch out of units after 1 year from the date of allotment-Nil",
-    "amfi_codes": [
-      "153604",
-      "153605",
-      "153605",
-      "153602",
-      "153607",
-      "153607"
-    ],
-    "isins": [
-      "INF251K01VA5",
-      "INF251K01VB3",
-      "INF251K01VC1",
-      "INF251K01UY7",
-      "INF251K01VD9",
-      "INF251K01UZ4"
-    ]
+    "exit_load": "Redemption/ switch out of units upto 10% of the units allotted before 1 year from date of allotment- Exit load -NIL For redemption/switch out of units above 10% of units allotted within 1 year from the date of allotment- 1.00% of applicable NAV For redemption/switch out of units after 1 year from the date of allotment-Nil"
   },
   "fund_options_inferred": [
     "Direct Plan - Growth Option",
@@ -48,5 +48,5 @@
     "Regular Plan - IDCW Payout Option",
     "Regular Plan - IDCW Option - Dividend Reinvestment Option"
   ],
-  "extracted_at": "2026-04-18T02:59:37.854185+00:00"
+  "extracted_at": "2026-04-19T02:21:42.823990+00:00"
 }

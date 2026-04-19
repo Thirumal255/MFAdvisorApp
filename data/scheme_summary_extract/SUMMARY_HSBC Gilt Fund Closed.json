@@ -13,6 +13,22 @@
       "HSBC Gilt Fund - Regular Quarterly IDCW Payout",
       "HSBC Gilt Fund - Regular Quarterly IDCW Reinvestment"
     ],
+    "isins": [
+      "INF917K01FI7",
+      "INF917K01FK3",
+      "INF917K01FJ5",
+      "INF917K01BP1",
+      "INF917K01BN6",
+      "INF917K01BO4"
+    ],
+    "amfi_codes": [
+      "151014",
+      "151015",
+      null,
+      "151013",
+      "151012",
+      null
+    ],
     "riskometer": "Moderate",
     "investment_objective": "To generate returns from a portfolio from investments in Government Securities. There is no assurance that the objective ofthe Scheme will be realised and the Scheme does not assure or guarantee any returns.",
     "asset_allocation": "Government Securities including Treasury Bills and TREPS : 80% -100% Money market instruments: 0%-20%",
@@ -22,23 +38,7 @@
       "Regular": "1.64",
       "Direct": "0.48"
     },
-    "exit_load": "NIL",
-    "amfi_codes": [
-      "151014",
-      "151015",
-      null,
-      "151013",
-      "151012",
-      null
-    ],
-    "isins": [
-      "INF917K01FI7",
-      "INF917K01FK3",
-      "INF917K01FJ5",
-      "INF917K01BP1",
-      "INF917K01BN6",
-      "INF917K01BO4"
-    ]
+    "exit_load": "NIL"
   },
   "fund_options_inferred": [
     "HSBC Gilt Fund - Direct Growth",
@@ -48,5 +48,5 @@
     "HSBC Gilt Fund - Regular Quarterly IDCW Payout",
     "HSBC Gilt Fund - Regular Quarterly IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T03:56:17.511559+00:00"
+  "extracted_at": "2026-04-19T02:57:40.574096+00:00"
 }

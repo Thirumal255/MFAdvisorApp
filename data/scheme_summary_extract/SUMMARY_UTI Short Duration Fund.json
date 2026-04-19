@@ -54,28 +54,28 @@
       "INF789FA1Q91"
     ],
     "amfi_codes": [
-      "134517",
-      "null",
-      "null",
-      "null",
+      "131547",
+      "131548",
+      "106980",
+      "124962",
       "106624",
       "131424",
-      "null",
       "125045",
-      "null",
+      "125045",
       "124962",
-      "null",
-      "null",
+      "124962",
       "135497",
-      "null",
-      "null",
+      "135497",
+      "135497",
+      "135497",
+      "135497",
       "131548",
-      "null",
+      "131548",
       "120719",
-      "null",
       "120718",
-      "null",
-      "null"
+      "120718",
+      "134517",
+      "134517"
     ],
     "riskometer": "Moderate",
     "investment_objective": "The investment objective of the scheme is to generate reasonable income, with low risk and high level of liquidity from a portfolio of debt & money market instruments. However there can be no assurance that the investment objective of the Scheme will be achieved. The Scheme does not guarantee / indicate any returns.",
@@ -112,5 +112,5 @@
     "Regular Plan-Annual Reinvestment of IDCW",
     "Regular Plan-Annual Payout of IDCW"
   ],
-  "extracted_at": "2026-04-18T06:12:21.697563+00:00"
+  "extracted_at": "2026-04-19T04:28:42.297091+00:00"
 }

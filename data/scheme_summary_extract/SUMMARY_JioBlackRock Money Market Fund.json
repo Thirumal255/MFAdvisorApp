@@ -6,7 +6,7 @@
     "fund_name": "JioBlackRock Money Market Fund",
     "fund_type": "An open ended debt scheme investing in money market instruments. A relatively low interest rate risk and moderatecredit risk",
     "fund_options": [
-      "Direct Plan - Growth"
+      "Direct Plan Growth"
     ],
     "riskometer": "Low To Moderate Risk",
     "investment_objective": "The investment objective of the Scheme is to generate regular income through investment in a portfolio comprising ofmoney market instruments with residual maturity up to 1 year. There is no assurance that the investment objective of theScheme will be achieved.",
@@ -26,7 +26,7 @@
     ]
   },
   "fund_options_inferred": [
-    "Direct Plan - Growth"
+    "Direct Plan Growth"
   ],
-  "extracted_at": "2026-04-18T04:28:21.851255+00:00"
+  "extracted_at": "2026-04-19T03:17:44.765613+00:00"
 }

@@ -23,7 +23,7 @@
       "Regular": "2.41",
       "Direct": "0.86"
     },
-    "exit_load": "1.00% if the investment is redeemed or switched out on or before 365 days from the date of allotment of units • No Exit load will be charged if investment is redeemed or switched out after 365 days from the date of allotment of units.",
+    "exit_load": "• 1.00% if the investment is redeemed or switched out on or before 365 days from the date of allotment of units • No Exit load will be charged if investment is redeemed or switched out after 365 days from the date of allotment of units.",
     "amfi_codes": [
       "152586",
       "152587"
@@ -37,5 +37,5 @@
     "Direct Plan - Growth Option",
     "Regular Plan - Growth Option"
   ],
-  "extracted_at": "2026-04-18T05:34:20.991721+00:00"
+  "extracted_at": "2026-04-19T04:01:09.391980+00:00"
 }

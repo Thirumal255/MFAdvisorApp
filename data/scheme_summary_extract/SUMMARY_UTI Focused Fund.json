@@ -6,22 +6,10 @@
     "fund_name": "UTI Focused Fund",
     "fund_type": "An open-ended equity scheme investing in maximum 30 stocks across market caps.",
     "fund_options": [
-      "Direct -Payout of IDCW",
-      "Regular-Payout of IDCW",
+      "Direct - Payout of IDCW",
+      "Regular - Payout of IDCW",
       "Direct Plan-Growth",
       "Regular Plan-Growth"
-    ],
-    "isins": [
-      "INF789F1AVB1",
-      "INF789F1AUZ2",
-      "INF789F1AVA3",
-      "INF789F1AUY5"
-    ],
-    "amfi_codes": [
-      "149093",
-      "149092",
-      "149091",
-      "149090"
     ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation by investing in equity & equity related instruments of maximum 30 stocks across market caps. However, there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
@@ -32,13 +20,25 @@
       "Regular": "1.97",
       "Direct": "0.63"
     },
-    "exit_load": "Less than one year: 1% and Greater than or equal to one year: Nil"
+    "exit_load": "Less than one year: 1% and Greater than or equal to one year: Nil",
+    "amfi_codes": [
+      "149093",
+      "149092",
+      "149091",
+      "149090"
+    ],
+    "isins": [
+      "INF789F1AVB1",
+      "INF789F1AUZ2",
+      "INF789F1AVA3",
+      "INF789F1AUY5"
+    ]
   },
   "fund_options_inferred": [
-    "Direct -Payout of IDCW",
-    "Regular-Payout of IDCW",
+    "Direct - Payout of IDCW",
+    "Regular - Payout of IDCW",
     "Direct Plan-Growth",
     "Regular Plan-Growth"
   ],
-  "extracted_at": "2026-04-18T06:09:03.393342+00:00"
+  "extracted_at": "2026-04-19T04:26:16.342851+00:00"
 }

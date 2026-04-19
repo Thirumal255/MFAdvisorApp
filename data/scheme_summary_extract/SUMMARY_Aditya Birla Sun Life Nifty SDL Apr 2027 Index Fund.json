@@ -6,10 +6,10 @@
     "fund_name": "ADITYA BIRLA SUN LIFE NIFTY SDL APR 2027 INDEX FUND",
     "fund_type": "An open ended Target Maturity Index Fund tracking the Nifty SDL Apr 2027 Index.",
     "fund_options": [
-      "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Regular-IDCW Payout",
-      "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Regular Growth",
-      "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Direct IDCW Payout",
-      "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Direct Growth"
+      "Regular-IDCW Payout",
+      "Regular Growth",
+      "Direct IDCW Payout",
+      "Direct Growth"
     ],
     "isins": [
       "INF209KB10F5",
@@ -38,10 +38,10 @@
     "exit_load": "NIL"
   },
   "fund_options_inferred": [
-    "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Regular-IDCW Payout",
-    "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Regular Growth",
-    "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Direct IDCW Payout",
-    "Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Direct Growth"
+    "Regular-IDCW Payout",
+    "Regular Growth",
+    "Direct IDCW Payout",
+    "Direct Growth"
   ],
-  "extracted_at": "2026-04-18T02:15:51.394717+00:00"
+  "extracted_at": "2026-04-19T02:02:05.301271+00:00"
 }

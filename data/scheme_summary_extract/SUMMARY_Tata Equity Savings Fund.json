@@ -18,9 +18,9 @@
     "asset_allocation": "Equity & Equity Related instruments 65-90, of which- Net Long Equity Exposure- Equity & Equity related instruments and units of Equity Funds of Tata AMC 15-35, Equity & Equity Derivatives (Arbitrage/Hedged Exposure) 30-70, Debt, cash and Money Market Instruments 10-35, Exchange Traded Commodity Derivatives (ETCDs) 0-10, Units of Reits & Invits 0-10.",
     "benchmark": "NIFTY Equity Savings Index",
     "fund_managers": [
-      "Murthy Nagarajan",
-      "Sailesh Jain",
-      "Tapan Patel"
+      "FM-1 Murthy Nagarajan",
+      "FM-2 Sailesh Jain",
+      "FM-3 Tapan Patel"
     ],
     "annual_expense": {
       "Regular": "1.13",
@@ -52,5 +52,5 @@
     "Tata Equity Savings Fund Direct Plan - IDCW Periodic",
     "Tata Equity Savings Fund Direct Plan - IDCW Monthly"
   ],
-  "extracted_at": "2026-04-18T05:52:16.649938+00:00"
+  "extracted_at": "2026-04-19T04:12:39.601056+00:00"
 }

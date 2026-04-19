@@ -22,10 +22,12 @@
       "INF251K01894"
     ],
     "amfi_codes": [
-      "150186",
-      "150185",
       "150188",
-      "150187"
+      "150188",
+      "150186",
+      "150186",
+      "150187",
+      "150185"
     ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the Scheme is to generate long-term capital growth from a diversiﬁed and actively managedportfolio of equity and equity related securities by predominantly investing in large market capitalization companies.",
@@ -46,5 +48,5 @@
     "DIRECT PLAN - GROWTH",
     "REGULAR PLAN - GROWTH"
   ],
-  "extracted_at": "2026-04-18T03:00:13.579742+00:00"
+  "extracted_at": "2026-04-19T02:22:07.451681+00:00"
 }

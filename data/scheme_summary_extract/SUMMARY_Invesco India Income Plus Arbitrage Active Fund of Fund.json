@@ -13,6 +13,22 @@
       "Regular Plan - IDCW Reinvestment",
       "Regular Plan - Growth"
     ],
+    "isins": [
+      "INF205KA1BA3",
+      "INF205KA1BB1",
+      "INF205KA1BC9",
+      "INF205KA1AY5",
+      "INF205KA1AZ2",
+      "INF205KA1AX7"
+    ],
+    "amfi_codes": [
+      "153697",
+      "153698",
+      "153698",
+      "153696",
+      "153696",
+      "153695"
+    ],
     "riskometer": "Moderate Risk",
     "investment_objective": "An open ended fund of fund scheme investing in units of actively managed debt oriented schemes and equity Arbitrage schemes, objective is to generate income by investing in units of actively managed debt oriented and Equity Arbitrage schemes.There is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Units of Mutual Fund schemes out of which: Min 95% Max 100% a. Units of actively managed Debt oriented schemes: Min 35% Max 65% b. Units of actively managed Arbitrage schemes: Min 35% Max 65% Debt and Money Market Instruments including Government Securities, T-bill's and Repo on Government Securities: Min 0% Max 05%",
@@ -22,23 +38,7 @@
       "Regular": "0.0",
       "Direct": "0.0"
     },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "153697",
-      "153698",
-      "153698",
-      "153696",
-      "153696",
-      "153695"
-    ],
-    "isins": [
-      "INF205KA1BA3",
-      "INF205KA1BB1",
-      "INF205KA1BC9",
-      "INF205KA1AY5",
-      "INF205KA1AZ2",
-      "INF205KA1AX7"
-    ]
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -48,5 +48,5 @@
     "Regular Plan - IDCW Reinvestment",
     "Regular Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T04:22:39.938803+00:00"
+  "extracted_at": "2026-04-19T03:13:53.116194+00:00"
 }

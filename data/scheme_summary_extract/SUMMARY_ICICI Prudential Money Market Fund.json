@@ -15,19 +15,16 @@
       "ICICI Prudential Money Market Fund - IDCW",
       "ICICI Prudential Money Market Fund - IDCW - Weekly"
     ],
-    "riskometer": "Moderate",
-    "investment_objective": "The Scheme aims to provide reasonable returns commensurate with low risk and providing a high level of liquidity by investing in money market instruments. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
-    "asset_allocation": "Money Market Instruments 0%-100% Low to Medium",
-    "benchmark": "NIFTY Money Market Index A-I",
-    "fund_managers": [
-      "Manish Banthia",
-      "Nikhil Kabra"
+    "isins": [
+      "INF109K01R14",
+      "INF109K01R22",
+      "INF109K01R30",
+      "INF109K01R89",
+      "INF109K01TX1",
+      "INF109K01TY9",
+      "INF109K01I64",
+      "INF109K01TZ6"
     ],
-    "annual_expense": {
-      "Regular": "0.32",
-      "Direct": "0.21"
-    },
-    "exit_load": "Nil",
     "amfi_codes": [
       "120211",
       "120209",
@@ -38,16 +35,19 @@
       "130013",
       "103635"
     ],
-    "isins": [
-      "INF109K01R14",
-      "INF109K01R22",
-      "INF109K01R30",
-      "INF109K01R89",
-      "INF109K01TX1",
-      "INF109K01TY9",
-      "INF109K01I64",
-      "INF109K01TZ6"
-    ]
+    "riskometer": "Moderate",
+    "investment_objective": "The Scheme aims to provide reasonable returns commensurate with low risk and providing \na high level of liquidity by investing in money market instruments.\nHowever, there can be no assurance or guarantee that the investment objective of the \nScheme would be achieved.",
+    "asset_allocation": "• Money Market Instruments 0%-100% Low to Medium",
+    "benchmark": "NIFTY Money Market Index A-I",
+    "fund_managers": [
+      "Manish Banthia",
+      "Nikhil Kabra"
+    ],
+    "annual_expense": {
+      "Regular": "0.32",
+      "Direct": "0.21"
+    },
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "ICICI Prudential Money Market Fund - Direct Plan - Growth",
@@ -59,5 +59,5 @@
     "ICICI Prudential Money Market Fund - IDCW",
     "ICICI Prudential Money Market Fund - IDCW - Weekly"
   ],
-  "extracted_at": "2026-04-18T04:09:11.186091+00:00"
+  "extracted_at": "2026-04-19T03:06:04.708515+00:00"
 }

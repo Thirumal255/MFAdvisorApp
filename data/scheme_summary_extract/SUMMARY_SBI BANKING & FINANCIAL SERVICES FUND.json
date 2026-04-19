@@ -11,6 +11,18 @@
       "Direct Plan - Growth",
       "Direct Plan - IDCW"
     ],
+    "isins": [
+      "INF200KA1473",
+      "INF200KA1499",
+      "INF200KA1507",
+      "INF200KA1523"
+    ],
+    "amfi_codes": [
+      "133858",
+      "133860",
+      "133859",
+      "133857"
+    ],
     "riskometer": "VERY HIGH",
     "investment_objective": "The investment objective of the scheme isto generate long-term capital appreciationto unit holders from a portfolio that isinvested predominantly in equity and equityrelated securities of companies engaged inbanking and financial services. However,there can be no assurance that theinvestment objective of the Scheme will berealized.",
     "asset_allocation": {
@@ -25,19 +37,7 @@
     "annual_expense": {
       "Direct": "0.59"
     },
-    "exit_load": "For exit on or before 30 days from the date of allotment - 0.50%; For exit after 30 days from the date of allotment - Nil.",
-    "amfi_codes": [
-      "133858",
-      "133860",
-      "133859",
-      "133857"
-    ],
-    "isins": [
-      "INF200KA1473",
-      "INF200KA1499",
-      "INF200KA1507",
-      "INF200KA1523"
-    ]
+    "exit_load": "For exit on or before 30 days from the date of allotment - 0.50%; For exit after 30 days from the date of allotment - Nil."
   },
   "fund_options_inferred": [
     "Regular Plan - Growth",
@@ -45,5 +45,5 @@
     "Direct Plan - Growth",
     "Direct Plan - IDCW"
   ],
-  "extracted_at": "2026-04-18T05:34:48.028962+00:00"
+  "extracted_at": "2026-04-19T04:01:28.350881+00:00"
 }

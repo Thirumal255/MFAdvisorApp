@@ -19,12 +19,7 @@
     "investment_objective": "To achieve long term capital appreciation and generate income through an equity portfolio by using long equities, equity derivatives and arbitrage opportunities available. However, there is no assurance that the Investment Objective of the scheme will be achieved.",
     "asset_allocation": "Equity and Equity related instruments: 65%- 100% of net assets; Equity Derivatives: 0% - 45% of net assets; Debt and Money Market instruments: 0%-35% of net assets; Units issued by InvITs: 0% to 10% of net assets. Please refer the Scheme Information Document for complete details.",
     "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index (TRI)",
-    "fund_managers": [
-      "Mr. Sanjay Bembalkar",
-      "Mr. Gaurav Chopra",
-      "Mr. Parijat Agrawal",
-      "Mr. Vishal Thakker"
-    ],
+    "fund_managers": "FM 1 Mr. Sanjay Bembalkar, FM 2 Mr. Gaurav Chopra, FM 3 Mr. Parijat Agrawal , FM 4 Mr. Vishal Thakker",
     "annual_expense": {
       "Regular": "2.16",
       "Direct": "1.04"
@@ -61,5 +56,5 @@
     "Direct Plan - Reinvestment of IDCW Option",
     "Direct Plan - Transfer of IDCW Plan"
   ],
-  "extracted_at": "2026-04-18T06:00:40.943562+00:00"
+  "extracted_at": "2026-04-19T04:19:13.849776+00:00"
 }

@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "Mirae Asset Nifty Next 50 ETF",
-    "fund_type": "Exchange Traded Fund (ETF)",
+    "fund_type": "Exchange Traded Fund (ETF) - An open ended scheme replicating/tracking Nifty Next 50 Total Return Index",
     "fund_options": [
       "Growth"
     ],
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T05:01:18.345120+00:00"
+  "extracted_at": "2026-04-19T03:38:57.534923+00:00"
 }

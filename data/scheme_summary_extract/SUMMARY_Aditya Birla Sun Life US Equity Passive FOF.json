@@ -6,14 +6,14 @@
     "fund_name": "Aditya Birla Sun Life US Equity Passive FOF",
     "fund_type": "An open ended fund of fund investing in units of overseas ETF’s and/or Index Fund based on NASDAQ-100 Index",
     "fund_options": [
-      "Aditya Birla Sun Life US Equity Passive FOF-Direct IDCW",
-      "Aditya Birla Sun Life US Equity Passive FOF-Regular Growth",
-      "Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth",
-      "Aditya Birla Sun Life US Equity Passive FOF-Regular IDCW"
+      "Direct IDCW",
+      "Regular Growth",
+      "Direct-Growth",
+      "Regular IDCW"
     ],
     "riskometer": "Very High",
-    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation by investing in units of overseas ETFs and/or Index Fund based on NASDAQ-100 Index.\nThe Scheme does not guarantee/indicate any returns. There can be no assurance that the schemes’ objectives will be achieved.",
-    "asset_allocation": "Under normal circumstances, the asset allocation pattern shall be as under:\nInstrument  - Risk Profile - Indicative Allocation\nUnits of overseas ETF’s and/or Index Fund based on\nNASDAQ 100 Index - High - 95% - 100%\nDebt schemes, Debt & Money Market Instruments,\nincluding Tri Party Repo^, G-Secs, Cash and Cash at call - Low to Medium - \n0% - 5%\n^ or similar instruments as may be permitted by RBI/SEBI",
+    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation by investing in units of overseas ETFs and/or Index Fund based on NASDAQ-100 Index. The Scheme does not guarantee/indicate any returns. There can be no assurance that the schemes’ objectives will be achieved.",
+    "asset_allocation": "Units of overseas ETF’s and/or Index Fund based on NASDAQ 100 Index - High - 95% - 100%; Debt schemes, Debt & Money Market Instruments, including Tri Party Repo^, G-Secs, Cash and Cash at call - Low to Medium - 0% - 5%; ^ or similar instruments as may be permitted by RBI/SEBI",
     "benchmark": "Nasdaq 100 TRI",
     "fund_managers": "Mr. Dhaval Joshi",
     "annual_expense": {
@@ -35,10 +35,10 @@
     ]
   },
   "fund_options_inferred": [
-    "Aditya Birla Sun Life US Equity Passive FOF-Direct IDCW",
-    "Aditya Birla Sun Life US Equity Passive FOF-Regular Growth",
-    "Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth",
-    "Aditya Birla Sun Life US Equity Passive FOF-Regular IDCW"
+    "Direct IDCW",
+    "Regular Growth",
+    "Direct-Growth",
+    "Regular IDCW"
   ],
-  "extracted_at": "2026-04-18T02:17:48.617005+00:00"
+  "extracted_at": "2026-04-19T02:03:51.054671+00:00"
 }

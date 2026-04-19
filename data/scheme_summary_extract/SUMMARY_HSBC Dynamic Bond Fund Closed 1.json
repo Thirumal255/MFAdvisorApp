@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "HSBC Corporate Bond Fund",
-    "fund_type": "An open-ended debt scheme predominantly investing in AA+ and above rated corporate bonds. A relatively high interest rate risk and relatively low credit risk.",
+    "fund_type": "An open-ended debt scheme predominantly investing in AA+ and above rated corporate bonds. A relatively high interest rate riskand relatively low credit risk.",
     "fund_options": [
       "HSBC Corporate Bond Fund - Direct Plan - Annual IDCW Payout",
       "HSBC Corporate Bond Fund - Direct Plan - Annual IDCW Reinvestment",
@@ -87,5 +87,5 @@
     "HSBC Corporate Bond Fund - Regular Plan - Semi Annual IDCW Reinvestment",
     "HSBC Corporate Bond Fund - Regular Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T03:55:05.096781+00:00"
+  "extracted_at": "2026-04-19T02:56:56.323630+00:00"
 }

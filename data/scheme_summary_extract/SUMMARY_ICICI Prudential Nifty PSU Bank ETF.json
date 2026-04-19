@@ -8,9 +8,9 @@
     "fund_options": [
       "Growth"
     ],
-    "riskometer": "Very High\nAs on October 31, 2025",
-    "investment_objective": "The investment objective of the scheme is to provide returns before expenses that correspond to the total return of the underlying index subject to tracking errors. \nHowever, there can be no assurance or guarantee that the investment objective of the \nScheme would be achieved.",
-    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (NIFTY \nPSU Bank Index) = 95% - 100%\n• Money market instruments including TREPs = 0% - 5%",
+    "riskometer": "Very High • As on October 31, 2025",
+    "investment_objective": "The investment objective of the scheme is to provide returns before expenses that correspond to the total return of the underlying index subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (NIFTY PSU Bank Index) = 95% - 100% • Money market instruments including TREPs = 0% - 5%",
     "benchmark": "Nifty PSU Bank TRI",
     "fund_managers": [
       "Nishit Patel",
@@ -20,7 +20,7 @@
     "annual_expense": {
       "Direct": "0.40"
     },
-    "exit_load": "There will be no exit load for units sold through the secondary market on the stock exchanges \nwhere the Scheme will be listed.",
+    "exit_load": "There will be no exit load for units sold through the secondary market on the stock exchanges where the Scheme will be listed.",
     "amfi_codes": [
       "5025"
     ],
@@ -31,5 +31,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:13:53.453007+00:00"
+  "extracted_at": "2026-04-19T03:09:06.774288+00:00"
 }

@@ -16,14 +16,10 @@
       "Direct Plan - Transfer of IDCW Plan"
     ],
     "riskometer": "Moderate Risk",
-    "investment_objective": "To seek capital appreciation and/or to generate consistent returns by actively investing in a combination of diversiﬁed equity and equity related instruments, arbitrage and derivative strategies and exposure in debt and money market instruments. However, there is no assurance that the Investment Objective of the scheme will be achieved.",
-    "asset_allocation": "Equity & Equity Related Securities (unhedged)#: 10%- 60% of net assets; Equities, equity related instruments and derivatives including index futures, stock futures, index options, & stock options, etc. as partly hedged / arbitrage exposure#: 65% - 90% of net assets; Debt and Money Market instruments: 10%-35% of net assets; Units issued by InvITs: 0% to 10% of net assets. # In Equity, unhedged equity exposure shall be limited to 60% of the overall portfolio. Unhedged equity exposure means exposure to equity shares alone without a corresponding equity derivative exposure. Please refer the Scheme Information Document for complete details.",
+    "investment_objective": "To seek capital appreciation and/or to generate consistent returns by actively investing in a combination of diversiﬁed equityand equity related instruments, arbitrage and derivative strategies and exposure in debt and money market instruments.However, there is no assurance that the Investment Objective of the scheme will be achieved.",
+    "asset_allocation": "Equity & Equity Related Securities (unhedged)#: 10%- 60% of net assets;Equities, equity related instruments and derivativesincluding index futures, stock futures, index options, & stock options, etc. as partly hedged / arbitrage exposure#: 65% - 90% ofnet assets;Debt and Money Market instruments: 10%-35% of net assets;Units issued by InvITs: 0% to 10% of net assets.# InEquity, unhedged equity exposure shall be limited to 60% of the overall portfolio. Unhedged equity exposure means exposureto equity shares alone without a corresponding equity derivative exposure.Please refer the Scheme Information Document forcomplete details.",
     "benchmark": "CRISIL Equity Savings Index (TRI)",
-    "fund_managers": [
-      "Mr. Sanjay Bembalkar",
-      "Mr. Gaurav Chopra",
-      "Mr. Parijat Agrawal"
-    ],
+    "fund_managers": "FM 1 - Mr. Sanjay Bembalkar, FM 2 - Mr. Gaurav Chopra, FM 3 - Mr. Parijat Agrawal",
     "annual_expense": {
       "Regular": "2.00",
       "Direct": "1.50"
@@ -60,5 +56,5 @@
     "Direct Plan - Reinvestment of IDCW Option",
     "Direct Plan - Transfer of IDCW Plan"
   ],
-  "extracted_at": "2026-04-18T06:01:52.811909+00:00"
+  "extracted_at": "2026-04-19T04:20:02.368360+00:00"
 }

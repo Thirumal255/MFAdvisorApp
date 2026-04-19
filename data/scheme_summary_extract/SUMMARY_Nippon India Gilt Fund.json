@@ -8,7 +8,7 @@
     "fund_options": [
       "Direct Plan Automatic Annual Reinvest Optionreinvestment",
       "Direct Plan Bonus Planbonus",
-      "Direct Plan Automatic CapitalAppreciation Payout Option Payout",
+      "Direct Plan Automatic Capital Appreciation Payout Option Payout",
       "Direct Monthly IDCW Plan Payout",
       "Direct Monthly IDCW Plan Reinvestment",
       "Direct Growth Plan Growth Option Growth",
@@ -67,7 +67,7 @@
   "fund_options_inferred": [
     "Direct Plan Automatic Annual Reinvest Optionreinvestment",
     "Direct Plan Bonus Planbonus",
-    "Direct Plan Automatic CapitalAppreciation Payout Option Payout",
+    "Direct Plan Automatic Capital Appreciation Payout Option Payout",
     "Direct Monthly IDCW Plan Payout",
     "Direct Monthly IDCW Plan Reinvestment",
     "Direct Growth Plan Growth Option Growth",
@@ -80,5 +80,5 @@
     "Growth Plan Growth Option Growth",
     "Deﬁned Maturity Date Option Growth"
   ],
-  "extracted_at": "2026-04-18T05:14:29.344215+00:00"
+  "extracted_at": "2026-04-19T03:48:16.195219+00:00"
 }

@@ -20,7 +20,8 @@
     "fund_managers": [
       "Mr. V Srivatsa FM 1",
       "Mr. Sunil Patil FM 2",
-      "Mr. Jaydeep Bhowal FM 3"
+      "Mr. Jaydeep Bhowal FM 3",
+      "Not Applicable FM 4"
     ],
     "annual_expense": {
       "Regular": "1.87",
@@ -52,5 +53,5 @@
     "Direct Plan-Reinvestment of IDCW",
     "Direct Plan-Payout of IDCW"
   ],
-  "extracted_at": "2026-04-18T06:08:04.012121+00:00"
+  "extracted_at": "2026-04-19T04:25:26.421146+00:00"
 }

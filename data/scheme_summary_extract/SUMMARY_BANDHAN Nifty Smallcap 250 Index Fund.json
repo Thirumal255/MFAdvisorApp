@@ -30,8 +30,8 @@
       null
     ],
     "riskometer": "Very High",
-    "investment_objective": "The investment objective of the Scheme is to replicate the Nifty Smallcap 250 Index by investing in securities of the NiftySmallcap 250 Index in the same proportion / weightage with an aim to provide returns before expenses that tracks the totalreturn of Nifty Smallcap 250 Index, subject to tracking errors. However, there is no assurance or guarantee that the objectivesof the scheme will be realized and the scheme does not assure or guarantee any returns.",
-    "asset_allocation": "Securities belonging to the Nifty Smallcap 250 Index (including stock & index derivatives) - 95%-100%, Debt & Money Marketinstruments ) - 0%- 5%",
+    "investment_objective": "The investment objective of the Scheme is to replicate the Nifty Smallcap 250 Index by investing in securities of the Nifty Smallcap 250 Index in the same proportion / weightage with an aim to provide returns before expenses that tracks the total return of Nifty Smallcap 250 Index, subject to tracking errors. However, there is no assurance or guarantee that the objectives of the scheme will be realized and the scheme does not assure or guarantee any returns.",
+    "asset_allocation": "Securities belonging to the Nifty Smallcap 250 Index (including stock & index derivatives) - 95%-100%, Debt & Money Market instruments ) - 0%- 5%",
     "benchmark": "Nifty Smallcap 250 TRI",
     "fund_managers": "FM 1 - Mr. Abhishek Jain",
     "annual_expense": {
@@ -48,5 +48,5 @@
     "Bandhan Nifty Smallcap 250 Index Fund Direct Plan-IDCW",
     "Bandhan Nifty Smallcap 250 Index Fund Direct Plan-IDCW (Re-inv)"
   ],
-  "extracted_at": "2026-04-18T02:51:50.179996+00:00"
+  "extracted_at": "2026-04-19T02:16:48.674927+00:00"
 }

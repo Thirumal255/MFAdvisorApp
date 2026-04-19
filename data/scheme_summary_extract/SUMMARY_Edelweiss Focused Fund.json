@@ -52,13 +52,13 @@
       },
       {
         "name": "Mr. Sumanta Khan",
-        "type": "Primary",
+        "type": "NA",
         "from_date": "NA"
       },
       {
         "name": "Mr. Amit Vora",
         "type": "Primary - Overseas Fund Manager",
-        "from_date": "NA"
+        "from_date": "15/Dec/2023"
       }
     ],
     "annual_expense": {
@@ -77,5 +77,5 @@
     "Regular Plan - IDCW Reinvestment",
     "Regular Plan - IDCW Transfer"
   ],
-  "extracted_at": "2026-04-18T03:22:47.180039+00:00"
+  "extracted_at": "2026-04-19T02:35:33.261379+00:00"
 }

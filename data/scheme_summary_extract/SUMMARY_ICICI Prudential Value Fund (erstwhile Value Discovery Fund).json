@@ -11,10 +11,22 @@
       "Growth",
       "IDCW"
     ],
+    "isins": [
+      "INF109K012K1",
+      "INF109K011K3",
+      "INF109K01AF8",
+      "INF109K01EC7"
+    ],
+    "amfi_codes": [
+      "P8176",
+      "P8175",
+      "PDFG",
+      "PDFD"
+    ],
     "riskometer": "Very High",
     "investment_objective": "To generate returns through a combination of dividend income and capital appreciation by investing primarily in a well-diversified portfolio of value stocks. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
     "asset_allocation": "• Equity & Equity related instruments = 65% - 100%\n• Debt and Money Market Instruments including Units of Debt oriented mutual fund schemes = 0% - 35%",
-    "benchmark": "Nifty 50 TRI",
+    "benchmark": "Nifty 500 TRI",
     "fund_managers": [
       "Masoomi Jhurmarvala"
     ],
@@ -22,19 +34,7 @@
       "Regular": "1.51",
       "Direct": "0.99"
     },
-    "exit_load": "1% of the applicable Net Asset Value - if the amount sought to be redeemed or switch out is invested for a period of up to 12 months from the date of allotment. NIL - if the amount sought to be redeemed or switch out is invested for a period more than 12 months from the date of allotment",
-    "amfi_codes": [
-      "102594",
-      "102595"
-    ],
-    "isins": [
-      "INF109K01AF8",
-      "INF109K01EC7",
-      "INF109K012K1",
-      "INF109K011K3",
-      "INF109K010K5",
-      "INF109K01AD3"
-    ]
+    "exit_load": "1% of the applicable Net Asset Value - if the amount sought to be redeemed or switch out is invested for a period of up to 12 months from the date of allotment. NIL - if the amount sought to be redeemed or switch out is invested for a period more than 12 months from the date of allotment"
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -42,5 +42,5 @@
     "Growth",
     "IDCW"
   ],
-  "extracted_at": "2026-04-18T04:19:06.424034+00:00"
+  "extracted_at": "2026-04-19T03:12:09.036025+00:00"
 }

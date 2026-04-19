@@ -31,7 +31,8 @@
       }
     ],
     "annual_expense": {
-      "Direct": "0.69"
+      "Regular": "242",
+      "Direct": "069"
     },
     "exit_load": "NIL",
     "amfi_codes": [
@@ -47,5 +48,5 @@
     "Direct Plan Growth",
     "Direct Plan IDCW Option Payout"
   ],
-  "extracted_at": "2026-04-18T03:21:52.286369+00:00"
+  "extracted_at": "2026-04-19T02:34:59.489163+00:00"
 }

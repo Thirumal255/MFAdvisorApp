@@ -16,7 +16,8 @@
     "asset_allocation": "• Equity and equity related securities within MNC space - 80%-100% \n• Other equity and equity related instruments - 0%-20%  \n• Debt,  Units  of debt  Mutual Fund  schemes and Money market instruments - 0%-20% \n• Gold   ETF/Units   issued   by   InvITs such other asset classes as may be permitted   by   SEBI   from   time   to   time (subject to applicable SEBI limits) - 0%-20%",
     "benchmark": "Nifty MNC TRI",
     "fund_managers": [
-      "Roshan Chutkey"
+      "Roshan Chutkey",
+      "Sharmila D’mello"
     ],
     "annual_expense": {
       "Regular": "2.13",
@@ -42,5 +43,5 @@
     "Regular Plan - Growth",
     "Regular Plan - IDCW"
   ],
-  "extracted_at": "2026-04-18T04:08:57.814848+00:00"
+  "extracted_at": "2026-04-19T03:05:56.257918+00:00"
 }

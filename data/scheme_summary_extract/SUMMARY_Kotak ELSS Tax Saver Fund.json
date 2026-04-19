@@ -11,6 +11,18 @@
       "Regular Plan-Growth",
       "Regular Plan-Daily - Daily IDCW"
     ],
+    "isins": [
+      "INF174K01LI3",
+      "INF174KA1EO5",
+      "INF174K01LJ1",
+      "INF174K01385"
+    ],
+    "amfi_codes": [
+      "119773",
+      "119772",
+      "103339",
+      "103338"
+    ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the scheme is to generate long-term capital appreciation from a diversiﬁed portfolio of equityand equity related securities and enable investors to avail the income tax rebate, as permitted from time to time. However,there is no assurance that the objective of the scheme will be realized.",
     "asset_allocation": "Equity and Equity related Securities 80% to 100% Medium to High (Risk Proﬁle) Debt and Money Market Securities* 0% to20% Low (Risk Proﬁle)",
@@ -20,19 +32,7 @@
       "Regular": "1.75",
       "Direct": "0.62"
     },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "119773",
-      "119772",
-      "103339",
-      "103338"
-    ],
-    "isins": [
-      "INF174K01LI3",
-      "INF174KA1EO5",
-      "INF174K01LJ1",
-      "INF174K01385"
-    ]
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -40,5 +40,5 @@
     "Regular Plan-Growth",
     "Regular Plan-Daily - Daily IDCW"
   ],
-  "extracted_at": "2026-04-18T04:34:08.141187+00:00"
+  "extracted_at": "2026-04-19T03:21:46.489503+00:00"
 }

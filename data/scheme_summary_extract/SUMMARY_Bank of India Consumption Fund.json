@@ -13,6 +13,22 @@
       "REGULAR PLAN-GROWTH",
       "REGULAR PLAN-IDCW REINVESTMENT"
     ],
+    "isins": [
+      "INF761K01GJ5",
+      "INF761K01GI7",
+      "INF761K01GK3",
+      "INF761K01GM9",
+      "INF761K01GL1",
+      "INF761K01GN7"
+    ],
+    "amfi_codes": [
+      "153139",
+      "153140",
+      "153141",
+      "153142",
+      null,
+      null
+    ],
     "riskometer": "Very High",
     "investment_objective": "The Investment objective of the Scheme is to provide long-term capital appreciation from an actively managed portfolio ofequity and equity related securities of companies engaged in consumption and consumption related sector or allied sectors.However, there is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Equity & Equity related instruments of companies engaged in consumption and consumption related sector or allied sectors-80%-100%-Very High Other Equity & Equity Related Instruments-0%-20%-Very High Debt & Money Market Instruments-0%-20%-Low to Medium Units of REITs / INVITs-0% -10%-Very High",
@@ -22,23 +38,7 @@
       "Regular": "2.48",
       "Direct": "1.26"
     },
-    "exit_load": "• If redeemed /switched-out within 3 months from the date of allotment: For 10% of investments-:Nil For remaininginvestments:1% • If redeemed/switched-out after 3 months from the date of allotment: Nil",
-    "amfi_codes": [
-      "153142",
-      "153139",
-      "153140",
-      "153141",
-      "153142",
-      "153139"
-    ],
-    "isins": [
-      "INF761K01GJ5",
-      "INF761K01GI7",
-      "INF761K01GK3",
-      "INF761K01GM9",
-      "INF761K01GL1",
-      "INF761K01GN7"
-    ]
+    "exit_load": "• If redeemed /switched-out within 3 months from the date of allotment: For 10% of investments-:Nil For remaininginvestments:1% • If redeemed/switched-out after 3 months from the date of allotment: Nil"
   },
   "fund_options_inferred": [
     "DIRECT PLAN-IDCW PAYOUT",
@@ -48,5 +48,5 @@
     "REGULAR PLAN-GROWTH",
     "REGULAR PLAN-IDCW REINVESTMENT"
   ],
-  "extracted_at": "2026-04-18T02:54:03.601096+00:00"
+  "extracted_at": "2026-04-19T02:18:16.072928+00:00"
 }

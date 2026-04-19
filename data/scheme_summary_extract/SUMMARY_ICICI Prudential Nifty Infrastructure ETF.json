@@ -22,7 +22,7 @@
     },
     "exit_load": "NIL",
     "amfi_codes": [
-      "150526"
+      "5021"
     ],
     "isins": [
       "INF109KC16E5"
@@ -31,5 +31,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:12:35.619564+00:00"
+  "extracted_at": "2026-04-19T03:08:12.964805+00:00"
 }

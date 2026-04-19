@@ -8,7 +8,7 @@
     "fund_options": [
       "Regular Growth",
       "Regular IDCW Payout",
-      "Regular IDCW Re-Investment",
+      "Regular IDCW Reinvestment",
       "Direct IDCW Payout",
       "Direct Growth",
       "Direct IDCW Reinvestment"
@@ -43,10 +43,10 @@
   "fund_options_inferred": [
     "Regular Growth",
     "Regular IDCW Payout",
-    "Regular IDCW Re-Investment",
+    "Regular IDCW Reinvestment",
     "Direct IDCW Payout",
     "Direct Growth",
     "Direct IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T05:48:20.119450+00:00"
+  "extracted_at": "2026-04-19T04:09:59.564692+00:00"
 }

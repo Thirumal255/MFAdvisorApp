@@ -11,7 +11,7 @@
     ],
     "riskometer": "Very High Risk",
     "investment_objective": "To generate returns that are commensurate (before fees and expenses) with the performance of the NIFTY50 Equal Weight IndexTRI (Underlying Index), subject to tracking error.There is no assurance that the investment objective of the Scheme will beachieved.",
-    "asset_allocation": "Securities covered by NIFTY50 Equal Weight Total Returns Index (TRI): 95% - 100% Debt Securities & Money market instruments:0%- 5%",
+    "asset_allocation": "Securities covered by NIFTY50 Equal Weight Total Returns Index (TRI): 95% - 100% Debt Securities & Money market instruments:0%- 5% The above limits shall not apply to Subscription and Redemption Cash Flow. Subscription cash ﬂow is the subscriptionmoney received for deployment and redemption cash ﬂow is the money kept aside for meeting redemptions. For detailed assetallocation, refer Scheme Information Document (SID) available on the website.",
     "benchmark": "NIFTY50 Equal Weight Index (Total Returns Index)",
     "fund_managers": "FM 1 - Ms. Nandita Menezes, FM 2 - Mr.Arun Agarwal",
     "annual_expense": {
@@ -32,5 +32,5 @@
     "REGULAR PLAN - GROWTH OPTION",
     "DIRECT PLAN - GROWTH OPTION"
   ],
-  "extracted_at": "2026-04-18T03:49:17.825358+00:00"
+  "extracted_at": "2026-04-19T02:53:04.749857+00:00"
 }

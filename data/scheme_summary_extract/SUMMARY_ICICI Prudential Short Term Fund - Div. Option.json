@@ -24,10 +24,10 @@
     "amfi_codes": [
       "120754",
       "120755",
-      "null",
+      "120755",
       "101758",
       "101165",
-      "null"
+      "101165"
     ],
     "riskometer": "Moderate",
     "investment_objective": "To generate income through investments in a range of debt and money market instruments while maintaining the optimum balance of yield, safety and liquidity. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
@@ -51,5 +51,5 @@
     "IDCW - Payout",
     "IDCW - Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:17:16.813347+00:00"
+  "extracted_at": "2026-04-19T03:11:06.329037+00:00"
 }

@@ -31,9 +31,9 @@
     ],
     "riskometer": "Very High",
     "investment_objective": "To generate long-term capital appreciation/income from an actively managed portfolio of multiple asset classes. There is no assurance that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Equity & equity related instruments: Min. 10% Max. 80% Debt and Money Market Instruments: Min. 10% Max. 80% Gold / Silver ETFs: Min. 10% Max. 50% Units issued by REITs and InvITs: Min. 0% and Max. 10%.",
+    "asset_allocation": "Equity & equity related instruments:Min. 10% Max. 80% Debt and Money Market Instruments:Min. 10% Max. 80% Gold / Silver ETFs: Min. 10% Max. 50% Units issued by REITs and InvITs:Min. 0% and Max. 10%.",
     "benchmark": "Nifty 200 TRI (60%) + CRISIL 10 year Gilt Index (30%) + Domestic Price of Gold (5%) + Domestic Price of Silver (5%)",
-    "fund_managers": "Mr. Taher Badshah - Primary , Mr. Amey Sathe - Comanage, Mr. Krishna Cheemalapati - Comanage",
+    "fund_managers": "Mr. Taher Badshah - Primary , Mr. Amey Sathe -Comanage, Mr. Krishna Cheemalapati - Comanage",
     "annual_expense": {
       "Regular": "0.02",
       "Direct": "0.02"
@@ -48,5 +48,5 @@
     "Regular Plan - IDCW Reinvestment",
     "Regular Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T04:24:03.085911+00:00"
+  "extracted_at": "2026-04-19T03:14:45.636134+00:00"
 }

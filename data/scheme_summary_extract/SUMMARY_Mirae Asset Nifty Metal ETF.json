@@ -12,7 +12,7 @@
     "investment_objective": "The investment objective of the scheme is to generate returns, before expenses, that are commensurate with theperformance of the Nifty Metal Total Return Index, subject to tracking error. The Scheme does not guarantee or assure anyreturns. There is no assurance that the investment objective of the scheme will be achieved",
     "asset_allocation": "Securities included in the Nifty Metal Index - 95 to 100% ; Money market instruments including Tri Party REPO/ debtsecurities, Instruments and/or units of debt/liquid schemes of domestic Mutual Funds - 0 to 5 %",
     "benchmark": "Nifty Metal Total Return Index",
-    "fund_managers": "Ms. Ekta Gala (Primary) & Mr. Akhay Udeshi (Primary)",
+    "fund_managers": "Ms. Ekta Gala & Mr. Akhay Udeshi",
     "annual_expense": {
       "Direct": "0.00"
     },
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T05:00:59.766472+00:00"
+  "extracted_at": "2026-04-19T03:38:43.472998+00:00"
 }

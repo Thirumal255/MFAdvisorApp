@@ -13,14 +13,16 @@
       "Regular Plan - IDCW Payout Option",
       "Regular Plan - IDCW Option - Dividend Reinvestment Option"
     ],
-    "isins": [
-      "INF251K01UT7",
-      "INF251K01UU5",
-      "INF251K01UV3",
-      "INF251K01UR1",
-      "INF251K01UX9",
-      "INF251K01US9"
-    ],
+    "riskometer": "Moderate",
+    "investment_objective": "The primary objective of the scheme is to oﬀer regular income and capital appreciation through diversiﬁcation of investments across debt and arbitrage schemes. The Scheme does not guarantee / indicate any returns. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Units of Debt oriented mutual fund schemes of Baroda BNP Paribas Mutual Fund: 50 to 65%; Units of Arbitrage scheme of Baroda BNP Paribas Mutual Fund: 30 to 50% Money Market Instruments: 0 to 5%",
+    "benchmark": "Nifty Composite Debt Index 60% + Nifty Arbitrage Index 40% TRI",
+    "fund_managers": "Mr. Vikram Pamnani",
+    "annual_expense": {
+      "Regular": "0.25",
+      "Direct": "0.05"
+    },
+    "exit_load": "Nil",
     "amfi_codes": [
       "153536",
       "153540",
@@ -29,16 +31,14 @@
       "153538",
       "153538"
     ],
-    "riskometer": "Moderate",
-    "investment_objective": "The primary objective of the scheme is to oﬀer regular income and capital appreciation through diversiﬁcation of investments across debt and arbitrage schemes. The Scheme does not guarantee / indicate any returns. There is no assurance that the investment objective of the Scheme will be achieved",
-    "asset_allocation": "Units of Debt oriented mutual fund schemes of Baroda BNP Paribas Mutual Fund: 50 to 65%; Units of Arbitrage scheme of Baroda BNP Paribas Mutual Fund: 30 to 50% Money Market Instruments: 0 to 5%",
-    "benchmark": "Nifty Composite Debt Index 60% + Nifty Arbitrage Index 40% TRI",
-    "fund_managers": "Mr. Vikram Pamnani (Primary Fund Manager)",
-    "annual_expense": {
-      "Regular": "0.25",
-      "Direct": "0.05"
-    },
-    "exit_load": "Nil"
+    "isins": [
+      "INF251K01UT7",
+      "INF251K01UU5",
+      "INF251K01UV3",
+      "INF251K01UR1",
+      "INF251K01UX9",
+      "INF251K01US9"
+    ]
   },
   "fund_options_inferred": [
     "Direct Plan - Growth Option",
@@ -48,5 +48,5 @@
     "Regular Plan - IDCW Payout Option",
     "Regular Plan - IDCW Option - Dividend Reinvestment Option"
   ],
-  "extracted_at": "2026-04-18T02:59:44.228460+00:00"
+  "extracted_at": "2026-04-19T02:21:47.358618+00:00"
 }

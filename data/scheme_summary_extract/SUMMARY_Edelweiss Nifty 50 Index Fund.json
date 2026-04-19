@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "Edelweiss Nifty 50 Index Fund",
-    "fund_type": "Index Fund",
+    "fund_type": "Index Funds",
     "fund_options": [
       "DIRECT PLAN-GROWTH",
       "DIRECT PLAN-IDCW PAYOUT",
@@ -67,5 +67,5 @@
     "REGULAR PLAN-IDCW REINVESTMENT",
     "REGULAR PLAN-IDCW TRANSFER"
   ],
-  "extracted_at": "2026-04-18T03:26:00.611925+00:00"
+  "extracted_at": "2026-04-19T02:37:20.546717+00:00"
 }

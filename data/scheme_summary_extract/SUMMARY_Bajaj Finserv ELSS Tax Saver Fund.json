@@ -7,9 +7,9 @@
     "fund_type": "An open ended equity linked saving scheme with a statutory lock in of 3 years and tax beneﬁt",
     "fund_options": [
       "Direct Plan - Growth",
-      "Direct Plan - IDCW",
+      "Direct Plan - Payout IDCW",
       "Regular Plan - Growth",
-      "Regular Plan - IDCW"
+      "Regular - Payout IDCW"
     ],
     "riskometer": "Very High",
     "investment_objective": "To generate long term capital appreciation from a diversiﬁed portfolio of predominantly equity and equity related securitieswhile oﬀering deduction on such investment made in the scheme under Section 80C of the Income Tax Act, 1961. However,there is no assurance that the investment objective of the Scheme will be achieved.",
@@ -36,9 +36,9 @@
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
-    "Direct Plan - IDCW",
+    "Direct Plan - Payout IDCW",
     "Regular Plan - Growth",
-    "Regular Plan - IDCW"
+    "Regular - Payout IDCW"
   ],
-  "extracted_at": "2026-04-18T02:25:28.516128+00:00"
+  "extracted_at": "2026-04-19T02:11:03.584314+00:00"
 }

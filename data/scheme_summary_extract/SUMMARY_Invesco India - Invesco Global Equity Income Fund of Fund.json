@@ -13,22 +13,6 @@
       "Direct Plan - IDCW Payout",
       "Direct Plan - IDCW Reinvestment"
     ],
-    "isins": [
-      "INF205K01B15",
-      "INF205K01B23",
-      "INF205K01B31",
-      "INF205K01B49",
-      "INF205K01B56",
-      "INF205K01B64"
-    ],
-    "amfi_codes": [
-      "129188",
-      "129190",
-      "129190",
-      "129187",
-      "129189",
-      "129189"
-    ],
     "riskometer": "Very High",
     "investment_objective": "To provide capital appreciation and/or income by investing predominantly in units of Invesco Global Equity Income Fund, an overseas equity fund which invests primarily in equities of companies worldwide. There is no assurance that the investment objective of the Scheme will be achieved",
     "asset_allocation": "Shares of Invesco Global Equity Income Fund or other similar Overseas Mutual Funds: Min 95% Max 100% Debt and money market securities (including government and corporate debt) / Units of debt and liquid schemes of Invesco Mutual Fund: Min 0% Max 5%",
@@ -38,7 +22,23 @@
       "Regular": "1.4000",
       "Direct": "0.9100"
     },
-    "exit_load": "If upto 10% of Units allotted are redeemed / switched-out within 1 year from the date of allotment - Nil. For any redemption /switchout in excess of 10% of units allotted within one year from the date of allotment - 1%. If units are redeemed or switched-out after 1 year from the date of allotment Nil"
+    "exit_load": "If upto 10% of Units allotted are redeemed / switched-out within 1 year from the date of allotment - Nil. For any redemption /switchout in excess of 10% of units allotted within one year from the date of allotment - 1%. If units are redeemed or switched-out after 1 year from the date of allotment Nil .",
+    "amfi_codes": [
+      "129187",
+      "129189",
+      "129189",
+      "129188",
+      "129190",
+      "129190"
+    ],
+    "isins": [
+      "INF205K01B23",
+      "INF205K01B31",
+      "INF205K01B49",
+      "INF205K01B15",
+      "INF205K01B56",
+      "INF205K01B64"
+    ]
   },
   "fund_options_inferred": [
     "Regular Plan - Growth",
@@ -48,5 +48,5 @@
     "Direct Plan - IDCW Payout",
     "Direct Plan - IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:19:33.802836+00:00"
+  "extracted_at": "2026-04-19T03:12:21.112968+00:00"
 }

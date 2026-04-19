@@ -45,19 +45,19 @@
       "145968",
       "145963",
       "145964",
-      "145964",
+      "null",
       "145965",
-      "145965",
+      "null",
       "145972",
-      "145972",
+      "null",
       "145971",
       "145969",
       "145970",
-      "145970",
+      "null",
       "145966",
-      "145966",
+      "null",
       "145967",
-      "145967"
+      "null"
     ],
     "riskometer": "Low to Moderate risk",
     "investment_objective": "The investment objective of the Scheme is to generate optimal returns consistent with moderate levels of risk and high liquidity by investing in high quality debt and money market instruments. There is no assurance that the investment objective of the Scheme will be achieved.",
@@ -88,5 +88,5 @@
     "Direct-Monthly IDCW Reinvestment",
     "Direct-Monthly IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T06:14:10.940291+00:00"
+  "extracted_at": "2026-04-19T04:30:03.813495+00:00"
 }

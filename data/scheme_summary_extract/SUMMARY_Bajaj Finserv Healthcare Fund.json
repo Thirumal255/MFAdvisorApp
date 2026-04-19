@@ -13,22 +13,6 @@
       "Regular Plan - Reinvestment IDCW",
       "Regular - Payout IDCW"
     ],
-    "isins": [
-      "INF0QA701AB9",
-      "INF0QA701AD5",
-      "INF0QA701AC7",
-      "INF0QA701987",
-      "INF0QA701AA1",
-      "INF0QA701995"
-    ],
-    "amfi_codes": [
-      "153157",
-      "153156",
-      "153156",
-      "153155",
-      "153158",
-      "153158"
-    ],
     "riskometer": "Very High",
     "investment_objective": "The objective of the Scheme is to generate long term capital appreciation by predominantly investing in equity and equityrelated securities of pharma, healthcare and allied companies. However, there is no assurance that the investment objective ofthe Scheme will be achieved.",
     "asset_allocation": "Equity and Equity Related Securities of pharma, healthcare and allied companies - 80% - 100%, Equities and Equity relatedsecurities of other than pharma, healthcare and allied companies - 0% - 20% Debt and Money Market Instruments and Units ofMutual Fund schemes - 0% - 20% Units issued by REITs and InvITs - 0% - 10%",
@@ -38,7 +22,23 @@
       "Regular": "2.39",
       "Direct": "0.74"
     },
-    "exit_load": "Entry load – Nil Exit load – For each purchase of units through Lumpsum / switch-in / Systematic Investment Plan (SIP) andSystematic Transfer Plan (STP), exit load will be as follows: • if units are redeemed / switched out within 3 months from the dateof allotment: 1% of applicable NAV. • if units are redeemed/switched out after 3 months from the date of allotment, no exitload is payable. The Scheme will not levy exit load in case the timelines for rebalancing portfolio as stated in SEBI MasterCircular for Mutual Funds dated June 27, 2024, is not complied with. The Trustee / AMC reserves the right to change the loadstructure any time in the future if they so deem ﬁt on a prospective basis. The investor is requested to check the prevailing loadstructure of the scheme before investing."
+    "exit_load": "Entry load – Nil Exit load – For each purchase of units through Lumpsum / switch-in / Systematic Investment Plan (SIP) andSystematic Transfer Plan (STP), exit load will be as follows: • if units are redeemed / switched out within 3 months from the dateof allotment: 1% of applicable NAV. • if units are redeemed/switched out after 3 months from the date of allotment, no exitload is payable. The Scheme will not levy exit load in case the timelines for rebalancing portfolio as stated in SEBI MasterCircular for Mutual Funds dated June 27, 2024, is not complied with. The Trustee / AMC reserves the right to change the loadstructure any time in the future if they so deem ﬁt on a prospective basis. The investor is requested to check the prevailing loadstructure of the scheme before investing.",
+    "amfi_codes": [
+      "153157",
+      "153156",
+      "153156",
+      "153155",
+      "153158",
+      "153158"
+    ],
+    "isins": [
+      "INF0QA701AB9",
+      "INF0QA701AD5",
+      "INF0QA701AC7",
+      "INF0QA701987",
+      "INF0QA701AA1",
+      "INF0QA701995"
+    ]
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -48,5 +48,5 @@
     "Regular Plan - Reinvestment IDCW",
     "Regular - Payout IDCW"
   ],
-  "extracted_at": "2026-04-18T02:25:49.257467+00:00"
+  "extracted_at": "2026-04-19T02:11:23.349597+00:00"
 }

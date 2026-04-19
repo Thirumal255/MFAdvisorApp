@@ -42,7 +42,7 @@
       "INF194K01J85"
     ],
     "amfi_codes": [
-      "108633",
+      "116020",
       "118368",
       "108632",
       "118370",
@@ -51,13 +51,13 @@
       "108634",
       "118373",
       "118371",
-      "116020",
-      null,
+      "273R",
+      "108633",
       "118369",
-      null,
-      null,
+      "118372",
+      "108634",
       "116413",
-      null
+      "118368"
     ],
     "riskometer": "Low to Moderate",
     "investment_objective": "The Scheme seeks to oﬀer an investment avenue for short term savings by looking to generate returns commensurate with a lowrisk strategy from a portfolio that is invested in debt and money market securities such that the Macaulay duration of theportfolio is between 6 months and 12 months.",
@@ -88,5 +88,5 @@
     "REGULAR PLAN - Quarterly IDCW Payout",
     "DIRECT PLAN - Daily IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T02:49:52.808977+00:00"
+  "extracted_at": "2026-04-19T02:15:29.649847+00:00"
 }

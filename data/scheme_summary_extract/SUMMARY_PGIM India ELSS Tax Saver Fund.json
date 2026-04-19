@@ -18,7 +18,7 @@
     "fund_managers": "Mr. Vivek Sharma, Mr. Utsav Mehta, Mr. Vinay Paharia and Mr. Bhupesh Kalyani",
     "annual_expense": {
       "Regular": "2.25",
-      "Direct": "0.7"
+      "Direct": "0.72"
     },
     "exit_load": "NIL",
     "amfi_codes": [
@@ -38,5 +38,5 @@
     "Regular IDCW",
     "Regular Growth"
   ],
-  "extracted_at": "2026-04-18T05:24:39.129014+00:00"
+  "extracted_at": "2026-04-19T03:54:44.703686+00:00"
 }

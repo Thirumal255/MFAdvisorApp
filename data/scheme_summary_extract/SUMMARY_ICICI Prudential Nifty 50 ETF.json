@@ -10,7 +10,7 @@
     ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely correspond to the total return of the underlying index subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
-    "asset_allocation": "• Securities of companies constituting Nifty 50 Index (the Underlying Index) = 95% - 100% \n• Money Market Instruments having residual maturity upto 91 days = 0% - 5%",
+    "asset_allocation": "• Securities of companies constituting Nifty 50 Index (the Underlying Index) = 95% - 100% • Money Market Instruments having residual maturity upto 91 days = 0% - 5%",
     "benchmark": "Nifty 50 TRI",
     "fund_managers": [
       "Nishit Patel",
@@ -32,5 +32,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:10:41.953807+00:00"
+  "extracted_at": "2026-04-19T03:06:59.646713+00:00"
 }

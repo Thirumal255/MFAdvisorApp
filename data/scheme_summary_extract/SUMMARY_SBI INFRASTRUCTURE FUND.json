@@ -11,6 +11,18 @@
       "Direct Plan - IDCW",
       "Direct Plan - Growth"
     ],
+    "isins": [
+      "INF200K01CV8",
+      "INF200K01CT2",
+      "INF200K01RR4",
+      "INF200K01RS2"
+    ],
+    "amfi_codes": [
+      "106095",
+      "106096",
+      "119695",
+      "119700"
+    ],
     "riskometer": "VERY HIGH",
     "investment_objective": "To provide investors with opportunities for long-term growth in capital through an active management of investments in a diversified basket of equity stocks of companies directly or indirectly involved in the infrastructure growth of the Indian economy and in debt & money market instruments.",
     "asset_allocation": {
@@ -26,19 +38,7 @@
       "Regular": "1.73",
       "Direct": "0.86"
     },
-    "exit_load": "For exit on or before 30 days from the date of allotment - 0.50%; For exit after 30 days from the date of allotment - Nil.",
-    "amfi_codes": [
-      "106095",
-      "106096",
-      "119695",
-      "119700"
-    ],
-    "isins": [
-      "INF200K01CV8",
-      "INF200K01CT2",
-      "INF200K01RR4",
-      "INF200K01RS2"
-    ]
+    "exit_load": "For exit on or before 30 days from the date of allotment - 0.50%; For exit after 30 days from the date of allotment - Nil."
   },
   "fund_options_inferred": [
     "Regular Plan - IDCW",
@@ -46,5 +46,5 @@
     "Direct Plan - IDCW",
     "Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:38:50.721203+00:00"
+  "extracted_at": "2026-04-19T04:04:08.498421+00:00"
 }

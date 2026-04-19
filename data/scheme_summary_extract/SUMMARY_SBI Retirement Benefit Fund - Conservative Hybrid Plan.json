@@ -11,18 +11,6 @@
       "Direct Plan - IDCW",
       "Regular Plan - IDCW"
     ],
-    "isins": [
-      "INF200KA1T54",
-      "INF200KA1T70",
-      "INF200KA1T88",
-      "INF200KA1T62"
-    ],
-    "amfi_codes": [
-      "148692",
-      "148690",
-      "148693",
-      "148697"
-    ],
     "riskometer": "HIGH",
     "investment_objective": "The investment objective of the scheme is to provide a comprehensive retirement saving solution that serves the variable needs of the investors through long term diversified investments in major asset classes. However there can be no assurance that the investment objective of the Scheme will be realized.",
     "asset_allocation": {
@@ -39,7 +27,19 @@
     "annual_expense": {
       "Direct": "0.99"
     },
-    "exit_load": "NIL"
+    "exit_load": "NIL",
+    "amfi_codes": [
+      "148692",
+      "148690",
+      "148693",
+      "148697"
+    ],
+    "isins": [
+      "INF200KA1T54",
+      "INF200KA1T70",
+      "INF200KA1T88",
+      "INF200KA1T62"
+    ]
   },
   "fund_options_inferred": [
     "Regular Plan - Growth",
@@ -47,5 +47,5 @@
     "Direct Plan - IDCW",
     "Regular Plan - IDCW"
   ],
-  "extracted_at": "2026-04-18T05:43:45.896101+00:00"
+  "extracted_at": "2026-04-19T04:07:14.471277+00:00"
 }

@@ -6,43 +6,44 @@
     "fund_name": "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF",
     "fund_type": "Others - Fund of Funds",
     "fund_options": [
-      "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - Direct Plan - Growth",
-      "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - Direct Plan - IDCW",
-      "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - Growth",
-      "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - IDCW"
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Growth",
+      "IDCW"
     ],
-    "isins": [
-      "INF109KC1R89",
-      "INF109KC1S05",
-      "INF109KC1R55",
-      "INF109KC1R71"
+    "riskometer": "Very High\nAs on October 31, 2025",
+    "investment_objective": "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF (the Scheme) is a Fund of Funds scheme with the primary objective to generate returns by investing in units of ICICI Prudential Alpha Low Vol 30 ETF. There can be no assurance or guarantee that the investment objectives of the Scheme would be achieved.",
+    "asset_allocation": "• Units of ICICI Prudential Alpha Low Vol 30 ETF 95% - 100% Medium to High\n• Units of Liquid schemes/ Money Market Instruments (with maturity not exceeding 91 days), including Tri-Party Repo 0% - 5% Low to Medium",
+    "benchmark": "Nifty Alpha Low -Volatility 30 TRI",
+    "fund_managers": [
+      "Nishit Patel",
+      "Ashwini Bharucha"
     ],
+    "annual_expense": {
+      "Regular": "0.53",
+      "Direct": "0.10"
+    },
+    "exit_load": "NIL",
     "amfi_codes": [
       "149158",
       "149160",
       "149157",
       "149159"
     ],
-    "riskometer": "Very High\nAs on October 31, 2025",
-    "investment_objective": "ICICI Prudential Nifty Alpha Low-Volatility 30 ETF FOF (the Scheme) is a Fund of Funds scheme with the primary objective to generate returns by investing in units of ICICI Prudential Alpha Low Vol 30 ETF. There can be no assurance or guarantee that the investment objectives of the Scheme would be achieved.",
-    "asset_allocation": "• Units of ICICI Prudential Alpha Low Vol 30 ETF 95% - 100% Medium to High\n• Units of Liquid schemes/ Money Market Instruments (with maturity not exceeding 91 days), including Tri-Party Repo 0% - 5% Low to Medium",
-    "benchmark": "Nifty Alpha Low -Volatility 30 TRI",
-    "fund_managers": [
-      "Nishit Patel",
-      "Ashwini Bharucha",
-      "Venus Ahuja"
-    ],
-    "annual_expense": {
-      "Regular": "0.53",
-      "Direct": "0.10"
-    },
-    "exit_load": "NIL"
+    "isins": [
+      "INF109KC1R89",
+      "INF109KC1S05",
+      "INF109KC1R97",
+      "INF109KC1R55",
+      "INF109KC1R71",
+      "INF109KC1R63"
+    ]
   },
   "fund_options_inferred": [
-    "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - Direct Plan - Growth",
-    "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - Direct Plan - IDCW",
-    "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - Growth",
-    "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF FOF - IDCW"
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Growth",
+    "IDCW"
   ],
-  "extracted_at": "2026-04-18T04:11:06.272947+00:00"
+  "extracted_at": "2026-04-19T03:07:16.442876+00:00"
 }

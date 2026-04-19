@@ -13,7 +13,7 @@
     ],
     "riskometer": "Moderately High",
     "investment_objective": "The primary investment objective of the Scheme is income generation and capital appreciation for its investors which will be in line with their retirement goals by investing in a mix of equity, equity related instruments along with debt and money market instruments. The Scheme does not guarantee/indicate any returns. There can be no assurance that the schemes’ objectives will be achieved.",
-    "asset_allocation": "Instruments -  Risk Profile -  Range\nDebt & Money Market Instruments -  Low to Medium - 75%-100%\nEquity & Equity related instruments - Medium to High - 0%-25%",
+    "asset_allocation": "Debt & Money Market Instruments -  Low to Medium - 75%-100%, Equity & Equity related instruments - Medium to High - 0%-25%",
     "benchmark": "CRISIL Short Term Debt Hybrid 75+25 Index",
     "fund_managers": [
       {
@@ -51,5 +51,5 @@
     "Regular - Payout of IDCW",
     "Direct Plan-Growth"
   ],
-  "extracted_at": "2026-04-18T02:16:56.476761+00:00"
+  "extracted_at": "2026-04-19T02:03:02.294380+00:00"
 }

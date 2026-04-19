@@ -23,11 +23,11 @@
     ],
     "amfi_codes": [
       "151749",
+      null,
       "151748",
-      "151749",
       "151750",
-      "151751",
-      "151750"
+      null,
+      "151751"
     ],
     "riskometer": "Very High Risk",
     "investment_objective": "To provide long-term capital appreciation by investing predominantly in equity and equity related securities of Defence & allied sector companies.There is no assurance that the investment objective of the Scheme will be achieved.",
@@ -48,5 +48,5 @@
     "Regular Plan - IDCW Payout Option",
     "Regular Plan - IDCW Re-investment Option"
   ],
-  "extracted_at": "2026-04-18T03:41:49.806471+00:00"
+  "extracted_at": "2026-04-19T02:47:55.110774+00:00"
 }

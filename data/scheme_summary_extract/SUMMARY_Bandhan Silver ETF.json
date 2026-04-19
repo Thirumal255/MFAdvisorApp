@@ -12,7 +12,7 @@
     "investment_objective": "The fund seeks to provide returns that, before expenses, closely correspond to the total return of the underlying index,subject to tracking errors.",
     "asset_allocation": "Physical Silver and Silver related instruments - 95% - 100% Debt & Money Market instruments - 0%- 5%",
     "benchmark": "Domestic Price of Physical Silver",
-    "fund_managers": "Mr. Abhishek Jain",
+    "fund_managers": "FM 1 - Mr. Abhishek Jain",
     "annual_expense": {
       "Direct": "0.00"
     },
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T02:52:36.452275+00:00"
+  "extracted_at": "2026-04-19T02:17:20.687810+00:00"
 }

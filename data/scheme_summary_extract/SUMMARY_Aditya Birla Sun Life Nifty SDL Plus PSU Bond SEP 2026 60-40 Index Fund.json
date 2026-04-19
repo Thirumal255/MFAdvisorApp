@@ -24,8 +24,8 @@
       "149201"
     ],
     "riskometer": "Low to Moderate",
-    "investment_objective": "The investment objective of the scheme is to track the Nifty SDL Plus PSU Bond Sep 2026 60:40 Index by investing in PSU Bonds and SDLs, maturing on or before September 2026, subject to tracking errors. The Scheme does not guarantee/indicate any returns. There can be no assurance that the schemes’ objectives will be achieved.",
-    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme will be as follows: Instruments - Risk Profile -  Range Bonds issued by PSUs forming part of the bonds portion of the Nifty SDL Plus PSU Bond Sep 2026 60:40 Index State Development Loans (SDLs) forming part of the SDL portion of the Nifty SDL Plus PSU Bond Sep 2026 60:40 Index - Moderate - 95%-100%. Cash and Money Market Instruments - Low - 0%-5%",
+    "investment_objective": "The investment objective of the scheme is to track the Nifty SDL Plus PSU Bond Sep 2026 60:40 Index by investing in PSU Bonds and SDLs, maturing on or before September 2026, subject to tracking errors.\nThe Scheme does not guarantee/indicate any returns. There can be no assurance that the schemes’ objectives will be achieved.",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme will be as follows:\nInstruments - Risk Profile -  Range\nBonds issued by PSUs forming part of the bonds portion of the Nifty SDL Plus PSU Bond Sep 2026 60:40 Index\nState Development Loans (SDLs) forming part of the SDL portion of the Nifty SDL Plus PSU Bond Sep 2026 60:40 Index - Moderate - 95%-100%.\nCash and Money Market Instruments - Low - 0%-5%",
     "benchmark": "Nifty SDL Plus PSU Bond Sep 2026 60:40 Index",
     "fund_managers": "Mr. Mohit Sharma",
     "annual_expense": {
@@ -40,5 +40,5 @@
     "Aditya Birla Sun Life Nifty SDL Plus PSU Bond SEP 2026 60 40 Index Fund-Direct IDCW",
     "Aditya Birla Sun Life Nifty SDL Plus PSU Bond SEP 2026 60 40 Index Fund-Regular IDCW"
   ],
-  "extracted_at": "2026-04-18T02:15:57.848793+00:00"
+  "extracted_at": "2026-04-19T02:02:10.619836+00:00"
 }

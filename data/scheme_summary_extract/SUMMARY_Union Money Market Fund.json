@@ -64,8 +64,8 @@
     "asset_allocation": "Money Market Instruments ^: 0% - 100% of net assets, ^having maturity upto 1 year. Please refer the Scheme Information Document for complete details.",
     "benchmark": "CRISIL Money Market A-I Index.",
     "fund_managers": [
-      "FM 1 - Mr. Devesh Thacker",
-      "FM 2 - Mr. Parijat Agrawal"
+      "Mr. Devesh Thacker",
+      "Mr. Parijat Agrawal"
     ],
     "annual_expense": {
       "Regular": "0.66",
@@ -91,5 +91,5 @@
     "Regular Plan - Monthly Transfer of IDCW Plan",
     "Direct Plan - Monthly Transfer of IDCW Plan"
   ],
-  "extracted_at": "2026-04-18T06:03:47.015393+00:00"
+  "extracted_at": "2026-04-19T04:21:27.599448+00:00"
 }

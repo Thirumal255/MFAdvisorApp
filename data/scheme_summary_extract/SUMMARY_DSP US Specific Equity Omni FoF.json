@@ -13,16 +13,14 @@
       "Regular Plan - IDCW",
       "Regular Plan - IDCW - Reinvest"
     ],
-    "riskometer": "Very High",
-    "investment_objective": "The primary investment objective of the Scheme is to seek capital appreciation by investing in units of Funds/ ETFs which provides exposure to US equity markets. The Scheme may also invest a certain portion of its corpus in cash and cash equivalents, in order to meet liquidity requirements from time to time. There is no assurance that the investment objective of the Scheme will be achieved",
-    "asset_allocation": "1. Units of mutual fund schemes/ETFs that provides exposure to US equity market: 95% to 100% 2. Cash and Cash Equivalents:0% to 5% For detailed asset allocation pattern, please refer to the Scheme Information Document",
-    "benchmark": "Russell 1000 TR",
-    "fund_managers": "Ms. Kaivalya Nadkarni",
-    "annual_expense": {
-      "Regular": "2.35",
-      "Direct": "1.53"
-    },
-    "exit_load": "Nil",
+    "isins": [
+      "INF740K01OH7",
+      "INF740K01OI5",
+      "INF740K01OJ3",
+      "INF740K01LP6",
+      "INF740K01LQ4",
+      "INF740K01LR2"
+    ],
     "amfi_codes": [
       "119252",
       "119253",
@@ -31,14 +29,16 @@
       "117692",
       "176923"
     ],
-    "isins": [
-      "INF740K01OH7",
-      "INF740K01OI5",
-      "INF740K01OJ3",
-      "INF740K01LP6",
-      "INF740K01LQ4",
-      "INF740K01LR2"
-    ]
+    "riskometer": "Very High",
+    "investment_objective": "The primary investment objective of the Scheme is to seek capital appreciation by investing in units of Funds/ ETFs which provides exposure to US equity markets. The Scheme may also invest a certain portion of its corpus in cash and cash equivalents, in order to meet liquidity requirements from time to time. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "1. Units of mutual fund schemes/ETFs that provides exposure to US equity market: 95% to 100% 2. Cash and Cash Equivalents:0% to 5%",
+    "benchmark": "Russell 1000 TR",
+    "fund_managers": "Ms. Kaivalya Nadkarni",
+    "annual_expense": {
+      "Regular": "2.35",
+      "Direct": "1.53"
+    },
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -48,5 +48,5 @@
     "Regular Plan - IDCW",
     "Regular Plan - IDCW - Reinvest"
   ],
-  "extracted_at": "2026-04-18T03:18:05.626258+00:00"
+  "extracted_at": "2026-04-19T02:33:02.681456+00:00"
 }

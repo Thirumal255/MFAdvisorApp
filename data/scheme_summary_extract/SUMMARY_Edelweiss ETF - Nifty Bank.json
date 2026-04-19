@@ -10,7 +10,7 @@
     ],
     "riskometer": "Very High Risk",
     "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely correspond to the total returns of the Nifty Bank subject to tracking errors. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns",
-    "asset_allocation": "1. Stocks constituting Nifty Bank - 95-100%\n2. Debt & money market instruments (with unexpired maturity not exceeding 91 days) and Liquid Schemes - 0-5%",
+    "asset_allocation": "1. Stocks constituting Nifty Bank - 95-100% 2. Debt & money market instruments (with unexpired maturity not exceeding 91 days) and Liquid Schemes - 0-5%",
     "benchmark": "Nifty Bank TR Index",
     "fund_managers": [
       "Mr. Bhavesh Jain",
@@ -30,5 +30,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T03:22:20.656438+00:00"
+  "extracted_at": "2026-04-19T02:35:15.508983+00:00"
 }

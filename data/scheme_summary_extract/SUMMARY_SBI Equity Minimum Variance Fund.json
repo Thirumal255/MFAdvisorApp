@@ -11,6 +11,18 @@
       "Direct Plan - IDCW",
       "Direct Plan - Growth"
     ],
+    "isins": [
+      "INF200KA1A63",
+      "INF200KA1A48",
+      "INF200KA1A97",
+      "INF200KA1A71"
+    ],
+    "amfi_codes": [
+      "146641",
+      "146644",
+      "146642",
+      "146643"
+    ],
     "riskometer": "VERY HIGH",
     "investment_objective": "The investment objective of the scheme is to provide long term capital appreciation by investing in a diversified basket of companies in Nifty 50 Index while aiming for minimizing the portfolio volatility.However there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
     "asset_allocation": {
@@ -26,19 +38,7 @@
       "Regular": "0.77",
       "Direct": "0.45"
     },
-    "exit_load": "For exit on or before 15 days from the date of allotment – 0.5% For exit after 15 days from the date of allotment - Nil",
-    "amfi_codes": [
-      "146641",
-      "146644",
-      "146642",
-      "146643"
-    ],
-    "isins": [
-      "INF200KA1A63",
-      "INF200KA1A48",
-      "INF200KA1A97",
-      "INF200KA1A71"
-    ]
+    "exit_load": "For exit on or before 15 days from the date of allotment – 0.5% For exit after 15 days from the date of allotment - Nil"
   },
   "fund_options_inferred": [
     "Regular Plan - IDCW",
@@ -46,5 +46,5 @@
     "Direct Plan - IDCW",
     "Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:37:38.732317+00:00"
+  "extracted_at": "2026-04-19T04:03:22.326989+00:00"
 }

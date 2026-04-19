@@ -10,7 +10,7 @@
       "Regular Plan-IDCW Reinv",
       "Regular Plan-Growth",
       "Direct Plan-IDCW Payout",
-      "Direct Plan-IDCW Reinv",
+      "Direct Plan-IDCWReinv",
       "Direct Plan-Growth",
       "PF Plan-IDCW Payout",
       "PF Plan-IDCW Reinv",
@@ -54,11 +54,11 @@
     "Regular Plan-IDCW Reinv",
     "Regular Plan-Growth",
     "Direct Plan-IDCW Payout",
-    "Direct Plan-IDCW Reinv",
+    "Direct Plan-IDCWReinv",
     "Direct Plan-Growth",
     "PF Plan-IDCW Payout",
     "PF Plan-IDCW Reinv",
     "PF Plan-Growth"
   ],
-  "extracted_at": "2026-04-18T04:45:07.049778+00:00"
+  "extracted_at": "2026-04-19T03:28:55.024042+00:00"
 }

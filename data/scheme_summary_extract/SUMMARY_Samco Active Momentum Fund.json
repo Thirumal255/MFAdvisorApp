@@ -9,14 +9,6 @@
       "Samco Active Momentum Fund - Regular Plan Growth",
       "Samco Active Momentum Fund - Direct Plan Growth"
     ],
-    "isins": [
-      "INF0K1H01073",
-      "INF0K1H01081"
-    ],
-    "amfi_codes": [
-      "151752",
-      "151753"
-    ],
     "riskometer": "Very High (The Scheme risk-o-meter is based on evalution of the portfolio data as on November 30,2025)",
     "investment_objective": "The investment objective of the Scheme is to seek to generate long-term capital appreciation by investing in stocks showing strong momentum. Momentum stocks are such that exhibit positive price momentum – based on the phenomenon that stocks which have performed well in the past relative to other stocks (winners) continue to perform well in the future, and stocks that have performed relatively poorly (losers) continue to perform poorly.  However, there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
     "asset_allocation": "Equity & Equity related instruments of momentum theme – 80% to 100% \nEquity and Equity related securities of other Companies - 0% to 20%\nDebt and Money Market instruments – 0 to 20%",
@@ -31,11 +23,19 @@
       "Regular": "2.29",
       "Direct": "0.86"
     },
-    "exit_load": "• 1.00% if the investment is redeemed or switched out on or before 365 days from the date of allotment of units\n• No Exit Load will be charged if investment is redeemed or switched out after 365 days from the date of allotment of units.\n(With effect from October 03, 2024)."
+    "exit_load": "• 1.00% if the investment is redeemed or switched out on or before 365 days from the date of allotment of units\n• No Exit Load will be charged if investment is redeemed or switched out after 365 days from the date of allotment of units.\n(With effect from October 03, 2024).",
+    "amfi_codes": [
+      "151752",
+      "151753"
+    ],
+    "isins": [
+      "INF0K1H01073",
+      "INF0K1H01081"
+    ]
   },
   "fund_options_inferred": [
     "Samco Active Momentum Fund - Regular Plan Growth",
     "Samco Active Momentum Fund - Direct Plan Growth"
   ],
-  "extracted_at": "2026-04-18T05:32:49.375443+00:00"
+  "extracted_at": "2026-04-19T04:00:19.461020+00:00"
 }

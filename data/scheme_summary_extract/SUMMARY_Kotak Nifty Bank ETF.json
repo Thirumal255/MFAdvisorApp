@@ -12,10 +12,7 @@
     "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely correspond to the total returns ofstocks as represented by the Nifty Bank Index subject to tracking errors. There is no assurance or guarantee that the investmentobjective of the scheme will be achieved.",
     "asset_allocation": "Stocks comprising Nifty Bank Index - 95% to 100% - Medium to High (Risk Proﬁle) Cash and debt/money market instruments - 0%to 5% - Low (Risk Proﬁle)",
     "benchmark": "Nifty Bank Index TRI",
-    "fund_managers": [
-      "FM 1 Mr. Devender Singhal",
-      "FM 2 Mr. Satish Dondapati"
-    ],
+    "fund_managers": "FM 1 Mr. Devender Singhal FM 2 Mr. Satish Dondapati",
     "annual_expense": {
       "Direct": "0.00"
     },
@@ -30,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:38:45.730529+00:00"
+  "extracted_at": "2026-04-19T03:24:54.059540+00:00"
 }

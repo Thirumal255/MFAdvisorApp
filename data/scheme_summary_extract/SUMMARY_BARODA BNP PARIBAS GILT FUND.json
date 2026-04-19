@@ -13,6 +13,22 @@
       "DIRECT PLAN B IDCW Reinvestment",
       "DIRECT PLAN B IDCW PAYOUT"
     ],
+    "isins": [
+      "INF955L01450",
+      "INF955L01443",
+      "INF955L01435",
+      "INF955L01AD7",
+      "INF955L01AC9",
+      "INF955L01AB1"
+    ],
+    "amfi_codes": [
+      "101187",
+      "101188",
+      null,
+      "119341",
+      "119340",
+      null
+    ],
     "riskometer": "Moderate",
     "investment_objective": "The primary objective of the Scheme is to generate income by investing in a portfolio of government securities.",
     "asset_allocation": "Government of India, State Government dated Securities, T-Bills 80% - 100% Debt and Money Market Instruments 0% - 20%",
@@ -22,23 +38,7 @@
       "Regular": "0.4500",
       "Direct": "0.1400"
     },
-    "exit_load": "NIL",
-    "amfi_codes": [
-      "101187",
-      "101188",
-      null,
-      "119341",
-      "119340",
-      null
-    ],
-    "isins": [
-      "INF955L01450",
-      "INF955L01443",
-      "INF955L01435",
-      "INF955L01AD7",
-      "INF955L01AC9",
-      "INF955L01AB1"
-    ]
+    "exit_load": "NIL"
   },
   "fund_options_inferred": [
     "REGULAR PLAN A GROWTH",
@@ -48,5 +48,5 @@
     "DIRECT PLAN B IDCW Reinvestment",
     "DIRECT PLAN B IDCW PAYOUT"
   ],
-  "extracted_at": "2026-04-18T02:59:11.916922+00:00"
+  "extracted_at": "2026-04-19T02:21:30.134701+00:00"
 }

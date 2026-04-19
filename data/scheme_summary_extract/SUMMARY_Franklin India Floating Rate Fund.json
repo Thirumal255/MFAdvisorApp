@@ -11,6 +11,18 @@
       "Direct - Growth",
       "Regular - IDCW Reinv."
     ],
+    "isins": [
+      "INF090I01LM7",
+      "INF090I01LL9",
+      "INF090I01LK1",
+      "INF090I01LN5"
+    ],
+    "amfi_codes": [
+      "101048",
+      "118507",
+      "118508",
+      "101044"
+    ],
     "riskometer": "Moderate",
     "investment_objective": "The primary investment objective of the Scheme is to provide income and liquidity consistent with the prudent risk from aportfolio comprising of ﬂoating rate debt instruments, ﬁxed rate debt instruments swapped for ﬂoating rate return, and alsoﬁxed rate instruments and money market instruments.",
     "asset_allocation": "Floating Rate debt instruments (including ﬁxed rate instruments converted to ﬂoating rate exposures using swaps/ derivatives):65-100% Debt (other than ﬂoating rate instruments), Money market instruments and Units issued by Infrastructure InvestmentTrust (InvIT): 0-35%",
@@ -20,19 +32,7 @@
       "Regular": "0.95",
       "Direct": "0.24"
     },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "101048",
-      "118507",
-      "118508",
-      "101044"
-    ],
-    "isins": [
-      "INF090I01LM7",
-      "INF090I01LL9",
-      "INF090I01LK1",
-      "INF090I01LN5"
-    ]
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "Regular - Growth",
@@ -40,5 +40,5 @@
     "Direct - Growth",
     "Regular - IDCW Reinv."
   ],
-  "extracted_at": "2026-04-18T03:31:08.774784+00:00"
+  "extracted_at": "2026-04-19T02:40:04.591306+00:00"
 }

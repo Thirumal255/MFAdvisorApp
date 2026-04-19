@@ -13,22 +13,6 @@
       "IDCW Re-investment Option - Regular Plan",
       "IDCW Re-investment Option - Direct Plan"
     ],
-    "isins": [
-      "INF966L01CG3",
-      "INF966L01CD0",
-      "INF966L01CH1",
-      "INF966L01CE8",
-      "INF966L01CI9",
-      "INF966L01CF5"
-    ],
-    "amfi_codes": [
-      "151855",
-      "151853",
-      "151856",
-      "151854",
-      null,
-      null
-    ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the scheme is to seek long term capital appreciation by investing in equity/equity related instruments of companies from the healthcare sector. There is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Equity and Equity related instruments in Healthcare space (including units issued by REITs)  :- 80-100% Equity and equity related instruments other than Healthcare space (including units issued by REITs):- 0-20% Debt & Money Market instruments:- 0-20% Units issued by InvITs:- 0-5% Foreign securities including ADRs / GDRs / Foreign equity and debt securities and Overseas ETFs:- 0-20%",
@@ -74,7 +58,23 @@
       "Regular": "2.42",
       "Direct": "0.83"
     },
-    "exit_load": "For redemptions / switch outs (including SIP/STP) within 15 days from the date of allotment of units, irrespective of the amount of investment: 1% No exit load shall be applicable on switches from Regular Plan to Direct Plan and vice versa, under the same scheme."
+    "exit_load": "For redemptions / switch outs (including SIP/STP) within 15 days from the date of allotment of units, irrespective of the amount of investment: 1% No exit load shall be applicable on switches from Regular Plan to Direct Plan and vice versa, under the same scheme.",
+    "amfi_codes": [
+      "151855",
+      "151853",
+      "151856",
+      "151854",
+      null,
+      null
+    ],
+    "isins": [
+      "INF966L01CG3",
+      "INF966L01CD0",
+      "INF966L01CH1",
+      "INF966L01CE8",
+      "INF966L01CI9",
+      "INF966L01CF5"
+    ]
   },
   "fund_options_inferred": [
     "Growth Option - Regular Plan",
@@ -84,5 +84,5 @@
     "IDCW Re-investment Option - Regular Plan",
     "IDCW Re-investment Option - Direct Plan"
   ],
-  "extracted_at": "2026-04-18T05:28:56.696022+00:00"
+  "extracted_at": "2026-04-19T03:57:44.950350+00:00"
 }

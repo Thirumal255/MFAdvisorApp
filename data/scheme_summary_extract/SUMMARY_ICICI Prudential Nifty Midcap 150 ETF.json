@@ -10,7 +10,7 @@
     ],
     "riskometer": "Very High\nAs on October 31, 2025",
     "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely correspond to the total return of the underlying index, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
-    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index(Nifty Midcap 150 Index) 95%-100% \n• Units of debtschemes, TREPs#,Repo and Reverse Repo,cash & cash equivalents. 0%-5%",
+    "asset_allocation": "• Equity and Equity related securities of    companies    constituting    the underlying  index(Nifty  Midcap  150 Index) 95%-100% \n• Units of debtschemes, TREPs#,Repo  and  Reverse  Repo,cash  & cash equivalents. 0%-5%",
     "benchmark": "Nifty Midcap 150 TRI",
     "fund_managers": [
       "Ashwini Bharucha",
@@ -31,5 +31,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:13:06.417907+00:00"
+  "extracted_at": "2026-04-19T03:08:34.694328+00:00"
 }

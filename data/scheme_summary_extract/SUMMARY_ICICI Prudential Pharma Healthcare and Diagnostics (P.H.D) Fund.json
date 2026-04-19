@@ -6,10 +6,10 @@
     "fund_name": "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund",
     "fund_type": "Open Ended",
     "fund_options": [
-      "Direct Plan - Growth",
-      "Direct Plan - IDCW",
-      "Growth",
-      "IDCW"
+      "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund - Direct Plan - Growth",
+      "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund - Direct Plan - IDCW",
+      "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund - Growth",
+      "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund - IDCW"
     ],
     "isins": [
       "INF109KC1GH2",
@@ -38,10 +38,10 @@
     "exit_load": "1% of the applicable NAV - If units purchased or switched in from another scheme of the Fund are redeemed or switched out within 15 days from the date of allotment NIL - If units purchased or switched in from another scheme of the Fund are redeemed or switched out after 15 days from the date of allotment (w.e.f. 1st Jan 2019)"
   },
   "fund_options_inferred": [
-    "Direct Plan - Growth",
-    "Direct Plan - IDCW",
-    "Growth",
-    "IDCW"
+    "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund - Direct Plan - Growth",
+    "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund - Direct Plan - IDCW",
+    "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund - Growth",
+    "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund - IDCW"
   ],
-  "extracted_at": "2026-04-18T04:15:46.040802+00:00"
+  "extracted_at": "2026-04-19T03:10:15.489537+00:00"
 }

@@ -48,16 +48,16 @@
       "150561",
       "150559",
       "150563",
-      null,
-      null,
+      "150563",
+      "150559",
       "150566",
       "150564",
-      null,
-      null,
+      "150564",
+      "150566",
       "150560",
       "150567",
-      null,
-      null
+      "150567",
+      "150560"
     ],
     "riskometer": "Low Risk",
     "investment_objective": "The primary objective of the scheme is to generate returns commensurate with low risk and providing high level of liquidity, through investments made in debt and money market instruments with overnight maturity.",
@@ -88,5 +88,5 @@
     "Direct Monthly IDCW Payout",
     "Regular Monthly IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T05:45:32.938151+00:00"
+  "extracted_at": "2026-04-19T04:08:15.444901+00:00"
 }

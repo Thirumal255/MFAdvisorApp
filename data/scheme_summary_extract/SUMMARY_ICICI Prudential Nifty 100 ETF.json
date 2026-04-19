@@ -8,12 +8,11 @@
     "fund_options": [
       "Growth"
     ],
-    "riskometer": "Very High As on 04-Nov-24",
-    "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely correspond to the total return of the underlying index subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
-    "asset_allocation": "• Securities of companies constituting Nifty 100 index (the Underlying Index) = 95% - 100% • Money market instruments having residual maturity upto 91 days = 0% - 5%",
+    "riskometer": "Very High\nAs on 04-Nov-24",
+    "investment_objective": "The investment objective of the scheme is to provide returns before expenses that closely \ncorrespond to the total return of the underlying index subject to tracking errors.\nHowever, there can be no assurance or guarantee that the investment objective of the \nScheme would be achieved.",
+    "asset_allocation": "• Securities of companies constituting Nifty 100 index (the Underlying Index) = 95% - 100% \n• Money market instruments having residual maturity upto 91 days = 0% - 5%",
     "benchmark": "Nifty 100 TRI",
     "fund_managers": [
-      "Venus Ahuja",
       "Nishit Patel",
       "Ajaykumar Solanki",
       "Ashwini Bharucha"
@@ -23,7 +22,7 @@
     },
     "exit_load": null,
     "amfi_codes": [
-      123004
+      "123004"
     ],
     "isins": [
       "INF109KA1962"
@@ -32,5 +31,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:09:59.738164+00:00"
+  "extracted_at": "2026-04-19T03:06:32.502526+00:00"
 }

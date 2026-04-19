@@ -13,7 +13,7 @@
       "IDCW - Monthly",
       "IDCW - Quarterly"
     ],
-    "riskometer": "Low to Moderate",
+    "riskometer": "Moderate",
     "investment_objective": "To generate income through investing predominantly in AA+ and above rated corporate bonds while maintaining the optimum balance of yield, safety and liquidity. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
     "asset_allocation": "Debt & money market instruments = 0% -100%",
     "benchmark": "NIFTY Corporate Bond Index",
@@ -51,5 +51,5 @@
     "IDCW - Monthly",
     "IDCW - Quarterly"
   ],
-  "extracted_at": "2026-04-18T04:02:52.928636+00:00"
+  "extracted_at": "2026-04-19T03:02:04.756500+00:00"
 }

@@ -15,10 +15,7 @@
     "investment_objective": "The investment objective is to generate reasonable returns with high liquidity to the unitholders",
     "asset_allocation": "Debt & Money Market instruments having maturity upto 91 days 0-100.",
     "benchmark": "CRISIL Liquid Debt A-I Index",
-    "fund_managers": [
-      "FM-1 Amit Somani",
-      "FM-2 Harsh Dave"
-    ],
+    "fund_managers": "FM-1 Amit Somani, FM-2 Harsh Dave",
     "annual_expense": {
       "Regular": "0.31",
       "Direct": "0.20"
@@ -43,5 +40,5 @@
     "Tata Liquid Fund Regular Plan -Growth",
     "Tata Liquid Fund Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:53:58.144439+00:00"
+  "extracted_at": "2026-04-19T04:13:50.449714+00:00"
 }

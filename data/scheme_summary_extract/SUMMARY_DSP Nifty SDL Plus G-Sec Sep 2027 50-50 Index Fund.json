@@ -13,6 +13,22 @@
       "Direct - IDCW",
       "Direct - IDCW-Reinvest"
     ],
+    "isins": [
+      "INF740KA1SE1",
+      "INF740KA1SF8",
+      "INF740KA1SG6",
+      "INF740KA1SH4",
+      "INF740KA1SI2",
+      "INF740KA1SJ0"
+    ],
+    "amfi_codes": [
+      "151370",
+      "151372",
+      "151372",
+      "151373",
+      "151371",
+      "151371"
+    ],
     "riskometer": "Low to Moderate",
     "investment_objective": "The investment objective of the scheme is to track the Nifty SDL Plus G-Sec Sep 2027 50:50 Index by investing in GovernmentSecurities (G-Sec) and SDLs, maturing on or before September, 2027 and seeks to generate returns that are commensurate(before fees and expenses) with the performance of the underlying Index, subject to tracking error. However, there is noassurance that the investment objective of the Scheme will be achieved. The Scheme does not assure or guarantee any returns.",
     "asset_allocation": "1. Government Securities forming part of the G-Sec portion of NIFTY SDL Plus G-Sec Sep 2027 50:50 Index and State DevelopmentLoans (SDLs) forming part of the NIFTY SDL Plus G-Sec Sep 2027 50:50 Index - 95% to 100% 2. Cash and Cash Equivalents - 0% to5%",
@@ -22,23 +38,7 @@
       "Regular": "0.32",
       "Direct": "0.16"
     },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "151370",
-      "151372",
-      "151372",
-      "151373",
-      "151371",
-      "151371"
-    ],
-    "isins": [
-      "INF740KA1SE1",
-      "INF740KA1SF8",
-      "INF740KA1SG6",
-      "INF740KA1SH4",
-      "INF740KA1SI2",
-      "INF740KA1SJ0"
-    ]
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "Regular - Growth",
@@ -48,5 +48,5 @@
     "Direct - IDCW",
     "Direct - IDCW-Reinvest"
   ],
-  "extracted_at": "2026-04-18T03:16:05.261112+00:00"
+  "extracted_at": "2026-04-19T02:31:46.976374+00:00"
 }

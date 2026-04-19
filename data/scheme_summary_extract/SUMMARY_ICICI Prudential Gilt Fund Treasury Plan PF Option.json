@@ -11,6 +11,20 @@
       "Growth",
       "IDCW"
     ],
+    "isins": [
+      "INF109K018C5",
+      "INF109K016C9",
+      "INF109K017C7",
+      "INF109K01JR4",
+      "INF109K01JQ6",
+      "INF109K01JP8"
+    ],
+    "amfi_codes": [
+      "120590",
+      "120589",
+      "100369",
+      "100368"
+    ],
     "riskometer": "Moderate",
     "investment_objective": "To generate income primarily through investment in Gilts of various maturities. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
     "asset_allocation": "• Government Securities across maturity = 80%-100% \n• Other Debt Securities and Money Market Instruments = 0%-20%\nThe Scheme may also take exposure to:\n• Securitized debt up to 20% of the net assets in other debt and money market instruments\n• Derivatives up to 100% of the net assets",
@@ -23,19 +37,7 @@
       "Regular": "1.09",
       "Direct": "0.56"
     },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "120590",
-      "120589",
-      "100369",
-      "100368"
-    ],
-    "isins": [
-      "INF109K018C5",
-      "INF109K016C9",
-      "INF109K01JR4",
-      "INF109K01JQ6"
-    ]
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -43,5 +45,5 @@
     "Growth",
     "IDCW"
   ],
-  "extracted_at": "2026-04-18T04:06:04.971258+00:00"
+  "extracted_at": "2026-04-19T03:04:11.971469+00:00"
 }

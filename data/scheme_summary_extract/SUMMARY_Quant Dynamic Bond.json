@@ -6,7 +6,7 @@
     "fund_name": "quant Dynamic Asset Allocation Fund",
     "fund_type": "An Open Ended Dynamic Asset Allocation Fund",
     "fund_options": [
-      "Growth Option - Regualr Plan",
+      "Growth Option - Regular Plan",
       "Growth Option - Direct Plan",
       "IDCW Payout Option - Regular Plan",
       "IDCW Payout Option - Direct Plan",
@@ -49,12 +49,12 @@
     ]
   },
   "fund_options_inferred": [
-    "Growth Option - Regualr Plan",
+    "Growth Option - Regular Plan",
     "Growth Option - Direct Plan",
     "IDCW Payout Option - Regular Plan",
     "IDCW Payout Option - Direct Plan",
     "IDCW Re-investment Option - Regular Plan",
     "IDCW Re-investment Option - Direct Plan"
   ],
-  "extracted_at": "2026-04-18T05:28:02.027187+00:00"
+  "extracted_at": "2026-04-19T03:57:04.933092+00:00"
 }

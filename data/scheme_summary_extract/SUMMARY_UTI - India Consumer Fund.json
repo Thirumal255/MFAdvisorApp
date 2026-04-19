@@ -13,6 +13,22 @@
       "Direct Plan-Reinvestment of IDCW",
       "Direct Plan-Payout of IDCW"
     ],
+    "isins": [
+      "INF789F01CE6",
+      "INF789F01CG1",
+      "INF789F01CF3",
+      "INF789F01VF3",
+      "INF789F01VH9",
+      "INF789F01VG1"
+    ],
+    "amfi_codes": [
+      "106425",
+      "106426",
+      null,
+      "120780",
+      "120781",
+      null
+    ],
     "riskometer": "Very High",
     "investment_objective": "The objective of the scheme is to generate long term capital appreciation by investing predominantly in companies that areexpected to beneﬁt from the growth of consumption, changing demographics, consumer aspirations and lifestyle. However,there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
     "asset_allocation": "Equity and equity related instruments (minimum 80% of the total assets would be in equity and equity related instruments ofcompanies related to the theme of Indian Lifestyle & are part of benchmark sectors) (Including units of REITS): 80-100%(Medium to High) Debt and Money Market instruments including securitized debt#: 0-20% (Low to Medium) Units issued byInvITs: 0-10% (Medium to High) # The fund may invest up to 50% of its debt portfolio in securitized debt",
@@ -27,23 +43,7 @@
       "Regular": "2.45",
       "Direct": "1.59"
     },
-    "exit_load": "1.00% if redeemed before 30 days from the date of investment.",
-    "amfi_codes": [
-      "106425",
-      "106426",
-      null,
-      "120780",
-      "120781",
-      null
-    ],
-    "isins": [
-      "INF789F01CE6",
-      "INF789F01CG1",
-      "INF789F01CF3",
-      "INF789F01VF3",
-      "INF789F01VH9",
-      "INF789F01VG1"
-    ]
+    "exit_load": "1.00% if redeemed before 30 days from the date of investment."
   },
   "fund_options_inferred": [
     "Regular Plan-Growth",
@@ -53,5 +53,5 @@
     "Direct Plan-Reinvestment of IDCW",
     "Direct Plan-Payout of IDCW"
   ],
-  "extracted_at": "2026-04-18T06:06:49.074980+00:00"
+  "extracted_at": "2026-04-19T04:24:18.005434+00:00"
 }

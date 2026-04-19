@@ -13,22 +13,6 @@
       "Regular Plan - IDCW Reinvestment",
       "Regular Plan - Growth"
     ],
-    "isins": [
-      "INF205KA1AI8",
-      "INF205KA1AJ6",
-      "INF205KA1AK4",
-      "INF205KA1AG2",
-      "INF205KA1AH0",
-      "INF205KA1AF4"
-    ],
-    "amfi_codes": [
-      "153291",
-      "153290",
-      "153290",
-      "153289",
-      "153289",
-      "153288"
-    ],
     "riskometer": "Very High",
     "investment_objective": "To generate long term capital appreciation by investing predominantly in equity and equity related securities with a focus onriding business cycles through dynamic allocation between various sectors and stocks at diﬀerent stages of business cycles in theeconomy. There is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Equity and Equity related instruments selected on the basis of business cycle : Min 80% Max 100% Other equity and equityrelated instruments : Min 0% Max 20% Debt and Money Market Instruments : Min 0% Max 20% Units issued by REITs and InvITs: Min 0% Max 10%",
@@ -38,7 +22,23 @@
       "Regular": "0.0225",
       "Direct": "0.0225"
     },
-    "exit_load": "if units are redeemed/switched out on or before 3 months from the date of allotment: 0.50% if units are redeemed/switched-out after 3 months: Nil Switch between the Plans under the Scheme: Nil"
+    "exit_load": "if units are redeemed/switched out on or before 3 months from the date of allotment: 0.50% if units are redeemed/switched-out after 3 months: Nil Switch between the Plans under the Scheme: Nil",
+    "amfi_codes": [
+      "153291",
+      "153290",
+      "153290",
+      "153289",
+      "153289",
+      "153288"
+    ],
+    "isins": [
+      "INF205KA1AI8",
+      "INF205KA1AJ6",
+      "INF205KA1AK4",
+      "INF205KA1AG2",
+      "INF205KA1AH0",
+      "INF205KA1AF4"
+    ]
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -48,5 +48,5 @@
     "Regular Plan - IDCW Reinvestment",
     "Regular Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T04:20:23.859593+00:00"
+  "extracted_at": "2026-04-19T03:12:49.330088+00:00"
 }

@@ -5,14 +5,7 @@
   "data": {
     "fund_name": "MOTILAL OSWAL LARGE CAP FUND",
     "fund_type": "An open-ended equity scheme predominantly investing in large cap stocks",
-    "fund_options": [
-      "Regular IDCW Payout",
-      "Regular IDCW Reinvestment",
-      "Direct IDCW Payout",
-      "Direct IDCW Reinvestment",
-      "Regular Growth",
-      "Direct Growth"
-    ],
+    "fund_options": null,
     "riskometer": "Very High",
     "investment_objective": "To achieve long term capital appreciation by predominantly investing in equity and equity related instruments of large cap companies. However, there can be no assurance that the investment objective of the scheme will be realized.",
     "asset_allocation": "Equity and Equity related instruments of Large cap companies, Equity and Equity-related Instruments of companies other than Large cap companies including foreign companies, Debt and Money Market instruments (including cash and cash equivalents), Liquid and Debt Schemes of Mutual Fund, Units issued by REITs and InvITs.",
@@ -50,8 +43,7 @@
       }
     ],
     "annual_expense": {
-      "Regular": "2.25",
-      "Direct": "2.25"
+      "Regular": "2.25"
     },
     "exit_load": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment.",
     "amfi_codes": [
@@ -70,12 +62,10 @@
     ]
   },
   "fund_options_inferred": [
-    "Regular IDCW Payout",
-    "Regular IDCW Reinvestment",
-    "Direct IDCW Payout",
-    "Direct IDCW Reinvestment",
     "Regular Growth",
-    "Direct Growth"
+    "Direct Growth",
+    "Regular Payout of IDCW",
+    "Direct Payout of IDCW"
   ],
-  "extracted_at": "2026-04-18T05:05:13.061008+00:00"
+  "extracted_at": "2026-04-19T03:41:50.429079+00:00"
 }

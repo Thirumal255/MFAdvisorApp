@@ -9,8 +9,8 @@
       "Growth"
     ],
     "riskometer": "Very High Risk",
-    "investment_objective": "The investment objective of the Scheme is to provide investment returns that, before expenses, correspond to the total returns of the Securities as represented by the NIFTY Private Bank Index, subject to tracking errors.There is no assurance that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Securities covered by NIFTY Private Bank Index (TRI): 95% - 100%; Debt Securities & Money Market Instruments, units of Debt Schemes of Mutual Funds : 0% -5%. For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
+    "investment_objective": "The investment objective of the Scheme is to provide investment returns that, before expenses, correspond to the total returnsof the Securities as represented by the NIFTY Private Bank Index, subject to tracking errors.There is no assurance that theinvestment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities covered by NIFTY Private Bank Index (TRI): 95% - 100%; Debt Securities & Money Market Instruments, units of DebtSchemes of Mutual Funds : 0% -5%. For detailed asset allocation, refer Scheme Information Document (SID) available on thewebsite.",
     "benchmark": "NIFTY Private Bank Index (TRI)",
     "fund_managers": "FM 1 - Mr. Abhishek Mor, FM 2 - Mr.Arun Agarwal",
     "annual_expense": {
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T03:47:59.275829+00:00"
+  "extracted_at": "2026-04-19T02:52:15.032581+00:00"
 }

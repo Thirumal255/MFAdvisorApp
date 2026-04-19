@@ -14,8 +14,8 @@
       "Direct - IDCW Payout"
     ],
     "riskometer": "Very High",
-    "investment_objective": "The Investment Objective of the Scheme is to provide long-term capital growth to its Unitholders by following a value investment strategy.",
-    "asset_allocation": "Equity and Equity related instruments: 65%-100% Debt Securities, Money Market Instruments, units issued by Infrastructure Investment Trust (InvIT) and Cash: 0%-35%",
+    "investment_objective": "The Investment Objective of the Scheme is to provide long-term capital growth to its Unitholders by following a valueinvestment strategy.",
+    "asset_allocation": "Equity and Equity related instruments: 65%-100% Debt Securities, Money Market Instruments, units issued by InfrastructureInvestment Trust (InvIT) and Cash: 0%-35%",
     "benchmark": "Nifty 500",
     "fund_managers": "Ajay Argal, Rajasa Kakulavarapu, Sandeep Manam (Dedicated Foreign Fund Manager)",
     "annual_expense": {
@@ -28,7 +28,7 @@
       "118493",
       "100497",
       "118494",
-      "100496",
+      "100497",
       "118493"
     ],
     "isins": [
@@ -48,5 +48,5 @@
     "Regular - IDCW Reinv.",
     "Direct - IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T05:58:10.928165+00:00"
+  "extracted_at": "2026-04-19T04:17:15.742284+00:00"
 }

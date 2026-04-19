@@ -29,11 +29,11 @@
       "Regular": "1.61",
       "Direct": "0.67"
     },
-    "exit_load": "If the units are redeemed / switched out on or before 90 days from the date of allotment – 1.00%, If the units are redeemed / switched out after 90 days from the date of allotment – Nil"
+    "exit_load": "If the units are redeemed / switched out on or before 90 days from the date of allotment – 1.00%. If the units are redeemed / switched out after 90 days from the date of allotment – Nil"
   },
   "fund_options_inferred": [
     "Direct Plan Growth",
     "Regular Plan Growth"
   ],
-  "extracted_at": "2026-04-18T03:23:22.490130+00:00"
+  "extracted_at": "2026-04-19T02:35:53.677602+00:00"
 }

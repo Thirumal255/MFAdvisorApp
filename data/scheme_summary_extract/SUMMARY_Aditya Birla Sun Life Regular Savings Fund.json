@@ -25,7 +25,7 @@
     ],
     "riskometer": "Moderately High",
     "investment_objective": "The primary objective of the scheme is to generate regular income so as to make monthly payments or distribution to unit holders, with the secondary objective being growth of capital. There can be no assurance that the Scheme objectives will be realised.",
-    "asset_allocation": "Debt and Money Market securities (including securitized debt upto maximum of 50%) - Low to Medium - 75%-90%, Equities and equity related instruments - Medium to High - 10%-25%, Units issued by InvITs - Medium to High - 0%-10%",
+    "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme will be as follows:\nInstruments - Risk Profile -  Range\nDebt and Money Market securities (including securitized debt upto maximum of 50%) - Low to Medium - 75%-90%\nEquities and equity related instruments - Medium to High - 10%-25%\nUnits issued by InvITs - Medium to High - 0%-10%",
     "benchmark": "CRISIL Hybrid 85+15 - Conservative Index",
     "fund_managers": [
       {
@@ -51,5 +51,5 @@
     "REGULAR - MONTHLY IDCW",
     "Growth / Payment - Regular Plan"
   ],
-  "extracted_at": "2026-04-18T02:16:41.758372+00:00"
+  "extracted_at": "2026-04-19T02:02:49.334180+00:00"
 }

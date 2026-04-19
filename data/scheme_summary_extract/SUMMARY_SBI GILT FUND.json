@@ -7,43 +7,19 @@
     "fund_type": "An open-ended Debt Scheme investing in government securities across maturity",
     "fund_options": [
       "Regular Plan - IDCW",
-      "Regular Plan - IDCW",
-      "Regular Plan - IDCW",
-      "Regular Plan - IDCW",
-      "Regular Plan - IDCW",
-      "Regular Plan - Growth",
-      "Regular Plan - Growth",
-      "Regular Plan - Growth",
-      "Regular Plan - Growth",
       "Regular Plan - Growth",
       "Direct Plan - Growth",
       "Direct Plan - IDCW"
     ],
     "isins": [
       "INF200K01AA6",
-      "INF200K01AM1",
-      "INF200K01AD0",
-      "INF200K01AG3",
-      "INF200K01AJ7",
       "INF200K01982",
-      "INF200K01AK5",
-      "INF200K01SH3",
-      "INF200K01SF7",
-      "INF200K01AH1",
       "INF200K01SH3",
       "INF200K01SG5"
     ],
     "amfi_codes": [
       "100999",
-      "101935",
-      "101950",
-      "101951",
-      "101952",
       "101001",
-      "101932",
-      "102061",
-      "101933",
-      "101934",
       "119707",
       "119706"
     ],
@@ -63,17 +39,9 @@
   },
   "fund_options_inferred": [
     "Regular Plan - IDCW",
-    "Regular Plan - IDCW",
-    "Regular Plan - IDCW",
-    "Regular Plan - IDCW",
-    "Regular Plan - IDCW",
-    "Regular Plan - Growth",
-    "Regular Plan - Growth",
-    "Regular Plan - Growth",
-    "Regular Plan - Growth",
     "Regular Plan - Growth",
     "Direct Plan - Growth",
     "Direct Plan - IDCW"
   ],
-  "extracted_at": "2026-04-18T05:38:20.561599+00:00"
+  "extracted_at": "2026-04-19T04:03:46.735021+00:00"
 }

@@ -6,18 +6,14 @@
     "fund_name": "Motilal Oswal Gold and Silver ETFs Fund of Funds",
     "fund_type": "Fund of Funds",
     "fund_options": [
-      "Regular Growth",
-      "Direct Growth"
+      "Growth"
     ],
     "riskometer": "Very High",
-    "investment_objective": "The objective of this scheme is to generate returns by investing in units of Gold ETFs and Silver ETFs. However, the performance of the scheme may differ from that of the underlying gold and silver ETFs due to tracking error of the underlying exchange traded funds. There can be no assurance or guarantee that the investment objective of the scheme would be achieved",
+    "investment_objective": "The objective of this scheme is to generate returns by investing in units of Gold ETFs and Silver ETFs.   However, the performance of the scheme may differ from that of the underlying gold and silver ETFs due to tracking error of the underlying exchange traded funds. There can be no assurance or guarantee that the investment objective of the scheme would be achieved",
     "asset_allocation": "Units of Gold ETFs & Silver ETFs  - 95%-100%\n- Units of liquid Scheme/ debt schemes, Debt and Money Market Instruments - 0%-5%",
     "benchmark": "Tier 1 LBMA Price of Gold and Silver",
     "fund_managers": [
-      {
-        "name": "Mr. Rakesh Shetty",
-        "from_date": "22/11/2022"
-      }
+      "Mr. Rakesh Shetty"
     ],
     "annual_expense": {},
     "exit_load": "Yes",
@@ -31,8 +27,7 @@
     ]
   },
   "fund_options_inferred": [
-    "Regular Growth",
-    "Direct Growth"
+    "Growth"
   ],
-  "extracted_at": "2026-04-18T05:05:00.418688+00:00"
+  "extracted_at": "2026-04-19T03:41:39.357744+00:00"
 }

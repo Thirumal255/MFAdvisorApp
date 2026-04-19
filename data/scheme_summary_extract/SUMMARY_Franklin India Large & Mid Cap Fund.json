@@ -15,7 +15,7 @@
     ],
     "riskometer": "Very High",
     "investment_objective": "Seeks to provide medium to long-term capital appreciation by investing primarily in Large and Mid-cap stocks.",
-    "asset_allocation": "Equity and Equity linked instruments of large cap companies: 35-65% Equity and Equity linked instruments of Mid cap companies: 35-65% Equity and Equity linked instruments of other companies: 0-30% Debt & Money Market Instruments: 0-30%",
+    "asset_allocation": "Equity and Equity linked instruments of large cap companies: 35-65% Equity and Equity linked instruments of Mid capcompanies: 35-65% Equity and Equity linked instruments of other companies: 0-30% Debt & Money Market Instruments: 0-30%",
     "benchmark": "NIFTY LargeMidcap 250",
     "fund_managers": "Venkatesh Sanjeevi, R. Janakiraman Sandeep Manam (dedicated for making investments for Foreign Securities)",
     "annual_expense": {
@@ -28,8 +28,8 @@
       "118509",
       "102884",
       "118510",
-      null,
-      null
+      "102884",
+      "118509"
     ],
     "isins": [
       "INF090I01205",
@@ -48,5 +48,5 @@
     "Regular - IDCW Reinv.",
     "Direct - IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T03:31:38.896225+00:00"
+  "extracted_at": "2026-04-19T02:40:23.226818+00:00"
 }

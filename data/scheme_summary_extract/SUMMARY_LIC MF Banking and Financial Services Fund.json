@@ -10,7 +10,7 @@
       "Regular Plan-IDCW Reinv",
       "Regular Plan-Growth",
       "Direct Plan-IDCW payout",
-      "Direct Plan-IDCW Reinv",
+      "Direct Plan-IDCWReinv",
       "Direct Plan-Growth"
     ],
     "riskometer": "Very High",
@@ -45,8 +45,8 @@
     "Regular Plan-IDCW Reinv",
     "Regular Plan-Growth",
     "Direct Plan-IDCW payout",
-    "Direct Plan-IDCW Reinv",
+    "Direct Plan-IDCWReinv",
     "Direct Plan-Growth"
   ],
-  "extracted_at": "2026-04-18T04:43:33.853090+00:00"
+  "extracted_at": "2026-04-19T03:27:56.882336+00:00"
 }

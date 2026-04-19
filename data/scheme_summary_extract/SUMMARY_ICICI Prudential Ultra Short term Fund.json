@@ -6,19 +6,18 @@
     "fund_name": "ICICI Prudential Ultra Short Term Fund",
     "fund_type": "Open Ended",
     "fund_options": [
-      "ICICI Prudential Ultra Short Term Fund - Direct Plan - Growth",
       "ICICI Prudential Ultra Short Term Fund - Direct Plan - IDCW - Daily",
       "ICICI Prudential Ultra Short Term Fund - Direct Plan - IDCW - Monthly",
       "ICICI Prudential Ultra Short Term Fund - Direct Plan - IDCW - Quarterly",
       "ICICI Prudential Ultra Short Term Fund - Direct Plan - IDCW - Weekly",
-      "ICICI Prudential Ultra Short Term Fund - Growth",
+      "ICICI Prudential Ultra Short Term Fund - Direct Plan - Growth",
       "ICICI Prudential Ultra Short Term Fund - IDCW - Daily",
       "ICICI Prudential Ultra Short Term Fund - IDCW - Monthly",
       "ICICI Prudential Ultra Short Term Fund - IDCW - Quarterly",
-      "ICICI Prudential Ultra Short Term Fund - Weekly IDCW"
+      "ICICI Prudential Ultra Short Term Fund - Weekly IDCW",
+      "ICICI Prudential Ultra Short Term Fund - Growth"
     ],
     "isins": [
-      "INF109K01T04",
       "INF109KC1MY5",
       "INF109K01T38",
       "INF109K01T53",
@@ -27,10 +26,10 @@
       "INF109KC1ND7",
       "INF109K01TR3",
       "INF109K01TT9",
-      "INF109KC1NF2"
+      "INF109KC1NF2",
+      "INF109K01TP7"
     ],
     "amfi_codes": [
-      "120676",
       "145404",
       "120677",
       "120675",
@@ -39,7 +38,8 @@
       "145399",
       "115094",
       "115091",
-      "145402"
+      "145402",
+      "115092"
     ],
     "riskometer": "Moderate",
     "investment_objective": "To generate income through investments in a range of debt and money market instruments. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
@@ -56,16 +56,16 @@
     "exit_load": "Nil"
   },
   "fund_options_inferred": [
-    "ICICI Prudential Ultra Short Term Fund - Direct Plan - Growth",
     "ICICI Prudential Ultra Short Term Fund - Direct Plan - IDCW - Daily",
     "ICICI Prudential Ultra Short Term Fund - Direct Plan - IDCW - Monthly",
     "ICICI Prudential Ultra Short Term Fund - Direct Plan - IDCW - Quarterly",
     "ICICI Prudential Ultra Short Term Fund - Direct Plan - IDCW - Weekly",
-    "ICICI Prudential Ultra Short Term Fund - Growth",
+    "ICICI Prudential Ultra Short Term Fund - Direct Plan - Growth",
     "ICICI Prudential Ultra Short Term Fund - IDCW - Daily",
     "ICICI Prudential Ultra Short Term Fund - IDCW - Monthly",
     "ICICI Prudential Ultra Short Term Fund - IDCW - Quarterly",
-    "ICICI Prudential Ultra Short Term Fund - Weekly IDCW"
+    "ICICI Prudential Ultra Short Term Fund - Weekly IDCW",
+    "ICICI Prudential Ultra Short Term Fund - Growth"
   ],
-  "extracted_at": "2026-04-18T04:18:50.836367+00:00"
+  "extracted_at": "2026-04-19T03:12:00.222398+00:00"
 }

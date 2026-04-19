@@ -28,12 +28,12 @@
     "amfi_codes": [
       "148591",
       "148590",
-      null,
-      null,
+      "148590",
+      "148590",
       "148592",
       "148593",
-      null,
-      null
+      "148593",
+      "148593"
     ],
     "isins": [
       "INF582M01HC4",
@@ -56,5 +56,5 @@
     "Direct Plan - Reinvestment of IDCW Option",
     "Direct Plan - Transfer of IDCW Plan"
   ],
-  "extracted_at": "2026-04-18T06:00:25.662831+00:00"
+  "extracted_at": "2026-04-19T04:19:03.018858+00:00"
 }

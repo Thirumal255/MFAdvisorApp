@@ -13,16 +13,8 @@
     "asset_allocation": "Constituents of Nifty 500 Index Min 95% Max 100% Units of Liquid Schemes and Money Market Instruments Min 0% Max 5%",
     "benchmark": "Nifty 500 Total Return Index",
     "fund_managers": [
-      {
-        "name": "Mr. Swapnil Mayekar",
-        "type": "For Equity Component",
-        "from_date": "Since Inception"
-      },
-      {
-        "name": "Mr. Rakesh Shetty",
-        "type": "For Debt Securities",
-        "from_date": "Since Inception"
-      }
+      "Mr. Swapnil Mayekar",
+      "Mr. Rakesh Shetty"
     ],
     "annual_expense": {
       "Direct": "1.00"
@@ -38,5 +30,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T05:06:27.539071+00:00"
+  "extracted_at": "2026-04-19T03:42:44.080891+00:00"
 }

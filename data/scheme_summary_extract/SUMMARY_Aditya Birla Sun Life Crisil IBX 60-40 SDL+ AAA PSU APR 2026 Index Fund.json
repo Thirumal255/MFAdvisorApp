@@ -25,7 +25,7 @@
     ],
     "riskometer": "Low",
     "investment_objective": "The investment objective of the Scheme is to generate returns corresponding to the total returns of the securities as represented by the CRISIL IBX 60:40 SDL + AAA PSU Index – April 2026 before expenses, subject to tracking errors. The Scheme does not guarantee/indicate any returns. There can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Instruments forming part of the CRISIL IBX 60:40 SDL + AAA PSU Index – April 2026  - 95 to 100%- Moderate; Cash and Debt/Money Market Instruments - 0 to 5% - Low",
+    "asset_allocation": "Instruments forming part of the CRISIL IBX 60:40 SDL + AAA PSU Index – April 2026  - 95 to 100%- Moderate Cash and Debt/Money Market Instruments - 0 to 5% - Low",
     "benchmark": "CRISIL IBX 60:40 SDL + AAA PSU Index – April 2026",
     "fund_managers": [
       {
@@ -51,5 +51,5 @@
     "Regular Growth",
     "Regular IDCW"
   ],
-  "extracted_at": "2026-04-18T02:08:39.002327+00:00"
+  "extracted_at": "2026-04-19T01:56:43.810214+00:00"
 }

@@ -12,7 +12,10 @@
     "investment_objective": "The investment objective of the scheme is to provide investment returns closely corresponding to the total returns of the securities as represented by the Nifty CPSE Bond Plus SDL Sep 2024 50:50 Index before expenses, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Bonds issued by CPSEs/CPSUs/ CPFIs and other Government organisations representing the bonds portion of Nifty CPSE Bond Plus SDL Sep 2024 50:50 Index and State Development Loans (SDLs) representing the SDL portion of Nifty CPSE Bond Plus SDL Sep 2024 50:50 Index – 95% to 100%. Money Market instruments - 0% to 5%.",
     "benchmark": "Nifty CPSE Bond Plus SDL Sep 2024 50:50 Index",
-    "fund_managers": "FM 1 Vivek Sharma, FM 2 Siddharth Deb",
+    "fund_managers": [
+      "Vivek Sharma",
+      "Siddharth Deb"
+    ],
     "annual_expense": {
       "Direct": "0.2000"
     },
@@ -27,5 +30,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T05:13:11.065300+00:00"
+  "extracted_at": "2026-04-19T03:47:22.259448+00:00"
 }

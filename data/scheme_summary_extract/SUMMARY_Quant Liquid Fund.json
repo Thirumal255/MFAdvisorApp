@@ -24,20 +24,28 @@
       "INF966L01820",
       "INF966L01291",
       "INF966L01796",
+      "INF966L01812",
+      "INF966L01309",
       "INF966L01499",
       "INF966L01788",
-      "INF966L01275",
-      "INF966L01770"
+      "INF966L01804",
+      "INF966L01283",
+      "INF966L01770",
+      "INF966L01275"
     ],
     "amfi_codes": [
       "103225",
       "120837",
       "103228",
       "120838",
+      "103228",
+      "103228",
       "103227",
       "120839",
-      "103226",
-      "120836"
+      "120839",
+      "103227",
+      "120836",
+      "103226"
     ],
     "riskometer": "Moderate",
     "investment_objective": "The investment objective of the scheme is to generate income through a portfolio comprising money market and debt instruments. There is no assurance that the investment objective of the Scheme will be achieved.",
@@ -75,5 +83,5 @@
     "Daily IDCW Reinvestment - Direct Plan",
     "Daily IDCW Reinvestment - Regular Plan"
   ],
-  "extracted_at": "2026-04-18T05:29:36.318938+00:00"
+  "extracted_at": "2026-04-19T03:58:08.744937+00:00"
 }

@@ -12,6 +12,20 @@
       "DIRECT PLAN - Growth",
       "REGULAR PLAN - IDCW Payout"
     ],
+    "isins": [
+      "INF194K01318",
+      "INF194K01Y37",
+      "INF194K01292",
+      "INF194K01Y29",
+      "INF194K01300"
+    ],
+    "amfi_codes": [
+      "111570",
+      "118472",
+      "111569",
+      "118473",
+      null
+    ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the Scheme is to seek to generate long term capital growth from a diversiﬁed portfolio of predominantly equity and equity related securities.",
     "asset_allocation": "Equities & Equity Related securities - 80%-100%, Debt & Money Market instruments - 0%-20%, Securitised debt instruments -0%-20%",
@@ -21,21 +35,7 @@
       "Regular": "1.74",
       "Direct": "0.66"
     },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "111570",
-      "118472",
-      "111569",
-      "118473",
-      null
-    ],
-    "isins": [
-      "INF194K01318",
-      "INF194K01Y37",
-      "INF194K01292",
-      "INF194K01Y29",
-      "INF194K01300"
-    ]
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "REGULAR PLAN - IDCW Reinvestment",
@@ -44,5 +44,5 @@
     "DIRECT PLAN - Growth",
     "REGULAR PLAN - IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T02:48:01.773338+00:00"
+  "extracted_at": "2026-04-19T02:13:53.088116+00:00"
 }

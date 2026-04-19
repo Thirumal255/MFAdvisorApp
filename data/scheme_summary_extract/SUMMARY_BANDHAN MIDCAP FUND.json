@@ -26,10 +26,10 @@
     "amfi_codes": [
       "150404",
       "150401",
-      "150404",
+      "null",
       "150402",
       "150403",
-      "150403"
+      "null"
     ],
     "isins": [
       "INF194KB1DJ2",
@@ -48,5 +48,5 @@
     "Regular Plan-IDCW PAYOUT",
     "Regular Plan-IDCW REINVESTMENT"
   ],
-  "extracted_at": "2026-04-18T02:50:17.287030+00:00"
+  "extracted_at": "2026-04-19T02:15:47.232920+00:00"
 }

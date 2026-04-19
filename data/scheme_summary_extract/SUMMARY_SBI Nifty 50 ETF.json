@@ -14,10 +14,7 @@
       "Securities covered by the Nifty 50 Index": "95%-100%",
       "Money Market Instrument* including Triparty Repo and Units of liquid mutual funds": "0%-5%"
     },
-    "benchmark": {
-      "Tier 1": "Nifty 50 TRI",
-      "Tier 2": "NA"
-    },
+    "benchmark": "Nifty 50 TRI",
     "fund_managers": "Mr. Raviprakash Sharma",
     "annual_expense": {
       "Direct": "0.00"
@@ -33,5 +30,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T05:41:02.534300+00:00"
+  "extracted_at": "2026-04-19T04:05:37.855968+00:00"
 }

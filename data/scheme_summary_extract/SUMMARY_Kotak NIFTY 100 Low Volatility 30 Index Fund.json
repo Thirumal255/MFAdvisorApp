@@ -13,22 +13,6 @@
       "Regular Plan-IDCW Payout",
       "Regular Plan-IDCW Re-investment"
     ],
-    "isins": [
-      "INF174KA1RZ3",
-      "INF174KA1SA4",
-      "INF174KA1SB2",
-      "INF174KA1RW0",
-      "INF174KA1RX8",
-      "INF174KA1RY6"
-    ],
-    "amfi_codes": [
-      "152663",
-      "152665",
-      "152665",
-      "152664",
-      "152666",
-      "152666"
-    ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, corresponding to the total returns of the securities as represented by the underlying index, subject to tracking errors. However, There is no assurance that the investment objective of the Scheme will be achieved",
     "asset_allocation": "Equity and Equity related securities covered by NIFTY 100 Low Volatility 30 Index -95%-100%-Very High Debt/Money Market Instruments -0%-5%-Low to Moderate",
@@ -42,7 +26,23 @@
       "Regular": "0.83",
       "Direct": "0.20"
     },
-    "exit_load": "Nil"
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "152663",
+      "152665",
+      "152665",
+      "152664",
+      "152666",
+      "152666"
+    ],
+    "isins": [
+      "INF174KA1RZ3",
+      "INF174KA1SA4",
+      "INF174KA1SB2",
+      "INF174KA1RW0",
+      "INF174KA1RX8",
+      "INF174KA1RY6"
+    ]
   },
   "fund_options_inferred": [
     "Direct Plan-Growth",
@@ -52,5 +52,5 @@
     "Regular Plan-IDCW Payout",
     "Regular Plan-IDCW Re-investment"
   ],
-  "extracted_at": "2026-04-18T04:37:43.646676+00:00"
+  "extracted_at": "2026-04-19T03:24:11.991604+00:00"
 }

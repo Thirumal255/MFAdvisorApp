@@ -13,24 +13,8 @@
       "Regular Plan-IDCW Payout",
       "Regular Plan-IDCW Re-investment"
     ],
-    "isins": [
-      "INF174KA1SR8",
-      "INF174KA1SS6",
-      "INF174KA1ST4",
-      "INF174KA1SO5",
-      "INF174KA1SP2",
-      "INF174KA1SQ0"
-    ],
-    "amfi_codes": [
-      "152767",
-      "152768",
-      "152768",
-      "152765",
-      "152766",
-      "152766"
-    ],
     "riskometer": "Very High",
-    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, corresponding to the total returns ofthe securities as represented by the underlying index, subject to tracking errors. However, there is no guarantee orassurance that the investment objective of the scheme will be achieved.",
+    "investment_objective": "The investment objective of the scheme is to provide returns that, before expenses, corresponding to the total returns of the securities as represented by the underlying index, subject to tracking errors. However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
     "asset_allocation": "Level of risk not provided",
     "benchmark": "Nifty Midcap 50 Index (Total Return Index (TRI))",
     "fund_managers": [
@@ -42,7 +26,23 @@
       "Regular": "0.86",
       "Direct": "0.25"
     },
-    "exit_load": "Nil"
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "152767",
+      "152768",
+      "152768",
+      "152765",
+      "152766",
+      "152766"
+    ],
+    "isins": [
+      "INF174KA1SR8",
+      "INF174KA1SS6",
+      "INF174KA1ST4",
+      "INF174KA1SO5",
+      "INF174KA1SP2",
+      "INF174KA1SQ0"
+    ]
   },
   "fund_options_inferred": [
     "Direct Plan-Growth",
@@ -52,5 +52,5 @@
     "Regular Plan-IDCW Payout",
     "Regular Plan-IDCW Re-investment"
   ],
-  "extracted_at": "2026-04-18T04:39:55.379688+00:00"
+  "extracted_at": "2026-04-19T03:25:40.494097+00:00"
 }

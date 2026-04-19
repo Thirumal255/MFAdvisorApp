@@ -14,6 +14,7 @@
     "benchmark": "Domestic Price of Physical Gold",
     "fund_managers": "Mr. Niranjan Das",
     "annual_expense": {
+      "Regular": "0.00",
       "Direct": "0.34"
     },
     "exit_load": "No Exit load: Market Makers Not Applicable: Investors transacting on the exchange",
@@ -27,5 +28,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T05:58:37.856678+00:00"
+  "extracted_at": "2026-04-19T04:17:36.446367+00:00"
 }

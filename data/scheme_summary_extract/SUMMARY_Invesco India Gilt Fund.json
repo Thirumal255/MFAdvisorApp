@@ -19,20 +19,16 @@
       "Direct Plan - Annual IDCW Reinvestment",
       "Direct Plan - Monthly IDCW Reinvestment"
     ],
-    "isins": [
-      "INF205K01SR1",
-      "INF205K01ST7",
-      "INF205K01SU5",
-      "INF205K01SJ8",
-      "INF205K01SK6",
-      "INF205K01SS9",
-      "INF205K01SN0",
-      "INF205K01SP5",
-      "INF205K01SQ3",
-      "INF205K01SL4",
-      "INF205K01SM2",
-      "INF205K01SO8"
-    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate returns by investing predominantly in a portfolio of securities issued and guaranteed by Central and StateGovernment across maturities. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Govt. securities including T-bills: Min 80% Max 100% Debt and Money Market Instruments: Min.0% Max. 20%",
+    "benchmark": "NIFTY All Duration G-Sec Index",
+    "fund_managers": "Krishna Cheemalapati, Vikas Garg",
+    "annual_expense": {
+      "Regular": "1.25",
+      "Direct": "0.48"
+    },
+    "exit_load": "Nil",
     "amfi_codes": [
       "107477",
       "107472",
@@ -47,16 +43,20 @@
       "120519",
       "120521"
     ],
-    "riskometer": "Moderate",
-    "investment_objective": "To generate returns by investing predominantly in a portfolio of securities issued and guaranteed by Central and StateGovernment across maturities. There is no assurance that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Govt. securities including T-bills: Min 80% Max 100% Debt and Money Market Instruments: Min.0% Max. 20%",
-    "benchmark": "NIFTY All Duration G-Sec Index",
-    "fund_managers": "Krishna Cheemalapati, Vikas Garg",
-    "annual_expense": {
-      "Regular": "1.25",
-      "Direct": "0.48"
-    },
-    "exit_load": "Nil"
+    "isins": [
+      "INF205K01SR1",
+      "INF205K01ST7",
+      "INF205K01SU5",
+      "INF205K01SJ8",
+      "INF205K01SK6",
+      "INF205K01SS9",
+      "INF205K01SN0",
+      "INF205K01SP5",
+      "INF205K01SQ3",
+      "INF205K01SL4",
+      "INF205K01SM2",
+      "INF205K01SO8"
+    ]
   },
   "fund_options_inferred": [
     "Regular Plan - Growth",
@@ -72,5 +72,5 @@
     "Direct Plan - Annual IDCW Reinvestment",
     "Direct Plan - Monthly IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:22:21.184191+00:00"
+  "extracted_at": "2026-04-19T03:13:41.429701+00:00"
 }

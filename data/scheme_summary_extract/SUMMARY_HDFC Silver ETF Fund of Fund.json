@@ -10,7 +10,7 @@
       "Regular Plan- Growth Option"
     ],
     "riskometer": "Very High Risk",
-    "investment_objective": "To seek capital appreciation by investing in units of HDFC Silver ETF (HSETF). There is no assurance that the investment objective of the Scheme will be achieved.",
+    "investment_objective": "To seek capital appreciation by investing in units of HDFC Silver ETF (HSETF). There is no assurance that the investment objectiveof the Scheme will be achieved.",
     "asset_allocation": "Units of HDFC Silver ETF: 95%- 100%; Debt securities and money market instruments : 0% - 5%",
     "benchmark": "Domestic Prices of physical Silver (derived as per regulatory norms)",
     "fund_managers": "FM 1 - Ms. Nandita Menezes, FM 2 - Mr. Arun Agarwal",
@@ -18,7 +18,7 @@
       "Regular": "0.60",
       "Direct": "0.18"
     },
-    "exit_load": "In respect of each purchase/switch-in of units:- an Exit Load of 1% is payable if Units are redeemed/switched-out within 15 days from the date of allotment. No Exit Load is payable if Units are redeemed/switched-out after 15 days from the date of allotment. No Exit Load is payable if Units are redeemed/switched-out after 1 year from the date of allotment.",
+    "exit_load": "In respect of each purchase/switch-in of units:- an Exit Load of 1% is payable if Units are redeemed/switched-out within 15 daysfrom the date of allotment. No Exit Load is payable if Units are redeemed/switched-out after 15 days from the date of allotment.No Exit Load is payable if Units are redeemed/switched-out after 1 year from the date of allotment.",
     "amfi_codes": [
       "150737",
       "150736"
@@ -32,5 +32,5 @@
     "Direct Plan- Growth Option",
     "Regular Plan- Growth Option"
   ],
-  "extracted_at": "2026-04-18T03:50:28.726501+00:00"
+  "extracted_at": "2026-04-19T02:53:57.897884+00:00"
 }

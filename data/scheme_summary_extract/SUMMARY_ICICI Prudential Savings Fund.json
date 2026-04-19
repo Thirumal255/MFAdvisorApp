@@ -53,8 +53,8 @@
       "101617",
       "115511"
     ],
-    "riskometer": "Low To Moderate\nAs on October 31, 2025",
-    "investment_objective": "To generate income through investments in a range of debt and money market instruments while maintaining the \noptimum balance of yield, safety and liquidity.\nHowever, there can be no assurance or guarantee that the investment objective of the Scheme would be \nachieved.",
+    "riskometer": "Low To Moderate",
+    "investment_objective": "To generate income through investments in a range of debt and money market instruments while maintaining the optimum balance of yield, safety and liquidity. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
     "asset_allocation": "Debt and Money Market Instruments = 0% - 100%",
     "benchmark": "NIFTY Low Duration Debt Index A-I",
     "fund_managers": [
@@ -83,5 +83,5 @@
     "ICICI Prudential Savings Fund - IDCW - Weekly",
     "ICICI Prudential Savings Fund - IDCW Others"
   ],
-  "extracted_at": "2026-04-18T04:17:10.516176+00:00"
+  "extracted_at": "2026-04-19T03:11:02.522931+00:00"
 }

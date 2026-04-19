@@ -27,9 +27,7 @@
       "MPDD-148406",
       "MPDG-148404",
       "MPRD-148407",
-      "MPRG-148405",
-      null,
-      null
+      "MPRG-148405"
     ],
     "isins": [
       "INF761K01FE8",
@@ -48,5 +46,5 @@
     "Regular - IDCW Reinvestment",
     "Regular Plan - Growth Growth"
   ],
-  "extracted_at": "2026-04-18T02:54:26.404324+00:00"
+  "extracted_at": "2026-04-19T02:18:28.744611+00:00"
 }

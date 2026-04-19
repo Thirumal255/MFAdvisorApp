@@ -1,9 +1,9 @@
 {
-  "parent_scheme_name": "Bandhan US specific Equity Active FOF",
+  "parent_scheme_name": "Bandhan US speciﬁc Equity Active FOF",
   "source_file": "SUMMARY_Bandhan US specific Equity Active FOF.pdf",
   "source": "summary_pdf",
   "data": {
-    "fund_name": "Bandhan US specific Equity Active FOF",
+    "fund_name": "Bandhan US speciﬁc Equity Active FOF",
     "fund_type": "An open-ended fund of fund scheme investing in units of overseas Mutual Fund Scheme(s) investing in US Equity securities.",
     "fund_options": [
       "REGULAR PLAN - IDCW Reinvestment",
@@ -30,7 +30,7 @@
       "149100"
     ],
     "riskometer": "Very High",
-    "investment_objective": "The Fund seeks to generate long term capital appreciation by investing in units of overseas Mutual Fund Scheme(s) investing in US Equity securities.",
+    "investment_objective": "The Fund seeks to generate long term capital appreciation by investing in units of overseas Mutual Fund Scheme(s) investing inUS Equity securities.",
     "asset_allocation": "Units of overseas Mutual Fund Scheme(s) investing in US Equity securities - 95% - 100%, Debt and Money Market Instruments -0% - 5%",
     "benchmark": "Russell 1000 Growth Index (Total Return Net of 30% withholding tax)",
     "fund_managers": "FM 1 - Ms. Ritika Behera, FM 2 - Mr. Gaurav Satra",
@@ -38,7 +38,7 @@
       "Regular": "1.60",
       "Direct": "0.65"
     },
-    "exit_load": "1% of applicable NAV - if the units are redeemed/switched out within 1 year from the date of allotment Nil – if the units are redeemed / switched-out after 1 year from the date of allotment"
+    "exit_load": "1% of applicable NAV - if the units are redeemed/switched out within 1 year from the date of allotment Nil – if the units areredeemed / switched-out after 1 year from the date of allotment"
   },
   "fund_options_inferred": [
     "REGULAR PLAN - IDCW Reinvestment",
@@ -48,5 +48,5 @@
     "DIRECT PLAN - IDCW Payout",
     "REGULAR PLAN - Growth"
   ],
-  "extracted_at": "2026-04-18T02:53:00.044982+00:00"
+  "extracted_at": "2026-04-19T02:17:34.296334+00:00"
 }

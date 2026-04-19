@@ -10,7 +10,7 @@
     ],
     "riskometer": "Very High Risk",
     "investment_objective": "The investment objective of the Scheme is to provide investment returns that, before expenses, closely correspond to the total returns of the Securities as represented by the NIFTY 100 Index, subject to tracking errors. There is no assurance that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Securities covered by NIFTY 100 Total Returns Index (TRI): 95% - 100%; Debt Securities & Money Market Instruments, Units of Debt schemes of Mutual Funds : 0% -5% The above limits shall not apply to Subscription and Redemption Cash Flow. Subscription cash ﬂow is the subscription money received for deployment and redemption cash ﬂow is the money kept aside for meeting redemptions.",
+    "asset_allocation": "Securities covered by NIFTY 100 Total Returns Index (TRI): 95% - 100%; Debt Securities & Money Market Instruments, Units of Debt schemes of Mutual Funds : 0% -5% The above limits shall not apply to Subscription and Redemption Cash Flow. Subscription cash ﬂow is the subscription money received for deployment and redemption cash ﬂow is the money kept aside for meeting redemptions. For detailed asset allocation, refer Scheme Information Document (SID) available on the website",
     "benchmark": "NIFTY 100 Index (Total Returns Index)",
     "fund_managers": "FM 1 - Mr. Abhishek Mor, FM 2 - Mr.Arun Agarwal",
     "annual_expense": {
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T03:46:12.964536+00:00"
+  "extracted_at": "2026-04-19T02:51:00.094793+00:00"
 }

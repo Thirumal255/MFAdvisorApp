@@ -38,20 +38,18 @@
       "150165",
       "150167",
       "150166",
-      null,
-      null,
+      "150166",
+      "150166",
       "150168",
-      null,
-      null,
-      null,
-      null,
-      null
+      "150169",
+      "150170",
+      "150171"
     ],
     "riskometer": "Low to Moderate",
     "investment_objective": "The primary objective of the Scheme is to provide income consistent with the prudent risk from a portfolio comprisinginvestment in Debt & Money Market instruments such that the Macaulay duration of the portfolio is between 6 months - 12months.",
     "asset_allocation": "Investment in Debt & Money Market instruments such that the Macaulay duration of the portfolio is between 6 months - 12months 0% - 100%",
     "benchmark": "CRISIL Low Duration Debt A-I Index",
-    "fund_managers": "Mr. Vikram Pamnani (Primary Fund Manager), Mr. Gurvinder Singh Wasan (Primary Fund Manager)",
+    "fund_managers": "Mr. Vikram Pamnani, Mr. Gurvinder Singh Wasan",
     "annual_expense": {
       "Regular": "1.04",
       "Direct": "0.27"
@@ -72,5 +70,5 @@
     "DIRECT PLAN - GROWTH",
     "DIRECT PLAN - DAILY IDCW REINVESTMENT"
   ],
-  "extracted_at": "2026-04-18T03:00:29.945835+00:00"
+  "extracted_at": "2026-04-19T02:22:17.662060+00:00"
 }

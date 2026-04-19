@@ -58,36 +58,13 @@
       "INF336L01CP0"
     ],
     "amfi_codes": [
-      "12004830",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "12004830"
     ],
     "riskometer": "Low to Moderate",
     "investment_objective": "To deliver returns in the form of interest income and capital gains, along with high liquidity, commensurate with the current view on the markets and the interest rate cycle, through active investment in debt and money market instruments. However, there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
     "asset_allocation": "Under normal circumstances, it is anticipated that the asset allocation of the Scheme will be as follows: - Debt & Money Market Instruments: 0% - 100%",
     "benchmark": "CRISIL Dynamic Bond Fund AIII Index",
-    "fund_managers": "Ritesh Jain",
+    "fund_managers": "FM 1 - Ritesh Jain",
     "annual_expense": {
       "Regular": "1.73",
       "Direct": "0.95"
@@ -120,5 +97,5 @@
     "Flexi Debt Fund-Hly IDCW.Direct",
     "Flexi Debt Fund-Hly IDCW.Pay Direct"
   ],
-  "extracted_at": "2026-04-18T03:55:21.090712+00:00"
+  "extracted_at": "2026-04-19T02:57:02.374733+00:00"
 }

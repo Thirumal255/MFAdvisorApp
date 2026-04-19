@@ -37,7 +37,7 @@
     "annual_expense": {
       "Direct": "0.54"
     },
-    "exit_load": "For exit within 30 days from the date of allotment - 0.25%; For exit after 30 days and within 90 days from the date of allotment-0.10% For exit after 90 days from the date of allotment - Nil"
+    "exit_load": "For exit within 30 days from the date of allotment - 0.25%; For exit after 30 days and within 90 days from the date of allotment-0.10%; For exit after 90 days from the date of allotment - Nil"
   },
   "fund_options_inferred": [
     "Regular Plan - IDCW",
@@ -45,5 +45,5 @@
     "Direct Plan - IDCW",
     "Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:36:13.350226+00:00"
+  "extracted_at": "2026-04-19T04:02:27.026209+00:00"
 }

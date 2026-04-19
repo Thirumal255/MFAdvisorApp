@@ -9,8 +9,8 @@
       "ICICI Prudential Nifty200 Quality 30 Index Fund- Growth"
     ],
     "riskometer": "Very High Risk",
-    "investment_objective": "The objective of the Scheme is to invest in companies whose securities are • Equity and Equity related securities of companies constituting the underlying index (Nifty200 Quality 30 Index) = 95%-100% • Money Market instruments including TREPs* and Units of debt schemes# = 0%-5%",
-    "asset_allocation": "Equity and Equity related securities of companies constituting the underlying index (Nifty200 Quality 30 Index) = 95%-100%, Money Market instruments including TREPs* and Units of debt schemes# = 0%-5%",
+    "investment_objective": "The objective of the Scheme is to invest in companies whose securities are \n• Equity and Equity related securities of companies constituting the \nunderlying index (Nifty200 Quality 30 Index) = 95%-100% \n• Money Market instruments including TREPs* and Units of debt schemes# = \n0%-5%",
+    "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (Nifty200 Quality 30 Index) = 95%-100%\n• Money Market instruments including TREPs* and Units of debt schemes# = 0%-5%",
     "benchmark": "Nifty200 Quality 30 TRI",
     "fund_managers": [
       "Mr. Nishit Patel",
@@ -32,5 +32,5 @@
   "fund_options_inferred": [
     "ICICI Prudential Nifty200 Quality 30 Index Fund- Growth"
   ],
-  "extracted_at": "2026-04-18T04:14:45.082182+00:00"
+  "extracted_at": "2026-04-19T03:09:38.416757+00:00"
 }

@@ -22,11 +22,11 @@
       "INF760K01449"
     ],
     "amfi_codes": [
-      "118283",
-      "118283",
+      null,
+      null,
       "118284",
       "111963",
-      "111963",
+      null,
       "111962"
     ],
     "riskometer": "Moderate",
@@ -48,5 +48,5 @@
     "Regular Plan - IDCW Reinvestment",
     "Regular Growth"
   ],
-  "extracted_at": "2026-04-18T03:05:27.847482+00:00"
+  "extracted_at": "2026-04-19T02:25:17.311320+00:00"
 }

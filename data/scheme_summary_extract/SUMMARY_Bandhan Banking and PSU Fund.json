@@ -42,22 +42,22 @@
       "INF194K017G4"
     ],
     "amfi_codes": [
-      "127471",
-      "121935",
-      "121934",
-      "127470",
-      "121937",
-      "121934",
-      "121279",
-      "121938",
-      "121282",
-      "121933",
-      "121936",
-      "121280",
-      "121281",
-      "121932",
-      "121282",
-      "121281"
+      "D289",
+      "D283",
+      "282",
+      "289",
+      "284",
+      "D282",
+      "D280",
+      "D284",
+      "281",
+      "285",
+      "D285",
+      "280",
+      "D281",
+      "283",
+      "281R",
+      "D281R"
     ],
     "riskometer": "Moderate",
     "investment_objective": "The Scheme seeks to generate returns through investments in debt and money market instruments predominantly issued by entities such as Banks, Public Sector Undertakings (PSUs) and Public Financial Institutions(PFIs)",
@@ -88,5 +88,5 @@
     "Bandhan Banking and PSU Fund - REGULAR PLAN - IDCW Reinvestment",
     "Bandhan Banking and PSU Fund - DIRECT PLAN - IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T02:27:19.892379+00:00"
+  "extracted_at": "2026-04-19T02:12:42.365172+00:00"
 }

@@ -13,9 +13,25 @@
       "Regular Growth",
       "Direct Growth"
     ],
+    "isins": [
+      "INF247L01437",
+      "INF247L01437",
+      "INF247L01437",
+      "INF247L01437",
+      "INF247L01437",
+      "INF247L01437"
+    ],
+    "amfi_codes": [
+      "127039",
+      "127039",
+      "127042",
+      "127042",
+      "127039",
+      "127042"
+    ],
     "riskometer": "Very high",
     "investment_objective": "To achieve Long-term capital growth & Investment in equity and equity related instruments in quality mid-cap companies having long-term competitive advantages and potential for growth.",
-    "asset_allocation": "Equity and equity related instruments selected between Top 101st and 250th listed companies by full market capitalization 65-100%; Equity and equity related 0 -35%; Debt, Money Market Instruments, G-Sec,Bonds, Cash and Cash Equivalents, etc.instruments* other than above 0-35%; Units issued by REITs  and InvITs  0-10%.",
+    "asset_allocation": "Equity and equity related instruments selected between Top 101st and 250th listed companies by full market capitalization 65-100%; Equity and equity related 0 -35%; Debt, Money Market Instruments, G-Sec,Bonds, Cash and Cash Equivalents, etc.instruments* other than above 0-35%; Units issued by REITs and InvITs 0-10%.",
     "benchmark": "Nifty Midcap 150 Index TRI",
     "fund_managers": [
       {
@@ -32,14 +48,7 @@
     "annual_expense": {
       "Regular": "2.25"
     },
-    "exit_load": "Yes",
-    "amfi_codes": [
-      "127039",
-      "127042"
-    ],
-    "isins": [
-      "INF247L01437"
-    ]
+    "exit_load": "Yes"
   },
   "fund_options_inferred": [
     "Regular IDCW Payout",
@@ -49,5 +58,5 @@
     "Regular Growth",
     "Direct Growth"
   ],
-  "extracted_at": "2026-04-18T05:05:28.096825+00:00"
+  "extracted_at": "2026-04-19T03:42:03.152111+00:00"
 }

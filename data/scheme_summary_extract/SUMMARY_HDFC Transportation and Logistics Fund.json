@@ -17,7 +17,10 @@
     "investment_objective": "To provide long-term capital appreciation by investing predominantly in equity and equity related securities under Transportation and Logistics theme. There is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Equity and Equity related instruments of Transportation and Logistics themed companies#: 80%- 100%; Equity and Equity related instruments of companies other than above: 0% - 20%; Units issued by InvITs: 0% - 10%; Debt securities, money market instruments and Fixed Income Derivatives: 0% - 20%; Units of Mutual Fund: 0% - 20% #Includes following basic industries as per common framework of industry classification of companies notified by stock exchanges (NSE and BSE) 2/3 Wheelers, Abrasives, Airline, Auto Components and Equipments, Batteries-Automobile, Bearings, Castings and Forgings, Commercial Vehicles, Fastener, Logistics Solution Provider, Passenger Cars & Utility Vehicles, Port & Port services, Railway Wagons, Railways, Ship Building & Allied Services, Shipping, Toll bridge operator, Tour, Travel Related Services, Tractors, Trading – Automobiles, Tyres & Rubber Products, E-Commerce companies which are into delivery are eligible to be included. For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
     "benchmark": "Nifty Transportation & Logistics Index",
-    "fund_managers": "FM 1 - Mr. Priya Ranjan, FM 2 - Mr Dhruv Muchhal",
+    "fund_managers": [
+      "Mr. Priya Ranjan",
+      "Mr Dhruv Muchhal"
+    ],
     "annual_expense": {
       "Regular": "2.12",
       "Direct": "0.97"
@@ -26,10 +29,10 @@
     "amfi_codes": [
       "151899",
       "151901",
-      "151902",
       "151899",
-      "151901",
-      "151902"
+      "151902",
+      "151900",
+      "151901"
     ],
     "isins": [
       "INF179KC1GU0",
@@ -48,5 +51,5 @@
     "Regular Plan - IDCW Payout",
     "Regular Plan - IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T03:51:00.160982+00:00"
+  "extracted_at": "2026-04-19T02:54:18.918196+00:00"
 }

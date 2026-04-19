@@ -11,39 +11,31 @@
       "Aditya Birla Sun Life CRISIL IBX AAA - Jun 2023 Index Fund-Direct IDCW",
       "Aditya Birla Sun Life CRISIL IBX AAA - Jun 2023 Index Fund-Direct Growth"
     ],
-    "isins": [
-      "INF209KB19G4",
-      "INF209KB18G6",
-      "INF209KB11H9",
-      "INF209KB10H1"
+    "riskometer": "Low to Moderate",
+    "investment_objective": "The investment objective of the Scheme is to generate returns corresponding to the total returns of the securities as represented by the CRISIL IBX AAA Index – June 2023 before expenses, subject to tracking errors. The Scheme does not guarantee/indicate any returns. There can be no assurance that the objective of the Scheme will be achieved.",
+    "asset_allocation": "Debt instruments forming part of the CRISIL IBX AAA Index – June 2023 - Moderate - 95% 100%, Cash and Debt/Money Market Instruments - Low -  0% 5%",
+    "benchmark": "CRISIL IBX AAA Index  June 2023",
+    "fund_managers": [
+      "Mr. Harshil Suvarnkar",
+      "Mr. Sanjay Godambe"
     ],
+    "annual_expense": {
+      "Regular": "0.30",
+      "Direct": "0.10"
+    },
+    "exit_load": "Nil",
     "amfi_codes": [
       "149888",
       "149889",
       "149890",
       "149891"
     ],
-    "riskometer": "Low to Moderate",
-    "investment_objective": "The investment objective of the Scheme is to generate returns corresponding to the total returns of the securities as represented by the CRISIL IBX AAA Index – June 2023 before expenses, subject to tracking errors. The Scheme does not guarantee/indicate any returns. There can be no assurance that the objective of the Scheme will be achieved.",
-    "asset_allocation": "Debt instruments forming part of the CRISIL IBX AAA Index – June 2023 - Moderate - 95% 100%, Cash and Debt/Money Market Instruments - Low -  0% 5%",
-    "benchmark": "CRISIL IBX AAA Index  June 2023",
-    "fund_managers": [
-      {
-        "name": "Mr. Harshil Suvarnkar",
-        "type": "Comanage",
-        "from_date": "February 22, 2022"
-      },
-      {
-        "name": "Mr. Sanjay Godambe",
-        "type": "Comanage",
-        "from_date": "February 22, 2022"
-      }
-    ],
-    "annual_expense": {
-      "Regular": "0.30",
-      "Direct": "0.10"
-    },
-    "exit_load": "Nil"
+    "isins": [
+      "INF209KB19G4",
+      "INF209KB18G6",
+      "INF209KB11H9",
+      "INF209KB10H1"
+    ]
   },
   "fund_options_inferred": [
     "Aditya Birla Sun Life CRISIL IBX AAA - Jun 2023 Index Fund-Regular IDCW",
@@ -51,5 +43,5 @@
     "Aditya Birla Sun Life CRISIL IBX AAA - Jun 2023 Index Fund-Direct IDCW",
     "Aditya Birla Sun Life CRISIL IBX AAA - Jun 2023 Index Fund-Direct Growth"
   ],
-  "extracted_at": "2026-04-18T02:09:01.545970+00:00"
+  "extracted_at": "2026-04-19T01:56:58.143944+00:00"
 }

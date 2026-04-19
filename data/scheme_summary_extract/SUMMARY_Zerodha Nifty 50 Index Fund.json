@@ -6,7 +6,8 @@
     "fund_name": "Zerodha Nifty 50 Index Fund",
     "fund_type": "An open-ended scheme replicating/ tracking Nifty 50 Index - TRI",
     "fund_options": [
-      "Direct"
+      "Direct",
+      "Regular"
     ],
     "riskometer": "Very High",
     "investment_objective": "Passive investment in equity and equity related securities replicating the composition of Nifty 50 Index, subject to tracking errors. There is no assurance that the investment objective of the Scheme will be achieved.",
@@ -26,7 +27,8 @@
     ]
   },
   "fund_options_inferred": [
-    "Direct"
+    "Direct",
+    "Regular"
   ],
-  "extracted_at": "2026-04-18T06:15:34.606049+00:00"
+  "extracted_at": "2026-04-19T04:31:16.428019+00:00"
 }

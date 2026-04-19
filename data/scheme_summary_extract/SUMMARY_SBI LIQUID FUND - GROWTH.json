@@ -11,18 +11,6 @@
       "Direct Plan - IDCW",
       "Direct Plan - Growth"
     ],
-    "isins": [
-      "INF200K01LR7",
-      "INF200K01LU1",
-      "INF200K01UQ0",
-      "INF200K01UT4"
-    ],
-    "amfi_codes": [
-      "105279",
-      "105280",
-      "119805",
-      "119800"
-    ],
     "riskometer": "LOW to MODERATE",
     "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation by investing predominantly in equity and equity related securities of companies across sectors and market capitalizations. The scheme will also invest in debt and money market instruments with an endeavour to generate income.However, there is no guarantee or assurance that the investment objective of the scheme will be achieved.",
     "asset_allocation": {
@@ -35,7 +23,6 @@
       "Mr. Rajeev Radhakrishnan"
     ],
     "annual_expense": {
-      "Regular": "0.18",
       "Direct": "0.18"
     },
     "exit_load": {
@@ -46,7 +33,19 @@
       "Day 5": "0.0050",
       "Day 6": "0.0045",
       "Day 7 onwards": "0.0000"
-    }
+    },
+    "amfi_codes": [
+      "F105275",
+      "F105274",
+      "119805",
+      "119800"
+    ],
+    "isins": [
+      "INF200K01LR7",
+      "INF200K01LU1",
+      "INF200K01UQ0",
+      "INF200K01UT4"
+    ]
   },
   "fund_options_inferred": [
     "Regular Plan - IDCW",
@@ -54,5 +53,5 @@
     "Direct Plan - IDCW",
     "Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:39:23.115910+00:00"
+  "extracted_at": "2026-04-19T04:04:27.769713+00:00"
 }

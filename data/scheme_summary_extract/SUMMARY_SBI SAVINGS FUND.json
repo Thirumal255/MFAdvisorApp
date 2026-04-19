@@ -8,35 +8,20 @@
     "fund_options": [
       "Regular Plan - IDCW",
       "Regular Plan - Growth",
-      "Regular Plan - IDCW",
-      "Regular Plan - IDCW",
-      "Regular Plan - IDCW",
       "Direct Plan - IDCW",
-      "Direct Plan - IDCW",
-      "Direct Plan - Growth",
-      "Direct Plan - IDCW"
+      "Direct Plan - Growth"
     ],
     "isins": [
       "INF200K01651",
       "INF200K01636",
-      "INF200K01677",
-      null,
-      "INF200KA1K20",
       "INF200K01SW2",
-      "INF200K01SY8",
-      "INF200K01SZ5",
-      "INF200K01TB4"
+      "INF200K01SZ5"
     ],
     "amfi_codes": [
       "102504",
       "102503",
-      "102860",
-      "F114348",
-      "114348",
       "119822",
-      "119820",
-      "119821",
-      "119823"
+      "119821"
     ],
     "riskometer": "MODERATE",
     "investment_objective": "To provide the investors an opportunity to invest in money market instrumentsHowever, there is no guarantee or assurance that the investment objective of the scheme will be achieved. The scheme doesn’t assure or guarantee any returns",
@@ -51,13 +36,8 @@
   "fund_options_inferred": [
     "Regular Plan - IDCW",
     "Regular Plan - Growth",
-    "Regular Plan - IDCW",
-    "Regular Plan - IDCW",
-    "Regular Plan - IDCW",
     "Direct Plan - IDCW",
-    "Direct Plan - IDCW",
-    "Direct Plan - Growth",
-    "Direct Plan - IDCW"
+    "Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:43:52.685028+00:00"
+  "extracted_at": "2026-04-19T04:07:18.144906+00:00"
 }

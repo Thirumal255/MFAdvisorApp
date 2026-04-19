@@ -7,9 +7,11 @@
     "fund_type": "Open Ended",
     "fund_options": [
       "Direct Plan - Growth",
-      "Direct Plan - IDCW",
+      "Direct Plan - IDCW - Payout",
+      "Direct Plan - IDCW - Reinvestment",
       "Growth",
-      "IDCW"
+      "IDCW - Payout",
+      "IDCW - Reinvestment"
     ],
     "riskometer": "Moderately High",
     "investment_objective": "The investment objective of the Scheme is to invest in companies whose securities are included in Nifty Next 50 Index (the Index) and to endeavor to achieve the returns of the above index as closely as possible, though subject to tracking error. The Scheme will not seek to outperform the Nifty Next 50. The objective is that the performance of the NAV of the Scheme should closely track the performance of the Nifty Next 50 over the same period subject to tracking error. However, there is no assurance that the investment objective of the Scheme  will be realized.",
@@ -25,7 +27,7 @@
       "Regular": "0.68",
       "Direct": "0.31"
     },
-    "exit_load": "NA",
+    "exit_load": null,
     "amfi_codes": [
       "120684",
       "120683",
@@ -35,15 +37,19 @@
     "isins": [
       "INF109K01Y80",
       "INF109K01Y64",
+      "INF109K01Y72",
       "INF109K01IF1",
-      "INF109K01PR1"
+      "INF109K01PR1",
+      "INF109K01IE4"
     ]
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
-    "Direct Plan - IDCW",
+    "Direct Plan - IDCW - Payout",
+    "Direct Plan - IDCW - Reinvestment",
     "Growth",
-    "IDCW"
+    "IDCW - Payout",
+    "IDCW - Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:13:23.974702+00:00"
+  "extracted_at": "2026-04-19T03:08:46.194863+00:00"
 }

@@ -9,7 +9,7 @@
       "Growth"
     ],
     "riskometer": "Very High Risk",
-    "investment_objective": "The investment objective of the Scheme is to provide investment returns that, before expenses, closely correspond to the total returns of the Securities as represented by the NIFTY100 Quality 30 Index, subject to tracking errors. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "investment_objective": "The investment objective of the Scheme is to provide investment returns that, before expenses, closely correspond to the total returns of the Securities as represented by the NIFTY100 Quality 30 Index, subject to tracking errors.There is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Securities covered by NIFTY100 Quality 30 Index (TRI) : 95% - 100%; Debt Securities & Money Market Instruments, units of Debt Schemes of Mutual Funds : 0% -5%; For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
     "benchmark": "NIFTY100 Quality 30 Index (Total Returns Index)",
     "fund_managers": "FM 1 - Mr. Abhishek Mor, FM 2 - Mr.Arun Agarwal",
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T03:48:56.433742+00:00"
+  "extracted_at": "2026-04-19T02:52:50.720948+00:00"
 }

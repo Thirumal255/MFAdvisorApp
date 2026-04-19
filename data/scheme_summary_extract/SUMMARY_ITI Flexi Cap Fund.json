@@ -13,6 +13,22 @@
       "ITI FLEXI CAP FUND-DIRECT PLAN- IDCW PAYOUT",
       "ITI FLEXI CAP FUND-DIRECT PLAN-IDCW REINVESTMENT"
     ],
+    "isins": [
+      "INF00XX01CL3",
+      "INF00XX01CM1",
+      "INF00XX01CN9",
+      "INF00XX01CO7",
+      "INF00XX01CP4",
+      "INF00XX01CQ2"
+    ],
+    "amfi_codes": [
+      "151377",
+      "151378",
+      "151378",
+      "151379",
+      "151380",
+      "151380"
+    ],
     "riskometer": "Very High risk",
     "investment_objective": "The investment objective of the scheme is to generate long-term capital appreciation from a diversiﬁed portfolio thatdynamically invests in equity and equity-related securities of companies across various market capitalisation. However, therecan be no assurance that the investment objective of the scheme would be achieved.",
     "asset_allocation": "Equity, Units issued by REITs and Equity Related Instruments across market capitalization 65%-100%, Listed Preference Shares0%-10%, Debt and Money Market Instruments 0%-35%, Units issued by InvITs 0%-10%",
@@ -22,23 +38,7 @@
       "Regular": "1.99",
       "Direct": "0.37"
     },
-    "exit_load": "If redeemed/Switched out on or before 3 Months from the date of allotment; Exit Load is 0.50% Exit Load after completion of3 months - NIL",
-    "amfi_codes": [
-      "151377",
-      "151378",
-      "151378",
-      "151379",
-      "151380",
-      "151380"
-    ],
-    "isins": [
-      "INF00XX01CL3",
-      "INF00XX01CM1",
-      "INF00XX01CN9",
-      "INF00XX01CO7",
-      "INF00XX01CP4",
-      "INF00XX01CQ2"
-    ]
+    "exit_load": "If redeemed/Switched out on or before 3 Months from the date of allotment; Exit Load is 0.50% Exit Load after completion of3 months - NIL"
   },
   "fund_options_inferred": [
     "ITI FLEXI CAP FUND-REGULAR PLAN-GROWTH",
@@ -48,5 +48,5 @@
     "ITI FLEXI CAP FUND-DIRECT PLAN- IDCW PAYOUT",
     "ITI FLEXI CAP FUND-DIRECT PLAN-IDCW REINVESTMENT"
   ],
-  "extracted_at": "2026-04-18T04:26:28.754628+00:00"
+  "extracted_at": "2026-04-19T03:16:25.208651+00:00"
 }

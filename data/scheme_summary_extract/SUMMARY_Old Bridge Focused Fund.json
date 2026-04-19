@@ -30,15 +30,15 @@
       null
     ],
     "riskometer": "Very High",
-    "investment_objective": "To generate long-term capital appreciation by investing in equity and equity related instruments of up to 30 companies acrossmarket capitalization (i.e. Mid cap, Small cap, Large cap). Disclaimer: There is no assurance or guarantee that the objectives ofthe scheme will be realized.",
-    "asset_allocation": "Equity and Equity Related Instruments *: 65%- 100%: High; Debt Securities (including securitised debt) and money marketinstruments: 0%- 35% : Low to Medium; Units issued by REITs and InvITs: 0%- 10%: Medium to High; Non-convertiblepreference shares: 0%- 10%: Low to Medium; * Subject to overall limit of 30 stocks.The Scheme may invest in the schemes ofMutual Funds in accordance with the applicable extant SEBI (Mutual Funds) Regulations as amended from time to time.",
+    "investment_objective": "To generate long-term capital appreciation by investing in equity and equity related instruments of up to 30 companies across market capitalization (i.e. Mid cap, Small cap, Large cap). Disclaimer: There is no assurance or guarantee that the objectives of the scheme will be realized.",
+    "asset_allocation": "Equity and Equity Related Instruments *: 65%- 100%: High; Debt Securities (including securitised debt) and money market instruments: 0%- 35% : Low to Medium; Units issued by REITs and InvITs: 0%- 10%: Medium to High; Non-convertible preference shares: 0%- 10%: Low to Medium; * Subject to overall limit of 30 stocks. The Scheme may invest in the schemes of Mutual Funds in accordance with the applicable extant SEBI (Mutual Funds) Regulations as amended from time to time.",
     "benchmark": "BSE 500 TRI",
     "fund_managers": "FM 1 - Mr. Kenneth Joseph Andrade, FM 2 - Mr. Tarang Agrawal",
     "annual_expense": {
       "Regular": "2.02",
       "Direct": "0.97"
     },
-    "exit_load": "If redeemed/switched out within 365 days from the date of allotment: 1% If redeemed/switched out after 365 days from thedate of allotment – Nil"
+    "exit_load": "If redeemed/switched out within 365 days from the date of allotment: 1% If redeemed/switched out after 365 days from the date of allotment – Nil"
   },
   "fund_options_inferred": [
     "Old Bridge Focused Fund - Direct Growth",
@@ -48,5 +48,5 @@
     "Old Bridge Focused Fund - Regular IDCW",
     "Old Bridge Focused Fund - Regular IDCW Re-investment"
   ],
-  "extracted_at": "2026-04-18T05:23:05.015149+00:00"
+  "extracted_at": "2026-04-19T03:53:40.666215+00:00"
 }

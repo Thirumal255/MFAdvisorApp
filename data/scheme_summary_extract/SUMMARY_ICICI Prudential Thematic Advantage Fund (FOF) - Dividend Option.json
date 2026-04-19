@@ -24,13 +24,9 @@
       "102136"
     ],
     "amfi_codes": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "102135",
+      "102136",
+      "120700"
     ],
     "riskometer": "Very High",
     "investment_objective": "The primary objective of the Scheme is to generate capital appreciation primarily from a portfolio of Sectoral / Thematic schemes accessed through the diversified investment styles of underlying schemes. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
@@ -60,5 +56,5 @@
     "Growth",
     "IDCW"
   ],
-  "extracted_at": "2026-04-18T04:18:20.760911+00:00"
+  "extracted_at": "2026-04-19T03:11:44.368332+00:00"
 }

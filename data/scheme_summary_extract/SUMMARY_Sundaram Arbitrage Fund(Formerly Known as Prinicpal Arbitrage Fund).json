@@ -22,7 +22,7 @@
       "Regular": "1.00",
       "Direct": "0.28"
     },
-    "exit_load": "W.E.F Dec 31, 2021 Upto 25% of Units purchased/ switchin - NIL In excess of the above: 0.25% if redeemed/ SWP/STP within15 days from the date of allotment. NIL if redeemed /SWP/STP after 15 days from the date of allotment. For redemption or withdrawal by way of SWP after 365 days from the date of allotment - Nil. Generally, the exit load will be calculated on First in First out (FIFO) basis.",
+    "exit_load": "W.E.F Dec 31, 2021 Upto 25% of Units purchased/ switchin - NIL In excess of the above: 0.25% if redeemed/ SWP/STP within15 days from the date of allotment. NIL if redeemed /SWP/STP after 15 days from the date of allotment. For redemption or withdrawal by way of SWP after 365 days from the date of allotment - Nil.Generally, the exit load will be calculated on First in First out (FIFO) basis.",
     "amfi_codes": [
       "149549",
       "149550",
@@ -46,5 +46,5 @@
     "Regular Plan IDCW Payout",
     "Regular Plan IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T05:45:49.421532+00:00"
+  "extracted_at": "2026-04-19T04:08:24.945030+00:00"
 }

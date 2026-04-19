@@ -9,8 +9,8 @@
       "Growth"
     ],
     "riskometer": "Very High Risk",
-    "investment_objective": "To generate returns that are commensurate (before fees and expenses) with the performance of the NIFTY Midcap 150 Index, subject to tracking error. There is no assurance that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Securities covered by NIFTY Midcap 150 Index (TRI)# : 95% - 100%; Debt Securities & Money Market Instruments, units of Debt Schemes of Mutual Funds : 0% - 5% # includes shares of HDFC Asset Management Company Limited.",
+    "investment_objective": "To generate returns that are commensurate (before fees and expenses) with the performance of the NIFTY Midcap 150 Index,subject to tracking error.There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Securities covered by NIFTY Midcap 150 Index (TRI)# : 95% - 100%; Debt Securities & Money Market Instruments, units of DebtSchemes of Mutual Funds : 0% - 5% # includes shares of HDFC Asset Management Company Limited. It may be noted that NIFTYMidcap 150 Index (TRI) has been constructed and managed by NSE Indices Limited (formerly known as India Index Services &Products Limited – IISL), a subsidiary of National Stock Exchange of India Limited (NSE). The HDFC NIFTY Midcap 150 ETF will bemanaged passively to replicate the performance of the Underlying Index. For detailed asset allocation, refer Scheme InformationDocument (SID) available on the website.",
     "benchmark": "NIFTY Midcap 150 Index (TRI)",
     "fund_managers": "FM 1 - Mr. Abhishek Mor, FM 2 - Ms. Nandita Menezes , FM 3 - Arun Agarwal",
     "annual_expense": {
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T03:47:37.627511+00:00"
+  "extracted_at": "2026-04-19T02:52:00.718415+00:00"
 }

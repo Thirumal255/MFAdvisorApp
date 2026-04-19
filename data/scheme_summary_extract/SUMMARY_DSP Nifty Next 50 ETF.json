@@ -9,8 +9,8 @@
       "Growth"
     ],
     "riskometer": "Very High",
-    "investment_objective": "The investment objective of the Scheme is to generate returns that are commensurate with the performance of the Nifty Next 50 Index, subject to tracking error. There is no assurance that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "A. Equity and Equity Related Securities of companies constituting Nifty Next 50 Index, the Underlying Index : 95% - 100%, B. Cash and Cash Equivalents : 0% – 5%",
+    "investment_objective": "The investment objective of the Scheme is to generate returns that are commensurate with the performance of the NiftyNext 50 Index, subject to tracking error. There is no assurance that the investment objective of the Scheme will beachieved.",
+    "asset_allocation": "A. Equity and Equity Related Securities of companies constituting Nifty Next 50 Index, the Underlying Index : 95% - 100%,B. Cash and Cash Equivalents : 0% – 5% For detailed asset allocation, please refer to the Scheme Information Document",
     "benchmark": "Nifty Next 50 TRI",
     "fund_managers": "Mr. Anil Ghelani, Mr. Diipesh Shah",
     "annual_expense": {
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T03:15:23.372099+00:00"
+  "extracted_at": "2026-04-19T02:31:23.248043+00:00"
 }

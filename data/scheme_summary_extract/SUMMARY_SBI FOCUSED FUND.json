@@ -22,6 +22,7 @@
     "benchmark": "S&P BSE 500 Index",
     "fund_managers": "Mr. R Srinivasan",
     "annual_expense": {
+      "Regular": "0.59",
       "Direct": "0.59"
     },
     "exit_load": "For exit within 30 days from the date of allotment - 0.25% For exit after 30 days and within 90 days from the date of allotment - 0.10% For exit after 90 days from the date of allotment - Nil",
@@ -44,5 +45,5 @@
     "Direct Plan - Growth",
     "Direct Plan - IDCW"
   ],
-  "extracted_at": "2026-04-18T05:38:10.171491+00:00"
+  "extracted_at": "2026-04-19T04:03:42.674105+00:00"
 }

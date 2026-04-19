@@ -11,7 +11,7 @@
     ],
     "riskometer": "Very high",
     "investment_objective": "The schemes seeks investment return that corresponds generally to the performance of Nifty Small cap 250 Index",
-    "asset_allocation": "Equity and equity related securities covered by Nifty Smallcap 250 Index 95- Debt, Money Market Instruments, G-Secs, Cash and Cash at call, etc 0-5%",
+    "asset_allocation": "Equity and equity related securities covered by Nifty Smallcap 250 Index 95- - Debt, Money Market Instruments, G-Secs, Cash and Cash at call, etc 0-5%",
     "benchmark": "Nifty Smallcap 250 TRI",
     "fund_managers": [
       {
@@ -37,5 +37,5 @@
     "Regular Growth",
     "Direct Growth"
   ],
-  "extracted_at": "2026-04-18T05:08:03.118073+00:00"
+  "extracted_at": "2026-04-19T03:43:39.841569+00:00"
 }

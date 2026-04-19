@@ -18,7 +18,7 @@
       "Regular": "2.383",
       "Direct": "0.783"
     },
-    "exit_load": "1% of the applicable NAV, if redeemed within 3 months from the date of allotment. Nil if redeemed after 3 months from the date of allotment",
+    "exit_load": "• 1% of the applicable NAV, if redeemed within 3 months from the date of allotment.\n• Nil if redeemed after 3 months from the date of allotment",
     "amfi_codes": [
       "153076",
       "153077"
@@ -32,5 +32,5 @@
     "Direct Growth",
     "Regular Growth"
   ],
-  "extracted_at": "2026-04-18T05:45:16.711076+00:00"
+  "extracted_at": "2026-04-19T04:08:07.283822+00:00"
 }

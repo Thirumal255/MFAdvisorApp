@@ -13,7 +13,7 @@
     "investment_objective": "The primary investment objective of the Scheme is to generate income through investment in a portfolio comprising of money market instruments with maturity less than or equal to 1 year. There is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Money market securities having maturity of less than or equal to 1 year : 0% - 100%",
     "benchmark": "CRISIL Money Market A-I Index",
-    "fund_managers": "Mr. Karan Mundhra - Comanage, Ms. Shalini Vasanta - Comanage",
+    "fund_managers": "Mr. Karan Mundhra, Ms. Shalini Vasanta",
     "annual_expense": {
       "Regular": "0.41",
       "Direct": "0.18"
@@ -32,5 +32,5 @@
     "Direct Plan - Growth",
     "Regular Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T03:17:11.845136+00:00"
+  "extracted_at": "2026-04-19T02:32:28.347786+00:00"
 }

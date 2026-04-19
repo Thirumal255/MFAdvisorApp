@@ -14,6 +14,7 @@
     "benchmark": "Nifty 50 TRI (Total Return Index)",
     "fund_managers": "FM 1 - Mr. Anupam Tiwari, FM 2 - Mr.Kaustubh Sule",
     "annual_expense": {
+      "Regular": "0.00",
       "Direct": "0.00"
     },
     "exit_load": "NA",
@@ -27,5 +28,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T03:39:18.407187+00:00"
+  "extracted_at": "2026-04-19T02:46:03.394495+00:00"
 }

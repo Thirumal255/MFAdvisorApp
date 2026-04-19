@@ -40,16 +40,8 @@
     "asset_allocation": "1. Equity & Equity related instruments of Large Cap Companies by market capitalisation listed in India - 80-100% 2. Equity & Equity related instruments of other companies - 0-20% 3. Debt & Money Market Instruments - 0-20% 4. Units of InvITs/REITs - 0-10%",
     "benchmark": "NIFTY 100 TRI",
     "fund_managers": [
-      {
-        "name": "Mr. Bharat Lahoti",
-        "type": "Co-Manage",
-        "from_date": "02/May/2017"
-      },
-      {
-        "name": "Mr. Bhavesh Jain",
-        "type": "Co-Manage",
-        "from_date": "01/Oct/2021"
-      }
+      "Mr. Bharat Lahoti",
+      "Mr. Bhavesh Jain"
     ],
     "annual_expense": {
       "Regular": "2.56",
@@ -67,5 +59,5 @@
     "Regular Plan IDCW Option - Reinvestment",
     "Regular Plan IDCW Option - Transfer"
   ],
-  "extracted_at": "2026-04-18T03:23:51.778159+00:00"
+  "extracted_at": "2026-04-19T02:36:09.285002+00:00"
 }

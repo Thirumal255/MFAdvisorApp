@@ -31,19 +31,19 @@
     ],
     "amfi_codes": [
       "108992",
-      "108992",
+      "108995",
       "133682",
       "143259",
       "118476",
       "118477",
-      "133682",
+      "133681",
       "143258",
-      "108995",
-      "133681"
+      "217",
+      "D302"
     ],
     "riskometer": "Moderate",
     "investment_objective": "The Scheme seek to generate income by predominantly investing in arbitrage opportunities in the cash and derivatives segments of the equity markets along with debt and money market instruments and to generate long-term capital appreciation by investing a portion of the Scheme’s assets in equity and equity related instruments.",
-    "asset_allocation": "Equities & Equity related instruments (including derivatives), 65% - 80%, within which- Net Equity Arbitrage Exposure - 20%-60%,Net Long Equity Exposure (un-hedged) - 10% - 45%, Debt & Money Market instruments (including Government securities,Securitised debt, Margin money/FD) and Units issued by InvITs, - 20% - 35%, within which Units issued by InvITs - 0%-10%",
+    "asset_allocation": "Equities & Equity related instruments (including derivatives), 65% - 80%, within which- Net Equity Arbitrage Exposure - 20%-60%,Net Long Equity Exposure (un-hedged) - 10% - 45%, Debt & Money Market instruments (including Government securities, Securitised debt, Margin money/FD) and Units issued by InvITs, - 20% - 35%, within which Units issued by InvITs - 0%-10%",
     "benchmark": "CRISIL Equity Savings Index",
     "fund_managers": "FM 1 - Mr. Kapil Kankonkar, FM 2 - Mr. Viraj Kulkarni, FM 3 - Mr. Harshal Joshi, FM 4 - Ms. Ritika Behera, FM 5 - Mr. Gaurav Satra, FM 6 - Mr. Brijesh Shah",
     "annual_expense": {
@@ -64,5 +64,5 @@
     "BANDHAN Equity Savings Fund - REGULAR PLAN - Growth",
     "BANDHAN Equity Savings Fund - DIRECT PLAN - Annual IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T02:48:09.709412+00:00"
+  "extracted_at": "2026-04-19T02:13:59.800609+00:00"
 }

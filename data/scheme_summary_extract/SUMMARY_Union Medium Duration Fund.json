@@ -39,10 +39,7 @@
     "investment_objective": "The investment objective of the Scheme is to generate income and capital appreciation by investing in Fixed Income Securities and Money Market Instruments. However, there is no assurance that the Investment Objective of the Scheme will be achieved.",
     "asset_allocation": "Debt and Money Market Instruments^: 0%-100% of net assets; Units of REITs and InvITs: 0% - 10% of net assets. ^Investment in Debt and Money Market Instruments will be such that the Macaulay Duration of the portfolio will be between 3 years to 4 years under normal circumstances. In case of anticipated adverse situation(s), the portfolio Macaulay Duration will be between 1 year to 4 years. Please refer to the page no. 39 of the SID on which the concept of Macaulay Duration has been explained. Please refer the Scheme Information Document for complete details.",
     "benchmark": "CRISIL Medium Duration Debt A-III Index.",
-    "fund_managers": [
-      "Mr. Parijat Agrawal",
-      "Mr. Anindya Sarkar"
-    ],
+    "fund_managers": "FM 1 Mr. Parijat Agrawal, FM 2 Mr. Anindya Sarkar",
     "annual_expense": {
       "Regular": "0.86",
       "Direct": "0.63"
@@ -59,5 +56,5 @@
     "Direct Plan - Reinvestment of IDCW Option",
     "Direct Plan - Transfer of IDCW Plan"
   ],
-  "extracted_at": "2026-04-18T06:03:32.717660+00:00"
+  "extracted_at": "2026-04-19T04:21:15.977911+00:00"
 }

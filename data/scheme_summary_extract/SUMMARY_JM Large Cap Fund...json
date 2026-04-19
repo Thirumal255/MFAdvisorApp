@@ -55,27 +55,27 @@
     ],
     "amfi_codes": [
       "100218",
-      null,
+      "100218",
       "100219",
       "120489",
-      null,
+      "120489",
       "120490",
       "134959",
-      null,
+      "134959",
       "134954",
-      null,
+      "134954",
       "134955",
-      null,
+      "134955",
       "134961",
-      null,
+      "134961",
       "134956",
-      null,
+      "134956",
       "134960",
-      null,
+      "134960",
       "134957",
-      null,
+      "134957",
       "134958",
-      null
+      "134958"
     ],
     "riskometer": "Very High Risk",
     "investment_objective": "The investment objective of the scheme is to provide optimum capital growth and appreciation.There can be no assurance thatthe investment objective of the scheme will be realized. The scheme does not guarantee/ indicate any returns. Investors arerequired to read all the scheme related information set out in this document carefully.",
@@ -112,5 +112,5 @@
     "Direct Annual IDCW Option-PAYOUT",
     "Direct Annual IDCW Option-REINVESTMENT"
   ],
-  "extracted_at": "2026-04-18T04:30:09.618146+00:00"
+  "extracted_at": "2026-04-19T03:19:05.302332+00:00"
 }

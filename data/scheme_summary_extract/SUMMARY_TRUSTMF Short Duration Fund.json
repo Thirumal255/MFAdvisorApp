@@ -19,20 +19,19 @@
       "Direct Plan - Quarterly IDCW Payout",
       "Direct Plan - Quarterly IDCW Reinvestment"
     ],
-    "isins": [
-      "INF0GCD01313",
-      "INF0GCD01321",
-      "INF0GCD01339",
-      "INF0GCD01347",
-      "INF0GCD01354",
-      "INF0GCD01362",
-      "INF0GCD01370",
-      "INF0GCD01388",
-      "INF0GCD01396",
-      "INF0GCD01404",
-      "INF0GCD01412",
-      "INF0GCD01420"
+    "riskometer": "Moderate",
+    "investment_objective": "The scheme will endeavour to generate stable returns for investors with a short term investment horizon by investing in debt and money market instruments. There can be no assurance that the investment objective of the scheme will be achieved.",
+    "asset_allocation": "Debt Securities & Money Market Instruments - 0% to 100%\nUnits issued by REITs & InvITs - 0% to 10%",
+    "benchmark": [
+      "CRISIL Short Duration Debt A-II Index",
+      "CRISIL Select AAA Short Duration Fund Index"
     ],
+    "fund_managers": "Mr. Jalpan Shah & Ms. Shradhanjali Panda",
+    "annual_expense": {
+      "Regular": "0.73",
+      "Direct": "0.23"
+    },
+    "exit_load": "N.A",
     "amfi_codes": [
       "149073",
       "149074",
@@ -47,16 +46,20 @@
       "149079",
       "149079"
     ],
-    "riskometer": "Moderate",
-    "investment_objective": "The scheme will endeavour to generate stable returns for investors with a short term investment horizon by investing in debt and money market instruments. There can be no assurance that the investment objective of the scheme will be achieved.",
-    "asset_allocation": "Debt Securities & Money Market Instruments - 0% to 100%\nUnits issued by REITs & InvITs - 0% to 10%",
-    "benchmark": "CRISIL Short Duration Debt A-II Index",
-    "fund_managers": "Mr. Jalpan Shah & Ms. Shradhanjali Panda",
-    "annual_expense": {
-      "Regular": "0.73",
-      "Direct": "0.23"
-    },
-    "exit_load": "N.A"
+    "isins": [
+      "INF0GCD01313",
+      "INF0GCD01321",
+      "INF0GCD01339",
+      "INF0GCD01347",
+      "INF0GCD01354",
+      "INF0GCD01362",
+      "INF0GCD01370",
+      "INF0GCD01388",
+      "INF0GCD01396",
+      "INF0GCD01404",
+      "INF0GCD01412",
+      "INF0GCD01420"
+    ]
   },
   "fund_options_inferred": [
     "Regular Plan - Growth",
@@ -72,5 +75,5 @@
     "Direct Plan - Quarterly IDCW Payout",
     "Direct Plan - Quarterly IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T05:59:48.510929+00:00"
+  "extracted_at": "2026-04-19T04:18:33.126195+00:00"
 }

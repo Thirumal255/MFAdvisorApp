@@ -16,8 +16,16 @@
     "asset_allocation": "Instruments forming part of the CRISIL IBX SDL Index – June 2032 - 95 to 100%- Moderate Cash and Debt/Money Market Instruments - 0 to 5% - Low",
     "benchmark": "CRISIL IBX SDL Index – June 2032",
     "fund_managers": [
-      "Mr. Bhupesh Bameta",
-      "Mr. Mohit Sharma"
+      {
+        "name": "Mr. Bhupesh Bameta",
+        "type": "Comanage",
+        "from_date": "14-Feb-23"
+      },
+      {
+        "name": "Mr. Mohit Sharma",
+        "type": "Comanage",
+        "from_date": "14-Feb-23"
+      }
     ],
     "annual_expense": {
       "Regular": "0.55",
@@ -43,5 +51,5 @@
     "Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 Index Fund-Regular Growth",
     "Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 Index Fund-Regular IDCW"
   ],
-  "extracted_at": "2026-04-18T02:09:59.333416+00:00"
+  "extracted_at": "2026-04-19T01:57:35.424388+00:00"
 }

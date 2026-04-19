@@ -30,15 +30,15 @@
       "101764"
     ],
     "riskometer": "Very High Risk",
-    "investment_objective": "To achieve capital appreciation/income in the long term by primarily investing in undervalued stocks. There is no assurance thatthe investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Equity and Equity Related Instruments: 65% - 100%; Debt Securities (including securitised debt) and money market instruments:0% -35%; Units issued by InvITs: 0% -10%; Non-convertible preference shares: 0% -10%. For detailed asset allocation, referScheme Information Document (SID) available on the website.",
+    "investment_objective": "To achieve capital appreciation/income in the long term by primarily investing in undervalued stocks. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity Related Instruments: 65% - 100%; Debt Securities (including securitised debt) and money market instruments:0% -35%; Units issued by InvITs: 0% -10%; Non-convertible preference shares: 0% -10%. For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
     "benchmark": "NIFTY 500 Index (Total Returns Index)",
     "fund_managers": "FM 1 - Mr. Anand Laddha, FM 2 - Mr. Dhruv Muchhal",
     "annual_expense": {
       "Regular": "1.84",
       "Direct": "0.99"
     },
-    "exit_load": "In respect of each purchase / switch-in of units, an Exit Load of 0.25% is payable if Units are redeemed/ switched-out within 1month from the date of allotment. No Exit Load is payable if Units are redeemed / switched-out after 1 month from the date ofallotment."
+    "exit_load": "In respect of each purchase / switch-in of units, an Exit Load of 0.25% is payable if Units are redeemed/ switched-out within 1 month from the date of allotment. No Exit Load is payable if Units are redeemed / switched-out after 1 month from the date of allotment."
   },
   "fund_options_inferred": [
     "DIRECT PLAN - IDCW REINVESTMENT OPTION",
@@ -48,5 +48,5 @@
     "REGULAR PLAN - IDCW REINVESTMENT OPTION",
     "REGULAR PLAN - GROWTH OPTION"
   ],
-  "extracted_at": "2026-04-18T03:51:16.277435+00:00"
+  "extracted_at": "2026-04-19T02:54:31.488113+00:00"
 }

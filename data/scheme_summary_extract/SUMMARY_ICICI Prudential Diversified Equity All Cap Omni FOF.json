@@ -6,18 +6,15 @@
     "fund_name": "ICICI Prudential Diversified Equity All Cap Omni FOF",
     "fund_type": "Open Ended",
     "fund_options": [
-      "ICICI Prudential Diversified Equity All Cap Omni FOF- Direct Plan - Growth",
-      "ICICI Prudential Diversified Equity All Cap Omni FOF- Direct Plan - IDCW",
-      "ICICI Prudential Diversified Equity All Cap Omni FOF- Regular Plan - Growth",
-      "ICICI Prudential Diversified Equity All Cap Omni FOF- Regular Plan - IDCW"
+      "Direct Plan - Growth",
+      "Direct Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW"
     ],
     "riskometer": "Moderately High",
     "investment_objective": "The primary objective of the Scheme is to generate long term capital appreciation by investing in units of domestic active and passive diversified equity oriented schemes based on varied market caps. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
     "asset_allocation": "• Units of domestic active and passive diversified equity oriented schemes based on varied market caps#  = 95%-100%\n• Money Market Instruments (with maturity not exceeding 91 days) including Tri-Party Repo*, cash & cash equivalents= 0%-5%\n#Multi cap Funds, Large cap Funds, Large & Mid cap Funds, Mid cap Funds, Small cap Funds, Focused Funds, Flexi cap Funds and passive schemes based on varied market caps.",
-    "benchmark": {
-      "tier_1": "BSE 500 TRI",
-      "tier_2": "Nifty 50 TRI"
-    },
+    "benchmark": "BSE 500 TRI",
     "fund_managers": [
       "Dharmesh Kakkad",
       "Sharmila D'mello",
@@ -35,19 +32,17 @@
       "148034"
     ],
     "isins": [
-      "INF109KC1I15",
-      "INF109KC1I23",
       "INF109KC1I49",
-      "INF109KC1I56",
-      "INF109KC1I31",
-      "INF109KC1I64"
+      "INF109KC1I64",
+      "INF109KC1I15",
+      "INF109KC1I31"
     ]
   },
   "fund_options_inferred": [
-    "ICICI Prudential Diversified Equity All Cap Omni FOF- Direct Plan - Growth",
-    "ICICI Prudential Diversified Equity All Cap Omni FOF- Direct Plan - IDCW",
-    "ICICI Prudential Diversified Equity All Cap Omni FOF- Regular Plan - Growth",
-    "ICICI Prudential Diversified Equity All Cap Omni FOF- Regular Plan - IDCW"
+    "Direct Plan - Growth",
+    "Direct Plan - IDCW",
+    "Regular Plan - Growth",
+    "Regular Plan - IDCW"
   ],
-  "extracted_at": "2026-04-18T04:03:42.526437+00:00"
+  "extracted_at": "2026-04-19T03:02:42.942187+00:00"
 }

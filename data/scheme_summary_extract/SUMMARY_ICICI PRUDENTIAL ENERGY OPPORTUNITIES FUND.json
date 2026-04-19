@@ -6,28 +6,12 @@
     "fund_name": "ICICI Prudential Energy Opportunities Fund",
     "fund_type": "Open Ended",
     "fund_options": [
-      "ICICI Prudential Energy Opportunities Fund - Direct Plan - Growth",
-      "ICICI Prudential Energy Opportunities Fund - Direct Plan - IDCW",
-      "ICICI Prudential Energy Opportunities Fund - Direct Plan - IDCW Payout",
       "ICICI Prudential Energy Opportunities Fund - Growth",
       "ICICI Prudential Energy Opportunities Fund - IDCW",
-      "ICICI Prudential Energy Opportunities Fund - IDCW Payout"
-    ],
-    "isins": [
-      "INF109KC12W6",
-      "INF109KC14W2",
-      "INF109KC13W4",
-      "INF109KC15W9",
-      "INF109KC17W5",
-      "INF109KC16W7"
-    ],
-    "amfi_codes": [
-      "9751",
-      "9752",
-      "9752P",
-      "3549",
-      "3550",
-      "3550P"
+      "ICICI Prudential Energy Opportunities Fund - IDCW Payout",
+      "ICICI Prudential Energy Opportunities Fund - Direct Plan - Growth",
+      "ICICI Prudential Energy Opportunities Fund - Direct Plan - IDCW",
+      "ICICI Prudential Energy Opportunities Fund - Direct Plan - IDCW Payout"
     ],
     "riskometer": "Very High\nAs on November 30, 2025",
     "investment_objective": "The investment objective of the Scheme is to provide investors with opportunities for long term capital appreciation by investing in equity and equity related instruments of companies engaging in activities such as exploration, production, distribution, transportation and processing of traditional & new energy including but not limited to industries/sectors such as oil & gas, utilities and power.\nHowever there can be no assurance or guarantee that the investment objective of the scheme would be achieved.",
@@ -41,15 +25,31 @@
       "Regular": "1.74",
       "Direct": "0.58"
     },
-    "exit_load": "• 1% of applicable Net Asset Value - If the amount sought to be redeemed or switch out is invested for a period of up to three months from the date of allotment \n• Nil - If the amount, sought to be redeemed or switch out is invested for a period of more than three months from the date of allotment"
+    "exit_load": "• 1% of applicable Net Asset Value - If the amount sought to be redeemed or switch out is invested for a period of up to three months from the date of allotment \n• Nil - If the amount, sought to be redeemed or switch out is invested for a period of more than three months from the date of allotment",
+    "amfi_codes": [
+      "3549",
+      "3550",
+      "3550P",
+      "9751",
+      "9752",
+      "9752P"
+    ],
+    "isins": [
+      "INF109KC15W9",
+      "INF109KC17W5",
+      "INF109KC16W7",
+      "INF109KC12W6",
+      "INF109KC14W2",
+      "INF109KC13W4"
+    ]
   },
   "fund_options_inferred": [
-    "ICICI Prudential Energy Opportunities Fund - Direct Plan - Growth",
-    "ICICI Prudential Energy Opportunities Fund - Direct Plan - IDCW",
-    "ICICI Prudential Energy Opportunities Fund - Direct Plan - IDCW Payout",
     "ICICI Prudential Energy Opportunities Fund - Growth",
     "ICICI Prudential Energy Opportunities Fund - IDCW",
-    "ICICI Prudential Energy Opportunities Fund - IDCW Payout"
+    "ICICI Prudential Energy Opportunities Fund - IDCW Payout",
+    "ICICI Prudential Energy Opportunities Fund - Direct Plan - Growth",
+    "ICICI Prudential Energy Opportunities Fund - Direct Plan - IDCW",
+    "ICICI Prudential Energy Opportunities Fund - Direct Plan - IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T04:04:29.080046+00:00"
+  "extracted_at": "2026-04-19T03:03:07.931560+00:00"
 }

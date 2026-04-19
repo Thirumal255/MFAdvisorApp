@@ -6,14 +6,14 @@
     "fund_name": "ADITYA BIRLA SUN LIFE FLOATING RATE FUND",
     "fund_type": "An open ended debt scheme predominantly investing in floating rate instruments \n(including fixed rate instruments converted to floating rate exposures using \nswaps / derivatives). A relatively high interest rate risk and moderate credit risk.",
     "fund_options": [
-      "Aditya Birla Sun Life Floating Rate Fund-Regular - DAILY IDCW",
-      "Aditya Birla Sun Life Floating Rate Fund-Regular Plan-Growth",
-      "Aditya Birla Sun Life Floating Rate Fund-Direct - daily IDCW",
-      "Aditya Birla Sun Life Floating Rate Fund-Direct Plan-Growth",
-      "Aditya Birla Sun Life Floating Rate Fund-REGULAR - WEEKLY IDCW",
-      "Aditya Birla Sun Life Floating Rate Fund-Direct - weekly IDCW",
-      "Aditya Birla Sun Life Floating Rate Fund-RETAIL - WEEKLY IDCW",
-      "Aditya Birla Sun Life Floating Rate Fund-Retail Plan-Growth"
+      "Regular - DAILY IDCW",
+      "Regular Plan-Growth",
+      "Direct - daily IDCW",
+      "Direct Plan-Growth",
+      "REGULAR - WEEKLY IDCW",
+      "Direct - weekly IDCW",
+      "RETAIL - WEEKLY IDCW",
+      "Retail Plan-Growth"
     ],
     "isins": [
       "INF209KA1LN1",
@@ -58,14 +58,14 @@
     "exit_load": "Nil"
   },
   "fund_options_inferred": [
-    "Aditya Birla Sun Life Floating Rate Fund-Regular - DAILY IDCW",
-    "Aditya Birla Sun Life Floating Rate Fund-Regular Plan-Growth",
-    "Aditya Birla Sun Life Floating Rate Fund-Direct - daily IDCW",
-    "Aditya Birla Sun Life Floating Rate Fund-Direct Plan-Growth",
-    "Aditya Birla Sun Life Floating Rate Fund-REGULAR - WEEKLY IDCW",
-    "Aditya Birla Sun Life Floating Rate Fund-Direct - weekly IDCW",
-    "Aditya Birla Sun Life Floating Rate Fund-RETAIL - WEEKLY IDCW",
-    "Aditya Birla Sun Life Floating Rate Fund-Retail Plan-Growth"
+    "Regular - DAILY IDCW",
+    "Regular Plan-Growth",
+    "Direct - daily IDCW",
+    "Direct Plan-Growth",
+    "REGULAR - WEEKLY IDCW",
+    "Direct - weekly IDCW",
+    "RETAIL - WEEKLY IDCW",
+    "Retail Plan-Growth"
   ],
-  "extracted_at": "2026-04-18T02:11:46.756098+00:00"
+  "extracted_at": "2026-04-19T01:58:58.615047+00:00"
 }

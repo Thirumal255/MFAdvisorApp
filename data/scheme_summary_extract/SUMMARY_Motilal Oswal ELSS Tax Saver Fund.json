@@ -29,8 +29,7 @@
     ],
     "annual_expense": {
       "Regular": "2.25",
-      "Direct": "2.25",
-      "Retail": "2.25"
+      "Direct": "2.25"
     },
     "exit_load": "Nil",
     "amfi_codes": [
@@ -52,5 +51,5 @@
     "Regular Payout of IDCW",
     "Direct Payout of IDCW"
   ],
-  "extracted_at": "2026-04-18T05:04:36.621517+00:00"
+  "extracted_at": "2026-04-19T03:41:22.184707+00:00"
 }

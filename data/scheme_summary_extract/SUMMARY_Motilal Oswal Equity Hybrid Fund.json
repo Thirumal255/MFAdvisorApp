@@ -12,7 +12,7 @@
     "riskometer": "Very high",
     "investment_objective": "To generate equity linked returns by investing in a combined portfolio of equity and equity related instruments, debt, money market instruments and units issued by Real Estate Investment Trust (REITs) and Infrastructure Investment Trust (InvITs).",
     "asset_allocation": "Equity and Equity related instruments 65-80%;Debt, Money Market Instruments, G-Secs, Bonds, Debentures, Cash and Cash at call, etc. 20-35%; Units issued by REITs and InvITs 0-10%",
-    "benchmark": "Tier 1 CRISIL Hybrid 35+65 - Aggressive Index",
+    "benchmark": "CRISIL Hybrid 35+65 - Aggressive Index",
     "fund_managers": [
       {
         "name": "Mr. Siddharth Bothra",
@@ -26,11 +26,13 @@
       }
     ],
     "annual_expense": {
-      "Regular": "2.25"
+      "Regular": "2.25",
+      "Direct": "2.25"
     },
     "exit_load": null,
     "amfi_codes": [
-      "127"
+      "144681",
+      "144730"
     ],
     "isins": [
       "INF247L01692"
@@ -40,5 +42,5 @@
     "Regular Growth",
     "Direct Growth"
   ],
-  "extracted_at": "2026-04-18T05:04:41.327933+00:00"
+  "extracted_at": "2026-04-19T03:41:26.653997+00:00"
 }

@@ -19,6 +19,7 @@ INPUT_SUMMARY_PDF_DIR = BASE_DIR / "data" / "summary_scheme_pdf"
 OUTPUT_SUMMARY_DIR = BASE_DIR / "data" / "scheme_summary_extract"
 
 OUTPUT_SUMMARY_DIR.mkdir(parents=True, exist_ok=True)
+ALL_SUMMARIES_FILE = OUTPUT_SUMMARY_DIR / "all_scheme_summaries.json"
 
 MAX_DOC_CHARS = 12000
 
@@ -43,11 +44,24 @@ def safe_json_loads(text: str) -> Dict[str, Any]:
     text = text.strip()
     if "{" in text and "}" in text:
         text = text[text.find("{"): text.rfind("}") + 1]
+
+    # Fix 1: Remove invalid control characters that sneak in from PDF ligatures
+    # (e.g. U+FB01 'ﬁ', U+FB02 'ﬂ', soft-hyphens, non-breaking spaces, etc.)
+    text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', text)
+
+    # Fix 2: Deduplicate JSON keys — last value wins (mirrors Python dict behaviour).
+    # json.loads raises on duplicate keys in strict mode on some builds; we pre-clean.
     try:
         return json.loads(text)
-    except Exception:
-        logger.error("Unparseable LLM output:\n%s", text)
-        raise
+    except json.JSONDecodeError:
+        # Try deduplication pass via object_pairs_hook
+        try:
+            def _last_wins(pairs):
+                return dict(pairs)          # later key silently overwrites earlier
+            return json.loads(text, object_pairs_hook=_last_wins)
+        except Exception:
+            logger.error("Unparseable LLM output:\n%s", text)
+            raise
 
 
 def normalize_annual_expense(value):
@@ -360,6 +374,25 @@ def infer_fund_options(raw_options, amfi_codes, isins, full_text):
     return expanded, isins, amfi_codes
 
 # -------------------------------------------------------------------
+# Helper: Append record to aggregated summaries file
+# -------------------------------------------------------------------
+
+def _append_to_all_summaries(parent_name: str, record: dict):
+    """
+    Upsert one record into all_scheme_summaries.json.
+    Keyed by parent_scheme_name — same shape downstream scripts expect.
+    """
+    if ALL_SUMMARIES_FILE.exists():
+        with open(ALL_SUMMARIES_FILE, "r", encoding="utf-8") as f:
+            aggregated = json.load(f)
+    else:
+        aggregated = {}
+    aggregated[parent_name] = record
+    with open(ALL_SUMMARIES_FILE, "w", encoding="utf-8") as f:
+        json.dump(aggregated, f, indent=2, ensure_ascii=False)
+
+
+# -------------------------------------------------------------------
 # Core Processing
 # -------------------------------------------------------------------
 
@@ -417,7 +450,8 @@ def process_single_summary_pdf(pdf_path: Path):
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    logger.info("Saved → %s", output_path.name)
+    _append_to_all_summaries(output["parent_scheme_name"], output)
+    logger.info("Saved → %s (+ appended to all_scheme_summaries.json)", output_path.name)
 
 # -------------------------------------------------------------------
 # Batch Runner

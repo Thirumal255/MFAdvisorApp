@@ -24,10 +24,10 @@
     "amfi_codes": [
       "153860",
       "153862",
-      "153862",
+      "null",
       "153861",
       "153863",
-      "153863"
+      "null"
     ],
     "riskometer": "Very High Risk",
     "investment_objective": "To generate long-term capital appreciation / income by investing in units of domestic equity-oriented schemes based on variedmarket caps. There is no assurance that the investment objective of the Scheme will be achieved.",
@@ -48,5 +48,5 @@
     "Regular Plan - IDCW Payout Option",
     "Regular Plan - IDCW Reinvestment Option"
   ],
-  "extracted_at": "2026-04-18T03:42:05.299809+00:00"
+  "extracted_at": "2026-04-19T02:48:06.380469+00:00"
 }

@@ -25,17 +25,18 @@
     ],
     "riskometer": "Very High",
     "investment_objective": "The primary objective of the Scheme is to generate capital appreciation primarily from a portfolio that is invested in Units of domestic Equity Exchange Traded Funds. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
-    "asset_allocation": "• Units of Domestic Equity Exchange Traded Funds (ETFs) = 95% - 100% \n• Units of Liquid/Overnight mutual fund schemes/ETFs, Money Market Instruments (with maturity not exceeding 91 days), including Tri-Party Repo, cash & cash equivalents. = 0% - 5%",
+    "asset_allocation": "• Units of Domestic Equity Exchange Traded Funds (ETFs) = 95% - 100% • Units of Liquid/Overnight mutual fund schemes/ETFs, Money Market Instruments (with maturity not exceeding 91 days), including Tri-Party Repo, cash & cash equivalents. = 0% - 5%",
     "benchmark": "Nifty 200 TRI",
     "fund_managers": [
       "Sankaran Naren",
-      "Dharmesh Kakkad"
+      "Dharmesh Kakkad",
+      "Sharmila D'mello"
     ],
     "annual_expense": {
       "Regular": "0.37",
       "Direct": "0.13"
     },
-    "exit_load": "• If units purchased or switched in from another scheme of the Fund are redeemed or switched out up to 15 days from the date of allotment – 1% of the Applicable NAV\n• If units purchased or switched in from another scheme of the Fund are redeemed or switched out after 15 days from the date of allotment - Nil (w.e.f. 1st July 2021)"
+    "exit_load": "• If units purchased or switched in from another scheme of the Fund are redeemed or switched out up to 15 days from the date of allotment – 1% of the Applicable NAV • If units purchased or switched in from another scheme of the Fund are redeemed or switched out after 15 days from the date of allotment - Nil (w.e.f. 1st July 2021)"
   },
   "fund_options_inferred": [
     "ICICI Prudential Passive Strategy Fund (FOF) - Direct Plan - Growth",
@@ -43,5 +44,5 @@
     "ICICI Prudential Passive Strategy Fund (FOF) - Growth",
     "ICICI Prudential Passive Strategy Fund (FOF) - IDCW"
   ],
-  "extracted_at": "2026-04-18T04:09:20.350903+00:00"
+  "extracted_at": "2026-04-19T03:06:09.980584+00:00"
 }

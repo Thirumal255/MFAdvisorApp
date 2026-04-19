@@ -7,7 +7,7 @@
     "fund_type": "An open ended equity linked saving scheme with a statutory lock in of 3 years and tax benefit",
     "fund_options": [
       "Direct Plan - IDCW Payout",
-      "Direct Plan -Growth Growth",
+      "Direct Plan - Growth Growth",
       "Eco Plan - IDCW Payout",
       "Eco Plan - Growth Growth",
       "Regular Plan - IDCW Payout",
@@ -42,11 +42,11 @@
   },
   "fund_options_inferred": [
     "Direct Plan - IDCW Payout",
-    "Direct Plan -Growth Growth",
+    "Direct Plan - Growth Growth",
     "Eco Plan - IDCW Payout",
     "Eco Plan - Growth Growth",
     "Regular Plan - IDCW Payout",
     "Regular Plan - Growth Growth"
   ],
-  "extracted_at": "2026-04-18T02:54:18.438598+00:00"
+  "extracted_at": "2026-04-19T02:18:24.369764+00:00"
 }

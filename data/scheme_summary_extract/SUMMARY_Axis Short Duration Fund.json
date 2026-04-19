@@ -15,26 +15,6 @@
       "Regular Monthly IDCW",
       "Regular Weekly IDCW"
     ],
-    "isins": [
-      "INF846K01EI1",
-      "INF846K01EJ9",
-      "INF846K01RH5",
-      "INF846K01EL5",
-      "INF846K01644",
-      "INF846K01651",
-      "INF846K01RJ1",
-      "INF846K01677"
-    ],
-    "amfi_codes": [
-      "120510",
-      "120511",
-      "133894",
-      "120512",
-      "112354",
-      "112355",
-      "133895",
-      "112369"
-    ],
     "riskometer": "Moderate",
     "investment_objective": "To generate stable returns with a low risk strategy while maintaining liquidity through a portfolio comprising of debt and money market instruments. However, there can be no assurance that the investment objective of the scheme will be achieved.",
     "asset_allocation": "Debt and Money Market instruments - (0%-100%), Units issued by REITs & InvITs - (0%-10%)",
@@ -44,7 +24,34 @@
       "Regular": "0.91",
       "Direct": "0.38"
     },
-    "exit_load": "Nil"
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "120510",
+      "120511",
+      "133894",
+      "120512",
+      "112354",
+      "112355",
+      "133895",
+      "112369",
+      "112721",
+      "112723",
+      "112722"
+    ],
+    "isins": [
+      "INF846K01EI1",
+      "INF846K01EJ9",
+      "INF846K01RH5",
+      "INF846K01EL5",
+      "INF846K01644",
+      "INF846K01651",
+      "INF846K01RJ1",
+      "INF846K01677",
+      "INF846K01594",
+      "INF846K01602",
+      "INF846K01628",
+      "INF846K01EK7"
+    ]
   },
   "fund_options_inferred": [
     "Direct Growth",
@@ -56,5 +63,5 @@
     "Regular Monthly IDCW",
     "Regular Weekly IDCW"
   ],
-  "extracted_at": "2026-04-18T02:24:27.147062+00:00"
+  "extracted_at": "2026-04-19T02:10:07.661648+00:00"
 }

@@ -38,7 +38,7 @@
       "Regular": "0.0000",
       "Direct": "0.0000"
     },
-    "exit_load": "0.75% if redeemed within 1 year of allotment"
+    "exit_load": "0.75"
   },
   "fund_options_inferred": [
     "Regular - Growth",
@@ -48,5 +48,5 @@
     "Regular - IDCW Reinv.",
     "Direct - IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T03:32:08.970519+00:00"
+  "extracted_at": "2026-04-19T02:40:37.823042+00:00"
 }

@@ -26,10 +26,7 @@
     "riskometer": "Very High",
     "investment_objective": "The investment objective of ICICI Prudential US Bluechip Equity Fund is to provide long term capital appreciation to investors by primarily investing in equity and equity related securities of companies listed on recognized stock exchanges in the United States of America. The Scheme shall also invest in ADRs/GDRs issued by Indian and foreign companies. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
     "asset_allocation": "•Equity & Equity related securities = 80% - 100%\n•Fixed income securities of India as well as U.S including money market instruments, cash and equivalent, Treasury bills and fixed deposits = 0% - 20%",
-    "benchmark": [
-      "BSE 500 TRI",
-      "Nifty 50 TRI"
-    ],
+    "benchmark": "BSE 500 TRI",
     "fund_managers": [
       "Ritesh Lunawat",
       "Nitya Mishra",
@@ -47,5 +44,5 @@
     "Growth",
     "IDCW"
   ],
-  "extracted_at": "2026-04-18T04:18:59.438137+00:00"
+  "extracted_at": "2026-04-19T03:12:04.976317+00:00"
 }

@@ -12,7 +12,7 @@
     "investment_objective": "The investment objective of the Scheme is to generate returns that are commensurate with the performance of the Nifty500 Flexicap Quality 30 Index, subject to tracking error. There is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "A. Equity and Equity Related Securities of companies constituting Nifty500 Flexicap Quality 30 Index, the Underlying Index :95% - 100%, B. Cash and Cash Equivalents : 0% – 5%",
     "benchmark": "Nifty500 Flexicap Quality 30 TRI",
-    "fund_managers": "Mr. Anil Ghelani - Primary, Mr. Diipesh Shah - Comanage",
+    "fund_managers": "Mr. Anil Ghelani, Mr. Diipesh Shah",
     "annual_expense": {
       "Direct": "0.34"
     },
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T03:16:40.196841+00:00"
+  "extracted_at": "2026-04-19T02:32:08.082483+00:00"
 }

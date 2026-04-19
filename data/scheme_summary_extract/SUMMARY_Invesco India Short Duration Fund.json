@@ -21,32 +21,6 @@
       "Direct Plan - Daily IDCW Reinvestment",
       "Direct Plan - Weekly IDCW Reinvestment"
     ],
-    "riskometer": "Moderate",
-    "investment_objective": "To generate steady returns with a moderate risk for investors by investing in a portfolio of short term debt and Money Market Instruments. There is no assurance that the investment objective of the Scheme will be achieved",
-    "asset_allocation": "Debt and Money Market Instruments: Min.0% Max. 100%",
-    "benchmark": "NIFTY Short Duration Debt Index A-II",
-    "fund_managers": "Vikas Garg, Krishna Cheemalapati",
-    "annual_expense": {
-      "Regular": "1.20",
-      "Direct": "0.35"
-    },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "105185",
-      "105191",
-      "105191",
-      "116110",
-      "116110",
-      "117973",
-      null,
-      "120560",
-      "120561",
-      "120561",
-      "120563",
-      "120563",
-      "120559",
-      "120562"
-    ],
     "isins": [
       "INF205K01UN6",
       "INF205K01UO4",
@@ -62,7 +36,33 @@
       "INF205K01UG0",
       "INF205K01UE5",
       "INF205K01UK2"
-    ]
+    ],
+    "amfi_codes": [
+      "105185",
+      "105191",
+      "105191",
+      "116110",
+      "116110",
+      "117973",
+      "105190",
+      "120560",
+      "120561",
+      "120561",
+      "120563",
+      "120563",
+      "120559",
+      "120562"
+    ],
+    "riskometer": "Moderate",
+    "investment_objective": "To generate steady returns with a moderate risk for investors by investing in a portfolio of short term debt and Money MarketInstruments. There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Debt and Money Market Instruments: Min.0% Max. 100%",
+    "benchmark": "NIFTY Short Duration Debt Index A-II",
+    "fund_managers": "Vikas Garg, Krishna Cheemalapati",
+    "annual_expense": {
+      "Regular": "1.20",
+      "Direct": "0.35"
+    },
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "Regular Plan - Growth",
@@ -80,5 +80,5 @@
     "Direct Plan - Daily IDCW Reinvestment",
     "Direct Plan - Weekly IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:24:55.950750+00:00"
+  "extracted_at": "2026-04-19T03:15:18.681893+00:00"
 }

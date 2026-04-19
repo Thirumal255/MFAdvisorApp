@@ -14,15 +14,15 @@
       "Regular Plan Growth"
     ],
     "riskometer": "Very high",
-    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation from a portfolio investing predominantly in Indian equity and equity related instruments across market capitalization. However, there is no assurance that the investment objective of the Scheme will be realized",
-    "asset_allocation": "Equity and Equity related instruments including equity linked derivatives - 65-100%; Debt securities (including securitized debt & debt derivatives) and money market instruments$ -0 - 35%; Units issued by REITs and InvITs - 0-10%",
+    "investment_objective": "The investment objective of the scheme is to provide long-term capital appreciation from a portfolio investing predominantly inIndian equity and equity related instruments across market capitalization. However, there is no assurance that the investmentobjective of the Scheme will be realized",
+    "asset_allocation": "Equity and Equity related instruments including equity linked derivatives - 65-100%; Debt securities (including securitized debt &debt derivatives) and money market instruments$ -0 - 35%; Units issued by REITs and InvITs - 0-10%",
     "benchmark": "NIFTY 500 TRI",
     "fund_managers": "Mr. Varun Goel",
     "annual_expense": {
       "Regular": "1.88",
       "Direct": "0.45"
     },
-    "exit_load": "I.For investors who have opted for SWP under the plan: a)15% of the units allotted(including Switch-in/STP - in)on or before completion of 365 days from the date of allotment of units: Nil. b)Any redemption in excess of such limits in the first 365 days from the date of allotment shall be subject to the following exit load: (Redemption of units would be done on First In First Out Basis (FIFO): -If redeemed within 1 year (365 days) from the date of allotment:1% -If redeemed after 1 year (365 days) from the date of allotment:NIL II.Other Redemptions: For Investors who have not opted for SWP under the plan (including Switch out, STP out): -If redeemed within 1 year (365 days) from the date of allotment:1% -If redeemed after 1 year (365 days) from the date of allotment:NIL",
+    "exit_load": "I.For investors who have optedfor SWP under the plan: a)15% of the units allotted(including Switch-in/STP - in)on or beforecompletion of 365days from the date of allotmentof units: Nil. b)Any redemption in excess ofsuch limits in the ﬁrst 365daysfrom the date of allotment shallbe subject to the following exitload: (Redemption of unitswould be done on First In FirstOutBasis (FIFO): -If redeemed within 1 year (365days) from the date of allotment:1% -If redeemed after 1 year (365days) from thedate of allotment:NIL II.Other Redemptions: ForInvestors who have not opted forSWP under the plan (includingSwitch out, STPout): -If redeemed within 1 year (365days) from the date of allotment:1% -If redeemed after 1 year (365days) from the date ofallotment:NIL",
     "amfi_codes": [
       "151412",
       "151413",
@@ -46,5 +46,5 @@
     "Regular PlanIDCW -Reinvestment",
     "Regular Plan Growth"
   ],
-  "extracted_at": "2026-04-18T04:54:56.275896+00:00"
+  "extracted_at": "2026-04-19T03:35:21.208987+00:00"
 }

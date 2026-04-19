@@ -13,16 +13,14 @@
       "Direct Plan - IDCW Payout",
       "Direct Plan - IDCW Reinvestment"
     ],
-    "riskometer": "Very High",
-    "investment_objective": "To generate capital appreciation and current income by investing in equity & equity related instruments as well as debt securities.There is no assurance that the investment objective of the Scheme will be achieved",
-    "asset_allocation": "Equity and Equity Related Instruments: Min. 65% Max. 80% Debt and Money Market Instruments: Min.20% Max. 35%",
-    "benchmark": "CRISIL Hybrid 35 + 65 - Aggressive Index",
-    "fund_managers": "Mr. Amey Sathe - Primary , Mr. Hiten Jain - Comanage , Mr. Krishna Cheemalapati - Comanage",
-    "annual_expense": {
-      "Regular": "2.4100",
-      "Direct": "0.8600"
-    },
-    "exit_load": "If upto 10% of Units allotted are redeemed / switched-out within 1 year from the date of allotment - Nil. For any redemption /switchout in excess of 10% of units allotted within one year from the date of allotment -1%. If units are redeemed or switched-out after 1 year from the date of allotment - Nil.",
+    "isins": [
+      "INF205K011Q3",
+      "INF205K010Q5",
+      "INF205K012Q1",
+      "INF205K014Q7",
+      "INF205K013Q9",
+      "INF205K015Q4"
+    ],
     "amfi_codes": [
       "143536",
       "143534",
@@ -31,14 +29,16 @@
       "143532",
       "143532"
     ],
-    "isins": [
-      "INF205K011Q3",
-      "INF205K010Q5",
-      "INF205K012Q1",
-      "INF205K014Q7",
-      "INF205K013Q9",
-      "INF205K015Q4"
-    ]
+    "riskometer": "Very High",
+    "investment_objective": "To generate capital appreciation and current income by investing in equity & equity related instruments as well as debt securities.There is no assurance that the investment objective of the Scheme will be achieved",
+    "asset_allocation": "Equity and Equity Related Instruments: Min. 65% Max. 80% Debt and Money Market Instruments: Min.20% Max. 35%",
+    "benchmark": "CRISIL Hybrid 35 + 65 - Aggressive Index",
+    "fund_managers": "Mr. Amey Sathe - Primary , Mr. Hiten Jain - Comanage ,Mr. Krishna Cheemalapati - Comanage",
+    "annual_expense": {
+      "Regular": "2.4100",
+      "Direct": "0.8600"
+    },
+    "exit_load": "If upto 10% of Units allotted are redeemed / switched-out within 1 year from the date of allotment - Nil. For any redemption /switchout in excess of 10% of units allotted within one year from the date of allotment -1%. If units are redeemed or switched-out after 1 year from the date of allotment - Nil."
   },
   "fund_options_inferred": [
     "Regular Plan - Growth",
@@ -48,5 +48,5 @@
     "Direct Plan - IDCW Payout",
     "Direct Plan - IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:19:51.186540+00:00"
+  "extracted_at": "2026-04-19T03:12:30.648760+00:00"
 }

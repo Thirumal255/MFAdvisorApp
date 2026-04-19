@@ -32,17 +32,17 @@
     "amfi_codes": [
       "152162",
       "152163",
-      "null",
+      "152163",
       "152164",
-      "null",
+      "152164",
       "152165",
       "152166",
-      "null",
+      "152166",
       "152167",
-      "null"
+      "152167"
     ],
     "riskometer": "Moderate",
-    "investment_objective": "To generate income by predominantly investing in debt & money market securities issued by Banks, Public Sector Undertaking(PSUs), Public Financial Institutions (PFI), Municipal Bonds and Reverse repos in such securities, sovereign securities issued by the Central Government and State Governments, and / or any security unconditionally guaranteed by the Govt. of India. There isno assurance that or guarantee that the investment objective of the scheme will be achieved.",
+    "investment_objective": "To generate income by predominantly investing in debt & money market securities issued by Banks, Public Sector Undertaking(PSUs), Public Financial Institutions (PFI), Municipal Bonds and Reverse repos in such securities, sovereign securities issued bythe Central Government and State Governments, and / or any security unconditionally guaranteed by the Govt. of India. There isno assurance that or guarantee that the investment objective of the scheme will be achieved.",
     "asset_allocation": "Debt and money market instruments of banks, Public Sector Undertakings, Public Financial Institutions and Municipal Bonds -100%-80%, Debt & money market securities (including government securities) issued by entities other than banks, Public SectorUndertakings , Public Financial Institutions and Municipal Bonds -20%-0%",
     "benchmark": "Nifty Banking & PSU Debt Index A-II",
     "fund_managers": "FM 1 - Mr. Siddharth Chaudhary , FM 2 - Mr. Nimesh Chandan",
@@ -50,7 +50,7 @@
       "Regular": "0.90",
       "Direct": "0.35"
     },
-    "exit_load": "Nil"
+    "exit_load": "Entry load – not applicable Exit load – Nil"
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -64,5 +64,5 @@
     "Regular Plan - Monthly IDCW Reinvestment",
     "Regular Plan - Monthly IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T02:25:23.366140+00:00"
+  "extracted_at": "2026-04-19T02:10:58.180115+00:00"
 }

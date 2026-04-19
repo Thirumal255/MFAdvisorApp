@@ -13,7 +13,10 @@
     "investment_objective": "The primary investment objective of the scheme is to seek to generate capital appreciation & provide long-term growth opportunities by investing in a portfolio constituted of equity securities & equity related securities and the secondary objective is to generate consistent returns by investing in debt and money market securities. There is no assurance that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Under normal circumstances, the asset allocation of the Scheme would be as follows: Equity and Equity related instruments * -65% to 90% of total assets Debt and Money Market Instruments * - 10% to 35% of total assets Units issued by InviTs* - 0% to10% of total assets *The cumulative gross exposure to equity, debt, derivatives positions, repo in corporate debt securities, InviT and such other securities/assets as may be permitted by SEBI from time to time will not exceed 100% of the net assets of the scheme in accordance with Clause 12.24 of SEBI Master Circular SEBI/HO/IMD/IMD-PoD1/P/CIR/2023/74 dated May 19, 2023. Please refer the Scheme Information Document for complete details.",
     "benchmark": "CRISIL Hybrid 35 + 65 - Aggressive Index - Total Return Index (TRI)",
-    "fund_managers": "FM -1-Mr. Karan Doshi, FM -2-Mr. Pratik Harish Shroff",
+    "fund_managers": [
+      "FM -1-Mr. Karan Doshi",
+      "FM -2-Mr. Pratik Harish Shroff"
+    ],
     "annual_expense": {
       "Regular": "2.45",
       "Direct": "1.63"
@@ -32,5 +35,5 @@
     "Regular Plan-Growth",
     "Direct Plan-Growth"
   ],
-  "extracted_at": "2026-04-18T04:43:55.418559+00:00"
+  "extracted_at": "2026-04-19T03:28:09.930721+00:00"
 }

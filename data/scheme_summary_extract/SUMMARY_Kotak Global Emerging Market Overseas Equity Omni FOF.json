@@ -24,9 +24,9 @@
     "amfi_codes": [
       "106441",
       "106442",
-      null,
+      "null",
       "119779",
-      null,
+      "null",
       "119778"
     ],
     "riskometer": "Very High",
@@ -48,5 +48,5 @@
     "Direct Plan - Daily IDCW",
     "Direct Plan - Daily - IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T04:34:52.391329+00:00"
+  "extracted_at": "2026-04-19T03:22:20.835309+00:00"
 }

@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "HSBC Liquid Fund",
-    "fund_type": "An open-ended liquid scheme",
+    "fund_type": "An open-ended liquid scheme. A relatively low interest rate risk and moderate credit risk.",
     "fund_options": [
       "HSBC Liquid Fund - Growth Direct",
       "HSBC Liquid Fund - Direct Daily IDCW Reinvest",
@@ -18,7 +18,7 @@
       "HSBC Liquid Fund - Regular Daily IDCW Reinvesr",
       "HSBC Liquid Fund - Regular Growth",
       "HSBC Liquid Fund - Regular Monthly IDCW Payout",
-      "HSBC Liquid Fund - Regular Monthly IDCW Reinvest",
+      "HSBC Liquid Fund - Regular Monthly IDCWReinvest",
       "HSBC Liquid Fund - Regular Weekly IDCW Payout",
       "HSBC Liquid Fund - Regular Weekly IDCW Reinvest",
       "HSBC Liquid Fund - Weekly IDCW"
@@ -56,7 +56,8 @@
       "Regular": "0.20",
       "Direct": "0.12"
     },
-    "exit_load": "Following exit load shall be applicable for investors who exit (by way of redemption / switch-out / transfer) within 7 calendar days from the date of investment. Day 1 - 0.0070%, Day 2 - 0.0065%, Day 3 - 0.0060%, Day 4 - 0.0055%, Day 5 - 0.0050%, Day 6 - 0.0045%, Day 7 onwards - 0.0000% The holding period of 7 calendar days, for determination of applicability of exit load, shall be calculated from the value date [i.e., applicable Net Asset Value (NAV) date] of investment and not from the date of transaction. It may be noted that purchase transactions under systematic transactions registered prior to October 20, 2019 (Effective Date), shall also be subject to exit load as above."
+    "exit_load": "Following exit load shall be applicable for investors who exit (by way of redemption / switch-out / transfer) within 7 calendar days from the date of investment. Day 1 - 0.0070%, Day 2 - 0.0065%, Day 3 - 0.0060%, Day 4 - 0.0055%, Day 5 - 0.0050%, Day 6 - 0.0045%, Day 7 onwards - 0.0000% The holding period of 7 calendar days, for determination of applicability of exit load, shall be calculated from the value date [i.e., applicable Net Asset Value (NAV) date] of investment and not from the date of transaction. It may be noted that purchase transactions under systematic transactions registered prior to October 20, 2019 (Effective Date), shall also be subject to exit load as above.",
+    "fund_options_source": "ISIN/AMFI section"
   },
   "fund_options_inferred": [
     "HSBC Liquid Fund - Growth Direct",
@@ -71,10 +72,10 @@
     "HSBC Liquid Fund - Regular Daily IDCW Reinvesr",
     "HSBC Liquid Fund - Regular Growth",
     "HSBC Liquid Fund - Regular Monthly IDCW Payout",
-    "HSBC Liquid Fund - Regular Monthly IDCW Reinvest",
+    "HSBC Liquid Fund - Regular Monthly IDCWReinvest",
     "HSBC Liquid Fund - Regular Weekly IDCW Payout",
     "HSBC Liquid Fund - Regular Weekly IDCW Reinvest",
     "HSBC Liquid Fund - Weekly IDCW"
   ],
-  "extracted_at": "2026-04-18T03:57:44.105414+00:00"
+  "extracted_at": "2026-04-19T02:58:31.078698+00:00"
 }

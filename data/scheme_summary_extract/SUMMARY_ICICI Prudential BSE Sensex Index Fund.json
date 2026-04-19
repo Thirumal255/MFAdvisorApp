@@ -18,8 +18,7 @@
     "fund_managers": [
       "Ajaykumar Solanki",
       "Ashwini Bharucha",
-      "Nishit Patel",
-      "Venus Ahuja"
+      "Nishit Patel"
     ],
     "annual_expense": {
       "Regular": "0.28",
@@ -45,5 +44,5 @@
     "ICICI Prudential BSE Sensex Index Fund - Growth",
     "ICICI Prudential BSE Sensex Index Fund - IDCW"
   ],
-  "extracted_at": "2026-04-18T04:02:05.590180+00:00"
+  "extracted_at": "2026-04-19T03:01:31.192230+00:00"
 }

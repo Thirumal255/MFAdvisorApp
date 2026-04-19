@@ -9,7 +9,9 @@
       "Direct Plan - Growth",
       "Direct Plan - IDCW",
       "Regular Plan - Growth",
-      "Regular Plan - IDCW"
+      "Regular Plan - IDCW",
+      "Direct Plan - IDCW Payout",
+      "IDCW Payout"
     ],
     "riskometer": "Very high",
     "investment_objective": "To generate long-term capital appreciation by investing in equity and equity related instruments of entities engaged in and/or expected to benefit from the growth in housing theme. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
@@ -18,13 +20,7 @@
       "Nifty Housing Index",
       "Nifty 50 TRI"
     ],
-    "fund_managers": [
-      {
-        "name": "Mr. Sanket Gaidhani",
-        "type": "Comanage",
-        "from_date": "29-Aug-25"
-      }
-    ],
+    "fund_managers": "Mr. Sanket Gaidhani",
     "annual_expense": {
       "Regular": "2.08",
       "Direct": "1.16"
@@ -34,20 +30,28 @@
       "9682",
       "9683",
       "3480",
-      "3481"
+      "3481",
+      "9683P",
+      "3481P"
     ],
     "isins": [
       "INF109KC10C2",
       "INF109KC18B7",
       "INF109KC17B9",
-      "INF109KC1P16"
+      "INF109KC1P16",
+      "148651",
+      "148652",
+      "148653",
+      "148654"
     ]
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
     "Direct Plan - IDCW",
     "Regular Plan - Growth",
-    "Regular Plan - IDCW"
+    "Regular Plan - IDCW",
+    "Direct Plan - IDCW Payout",
+    "IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T04:06:52.730671+00:00"
+  "extracted_at": "2026-04-19T03:04:41.429454+00:00"
 }

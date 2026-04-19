@@ -30,15 +30,15 @@
       "141922"
     ],
     "riskometer": "Very High",
-    "investment_objective": "To provide long-term capital appreciation by investing predominantly in equity and equity related instruments of entities engagedin and/or expected to beneﬁt from the growth in housing and its allied business activities. There is no assurance that theinvestment objective of the Scheme will be achieved.",
-    "asset_allocation": "Equity and Equity related instruments of entities in Housing and its Allied Business activities: 80% - 100%; Equity and Equityrelated instruments of entities other than in Housing and its Allied Business activities : 0% -20%; Debt and money marketinstruments: 0% -20%; Units of INvITs: 0% - 10%. For detailed asset allocation, refer Scheme Information Document (SID) availableon the website.",
+    "investment_objective": "To provide long-term capital appreciation by investing predominantly in equity and equity related instruments of entities engaged in and/or expected to benefit from the growth in housing and its allied business activities. There is no assurance that the investment objective of the Scheme will be achieved.",
+    "asset_allocation": "Equity and Equity related instruments of entities in Housing and its Allied Business activities: 80% - 100%; Equity and Equity related instruments of entities other than in Housing and its Allied Business activities : 0% -20%; Debt and money market instruments: 0% -20%; Units of INvITs: 0% - 10%. For detailed asset allocation, refer Scheme Information Document (SID) available on the website.",
     "benchmark": "NIFTY Housing Index (Total Returns Index)",
     "fund_managers": "FM 1 - Mr. Srinivasan Ramamurthy, FM 2 - Mr. Dhruv Muchhal",
     "annual_expense": {
       "Regular": "2.23",
       "Direct": "1.19"
     },
-    "exit_load": "In respect of each purchase/switch in of units- an Exit load of 1% is payable if units are redeemed/switched out within 30 daysfrom the date of allotment. No Exit Load is payable if units are redeemed/switched-out after 30 days from the date of allotment."
+    "exit_load": "In respect of each purchase/switch in of units- an Exit load of 1% is payable if units are redeemed/switched out within 30 days from the date of allotment. No Exit Load is payable if units are redeemed/switched-out after 30 days from the date of allotment."
   },
   "fund_options_inferred": [
     "DIRECT PLAN - GROWTH OPTION",
@@ -48,5 +48,5 @@
     "REGULAR PLAN - IDCW PAYOUT OPTION",
     "REGULAR PLAN - IDCW REINVESTMENT OPTION"
   ],
-  "extracted_at": "2026-04-18T03:43:30.577962+00:00"
+  "extracted_at": "2026-04-19T02:49:05.725953+00:00"
 }

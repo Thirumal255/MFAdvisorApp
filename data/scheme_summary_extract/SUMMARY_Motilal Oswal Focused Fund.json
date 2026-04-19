@@ -34,13 +34,10 @@
         "from_date": "07-Nov-22"
       }
     ],
-    "annual_expense": {
-      "Regular": "2.25"
-    },
+    "annual_expense": {},
     "exit_load": null,
     "amfi_codes": [
-      "122387",
-      "122389"
+      "127"
     ],
     "isins": [
       "INF247L01205"
@@ -54,5 +51,5 @@
     "Regular Growth option",
     "Direct Growth option"
   ],
-  "extracted_at": "2026-04-18T05:04:56.293743+00:00"
+  "extracted_at": "2026-04-19T03:41:35.767562+00:00"
 }

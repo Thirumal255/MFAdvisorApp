@@ -13,6 +13,22 @@
       "Regular - IDCW Reinv.",
       "Direct - IDCW Payout"
     ],
+    "isins": [
+      "INF090I01262",
+      "INF090I01HU8",
+      "INF090I01247",
+      "INF090I01HV6",
+      "INF090I01254",
+      "INF090I01HT02"
+    ],
+    "amfi_codes": [
+      "101656",
+      "118542",
+      "101657",
+      "118543",
+      "101657",
+      "118542"
+    ],
     "riskometer": "High",
     "investment_objective": "The Scheme intends to generate long-term capital appreciation and income generation by investing in a dynamically managed portfolio of equity and debt mutual funds. The equity allocation [i.e. the allocation to the equity fund(s)] will be determined based on qualitative and quantitative parameters. There can be no assurance that the investment objective of the scheme will be realized.",
     "asset_allocation": "Under normal market circumstances, the investment range would be as follows: Instruments Units of domestic Mutual Fund Schemes as under: Normal Allocation 95% - 100%, A. Equity Schemes* - 20% - 85%. B. Debt Schemes** - 15% - 80%. Cash and Money Market Instruments - 0% - 5%. *Equity schemes of Franklin Templeton Mutual Fund including Franklin India Large Cap Fund, Franklin India Flexicap Fund, Franklin India Focused Equity Fund, Franklin India Large & Mid Cap Fund, Franklin India MidCap Fund, Franklin India Small Cap Fund, Franklin Build India Fund, Templeton India Value Fund, Franklin India Dividend Yield Fund, Franklin Asian Equity Fund and / or any other prospective equity scheme(s) of Franklin Templeton Mutual Fund. In case the allocation of FIDAAF reaches 20% of the corpus of any of aforementioned underlying equity scheme(s), then further investments would not be made in the said scheme. In case the Fund Manager decides to change the investment allocations between the underlying schemes, the redemptions from the underlying scheme(s) on account of such re-allocation of investments will be limited to 5% of the net assets of the underlying scheme(s) on a single day. ** Units of domestic debt schemes of any SEBI registered Mutual Fund(s) including Franklin India Overnight Fund, Franklin India Liquid Fund, Franklin India Money Market Fund, Franklin India Floating Rate Fund, Franklin India Corporate Debt Fund, Franklin India Banking & PSU Debt Fund, Franklin India Government Securities Fund, Kotak Bond Short Term Plan, SBI Short Term Debt Fund, Aditya Birla Sun Life Medium Term Plan, HDFC Ultra Short Term Fund, HDFC Low Duration Fund any other existing / prospective debt schemes of domestic Mutual fund(s) registered with SEBI. This is an indicative list of debt funds and the actual investments in debt funds in the portfolio could differ from this list.",
@@ -22,23 +38,7 @@
       "Regular": "2.11",
       "Direct": "1.21"
     },
-    "exit_load": "In respect of each purchase of Units - • NIL Exit load – for 10% of the units upto completion of 12 months. o The “First In First Out(FIFO)” logic will be applied while selecting the units for redemption o Waiver of Exit load is calculated for each inflow transactions separately on FIFO basis and not on the total units through multiple inflows o The load free units from purchases made subsequent to the initial purchase will be available only after redeeming all units from the initial purchase • All units redeemed/switched-out in excess of the 10% load free units will be subject to the below mentioned exit load. o 1.00% - if Units are redeemed/switched-out on or before 1 year from the date of allotment o Nil - if redeemed after 1 year from the date of allotment",
-    "amfi_codes": [
-      "101656",
-      "118542",
-      "101657",
-      "118543",
-      "101654",
-      "118541"
-    ],
-    "isins": [
-      "INF090I01262",
-      "INF090I01HU8",
-      "INF090I01247",
-      "INF090I01HV6",
-      "INF090I01254",
-      "INF090I01HT02"
-    ]
+    "exit_load": "In respect of each purchase of Units - • NIL Exit load – for 10% of the units upto completion of 12 months. o The “First In First Out(FIFO)” logic will be applied while selecting the units for redemption o Waiver of Exit load is calculated for each inflow transactions separately on FIFO basis and not on the total units through multiple inflows o The load free units from purchases made subsequent to the initial purchase will be available only after redeeming all units from the initial purchase • All units redeemed/switched-out in excess of the 10% load free units will be subject to the below mentioned exit load. o 1.00% - if Units are redeemed/switched-out on or before 1 year from the date of allotment o Nil - if redeemed after 1 year from the date of allotment"
   },
   "fund_options_inferred": [
     "Regular - Growth",
@@ -48,5 +48,5 @@
     "Regular - IDCW Reinv.",
     "Direct - IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T03:30:21.841095+00:00"
+  "extracted_at": "2026-04-19T02:39:41.684835+00:00"
 }

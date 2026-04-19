@@ -24,10 +24,10 @@
     "amfi_codes": [
       "153069",
       "153071",
-      null,
+      "null",
       "153068",
       "153070",
-      null
+      "null"
     ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the Scheme is to generate long term capital appreciation by investing in Equity & Equity related instruments through a diversified basket with an aim to minimize the portfolio volatility. However, there can be no assurance or guarantee that the investment objective of the Scheme will be achieved.",
@@ -51,5 +51,5 @@
     "ICICI Prudential Equity Minimum Varinace Fund - Direct Plan - IDCW",
     "ICICI Prudential Equity Minimum Varinace Fund - Direct Plan - IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T04:04:54.942259+00:00"
+  "extracted_at": "2026-04-19T03:03:27.450857+00:00"
 }

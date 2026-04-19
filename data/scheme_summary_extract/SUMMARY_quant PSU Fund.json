@@ -15,7 +15,7 @@
     ],
     "riskometer": "Very High",
     "investment_objective": "The objective of the scheme is to generate long term capital appreciation by investing predominantly in equity and equity related securities of Public Sector Undertakings (PSUs). There is no assurance that the investment objective of the Scheme will be achieved.",
-    "asset_allocation": "Equity and equity related instruments of PSUs (including units issued by REITs)  :- 80-100%\nEquity and equity related instruments other than PSUs (including units issued by REITs):- 0-20%                                                                                     \nDebt and money market instruments :- 0-20%                                                                                       \nForeign Equity and Equity related instruments and Overseas ETFs:- 0-20%                                                                                       \nUnits issued by issued by InvITs :- 0-10%",
+    "asset_allocation": "Equity and equity related instruments of PSUs (including units issued by REITs)  :- 80-100%\nEquity and equity related instruments other than PSUs (including units issued by REITs):- 0-20%                                                                                     \nDebt and money market instruments :- 0-20%                                                                                        \nForeign Equity and Equity related instruments and Overseas ETFs:- 0-20%                                                                                       \nUnits issued by issued by InvITs :- 0-10%",
     "benchmark": "NIFTY PSE TRI",
     "fund_managers": [
       "Sandeep Tandon",
@@ -56,5 +56,5 @@
     "IDCW Re-investment Option - Regular Plan",
     "IDCW Re-investment Option - Direct Plan"
   ],
-  "extracted_at": "2026-04-18T05:30:40.007158+00:00"
+  "extracted_at": "2026-04-19T03:58:52.062716+00:00"
 }

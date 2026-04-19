@@ -7,9 +7,33 @@
     "fund_type": "An open-ended debt scheme investing in overnight securities",
     "fund_options": [
       "Regular Plan - IDCW",
+      "Regular Plan - IDCW",
+      "Regular Plan - Growth",
+      "Regular Plan - IDCW",
       "Regular Plan - Growth",
       "Direct Plan - IDCW",
+      "Direct Plan - IDCW",
       "Direct Plan - Growth"
+    ],
+    "isins": [
+      "INF200K01LN6",
+      null,
+      null,
+      "INF200K01LP1",
+      "INF200K01LQ9",
+      "INF200K01TJ7",
+      "INF200K01TM1",
+      "INF200K01TK5"
+    ],
+    "amfi_codes": [
+      "114297",
+      "F103140",
+      "F101206",
+      "103140",
+      "101206",
+      "119831",
+      "119832",
+      "119833"
     ],
     "riskometer": "LOW",
     "investment_objective": "The objective of the Scheme is to provide the investors an opportunity to invest in overnight securities maturing on the next business day.",
@@ -20,25 +44,17 @@
       "Regular": "0.12",
       "Direct": "0.07"
     },
-    "exit_load": "NIL",
-    "amfi_codes": [
-      "114297",
-      "F101206",
-      "119831",
-      "119833"
-    ],
-    "isins": [
-      "INF200K01LN6",
-      "INF200K01LQ9",
-      "INF200K01TJ7",
-      "INF200K01TK5"
-    ]
+    "exit_load": "NIL"
   },
   "fund_options_inferred": [
     "Regular Plan - IDCW",
+    "Regular Plan - IDCW",
     "Regular Plan - Growth",
+    "Regular Plan - IDCW",
+    "Regular Plan - Growth",
+    "Direct Plan - IDCW",
     "Direct Plan - IDCW",
     "Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:43:10.553422+00:00"
+  "extracted_at": "2026-04-19T04:06:50.936518+00:00"
 }

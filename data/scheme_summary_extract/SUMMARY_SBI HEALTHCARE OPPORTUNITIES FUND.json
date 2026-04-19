@@ -11,6 +11,18 @@
       "Direct Plan - IDCW",
       "Direct Plan - Growth"
     ],
+    "isins": [
+      "INF200K01461",
+      "INF200K01446",
+      "INF200K01UO5",
+      "INF200K01UP2"
+    ],
+    "amfi_codes": [
+      "100644",
+      "102823",
+      "119782",
+      "119783"
+    ],
     "riskometer": "VERY HIGH",
     "investment_objective": "To provide the investors with the opportunity of long term capital appreciation by investing in a diversified portfolio of equity and equity related securities in Healthcare space.",
     "asset_allocation": {
@@ -25,19 +37,7 @@
     "annual_expense": {
       "Direct": "0.73"
     },
-    "exit_load": "For exit within 15 days from the date of allotment – 0.50%. For exit after 15 days from the date of allotment – Nil.",
-    "amfi_codes": [
-      "100644",
-      "102823",
-      "119782",
-      "119783"
-    ],
-    "isins": [
-      "INF200K01461",
-      "INF200K01446",
-      "INF200K01UO5",
-      "INF200K01UP2"
-    ]
+    "exit_load": "For exit within 15 days from the date of allotment – 0.50%. For exit after 15 days from the date of allotment – Nil."
   },
   "fund_options_inferred": [
     "Regular Plan - IDCW",
@@ -45,5 +45,5 @@
     "Direct Plan - IDCW",
     "Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:38:37.711534+00:00"
+  "extracted_at": "2026-04-19T04:03:59.091172+00:00"
 }

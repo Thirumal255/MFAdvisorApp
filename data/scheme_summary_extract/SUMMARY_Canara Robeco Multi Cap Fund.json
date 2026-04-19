@@ -22,7 +22,7 @@
       "Regular": "1.82",
       "Direct": "0.47"
     },
-    "exit_load": "1% - if redeemed/switched out within 365 days from the date of allotment. Nil - if redeemed/switched out after 365 days from the date of allotment",
+    "exit_load": "1% - if redeemed/switched out within 365 days from the date of allotment. Nil - if redeemed/switched out after 365 days from the date of allotment.",
     "amfi_codes": [
       "151824",
       "151822",
@@ -48,5 +48,5 @@
     "Regular - Growth",
     "Regular Plan - IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T03:07:28.104598+00:00"
+  "extracted_at": "2026-04-19T02:26:27.931142+00:00"
 }

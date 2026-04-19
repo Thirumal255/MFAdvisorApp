@@ -11,6 +11,18 @@
       "Aditya Birla Sun Life Income plus Arbitrage Active FOF - DIRECT - IDCW",
       "Aditya Birla Sun Life Income plus Arbitrage Active FOF - Direct Plan - Growth Option"
     ],
+    "isins": [
+      "INF084M01AI3",
+      "INF084M01AH5",
+      "INF084M01DQ0",
+      "INF084M01DP2"
+    ],
+    "amfi_codes": [
+      "131895",
+      "131896",
+      "131897",
+      "131898"
+    ],
     "riskometer": "Moderate",
     "investment_objective": "The primary objective of the Scheme is to generate returns from a portfolio of pure debt oriented funds and Aditya Birla Sun Life Arbitrage Fund accessed through the diverse investment styles of underlying scheme selected in accordance with the ABSLAMC process. The Scheme does not guarantee/indicate any returns. There is no assurance or guarantee that the investment objective of the Scheme will be achieved.",
     "asset_allocation": "Under normal circumstances, the asset allocation is as follows: Active Debt Oriented Mutual Funds & Aditya Birla Sun Life Arbitrage Fund - 95% -100% Units of Active Debt Oriented Mutual Fund Schemes - 50% -65% Units of Arbitrage Fund - 35% -50% Cash and Cash Equivalent (including CBLO) and Money Market Securities- 0% to 5%",
@@ -31,19 +43,7 @@
       "Regular": "0.62",
       "Direct": "0.27"
     },
-    "exit_load": "NIL",
-    "amfi_codes": [
-      "131895",
-      "131896",
-      "131897",
-      "131898"
-    ],
-    "isins": [
-      "INF084M01AI3",
-      "INF084M01AH5",
-      "INF084M01DQ0",
-      "INF084M01DP2"
-    ]
+    "exit_load": "NIL"
   },
   "fund_options_inferred": [
     "Aditya Birla Sun Life Income plus Arbitrage Active FOF - REGULAR - IDCW",
@@ -51,5 +51,5 @@
     "Aditya Birla Sun Life Income plus Arbitrage Active FOF - DIRECT - IDCW",
     "Aditya Birla Sun Life Income plus Arbitrage Active FOF - Direct Plan - Growth Option"
   ],
-  "extracted_at": "2026-04-18T02:12:52.653729+00:00"
+  "extracted_at": "2026-04-19T01:59:30.952588+00:00"
 }

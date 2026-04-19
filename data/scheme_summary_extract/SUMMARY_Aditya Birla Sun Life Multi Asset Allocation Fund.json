@@ -14,9 +14,9 @@
       "Direct IDCW Re-investment"
     ],
     "riskometer": "Very High",
-    "investment_objective": "The investment objective of the Scheme is to provide long term capital appreciation by investing across asset classes like Equity, Debt, Commodities, & units of REITs & InvITs. The Scheme does not guarantee/indicate any returns. There can be no assurance that the objective of the Scheme will be achieved",
+    "investment_objective": "The investment objective of the Scheme is to provide long term capital appreciation by \ninvesting across asset classes like Equity, Debt, Commodities, & units of REITs & InvITs. \nThe Scheme does not guarantee/indicate any returns. There can be no assurance that the \nobjective of the Scheme will be achieved",
     "asset_allocation": "Equity & Equity related instruments# - 65-80% - High\nDebt and Money Market Instruments ^- 10-25% - Low to Moderate\nCommodities* - 10-25% - Moderate to High\nUnits issued by InvITs - 0-10% - Moderate to High# (including equity ETFs) \n^ (including Debt ETFs)\n*Including Gold and Gold related instruments, Silver and Silver related instruments.",
-    "benchmark": "65% BSE 200 + 25% CRISIL Short Term Bond Index + 5% of Domestic prices of Gold + 5% of Domestic prices of Silver",
+    "benchmark": "65% BSE 200 + 25% CRISIL Short Term Bond Index + 5% of Domestic prices of Gold + \n5% of Domestic prices of Silver",
     "fund_managers": [
       "Mr. Dhaval Gala",
       "Mr. Bhupesh Bameta",
@@ -26,7 +26,7 @@
       "Regular": "1.88",
       "Direct": "0.21"
     },
-    "exit_load": "For redemption / switch out upto 30% of units within 1 year from the date of allotment - Nil. For redemption / switch out of more than 30% of units within 1 year from the date of allotment – 1.00% of applicable NAV. For redemption/switch out after 1 year from the date of allotment - Nil.",
+    "exit_load": "For redemption / switch out upto 30% of units within 1 year from the date of allotment - Nil. \nFor redemption / switch out of more than 30% of units within 1 year from the date of \nallotment – 1.00% of applicable NAV. \nFor redemption/switch out after 1 year from the date of allotment - Nil.",
     "amfi_codes": [
       "151309",
       "151310",
@@ -52,5 +52,5 @@
     "Direct IDCW Payout",
     "Direct IDCW Re-investment"
   ],
-  "extracted_at": "2026-04-18T02:14:26.532179+00:00"
+  "extracted_at": "2026-04-19T02:00:53.824326+00:00"
 }

@@ -68,7 +68,7 @@
     "riskometer": "Moderate",
     "investment_objective": "To generate reasonable returns by primarily investing in debt and money market securities that are issued by Banks, Public Sector Undertakings (PSUs), Public Financial Institutions (PFIs) and Municipal Bonds.  However, there can be no assurance that the investment objective of the scheme will be realised",
     "asset_allocation": "Debt & Money Market Instruments issued by Banks, Public Financial Institutions (PFIs), Public Sector Undertakings (PSUs) and Municipal Bonds - 80% to 100%, Debt (including government securities) and Money Market Instruments issued by entities other than Banks, PFIs and PSUs - 0% to 20%, Units of REITs and InvITs - 0% to 10%.",
-    "benchmark": "CRISIL Banking and PSU Debt A-II Index",
+    "benchmark": "CRISIL Banking and PSU Debt A-II Index, CRISIL Select AAA Roll Down Banking & PSU Debt Index",
     "fund_managers": "Mr. Jalpan Shah & Mr. Neeraj Jain",
     "annual_expense": {
       "Regular": "0.71",
@@ -96,5 +96,5 @@
     "Direct Annually IDCW Reinvestment",
     "Direct Annually IDCW Payout"
   ],
-  "extracted_at": "2026-04-18T05:59:07.680924+00:00"
+  "extracted_at": "2026-04-19T04:18:00.181651+00:00"
 }

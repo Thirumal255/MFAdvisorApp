@@ -27,13 +27,22 @@
       "LFID-109257",
       "LFIG-109256",
       "LFSD-109263",
-      "LFSG-109258",
-      "LFSW-109261",
+      "LFIM-109260",
       "LFRD-111971",
       "LFDG-119369",
+      "LFDD-119368",
+      "LFRB-126384",
+      "LFZD-141887",
+      "LFZR-141888",
+      "LFRZ-141890",
+      "LFRG-109254",
+      "LFSW-109261",
+      "LFSG-109258",
+      "LFSM-109259",
+      "LFIW-109262",
       "LFDW-119370",
       "LFDB-126383",
-      "LFRB-126384"
+      "LFDZ-141889"
     ],
     "isins": [
       "INF761K01CL0",
@@ -52,5 +61,5 @@
     "Regular Plan - Growth Growth",
     "Regular Plan - Weekly IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T02:54:51.076790+00:00"
+  "extracted_at": "2026-04-19T02:18:45.696442+00:00"
 }

@@ -11,18 +11,6 @@
       "Direct Plan - IDCW",
       "Direct Plan - Growth"
     ],
-    "isins": [
-      "INF200KB1746",
-      "INF200KB1720",
-      "INF200KB1779",
-      "INF200KB1753"
-    ],
-    "amfi_codes": [
-      "153499",
-      "153500",
-      "153501",
-      "153498"
-    ],
     "riskometer": "MODERATE",
     "investment_objective": "The investment objective of the scheme shall be to generate regular income and capital appreciation by investing in a mix of units of actively managed debt-oriented schemes and actively managed Arbitrage mutual fund schemes. However, there is no assurance or guarantee that the investment objective of the Scheme would be achieved.",
     "asset_allocation": {
@@ -35,7 +23,19 @@
     "annual_expense": {
       "Regular": "0.25"
     },
-    "exit_load": "Nil"
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "153499",
+      "153500",
+      "153501",
+      "153498"
+    ],
+    "isins": [
+      "INF200KB1746",
+      "INF200KB1720",
+      "INF200KB1779",
+      "INF200KB1753"
+    ]
   },
   "fund_options_inferred": [
     "Regular Plan - IDCW",
@@ -43,5 +43,5 @@
     "Direct Plan - IDCW",
     "Direct Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:38:44.037340+00:00"
+  "extracted_at": "2026-04-19T04:04:03.584336+00:00"
 }

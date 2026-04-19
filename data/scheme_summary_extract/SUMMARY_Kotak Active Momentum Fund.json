@@ -41,7 +41,7 @@
       "Regular": "2.13",
       "Direct": "0.78"
     },
-    "exit_load": "• For redemption / switch out within 90 days from the date of allotment:0.5% • If units are redeemed or switched out on or after 90 days from the date of allotment -Nil"
+    "exit_load": "For redemption / switch out within 90 days from the date of allotment:0.5% • If units are redeemed or switched out on or after 90 days from the date of allotment -Nil"
   },
   "fund_options_inferred": [
     "Direct Plan-Growth",
@@ -51,5 +51,5 @@
     "Regular Plan-IDCW Payout",
     "Regular Plan-IDCW Re-investment"
   ],
-  "extracted_at": "2026-04-18T04:31:41.635986+00:00"
+  "extracted_at": "2026-04-19T03:20:05.709774+00:00"
 }

@@ -11,22 +11,6 @@
       "Regular Monthly IDCW",
       "Regular Growth"
     ],
-    "riskometer": "Very High",
-    "investment_objective": "The Scheme seeks to generate long term capital appreciation by investing in a diversified portfolio of equity and equity related instruments, debt and money market instruments, Exchange Traded Commodity Derivatives / Units of Gold ETFs, Silver ETF & units of REITs/InvITs.",
-    "asset_allocation": "Equity and Equity Related Instruments - (65%-80%), Debt and Money Market Instruments - (10%-30%), Units of Gold ETFs & Silver ETF & Exchange Traded Commodities Derivative (10%-30%), Units issued by REITs & InvITs - (0%-10%)",
-    "benchmark": "Nifty 500 TRI Index (65%) + Nifty Composite Debt Index (20%) + Domestic Price of Physical Gold (7.5%) + Domestic Price of Physical Silver (7.5%)",
-    "fund_managers": "Mr. Ashish Naik, Mr. Devang Shah, Mr. Hardik Shah, Mr. Aditya Pagaria, Mr. Pratik Tibrewal, Ms. Krishnaa N (For Foreign Securities)",
-    "annual_expense": {
-      "Regular": "1.91",
-      "Direct": "0.86"
-    },
-    "exit_load": "If redeemed/switch out within 12 months from the date of allotment: - For 10% of investment : Nil FIFO basis For remaining investment : 1% w.e.f., 15/06/2015.1% if redeemed/switched out within 1 yea",
-    "amfi_codes": [
-      "120524",
-      "120523",
-      "113064",
-      "113065"
-    ],
     "isins": [
       "INF846K01EV4",
       "INF846K01ET8",
@@ -34,7 +18,23 @@
       "INF846K01776",
       "INF846K01EU6",
       "INF846K01784"
-    ]
+    ],
+    "amfi_codes": [
+      "120524",
+      "120523",
+      "113064",
+      "113065"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "The Scheme seeks to generate long term capital appreciation by investing in a diversiﬁed portfolio of equity and equity relatedinstruments, debt and money market instruments, Exchange Traded Commodity Derivatives / Units of Gold ETFs, Silver ETF &units of REITs/InvITs.",
+    "asset_allocation": "Equity and Equity Related Instruments - (65%-80%), Debt and Money Market Instruments - (10%-30%), Units of Gold ETFs &Silver ETF & Exchange Traded Commodities Derivative (10%-30%), Units issued by REITs & InvITs - (0%-10%)",
+    "benchmark": "Nifty 500 TRI Index (65%) + Nifty Composite Debt Index (20%) + Domestic Price of Physical Gold (7.5%) + Domestic Price ofPhysical Silver (7.5%)",
+    "fund_managers": "Mr. Ashish Naik, Mr. Devang Shah, Mr. Hardik Shah, Mr. Aditya Pagaria, Mr. Pratik Tibrewal, Ms. Krishnaa N (For ForeignSecurities)",
+    "annual_expense": {
+      "Regular": "1.91",
+      "Direct": "0.86"
+    },
+    "exit_load": "If redeemed/switch out within 12 months from the date of allotment: - For 10% of investment : Nil FIFO basis For remaininginvestment : 1% w.e.f., 15/06/2015.1% if redeemed/switched out within 1 yea"
   },
   "fund_options_inferred": [
     "Direct Monthly IDCW",
@@ -42,5 +42,5 @@
     "Regular Monthly IDCW",
     "Regular Growth"
   ],
-  "extracted_at": "2026-04-18T02:22:32.703359+00:00"
+  "extracted_at": "2026-04-19T02:08:14.859128+00:00"
 }

@@ -13,22 +13,6 @@
       "REGULAR PLAN IDCW OPTION",
       "REGULAR PLAN IDCW Reinvestment"
     ],
-    "isins": [
-      "INF251K01TV5",
-      "INF251K01TW3",
-      "INF251K01TX1",
-      "INF251K01TS1",
-      "INF251K01TT9",
-      "INF251K01TU7"
-    ],
-    "amfi_codes": [
-      "152810",
-      "152809",
-      "152809",
-      "152807",
-      "152808",
-      "152808"
-    ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective is to provide medium to long term appreciation by predominantly investing in a well-diversiﬁedportfolio of equity and equity related instruments of dividend yielding companies. There is no assurance that the investmentobjective of the Scheme will be achieved.",
     "asset_allocation": "Equity and Equity related instruments of Dividend Yielding companies. 65% - 100% Equity and Equity related instruments ofany other company other than above. 0% - 35% Units issued by REITs & INVITs. 0% - 10% Debt & Money Market instrumentsand Fixed Income Derivatives 0% - 35% Units of Mutual Funds (Domestic Schemes). 0% - 10%",
@@ -38,7 +22,23 @@
       "Regular": "2.34",
       "Direct": "1.13"
     },
-    "exit_load": "• If units of the Scheme are redeemed or switched out up to 10% of the units (the limit) within 1 year from the date ofallotment - Nil. • If units of the Scheme are redeemed or switched out in excess of the limit within 1 year from the date ofallotment - 1% of the applicable NAV. • If units of Scheme are redeemed or switched out after 1 year from the date ofallotment - Nil."
+    "exit_load": "• If units of the Scheme are redeemed or switched out up to 10% of the units (the limit) within 1 year from the date ofallotment - Nil. • If units of the Scheme are redeemed or switched out in excess of the limit within 1 year from the date ofallotment - 1% of the applicable NAV. • If units of Scheme are redeemed or switched out after 1 year from the date ofallotment - Nil.",
+    "amfi_codes": [
+      "152810",
+      "152809",
+      "152809",
+      "152807",
+      "152808",
+      "152808"
+    ],
+    "isins": [
+      "INF251K01TV5",
+      "INF251K01TW3",
+      "INF251K01TX1",
+      "INF251K01TS1",
+      "INF251K01TT9",
+      "INF251K01TU7"
+    ]
   },
   "fund_options_inferred": [
     "DIRECT PLAN GROWTH",
@@ -48,5 +48,5 @@
     "REGULAR PLAN IDCW OPTION",
     "REGULAR PLAN IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T02:58:06.431309+00:00"
+  "extracted_at": "2026-04-19T02:20:50.058211+00:00"
 }

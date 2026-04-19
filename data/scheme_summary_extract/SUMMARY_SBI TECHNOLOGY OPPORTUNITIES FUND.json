@@ -23,6 +23,7 @@
     "benchmark": "S&P BSE Teck",
     "fund_managers": "Mr. Vivek Gedda",
     "annual_expense": {
+      "Regular": "0.72",
       "Direct": "0.72"
     },
     "exit_load": "For exit within 15 days from the date of allotment – 0.50%. For exit after 15 days from the date of allotment – Nil.",
@@ -45,5 +46,5 @@
     "Direct Plan - Growth",
     "Regular Plan - Growth"
   ],
-  "extracted_at": "2026-04-18T05:44:12.815378+00:00"
+  "extracted_at": "2026-04-19T04:07:29.326260+00:00"
 }

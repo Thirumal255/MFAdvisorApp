@@ -4,7 +4,7 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "Bandhan Ultra Short Duration Fund",
-    "fund_type": "An open-ended ultra-short term debt scheme investing in instruments such that the Macaulay duration of the portfolio is between 3 to 6 months.",
+    "fund_type": "An open-ended ultra-short term debt scheme investing in instruments such that the Macaulay duration of the portfolio isbetween 3 to 6 months.",
     "fund_options": [
       "REGULAR PLAN - Weekly IDCW Reinvestment",
       "DIRECT PLAN - Monthly IDCW Payout",
@@ -60,8 +60,8 @@
       "144174"
     ],
     "riskometer": "Low to Moderate",
-    "investment_objective": "The Scheme seeks to oﬀer an investment avenue for short term savings by looking to generate stable returns with a low risk strategy from a portfolio that is invested in debt and money market securities such that the Macaulay duration of the portfolio is between 3 to 6 months.",
-    "asset_allocation": "Debt Securities (including G-Sec and securitised debt) and Money Market Instruments such that the Macaulay duration of the portfolio is between 3 to 6 months- 0% - 100%",
+    "investment_objective": "The Scheme seeks to oﬀer an investment avenue for short term savings by looking to generate stable returns with a low riskstrategy from a portfolio that is invested in debt and money market securities such that the Macaulay duration of the portfolio isbetween 3 to 6 months.",
+    "asset_allocation": "Debt Securities (including G-Sec and securitised debt) and Money Market Instruments such that the Macaulay duration of theportfolio is between 3 to 6 months- 0% - 100%",
     "benchmark": "NIFTY Ultra Short Duration Debt Index A-I",
     "fund_managers": "FM 1 - Mr. Harshal Joshi",
     "annual_expense": {
@@ -88,5 +88,5 @@
     "DIRECT PLAN - IDCW Reinvestment",
     "DIRECT PLAN - Daily IDCW Reinvestment"
   ],
-  "extracted_at": "2026-04-18T02:52:52.458226+00:00"
+  "extracted_at": "2026-04-19T02:17:30.239661+00:00"
 }

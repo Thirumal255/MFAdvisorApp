@@ -11,18 +11,6 @@
       "Regular Plan - IDCW",
       "Direct Plan - IDCW"
     ],
-    "isins": [
-      "INF200KA16T4",
-      "INF200KA13T1",
-      "INF200KA14T9",
-      "INF200KA17T2"
-    ],
-    "amfi_codes": [
-      "151214",
-      "151212",
-      "151213",
-      "151215"
-    ],
     "riskometer": "MODERATE",
     "investment_objective": "The investment objective of the scheme is to generate returns by investing in debt and money market instruments such that the Macaulay duration of the scheme portfolio is greater than 7 years. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
     "asset_allocation": "Debt, and money market instruments Upto 100 Low to Moderate",
@@ -31,7 +19,19 @@
     "annual_expense": {
       "Regular": "0.63"
     },
-    "exit_load": "Nil"
+    "exit_load": "Nil",
+    "amfi_codes": [
+      "151214",
+      "151212",
+      "151213",
+      "151215"
+    ],
+    "isins": [
+      "INF200KA16T4",
+      "INF200KA13T1",
+      "INF200KA14T9",
+      "INF200KA17T2"
+    ]
   },
   "fund_options_inferred": [
     "Direct Plan - Growth",
@@ -39,5 +39,5 @@
     "Regular Plan - IDCW",
     "Direct Plan - IDCW"
   ],
-  "extracted_at": "2026-04-18T05:39:37.019755+00:00"
+  "extracted_at": "2026-04-19T04:04:35.567633+00:00"
 }

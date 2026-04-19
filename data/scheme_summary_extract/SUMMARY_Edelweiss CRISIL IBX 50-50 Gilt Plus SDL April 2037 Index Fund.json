@@ -40,13 +40,17 @@
     "asset_allocation": "1. # Indian Government Bonds and SDLs representing CRISIL IBX 50:50 Gilt Plus SDL Index – April 2037 - 95-100%\n2. Money Market Instruments* - 0-5%",
     "benchmark": "CRISIL IBX 50:50 Gilt Plus SDL Index – April 2037",
     "fund_managers": [
-      "Mr. Dhawal Dalal"
+      {
+        "name": "Mr. Dhawal Dalal",
+        "type": "Co-Manage",
+        "from_date": "11/Oct/2022"
+      }
     ],
     "annual_expense": {
       "Regular": "0.36",
       "Direct": "0.17"
     },
-    "exit_load": "0.10 upto 30 days Nil after 30 days"
+    "exit_load": "0.10 upto 30 days"
   },
   "fund_options_inferred": [
     "Direct Plan Growth - Growth",
@@ -58,5 +62,5 @@
     "Regular Plan IDCW - Reinvestment",
     "Regular Plan IDCW - Transfer"
   ],
-  "extracted_at": "2026-04-18T03:20:36.809847+00:00"
+  "extracted_at": "2026-04-19T02:34:22.455370+00:00"
 }

@@ -7,49 +7,38 @@
     "fund_type": "An open ended fund for investment for children having a lock-in for at least 5 years or till the child attains age of majority (whichever is earlier).",
     "fund_options": [
       "Regular - IDCW",
-      "Direct Growth",
+      "DIRECT GROWTH",
       "Direct - IDCW",
       "REGULAR GROWTH"
-    ],
-    "riskometer": "Very High",
-    "investment_objective": "he investment objective of the scheme is to seek generation of capital appreciation by creating a portfolio that is predominantly investing in equity & equity related securities and debt and money market instruments. The Scheme does not guarantee/indicate any returns. There can be no assurance that the schemes’ objectives will be achieved.",
-    "asset_allocation": "Equities and Equity related instruments - Medium to High -  65%-100%\nFixed Income Securities (including Money Market Securities and securitized debt upto a maximum of 35%) - Low to Medium - 0%–35%\nUnits issued by InvITs - Medium to High - 0%-10%",
-    "benchmark": "Nifty 500 TRI",
-    "fund_managers": [
-      {
-        "name": "Mr. Chanchal Khandelwal",
-        "type": "Comanage",
-        "from_date": "October 31, 2024"
-      },
-      {
-        "name": "Mr. Harshil Suvarnkar",
-        "type": "Comanage",
-        "from_date": "March 22, 2021"
-      }
-    ],
-    "annual_expense": {
-      "Regular": "2.23",
-      "Direct": "0.76"
-    },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "146405",
-      "146407",
-      "146408",
-      "146409"
     ],
     "isins": [
       "INF209KB1E92",
       "INF209KB1E84",
       "INF209KB1F18",
       "INF209KB1E76"
-    ]
+    ],
+    "amfi_codes": [
+      "146405",
+      "146407",
+      "146408",
+      "146409"
+    ],
+    "riskometer": "Very High",
+    "investment_objective": "he investment objective of the scheme is to seek generation of capital appreciation by creating a portfolio that is predominantly investing in equity & equity related securities and debt and money market instruments. The Scheme does not guarantee/indicate any returns. There can be no assurance that the schemes’ objectives will be achieved.",
+    "asset_allocation": "Equities and Equity related instruments - Medium to High -  65%-100%\nFixed Income Securities (including Money Market Securities and securitized debt upto a maximum of 35%) - Low to Medium - 0%–35%\nUnits issued by InvITs - Medium to High - 0%-10%",
+    "benchmark": "Nifty 500 TRI",
+    "fund_managers": "Mr. Chanchal Khandelwal (Comanage), Mr. Harshil Suvarnkar (Comanage)",
+    "annual_expense": {
+      "Regular": "2.23",
+      "Direct": "0.76"
+    },
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "Regular - IDCW",
-    "Direct Growth",
+    "DIRECT GROWTH",
     "Direct - IDCW",
     "REGULAR GROWTH"
   ],
-  "extracted_at": "2026-04-18T02:06:41.870736+00:00"
+  "extracted_at": "2026-04-19T01:55:16.680175+00:00"
 }

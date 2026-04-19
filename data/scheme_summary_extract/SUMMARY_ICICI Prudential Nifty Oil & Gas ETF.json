@@ -8,14 +8,14 @@
     "fund_options": [
       "Growth"
     ],
-    "riskometer": "Very High\nAs on November 30, 2024",
+    "riskometer": "Very High As on November 30, 2024",
     "investment_objective": "The investment objective of the Scheme is to provide returns before expenses that correspond to the total return of the underlying index subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
     "asset_allocation": "• Equity and Equity related securities of companies constituting the underlying index (Nifty Oil & Gas Index) = 95% - 100% \n• Money market instruments including TREPs*# = 0% - 5% \n*Or similar instruments as may be permitted by SEBI/RBI from time to time, subject to requisite approvals from SEBI/RBI, as applicable.\n# Excluding subscription money in transit before deployment/payout",
     "benchmark": "Nifty Oil & Gas TRI",
     "fund_managers": [
+      "Ashwini Bharucha",
       "Venus Ahuja",
-      "Nishit Patel",
-      "Ashwini Bharucha"
+      "Nishit Patel"
     ],
     "annual_expense": {
       "Direct": "0.40"
@@ -31,5 +31,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T04:13:29.250903+00:00"
+  "extracted_at": "2026-04-19T03:08:50.374176+00:00"
 }

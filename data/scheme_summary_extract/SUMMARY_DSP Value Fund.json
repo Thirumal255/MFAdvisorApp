@@ -6,12 +6,12 @@
     "fund_name": "DSP Value Fund",
     "fund_type": "An open ended equity scheme following a value investment strategy",
     "fund_options": [
-      "Direct Growth",
-      "Direct IDCW",
-      "Direct IDCW Reinvest",
-      "Regular Growth",
-      "Regular IDCW",
-      "Regular IDCW Reinvest"
+      "Direct - Growth",
+      "Direct - IDCW",
+      "Direct - IDCW - Reinvest",
+      "Regular - Growth",
+      "Regular - IDCW",
+      "Regular - IDCW - Reinvest"
     ],
     "riskometer": "Very High",
     "investment_objective": "The primary investment objective of the scheme is to seek to generate consistent returns by investing in equity and equityrelated or ﬁxed income securities which are currently undervalued. However, there is no assurance that the investment objectiveof the scheme will be achieved.",
@@ -41,12 +41,12 @@
     ]
   },
   "fund_options_inferred": [
-    "Direct Growth",
-    "Direct IDCW",
-    "Direct IDCW Reinvest",
-    "Regular Growth",
-    "Regular IDCW",
-    "Regular IDCW Reinvest"
+    "Direct - Growth",
+    "Direct - IDCW",
+    "Direct - IDCW - Reinvest",
+    "Regular - Growth",
+    "Regular - IDCW",
+    "Regular - IDCW - Reinvest"
   ],
-  "extracted_at": "2026-04-18T03:18:17.094003+00:00"
+  "extracted_at": "2026-04-19T02:33:09.177320+00:00"
 }

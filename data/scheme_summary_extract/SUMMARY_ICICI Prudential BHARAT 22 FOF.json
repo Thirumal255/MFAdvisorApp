@@ -18,8 +18,8 @@
       "143904"
     ],
     "riskometer": "Very High\nAs on November 30, 2024",
-    "investment_objective": "ICICI Prudential BHARAT 22 FOF (the Scheme) is a fund of funds scheme with the primary objective to generate returns by investing in units of BHARAT 22 ETF. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
-    "asset_allocation": "• Units of BHARAT 22 ETF = 95% - 100%\n• Units of Liquid schemes, Money Market Instruments (with maturity not exceeding 91 days), including TREPS, cash & cash equivalents = 0% - 5%",
+    "investment_objective": "ICICI Prudential BHARAT 22 FOF (the Scheme) is a fund of funds scheme with the \nprimary objective to generate returns by investing in units of BHARAT 22 ETF.\nHowever, there can be no assurance or guarantee that the investment objective of the \nScheme would be achieved.",
+    "asset_allocation": "• Units of BHARAT 22 ETF = 95% - 100%\n• Units of Liquid schemes, Money Market Instruments (with maturity not exceeding 91 \ndays), including TREPS, cash & cash equivalents = 0% - 5%",
     "benchmark": "BSE Bharat 22 TRI",
     "fund_managers": [
       "Ajaykumar Solanki",
@@ -35,5 +35,5 @@
     "ICICI Prudential BHARAT 22 FOF - Direct Plan - Growth",
     "ICICI Prudential BHARAT 22 FOF - Growth"
   ],
-  "extracted_at": "2026-04-18T04:01:11.097365+00:00"
+  "extracted_at": "2026-04-19T03:00:54.301872+00:00"
 }

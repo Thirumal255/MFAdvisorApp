@@ -10,7 +10,7 @@
     ],
     "riskometer": "Very High",
     "investment_objective": "The investment objective of the scheme is to generate returns that are in line with the performance of physical silver in domestic prices, subject to tracking error. However, there is no assurance that the investment objective of the Scheme will be realized and the Scheme does not assure or guarantee any returns.",
-    "asset_allocation": "Silver & Silver related instruments - 95% to 100%\nDebt and Money Market Instruments - 0% to 5%",
+    "asset_allocation": "Silver & Silver related instruments - 95% to 100%, Debt and Money Market Instruments - 0% to 5%",
     "benchmark": "Price of Silver (based on LBMA Silver daily spot fixing price)",
     "fund_managers": [
       "Mr. Amit Vora"
@@ -29,5 +29,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T03:27:55.623543+00:00"
+  "extracted_at": "2026-04-19T02:38:22.747454+00:00"
 }

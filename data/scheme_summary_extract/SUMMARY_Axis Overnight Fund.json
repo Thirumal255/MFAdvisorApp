@@ -15,26 +15,6 @@
       "RegularWeekly IDCW",
       "Regular Monthly IDCW"
     ],
-    "riskometer": "Low",
-    "investment_objective": "The investment objective of the Scheme is to provide reasonable returns commensurate with very low interest rate risk andproviding a high level of liquidity, through investments made primarily in overnight securities having maturity/residualmaturity of 1 business day. However, there can be no assurance or guarantee that the investment objective of the schemewould be achieved.",
-    "asset_allocation": "Overnight Securities - (0%-100%)",
-    "benchmark": "Nifty 1D Rate Index",
-    "fund_managers": "Mr. Sachin Jain, Hardik Satra",
-    "annual_expense": {
-      "Regular": "0.11",
-      "Direct": "0.07"
-    },
-    "exit_load": "Nil",
-    "amfi_codes": [
-      "146679",
-      "146675",
-      "146677",
-      "146676",
-      "146682",
-      "146678",
-      "146681",
-      "146680"
-    ],
     "isins": [
       "INF846K01O49",
       "INF846K01O15",
@@ -48,7 +28,27 @@
       "INF846K01O07",
       "INF846K01N57",
       "INF846K01O56"
-    ]
+    ],
+    "amfi_codes": [
+      "146679",
+      "146675",
+      "146677",
+      "146676",
+      "146682",
+      "146678",
+      "146681",
+      "146680"
+    ],
+    "riskometer": "Low",
+    "investment_objective": "The investment objective of the Scheme is to provide reasonable returns commensurate with very low interest rate risk andproviding a high level of liquidity, through investments made primarily in overnight securities having maturity/residualmaturity of 1 business day. However, there can be no assurance or guarantee that the investment objective of the schemewould be achieved.",
+    "asset_allocation": "Overnight Securities - (0%-100%)",
+    "benchmark": "Nifty 1D Rate Index",
+    "fund_managers": "Mr. Sachin Jain - Comanage/Fixed Income, Hardik Satra - Comanage/Fixed Income",
+    "annual_expense": {
+      "Regular": "0.11",
+      "Direct": "0.07"
+    },
+    "exit_load": "Nil"
   },
   "fund_options_inferred": [
     "Direct Growth",
@@ -60,5 +60,5 @@
     "RegularWeekly IDCW",
     "Regular Monthly IDCW"
   ],
-  "extracted_at": "2026-04-18T02:23:57.457891+00:00"
+  "extracted_at": "2026-04-19T02:09:40.200221+00:00"
 }

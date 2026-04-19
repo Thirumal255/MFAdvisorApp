@@ -13,6 +13,22 @@
       "Regular Plan IDCW Re-Investment Option",
       "Regular Plan Growth Option"
     ],
+    "isins": [
+      "INF082J01044",
+      "INF082J01051",
+      "INF082J01036",
+      "INF082J01259",
+      "INF082J01267",
+      "INF082J01242"
+    ],
+    "amfi_codes": [
+      null,
+      null,
+      "103490",
+      null,
+      null,
+      "141068"
+    ],
     "riskometer": "Very High Risk",
     "investment_objective": "The investment objective of the Scheme is to achieve long-term capital appreciation by investing primarily in shares ofcompanies that will typically be included in the BSE 200 Index and are in a position to beneﬁt from the anticipated growth anddevelopment of the Indian economy and its markets. There is no assurance that the investment objective of the Scheme willbe achieved.",
     "asset_allocation": "Equity & Equity Related Instruments -65 to 100%, Debt & Money Market Instruments -0 to 35%.",
@@ -22,23 +38,7 @@
       "Regular": "2.13",
       "Direct": "1.10"
     },
-    "exit_load": "NIL - If 10% of units redeemed or switched out during exit load period i.e. 730 days from the allotment, For Remaining 90% : i)2% - If redeemed or switched out on or before 365 days from the date of allotment ii) 1% - If redeemed or switched out on orafter 365 days but before 730 days from the date of allotment iii) NIL - If units redeemed or switched out after 730 days fromthe date of allotment",
-    "amfi_codes": [
-      "103491",
-      "103491",
-      "103490",
-      "141069",
-      "141069",
-      "141068"
-    ],
-    "isins": [
-      "INF082J01044",
-      "INF082J01051",
-      "INF082J01036",
-      "INF082J01259",
-      "INF082J01267",
-      "INF082J01242"
-    ]
+    "exit_load": "NIL - If 10% of units redeemed or switched out during exit load period i.e. 730 days from the allotment, For Remaining 90% : i)2% - If redeemed or switched out on or before 365 days from the date of allotment ii) 1% - If redeemed or switched out on orafter 365 days but before 730 days from the date of allotment iii) NIL - If units redeemed or switched out after 730 days fromthe date of allotment"
   },
   "fund_options_inferred": [
     "Direct Plan IDCW Payout Option",
@@ -48,5 +48,5 @@
     "Regular Plan IDCW Re-Investment Option",
     "Regular Plan Growth Option"
   ],
-  "extracted_at": "2026-04-18T05:32:44.814712+00:00"
+  "extracted_at": "2026-04-19T04:00:14.263007+00:00"
 }

@@ -14,7 +14,6 @@
     "benchmark": "Nifty 50 TRI",
     "fund_managers": "Mr. Ilesh Savla",
     "annual_expense": {
-      "Regular": "0.07",
       "Direct": "0.00"
     },
     "exit_load": "Entry load – not applicable Exit load – Nil There will be no exit load for units sold through the secondary market on the stockexchange. Investors shall note that the brokerage on sales of the units of the scheme on the stock exchanges shall be borne bythe investors. Large Investors can redeem units directly with the fund at Applicable NAV based prices if the redemptionamount is greater than Rs. 25 cr. Currently there is no exit load applicable for the said transactions. However, the Trusteesreserve right to introduce exit load at later date.",
@@ -28,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T02:26:39.110382+00:00"
+  "extracted_at": "2026-04-19T02:12:07.449146+00:00"
 }

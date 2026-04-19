@@ -4,13 +4,13 @@
   "source": "summary_pdf",
   "data": {
     "fund_name": "Zerodha Nifty 8-13 Yr G-Sec ETF",
-    "fund_type": "An open-ended scheme replicating/tracking the Nifty 8-13 yr G-Sec Index. A Relatively High Interest Rate Risk andRelatively Low Credit Risk.",
+    "fund_type": "An open-ended scheme replicating/tracking the Nifty 8-13 yr G-Sec Index.",
     "fund_options": [
       "Growth"
     ],
     "riskometer": "Moderate",
-    "investment_objective": "The primary goal is to provide returns that, before expenses, align with the total returns of the securities represented bythe Nifty 8-13 Yr G-Sec Index, subject to tracking error. There is no assurance or guarantee that the investment objective ofthe scheme would be achieved.",
-    "asset_allocation": "Securities covered by Nifty 8-13 Yr G-Sec Index : 95% to 100% Debt and Money market instruments*,cash and cashequivalents : 0% to 5%",
+    "investment_objective": "The primary goal is to provide returns that, before expenses, align with the total returns of the securities represented by the Nifty 8-13 Yr G-Sec Index, subject to tracking error. There is no assurance or guarantee that the investment objective of the scheme would be achieved.",
+    "asset_allocation": "Securities covered by Nifty 8-13 Yr G-Sec Index : 95% to 100% Debt and Money market instruments*, cash and cash equivalents : 0% to 5%",
     "benchmark": "Nifty 8-13 Yr G-Sec Index",
     "fund_managers": "Kedarnath Mirajkar",
     "annual_expense": {
@@ -27,5 +27,5 @@
   "fund_options_inferred": [
     "Growth"
   ],
-  "extracted_at": "2026-04-18T06:15:38.385245+00:00"
+  "extracted_at": "2026-04-19T04:31:19.551750+00:00"
 }
